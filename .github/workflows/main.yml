@@ -3,6 +3,12 @@ name: Update NRD list
 on:
   schedule:
     - cron: '0 0,12 * * *' # At 00:00 and 12:00 (midnight and noon) every day
+  workflow_dispatch:  # Manual triggering
+    inputs:
+      run-manual:
+        description: 'Run the script manually'
+        required: false
+        default: 'yes'
 
 jobs:
   build:
