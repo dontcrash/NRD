@@ -33,7 +33,7 @@ jobs:
           python update.py
           
       - name: Commit list
-      - run: |
+        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add nrd.txt
