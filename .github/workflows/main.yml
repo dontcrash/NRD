@@ -32,10 +32,15 @@ jobs:
         run: |
           python update.py
           
-      - name: Push to repo
+      - name: Commit list
       - run: |
           git config user.name github-actions
           git config user.email action@github.com
           git add nrd.txt
-          git commit -m "GitHub Actions"
-          git push
+          git commit -m "GitHub Actions" --allow-empty
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main 
