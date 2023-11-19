@@ -30,3 +30,12 @@ jobs:
       - name: Execute Python script
         run: |
           python update.py
+          
+      - name: Save changes and push
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+          git add nrd.txt
+          git commit -m "Update nrd.txt"
+          git push origin main
