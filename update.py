@@ -20,19 +20,13 @@ def update_master_list():
     # Read the contents of the master file
     try:
         with open(master_file, 'r') as file:
-            master_domains = file.readlines()
+            master_domains = [line.strip() for line in file.readlines()]
     except FileNotFoundError:
         master_domains = []
 
-    # Remove duplicates from new domains and combine them with the master domains
-    combined_domains = master_domains.copy()
-    for domain in new_domains:
-        if domain not in combined_domains:
-            combined_domains.append(domain)
-
-    # Filter and sort the unique domains starting with '||'
+    # Combine new and master domains, remove duplicates, and sort them alphabetically
+    combined_domains = sorted(set(new_domains + master_domains), key=lambda x: (x.startswith("||"), x))
     combined_domains = [line.strip() for line in combined_domains if line.startswith("||")]
-    combined_domains.sort()
 
     # Save the sorted unique domains to the master file
     with open(master_file, 'w') as file:
