@@ -32,12 +32,10 @@ jobs:
         run: |
           python update.py
           
-      - name: Save changes and push
-      - uses: actions/checkout@v4
+      - name: Push to repo
       - run: |
-          date > generated.txt
           git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "generated"
+          git config user.email action@github.com
+          git add nrd.txt
+          git commit -m "GitHub Actions"
           git push
