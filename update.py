@@ -24,8 +24,13 @@ def update_master_list():
     except FileNotFoundError:
         master_domains = []
 
-    # Combine new and master domains, remove duplicates, and sort them alphabetically
-    combined_domains = list(set(new_domains + master_domains))
+    # Remove duplicates from new domains and combine them with the master domains
+    combined_domains = master_domains.copy()
+    for domain in new_domains:
+        if domain not in combined_domains:
+            combined_domains.append(domain)
+
+    # Filter and sort the unique domains starting with '||'
     combined_domains = [line.strip() for line in combined_domains if line.startswith("||")]
     combined_domains.sort()
 
