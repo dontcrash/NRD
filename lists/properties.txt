@@ -13,7 +13,6 @@
 ||beck.properties^
 ||bg.properties^
 ||bitbucket.properties^
-||bitmap.properties^
 ||bluecasa.properties^
 ||bluechaconia.properties^
 ||bluejay.properties^
@@ -35,6 +34,7 @@
 ||dardur.properties^
 ||database.properties^
 ||dicenzohomes.properties^
+||dubaiproperty.properties^
 ||dubairealestate.properties^
 ||dvc.properties^
 ||easyshed.properties^
@@ -52,6 +52,7 @@
 ||gajewski.properties^
 ||getfervent.properties^
 ||ghosh.properties^
+||godubai.properties^
 ||goldenlandgoutos.properties^
 ||golfcrazy.properties^
 ||googler.properties^
@@ -75,7 +76,6 @@
 ||internet.properties^
 ||island.properties^
 ||jio.properties^
-||kasyno.properties^
 ||killer.properties^
 ||kingsway.properties^
 ||kosher.properties^
@@ -91,6 +91,7 @@
 ||luxuryhomes.properties^
 ||make.properties^
 ||manosgreekfishtaverna.properties^
+||marinerslanding.properties^
 ||martin.properties^
 ||md.properties^
 ||mm.properties^
@@ -117,6 +118,7 @@
 ||ora.properties^
 ||oreon.properties^
 ||paparounis.properties^
+||parisienne.properties^
 ||patriot.properties^
 ||peiraias.properties^
 ||perfume.properties^
@@ -134,6 +136,7 @@
 ||refreshrealty.properties^
 ||relevaterealty.properties^
 ||resell.properties^
+||rmpropertymanagment.properties^
 ||robo.properties^
 ||rwas.properties^
 ||sail.properties^
