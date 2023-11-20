@@ -36,7 +36,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add nrd.txt
+          git add lists/*
           git commit -m "GitHub Actions" --allow-empty
 
       - name: Push changes
