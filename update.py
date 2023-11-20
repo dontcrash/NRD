@@ -33,10 +33,10 @@ def update_domain_files():
             if tld:
                 tld_domains.setdefault(tld, []).append(domain)
 
-    # Save domains to separate files for each TLD
+    # Update domains in separate files for each TLD, replacing existing files
     for tld, domains in tld_domains.items():
         filename = os.path.join(directory, f"{tld}.txt")
-        with open(filename, 'a') as tld_file:
+        with open(filename, 'w') as tld_file:
             tld_file.write('\n'.join(domains) + '\n')
         print(f"Domains for TLD {tld} written to {filename}")
 
