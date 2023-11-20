@@ -1,7 +1,9 @@
 import requests
+import os
 
 # URL to fetch the list of newly registered domains
 url = "https://dl.nrd-list.com/1/nrd-list-32-days.txt"
+directory = "lists"
 
 # Function to extract TLD from a domain line
 def get_tld(domain):
@@ -15,6 +17,10 @@ def get_tld(domain):
 
 # Function to update the domain files with new domains
 def update_domain_files():
+    # Create the 'lists' directory if it doesn't exist
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
     # Download the list of newly registered domains
     response = requests.get(url)
     new_domains = response.text.splitlines()
@@ -29,7 +35,7 @@ def update_domain_files():
 
     # Save domains to separate files for each TLD
     for tld, domains in tld_domains.items():
-        filename = f"lists/{tld}.txt"
+        filename = os.path.join(directory, f"{tld}.txt")
         with open(filename, 'a') as tld_file:
             tld_file.write('\n'.join(domains) + '\n')
         print(f"Domains for TLD {tld} written to {filename}")
