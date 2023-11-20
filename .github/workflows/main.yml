@@ -1,4 +1,4 @@
-name: Update NRD list
+name: Update lists
 
 on:
   schedule:
