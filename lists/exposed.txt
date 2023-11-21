@@ -25,6 +25,7 @@
 ||living.exposed^
 ||londonblockexchange.exposed^
 ||lottery.exposed^
+||metadata.exposed^
 ||negplt.exposed^
 ||nohu.exposed^
 ||password.exposed^
@@ -39,7 +40,6 @@
 ||stripchat.exposed^
 ||system.exposed^
 ||teasecrets.exposed^
-||trade.exposed^
 ||video.exposed^
 ||vip79.exposed^
 ||zeki.exposed^

@@ -18,7 +18,6 @@
 ||csg.build^
 ||dalux.build^
 ||darkaero.build^
-||eazy.build^
 ||ecg.build^
 ||exopen.build^
 ||gaia.build^
@@ -33,10 +32,10 @@
 ||jfconstructioncompany.build^
 ||join-linea.build^
 ||kingdomkonduit.build^
+||libertas.build^
 ||mainframe.build^
 ||match.build^
 ||mermaid.build^
-||nieruchomosci.build^
 ||no88.build^
 ||nohu.build^
 ||pagnos.build^
@@ -46,6 +45,7 @@
 ||rails.build^
 ||reactnative.build^
 ||regency.build^
+||replicator.build^
 ||rubble.build^
 ||savvy.build^
 ||scallop.build^

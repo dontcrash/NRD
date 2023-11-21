@@ -15,7 +15,6 @@
 ||agile.tools^
 ||ai-data.tools^
 ||aiconsultant.tools^
-||aipicture.tools^
 ||aircraft.tools^
 ||aisales.tools^
 ||aitoolkit.tools^
@@ -26,10 +25,11 @@
 ||apg.tools^
 ||apollon.tools^
 ||arachne.tools^
-||art.tools^
 ||assistent.tools^
 ||astra.tools^
+||athruz.tools^
 ||atozai.tools^
+||automaticforex.tools^
 ||aux.tools^
 ||avermore.tools^
 ||badaxe.tools^
@@ -65,6 +65,7 @@
 ||checkbox.tools^
 ||checkin.tools^
 ||checklist.tools^
+||checksum.tools^
 ||chilli.tools^
 ||cloudlan.tools^
 ||cmoa.tools^
@@ -97,12 +98,10 @@
 ||dck.tools^
 ||debugging.tools^
 ||degruyter.tools^
-||dendi.tools^
 ||dentalpro.tools^
 ||dep.tools^
 ||deutsch.tools^
 ||devel.tools^
-||developments.tools^
 ||devonline.tools^
 ||dexarb.tools^
 ||diagnosis.tools^
@@ -134,7 +133,6 @@
 ||fll.tools^
 ||fooltech.tools^
 ||fourthplanet.tools^
-||fr-gmbh.tools^
 ||freedns.tools^
 ||freempts.tools^
 ||freenocode.tools^
@@ -193,6 +191,7 @@
 ||justai.tools^
 ||kailash.tools^
 ||kaisar89.tools^
+||kasyno.tools^
 ||kidgy.tools^
 ||king88.tools^
 ||kisan.tools^
@@ -235,7 +234,6 @@
 ||moonboy.tools^
 ||mtc.tools^
 ||multileaf.tools^
-||mux.tools^
 ||my-dev.tools^
 ||mybusiness.tools^
 ||mynotes.tools^
@@ -273,16 +271,15 @@
 ||polygondev.tools^
 ||pond.tools^
 ||positeach.tools^
+||potential.tools^
 ||practicepro.tools^
 ||prayer.tools^
 ||premiumseo.tools^
-||prepay.tools^
 ||presale.tools^
 ||privaty.tools^
 ||prizma.tools^
 ||proficiency.tools^
 ||project.tools^
-||propfirm.tools^
 ||publishers.tools^
 ||qorno.tools^
 ||quickai.tools^
@@ -300,7 +297,6 @@
 ||runner.tools^
 ||s5h5.tools^
 ||saiunes.tools^
-||samurai99.tools^
 ||satellite.tools^
 ||scoutepanalytics.tools^
 ||sdmx.tools^
@@ -317,6 +313,7 @@
 ||specialist.tools^
 ||spectacular.tools^
 ||speed-test.tools^
+||spirit.tools^
 ||sskin.tools^
 ||stainlesssteel.tools^
 ||stargatesfinance.tools^
@@ -327,7 +324,6 @@
 ||sus.tools^
 ||sveo.tools^
 ||system.tools^
-||taihub.tools^
 ||tamilgun.tools^
 ||tcpip.tools^
 ||techlead.tools^
