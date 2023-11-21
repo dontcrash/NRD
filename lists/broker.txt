@@ -37,6 +37,7 @@
 ||nohu.broker^
 ||ourmortgage.broker^
 ||prefix.broker^
+||remote.broker^
 ||sample.broker^
 ||semantic.broker^
 ||skins.broker^
@@ -44,3 +45,4 @@
 ||tender.broker^
 ||trustworthy.broker^
 ||ultra.broker^
+||vision.broker^

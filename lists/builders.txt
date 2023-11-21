@@ -20,6 +20,7 @@
 ||core.builders^
 ||cscs.builders^
 ||customgpt.builders^
+||davidson.builders^
 ||dragon.builders^
 ||ecohouse.builders^
 ||ecopro.builders^
@@ -49,7 +50,6 @@
 ||luxepoolmi.builders^
 ||mega.builders^
 ||meta-verse.builders^
-||mystic.builders^
 ||nexus.builders^
 ||nft.builders^
 ||nicovideo.builders^
@@ -62,7 +62,6 @@
 ||pdf.builders^
 ||poe.builders^
 ||presales.builders^
-||printedhomes.builders^
 ||private.builders^
 ||royaldeck.builders^
 ||royalty.builders^

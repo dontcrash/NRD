@@ -5,7 +5,6 @@
 ||algorithmicetfs.markets^
 ||analyzed.markets^
 ||anaume.markets^
-||api5000.markets^
 ||avto.markets^
 ||awe.markets^
 ||best-stocks-to-buy.markets^
@@ -26,7 +25,6 @@
 ||derivative.markets^
 ||digitalasset.markets^
 ||digitalassets.markets^
-||domino.markets^
 ||edo.markets^
 ||elamant.markets^
 ||elemant.markets^
@@ -37,10 +35,10 @@
 ||exodus.markets^
 ||falcon.markets^
 ||frfx.markets^
-||fxbtg.markets^
 ||gamewith.markets^
 ||globo.markets^
 ||goo.markets^
+||grok.markets^
 ||h2.markets^
 ||hotepicstocks.markets^
 ||immersive.markets^
@@ -51,7 +49,6 @@
 ||kix.markets^
 ||kongsi.markets^
 ||kraken.markets^
-||legacyx.markets^
 ||meta-verse.markets^
 ||mini.markets^
 ||mondo.markets^
@@ -95,4 +92,5 @@
 ||web3.markets^
 ||ww3.markets^
 ||yield.markets^
+||zbrain.markets^
 ||zephyr.markets^

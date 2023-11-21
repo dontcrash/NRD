@@ -23,6 +23,7 @@
 ||cryptoai.trading^
 ||cryptoderivatives.trading^
 ||cryptopsychic.trading^
+||dca.trading^
 ||deco.trading^
 ||deki.trading^
 ||dig.trading^
@@ -31,8 +32,9 @@
 ||ecny.trading^
 ||epicstocks.trading^
 ||evo.trading^
+||felix.trading^
+||forexcopy.trading^
 ||forexoptions.trading^
-||fxbtg.trading^
 ||gaoa.trading^
 ||gpts.trading^
 ||grok.trading^
@@ -44,10 +46,12 @@
 ||keytofx.trading^
 ||lifechanging.trading^
 ||liquid.trading^
+||medic.trading^
 ||metafi.trading^
 ||metalx.trading^
 ||metapay.trading^
 ||miracles.trading^
+||modal.trading^
 ||moontracker.trading^
 ||mp3.trading^
 ||mycompass.trading^
@@ -85,5 +89,6 @@
 ||vantagepoint.trading^
 ||vela.trading^
 ||verse.trading^
+||wads.trading^
 ||whale.trading^
 ||xtb.trading^

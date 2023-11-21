@@ -1,4 +1,5 @@
 ||8888.claims^
+||aave-protocol.claims^
 ||adesso.claims^
 ||air.claims^
 ||anpost.claims^
@@ -31,6 +32,7 @@
 ||expense.claims^
 ||eye.claims^
 ||fantom.claims^
+||ftx-lawsuit.claims^
 ||group.claims^
 ||housing.claims^
 ||index.claims^
@@ -53,12 +55,12 @@
 ||opti.claims^
 ||optimism-badges.claims^
 ||otsea.claims^
+||paraswap.claims^
 ||processing.claims^
 ||psp.claims^
 ||q.claims^
 ||rapid.claims^
 ||redeem-blur.claims^
-||redeem-makerdao.claims^
 ||rewards-unibot.claims^
 ||rocketpool.claims^
 ||sandboxgame.claims^
@@ -79,7 +81,6 @@
 ||swapapp.claims^
 ||synthetix.claims^
 ||thehellolabs.claims^
-||tokendecrypt.claims^
 ||treasury.claims^
 ||tristate.claims^
 ||trx.claims^
@@ -88,9 +89,11 @@
 ||ukbusinessenergy.claims^
 ||unisatpass.claims^
 ||uniswap.claims^
+||unsubstantiated.claims^
 ||vcc.claims^
 ||velodromefinance.claims^
 ||warcrimes.claims^
+||washingtonadjusters.claims^
 ||webofdog.claims^
 ||west.claims^
 ||xrp.claims^

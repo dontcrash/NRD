@@ -1,14 +1,11 @@
 ||0nchain.tools^
-||1bestai.tools^
 ||58ai.tools^
 ||700.tools^
 ||9mm.tools^
 ||abundant.tools^
-||adamas.tools^
 ||adaptivedemocracy.tools^
 ||address-confirm.tools^
 ||address-modification-package.tools^
-||address-modification.tools^
 ||admin.tools^
 ||ag3ncy.tools^
 ||agencewam.tools^
@@ -52,6 +49,7 @@
 ||candidatesourcing.tools^
 ||canvai.tools^
 ||caramel.tools^
+||careergo.tools^
 ||carlink.tools^
 ||cats.tools^
 ||ccb.tools^
@@ -71,6 +69,7 @@
 ||cmoa.tools^
 ||co2e.tools^
 ||cobot.tools^
+||compilers.tools^
 ||completegm.tools^
 ||confirm-mailing-address.tools^
 ||contextual.tools^
@@ -98,7 +97,6 @@
 ||dck.tools^
 ||debugging.tools^
 ||degruyter.tools^
-||dentalpro.tools^
 ||dep.tools^
 ||deutsch.tools^
 ||devel.tools^
@@ -121,6 +119,8 @@
 ||encounter.tools^
 ||encryp.tools^
 ||enthalpy.tools^
+||equip.tools^
+||excel.tools^
 ||excelerate.tools^
 ||existence.tools^
 ||farmlabor.tools^
@@ -173,6 +173,7 @@
 ||hotshot.tools^
 ||hss.tools^
 ||humanfirst.tools^
+||hunt.tools^
 ||iel.tools^
 ||ignite.tools^
 ||info.tools^
@@ -183,7 +184,6 @@
 ||integrate.tools^
 ||inventor.tools^
 ||iph.tools^
-||jabot.tools^
 ||jejuslot.tools^
 ||jhs.tools^
 ||jolly.tools^
@@ -197,7 +197,6 @@
 ||kisan.tools^
 ||komoju.tools^
 ||krad.tools^
-||krono.tools^
 ||la-lab.tools^
 ||labour.tools^
 ||leadsgeneration.tools^
@@ -213,13 +212,15 @@
 ||madeitwork.tools^
 ||magicprompt.tools^
 ||mail.tools^
+||malgo.tools^
+||mantra.tools^
 ||marco.tools^
 ||marius.tools^
 ||marketingsuite.tools^
+||matrica.tools^
 ||maxwen303.tools^
 ||maxwin.tools^
 ||maxwinx500.tools^
-||mds.tools^
 ||medgpt.tools^
 ||meetenamored.tools^
 ||meetendlesslove.tools^
@@ -241,6 +242,7 @@
 ||myquick.tools^
 ||naad.tools^
 ||naga889.tools^
+||nbcs.tools^
 ||nerva.tools^
 ||nexi.tools^
 ||nextgen.tools^
@@ -261,6 +263,7 @@
 ||optimus.tools^
 ||orchestration.tools^
 ||package-address-modification.tools^
+||paw.tools^
 ||pdf-accessibility.tools^
 ||personalize.tools^
 ||pluto.tools^
@@ -301,6 +304,7 @@
 ||scoutepanalytics.tools^
 ||sdmx.tools^
 ||seekai.tools^
+||sei.tools^
 ||serviceorchestration.tools^
 ||sexvid.tools^
 ||shasta.tools^
@@ -325,6 +329,7 @@
 ||sveo.tools^
 ||system.tools^
 ||tamilgun.tools^
+||taxpro.tools^
 ||tcpip.tools^
 ||techlead.tools^
 ||testosterone.tools^
@@ -335,13 +340,11 @@
 ||tingsupport.tools^
 ||tlhb.tools^
 ||todays.tools^
-||toolsdev.tools^
 ||topsaas.tools^
 ||tpv.tools^
 ||tradechat.tools^
 ||trashcan.tools^
 ||traveltech.tools^
-||trendi.tools^
 ||trum.tools^
 ||tryendlesslove.tools^
 ||tvisyn.tools^
@@ -350,7 +353,6 @@
 ||unifireai.tools^
 ||unipal.tools^
 ||velox.tools^
-||viga.tools^
 ||vile.tools^
 ||vinanalytic.tools^
 ||vip79.tools^
@@ -370,6 +372,7 @@
 ||wym.tools^
 ||x-pect.tools^
 ||x500maxwin.tools^
+||xpres.tools^
 ||youareallabunchof.tools^
 ||youtility.tools^
 ||youtube2mp3converter.tools^

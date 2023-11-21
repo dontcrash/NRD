@@ -51,6 +51,7 @@
 ||cmoa.observer^
 ||coinmarketcap.observer^
 ||communication.observer^
+||comstar.observer^
 ||conectate.observer^
 ||config.observer^
 ||dailymail.observer^

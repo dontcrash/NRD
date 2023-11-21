@@ -11,7 +11,6 @@
 ||dvt.flights^
 ||ebooking.flights^
 ||eus.flights^
-||h.flights^
 ||hitch.flights^
 ||hub.flights^
 ||inair.flights^
@@ -22,9 +21,9 @@
 ||media.flights^
 ||no88.flights^
 ||nohu.flights^
-||omanair.flights^
 ||path.flights^
 ||russia.flights^
+||skyprovider.flights^
 ||students.flights^
 ||thanksgiving.flights^
 ||tracer.flights^
@@ -36,3 +35,4 @@
 ||xhamster.flights^
 ||xihuan.flights^
 ||zia.flights^
+||ziac.flights^

@@ -11,7 +11,6 @@
 ||airdrop-dydx.exchange^
 ||airic.exchange^
 ||alhabib.exchange^
-||alphabit.exchange^
 ||alpinex.exchange^
 ||alpinx.exchange^
 ||alpx.exchange^
@@ -29,6 +28,7 @@
 ||b.exchange^
 ||balder.exchange^
 ||batman.exchange^
+||bazaar.exchange^
 ||bbz.exchange^
 ||bettermentpro.exchange^
 ||bge.exchange^
@@ -53,6 +53,7 @@
 ||cefi.exchange^
 ||cifraex.exchange^
 ||claim-hop.exchange^
+||claim-multibit.exchange^
 ||co2e.exchange^
 ||coin-cash.exchange^
 ||coinshop.exchange^
@@ -76,6 +77,7 @@
 ||emiti.exchange^
 ||enox.exchange^
 ||eric.exchange^
+||ethetf.exchange^
 ||exchanger.exchange^
 ||fairbet.exchange^
 ||feet.exchange^
@@ -118,6 +120,7 @@
 ||incognito.exchange^
 ||inex.exchange^
 ||instruments.exchange^
+||iptv.exchange^
 ||ipv6.exchange^
 ||irscrypto.exchange^
 ||islamic.exchange^
@@ -138,15 +141,19 @@
 ||lightspark.exchange^
 ||lionsgate.exchange^
 ||lvm.exchange^
+||malgo.exchange^
 ||maya.exchange^
 ||meex.exchange^
 ||meezan.exchange^
+||metri.exchange^
+||metriverse.exchange^
 ||mind.exchange^
 ||minipepe.exchange^
 ||mixpay.exchange^
 ||module.exchange^
 ||morwa.exchange^
 ||multibits.exchange^
+||multiversx.exchange^
 ||mummy.exchange^
 ||mutiny.exchange^
 ||nanocommodity.exchange^
@@ -159,6 +166,7 @@
 ||nohu.exchange^
 ||nostro.exchange^
 ||novinex.exchange^
+||nuchain.exchange^
 ||nyxswap.exchange^
 ||offchain.exchange^
 ||okcswap.exchange^
@@ -195,6 +203,7 @@
 ||snf.exchange^
 ||socialcapital.exchange^
 ||solly.exchange^
+||sols.exchange^
 ||spank.exchange^
 ||sparkle.exchange^
 ||sparky.exchange^
@@ -236,14 +245,13 @@
 ||wombats.exchange^
 ||womebat.exchange^
 ||womebet.exchange^
+||workflow.exchange^
 ||world.exchange^
 ||worldlife.exchange^
-||xbolt.exchange^
 ||xcoins.exchange^
 ||xdx.exchange^
 ||xentain.exchange^
 ||xxkk.exchange^
 ||yard.exchange^
 ||yue.exchange^
-||zkcustody.exchange^
 ||zonex.exchange^

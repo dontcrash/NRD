@@ -16,7 +16,6 @@
 ||bitmap.properties^
 ||bluecasa.properties^
 ||bluechaconia.properties^
-||bluejay.properties^
 ||bojo.properties^
 ||botg.properties^
 ||brampton.properties^
@@ -48,7 +47,6 @@
 ||fr.properties^
 ||fucked.properties^
 ||g2d.properties^
-||gaea.properties^
 ||gajewski.properties^
 ||getfervent.properties^
 ||ghosh.properties^
@@ -65,7 +63,6 @@
 ||headwater.properties^
 ||hellman.properties^
 ||helmsrealestate.properties^
-||hifi.properties^
 ||homeawayfromhome.properties^
 ||homecraftinstallations.properties^
 ||homepage.properties^
@@ -77,8 +74,8 @@
 ||jio.properties^
 ||kasyno.properties^
 ||killer.properties^
+||kingsarms.properties^
 ||kingsway.properties^
-||kosher.properties^
 ||kowal.properties^
 ||kwsearch.properties^
 ||latitudeworld.properties^
@@ -88,9 +85,11 @@
 ||livingluxe.properties^
 ||lost.properties^
 ||lr.properties^
+||luna.properties^
 ||luxuryhomes.properties^
 ||make.properties^
 ||manosgreekfishtaverna.properties^
+||mantra.properties^
 ||martin.properties^
 ||md.properties^
 ||mm.properties^
@@ -100,9 +99,12 @@
 ||multiland.properties^
 ||mva.properties^
 ||nalley.properties^
+||namrita.properties^
 ||nancybaxter.properties^
 ||nayarrealty.properties^
+||neptune.properties^
 ||netvrk.properties^
+||neverland.properties^
 ||newage.properties^
 ||newmark.properties^
 ||newrozholdings.properties^
@@ -111,11 +113,11 @@
 ||normandy.properties^
 ||nriglobal.properties^
 ||nsfas.properties^
-||ny.properties^
 ||off-market.properties^
 ||onside.properties^
 ||ora.properties^
 ||oreon.properties^
+||palmero.properties^
 ||paparounis.properties^
 ||patriot.properties^
 ||peiraias.properties^
@@ -134,6 +136,7 @@
 ||refreshrealty.properties^
 ||relevaterealty.properties^
 ||resell.properties^
+||riverstone.properties^
 ||robo.properties^
 ||rwas.properties^
 ||sail.properties^
@@ -153,7 +156,6 @@
 ||spetses.properties^
 ||squadhub.properties^
 ||squarex.properties^
-||staplescommercial.properties^
 ||stripchat.properties^
 ||subto.properties^
 ||sworthwork.properties^
@@ -176,8 +178,8 @@
 ||waterbridge.properties^
 ||wbny.properties^
 ||welcomehome.properties^
+||wiregrasshomeheroes.properties^
 ||worldlife.properties^
 ||wyominginvestment.properties^
 ||xesquarecapital.properties^
-||yolonow.properties^
 ||yourchoicerealty.properties^
