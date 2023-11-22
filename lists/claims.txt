@@ -20,6 +20,7 @@
 ||claimguard.claims^
 ||consumer.claims^
 ||counciltenant.claims^
+||covidcompensation.claims^
 ||cuevana.claims^
 ||curve-rewards.claims^
 ||d.claims^
@@ -41,7 +42,6 @@
 ||lmi.claims^
 ||maryland.claims^
 ||metapay.claims^
-||mintx.claims^
 ||mississippi.claims^
 ||myfuel.claims^
 ||network.claims^
@@ -71,11 +71,6 @@
 ||soft.claims^
 ||spankbang.claims^
 ||stakedeths.claims^
-||stellar-chgl.claims^
-||stellar-kalbefarma.claims^
-||stellar-moex.claims^
-||stellar-sinopec.claims^
-||stellar-ucrusal.claims^
 ||store-hypixel.claims^
 ||stripchat.claims^
 ||swapapp.claims^

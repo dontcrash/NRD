@@ -12,7 +12,9 @@
 ||agile.tools^
 ||ai-data.tools^
 ||aiconsultant.tools^
+||aiprompt.tools^
 ||aircraft.tools^
+||airender.tools^
 ||aisales.tools^
 ||aitoolkit.tools^
 ||allit.tools^
@@ -29,6 +31,7 @@
 ||automaticforex.tools^
 ||aux.tools^
 ||avermore.tools^
+||babcock.tools^
 ||badaxe.tools^
 ||badminton.tools^
 ||bagel.tools^
@@ -46,6 +49,7 @@
 ||blockgen.tools^
 ||bodythinking.tools^
 ||bronze.tools^
+||cai.tools^
 ||candidatesourcing.tools^
 ||canvai.tools^
 ||caramel.tools^
@@ -57,7 +61,6 @@
 ||cenex.tools^
 ||centrum.tools^
 ||chatgptfree.tools^
-||chatgptlogin.tools^
 ||chauffeur.tools^
 ||cheatengine889.tools^
 ||checkbox.tools^
@@ -75,6 +78,7 @@
 ||contextual.tools^
 ||contrac.tools^
 ||convertisseur.tools^
+||cooldev.tools^
 ||corevalues.tools^
 ||corp.tools^
 ||correction-mailing-address.tools^
@@ -100,9 +104,7 @@
 ||dep.tools^
 ||deutsch.tools^
 ||devel.tools^
-||devonline.tools^
 ||dexarb.tools^
-||diagnosis.tools^
 ||discoverai.tools^
 ||dispute.tools^
 ||diyonline.tools^
@@ -136,6 +138,7 @@
 ||freedns.tools^
 ||freempts.tools^
 ||freenocode.tools^
+||frenpet.tools^
 ||frontier.tools^
 ||frugal.tools^
 ||gadgetai.tools^
@@ -169,9 +172,9 @@
 ||hey.tools^
 ||hoki138.tools^
 ||homebrewing.tools^
-||hona.tools^
 ||hotshot.tools^
 ||hss.tools^
+||hubitai.tools^
 ||humanfirst.tools^
 ||hunt.tools^
 ||iel.tools^
@@ -181,7 +184,6 @@
 ||inmo.tools^
 ||instaup.tools^
 ||insufferable.tools^
-||integrate.tools^
 ||inventor.tools^
 ||iph.tools^
 ||jejuslot.tools^
@@ -194,12 +196,10 @@
 ||kasyno.tools^
 ||kidgy.tools^
 ||king88.tools^
-||kisan.tools^
 ||komoju.tools^
 ||krad.tools^
 ||la-lab.tools^
 ||labour.tools^
-||leadsgeneration.tools^
 ||lifehack.tools^
 ||lifemap.tools^
 ||linkinbio.tools^
@@ -240,14 +240,14 @@
 ||mynotes.tools^
 ||mypdf.tools^
 ||myquick.tools^
-||naad.tools^
 ||naga889.tools^
 ||nbcs.tools^
 ||nerva.tools^
-||nexi.tools^
 ||nextgen.tools^
 ||nftgenerator.tools^
+||nocoder.tools^
 ||nohu.tools^
+||nomadic.tools^
 ||noti.tools^
 ||npcaitoolkit.tools^
 ||npckit.tools^
@@ -257,6 +257,7 @@
 ||obfuscation.tools^
 ||objekt.tools^
 ||objekts.tools^
+||oceanbatt.tools^
 ||oidc.tools^
 ||onlinemoneytools.tools^
 ||opencolor.tools^
@@ -266,6 +267,7 @@
 ||paw.tools^
 ||pdf-accessibility.tools^
 ||personalize.tools^
+||pier.tools^
 ||pluto.tools^
 ||pnl.tools^
 ||poco.tools^
@@ -300,6 +302,7 @@
 ||runner.tools^
 ||s5h5.tools^
 ||saiunes.tools^
+||salute.tools^
 ||satellite.tools^
 ||scoutepanalytics.tools^
 ||sdmx.tools^
@@ -340,6 +343,7 @@
 ||tingsupport.tools^
 ||tlhb.tools^
 ||todays.tools^
+||top.tools^
 ||topsaas.tools^
 ||tpv.tools^
 ||tradechat.tools^
@@ -368,12 +372,12 @@
 ||witold.tools^
 ||workkit.tools^
 ||worldlife.tools^
+||wtdev.tools^
 ||wukko.tools^
 ||wym.tools^
 ||x-pect.tools^
 ||x500maxwin.tools^
 ||xpres.tools^
-||youareallabunchof.tools^
 ||youtility.tools^
 ||youtube2mp3converter.tools^
 ||youtubemp3converter.tools^

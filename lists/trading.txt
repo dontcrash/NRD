@@ -24,7 +24,6 @@
 ||cryptoderivatives.trading^
 ||cryptopsychic.trading^
 ||dca.trading^
-||deco.trading^
 ||deki.trading^
 ||dig.trading^
 ||digitalassets.trading^
@@ -64,6 +63,8 @@
 ||quantimental.trading^
 ||quantitativebonds.trading^
 ||quantumleap.trading^
+||rareearth.trading^
+||rareearths.trading^
 ||rbos.trading^
 ||riyadh.trading^
 ||samwelino.trading^
@@ -77,7 +78,7 @@
 ||stockbot.trading^
 ||stockoptions.trading^
 ||story.trading^
-||tdg.trading^
+||sushi.trading^
 ||tesla.trading^
 ||testimonials.trading^
 ||toschestation.trading^

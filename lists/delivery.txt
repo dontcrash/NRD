@@ -4,7 +4,6 @@
 ||apif.delivery^
 ||asap.delivery^
 ||asb.delivery^
-||astrologistics.delivery^
 ||bahrainpost.delivery^
 ||barhain-post.delivery^
 ||beerandwine.delivery^
@@ -24,8 +23,6 @@
 ||congress.delivery^
 ||controlled.delivery^
 ||corridor.delivery^
-||coura.delivery^
-||crossflower.delivery^
 ||customs-anpost.delivery^
 ||dads.delivery^
 ||daoof.delivery^
@@ -43,7 +40,6 @@
 ||economy.delivery^
 ||ecorn.delivery^
 ||emxpress.delivery^
-||england.delivery^
 ||epiphany.delivery^
 ||esense.delivery^
 ||ethos.delivery^
@@ -52,7 +48,6 @@
 ||export.delivery^
 ||fastexpress.delivery^
 ||fastlink.delivery^
-||fedex-express.delivery^
 ||fedex-payment.delivery^
 ||fee-anpost.delivery^
 ||fivestarlogisticsus.delivery^
@@ -66,7 +61,6 @@
 ||grandcentralpizza.delivery^
 ||greenhousegta.delivery^
 ||greensnthings.delivery^
-||ground.delivery^
 ||guayaquil.delivery^
 ||gus.delivery^
 ||happyanniversary.delivery^
@@ -89,6 +83,7 @@
 ||kasino.delivery^
 ||kasyno.delivery^
 ||kelapakafe.delivery^
+||kuwaitflowers.delivery^
 ||late.delivery^
 ||lavka.delivery^
 ||lazy.delivery^
@@ -120,7 +115,6 @@
 ||on-demand.delivery^
 ||op.delivery^
 ||optimus.delivery^
-||orchid.delivery^
 ||ottransportationllc.delivery^
 ||overseas.delivery^
 ||p3.delivery^
@@ -136,6 +130,7 @@
 ||pinball.delivery^
 ||planet-express.delivery^
 ||playbeer.delivery^
+||porn.delivery^
 ||post-check.delivery^
 ||postbiotics.delivery^
 ||qicgo.delivery^
@@ -149,6 +144,7 @@
 ||realtime.delivery^
 ||repeat.delivery^
 ||ri.delivery^
+||ripe.delivery^
 ||rockstar.delivery^
 ||saborbrasil.delivery^
 ||scentstogo.delivery^
@@ -172,13 +168,11 @@
 ||swissexprss.delivery^
 ||therecruiter.delivery^
 ||timetoeat.delivery^
-||tizo.delivery^
 ||trace.delivery^
 ||tracked.delivery^
 ||tracking-gr03110420.delivery^
 ||tracking-parcel.delivery^
 ||trucks.delivery^
-||tulips.delivery^
 ||tunnel.delivery^
 ||tupismo.delivery^
 ||uav.delivery^
@@ -196,10 +190,12 @@
 ||ups-tracking.delivery^
 ||uspscclient.delivery^
 ||vim.delivery^
+||vision2030.delivery^
 ||vitfi.delivery^
 ||wallet.delivery^
 ||week-end.delivery^
 ||weekends.delivery^
+||workweek.delivery^
 ||xfood.delivery^
 ||xis.delivery^
 ||xmas.delivery^
@@ -209,4 +205,5 @@
 ||zazaexpress.delivery^
 ||zeeppy.delivery^
 ||zilch.delivery^
+||zipcode.delivery^
 ||zippys.delivery^
