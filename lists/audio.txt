@@ -23,7 +23,6 @@
 ||menubus.audio^
 ||mode.audio^
 ||mon.audio^
-||musicpleer.audio^
 ||nick.audio^
 ||norrebro.audio^
 ||nunote.audio^
@@ -40,6 +39,8 @@
 ||server.audio^
 ||siren.audio^
 ||skype.audio^
+||soundark.audio^
+||source.audio^
 ||spirathon.audio^
 ||tencent.audio^
 ||thegig.audio^

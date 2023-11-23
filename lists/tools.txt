@@ -24,7 +24,6 @@
 ||apg.tools^
 ||apollon.tools^
 ||arachne.tools^
-||assistent.tools^
 ||astra.tools^
 ||athruz.tools^
 ||atozai.tools^
@@ -36,7 +35,6 @@
 ||badminton.tools^
 ||bagel.tools^
 ||bahco.tools^
-||bdseo.tools^
 ||bestgardens.tools^
 ||bestof.tools^
 ||bestreviews.tools^
@@ -79,7 +77,6 @@
 ||contrac.tools^
 ||convertisseur.tools^
 ||cooldev.tools^
-||corevalues.tools^
 ||corp.tools^
 ||correction-mailing-address.tools^
 ||counseling.tools^
@@ -89,7 +86,6 @@
 ||crazy.tools^
 ||creatorssuite.tools^
 ||cro.tools^
-||cryptonize.tools^
 ||cubed.tools^
 ||cui.tools^
 ||customgpt.tools^
@@ -260,9 +256,8 @@
 ||oceanbatt.tools^
 ||oidc.tools^
 ||onlinemoneytools.tools^
-||opencolor.tools^
 ||optimus.tools^
-||orchestration.tools^
+||orgapp.tools^
 ||package-address-modification.tools^
 ||paw.tools^
 ||pdf-accessibility.tools^
@@ -304,7 +299,6 @@
 ||saiunes.tools^
 ||salute.tools^
 ||satellite.tools^
-||scoutepanalytics.tools^
 ||sdmx.tools^
 ||seekai.tools^
 ||sei.tools^
@@ -314,15 +308,16 @@
 ||siafactory.tools^
 ||skipperbuds.tools^
 ||smallbizhub.tools^
+||smashing.tools^
 ||smoothie.tools^
 ||soap2day.tools^
 ||spawn.tools^
 ||specialist.tools^
-||spectacular.tools^
 ||speed-test.tools^
 ||spirit.tools^
 ||sskin.tools^
 ||stainlesssteel.tools^
+||staple.tools^
 ||stargatesfinance.tools^
 ||startupsuccess.tools^
 ||stump.tools^
@@ -354,7 +349,6 @@
 ||tvisyn.tools^
 ||ukcore.tools^
 ||unapologetic.tools^
-||unifireai.tools^
 ||unipal.tools^
 ||velox.tools^
 ||vile.tools^

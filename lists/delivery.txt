@@ -16,7 +16,6 @@
 ||cancel.delivery^
 ||ch-paket.delivery^
 ||chickenfried.delivery^
-||chinnesse.delivery^
 ||cmoa.delivery^
 ||compass.delivery^
 ||confirmed.delivery^
@@ -48,7 +47,6 @@
 ||export.delivery^
 ||fastexpress.delivery^
 ||fastlink.delivery^
-||fedex-payment.delivery^
 ||fee-anpost.delivery^
 ||fivestarlogisticsus.delivery^
 ||foodking.delivery^
@@ -60,7 +58,6 @@
 ||graiied.delivery^
 ||grandcentralpizza.delivery^
 ||greenhousegta.delivery^
-||greensnthings.delivery^
 ||guayaquil.delivery^
 ||gus.delivery^
 ||happyanniversary.delivery^
@@ -94,7 +91,6 @@
 ||mission.delivery^
 ||moms.delivery^
 ||mooditaly.delivery^
-||moonlighters.delivery^
 ||motherschoice.delivery^
 ||msg.delivery^
 ||mtwtfss.delivery^
@@ -113,7 +109,6 @@
 ||nudes.delivery^
 ||oh.delivery^
 ||on-demand.delivery^
-||op.delivery^
 ||optimus.delivery^
 ||ottransportationllc.delivery^
 ||overseas.delivery^
@@ -132,10 +127,10 @@
 ||playbeer.delivery^
 ||porn.delivery^
 ||post-check.delivery^
-||postbiotics.delivery^
 ||qicgo.delivery^
 ||qorno.delivery^
 ||quito.delivery^
+||r7.delivery^
 ||raashan.delivery^
 ||rapidoor.delivery^
 ||raw.delivery^
@@ -165,9 +160,11 @@
 ||storage.delivery^
 ||subzerodesserts.delivery^
 ||subzeroicebar.delivery^
+||swiftkargoexpress.delivery^
 ||swissexprss.delivery^
 ||therecruiter.delivery^
 ||timetoeat.delivery^
+||tinder.delivery^
 ||trace.delivery^
 ||tracked.delivery^
 ||tracking-gr03110420.delivery^
@@ -195,6 +192,7 @@
 ||wallet.delivery^
 ||week-end.delivery^
 ||weekends.delivery^
+||wiin.delivery^
 ||workweek.delivery^
 ||xfood.delivery^
 ||xis.delivery^
@@ -202,7 +200,6 @@
 ||xn--fdforfdis-q9af.delivery^
 ||yabox.delivery^
 ||yourexpress.delivery^
-||zazaexpress.delivery^
 ||zeeppy.delivery^
 ||zilch.delivery^
 ||zipcode.delivery^

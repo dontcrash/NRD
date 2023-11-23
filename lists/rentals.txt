@@ -43,7 +43,6 @@
 ||curatedtableware.rentals^
 ||dbt.rentals^
 ||diamondtrack.rentals^
-||digicab.rentals^
 ||digital.rentals^
 ||directbooking.rentals^
 ||dmm.rentals^
@@ -79,9 +78,7 @@
 ||kissimmeefl.rentals^
 ||landfall.rentals^
 ||lavishevents.rentals^
-||lawcenter.rentals^
 ||letsicily.rentals^
-||listing.rentals^
 ||lowkey.rentals^
 ||luxuryinternational.rentals^
 ||lvlup.rentals^
@@ -93,7 +90,6 @@
 ||micabin.rentals^
 ||mining.rentals^
 ||miparaiso.rentals^
-||mmcarrent.rentals^
 ||mnimi.rentals^
 ||mountaincabin.rentals^
 ||myvan.rentals^
@@ -108,6 +104,7 @@
 ||nomada.rentals^
 ||nsfas.rentals^
 ||ocmdvacation.rentals^
+||oeivacations.rentals^
 ||okanagan.rentals^
 ||onislandjeeps.rentals^
 ||onlines.rentals^
@@ -128,7 +125,6 @@
 ||roadstar.rentals^
 ||royalrose.rentals^
 ||rvr.rentals^
-||s.rentals^
 ||saintbarth.rentals^
 ||saipan.rentals^
 ||santafevacation.rentals^
@@ -141,7 +137,6 @@
 ||skihut.rentals^
 ||sls.rentals^
 ||smokeymountain.rentals^
-||society.rentals^
 ||sports.rentals^
 ||stbarths.rentals^
 ||std.rentals^
@@ -154,7 +149,10 @@
 ||thespace.rentals^
 ||thistlelodge.rentals^
 ||three.rentals^
+||tinder.rentals^
+||tinyhouses.rentals^
 ||tok.rentals^
+||tools.rentals^
 ||tranquiltails.rentals^
 ||truhome.rentals^
 ||umbrellaproperties.rentals^

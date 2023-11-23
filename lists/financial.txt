@@ -9,6 +9,7 @@
 ||bankless.financial^
 ||bitmoney.financial^
 ||clearbank.financial^
+||composite.financial^
 ||cor.financial^
 ||cvs.financial^
 ||darkhorse.financial^
@@ -35,7 +36,6 @@
 ||hurricane.financial^
 ||hybrid.financial^
 ||itp.financial^
-||jsp.financial^
 ||kansas.financial^
 ||katielindquist.financial^
 ||kyt-app.financial^
@@ -53,6 +53,7 @@
 ||nextrepublic.financial^
 ||nohu.financial^
 ||nwsa.financial^
+||nx.financial^
 ||one.financial^
 ||ontrack.financial^
 ||ore.financial^

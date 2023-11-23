@@ -4,7 +4,6 @@
 ||5star.properties^
 ||aibe.properties^
 ||alimos.properties^
-||antler.properties^
 ||arabesco.properties^
 ||ares.properties^
 ||arts.properties^
@@ -21,7 +20,7 @@
 ||bridgestreet.properties^
 ||buckingham.properties^
 ||burgundy.properties^
-||buy.properties^
+||buyinvestment.properties^
 ||byguzel.properties^
 ||cabosanlucas.properties^
 ||caleb.properties^
@@ -32,17 +31,15 @@
 ||dardur.properties^
 ||database.properties^
 ||dicenzohomes.properties^
-||dubairealestate.properties^
 ||dvc.properties^
 ||easyshed.properties^
-||emeraldcity.properties^
 ||empirehome.properties^
-||empireusa.properties^
 ||eventgroove.properties^
 ||expo.properties^
 ||farhills.properties^
 ||filter.properties^
 ||fr.properties^
+||franklin.properties^
 ||fucked.properties^
 ||fullhouse.properties^
 ||g2d.properties^
@@ -73,12 +70,10 @@
 ||island.properties^
 ||jio.properties^
 ||kasyno.properties^
-||killer.properties^
 ||kingsarms.properties^
 ||kingsway.properties^
 ||kowal.properties^
 ||kwsearch.properties^
-||latitudeworld.properties^
 ||lessthanperfect.properties^
 ||letsget.properties^
 ||lift.properties^
@@ -91,7 +86,6 @@
 ||manosgreekfishtaverna.properties^
 ||mantra.properties^
 ||martin.properties^
-||md.properties^
 ||mm.properties^
 ||monarchbeach.properties^
 ||montchanin.properties^
@@ -108,7 +102,6 @@
 ||newage.properties^
 ||newmark.properties^
 ||newrozholdings.properties^
-||no88.properties^
 ||nohu.properties^
 ||normandy.properties^
 ||nriglobal.properties^
@@ -138,7 +131,6 @@
 ||remodel.properties^
 ||resell.properties^
 ||riverstone.properties^
-||robo.properties^
 ||rwas.properties^
 ||sail.properties^
 ||salveave.properties^
@@ -146,6 +138,7 @@
 ||sb.properties^
 ||scopeinvestment.properties^
 ||scopeinvestmentuae.properties^
+||shopee.properties^
 ||shyeen.properties^
 ||sm.properties^
 ||smrealestate.properties^
@@ -170,6 +163,7 @@
 ||usefervent.properties^
 ||vantage.properties^
 ||vastu.properties^
+||venues.properties^
 ||vi.properties^
 ||vip79.properties^
 ||vision2030.properties^
@@ -179,4 +173,3 @@
 ||wiregrasshomeheroes.properties^
 ||worldlife.properties^
 ||xesquarecapital.properties^
-||yourchoicerealty.properties^

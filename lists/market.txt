@@ -46,6 +46,7 @@
 ||buuff.market^
 ||buyrent.market^
 ||bvs.market^
+||capacity.market^
 ||captive.market^
 ||chainlokas.market^
 ||character.market^
@@ -105,6 +106,7 @@
 ||icmp.market^
 ||inari.market^
 ||instafood.market^
+||iptransit.market^
 ||irelander.market^
 ||ishop.market^
 ||iskra.market^
@@ -135,6 +137,7 @@
 ||marten.market^
 ||master.market^
 ||mels.market^
+||metalbuildings.market^
 ||microbiota.market^
 ||mile.market^
 ||miller.market^
@@ -165,7 +168,6 @@
 ||polatlarqr.market^
 ||pols.market^
 ||prorab.market^
-||proviante.market^
 ||pwalocal.market^
 ||qqy.market^
 ||raretaste.market^
@@ -173,13 +175,13 @@
 ||rbt.market^
 ||request.market^
 ||robots.market^
-||rost.market^
 ||rubin.market^
 ||rvtrade.market^
 ||sahand.market^
 ||saigonspice.market^
 ||satellite.market^
 ||saxocapital.market^
+||sber-optik.market^
 ||sdss.market^
 ||selection.market^
 ||shopee.market^
@@ -194,8 +196,8 @@
 ||spartak.market^
 ||srd.market^
 ||stars.market^
+||steelbuildings.market^
 ||stripchat.market^
-||styleforearth.market^
 ||swappwa.market^
 ||sweat.market^
 ||theclean.market^
@@ -215,7 +217,6 @@
 ||uslugi.market^
 ||ustc.market^
 ||uzfair.market^
-||venix.market^
 ||vetements.market^
 ||vip79.market^
 ||vitamix.market^

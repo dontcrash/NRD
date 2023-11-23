@@ -1,4 +1,3 @@
-||aikyas.build^
 ||ali.build^
 ||alibaba.build^
 ||aloe.build^
@@ -19,6 +18,7 @@
 ||csg.build^
 ||dalux.build^
 ||darkaero.build^
+||deckforge.build^
 ||ecg.build^
 ||exopen.build^
 ||gaia.build^
@@ -28,6 +28,7 @@
 ||homer.build^
 ||ingress.build^
 ||instant.build^
+||integrations.build^
 ||itec.build^
 ||iterative.build^
 ||join-linea.build^
@@ -36,7 +37,6 @@
 ||mainframe.build^
 ||match.build^
 ||mermaid.build^
-||no88.build^
 ||nohu.build^
 ||pagnos.build^
 ||phoenixroofing.build^
@@ -58,6 +58,7 @@
 ||stigmergy.build^
 ||stripchat.build^
 ||superfast.build^
+||supple.build^
 ||synaps.build^
 ||sync.build^
 ||syntheticdream.build^
