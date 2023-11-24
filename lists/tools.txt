@@ -86,7 +86,6 @@
 ||crazy.tools^
 ||creatorssuite.tools^
 ||cro.tools^
-||cryptominer.tools^
 ||cubed.tools^
 ||cui.tools^
 ||customgpt.tools^
@@ -118,7 +117,6 @@
 ||encounter.tools^
 ||encryp.tools^
 ||enthalpy.tools^
-||entropy.tools^
 ||equip.tools^
 ||excel.tools^
 ||excelerate.tools^
@@ -155,7 +153,6 @@
 ||grok-image-ai.tools^
 ||groupm-nexus.tools^
 ||groupmnexus.tools^
-||gst.tools^
 ||guardaserie.tools^
 ||hackbmw4d.tools^
 ||hackfals4d.tools^
@@ -263,7 +260,6 @@
 ||orgapp.tools^
 ||package-address-modification.tools^
 ||paw.tools^
-||payu.tools^
 ||pdf-accessibility.tools^
 ||personalize.tools^
 ||pier.tools^
@@ -288,17 +284,13 @@
 ||qorno.tools^
 ||quickai.tools^
 ||reactions.tools^
-||readyplayer.tools^
 ||recrui.tools^
 ||rediscover.tools^
 ||reelspeed.tools^
 ||remix.tools^
 ||rfp.tools^
 ||rfq.tools^
-||rino.tools^
-||rios.tools^
 ||rizz.tools^
-||roadmap.tools^
 ||rotmg.tools^
 ||roto.tools^
 ||rtpvistatoto.tools^
@@ -323,7 +315,6 @@
 ||specialist.tools^
 ||speed-test.tools^
 ||spirit.tools^
-||spm.tools^
 ||sskin.tools^
 ||stainlesssteel.tools^
 ||staple.tools^
@@ -375,10 +366,8 @@
 ||witold.tools^
 ||workkit.tools^
 ||worldlife.tools^
-||wpac.tools^
 ||wtdev.tools^
 ||wukko.tools^
-||wuxia.tools^
 ||wym.tools^
 ||x-pect.tools^
 ||x500maxwin.tools^
