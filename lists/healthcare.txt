@@ -6,7 +6,6 @@
 ||boise.healthcare^
 ||bxrx.healthcare^
 ||calgary.healthcare^
-||capetown.healthcare^
 ||cause.healthcare^
 ||cco.healthcare^
 ||clg.healthcare^
@@ -25,6 +24,9 @@
 ||einfachia.healthcare^
 ||epathology.healthcare^
 ||eu-talentpool.healthcare^
+||fitness.healthcare^
+||fwd.healthcare^
+||genies.healthcare^
 ||gesund.healthcare^
 ||gm.healthcare^
 ||gout.healthcare^
@@ -36,18 +38,18 @@
 ||herz.healthcare^
 ||hotline.healthcare^
 ||hssi.healthcare^
-||humningbird.healthcare^
 ||hyderabad.healthcare^
 ||hypnos.healthcare^
+||implants4all.healthcare^
 ||infectomed.healthcare^
 ||instatk.healthcare^
-||ircps.healthcare^
 ||jiwar.healthcare^
 ||juvtherapeutics.healthcare^
 ||kmg.healthcare^
 ||knstate.healthcare^
 ||laboratory.healthcare^
 ||lifewell.healthcare^
+||liveit.healthcare^
 ||men.healthcare^
 ||miamibeach.healthcare^
 ||miss.healthcare^
@@ -67,8 +69,6 @@
 ||sandiego.healthcare^
 ||sanjose.healthcare^
 ||socialist.healthcare^
-||solutionsconnect.healthcare^
-||sportyfit.healthcare^
 ||subsidy.healthcare^
 ||tamin.healthcare^
 ||taxcredits.healthcare^
@@ -77,7 +77,6 @@
 ||totallykids.healthcare^
 ||traditional.healthcare^
 ||trusted.healthcare^
-||valen.healthcare^
 ||vibes.healthcare^
 ||vision2030.healthcare^
 ||visionary.healthcare^
