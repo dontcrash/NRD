@@ -30,10 +30,12 @@
 ||creditacceptance.credit^
 ||creditexpress.credit^
 ||creditordebitcard.credit^
+||curie.credit^
 ||czech.credit^
 ||dan.credit^
 ||debitor.credit^
 ||debtforce.credit^
+||deficonnect.credit^
 ||destrikes.credit^
 ||developer.credit^
 ||development.credit^
@@ -51,7 +53,6 @@
 ||env.credit^
 ||excretic.credit^
 ||fairmountfunding.credit^
-||finance-a-car-with-bad.credit^
 ||fine.credit^
 ||fitvantage.credit^
 ||freshufflict.credit^
@@ -97,7 +98,6 @@
 ||pacificlines.credit^
 ||parimatch.credit^
 ||payline.credit^
-||people.credit^
 ||personantly.credit^
 ||photo.credit^
 ||pobretv.credit^
@@ -113,7 +113,6 @@
 ||reflective.credit^
 ||remit.credit^
 ||rentalcreditapplication.credit^
-||rightway.credit^
 ||risecreditonline.credit^
 ||rogers-operations.credit^
 ||rok.credit^
@@ -121,7 +120,6 @@
 ||sagame.credit^
 ||sage.credit^
 ||salary.credit^
-||sandbox.credit^
 ||schers.credit^
 ||scoreplus.credit^
 ||scraments.credit^
@@ -150,6 +148,7 @@
 ||valor.credit^
 ||vip79.credit^
 ||vision2030.credit^
+||wild.credit^
 ||wirex.credit^
 ||xn--od1ba225g1yu.credit^
 ||yourconsumerattorney.credit^

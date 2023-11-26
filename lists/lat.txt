@@ -25,15 +25,12 @@
 ||03th.lat^
 ||03x5.lat^
 ||04ez.lat^
-||04kb.lat^
 ||04qg.lat^
 ||04s3.lat^
-||04sz.lat^
 ||04xj.lat^
 ||04y8.lat^
 ||04z6.lat^
 ||05243.lat^
-||05d0.lat^
 ||05f4.lat^
 ||05hu.lat^
 ||05mv.lat^
@@ -43,7 +40,6 @@
 ||0628.lat^
 ||064e.lat^
 ||06jh.lat^
-||06np.lat^
 ||06rx.lat^
 ||06uh.lat^
 ||06y2.lat^
@@ -52,7 +48,6 @@
 ||07488.lat^
 ||07aw.lat^
 ||07bu.lat^
-||07j7.lat^
 ||07s2.lat^
 ||07u6.lat^
 ||07vy.lat^
@@ -71,7 +66,6 @@
 ||09j4.lat^
 ||09r0.lat^
 ||09rd.lat^
-||0a1xld3a.lat^
 ||0aqjx.lat^
 ||0b4p.lat^
 ||0bfv.lat^
@@ -94,7 +88,6 @@
 ||0cvs.lat^
 ||0cwz.lat^
 ||0cx3.lat^
-||0d5z.lat^
 ||0d6u.lat^
 ||0dde.lat^
 ||0dfo5man.lat^
@@ -110,7 +103,6 @@
 ||0ern.lat^
 ||0es6.lat^
 ||0esh.lat^
-||0et0.lat^
 ||0eus.lat^
 ||0euu.lat^
 ||0evd.lat^
@@ -137,7 +129,6 @@
 ||0h2h.lat^
 ||0h9c.lat^
 ||0henun.lat^
-||0hvj.lat^
 ||0hzg.lat^
 ||0j2d.lat^
 ||0j5gvzk7.lat^
@@ -154,6 +145,7 @@
 ||0mk32ssp.lat^
 ||0mrn.lat^
 ||0msk.lat^
+||0mvdrv.lat^
 ||0mz7.lat^
 ||0n1v.lat^
 ||0n4x.lat^
@@ -202,7 +194,6 @@
 ||0tsq.lat^
 ||0ttllnr5.lat^
 ||0typ.lat^
-||0u1g.lat^
 ||0u7k.lat^
 ||0ud9.lat^
 ||0uq2pp2p.lat^
@@ -215,7 +206,6 @@
 ||0vg7.lat^
 ||0vj1.lat^
 ||0vne.lat^
-||0vq6.lat^
 ||0vq9.lat^
 ||0vuc.lat^
 ||0vwr.lat^
@@ -231,7 +221,6 @@
 ||0yb6.lat^
 ||0yh3f.lat^
 ||0yp3.lat^
-||0yq0.lat^
 ||0zhg.lat^
 ||0zm5.lat^
 ||0zqf.lat^
@@ -258,7 +247,6 @@
 ||12433.lat^
 ||1255.lat^
 ||128kk.lat^
-||12d4.lat^
 ||12df.lat^
 ||12gu.lat^
 ||12j6.lat^
@@ -277,7 +265,6 @@
 ||14136.lat^
 ||1471.lat^
 ||147g3z1.lat^
-||1488.lat^
 ||148jom.lat^
 ||14db.lat^
 ||14fb.lat^
@@ -324,7 +311,6 @@
 ||18oku.lat^
 ||18t4.lat^
 ||18th.lat^
-||18vp.lat^
 ||1909.lat^
 ||19732.lat^
 ||197t.lat^
@@ -335,7 +321,6 @@
 ||1a8srylo.lat^
 ||1akf.lat^
 ||1ap8.lat^
-||1b7y.lat^
 ||1bb3.lat^
 ||1bec.lat^
 ||1bey.lat^
@@ -368,10 +353,8 @@
 ||1egr.lat^
 ||1eu2.lat^
 ||1ewj.lat^
-||1f0j.lat^
 ||1f0x.lat^
 ||1f6z.lat^
-||1f86fs.lat^
 ||1fc0.lat^
 ||1fe2.lat^
 ||1fqqb6.lat^
@@ -382,7 +365,6 @@
 ||1g8u.lat^
 ||1g9d.lat^
 ||1gd5.lat^
-||1gh9.lat^
 ||1ghhra.lat^
 ||1gks.lat^
 ||1gm6.lat^
@@ -406,7 +388,6 @@
 ||1k2d.lat^
 ||1kzn.lat^
 ||1lkoht17.lat^
-||1mc3.lat^
 ||1mesconketo.lat^
 ||1mv1.lat^
 ||1n6v.lat^
@@ -437,7 +418,6 @@
 ||1sjb.lat^
 ||1sk5f.lat^
 ||1sy7.lat^
-||1sze.lat^
 ||1tqn.lat^
 ||1tsq.lat^
 ||1tyf.lat^
@@ -450,7 +430,6 @@
 ||1vgg.lat^
 ||1vk4.lat^
 ||1vrywuq.lat^
-||1vu9.lat^
 ||1w8c.lat^
 ||1we2n84e.lat^
 ||1wgc.lat^
@@ -471,13 +450,11 @@
 ||1yfewu8.lat^
 ||1ymj.lat^
 ||1z1j.lat^
-||1z1s.lat^
 ||1z2w.lat^
 ||1z4c.lat^
 ||1zeh.lat^
 ||1zr3.lat^
 ||1zt1rneu.lat^
-||203e.lat^
 ||2041k.lat^
 ||206u.lat^
 ||207u.lat^
@@ -494,10 +471,8 @@
 ||20u2.lat^
 ||20vu.lat^
 ||20w8.lat^
-||20ya.lat^
 ||212j.lat^
 ||214g.lat^
-||214y.lat^
 ||216g.lat^
 ||218kk.lat^
 ||21a2.lat^
@@ -506,14 +481,12 @@
 ||21ivirw2.lat^
 ||21j0.lat^
 ||21l5t9.lat^
-||21vc.lat^
 ||221r.lat^
 ||2222222tuan.lat^
 ||22230.lat^
 ||226j.lat^
 ||227s.lat^
 ||228kk.lat^
-||22fn.lat^
 ||22g1.lat^
 ||22jx.lat^
 ||22xu.lat^
@@ -524,7 +497,6 @@
 ||236e.lat^
 ||238j.lat^
 ||238kk.lat^
-||23gz.lat^
 ||23hn.lat^
 ||23jnjw9m.lat^
 ||23kr.lat^
@@ -532,11 +504,9 @@
 ||23wy.lat^
 ||2401.lat^
 ||2413.lat^
-||2466.lat^
 ||248kk.lat^
 ||24bw.lat^
 ||24ny.lat^
-||24tk.lat^
 ||250p.lat^
 ||25294.lat^
 ||25376.lat^
@@ -545,7 +515,6 @@
 ||266h.lat^
 ||26hk.lat^
 ||26j3.lat^
-||26p0.lat^
 ||26u3.lat^
 ||26ud.lat^
 ||26vztre.lat^
@@ -585,8 +554,6 @@
 ||2bgp.lat^
 ||2btn.lat^
 ||2bv0.lat^
-||2bzx.lat^
-||2c0r.lat^
 ||2c4s0wen.lat^
 ||2cc9.lat^
 ||2ccf.lat^
@@ -597,7 +564,6 @@
 ||2d33.lat^
 ||2d3r.lat^
 ||2d43.lat^
-||2dh3.lat^
 ||2dhqy.lat^
 ||2djh.lat^
 ||2dyp.lat^
@@ -679,22 +645,18 @@
 ||2nzc.lat^
 ||2p5q.lat^
 ||2p5x.lat^
-||2p81oxhc.lat^
 ||2p8b.lat^
 ||2p90.lat^
-||2pbm.lat^
 ||2pez.lat^
 ||2pvvvvkw.lat^
 ||2q08.lat^
 ||2q8v.lat^
 ||2q9d.lat^
 ||2qb4.lat^
-||2qgu.lat^
 ||2qkm.lat^
 ||2qxq.lat^
 ||2qzh.lat^
 ||2r27.lat^
-||2r2fiql8.lat^
 ||2r6g.lat^
 ||2rs8.lat^
 ||2rts.lat^
@@ -711,7 +673,6 @@
 ||2spx.lat^
 ||2spz.lat^
 ||2sue.lat^
-||2svt.lat^
 ||2sze.lat^
 ||2t1p.lat^
 ||2t1z.lat^
@@ -736,7 +697,6 @@
 ||2vvh.lat^
 ||2vx4.lat^
 ||2vxi7m39.lat^
-||2wf0.lat^
 ||2wfg.lat^
 ||2wp9.lat^
 ||2wqr.lat^
@@ -751,7 +711,6 @@
 ||2y3x.lat^
 ||2y63.lat^
 ||2y9f.lat^
-||2ykf.lat^
 ||2ymd.lat^
 ||2yus2.lat^
 ||2z3efw.lat^
@@ -768,7 +727,6 @@
 ||30cu.lat^
 ||30ft.lat^
 ||30gk.lat^
-||30gt.lat^
 ||30h2.lat^
 ||30jk.lat^
 ||30k3.lat^
@@ -780,7 +738,6 @@
 ||31d3.lat^
 ||31f7.lat^
 ||31gx.lat^
-||31qe.lat^
 ||31s1.lat^
 ||31sr.lat^
 ||31v5.lat^
@@ -799,7 +756,6 @@
 ||33ft.lat^
 ||33ke.lat^
 ||33n0.lat^
-||33p5.lat^
 ||33q6.lat^
 ||33sm.lat^
 ||33sx.lat^
@@ -809,6 +765,7 @@
 ||346s.lat^
 ||34738.lat^
 ||34ab.lat^
+||34fwejh3f4ufhiuhwekjr.lat^
 ||34jt.lat^
 ||34n7.lat^
 ||34r2.lat^
@@ -858,6 +815,7 @@
 ||39mivz.lat^
 ||39st.lat^
 ||39th.lat^
+||39xyb2.lat^
 ||3amf.lat^
 ||3aq01u.lat^
 ||3b1b.lat^
@@ -881,12 +839,9 @@
 ||3ckvo.lat^
 ||3cnw.lat^
 ||3cts.lat^
-||3cu2.lat^
 ||3cxg.lat^
-||3d7p.lat^
 ||3dzh.lat^
 ||3eaq.lat^
-||3edr.lat^
 ||3eet.lat^
 ||3ehe.lat^
 ||3ejv.lat^
@@ -899,7 +854,6 @@
 ||3fgu.lat^
 ||3fh2.lat^
 ||3fnc.lat^
-||3fst.lat^
 ||3ftr.lat^
 ||3fym.lat^
 ||3g6m.lat^
@@ -909,11 +863,9 @@
 ||3gjf.lat^
 ||3gm2.lat^
 ||3grnh.lat^
-||3guf.lat^
 ||3gvs.lat^
 ||3gye.lat^
 ||3h94.lat^
-||3hg4.lat^
 ||3hl4t.lat^
 ||3hsc.lat^
 ||3hyf.lat^
@@ -980,8 +932,7 @@
 ||3thp.lat^
 ||3tjc.lat^
 ||3tt6.lat^
-||3tuh.lat^
-||3u58.lat^
+||3u5ueg.lat^
 ||3umg.lat^
 ||3unm.lat^
 ||3upa.lat^
@@ -992,7 +943,6 @@
 ||3vjp.lat^
 ||3w0t.lat^
 ||3w4c.lat^
-||3w58.lat^
 ||3we3.lat^
 ||3wgj.lat^
 ||3wgp.lat^
@@ -1012,7 +962,6 @@
 ||3xzbnvt.lat^
 ||3y02.lat^
 ||3y051ny7.lat^
-||3y1j.lat^
 ||3y35.lat^
 ||3ych.lat^
 ||3yry.lat^
@@ -1036,19 +985,14 @@
 ||415e.lat^
 ||41bq.lat^
 ||41g5.lat^
-||41j1.lat^
 ||41me.lat^
 ||41mk.lat^
 ||41q8.lat^
 ||41v4.lat^
 ||41vu.lat^
 ||41yp.lat^
-||422w.lat^
 ||428k.lat^
-||42fkv.lat^
 ||42jq.lat^
-||42k1.lat^
-||42pj.lat^
 ||4331.lat^
 ||433x2x.lat^
 ||437atdoh.lat^
@@ -1067,7 +1011,6 @@
 ||44q7.lat^
 ||44sw.lat^
 ||44uk.lat^
-||44vx.lat^
 ||4525.lat^
 ||453u.lat^
 ||455s.lat^
@@ -1083,7 +1026,6 @@
 ||46931.lat^
 ||46av.lat^
 ||46hc.lat^
-||46jn.lat^
 ||46kd.lat^
 ||46m2.lat^
 ||46mu.lat^
@@ -1103,7 +1045,6 @@
 ||48u5.lat^
 ||48xd.lat^
 ||494rxua.lat^
-||49g2.lat^
 ||49hp.lat^
 ||49hu.lat^
 ||49j7.lat^
@@ -1115,7 +1056,6 @@
 ||4aqs.lat^
 ||4ass.lat^
 ||4auu.lat^
-||4axt.lat^
 ||4bcb.lat^
 ||4bf0.lat^
 ||4bnd.lat^
@@ -1142,7 +1082,6 @@
 ||4e26.lat^
 ||4e541gbk.lat^
 ||4e9u.lat^
-||4edrw3ba.lat^
 ||4efq.lat^
 ||4es3.lat^
 ||4ev4.lat^
@@ -1153,7 +1092,6 @@
 ||4g1e.lat^
 ||4g4u.lat^
 ||4g65zc.lat^
-||4g6b.lat^
 ||4gjx.lat^
 ||4gnf.lat^
 ||4guj.lat^
@@ -1174,7 +1112,6 @@
 ||4kt3.lat^
 ||4mdf.lat^
 ||4mj3.lat^
-||4mjeplxk.lat^
 ||4mqz.lat^
 ||4muk.lat^
 ||4mvj.lat^
@@ -1188,7 +1125,6 @@
 ||4p4p5r.lat^
 ||4p8n.lat^
 ||4pc9.lat^
-||4phe.lat^
 ||4phs.lat^
 ||4ppv.lat^
 ||4pvn.lat^
@@ -1207,7 +1143,6 @@
 ||4rxh.lat^
 ||4rxzz44.lat^
 ||4s22.lat^
-||4s37.lat^
 ||4s5q.lat^
 ||4s6u.lat^
 ||4s88.lat^
@@ -1249,7 +1184,6 @@
 ||4wxf.lat^
 ||4x10.lat^
 ||4x1uipq.lat^
-||4x35.lat^
 ||4x3m.lat^
 ||4xb2tf.lat^
 ||4xfz.lat^
@@ -1272,7 +1206,6 @@
 ||4yvj.lat^
 ||4yx7.lat^
 ||4z1c.lat^
-||4zey.lat^
 ||4znt.lat^
 ||500b.lat^
 ||501s.lat^
@@ -1287,7 +1220,6 @@
 ||518s.lat^
 ||5194.lat^
 ||51bz.lat^
-||51c7.lat^
 ||51k1.lat^
 ||520e.lat^
 ||52266.lat^
@@ -1311,7 +1243,6 @@
 ||54hq.lat^
 ||54jk.lat^
 ||54p9.lat^
-||5525.lat^
 ||556789.lat^
 ||557mb.lat^
 ||55hf.lat^
@@ -1327,10 +1258,8 @@
 ||56dc.lat^
 ||56ef88.lat^
 ||56me.lat^
-||56mga.lat^
 ||56mn.lat^
 ||56nw.lat^
-||56q4.lat^
 ||56qy.lat^
 ||56sq.lat^
 ||56w1.lat^
@@ -1346,7 +1275,6 @@
 ||57gn.lat^
 ||57mf.lat^
 ||57tc.lat^
-||57xg.lat^
 ||581ci.lat^
 ||5881.lat^
 ||58fc.lat^
@@ -1359,10 +1287,8 @@
 ||59d7.lat^
 ||59qhjufb.lat^
 ||59r4.lat^
-||5a3c.lat^
 ||5a4t.lat^
 ||5a5t.lat^
-||5aweh.lat^
 ||5awp.lat^
 ||5ayx.lat^
 ||5b6f.lat^
@@ -1396,34 +1322,28 @@
 ||5fd8.lat^
 ||5fj2.lat^
 ||5fke.lat^
-||5fn9.lat^
 ||5frr.lat^
 ||5fs3.lat^
 ||5fu6.lat^
 ||5fuu.lat^
-||5g3z.lat^
 ||5g8h.lat^
 ||5g98efjijwkewe.lat^
 ||5gd1.lat^
 ||5gej1l.lat^
 ||5gmb.lat^
 ||5gn5.lat^
-||5guf.lat^
 ||5gz8.lat^
 ||5h1m.lat^
 ||5h4k.lat^
 ||5h9c.lat^
 ||5hdg.lat^
 ||5hrv.lat^
-||5j1telns.lat^
-||5j45.lat^
 ||5j5g.lat^
 ||5jak.lat^
 ||5jpr.lat^
 ||5jt3.lat^
 ||5jw6.lat^
 ||5jzt.lat^
-||5k0m.lat^
 ||5kb7.lat^
 ||5kbz.lat^
 ||5kcn.lat^
@@ -1436,7 +1356,6 @@
 ||5mc02jom.lat^
 ||5mjn.lat^
 ||5mmm.lat^
-||5mvd.lat^
 ||5n8a.lat^
 ||5neg.lat^
 ||5nfp.lat^
@@ -1453,13 +1372,11 @@
 ||5pr9.lat^
 ||5psv.lat^
 ||5psw.lat^
-||5pu3.lat^
 ||5pzd.lat^
 ||5q2d.lat^
 ||5qsp.lat^
 ||5qy3.lat^
 ||5r15.lat^
-||5r2p.lat^
 ||5r2r.lat^
 ||5rc4.lat^
 ||5rp5.lat^
@@ -1468,7 +1385,6 @@
 ||5rqj.lat^
 ||5s12.lat^
 ||5s68.lat^
-||5s80.lat^
 ||5scm.lat^
 ||5swg.lat^
 ||5syu.lat^
@@ -1478,7 +1394,6 @@
 ||5ttb9s3.lat^
 ||5txv.lat^
 ||5tyn.lat^
-||5u0t.lat^
 ||5ue8.lat^
 ||5uf4.lat^
 ||5utk.lat^
@@ -1505,7 +1420,6 @@
 ||5xt8.lat^
 ||5xug.lat^
 ||5y01.lat^
-||5y5g.lat^
 ||5y7g.lat^
 ||5y9obom.lat^
 ||5ye1.lat^
@@ -1518,7 +1432,6 @@
 ||5z1p.lat^
 ||5z8t.lat^
 ||5za3.lat^
-||5zby.lat^
 ||5zc2.lat^
 ||60e1.lat^
 ||60k2.lat^
@@ -1552,10 +1465,8 @@
 ||63hh.lat^
 ||63rd.lat^
 ||63wso0.lat^
-||63y8.lat^
 ||63zj.lat^
 ||64286.lat^
-||6432.lat^
 ||643m.lat^
 ||64gnx.lat^
 ||64j1.lat^
@@ -1598,21 +1509,18 @@
 ||68xy.lat^
 ||693e.lat^
 ||698z.lat^
-||69bw.lat^
 ||69e5.lat^
 ||69f48vt.lat^
 ||69f6.lat^
 ||69se.lat^
 ||6a6p.lat^
 ||6akw.lat^
-||6au2.lat^
 ||6aud.lat^
 ||6az6.lat^
 ||6b4n.lat^
 ||6b5g.lat^
 ||6b63.lat^
 ||6bg7.lat^
-||6byk.lat^
 ||6byn.lat^
 ||6byx.lat^
 ||6c2c.lat^
@@ -1657,14 +1565,12 @@
 ||6hdc.lat^
 ||6hqw.lat^
 ||6hvd.lat^
-||6hxx.lat^
 ||6hywlkkr.lat^
 ||6ig03e.lat^
 ||6j2x.lat^
 ||6j5c.lat^
 ||6jaw.lat^
 ||6jdb.lat^
-||6jgu.lat^
 ||6jve.lat^
 ||6k4h.lat^
 ||6kek.lat^
@@ -1689,7 +1595,6 @@
 ||6of99e.lat^
 ||6pks.lat^
 ||6pqr.lat^
-||6q5k.lat^
 ||6q5q.lat^
 ||6qmt.lat^
 ||6qvczy5r.lat^
@@ -1730,16 +1635,13 @@
 ||6vjp.lat^
 ||6vtc.lat^
 ||6vtq.lat^
-||6vzf.lat^
 ||6w5s.lat^
 ||6w60.lat^
 ||6w8x.lat^
-||6wdbp38y.lat^
 ||6we5.lat^
 ||6wge.lat^
 ||6wmm.lat^
 ||6wqh.lat^
-||6wqm.lat^
 ||6wqu.lat^
 ||6ws1.lat^
 ||6wt2erf.lat^
@@ -1775,18 +1677,15 @@
 ||70tn.lat^
 ||70xesfi.lat^
 ||713f.lat^
-||71fb.lat^
 ||71fib.lat^
 ||71hu.lat^
 ||71hx.lat^
 ||71q5.lat^
 ||71ss.lat^
-||71t5.lat^
 ||71w8.lat^
 ||71yv.lat^
 ||72k5.lat^
 ||72ku.lat^
-||72pe.lat^
 ||72ud.lat^
 ||7306.lat^
 ||7326.lat^
@@ -1822,7 +1721,6 @@
 ||76d9y.lat^
 ||76hh.lat^
 ||76k3.lat^
-||76p0.lat^
 ||76uc.lat^
 ||76ux.lat^
 ||772d.lat^
@@ -1889,12 +1787,10 @@
 ||7fpw.lat^
 ||7fqr.lat^
 ||7fwe.lat^
-||7g7w.lat^
 ||7g83.lat^
 ||7h5vk.lat^
 ||7hbv.lat^
 ||7hc6.lat^
-||7he0.lat^
 ||7hfe.lat^
 ||7hfq.lat^
 ||7hmd.lat^
@@ -1952,7 +1848,6 @@
 ||7qwp.lat^
 ||7rfn.lat^
 ||7rhb.lat^
-||7rjr.lat^
 ||7rpn.lat^
 ||7rt4.lat^
 ||7rww.lat^
@@ -1960,7 +1855,6 @@
 ||7s6z.lat^
 ||7sb7.lat^
 ||7sej.lat^
-||7sm1.lat^
 ||7sr2.lat^
 ||7sxg.lat^
 ||7sxh.lat^
@@ -1985,7 +1879,6 @@
 ||7wq3.lat^
 ||7x11.lat^
 ||7x3d.lat^
-||7x3q.lat^
 ||7x4s.lat^
 ||7x89.lat^
 ||7xed.lat^
@@ -2024,7 +1917,6 @@
 ||817st.lat^
 ||81dj.lat^
 ||81e4.lat^
-||81f3.lat^
 ||81hk.lat^
 ||81ps.lat^
 ||81qv.lat^
@@ -2071,7 +1963,6 @@
 ||87eq.lat^
 ||87gj.lat^
 ||87x7.lat^
-||87zm.lat^
 ||88-segi-daftar.lat^
 ||88119.lat^
 ||889p.lat^
@@ -2079,7 +1970,6 @@
 ||88nn.lat^
 ||88qu.lat^
 ||88r9.lat^
-||88x6.lat^
 ||88y6.lat^
 ||88y67k.lat^
 ||89cv.lat^
@@ -2099,7 +1989,6 @@
 ||8bb6.lat^
 ||8bck8t71.lat^
 ||8bkt.lat^
-||8bna.lat^
 ||8bty.lat^
 ||8bw8.lat^
 ||8c3c.lat^
@@ -2108,7 +1997,6 @@
 ||8c4t.lat^
 ||8cmv.lat^
 ||8cn2.lat^
-||8cnw.lat^
 ||8d0j.lat^
 ||8dfg.lat^
 ||8dhc.lat^
@@ -2162,7 +2050,6 @@
 ||8jny.lat^
 ||8jp1.lat^
 ||8jph.lat^
-||8jwe.lat^
 ||8k28.lat^
 ||8kdkw.lat^
 ||8m3u.lat^
@@ -2224,7 +2111,6 @@
 ||8tsj.lat^
 ||8u783zv.lat^
 ||8uft.lat^
-||8uqj.lat^
 ||8uv967.lat^
 ||8uxd.lat^
 ||8uz1.lat^
@@ -2242,7 +2128,6 @@
 ||8x41.lat^
 ||8x57.lat^
 ||8x5zup.lat^
-||8x77.lat^
 ||8x7q.lat^
 ||8x8v.lat^
 ||8x8xbt6.lat^
@@ -2260,7 +2145,6 @@
 ||8z04.lat^
 ||8z05.lat^
 ||8z2u.lat^
-||8z76.lat^
 ||8za5.lat^
 ||8zeb.lat^
 ||8zf5.lat^
@@ -2276,13 +2160,11 @@
 ||91na.lat^
 ||91porn.lat^
 ||91tv.lat^
-||925u.lat^
 ||927e.lat^
 ||92hj.lat^
 ||92nz.lat^
 ||92p3.lat^
 ||92pg.lat^
-||92sm.lat^
 ||932e.lat^
 ||9340.lat^
 ||9347.lat^
@@ -2297,7 +2179,6 @@
 ||94qz.lat^
 ||951g.lat^
 ||952ob66t.lat^
-||954yn.lat^
 ||95514.lat^
 ||95679.lat^
 ||95d9.lat^
@@ -2310,7 +2191,6 @@
 ||96fuuril.lat^
 ||96jp6v.lat^
 ||96s4.lat^
-||96x28gey.lat^
 ||9759q.lat^
 ||97fk0.lat^
 ||97n5.lat^
@@ -2327,7 +2207,6 @@
 ||99qsx.lat^
 ||99v.lat^
 ||9b25.lat^
-||9b5x.lat^
 ||9bjb.lat^
 ||9bnm.lat^
 ||9c2z.lat^
@@ -2335,7 +2214,6 @@
 ||9c5f.lat^
 ||9cce.lat^
 ||9ccy.lat^
-||9cgum.lat^
 ||9cpiq.lat^
 ||9cps.lat^
 ||9crc.lat^
@@ -2351,7 +2229,6 @@
 ||9f2u.lat^
 ||9f4a.lat^
 ||9fkbw4hy.lat^
-||9fks.lat^
 ||9foil5.lat^
 ||9fpg.lat^
 ||9g13.lat^
@@ -2396,7 +2273,6 @@
 ||9t7c.lat^
 ||9ts7.lat^
 ||9twz.lat^
-||9txr.lat^
 ||9ty9.lat^
 ||9u1w.lat^
 ||9u48c.lat^
@@ -2447,13 +2323,11 @@
 ||a474.lat^
 ||a484z.lat^
 ||a4hm.lat^
-||a4ic4v29.lat^
 ||a4rk.lat^
 ||a4sj.lat^
 ||a4z8.lat^
 ||a57m.lat^
 ||a5dd.lat^
-||a5fc.lat^
 ||a663.lat^
 ||a6px.lat^
 ||a742.lat^
@@ -2462,13 +2336,11 @@
 ||a976.lat^
 ||a99k.lat^
 ||a9dysf.lat^
-||a9mh.lat^
 ||aa15.lat^
 ||aaadef.lat^
 ||aafqbx1.lat^
 ||aain176l.lat^
 ||aald1.lat^
-||aay5.lat^
 ||ab3tbz9t.lat^
 ||abcslot.lat^
 ||abd6.lat^
@@ -2483,7 +2355,6 @@
 ||academiadedjs.lat^
 ||accesosegurogali.lat^
 ||accessautdrive.lat^
-||ackz.lat^
 ||acme.lat^
 ||acopk.lat^
 ||acrade.lat^
@@ -2492,7 +2363,6 @@
 ||ad-ppt-gov-tur.lat^
 ||ad0hbb.lat^
 ||ad1s0811.lat^
-||ad1x.lat^
 ||adam77e.lat^
 ||adara.lat^
 ||adelina.lat^
@@ -2515,6 +2385,7 @@
 ||aeyy.lat^
 ||af33.lat^
 ||af79.lat^
+||afasu2.lat^
 ||afc0myt9.lat^
 ||afdvzko.lat^
 ||aff.lat^
@@ -2529,7 +2400,6 @@
 ||agjq.lat^
 ||agushopp.lat^
 ||agusshop.lat^
-||agxs.lat^
 ||ah4v.lat^
 ||ah5n.lat^
 ||ah8v.lat^
@@ -2545,7 +2415,6 @@
 ||aitog.lat^
 ||ajfv.lat^
 ||ajfw.lat^
-||ajrm.lat^
 ||ak4h.lat^
 ||ak4p.lat^
 ||ak8hdcf1.lat^
@@ -2561,7 +2430,6 @@
 ||alexdev.lat^
 ||aleyastore1408.lat^
 ||alicesw.lat^
-||alicia.lat^
 ||alipay.lat^
 ||alissoftware.lat^
 ||aljazeera.lat^
@@ -2572,8 +2440,9 @@
 ||allototo.lat^
 ||alopecia.lat^
 ||alquimiadigital.lat^
+||alta.lat^
+||altaresources.lat^
 ||alx17.lat^
-||am22.lat^
 ||am3yijy6.lat^
 ||amazons.lat^
 ||ameerweb.lat^
@@ -2582,9 +2451,7 @@
 ||amt157p.lat^
 ||amw3.lat^
 ||amyy.lat^
-||an81.lat^
 ||anal.lat^
-||anck.lat^
 ||and4.lat^
 ||andreisecurity.lat^
 ||andresjfrancoc.lat^
@@ -2608,8 +2475,6 @@
 ||aprs.lat^
 ||apushlovers.lat^
 ||apzzstore.lat^
-||aq0eirmq.lat^
-||aq15mkr4.lat^
 ||aqjskokdtw.lat^
 ||aquamanga.lat^
 ||ar4x.lat^
@@ -2688,7 +2553,6 @@
 ||b0rt.lat^
 ||b0spxev.lat^
 ||b0v7.lat^
-||b13e.lat^
 ||b13n.lat^
 ||b1d2.lat^
 ||b1fg.lat^
@@ -2704,7 +2568,6 @@
 ||b36b.lat^
 ||b37w.lat^
 ||b3a7.lat^
-||b3e3.lat^
 ||b3ey.lat^
 ||b3f7.lat^
 ||b3ns.lat^
@@ -2717,7 +2580,6 @@
 ||b4c3.lat^
 ||b4nb.lat^
 ||b4p3.lat^
-||b4sq.lat^
 ||b4we.lat^
 ||b4x185z7.lat^
 ||b4y2.lat^
@@ -2738,7 +2600,6 @@
 ||b6qc.lat^
 ||b6wr.lat^
 ||b79f.lat^
-||b7au.lat^
 ||b7b2.lat^
 ||b7sh.lat^
 ||b7xm.lat^
@@ -2776,7 +2637,6 @@
 ||banki.lat^
 ||baohanhlg.lat^
 ||baohanhsamsung.lat^
-||baudrit.lat^
 ||baxley.lat^
 ||bayan.lat^
 ||bayu.lat^
@@ -2789,7 +2649,6 @@
 ||bbu6.lat^
 ||bbus.lat^
 ||bc65.lat^
-||bc6v.lat^
 ||bccx.lat^
 ||bcfs.lat^
 ||bclub.lat^
@@ -2812,10 +2671,10 @@
 ||becr.lat^
 ||becu.lat^
 ||beesblaze.lat^
+||behumaneinshortlife.lat^
 ||belegacy.lat^
 ||bellezaesteticaavanzada.lat^
 ||bellezasaludydinero.lat^
-||bengkuluvip.lat^
 ||benua777.lat^
 ||beqdx.lat^
 ||berkah88.lat^
@@ -2851,6 +2710,7 @@
 ||bhme.lat^
 ||bhrn.lat^
 ||bht30.lat^
+||bicchierai.lat^
 ||bidadari29.lat^
 ||bigtime.lat^
 ||bigu.lat^
@@ -2864,7 +2724,6 @@
 ||bitpro.lat^
 ||biz-connection.lat^
 ||bj371pxj.lat^
-||bj8r.lat^
 ||bjbt.lat^
 ||bjcwhwew.lat^
 ||bjd6.lat^
@@ -2879,12 +2738,14 @@
 ||bk5s.lat^
 ||bkfp.lat^
 ||bkj7.lat^
-||bkzu8ahh.lat^
 ||blan.lat^
+||blast-invite.lat^
 ||blaze-1.lat^
 ||bling.lat^
 ||block.lat^
 ||blockchainsec.lat^
+||blog-r4gbc.lat^
+||bluecrestllc.lat^
 ||bluestore.lat^
 ||bm3r.lat^
 ||bm85.lat^
@@ -2932,14 +2793,12 @@
 ||bqxxh.lat^
 ||bqyogw18.lat^
 ||bqzw.lat^
-||br3n.lat^
 ||br97.lat^
 ||braknil.lat^
 ||brbg.lat^
 ||bremo.lat^
 ||brhm.lat^
 ||bringol.lat^
-||brotils.lat^
 ||brq4.lat^
 ||brv3.lat^
 ||bry3.lat^
@@ -2957,7 +2816,6 @@
 ||btuf.lat^
 ||bu4d.lat^
 ||bu6d.lat^
-||bub0.lat^
 ||bub3.lat^
 ||buc5.lat^
 ||bue4.lat^
@@ -2993,7 +2851,6 @@
 ||bxdz.lat^
 ||bxf.lat^
 ||bxfj.lat^
-||bxg2.lat^
 ||bxqg.lat^
 ||bxqr.lat^
 ||by4p.lat^
@@ -3002,11 +2859,14 @@
 ||byd8.lat^
 ||bykt.lat^
 ||byscb.lat^
+||byteloom.lat^
 ||byus.lat^
 ||bywzkti.lat^
+||bz49vk.lat^
 ||bz61.lat^
 ||bz8d.lat^
 ||bzpr.lat^
+||bzvhiq.lat^
 ||bzwz.lat^
 ||bzxh.lat^
 ||bzy9.lat^
@@ -3036,7 +2896,6 @@
 ||c3z3.lat^
 ||c3zw.lat^
 ||c4s3hfpi.lat^
-||c4sc.lat^
 ||c4u5.lat^
 ||c4yet.lat^
 ||c53a.lat^
@@ -3045,7 +2904,6 @@
 ||c5hu.lat^
 ||c5kw.lat^
 ||c5ur.lat^
-||c5yx.lat^
 ||c62n.lat^
 ||c62z.lat^
 ||c699jigq.lat^
@@ -3082,7 +2940,6 @@
 ||c9e6.lat^
 ||c9ex.lat^
 ||c9jm.lat^
-||ca6u.lat^
 ||ca7q.lat^
 ||cacharrosstore.lat^
 ||cadot.lat^
@@ -3100,7 +2957,6 @@
 ||carjenshop.lat^
 ||carma.lat^
 ||carteop.lat^
-||casa-by-510t.lat^
 ||casastella.lat^
 ||casayherramientas.lat^
 ||cashpag.lat^
@@ -3129,8 +2985,6 @@
 ||ccbm.lat^
 ||ccec.lat^
 ||ccfde.lat^
-||ccqm.lat^
-||ccsmed.lat^
 ||ccwq.lat^
 ||cd3r.lat^
 ||cd72.lat^
@@ -3145,7 +2999,6 @@
 ||cegpj.lat^
 ||cekx.lat^
 ||cendrawasih.lat^
-||centrastate.lat^
 ||cepj.lat^
 ||cervicalcoloracriloful.lat^
 ||cf1y.lat^
@@ -3164,7 +3017,6 @@
 ||cgw9e9.lat^
 ||cgzb.lat^
 ||ch0c.lat^
-||ch0x.lat^
 ||ch16.lat^
 ||ch5w.lat^
 ||ch6p0.lat^
@@ -3187,9 +3039,7 @@
 ||chyr.lat^
 ||ci2.lat^
 ||cialis.lat^
-||cicxt.lat^
 ||cineliz.lat^
-||cinemaindo.lat^
 ||cineplay.lat^
 ||cinergia.lat^
 ||circle-artex.lat^
@@ -3209,7 +3059,6 @@
 ||ckashpndeq.lat^
 ||cke5.lat^
 ||cktq.lat^
-||ckvn.lat^
 ||cl25hb59.lat^
 ||clarikagroup.lat^
 ||clarovideo.lat^
@@ -3239,7 +3088,6 @@
 ||cmqc.lat^
 ||cmrg.lat^
 ||cmtg.lat^
-||cmtr.lat^
 ||cn2dw7xn.lat^
 ||cn7t.lat^
 ||cn9x.lat^
@@ -3313,6 +3161,7 @@
 ||cr0h2o.lat^
 ||cr1c.lat^
 ||cr9r.lat^
+||craftycreations.lat^
 ||creaekhovian.lat^
 ||creandoando.lat^
 ||creapasivos.lat^
@@ -3341,7 +3190,7 @@
 ||csrg.lat^
 ||cst1.lat^
 ||csu0.lat^
-||csxj.lat^
+||ctbcbank.lat^
 ||ctrl.lat^
 ||ctsb.lat^
 ||ctx1.lat^
@@ -3351,8 +3200,6 @@
 ||cuchuta.lat^
 ||cucudewa88.lat^
 ||cuidadoanimalconenrique.lat^
-||cuidadoresencasa.lat^
-||cuidesuasaude.lat^
 ||culinarycraze.lat^
 ||cuparian.lat^
 ||cupido.lat^
@@ -3419,7 +3266,6 @@
 ||d2kj.lat^
 ||d2krqz9.lat^
 ||d2vb.lat^
-||d2x0.lat^
 ||d32v.lat^
 ||d33a.lat^
 ||d39p.lat^
@@ -3433,7 +3279,6 @@
 ||d3z2.lat^
 ||d40v.lat^
 ||d41s.lat^
-||d4b0.lat^
 ||d4e8.lat^
 ||d4nq.lat^
 ||d4t8.lat^
@@ -3456,8 +3301,6 @@
 ||d6un.lat^
 ||d730.lat^
 ||d74q.lat^
-||d7cs.lat^
-||d7fg.lat^
 ||d7hz.lat^
 ||d7lrv2nb.lat^
 ||d7p0.lat^
@@ -3492,6 +3335,7 @@
 ||dasdtni.lat^
 ||dasy.lat^
 ||dataedge.lat^
+||datalab.lat^
 ||datuk168game.lat^
 ||datx.lat^
 ||daunslot4d.lat^
@@ -3526,6 +3370,7 @@
 ||dealharmony.lat^
 ||dealmakers.lat^
 ||dealtoday.lat^
+||debtrelief.lat^
 ||decoratuvida.lat^
 ||deeha.lat^
 ||dekiahadstore.lat^
@@ -3534,7 +3379,6 @@
 ||demanddeborah.lat^
 ||depot-chorus.lat^
 ||des6.lat^
-||desolventive.lat^
 ||destino.lat^
 ||detodopunto.lat^
 ||deutschepostde.lat^
@@ -3547,17 +3391,13 @@
 ||df2p.lat^
 ||df68.lat^
 ||df6y.lat^
-||dfb.lat^
 ||dfn7.lat^
 ||dfsy.lat^
 ||dfzyod.lat^
-||dg5r.lat^
 ||dgd5xqvr.lat^
 ||dgtv.lat^
 ||dgvq.lat^
 ||dgx0.lat^
-||dgyt.lat^
-||dgzj.lat^
 ||dh06.lat^
 ||dh8y.lat^
 ||dhhf.lat^
@@ -3589,16 +3429,12 @@
 ||dj34.lat^
 ||djfy.lat^
 ||djwv.lat^
-||djzonaweb.lat^
 ||dk0x.lat^
 ||dkex.lat^
-||dkez.lat^
-||dkglj.lat^
 ||dkhg.lat^
 ||dkkt.lat^
 ||dkmayr.lat^
 ||dkpj.lat^
-||dm5q.lat^
 ||dmpp.lat^
 ||dmsmar-com.lat^
 ||dmtu.lat^
@@ -3608,7 +3444,6 @@
 ||dnsg.lat^
 ||dnsh4puz.lat^
 ||dnv6.lat^
-||doclub.lat^
 ||documentqrcode.lat^
 ||doffy.lat^
 ||dogesmp.lat^
@@ -3625,10 +3460,8 @@
 ||dp4t.lat^
 ||dpa6.lat^
 ||dps3.lat^
-||dptlabs.lat^
 ||dptmzk.lat^
 ||dpwc.lat^
-||dpx5.lat^
 ||dq2u.lat^
 ||dq58.lat^
 ||dqege5.lat^
@@ -3643,7 +3476,6 @@
 ||dr58.lat^
 ||dragons.lat^
 ||drako.lat^
-||drakorindo.lat^
 ||drdg.lat^
 ||dreamligth.lat^
 ||drgf.lat^
@@ -3681,8 +3513,6 @@
 ||dulce.lat^
 ||dulceriamaujo.lat^
 ||dum0.lat^
-||dunia21.lat^
-||duniafilm21.lat^
 ||dunianaga.lat^
 ||dupz.lat^
 ||duqb.lat^
@@ -3691,7 +3521,6 @@
 ||duta369bet1.lat^
 ||duzfro.lat^
 ||dv2b.lat^
-||dv6v.lat^
 ||dvfr.lat^
 ||dvg2.lat^
 ||dvgn.lat^
@@ -3707,7 +3536,6 @@
 ||dwdu.lat^
 ||dwmc.lat^
 ||dwnd.lat^
-||dwpu.lat^
 ||dwt7.lat^
 ||dwwj.lat^
 ||dx5c.lat^
@@ -3726,7 +3554,6 @@
 ||dznqoz.lat^
 ||dzvk.lat^
 ||dzwc.lat^
-||dzz6.lat^
 ||e074.lat^
 ||e0a2.lat^
 ||e0hj.lat^
@@ -3764,7 +3591,6 @@
 ||e54p.lat^
 ||e5hc.lat^
 ||e5qk.lat^
-||e5tz.lat^
 ||e5wz.lat^
 ||e5yx.lat^
 ||e64w.lat^
@@ -3775,7 +3601,6 @@
 ||e6gu.lat^
 ||e6mw8.lat^
 ||e6se.lat^
-||e6sv.lat^
 ||e6v8.lat^
 ||e72b.lat^
 ||e7p5ov2a.lat^
@@ -3809,7 +3634,6 @@
 ||eans.lat^
 ||easytrade.lat^
 ||ebbwb8l5.lat^
-||ebct.lat^
 ||ebdy.lat^
 ||ebj3.lat^
 ||ebjg81.lat^
@@ -3860,14 +3684,12 @@
 ||eevv.lat^
 ||eewp.lat^
 ||eexeewv.lat^
-||eexq.lat^
 ||eey3.lat^
 ||eeyp.lat^
 ||eezz.lat^
 ||ef2u.lat^
 ||ef6y.lat^
 ||efjp.lat^
-||efv1h.lat^
 ||efv3.lat^
 ||efxt.lat^
 ||eg0h.lat^
@@ -3886,7 +3708,6 @@
 ||ehce.lat^
 ||ehdv.lat^
 ||ehh9.lat^
-||ehkp.lat^
 ||ehm2.lat^
 ||ehqls7g2.lat^
 ||ehsb.lat^
@@ -3945,7 +3766,6 @@
 ||emzu.lat^
 ||en09.lat^
 ||en6d.lat^
-||enaltashop.lat^
 ||encantocosmeticolatino.lat^
 ||encuentraloya.lat^
 ||endless.lat^
@@ -3972,7 +3792,6 @@
 ||eq5m.lat^
 ||eq7e.lat^
 ||eqev.lat^
-||eqhq.lat^
 ||eqmq.lat^
 ||eqng.lat^
 ||eqqt.lat^
@@ -4015,9 +3834,9 @@
 ||ethz.lat^
 ||etjt.lat^
 ||etkk.lat^
+||etmb8i.lat^
 ||etnot.lat^
 ||etr6na.lat^
-||etzr.lat^
 ||eu07.lat^
 ||eu23.lat^
 ||eu82.lat^
@@ -4032,7 +3851,6 @@
 ||ev3e.lat^
 ||ev3h.lat^
 ||ev86.lat^
-||eva5.lat^
 ||evcc.lat^
 ||evep.lat^
 ||evj1.lat^
@@ -4056,7 +3874,6 @@
 ||ewxy.lat^
 ||ewy0.lat^
 ||ex1n.lat^
-||ex41.lat^
 ||ex64.lat^
 ||ex6r.lat^
 ||ex7m.lat^
@@ -4064,7 +3881,6 @@
 ||ex8x.lat^
 ||exa303slot.lat^
 ||exclusiveoffertoday.lat^
-||exdc.lat^
 ||exfemnde.lat^
 ||exilium.lat^
 ||exit.lat^
@@ -4118,10 +3934,8 @@
 ||f2dg.lat^
 ||f2gt.lat^
 ||f2j7.lat^
-||f2jv.lat^
 ||f2m7.lat^
 ||f2rr.lat^
-||f2wp.lat^
 ||f2xv.lat^
 ||f34u.lat^
 ||f3f1.lat^
@@ -4138,7 +3952,6 @@
 ||f51njgh.lat^
 ||f59h.lat^
 ||f5d6.lat^
-||f5ku.lat^
 ||f63n.lat^
 ||f6cy.lat^
 ||f6j2.lat^
@@ -4153,8 +3966,6 @@
 ||f7by.lat^
 ||f7dt.lat^
 ||f7kb.lat^
-||f7vn.lat^
-||f7wd.lat^
 ||f840.lat^
 ||f865.lat^
 ||f86v.lat^
@@ -4182,11 +3993,9 @@
 ||facturation-aife.lat^
 ||fair.lat^
 ||falconacademy.lat^
-||fantonstore.lat^
 ||fastcdn.lat^
 ||faw99.lat^
 ||fawuk0.lat^
-||faxwh.lat^
 ||fb8hk0x8.lat^
 ||fc07.lat^
 ||fc2h.lat^
@@ -4208,7 +4017,6 @@
 ||fd5t.lat^
 ||fdb7.lat^
 ||fdcx.lat^
-||fdef.lat^
 ||fdk8.lat^
 ||fdsq.lat^
 ||fdt2.lat^
@@ -4219,7 +4027,7 @@
 ||fe6s.lat^
 ||fe6w.lat^
 ||fe8y.lat^
-||felvf.lat^
+||feishu.lat^
 ||fem1.lat^
 ||fems.lat^
 ||fese.lat^
@@ -4250,9 +4058,7 @@
 ||fhd5.lat^
 ||fhf6.lat^
 ||fhkm.lat^
-||fhzm.lat^
 ||fillfor.lat^
-||filmapik.lat^
 ||filmix.lat^
 ||filo.lat^
 ||findpeople.lat^
@@ -4275,16 +4081,14 @@
 ||fkge.lat^
 ||fkp9.lat^
 ||fkpz.lat^
-||fkx71.lat^
 ||fkz24j.lat^
 ||fkzl6a.lat^
 ||flappypix.lat^
 ||fld8.lat^
 ||flexi-connection.lat^
-||flokivip.lat^
 ||flowbet.lat^
-||flyaroundcolombia.lat^
 ||flypystore.lat^
+||flytap.lat^
 ||fm20.lat^
 ||fm3wawea.lat^
 ||fm47.lat^
@@ -4296,7 +4100,6 @@
 ||fmqf.lat^
 ||fmqu.lat^
 ||fn2p.lat^
-||fn8j.lat^
 ||fndc.lat^
 ||fnew.lat^
 ||fnkh.lat^
@@ -4305,7 +4108,6 @@
 ||fnsc.lat^
 ||fnsp.lat^
 ||fnvngqs.lat^
-||fnvx.lat^
 ||fny3.lat^
 ||food-pandu.lat^
 ||foodpanda.lat^
@@ -4325,7 +4127,6 @@
 ||fpgc.lat^
 ||fprs.lat^
 ||fpru.lat^
-||fpvk.lat^
 ||fpwj.lat^
 ||fpy51zzl.lat^
 ||fq02.lat^
@@ -4400,7 +4201,6 @@
 ||fwgfk6xf.lat^
 ||fwnj.lat^
 ||fwq2.lat^
-||fwt0.lat^
 ||fwuz.lat^
 ||fwwc.lat^
 ||fx1cxne.lat^
@@ -4420,7 +4220,6 @@
 ||fyy3.lat^
 ||fyyiwys.lat^
 ||fz31.lat^
-||fz4j.lat^
 ||fzaz.lat^
 ||fzb2.lat^
 ||fzcm.lat^
@@ -4439,10 +4238,8 @@
 ||g1dkf4a.lat^
 ||g1fb.lat^
 ||g1gt.lat^
-||g1nmkuc6.lat^
 ||g1nu.lat^
 ||g1ny.lat^
-||g1p0.lat^
 ||g1sc.lat^
 ||g1up.lat^
 ||g1vx.lat^
@@ -4465,9 +4262,7 @@
 ||g3frzr2.lat^
 ||g3g2.lat^
 ||g3g6y.lat^
-||g3gu.lat^
 ||g3j7.lat^
-||g3jd.lat^
 ||g3k1.lat^
 ||g3n5.lat^
 ||g3rv.lat^
@@ -4476,7 +4271,6 @@
 ||g3zb.lat^
 ||g400.lat^
 ||g40v.lat^
-||g44r.lat^
 ||g4hu.lat^
 ||g4kw.lat^
 ||g4rm.lat^
@@ -4497,7 +4291,6 @@
 ||g6us10.lat^
 ||g6w3.lat^
 ||g6z8.lat^
-||g73d.lat^
 ||g76p3mrh.lat^
 ||g76v.lat^
 ||g795od4x.lat^
@@ -4538,10 +4331,8 @@
 ||gamestretfortstudio.lat^
 ||gamewith.lat^
 ||gangster4d-1.lat^
-||ganool.lat^
 ||gaoyuan.lat^
 ||gary.lat^
-||gb00.lat^
 ||gb08.lat^
 ||gbck.lat^
 ||gbjk8hie.lat^
@@ -4554,10 +4345,8 @@
 ||gc0t.lat^
 ||gc3g.lat^
 ||gc3y.lat^
-||gc52.lat^
 ||gcca.lat^
 ||gccyk.lat^
-||gcdy.lat^
 ||gcge.lat^
 ||gcgfp5q1.lat^
 ||gci6.lat^
@@ -4582,11 +4371,9 @@
 ||gdtq.lat^
 ||gdux.lat^
 ||gdxx.lat^
-||gdzg.lat^
 ||ge1d.lat^
 ||ge5b.lat^
 ||gearcalculator.lat^
-||gelbooru.lat^
 ||gen77.lat^
 ||genhua.lat^
 ||genie.lat^
@@ -4599,7 +4386,6 @@
 ||gey3.lat^
 ||gf62.lat^
 ||gf7n.lat^
-||gfc4.lat^
 ||gfcg.lat^
 ||gfd1.lat^
 ||gfdt.lat^
@@ -4624,7 +4410,6 @@
 ||gite.lat^
 ||gj63.lat^
 ||gj84.lat^
-||gja7.lat^
 ||gjfs.lat^
 ||gjpz.lat^
 ||gjq5.lat^
@@ -4643,7 +4428,6 @@
 ||gkus.lat^
 ||gkxm.lat^
 ||glamourgadget-goods.lat^
-||glara.lat^
 ||gllveraverglvx.lat^
 ||globaldatacenter.lat^
 ||globalgoodshub.lat^
@@ -4722,9 +4506,7 @@
 ||gss8.lat^
 ||gstg.lat^
 ||gsulzjsu.lat^
-||gsvy.lat^
 ||gt0m.lat^
-||gt0w.lat^
 ||gt3f.lat^
 ||gt6c.lat^
 ||gtb8.lat^
@@ -4732,17 +4514,14 @@
 ||gtcu.lat^
 ||gtdt.lat^
 ||gthik.lat^
-||gtrt.lat^
 ||gts4p.lat^
 ||gu0x.lat^
 ||gu290.lat^
 ||gu2p.lat^
 ||gu3r.lat^
-||gu3y.lat^
 ||gu47.lat^
 ||gu6c.lat^
 ||gu7u.lat^
-||guest812.lat^
 ||guhf.lat^
 ||gukz.lat^
 ||gulapasir.lat^
@@ -4776,7 +4555,6 @@
 ||gxfy.lat^
 ||gxkr.lat^
 ||gxmsvr2.lat^
-||gxmx.lat^
 ||gxwc.lat^
 ||gxza.lat^
 ||gyby.lat^
@@ -4796,7 +4574,6 @@
 ||gzg3nq.lat^
 ||gzj6.lat^
 ||gzpak.lat^
-||gzpd.lat^
 ||gzrj364o.lat^
 ||gzry.lat^
 ||gzvy.lat^
@@ -4804,12 +4581,9 @@
 ||h020.lat^
 ||h02q.lat^
 ||h073.lat^
-||h086.lat^
 ||h0bg.lat^
 ||h0c4.lat^
 ||h0gx.lat^
-||h0rz.lat^
-||h0s4.lat^
 ||h0sk.lat^
 ||h0tz.lat^
 ||h11t.lat^
@@ -4822,7 +4596,6 @@
 ||h1rr.lat^
 ||h1tg.lat^
 ||h218.lat^
-||h28e.lat^
 ||h28g.lat^
 ||h28z.lat^
 ||h2d4.lat^
@@ -4830,7 +4603,6 @@
 ||h2m8.lat^
 ||h2qa.lat^
 ||h2y0.lat^
-||h37j.lat^
 ||h37r.lat^
 ||h39xci.lat^
 ||h3eq.lat^
@@ -4841,12 +4613,10 @@
 ||h4mksfn4.lat^
 ||h4nr.lat^
 ||h4ph.lat^
-||h4qf.lat^
 ||h4uz4aa.lat^
 ||h4wz.lat^
 ||h4zm.lat^
 ||h51x.lat^
-||h52c.lat^
 ||h54x.lat^
 ||h55b.lat^
 ||h5fd.lat^
@@ -4881,7 +4651,6 @@
 ||h84z.lat^
 ||h86p.lat^
 ||h8tw.lat^
-||h8wb.lat^
 ||h8yk.lat^
 ||h8zy.lat^
 ||h9c5.lat^
@@ -4903,10 +4672,10 @@
 ||hax5.lat^
 ||hb0d.lat^
 ||hb23.lat^
+||hbbjfb.lat^
 ||hbbt.lat^
 ||hbg7.lat^
 ||hboslot188.lat^
-||hbsm.lat^
 ||hc7e2e.lat^
 ||hcf2.lat^
 ||hcf7.lat^
@@ -4920,14 +4689,14 @@
 ||hde1.lat^
 ||hded.lat^
 ||hdfv.lat^
-||hdj0.lat^
 ||hdph.lat^
 ||hdwe.lat^
+||hdy90.lat^
 ||hdz2.lat^
 ||he6s.lat^
 ||heaven.lat^
 ||hebr.lat^
-||hentairead.lat^
+||helloryse.lat^
 ||heparice.lat^
 ||hepatitiscencolombia.lat^
 ||herlis.lat^
@@ -4953,6 +4722,7 @@
 ||hg4h.lat^
 ||hg8m.lat^
 ||hgb0.lat^
+||hgdh1.lat^
 ||hgre.lat^
 ||hgv9q.lat^
 ||hgvw.lat^
@@ -4987,7 +4757,6 @@
 ||hkjx.lat^
 ||hkmz.lat^
 ||hkpz.lat^
-||hkrb.lat^
 ||hkts.lat^
 ||hkue.lat^
 ||hkwj.lat^
@@ -4996,7 +4765,6 @@
 ||hlike.lat^
 ||hm7t.lat^
 ||hm7w.lat^
-||hm88.lat^
 ||hmbr.lat^
 ||hmg1.lat^
 ||hmhp62tp.lat^
@@ -5018,6 +4786,7 @@
 ||hooligans.lat^
 ||hoop.lat^
 ||hopmeditation.lat^
+||hormigon-textil.lat^
 ||hotdealsellernow.lat^
 ||hotdealsellernowfast.lat^
 ||housechip.lat^
@@ -5036,7 +4805,7 @@
 ||hra3.lat^
 ||hrd5.lat^
 ||hreu.lat^
-||hrigd.lat^
+||hrgecganqt.lat^
 ||hrj0.lat^
 ||hrup.lat^
 ||hrv4.lat^
@@ -5058,7 +4827,6 @@
 ||htftydrtdhgjhhkjhkugyf.lat^
 ||hth2.lat^
 ||htjv.lat^
-||htkh.lat^
 ||htnm.lat^
 ||htr4.lat^
 ||hts9.lat^
@@ -5118,25 +4886,22 @@
 ||hzus.lat^
 ||i0o0qb3y.lat^
 ||i2lxt.lat^
+||i2yc2p.lat^
 ||i58yn.lat^
 ||i5khwd.lat^
 ||i61wt54r.lat^
 ||i6ttj.lat^
 ||i7dmn.lat^
 ||i7kvscz.lat^
-||i92f1jc8.lat^
 ||i9jtg.lat^
 ||i9l4hkce.lat^
 ||iadytfaf.lat^
 ||iaventura.lat^
-||ib3lbm67.lat^
-||ibnpn.lat^
 ||ibpy.lat^
 ||ici6.lat^
 ||icloid.lat^
 ||idctechnologies.lat^
 ||idealstore.lat^
-||idlix.lat^
 ||idqeqi.lat^
 ||idr77.lat^
 ||idraoube.lat^
@@ -5151,9 +4916,7 @@
 ||ikai.lat^
 ||ikangurami3kg.lat^
 ||ilpsa.lat^
-||ilzk1asx.lat^
 ||im2t2r.lat^
-||im6uw.lat^
 ||imp.lat^
 ||impresionarte.lat^
 ||impress.lat^
@@ -5162,9 +4925,7 @@
 ||indo-gaming.lat^
 ||indo168.lat^
 ||indovegas.lat^
-||indoxx1.lat^
 ||ineba.lat^
-||inegp5fa.lat^
 ||infinitabellezaonline.lat^
 ||infisho.lat^
 ||influenciaactiva.lat^
@@ -5174,6 +4935,7 @@
 ||infortp-lambor88.lat^
 ||infrastructure.lat^
 ||inicgal.lat^
+||inicglc.lat^
 ||iniucokslot.lat^
 ||inmueble.lat^
 ||inno.lat^
@@ -5181,6 +4943,7 @@
 ||insegnesax.lat^
 ||inspiradesejo.lat^
 ||intercambio.lat^
+||intermax.lat^
 ||internetap.lat^
 ||internetda.lat^
 ||inticom.lat^
@@ -5218,10 +4981,10 @@
 ||ivo2.lat^
 ||iw8c0y7.lat^
 ||iwj12f89.lat^
+||ixb95.lat^
 ||ixwm0w68.lat^
 ||iy23.lat^
 ||iybittxm.lat^
-||j0cpkxeb.lat^
 ||j0df.lat^
 ||j0m3.lat^
 ||j0nvm5.lat^
@@ -5262,7 +5025,6 @@
 ||j5ze.lat^
 ||j62e.lat^
 ||j6bd.lat^
-||j6p7.lat^
 ||j6th.lat^
 ||j6w0.lat^
 ||j6zz.lat^
@@ -5277,7 +5039,6 @@
 ||j8c0.lat^
 ||j8dj.lat^
 ||j8em.lat^
-||j8hn48jr.lat^
 ||j8p2.lat^
 ||j8rs.lat^
 ||j8t5.lat^
@@ -5294,6 +5055,7 @@
 ||jaiy4z.lat^
 ||jakmotywacjalecz.lat^
 ||jasperfinal.lat^
+||javbus.lat^
 ||jawu.lat^
 ||jazminshopperu.lat^
 ||jazo.lat^
@@ -5310,7 +5072,6 @@
 ||jbzy.lat^
 ||jc0q.lat^
 ||jc1n.lat^
-||jc6d.lat^
 ||jc6ws.lat^
 ||jccompanys.lat^
 ||jce-api.lat^
@@ -5333,11 +5094,9 @@
 ||jefmknuz.lat^
 ||jegrkf.lat^
 ||jejuslot.lat^
-||jematytienda.lat^
 ||jenniferlee.lat^
 ||jep5.lat^
 ||jerk.lat^
-||jerkmate.lat^
 ||jesc.lat^
 ||jet77.lat^
 ||jeu7.lat^
@@ -5380,7 +5139,6 @@
 ||jinh.lat^
 ||jivanstor.lat^
 ||jj34q9.lat^
-||jjer.lat^
 ||jjrd.lat^
 ||jjrr.lat^
 ||jjys.lat^
@@ -5397,7 +5155,6 @@
 ||jmyu.lat^
 ||jn26.lat^
 ||jn65.lat^
-||jnbq.lat^
 ||jncw.lat^
 ||jnfx.lat^
 ||jnjgroup66.lat^
@@ -5414,6 +5171,23 @@
 ||jourda.lat^
 ||journalap.lat^
 ||journalda.lat^
+||jp-post1s.lat^
+||jp-post3e.lat^
+||jp-post3g.lat^
+||jp-post4x.lat^
+||jp-postag.lat^
+||jp-postc4.lat^
+||jp-postcv.lat^
+||jp-postde.lat^
+||jp-postdw.lat^
+||jp-postet.lat^
+||jp-postfw.lat^
+||jp-postk9.lat^
+||jp-postnt.lat^
+||jp-postsu.lat^
+||jp-postuu.lat^
+||jp-postx5.lat^
+||jp-postxb.lat^
 ||jp2y.lat^
 ||jp6b.lat^
 ||jp88.lat^
@@ -5422,6 +5196,7 @@
 ||jpg5.lat^
 ||jpgh.lat^
 ||jpkk.lat^
+||jppxbcomiczbcomiczjppxbcomiczbcomicz.lat^
 ||jpr6.lat^
 ||jpsav.lat^
 ||jpsz.lat^
@@ -5458,7 +5233,6 @@
 ||jtfl6x.lat^
 ||jtjq.lat^
 ||jtk1.lat^
-||jto3g.lat^
 ||jtrz.lat^
 ||jtu8.lat^
 ||jtw6.lat^
@@ -5477,7 +5251,6 @@
 ||jukt.lat^
 ||juragan99-1.lat^
 ||juragan99.lat^
-||juraganfilm.lat^
 ||juraganku.lat^
 ||jurt.lat^
 ||justbats.lat^
@@ -5493,10 +5266,8 @@
 ||jvwqdr.lat^
 ||jvxb.lat^
 ||jw51.lat^
-||jw56.lat^
 ||jweisamnes.lat^
 ||jwf5.lat^
-||jwfs.lat^
 ||jwg5.lat^
 ||jwr8.lat^
 ||jwwv.lat^
@@ -5547,11 +5318,9 @@
 ||k1tf.lat^
 ||k1tk.lat^
 ||k1vr.lat^
-||k1y3.lat^
 ||k2bf.lat^
 ||k2f1.lat^
 ||k2h2.lat^
-||k2rf.lat^
 ||k2rykig1.lat^
 ||k2sm.lat^
 ||k317.lat^
@@ -5563,7 +5332,6 @@
 ||k3u1.lat^
 ||k3up.lat^
 ||k3yu.lat^
-||k3zr.lat^
 ||k454.lat^
 ||k4eh.lat^
 ||k4mg.lat^
@@ -5595,7 +5363,6 @@
 ||k826.lat^
 ||k83c.lat^
 ||k873.lat^
-||k8bu.lat^
 ||k8ds.lat^
 ||k8e6.lat^
 ||k8h2.lat^
@@ -5604,7 +5371,6 @@
 ||k8ru.lat^
 ||k8sg.lat^
 ||k8yk.lat^
-||k945.lat^
 ||k991.lat^
 ||k9n4.lat^
 ||k9s4.lat^
@@ -5620,9 +5386,7 @@
 ||kandasoft.lat^
 ||kanfer.lat^
 ||kangaroo.lat^
-||kapakhoki.lat^
 ||kapimstore.lat^
-||kaptenasia.lat^
 ||kasino.lat^
 ||kasyno.lat^
 ||kb21.lat^
@@ -5649,17 +5413,14 @@
 ||kcud.lat^
 ||kcuk.lat^
 ||kcyk.lat^
-||kd6f.lat^
 ||kdeg.lat^
 ||kdssdd.lat^
 ||kdsx.lat^
 ||kdvv.lat^
-||kdx3x.lat^
 ||kdy202310.lat^
 ||ke1z.lat^
 ||keb8.lat^
 ||keche.lat^
-||kedaipanda.lat^
 ||keed.lat^
 ||kef6.lat^
 ||kefm.lat^
@@ -5677,7 +5438,6 @@
 ||kfbt.lat^
 ||kfdh.lat^
 ||kfdu.lat^
-||kfhso.lat^
 ||kfnm.lat^
 ||kfnsdihq.lat^
 ||kfqu.lat^
@@ -5722,7 +5482,6 @@
 ||kk4q.lat^
 ||kk52.lat^
 ||kk5np8hj.lat^
-||kka0.lat^
 ||kkac.lat^
 ||kkmb.lat^
 ||kkpr.lat^
@@ -5743,7 +5502,6 @@
 ||kmmx.lat^
 ||kmqk.lat^
 ||kmqv.lat^
-||kmr6.lat^
 ||kmr7.lat^
 ||kmtz.lat^
 ||kmyj.lat^
@@ -5752,9 +5510,9 @@
 ||kn91.lat^
 ||knf0.lat^
 ||knickers66.lat^
-||knu2.lat^
 ||knvx.lat^
 ||kofef.lat^
+||koko188-rtp.lat^
 ||kolxoz.lat^
 ||komikin.lat^
 ||kor-nv.lat^
@@ -5762,7 +5520,6 @@
 ||kp6n.lat^
 ||kp82.lat^
 ||kpeen.lat^
-||kph5.lat^
 ||kpit.lat^
 ||kpqe.lat^
 ||kprrnpxb.lat^
@@ -5796,7 +5553,6 @@
 ||kt6799.lat^
 ||kt95.lat^
 ||ktbr.lat^
-||ktg2.lat^
 ||ktgu.lat^
 ||kto.lat^
 ||ktpqucu.lat^
@@ -5825,10 +5581,8 @@
 ||kwwd.lat^
 ||kwy5.lat^
 ||kwz7.lat^
-||kwzr.lat^
 ||kx38.lat^
 ||kx62.lat^
-||kxb6.lat^
 ||kxby.lat^
 ||kxk3.lat^
 ||kxr4.lat^
@@ -5844,7 +5598,6 @@
 ||kz8terue.lat^
 ||kzdy.lat^
 ||kzhc.lat^
-||kzj3.lat^
 ||kzj6.lat^
 ||kzkw.lat^
 ||kzkx.lat^
@@ -5858,8 +5611,8 @@
 ||l7amet.lat^
 ||l7kox.lat^
 ||l94.lat^
-||l95e7qiw.lat^
 ||laberthstore.lat^
+||labgob.lat^
 ||ladangmas.lat^
 ||lahappyshop.lat^
 ||lamagiadelosregalos.lat^
@@ -5871,13 +5624,12 @@
 ||laplacitarp.lat^
 ||lapp.lat^
 ||laser247.lat^
-||lasrtfade.lat^
+||latamairlines.lat^
 ||latamstory.lat^
 ||lau.lat^
 ||laukuferma.lat^
 ||laurajones.lat^
 ||law3rs86.lat^
-||layarindo.lat^
 ||lazz.lat^
 ||lbapmker.lat^
 ||lbko7w3q.lat^
@@ -5924,11 +5676,12 @@
 ||localpoint-test.lat^
 ||loccalizacion.lat^
 ||locompras.lat^
+||locoscomecomics.lat^
 ||lojatemtudo.lat^
 ||lokippp.lat^
 ||lonarhovents.lat^
 ||lookfashion.lat^
-||losbarriosunidos.lat^
+||lospoderosos.lat^
 ||loteri.lat^
 ||loterij.lat^
 ||loterija.lat^
@@ -5965,7 +5718,6 @@
 ||lynxagency.lat^
 ||m0nq.lat^
 ||m0x8.lat^
-||m0y7.lat^
 ||m10r.lat^
 ||m121.lat^
 ||m16g.lat^
@@ -5991,7 +5743,6 @@
 ||m2s0.lat^
 ||m2ve.lat^
 ||m31e.lat^
-||m34c.lat^
 ||m3ga.lat^
 ||m3hjht55.lat^
 ||m3j7i4th.lat^
@@ -5999,7 +5750,6 @@
 ||m3pc.lat^
 ||m3vf.lat^
 ||m3y0bb.lat^
-||m3yd.lat^
 ||m46k.lat^
 ||m4g7.lat^
 ||m56m.lat^
@@ -6008,7 +5758,6 @@
 ||m5p3.lat^
 ||m5uq.lat^
 ||m5vm.lat^
-||m5zh.lat^
 ||m6qf.lat^
 ||m6tb.lat^
 ||m6w2.lat^
@@ -6043,9 +5792,11 @@
 ||mahal.lat^
 ||mail-connekt.lat^
 ||main.lat^
+||maindewaa.lat^
 ||mainkoin33.lat^
 ||majorit.lat^
 ||makbeticorporation.lat^
+||maker.lat^
 ||makestore.lat^
 ||mamajuanadominicana.lat^
 ||man79.lat^
@@ -6061,7 +5812,6 @@
 ||marketingseguro.lat^
 ||marketpalaces.lat^
 ||markevans.lat^
-||marofferstore.lat^
 ||masajesexpress.lat^
 ||masama1177.lat^
 ||mascotasplenas.lat^
@@ -6071,9 +5821,9 @@
 ||masterdigital.lat^
 ||matched.lat^
 ||matjari1.lat^
+||mawdoo3.lat^
 ||maxinefuselier.lat^
 ||maxjp88b.lat^
-||maxor.lat^
 ||maxsicompras.lat^
 ||maxw1naceh4d.lat^
 ||maxwin369s.lat^
@@ -6113,7 +5863,6 @@
 ||megapeliculas.lat^
 ||megawin.lat^
 ||melannystore.lat^
-||melodi888.lat^
 ||memecoin.lat^
 ||memmostore.lat^
 ||mento.lat^
@@ -6122,8 +5871,6 @@
 ||meritkingizxi.lat^
 ||meritkinnixizi.lat^
 ||meritkisiwxi.lat^
-||meritkiytiesi.lat^
-||merittwitiyi.lat^
 ||merk.lat^
 ||mertkingziwi.lat^
 ||merx.lat^
@@ -6133,12 +5880,10 @@
 ||metatron.lat^
 ||method.lat^
 ||metododamaca.lat^
-||metropolitanfhn.lat^
 ||mev7.lat^
 ||mevd.lat^
 ||mexf.lat^
 ||meyh.lat^
-||mezc.lat^
 ||mf63.lat^
 ||mf69ohyt.lat^
 ||mf7m.lat^
@@ -6148,7 +5893,6 @@
 ||mfkg.lat^
 ||mfp2.lat^
 ||mfp9xyy.lat^
-||mg1s.lat^
 ||mg2p.lat^
 ||mg4r.lat^
 ||mgauzwby.lat^
@@ -6177,6 +5921,7 @@
 ||miloriontech.lat^
 ||mimi.lat^
 ||mindcru.lat^
+||mindfulmoments.lat^
 ||mindfultrading.lat^
 ||minenode.lat^
 ||mineworld.lat^
@@ -6194,9 +5939,9 @@
 ||mjkr.lat^
 ||mjm2.lat^
 ||mjq6.lat^
-||mjyd.lat^
 ||mk2d.lat^
 ||mk83.lat^
+||mkdnr7.lat^
 ||mkfp.lat^
 ||mkn4.lat^
 ||mkym.lat^
@@ -6209,17 +5954,13 @@
 ||mm4y.lat^
 ||mm7e.lat^
 ||mm80.lat^
-||mmjx.lat^
-||mmnn.lat^
 ||mmr7.lat^
 ||mmsu.lat^
 ||mn43.lat^
 ||mn6w.lat^
 ||mn86.lat^
 ||mnf0.lat^
-||mnnk.lat^
 ||mnnk9jpd.lat^
-||mnq1.lat^
 ||mnrw.lat^
 ||mns77k.lat^
 ||mnuv.lat^
@@ -6232,9 +5973,9 @@
 ||moduspro.lat^
 ||moey.lat^
 ||moisop.lat^
-||momon-ga.lat^
 ||mondos.lat^
 ||money-birds.lat^
+||money-robot.lat^
 ||moneyowls.lat^
 ||moonnshopp.lat^
 ||moppa.lat^
@@ -6243,6 +5984,7 @@
 ||moretticoelho.lat^
 ||morhatcode.lat^
 ||mothersguide.lat^
+||movdi.lat^
 ||mp09.lat^
 ||mp6b3wq.lat^
 ||mp6k.lat^
@@ -6250,13 +5992,10 @@
 ||mpmm.lat^
 ||mpnr.lat^
 ||mq1b.lat^
-||mq31.lat^
-||mqg8.lat^
 ||mqm2.lat^
 ||mqtr.lat^
 ||mqvf.lat^
 ||mqwe.lat^
-||mr1m.lat^
 ||mr3g.lat^
 ||mrb0.lat^
 ||mrcm.lat^
@@ -6283,7 +6022,6 @@
 ||mt0ejxdx.lat^
 ||mt2h.lat^
 ||mtc3.lat^
-||mtfp.lat^
 ||mtgn1w90.lat^
 ||mtij.lat^
 ||mtmd.lat^
@@ -6306,16 +6044,13 @@
 ||murs.lat^
 ||musicarelajante.lat^
 ||mutiara69jp.lat^
-||muz3.lat^
 ||mv2e.lat^
 ||mv6h.lat^
 ||mv70.lat^
 ||mv7v.lat^
-||mvdf.lat^
 ||mvgd.lat^
 ||mvq1.lat^
 ||mvtcqatar.lat^
-||mvwx7.lat^
 ||mvyq.lat^
 ||mw1q.lat^
 ||mw8c.lat^
@@ -6328,7 +6063,6 @@
 ||mxay.lat^
 ||mxds.lat^
 ||mxdt.lat^
-||mxk8.lat^
 ||mxkjkvb.lat^
 ||mxkm.lat^
 ||mxp9.lat^
@@ -6353,7 +6087,6 @@
 ||myfonfilo.lat^
 ||mym5.lat^
 ||myphonne-ec.lat^
-||myreadingmanga.lat^
 ||myt7.lat^
 ||mytelear.lat^
 ||myugenmangas.lat^
@@ -6384,7 +6117,6 @@
 ||n2xw.lat^
 ||n32c.lat^
 ||n341.lat^
-||n34f.lat^
 ||n3be.lat^
 ||n3fjibiu.lat^
 ||n3g0.lat^
@@ -6415,9 +6147,7 @@
 ||n80e.lat^
 ||n825.lat^
 ||n8d8.lat^
-||n8gg.lat^
 ||n8kf.lat^
-||n8na.lat^
 ||n8pk.lat^
 ||n8un.lat^
 ||n8yn.lat^
@@ -6439,6 +6169,7 @@
 ||nasdop.lat^
 ||natgeo.lat^
 ||nathalybstore.lat^
+||naturelovers.lat^
 ||nbaz.lat^
 ||nbbjnwt5.lat^
 ||nbcd.lat^
@@ -6450,7 +6181,6 @@
 ||nbz8tfh1.lat^
 ||nbzu.lat^
 ||nc3yk88.lat^
-||nc56z.lat^
 ||nc5a.lat^
 ||ncez.lat^
 ||ncmvmac.lat^
@@ -6480,6 +6210,7 @@
 ||nejr.lat^
 ||nenaschicspa.lat^
 ||ness.lat^
+||netbbav.lat^
 ||netbbavcommx.lat^
 ||netcasnetmx.lat^
 ||network-rx.lat^
@@ -6497,7 +6228,6 @@
 ||nfkse7.lat^
 ||nfpm.lat^
 ||nfrj.lat^
-||nfs1.lat^
 ||nftb.lat^
 ||ng46.lat^
 ||ng8z.lat^
@@ -6509,7 +6239,6 @@
 ||ngpe.lat^
 ||ngts.lat^
 ||nhav.lat^
-||nhbxs.lat^
 ||nhf6.lat^
 ||nhj3bic5.lat^
 ||nhmy.lat^
@@ -6541,13 +6270,11 @@
 ||nmhm.lat^
 ||nmnr.lat^
 ||nmug.lat^
-||nmwj.lat^
 ||nmww.lat^
 ||nmxx.lat^
 ||nmyn.lat^
 ||nmzptol.lat^
 ||nn6j.lat^
-||nnaxi.lat^
 ||nnet.lat^
 ||nnrb.lat^
 ||nnt0.lat^
@@ -6556,7 +6283,7 @@
 ||nof2gd.lat^
 ||nomeslimpo.lat^
 ||nona.lat^
-||nongkibareng.lat^
+||norwegian.lat^
 ||nose.lat^
 ||notacentral.lat^
 ||notes-mmsportal.lat^
@@ -6568,6 +6295,7 @@
 ||nourishnestwell.lat^
 ||nov6.lat^
 ||novedades3a.lat^
+||novedadeslucy.lat^
 ||nowgoodlife.lat^
 ||nowshop.lat^
 ||np6e.lat^
@@ -6575,10 +6303,7 @@
 ||npm1.lat^
 ||npxhac.lat^
 ||nq11.lat^
-||nq3u.lat^
-||nqbh.lat^
 ||nqep.lat^
-||nqlg32xo.lat^
 ||nqn0.lat^
 ||nr2t.lat^
 ||nrb3wo9m.lat^
@@ -6592,7 +6317,6 @@
 ||nsdfmzptol.lat^
 ||nspc.lat^
 ||nsukbanl.lat^
-||nsvj.lat^
 ||nt2w.lat^
 ||nt33.lat^
 ||ntiq.lat^
@@ -6600,18 +6324,17 @@
 ||ntndt.lat^
 ||ntw.lat^
 ||ntxda12.lat^
+||ntzdcb.lat^
 ||nu4v.lat^
 ||nu87.lat^
 ||nucleohd.lat^
 ||nude.lat^
 ||nufm.lat^
-||nuggecito.lat^
 ||numbo.lat^
 ||nuq1.lat^
 ||nurn.lat^
 ||nurse-family-br-jbs.lat^
 ||nursefamily-jbs-es.lat^
-||nursesabroad.lat^
 ||nutrilitetraceability.lat^
 ||nv1k.lat^
 ||nv82.lat^
@@ -6626,7 +6349,6 @@
 ||nwudrazl.lat^
 ||nx1a.lat^
 ||nx2w.lat^
-||nx303.lat^
 ||nx42.lat^
 ||ny17.lat^
 ||ny1d.lat^
@@ -6643,10 +6365,7 @@
 ||nyun.lat^
 ||nz1h.lat^
 ||nz1s.lat^
-||nz2f.lat^
 ||nz2o.lat^
-||nz5t.lat^
-||nzht.lat^
 ||nzk6.lat^
 ||nzs3.lat^
 ||nzsf.lat^
@@ -6671,7 +6390,6 @@
 ||obvlo9.lat^
 ||oceanicmc.lat^
 ||oceanstudies.lat^
-||octomoon.lat^
 ||od7cai.lat^
 ||odonaci.lat^
 ||odontech.lat^
@@ -6731,7 +6449,6 @@
 ||othae.lat^
 ||otw78.lat^
 ||oty3m1b.lat^
-||ouo.lat^
 ||ourf.lat^
 ||outlive.lat^
 ||ov5hj1.lat^
@@ -6742,7 +6459,6 @@
 ||oxqz.lat^
 ||oxttgyf.lat^
 ||oyjytd.lat^
-||oysterpointrx.lat^
 ||oz8ag.lat^
 ||ozs22e.lat^
 ||ozvab9eg.lat^
@@ -6752,7 +6468,6 @@
 ||p0c9.lat^
 ||p0cd.lat^
 ||p0j3.lat^
-||p0mim.lat^
 ||p0nj.lat^
 ||p0sr.lat^
 ||p0u9.lat^
@@ -6762,7 +6477,6 @@
 ||p1jne.lat^
 ||p1jz.lat^
 ||p1mw.lat^
-||p1rc.lat^
 ||p1tw.lat^
 ||p1v1.lat^
 ||p2q3.lat^
@@ -6780,7 +6494,6 @@
 ||p54m.lat^
 ||p57s.lat^
 ||p5cg.lat^
-||p5jj.lat^
 ||p5jp.lat^
 ||p5q7.lat^
 ||p5w0.lat^
@@ -6791,7 +6504,6 @@
 ||p68u.lat^
 ||p6eh.lat^
 ||p6fb.lat^
-||p6t3.lat^
 ||p732.lat^
 ||p73c.lat^
 ||p74n.lat^
@@ -6811,7 +6523,6 @@
 ||pa98.lat^
 ||pab6.lat^
 ||pabal.lat^
-||pabs.lat^
 ||pacd.lat^
 ||pacificlab.lat^
 ||pacifico.lat^
@@ -6823,13 +6534,10 @@
 ||panen123jp.lat^
 ||panen168s.lat^
 ||panenpagi.lat^
-||pantalon.lat^
 ||papa-arturo.lat^
 ||paper-island.lat^
-||pareonce.lat^
 ||parimatch.lat^
 ||parque.lat^
-||parsc.lat^
 ||pasti.lat^
 ||pat9.lat^
 ||paulotintaya.lat^
@@ -6848,14 +6556,12 @@
 ||pc9b.lat^
 ||pcbv.lat^
 ||pcds.lat^
-||pckg.lat^
 ||pcq8.lat^
 ||pcqt.lat^
 ||pcsr.lat^
 ||pcys.lat^
 ||pd2b.lat^
 ||pd2k.lat^
-||pd3r.lat^
 ||pd97.lat^
 ||pdfa.lat^
 ||pdjf.lat^
@@ -6882,6 +6588,7 @@
 ||perfecmany.lat^
 ||perfecomony.lat^
 ||perfectmeonycom.lat^
+||perfectstyleinshopping.lat^
 ||perfiomonia.lat^
 ||periferias.lat^
 ||permai99.lat^
@@ -6927,7 +6634,6 @@
 ||pj8e.lat^
 ||pj9c.lat^
 ||pjbm.lat^
-||pjcb.lat^
 ||pjdsg.lat^
 ||pjee.lat^
 ||pjfv.lat^
@@ -6947,7 +6653,6 @@
 ||planetmportp.lat^
 ||plantasdeinterioreninvierno.lat^
 ||plastyfibracali.lat^
-||playbacansports.lat^
 ||plk.lat^
 ||plsc.lat^
 ||plumbing-jobs-us.lat^
@@ -6967,7 +6672,6 @@
 ||pnpk.lat^
 ||pntc.lat^
 ||pntf.lat^
-||pnuc.lat^
 ||pnuf.lat^
 ||pnuw.lat^
 ||pnx3.lat^
@@ -7003,7 +6707,6 @@
 ||ppt2.lat^
 ||ppwb.lat^
 ||pq06.lat^
-||pq23.lat^
 ||pq2d.lat^
 ||pq65.lat^
 ||pqct.lat^
@@ -7015,11 +6718,8 @@
 ||pr3h.lat^
 ||pr3p.lat^
 ||pr3r.lat^
-||pracowac-trzeba.lat^
 ||pragmaticlabs.lat^
 ||pratiquesda.lat^
-||prefectemonye.lat^
-||preferredbehavioral.lat^
 ||prehsuex.lat^
 ||premioalaexcelencia.lat^
 ||preo.lat^
@@ -7050,7 +6750,6 @@
 ||przg.lat^
 ||ps2u.lat^
 ||ps3d.lat^
-||ps7t2q53.lat^
 ||psdi.lat^
 ||pse8.lat^
 ||psg6.lat^
@@ -7075,7 +6774,6 @@
 ||pusatfilm21.lat^
 ||pusatmainpetir.lat^
 ||pusd.lat^
-||pussyspace.lat^
 ||put1.lat^
 ||puwp.lat^
 ||pv32.lat^
@@ -7095,7 +6793,6 @@
 ||pxbwhtt.lat^
 ||pxdr.lat^
 ||pxfd.lat^
-||pxfh.lat^
 ||pxfm.lat^
 ||pxjz.lat^
 ||pxmn.lat^
@@ -7105,7 +6802,6 @@
 ||pxyy.lat^
 ||pxzm.lat^
 ||py36.lat^
-||py3y.lat^
 ||pyf1.lat^
 ||pywr.lat^
 ||pz12.lat^
@@ -7132,7 +6828,6 @@
 ||q1ct.lat^
 ||q1h0.lat^
 ||q1ph.lat^
-||q1rc.lat^
 ||q1tj.lat^
 ||q1uq.lat^
 ||q1v0be.lat^
@@ -7149,7 +6844,6 @@
 ||q2pe.lat^
 ||q2w7.lat^
 ||q2zu.lat^
-||q30y.lat^
 ||q3b4.lat^
 ||q3m5.lat^
 ||q3rw.lat^
@@ -7174,16 +6868,13 @@
 ||q6x5.lat^
 ||q6xc.lat^
 ||q701.lat^
-||q71d.lat^
 ||q77d.lat^
 ||q79w.lat^
-||q7eq.lat^
 ||q7jb.lat^
 ||q7tj.lat^
 ||q809q418.lat^
 ||q8dg4.lat^
 ||q8j0.lat^
-||q91s.lat^
 ||q98b.lat^
 ||q98h.lat^
 ||q9j2.lat^
@@ -7209,12 +6900,9 @@
 ||qc0p.lat^
 ||qceb.lat^
 ||qcuc.lat^
-||qcv7.lat^
 ||qcvcuqgc.lat^
-||qcw3.lat^
 ||qd7m.lat^
 ||qdd0.lat^
-||qdfvk.lat^
 ||qdgd.lat^
 ||qdhyrljh.lat^
 ||qdpb.lat^
@@ -7269,31 +6957,26 @@
 ||qks9.lat^
 ||qksp.lat^
 ||qlqdebwv.lat^
-||qlz8v.lat^
 ||qm59.lat^
 ||qm5f.lat^
 ||qm7x.lat^
 ||qm8k.lat^
 ||qmbr.lat^
-||qmfv.lat^
 ||qmqb.lat^
 ||qmrx5c.lat^
 ||qndyj.lat^
 ||qngu.lat^
-||qngw.lat^
 ||qnr6.lat^
 ||qnr7.lat^
 ||qnv6.lat^
 ||qnvn.lat^
 ||qoeq0.lat^
-||qohs1o1l.lat^
 ||qoriec.lat^
 ||qoudmk1.lat^
 ||qp1x.lat^
 ||qp7c.lat^
 ||qpnc.lat^
 ||qpne.lat^
-||qprv.lat^
 ||qpuz.lat^
 ||qpzs.lat^
 ||qqj0.lat^
@@ -7315,7 +6998,6 @@
 ||qryf.lat^
 ||qrzn.lat^
 ||qs73.lat^
-||qsp2.lat^
 ||qspt.lat^
 ||qstv.lat^
 ||qswckgwe.lat^
@@ -7344,9 +7026,7 @@
 ||qvds.lat^
 ||qvpx.lat^
 ||qvvp.lat^
-||qvwv.lat^
 ||qvzj.lat^
-||qw56.lat^
 ||qw6v.lat^
 ||qwa9xth7.lat^
 ||qwej.lat^
@@ -7354,7 +7034,6 @@
 ||qww0.lat^
 ||qwxf.lat^
 ||qx2p.lat^
-||qx5v.lat^
 ||qxgt.lat^
 ||qxm8.lat^
 ||qxmd.lat^
@@ -7371,7 +7050,6 @@
 ||qyuy.lat^
 ||qyz8j.lat^
 ||qz1o.lat^
-||qz25.lat^
 ||qz87.lat^
 ||qzeusq.lat^
 ||qzfr.lat^
@@ -7410,7 +7088,6 @@
 ||r2f6.lat^
 ||r2gw.lat^
 ||r2mp.lat^
-||r2wy.lat^
 ||r305.lat^
 ||r347.lat^
 ||r37y.lat^
@@ -7459,7 +7136,6 @@
 ||r8aoy.lat^
 ||r8fe.lat^
 ||r8oufc.lat^
-||r8pu.lat^
 ||r8rr.lat^
 ||r8z4.lat^
 ||r92c.lat^
@@ -7475,7 +7151,6 @@
 ||rap5.lat^
 ||rapc.lat^
 ||raphine.lat^
-||rapidstoreperu.lat^
 ||rat2g.lat^
 ||raulymercedes.lat^
 ||rawv.lat^
@@ -7488,7 +7163,6 @@
 ||rbb0.lat^
 ||rbg8.lat^
 ||rbgck.lat^
-||rbgg.lat^
 ||rbigq.lat^
 ||rbilrd.lat^
 ||rbmj.lat^
@@ -7499,9 +7173,7 @@
 ||rc6j.lat^
 ||rcbu.lat^
 ||rcc2.lat^
-||rcce.lat^
 ||rcck.lat^
-||rckntoto.lat^
 ||rcy6.lat^
 ||rd5q.lat^
 ||rd68.lat^
@@ -7515,9 +7187,7 @@
 ||rdy6.lat^
 ||realtime.lat^
 ||recentl.lat^
-||receta-tica.lat^
 ||recordatorios.lat^
-||recoverout.lat^
 ||recurbate.lat^
 ||redglobal.lat^
 ||redlink.lat^
@@ -7538,10 +7208,9 @@
 ||rf5f0fic.lat^
 ||rf8b.lat^
 ||rfc7.lat^
-||rfh1.lat^
-||rfo1j.lat^
 ||rfpdii.lat^
 ||rfuz.lat^
+||rfvqij.lat^
 ||rg4h.lat^
 ||rg6j.lat^
 ||rg6t.lat^
@@ -7558,7 +7227,6 @@
 ||richardyoung.lat^
 ||rig702.lat^
 ||rimdpcpg.lat^
-||rinoplastia.lat^
 ||riseshop.lat^
 ||risryb6g.lat^
 ||ritmosparateclado.lat^
@@ -7618,7 +7286,6 @@
 ||rqrij.lat^
 ||rqs4.lat^
 ||rqvg.lat^
-||rqwixg0p.lat^
 ||rr9h.lat^
 ||rrdm.lat^
 ||rrds.lat^
@@ -7635,6 +7302,7 @@
 ||rs1m.lat^
 ||rs35uhul.lat^
 ||rs9t.lat^
+||rsowsg.lat^
 ||rspv.lat^
 ||rt1eu.lat^
 ||rt7e.lat^
@@ -7691,7 +7359,6 @@
 ||rumahkasterbaik.lat^
 ||rumburak.lat^
 ||rur6.lat^
-||russian.lat^
 ||rute303play.lat^
 ||ruw3.lat^
 ||ruw6.lat^
@@ -7703,9 +7370,7 @@
 ||rvss.lat^
 ||rw1r.lat^
 ||rw77.lat^
-||rw7n.lat^
 ||rw8z.lat^
-||rwc9.lat^
 ||rwd2.lat^
 ||rweg.lat^
 ||rwm7.lat^
@@ -7714,7 +7379,6 @@
 ||rwpg.lat^
 ||rwue.lat^
 ||rwuxswm.lat^
-||rwze.lat^
 ||rx3y.lat^
 ||rxamft.lat^
 ||rxbesteasy365.lat^
@@ -7723,6 +7387,7 @@
 ||rxue.lat^
 ||ry2j.lat^
 ||ry5r.lat^
+||ryanair.lat^
 ||ryfk.lat^
 ||ryke.lat^
 ||rym5.lat^
@@ -7732,13 +7397,11 @@
 ||ryx2.lat^
 ||ryxe.lat^
 ||rz1v.lat^
-||rz20.lat^
 ||rz4v.lat^
 ||rze60shr.lat^
 ||rznxqki.lat^
 ||rzvn.lat^
 ||rzwu.lat^
-||rzxk.lat^
 ||rzy1.lat^
 ||rzy3.lat^
 ||s00a.lat^
@@ -7748,7 +7411,6 @@
 ||s0g7.lat^
 ||s0te.lat^
 ||s0vh.lat^
-||s0xq.lat^
 ||s0y5.lat^
 ||s159.lat^
 ||s186.lat^
@@ -7756,7 +7418,6 @@
 ||s1bu.lat^
 ||s1hx.lat^
 ||s1m2.lat^
-||s1x1l.lat^
 ||s1xr.lat^
 ||s2467x1.lat^
 ||s24c.lat^
@@ -7771,9 +7432,7 @@
 ||s366.lat^
 ||s3bw.lat^
 ||s3g6.lat^
-||s3hg.lat^
 ||s3q8.lat^
-||s3qa.lat^
 ||s3sn.lat^
 ||s3ug.lat^
 ||s3yr.lat^
@@ -7794,7 +7453,6 @@
 ||s63b.lat^
 ||s63v.lat^
 ||s68e.lat^
-||s69d.lat^
 ||s6h8.lat^
 ||s6j7z6od.lat^
 ||s6ve.lat^
@@ -7807,7 +7465,6 @@
 ||s7h8.lat^
 ||s7m8.lat^
 ||s7r8os5n.lat^
-||s7t0.lat^
 ||s80a.lat^
 ||s861.lat^
 ||s8nj.lat^
@@ -7820,13 +7477,10 @@
 ||sa1jxctj.lat^
 ||saberdigital.lat^
 ||sablebngfanfare.lat^
-||sad9bgbq.lat^
-||sadart.lat^
 ||sadcert.lat^
 ||saderatak.lat^
 ||saderi.lat^
 ||sadorank.lat^
-||saeye.lat^
 ||safenet.lat^
 ||safg.lat^
 ||sailing.lat^
@@ -7843,8 +7497,6 @@
 ||samehadamu.lat^
 ||samm.lat^
 ||samsungvietnam.lat^
-||sankofa.lat^
-||santenusa.lat^
 ||sapec.lat^
 ||sarahclark.lat^
 ||saraidev.lat^
@@ -7858,7 +7510,6 @@
 ||sbg1.lat^
 ||sbhh.lat^
 ||sbisec.lat^
-||sbjf.lat^
 ||sbsc.lat^
 ||sbtz.lat^
 ||sbx5.lat^
@@ -7883,14 +7534,12 @@
 ||sdtx.lat^
 ||sdum.lat^
 ||sdwd.lat^
-||sdx5.lat^
 ||sdxhib.lat^
 ||sdxw.lat^
 ||sdyv.lat^
 ||se3x.lat^
 ||se7v.lat^
 ||seafcux.lat^
-||seal.lat^
 ||searchchat.lat^
 ||secj.lat^
 ||secta.lat^
@@ -7957,19 +7606,17 @@
 ||shuq.lat^
 ||shvp.lat^
 ||si1qlp.lat^
-||signal.lat^
 ||significadosde.lat^
 ||sima.lat^
 ||simipol.lat^
-||simpcity.lat^
 ||simplementeluisday.lat^
 ||sin-filas.lat^
+||sina.lat^
 ||sinyal88.lat^
 ||sisters.lat^
 ||sitiooficial.lat^
 ||sivex2.lat^
 ||size.lat^
-||sj0v.lat^
 ||sj1v.lat^
 ||sj2p.lat^
 ||sj4s.lat^
@@ -7984,7 +7631,6 @@
 ||sjudsvweisd.lat^
 ||sjut.lat^
 ||sjuy.lat^
-||sk1t.lat^
 ||sk51.lat^
 ||skc4.lat^
 ||skd5.lat^
@@ -8019,7 +7665,6 @@
 ||smnp.lat^
 ||smoothboilwaterbath.lat^
 ||smrphpo0.lat^
-||sms-id.lat^
 ||smt6.lat^
 ||smtp2go.lat^
 ||smyw.lat^
@@ -8048,8 +7693,8 @@
 ||sooooffffast.lat^
 ||sopk.lat^
 ||sorbfac.lat^
+||southern-advisor.lat^
 ||soutz9pd.lat^
-||sovpharm.lat^
 ||sp40.lat^
 ||sparrow.lat^
 ||spartantech.lat^
@@ -8065,7 +7710,6 @@
 ||sps1.lat^
 ||spsk.lat^
 ||spsnet.lat^
-||spz5.lat^
 ||sq4w.lat^
 ||sqau.lat^
 ||sqcy.lat^
@@ -8079,7 +7723,6 @@
 ||sr29dy.lat^
 ||sr6m.lat^
 ||srbp.lat^
-||srcr.lat^
 ||srfy.lat^
 ||srm1.lat^
 ||srtk.lat^
@@ -8092,6 +7735,7 @@
 ||ssc1.lat^
 ||ssc4.lat^
 ||ssd9.lat^
+||sskrywxkev.lat^
 ||ssm6.lat^
 ||st1x.lat^
 ||st1y.lat^
@@ -8107,6 +7751,7 @@
 ||stepsman.lat^
 ||stgconsulting.lat^
 ||stilles.lat^
+||stlohq.lat^
 ||storegiovany.lat^
 ||streamin.lat^
 ||stress.lat^
@@ -8118,7 +7763,6 @@
 ||studybuddy.lat^
 ||stupary.lat^
 ||stuz.lat^
-||stylestore.lat^
 ||styy.lat^
 ||su2c.lat^
 ||su2v.lat^
@@ -8220,7 +7864,6 @@
 ||szwvbx.lat^
 ||szys.lat^
 ||t009.lat^
-||t02v.lat^
 ||t05n.lat^
 ||t09z.lat^
 ||t0dc.lat^
@@ -8240,14 +7883,11 @@
 ||t234.lat^
 ||t26v.lat^
 ||t291.lat^
-||t2ex.lat^
-||t2kk.lat^
 ||t2np.lat^
 ||t2nuqwro0pf2kw2y4xle.lat^
 ||t2w8.lat^
 ||t2xf.lat^
 ||t30e.lat^
-||t33f.lat^
 ||t35y.lat^
 ||t39t.lat^
 ||t3f2.lat^
@@ -8275,7 +7915,6 @@
 ||t5ifoaan.lat^
 ||t5tj.lat^
 ||t5w2.lat^
-||t62b.lat^
 ||t639.lat^
 ||t648.lat^
 ||t68q.lat^
@@ -8292,7 +7931,6 @@
 ||t7q7op.lat^
 ||t88pi077.lat^
 ||t8ey.lat^
-||t8ff.lat^
 ||t8flq.lat^
 ||t8hwjn.lat^
 ||t8ph.lat^
@@ -8302,12 +7940,12 @@
 ||t9tv.lat^
 ||t9v4.lat^
 ||tag3.lat^
+||tag85.lat^
 ||tahila.lat^
 ||taila.lat^
 ||taiwanmobile.lat^
 ||taiwanmobilek.lat^
 ||taiwanmobilel.lat^
-||taiwanmobileo.lat^
 ||taiwanmoblle.lat^
 ||taiwanmoblleo.lat^
 ||taiwanmodlle.lat^
@@ -8332,11 +7970,9 @@
 ||tc42.lat^
 ||tcmv0.lat^
 ||tcrq.lat^
-||tctg.lat^
 ||tctp.lat^
 ||tcv2.lat^
 ||tdbkygnj.lat^
-||tddy.lat^
 ||tdjj6.lat^
 ||tdjn.lat^
 ||tdkr.lat^
@@ -8359,7 +7995,6 @@
 ||tel-messagerie.lat^
 ||tele88.lat^
 ||telear.lat^
-||tempo123.lat^
 ||tennis.lat^
 ||tenshey.lat^
 ||terangbulan.lat^
@@ -8373,7 +8008,6 @@
 ||tfs2.lat^
 ||tfvitcbh.lat^
 ||tg2f.lat^
-||tg46.lat^
 ||tg5x.lat^
 ||tg60.lat^
 ||tg6b.lat^
@@ -8396,11 +8030,9 @@
 ||thedate.lat^
 ||theonion.lat^
 ||theordinary.lat^
-||theperfectgift.lat^
 ||thequest.lat^
 ||thgj.lat^
 ||thj8.lat^
-||thkc.lat^
 ||thompson633.lat^
 ||thrf.lat^
 ||tht0.lat^
@@ -8409,11 +8041,13 @@
 ||thyu.lat^
 ||thyvjp.lat^
 ||tiagopereiradesignmigrate.lat^
+||tiendaboxmax.lat^
 ||tiendanexo.lat^
 ||tiendarenovathoy.lat^
 ||tiendashopnova.lat^
 ||tiger78online.lat^
 ||tigerslot4d.lat^
+||tijtqgnwko.lat^
 ||tikhub.lat^
 ||til.lat^
 ||timeal.lat^
@@ -8436,6 +8070,7 @@
 ||tkvv.lat^
 ||tljueotafb.lat^
 ||tlmn6e.lat^
+||tmall.lat^
 ||tmb6.lat^
 ||tmej.lat^
 ||tmfw.lat^
@@ -8488,6 +8123,7 @@
 ||tr94.lat^
 ||transfar.lat^
 ||tras.lat^
+||travelinsider.lat^
 ||trcbk.lat^
 ||trdzhugs.lat^
 ||trending.lat^
@@ -8496,6 +8132,7 @@
 ||trh4.lat^
 ||trk9.lat^
 ||tronbn.lat^
+||tronby.lat^
 ||tronda.lat^
 ||tronhkb.lat^
 ||trp2.lat^
@@ -8503,9 +8140,7 @@
 ||tru0.lat^
 ||trux.lat^
 ||trvg.lat^
-||trw5.lat^
 ||tryb.lat^
-||tryzylpo.lat^
 ||tsam.lat^
 ||tsdd.lat^
 ||tseh.lat^
@@ -8516,7 +8151,6 @@
 ||tsmd.lat^
 ||tsplus.lat^
 ||tsqz.lat^
-||tsst.lat^
 ||tsyy.lat^
 ||tt1n.lat^
 ||tt2u.lat^
@@ -8527,7 +8161,6 @@
 ||ttvn.lat^
 ||ttyz.lat^
 ||tu6dme.lat^
-||tu6v.lat^
 ||tuah.lat^
 ||tudigitalmanager.lat^
 ||tueib.lat^
@@ -8553,7 +8186,6 @@
 ||tvma.lat^
 ||tvt2.lat^
 ||tvtf.lat^
-||tvttb.lat^
 ||tvvj.lat^
 ||tvvu.lat^
 ||tvvx.lat^
@@ -8561,7 +8193,6 @@
 ||twbe.lat^
 ||twd1.lat^
 ||twgs.lat^
-||twqj.lat^
 ||twslive77.lat^
 ||twub.lat^
 ||twvb.lat^
@@ -8571,7 +8202,6 @@
 ||tx6s.lat^
 ||tx74.lat^
 ||tx80.lat^
-||txdm.lat^
 ||txha.lat^
 ||txks.lat^
 ||txqu.lat^
@@ -8609,7 +8239,6 @@
 ||u0v6.lat^
 ||u12h.lat^
 ||u18t.lat^
-||u19e.lat^
 ||u19z.lat^
 ||u1eu.lat^
 ||u1fv.lat^
@@ -8642,7 +8271,6 @@
 ||u4o7f.lat^
 ||u4wjinvf.lat^
 ||u50b.lat^
-||u51b.lat^
 ||u52k.lat^
 ||u54n.lat^
 ||u56b.lat^
@@ -8661,7 +8289,6 @@
 ||u88mh9xq.lat^
 ||u8f4.lat^
 ||u8kb.lat^
-||u8mj.lat^
 ||u8mz.lat^
 ||u8t0.lat^
 ||u8ve.lat^
@@ -8679,7 +8306,6 @@
 ||ub33.lat^
 ||ub38.lat^
 ||ub6g.lat^
-||ub6p.lat^
 ||ubcj.lat^
 ||uberlandia.lat^
 ||ubpeclff.lat^
@@ -8689,7 +8315,6 @@
 ||ubut.lat^
 ||uc6w.lat^
 ||uc7r.lat^
-||ucdc.lat^
 ||ucf7.lat^
 ||ucfp38.lat^
 ||ucjaxdfvwd.lat^
@@ -8718,8 +8343,6 @@
 ||ufar.lat^
 ||ufbs.lat^
 ||ufex.lat^
-||ufindit.lat^
-||ufkp.lat^
 ||ufut.lat^
 ||ufyk.lat^
 ||ug1g.lat^
@@ -8742,15 +8365,13 @@
 ||uhvn9je.lat^
 ||uhyz.lat^
 ||uid.lat^
-||uj5n.lat^
 ||uj7e.lat^
 ||ujd6.lat^
 ||ujgd.lat^
-||ujgz.lat^
 ||ujlood.lat^
+||ujng8.lat^
 ||ujw7.lat^
 ||ujxy.lat^
-||ujyf.lat^
 ||uk5rzskp.lat^
 ||uk7q.lat^
 ||uk8td1.lat^
@@ -8763,7 +8384,6 @@
 ||ukzrs.lat^
 ||ulovely.lat^
 ||ulq1dsw3.lat^
-||umcommunities.lat^
 ||ume9.lat^
 ||umeme.lat^
 ||umgh.lat^
@@ -8809,7 +8429,6 @@
 ||uq6d.lat^
 ||uqat.lat^
 ||uqj8.lat^
-||uqjv.lat^
 ||uqmm.lat^
 ||uqx5.lat^
 ||ur36.lat^
@@ -8843,7 +8462,6 @@
 ||utpq.lat^
 ||utvn.lat^
 ||utvwb97z.lat^
-||uu1m.lat^
 ||uu6d.lat^
 ||uu88.lat^
 ||uuam.lat^
@@ -8888,7 +8506,6 @@
 ||uz7a.lat^
 ||uzd3.lat^
 ||uzg2.lat^
-||uzkf.lat^
 ||uzp59j.lat^
 ||uzrt.lat^
 ||uzrw.lat^
@@ -8931,28 +8548,23 @@
 ||v4jpx6.lat^
 ||v4q9.lat^
 ||v4tn.lat^
-||v513.lat^
 ||v5fx.lat^
 ||v5iulf.lat^
 ||v5nm.lat^
 ||v5r5.lat^
 ||v5s0.lat^
 ||v5s5.lat^
-||v5v9.lat^
 ||v66t.lat^
 ||v6kd.lat^
 ||v6rn.lat^
 ||v735.lat^
 ||v751.lat^
-||v76g.lat^
 ||v7tw.lat^
 ||v7z07uc5.lat^
 ||v7zg.lat^
-||v813.lat^
 ||v81v.lat^
 ||v83t.lat^
 ||v849.lat^
-||v86e.lat^
 ||v87j.lat^
 ||v88nqn8w.lat^
 ||v8eu.lat^
@@ -8961,16 +8573,12 @@
 ||v9dj33.lat^
 ||v9dtvntw.lat^
 ||v9gr.lat^
-||v9w4.lat^
 ||vadwos.lat^
 ||vajr.lat^
 ||valeriun.lat^
-||validacionesg.lat^
 ||validacionesglc.lat^
 ||validaciongali.lat^
-||validatugali.lat^
 ||validcbc.lat^
-||validout.lat^
 ||valtra.lat^
 ||valuevaultvillage.lat^
 ||vang.lat^
@@ -8997,29 +8605,24 @@
 ||vbvh.lat^
 ||vbxn.lat^
 ||vc28.lat^
-||vc4z.lat^
 ||vcbk.lat^
 ||vcg4.lat^
 ||vcpm.lat^
 ||vcu8.lat^
 ||vcuf.lat^
 ||vcweoskowp.lat^
-||vd8j.lat^
 ||vde0.lat^
 ||vdj9.lat^
 ||vdmz.lat^
 ||vdn6.lat^
-||vdqv.lat^
 ||vds0.lat^
 ||vdzxtawd.lat^
 ||ve5p.lat^
 ||ve72.lat^
 ||vebgbht.lat^
-||vech.lat^
 ||vedsoft.lat^
 ||veej.lat^
 ||veek.lat^
-||vegas77vip.lat^
 ||velocityvista.lat^
 ||vendify.lat^
 ||ventascmoctezuma.lat^
@@ -9031,7 +8634,6 @@
 ||verif.lat^
 ||vermelho.lat^
 ||vervancosmetics.lat^
-||vetoquinolusa.lat^
 ||vetu.lat^
 ||vevc.lat^
 ||vf0u68hq.lat^
@@ -9056,13 +8658,11 @@
 ||vgm0.lat^
 ||vgr4.lat^
 ||vgrwmja.lat^
-||vgttns1x.lat^
 ||vgx1.lat^
 ||vh6ip1z.lat^
 ||vh7i.lat^
 ||vhpn.lat^
 ||vhq3.lat^
-||vhqu.lat^
 ||vhr353.lat^
 ||vhr361.lat^
 ||vht2.lat^
@@ -9080,11 +8680,9 @@
 ||violettest.lat^
 ||vip79.lat^
 ||vipol.lat^
-||vippers.lat^
 ||virgimportshop.lat^
 ||virtualmarket.lat^
 ||vitalityveganrevolution.lat^
-||vividix.lat^
 ||viviendoconsop.lat^
 ||vj5u.lat^
 ||vj72.lat^
@@ -9122,10 +8720,8 @@
 ||vnmd1.lat^
 ||vnmw.lat^
 ||vnnn.lat^
-||vnyt.lat^
 ||von5.lat^
 ||voo.lat^
-||vp5b.lat^
 ||vp6e.lat^
 ||vp6f.lat^
 ||vp71.lat^
@@ -9142,7 +8738,6 @@
 ||vpvs.lat^
 ||vpyh.lat^
 ||vq4x.lat^
-||vq7a.lat^
 ||vq7r.lat^
 ||vqa3.lat^
 ||vqewgjd.lat^
@@ -9158,7 +8753,6 @@
 ||vruj.lat^
 ||vrw0.lat^
 ||vrwh.lat^
-||vsbc.lat^
 ||vsdn.lat^
 ||vskw.lat^
 ||vsqp.lat^
@@ -9173,13 +8767,10 @@
 ||vtmr.lat^
 ||vtrb.lat^
 ||vtrg.lat^
-||vtu5l8v7.lat^
 ||vtur.lat^
 ||vucj.lat^
 ||vucx.lat^
-||vugq.lat^
 ||vuv0.lat^
-||vuv5.lat^
 ||vuw4.lat^
 ||vv0035.lat^
 ||vv0039.lat^
@@ -9276,9 +8867,7 @@
 ||w4bp.lat^
 ||w4de.lat^
 ||w4kh.lat^
-||w4n1.lat^
 ||w4pu.lat^
-||w4vp.lat^
 ||w4w4.lat^
 ||w54k.lat^
 ||w593.lat^
@@ -9291,7 +8880,6 @@
 ||w6iol1y.lat^
 ||w6kf.lat^
 ||w6s1.lat^
-||w6vt.lat^
 ||w6zg.lat^
 ||w79jrem.lat^
 ||w7aj0.lat^
@@ -9306,8 +8894,6 @@
 ||w8rbk4.lat^
 ||w8ut.lat^
 ||w8xm.lat^
-||w9mg3f36.lat^
-||wa0h2qc5.lat^
 ||wa0k.lat^
 ||wa8y.lat^
 ||wachis.lat^
@@ -9347,7 +8933,6 @@
 ||wdyq.lat^
 ||webcraft.lat^
 ||webrom.lat^
-||wechat.lat^
 ||wedeqq1.lat^
 ||weeu.lat^
 ||wefb.lat^
@@ -9355,7 +8940,9 @@
 ||wegioioshne.lat^
 ||weh3.lat^
 ||weksploracjaza.lat^
+||wellnesslifestyle.lat^
 ||wellnessway.lat^
+||wellnessworkshop.lat^
 ||wellsfargo.lat^
 ||werson.lat^
 ||weumorievsm.lat^
@@ -9380,7 +8967,6 @@
 ||wftz.lat^
 ||wfvt.lat^
 ||wg2g.lat^
-||wgbr.lat^
 ||wgfk.lat^
 ||wgjc.lat^
 ||wgnj.lat^
@@ -9394,7 +8980,6 @@
 ||whjs.lat^
 ||whkh.lat^
 ||whqu.lat^
-||whsa.lat^
 ||wieo.lat^
 ||wiley.lat^
 ||win369.lat^
@@ -9412,12 +8997,10 @@
 ||wjmp.lat^
 ||wjuu.lat^
 ||wjx.lat^
-||wjxy.lat^
 ||wk0f.lat^
 ||wk0g.lat^
 ||wkcp.lat^
 ||wkjf.lat^
-||wkn4.lat^
 ||wknuzh.lat^
 ||wks7.lat^
 ||wkvc.lat^
@@ -9429,10 +9012,7 @@
 ||wmav.lat^
 ||wmfd.lat^
 ||wmk7.lat^
-||wmmz.lat^
 ||wmr0.lat^
-||wmsf.lat^
-||wmtf.lat^
 ||wmxt.lat^
 ||wmz0.lat^
 ||wn2f.lat^
@@ -9440,7 +9020,6 @@
 ||wn8b.lat^
 ||wnf0.lat^
 ||wnfq.lat^
-||wnk60kcp.lat^
 ||wnru.lat^
 ||wnte.lat^
 ||wnub.lat^
@@ -9449,7 +9028,7 @@
 ||wo5g.lat^
 ||wolfpb.lat^
 ||wolfsbane.lat^
-||wounb.lat^
+||workmanship.lat^
 ||wp3d.lat^
 ||wp83.lat^
 ||wp8b.lat^
@@ -9458,7 +9037,6 @@
 ||wpx1.lat^
 ||wpy7.lat^
 ||wq0m.lat^
-||wq5y.lat^
 ||wq6y.lat^
 ||wqdn.lat^
 ||wqfe.lat^
@@ -9470,12 +9048,10 @@
 ||wqud.lat^
 ||wqvh.lat^
 ||wqzs.lat^
-||wr56.lat^
 ||wr7w.lat^
 ||wr8r.lat^
 ||wrdx.lat^
 ||wrp9.lat^
-||wrrb.lat^
 ||wrvz.lat^
 ||ws04.lat^
 ||ws3o9q.lat^
@@ -9485,7 +9061,6 @@
 ||wsnb.lat^
 ||wspk.lat^
 ||wsqw.lat^
-||wstg.lat^
 ||wt24rsjm.lat^
 ||wt4s.lat^
 ||wt65.lat^
@@ -9505,8 +9080,6 @@
 ||wv74.lat^
 ||wvgy.lat^
 ||wvjj.lat^
-||wvtd.lat^
-||wvvd.lat^
 ||wvxv.lat^
 ||ww13.lat^
 ||ww7u.lat^
@@ -9533,14 +9106,11 @@
 ||wy6f.lat^
 ||wy7w.lat^
 ||wyhj.lat^
-||wynb.lat^
 ||wyrn.lat^
 ||wyts.lat^
 ||wyvv.lat^
 ||wyzf.lat^
-||wz0u0hcq.lat^
 ||wz7y.lat^
-||wzabawaw.lat^
 ||wzdm.lat^
 ||wzg4ta9v.lat^
 ||wzgb.lat^
@@ -9550,7 +9120,6 @@
 ||x0a7cn.lat^
 ||x0ht.lat^
 ||x0nz.lat^
-||x0ru.lat^
 ||x0tn.lat^
 ||x0x6.lat^
 ||x0yx.lat^
@@ -9566,7 +9135,6 @@
 ||x2aih.lat^
 ||x2bk.lat^
 ||x2hx.lat^
-||x2jj.lat^
 ||x2m0.lat^
 ||x2nb.lat^
 ||x2p9.lat^
@@ -9584,7 +9152,6 @@
 ||x44y.lat^
 ||x480.lat^
 ||x48kcs53.lat^
-||x4cb.lat^
 ||x4ck3w60.lat^
 ||x4cy.lat^
 ||x4g5.lat^
@@ -9620,7 +9187,6 @@
 ||x7u3.lat^
 ||x7wd.lat^
 ||x7zy.lat^
-||x802.lat^
 ||x80w.lat^
 ||x86d2wcx.lat^
 ||x8a7.lat^
@@ -9642,7 +9208,6 @@
 ||xc15.lat^
 ||xc2p.lat^
 ||xchd.lat^
-||xcwa.lat^
 ||xd22.lat^
 ||xd9h.lat^
 ||xdfhpj7t.lat^
@@ -9657,7 +9222,6 @@
 ||xeuk.lat^
 ||xf3h.lat^
 ||xf8m.lat^
-||xfee.lat^
 ||xfn2.lat^
 ||xfsv.lat^
 ||xfu8.lat^
@@ -9694,7 +9258,6 @@
 ||xjg4.lat^
 ||xjjf.lat^
 ||xjmw.lat^
-||xjnc.lat^
 ||xjqa.lat^
 ||xjxg.lat^
 ||xjxt.lat^
@@ -9722,7 +9285,6 @@
 ||xmsd.lat^
 ||xmzz.lat^
 ||xn--ecodisea-j3a.lat^
-||xn05.lat^
 ||xn9g.lat^
 ||xnah.lat^
 ||xnsdizp.lat^
@@ -9761,7 +9323,6 @@
 ||xqz9.lat^
 ||xr10.lat^
 ||xr3e.lat^
-||xr5e.lat^
 ||xr5h.lat^
 ||xr9wny1.lat^
 ||xrandom.lat^
@@ -9774,7 +9335,6 @@
 ||xs7e.lat^
 ||xs7x.lat^
 ||xsag5.lat^
-||xsbu.lat^
 ||xsk4.lat^
 ||xsmj.lat^
 ||xsnd.lat^
@@ -9799,7 +9359,6 @@
 ||xubn.lat^
 ||xubz.lat^
 ||xuctypt.lat^
-||xuff.lat^
 ||xugh.lat^
 ||xuitoelbailador.lat^
 ||xum0.lat^
@@ -9808,7 +9367,6 @@
 ||xuwk.lat^
 ||xv0s.lat^
 ||xv4f.lat^
-||xv50.lat^
 ||xv5x.lat^
 ||xve2.lat^
 ||xvhs.lat^
@@ -9839,7 +9397,6 @@
 ||xxyn.lat^
 ||xxzqwu.lat^
 ||xy3q.lat^
-||xyd2.lat^
 ||xyen.lat^
 ||xyfy.lat^
 ||xyk1.lat^
@@ -9864,7 +9421,6 @@
 ||y1k5.lat^
 ||y1pk.lat^
 ||y1rf.lat^
-||y1wk.lat^
 ||y1xh.lat^
 ||y1xin0c0.lat^
 ||y1ye.lat^
@@ -9890,7 +9446,6 @@
 ||y45u.lat^
 ||y4a1.lat^
 ||y4ck.lat^
-||y4d0.lat^
 ||y4su.lat^
 ||y4sv.lat^
 ||y4tw.lat^
@@ -9915,7 +9470,6 @@
 ||y74v.lat^
 ||y7m7.lat^
 ||y7oa53.lat^
-||y7qk.lat^
 ||y7yr.lat^
 ||y82u.lat^
 ||y8ax.lat^
@@ -9930,7 +9484,6 @@
 ||yahooo.lat^
 ||yaoqingma.lat^
 ||yapc.lat^
-||yaqe.lat^
 ||yarddries.lat^
 ||yayaya.lat^
 ||yayz.lat^
@@ -9965,17 +9518,14 @@
 ||ydzr.lat^
 ||ye9o.lat^
 ||yef2.lat^
-||yeqb.lat^
 ||yet7.lat^
 ||yetlove.lat^
-||yeux.lat^
 ||yews.lat^
 ||yexeiu.lat^
 ||yeye.lat^
 ||yf1h.lat^
 ||yf2f.lat^
 ||yf4r.lat^
-||yf5w.lat^
 ||yffe.lat^
 ||yfhv.lat^
 ||yfk4.lat^
@@ -10017,7 +9567,6 @@
 ||yl6hgjn7.lat^
 ||ylak.lat^
 ||ylb17.lat^
-||ym1j.lat^
 ||ym67.lat^
 ||ymdaj.lat^
 ||ymy0.lat^
@@ -10033,7 +9582,6 @@
 ||yoepvgq.lat^
 ||yoeshopstyle.lat^
 ||yogaencasa.lat^
-||yogafacial.lat^
 ||yollotlart.lat^
 ||yomll.lat^
 ||yougle-logistics.lat^
@@ -10047,7 +9595,6 @@
 ||ypn2.lat^
 ||ypp0.lat^
 ||ypr87.lat^
-||ypv5e.lat^
 ||ypw7.lat^
 ||yq12d7x.lat^
 ||yq20k4ts.lat^
@@ -10066,7 +9613,6 @@
 ||ysmg.lat^
 ||ysr4.lat^
 ||yste.lat^
-||yt1d.lat^
 ||yt1n.lat^
 ||yt3v.lat^
 ||yt4h.lat^
@@ -10099,17 +9645,13 @@
 ||ywbb.lat^
 ||ywbt.lat^
 ||ywfslovc.lat^
-||ywms.lat^
 ||ywsw.lat^
 ||ywwe.lat^
-||ywz5.lat^
 ||yx3u.lat^
 ||yx8y.lat^
-||yxjoazi.lat^
 ||yxk6.lat^
 ||yxmtqzbmws.lat^
 ||yxucrn.lat^
-||yxza.lat^
 ||yxzn3.lat^
 ||yy2y.lat^
 ||yy4w.lat^
@@ -10120,7 +9662,6 @@
 ||yydk.lat^
 ||yymx.lat^
 ||yynj.lat^
-||yypd.lat^
 ||yywb.lat^
 ||yz3x.lat^
 ||yzavkkuz.lat^
@@ -10131,14 +9672,11 @@
 ||yzzt.lat^
 ||z05yvnh3.lat^
 ||z0cb.lat^
-||z0kp.lat^
 ||z0lqd2f4.lat^
-||z0qh.lat^
 ||z0yz.lat^
 ||z0z3mndl.lat^
 ||z0zk.lat^
 ||z15g.lat^
-||z16y.lat^
 ||z1bb.lat^
 ||z1ihe.lat^
 ||z1ynsfdy.lat^
@@ -10147,7 +9685,6 @@
 ||z264.lat^
 ||z2fj.lat^
 ||z2jx.lat^
-||z2pt.lat^
 ||z357.lat^
 ||z3cz.lat^
 ||z3dk6.lat^
@@ -10159,7 +9696,6 @@
 ||z3wf.lat^
 ||z3ww.lat^
 ||z3xd.lat^
-||z41y.lat^
 ||z48b.lat^
 ||z4gd.lat^
 ||z4hh.lat^
@@ -10169,7 +9705,6 @@
 ||z4uq.lat^
 ||z4wu.lat^
 ||z504.lat^
-||z5gq.lat^
 ||z5ks.lat^
 ||z5v4.lat^
 ||z5wq.lat^
@@ -10228,9 +9763,6 @@
 ||zckt.lat^
 ||zckxlfx.lat^
 ||zctt.lat^
-||zd8e.lat^
-||zdfc.lat^
-||zdfw.lat^
 ||zdrq.lat^
 ||zduh.lat^
 ||zdw6l.lat^
@@ -10248,7 +9780,6 @@
 ||zezg.lat^
 ||zf5h.lat^
 ||zf5j.lat^
-||zf8s.lat^
 ||zfrnnib.lat^
 ||zfuk.lat^
 ||zgcf.lat^
@@ -10275,13 +9806,11 @@
 ||zjb4.lat^
 ||zjhv.lat^
 ||zji2hsin.lat^
-||zjxs.lat^
 ||zk5n.lat^
 ||zk5y.lat^
 ||zk68.lat^
 ||zk721t.lat^
 ||zkej.lat^
-||zkjs.lat^
 ||zkq4.lat^
 ||zkrn.lat^
 ||zksz.lat^
@@ -10292,14 +9821,12 @@
 ||zlyl.lat^
 ||zm2w.lat^
 ||zmfe.lat^
-||zmg0eho3.lat^
 ||zmhz.lat^
 ||zmne.lat^
 ||zmr6y0p.lat^
 ||zmsd.lat^
 ||zmwpsmuobn.lat^
 ||zn6a.lat^
-||zn6e.lat^
 ||znamdf9.lat^
 ||znec.lat^
 ||znz5.lat^
@@ -10317,7 +9844,6 @@
 ||zpdv.lat^
 ||zpte.lat^
 ||zpw7.lat^
-||zpzs.lat^
 ||zq1e.lat^
 ||zq2e.lat^
 ||zq4a.lat^
@@ -10332,7 +9858,6 @@
 ||zrfb.lat^
 ||zrhc.lat^
 ||zruduvnj.lat^
-||zs33.lat^
 ||zsefbhuk.lat^
 ||zsfud.lat^
 ||zsp2.lat^
@@ -10366,8 +9891,6 @@
 ||zv46.lat^
 ||zv5e.lat^
 ||zv6x.lat^
-||zveu.lat^
-||zvgy.lat^
 ||zvhc.lat^
 ||zvicrkn.lat^
 ||zvkx.lat^
@@ -10378,7 +9901,6 @@
 ||zwpp.lat^
 ||zwrj.lat^
 ||zwtrbp.lat^
-||zwuj.lat^
 ||zx27c.lat^
 ||zx55.lat^
 ||zxcyoa8.lat^
@@ -10395,10 +9917,8 @@
 ||zz2v.lat^
 ||zz3q.lat^
 ||zz53.lat^
-||zzf.lat^
 ||zzg7.lat^
 ||zzgp.lat^
-||zznil.lat^
 ||zzr1.lat^
 ||zzsw.lat^
 ||zzv8.lat^

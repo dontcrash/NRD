@@ -3,6 +3,7 @@
 ||algorithmicetfs.trading^
 ||anaume.trading^
 ||apt.trading^
+||astra.trading^
 ||aurelius.trading^
 ||automatedai.trading^
 ||automatedexponential.trading^
@@ -19,7 +20,6 @@
 ||btcetffutures.trading^
 ||btcoptions.trading^
 ||cheddar.trading^
-||cronos.trading^
 ||cryptoai.trading^
 ||cryptoderivatives.trading^
 ||cryptopsychic.trading^
@@ -66,11 +66,9 @@
 ||rareearth.trading^
 ||rareearths.trading^
 ||samwelino.trading^
-||sandbox.trading^
 ||seasonal.trading^
 ||secret.trading^
 ||sigmafx.trading^
-||slh.trading^
 ||squirrel.trading^
 ||stablecoin.trading^
 ||stockbot.trading^
@@ -90,4 +88,6 @@
 ||verse.trading^
 ||wads.trading^
 ||whale.trading^
+||worldgateholding.trading^
+||worldnet.trading^
 ||zigzagfi.trading^

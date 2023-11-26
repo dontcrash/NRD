@@ -1,4 +1,6 @@
+||1688.delivery^
 ||4-72.delivery^
+||active.delivery^
 ||aladdin.delivery^
 ||ampm.delivery^
 ||apif.delivery^
@@ -12,15 +14,16 @@
 ||bobatea.delivery^
 ||boringtaco.delivery^
 ||bulldozereat.delivery^
-||bunker.delivery^
 ||ch-paket.delivery^
 ||chatto.delivery^
+||chronopost-mon-suivi.delivery^
 ||clubve.delivery^
 ||cmoa.delivery^
 ||confirmed.delivery^
 ||congress.delivery^
 ||controlled.delivery^
 ||corridor.delivery^
+||csdn.delivery^
 ||customs-anpost.delivery^
 ||dads.delivery^
 ||daoof.delivery^
@@ -54,6 +57,7 @@
 ||gamewith.delivery^
 ||graiied.delivery^
 ||grandcentralpizza.delivery^
+||grizzly.delivery^
 ||guayaquil.delivery^
 ||gus.delivery^
 ||happyanniversary.delivery^
@@ -81,6 +85,7 @@
 ||lavka.delivery^
 ||lazy.delivery^
 ||magazine.delivery^
+||mangal.delivery^
 ||mega-sena.delivery^
 ||meth.delivery^
 ||milktea.delivery^
@@ -118,6 +123,7 @@
 ||pharm.delivery^
 ||pick-up.delivery^
 ||picup.delivery^
+||pin-up.delivery^
 ||planet-express.delivery^
 ||playbeer.delivery^
 ||porn.delivery^
@@ -159,8 +165,8 @@
 ||subzeroicebar.delivery^
 ||swiftkargoexpress.delivery^
 ||swissexprss.delivery^
+||t9.delivery^
 ||termproduct.delivery^
-||therecruiter.delivery^
 ||timetoeat.delivery^
 ||tinder.delivery^
 ||tistory.delivery^
@@ -200,7 +206,6 @@
 ||xfood.delivery^
 ||xis.delivery^
 ||xmas.delivery^
-||xn--fdforfdis-q9af.delivery^
 ||yabox.delivery^
 ||yourexpress.delivery^
 ||zeeppy.delivery^

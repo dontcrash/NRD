@@ -9,6 +9,7 @@
 ||businessutility.claims^
 ||ca.claims^
 ||carfinance.claims^
+||cargo.claims^
 ||case.claims^
 ||cash.claims^
 ||certeurope.claims^
@@ -59,6 +60,7 @@
 ||optimism-badges.claims^
 ||otsea.claims^
 ||paraswap.claims^
+||phygitals.claims^
 ||processing.claims^
 ||psp.claims^
 ||q.claims^
@@ -91,6 +93,5 @@
 ||warcrimes.claims^
 ||washingtonadjusters.claims^
 ||webofdog.claims^
-||west.claims^
 ||xrp.claims^
 ||xxkk.claims^

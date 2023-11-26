@@ -25,7 +25,6 @@
 ||headless.build^
 ||homer.build^
 ||ingress.build^
-||instant.build^
 ||integrations.build^
 ||itec.build^
 ||iterative.build^
@@ -35,6 +34,7 @@
 ||mainframe.build^
 ||match.build^
 ||mermaid.build^
+||nifty.build^
 ||nohu.build^
 ||pagnos.build^
 ||phoenixroofing.build^
@@ -57,9 +57,9 @@
 ||synaps.build^
 ||sync.build^
 ||thesys.build^
-||tupismo.build^
 ||tvix.build^
 ||urbanconversions.build^
 ||vip79.build^
 ||workroom.build^
 ||xhamster.build^
+||youcan.build^

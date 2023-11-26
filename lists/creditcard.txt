@@ -19,7 +19,6 @@
 ||myrisecredit.creditcard^
 ||national.creditcard^
 ||oklahoma.creditcard^
-||owe.creditcard^
 ||polygon.creditcard^
 ||pot.creditcard^
 ||premium.creditcard^
@@ -29,6 +28,7 @@
 ||roma.creditcard^
 ||rtpslothailand.creditcard^
 ||rw.creditcard^
+||spark.creditcard^
 ||stripchat.creditcard^
 ||telaviv.creditcard^
 ||tibasholding.creditcard^
@@ -37,3 +37,4 @@
 ||voice.creditcard^
 ||worldlife.creditcard^
 ||ws.creditcard^
+||xbank.creditcard^

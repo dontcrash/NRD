@@ -32,7 +32,6 @@
 ||andray.capital^
 ||anglorand.capital^
 ||antiquity.capital^
-||apexa.capital^
 ||ariya.capital^
 ||arondight.capital^
 ||arrange.capital^
@@ -46,7 +45,6 @@
 ||atomicventure.capital^
 ||atv.capital^
 ||avenell.capital^
-||aviationbank.capital^
 ||b-rich.capital^
 ||bareeq.capital^
 ||bastion.capital^
@@ -67,6 +65,7 @@
 ||blackwater.capital^
 ||bluefalcon.capital^
 ||blueorchid.capital^
+||blueriver.capital^
 ||bluesea.capital^
 ||bracebridge.capital^
 ||bridge-east.capital^
@@ -109,6 +108,7 @@
 ||corrin.capital^
 ||cringe.capital^
 ||crypto1.capital^
+||csdn.capital^
 ||cyberdefence.capital^
 ||cyberdefense.capital^
 ||cybersec.capital^
@@ -149,7 +149,6 @@
 ||fenix.capital^
 ||fin-group.capital^
 ||finances.capital^
-||firstcryptobank.capital^
 ||firstcryptobonk.capital^
 ||firstin.capital^
 ||firststrategic.capital^
@@ -190,11 +189,15 @@
 ||horns.capital^
 ||huma.capital^
 ||hunterbrook.capital^
+||hypotheca.capital^
 ||ibtc.capital^
 ||imperoal.capital^
+||in-di-visible.capital^
+||in2050.capital^
 ||indigro.capital^
 ||indochina.capital^
 ||invariance.capital^
+||invech.capital^
 ||investhome.capital^
 ||investorsjournal.capital^
 ||investra.capital^
@@ -214,8 +217,9 @@
 ||kopi.capital^
 ||krv.capital^
 ||lansing.capital^
+||larksky.capital^
 ||ldp.capital^
-||leadbank.capital^
+||leungs.capital^
 ||lifestylewealth.capital^
 ||limelight.capital^
 ||liparus.capital^
@@ -231,6 +235,7 @@
 ||meritus.capital^
 ||messenger.capital^
 ||metal.capital^
+||migration-radiant.capital^
 ||mimas.capital^
 ||mpcorp.capital^
 ||muzizi.capital^
@@ -251,6 +256,7 @@
 ||numinova.capital^
 ||nuvo.capital^
 ||oceanbatt.capital^
+||onebank.capital^
 ||onefxgroup.capital^
 ||opco.capital^
 ||operaventure.capital^
@@ -267,10 +273,8 @@
 ||payback-limited.capital^
 ||pentwater.capital^
 ||pex.capital^
-||pilot-bank.capital^
-||pilotbank.capital^
-||pilotbanking.capital^
 ||pinus.capital^
+||pivate.capital^
 ||pjc.capital^
 ||pl.capital^
 ||planetedge.capital^
@@ -278,12 +282,12 @@
 ||positive.capital^
 ||preserving.capital^
 ||prima.capital^
+||profit.capital^
 ||prometeo.capital^
 ||property.capital^
 ||protrade.capital^
 ||pursuit.capital^
 ||pyth.capital^
-||ra2.capital^
 ||radant.capital^
 ||radient.capital^
 ||ratpack.capital^
@@ -325,6 +329,8 @@
 ||shortsqueeze.capital^
 ||shuaa.capital^
 ||signals.capital^
+||smartmoneycircle.capital^
+||sok.capital^
 ||solpro.capital^
 ||solynvest.capital^
 ||sp8.capital^
@@ -334,6 +340,7 @@
 ||src.capital^
 ||starquartet.capital^
 ||start-up.capital^
+||statecraft.capital^
 ||stbl.capital^
 ||steering.capital^
 ||stockreports.capital^
@@ -342,15 +349,18 @@
 ||sukna.capital^
 ||sunventures.capital^
 ||supernex.capital^
-||supremiere.capital^
 ||surfside.capital^
 ||tandt.capital^
 ||teleport.capital^
 ||tesuji.capital^
+||tex.capital^
 ||tgo.capital^
 ||theconscious.capital^
+||theforce.capital^
+||thesis.capital^
 ||thesisvision.capital^
 ||thetwist.capital^
+||theyggdrasil.capital^
 ||threecoins.capital^
 ||tlg.capital^
 ||topo.capital^
@@ -379,7 +389,6 @@
 ||vip79.capital^
 ||visionllp.capital^
 ||voltaire.capital^
-||vtp.capital^
 ||waddell.capital^
 ||wealthhero.capital^
 ||wearefirstin.capital^
@@ -397,6 +406,8 @@
 ||xn--eck3a9bu7cul.capital^
 ||xone.capital^
 ||xxkk.capital^
+||yggdrasil.capital^
+||yggdrasill.capital^
 ||yieldriver.capital^
 ||ysn.capital^
 ||zeroone.capital^
