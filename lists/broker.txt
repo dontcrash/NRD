@@ -4,6 +4,7 @@
 ||analytics.broker^
 ||assistant.broker^
 ||battle.broker^
+||beat.broker^
 ||binomo-invest.broker^
 ||block-chain.broker^
 ||brics.broker^
@@ -13,18 +14,18 @@
 ||climate.broker^
 ||computers.broker^
 ||cool.broker^
-||criptomoneda.broker^
 ||cryptocom.broker^
 ||cryptos.broker^
-||dex.broker^
 ||dscr.broker^
 ||eagleeye.broker^
 ||esim.broker^
 ||etf.broker^
 ||europe.broker^
 ||fca.broker^
+||germanrealty.broker^
 ||goods.broker^
 ||gpts.broker^
+||immovest.broker^
 ||infy.broker^
 ||logistics.broker^
 ||metapay.broker^
@@ -39,7 +40,6 @@
 ||raps.broker^
 ||remote.broker^
 ||sample.broker^
-||semantic.broker^
 ||skins.broker^
 ||spankbang.broker^
 ||sun.broker^

@@ -9,6 +9,7 @@
 ||arts.properties^
 ||asok.properties^
 ||basel.properties^
+||bcgame.properties^
 ||beck.properties^
 ||bg.properties^
 ||bitbucket.properties^
@@ -26,11 +27,14 @@
 ||caleb.properties^
 ||cannes.properties^
 ||cascade.properties^
+||casinoplus.properties^
 ||charlevoix.properties^
 ||coastalhaus.properties^
 ||confident.properties^
+||coryea.properties^
 ||courses.properties^
 ||crossborder.properties^
+||csdn.properties^
 ||dardur.properties^
 ||database.properties^
 ||dawnvalley.properties^
@@ -44,6 +48,7 @@
 ||eventgroove.properties^
 ||expo.properties^
 ||farhills.properties^
+||favbet.properties^
 ||filter.properties^
 ||fr.properties^
 ||franklin.properties^
@@ -82,7 +87,6 @@
 ||lapis.properties^
 ||letsget.properties^
 ||lifestylehomes.properties^
-||lift.properties^
 ||linear.properties^
 ||livingluxe.properties^
 ||lost.properties^
@@ -94,7 +98,6 @@
 ||mantra.properties^
 ||mm.properties^
 ||monarchbeach.properties^
-||montchanin.properties^
 ||mostvaluable.properties^
 ||multiland.properties^
 ||mva.properties^
@@ -111,7 +114,6 @@
 ||newmark.properties^
 ||newrozholdings.properties^
 ||nohu.properties^
-||nriglobal.properties^
 ||nsfas.properties^
 ||ocoeerivermountaincottages.properties^
 ||off-market.properties^
@@ -130,9 +132,7 @@
 ||projoel.properties^
 ||pugetsound.properties^
 ||qorno.properties^
-||quantize.properties^
 ||queen.properties^
-||realtybay.properties^
 ||relevaterealty.properties^
 ||remodel.properties^
 ||resell.properties^
@@ -152,6 +152,7 @@
 ||spankbang.properties^
 ||speedtest.properties^
 ||spetses.properties^
+||sportybet.properties^
 ||squadhub.properties^
 ||squarex.properties^
 ||stripchat.properties^

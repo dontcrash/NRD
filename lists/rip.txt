@@ -36,6 +36,7 @@
 ||04567.rip^
 ||04606.rip^
 ||04642.rip^
+||04647.rip^
 ||04655.rip^
 ||04666.rip^
 ||04836.rip^
@@ -56,6 +57,7 @@
 ||06567.rip^
 ||06607.rip^
 ||06799.rip^
+||06958.rip^
 ||06973.rip^
 ||07073.rip^
 ||07714.rip^
@@ -68,16 +70,19 @@
 ||08266.rip^
 ||08356.rip^
 ||08463.rip^
+||08581.rip^
 ||08626.rip^
 ||08691.rip^
 ||08713.rip^
 ||08885.rip^
 ||08922.rip^
 ||09099.rip^
+||09258.rip^
 ||09439.rip^
 ||09489.rip^
 ||09738.rip^
 ||09777.rip^
+||100563.rip^
 ||1007.rip^
 ||10075.rip^
 ||102600.rip^
@@ -113,6 +118,7 @@
 ||12822.rip^
 ||1285.rip^
 ||12888.rip^
+||12895.rip^
 ||12897.rip^
 ||12940.rip^
 ||12957.rip^
@@ -121,6 +127,7 @@
 ||13163.rip^
 ||13198.rip^
 ||13219.rip^
+||13246.rip^
 ||13294.rip^
 ||13444.rip^
 ||1346.rip^
@@ -154,6 +161,7 @@
 ||15076.rip^
 ||1512.rip^
 ||1515.rip^
+||15262.rip^
 ||15276.rip^
 ||1528.rip^
 ||15308.rip^
@@ -175,6 +183,7 @@
 ||15877.rip^
 ||15896.rip^
 ||15910.rip^
+||15936.rip^
 ||16006.rip^
 ||16111.rip^
 ||16116.rip^
@@ -191,6 +200,8 @@
 ||16302.rip^
 ||16399.rip^
 ||1645.rip^
+||16520.rip^
+||16521.rip^
 ||1654.rip^
 ||1655.rip^
 ||16567.rip^
@@ -205,12 +216,14 @@
 ||1736.rip^
 ||17369.rip^
 ||1742.rip^
+||17425.rip^
 ||1744.rip^
 ||1753.rip^
 ||17567.rip^
 ||17585.rip^
 ||17720.rip^
 ||17877.rip^
+||17935.rip^
 ||18053.rip^
 ||1809.rip^
 ||18120.rip^
@@ -243,6 +256,7 @@
 ||20277.rip^
 ||20322.rip^
 ||20430.rip^
+||20489.rip^
 ||20493.rip^
 ||20629.rip^
 ||20701.rip^
@@ -291,6 +305,7 @@
 ||23954.rip^
 ||23958.rip^
 ||23992.rip^
+||24082.rip^
 ||2417.rip^
 ||24202.rip^
 ||2426.rip^
@@ -311,6 +326,7 @@
 ||24812.rip^
 ||24839.rip^
 ||2485.rip^
+||2488.rip^
 ||2497.rip^
 ||25050.rip^
 ||25189.rip^
@@ -350,12 +366,14 @@
 ||26026.rip^
 ||26050.rip^
 ||26113.rip^
+||26160.rip^
 ||26197.rip^
 ||2623.rip^
 ||2626.rip^
 ||26291.rip^
 ||26459.rip^
 ||2646.rip^
+||26480.rip^
 ||2652.rip^
 ||26521.rip^
 ||26539.rip^
@@ -408,7 +426,6 @@
 ||2845.rip^
 ||28485.rip^
 ||2851.rip^
-||2854.rip^
 ||2858.rip^
 ||28678.rip^
 ||28702.rip^
@@ -422,6 +439,7 @@
 ||28962.rip^
 ||29106.rip^
 ||29134.rip^
+||29145.rip^
 ||29178.rip^
 ||29230.rip^
 ||2926.rip^
@@ -449,7 +467,6 @@
 ||30869.rip^
 ||31024.rip^
 ||31299.rip^
-||3138.rip^
 ||31417.rip^
 ||3146.rip^
 ||31462.rip^
@@ -1018,7 +1035,6 @@
 ||36955.rip^
 ||36958.rip^
 ||36959.rip^
-||3696.rip^
 ||36960.rip^
 ||36961.rip^
 ||36962.rip^
@@ -1406,6 +1422,7 @@
 ||40998.rip^
 ||41140.rip^
 ||41158.rip^
+||41228.rip^
 ||41273.rip^
 ||41372.rip^
 ||41413.rip^
@@ -1495,6 +1512,7 @@
 ||47195.rip^
 ||4728.rip^
 ||4738.rip^
+||47396.rip^
 ||4752.rip^
 ||47536.rip^
 ||47552.rip^
@@ -1553,6 +1571,7 @@
 ||49837.rip^
 ||49969.rip^
 ||50153.rip^
+||50313.rip^
 ||5038.rip^
 ||50382.rip^
 ||5068.rip^
@@ -1567,6 +1586,7 @@
 ||5128.rip^
 ||51327.rip^
 ||51372.rip^
+||51520.rip^
 ||51590.rip^
 ||5179.rip^
 ||5186.rip^
@@ -1609,6 +1629,7 @@
 ||53297.rip^
 ||5334.rip^
 ||53562.rip^
+||53569.rip^
 ||53627.rip^
 ||53657.rip^
 ||5367.rip^
@@ -1661,6 +1682,9 @@
 ||55578.rip^
 ||55579.rip^
 ||55581.rip^
+||55587.rip^
+||55590.rip^
+||55591.rip^
 ||5563.rip^
 ||55800.rip^
 ||5585.rip^
@@ -1736,6 +1760,8 @@
 ||56778.rip^
 ||5679.rip^
 ||5681.rip^
+||56815.rip^
+||56818.rip^
 ||56851.rip^
 ||56854.rip^
 ||56855.rip^
@@ -1743,6 +1769,7 @@
 ||56859.rip^
 ||56860.rip^
 ||56863.rip^
+||56869.rip^
 ||5687.rip^
 ||56912.rip^
 ||56913.rip^
@@ -1754,6 +1781,7 @@
 ||56931.rip^
 ||56935.rip^
 ||56938.rip^
+||56947.rip^
 ||56952.rip^
 ||56957.rip^
 ||56973.rip^
@@ -1793,6 +1821,7 @@
 ||58239.rip^
 ||58266.rip^
 ||5834.rip^
+||5837.rip^
 ||5839.rip^
 ||58397.rip^
 ||5841.rip^
@@ -1816,6 +1845,7 @@
 ||5893.rip^
 ||5894.rip^
 ||58979.rip^
+||59095.rip^
 ||59101.rip^
 ||59197.rip^
 ||592148.rip^
@@ -1875,12 +1905,15 @@
 ||62937.rip^
 ||62981.rip^
 ||6315.rip^
+||63169.rip^
 ||6317.rip^
 ||63174.rip^
+||63186.rip^
 ||63215.rip^
 ||63217.rip^
 ||6324.rip^
 ||6325.rip^
+||63287.rip^
 ||633.rip^
 ||63328.rip^
 ||63333.rip^
@@ -1916,6 +1949,7 @@
 ||6418.rip^
 ||64194.rip^
 ||6425.rip^
+||6432.rip^
 ||64351.rip^
 ||64421.rip^
 ||64542.rip^
@@ -2018,6 +2052,7 @@
 ||6742.rip^
 ||67486.rip^
 ||6752.rip^
+||67526.rip^
 ||67538.rip^
 ||67593.rip^
 ||6766.rip^
@@ -2028,7 +2063,6 @@
 ||67983.rip^
 ||6812.rip^
 ||68127.rip^
-||6814.rip^
 ||6824.rip^
 ||68262.rip^
 ||68296.rip^
@@ -2063,6 +2097,7 @@
 ||69116.rip^
 ||692.rip^
 ||6927.rip^
+||69274.rip^
 ||69285.rip^
 ||6939.rip^
 ||69457.rip^
@@ -2092,6 +2127,7 @@
 ||69873.rip^
 ||69957.rip^
 ||70313.rip^
+||7036.rip^
 ||70445.rip^
 ||70456.rip^
 ||705.rip^
@@ -2120,6 +2156,7 @@
 ||72137.rip^
 ||72180.rip^
 ||7232.rip^
+||7236.rip^
 ||72396.rip^
 ||72453.rip^
 ||7254.rip^
@@ -2159,6 +2196,8 @@
 ||73743.rip^
 ||73766.rip^
 ||73773.rip^
+||73783.rip^
+||73785.rip^
 ||73791.rip^
 ||73793.rip^
 ||73795.rip^
@@ -2215,6 +2254,7 @@
 ||75293.rip^
 ||75396.rip^
 ||75469.rip^
+||7549.rip^
 ||75554.rip^
 ||75579.rip^
 ||7558.rip^
@@ -2296,6 +2336,7 @@
 ||7958.rip^
 ||7963.rip^
 ||79634.rip^
+||7965.rip^
 ||79651.rip^
 ||7982.rip^
 ||79825.rip^
@@ -2337,16 +2378,21 @@
 ||80702.rip^
 ||80704.rip^
 ||80836.rip^
+||80915.rip^
+||80917.rip^
+||80921.rip^
 ||81299.rip^
 ||81428.rip^
 ||8147.rip^
 ||81509.rip^
 ||8152.rip^
 ||8156.rip^
+||81561.rip^
 ||8157.rip^
 ||81595.rip^
 ||81795.rip^
 ||81816.rip^
+||81866.rip^
 ||81910.rip^
 ||81925.rip^
 ||81995.rip^
@@ -2367,6 +2413,10 @@
 ||8276.rip^
 ||82766.rip^
 ||8279.rip^
+||82956.rip^
+||82960.rip^
+||82961.rip^
+||82962.rip^
 ||82976.rip^
 ||83002.rip^
 ||8301.rip^
@@ -2389,6 +2439,7 @@
 ||834647.rip^
 ||834648.rip^
 ||83580.rip^
+||8365.rip^
 ||83697.rip^
 ||83738.rip^
 ||8374.rip^
@@ -2518,10 +2569,12 @@
 ||89161.rip^
 ||89179.rip^
 ||89193.rip^
+||8923.rip^
 ||8926.rip^
 ||89300.rip^
 ||89357.rip^
 ||89438.rip^
+||8954.rip^
 ||8962.rip^
 ||8963.rip^
 ||89630.rip^
@@ -2571,6 +2624,7 @@
 ||9261.rip^
 ||92622.rip^
 ||92637.rip^
+||92643.rip^
 ||9265.rip^
 ||92653.rip^
 ||9268.rip^
@@ -2605,6 +2659,7 @@
 ||93572.rip^
 ||93574.rip^
 ||93586.rip^
+||93647.rip^
 ||93656.rip^
 ||93675.rip^
 ||93725.rip^
@@ -2740,6 +2795,8 @@
 ||9927.rip^
 ||9956.rip^
 ||9958.rip^
+||9986.rip^
+||9988.rip^
 ||9998.rip^
 ||9999.rip^
 ||9xflix.rip^
@@ -2749,7 +2806,6 @@
 ||affe.rip^
 ||afnm.rip^
 ||amir.rip^
-||antiii.rip^
 ||apod.rip^
 ||apollonia.rip^
 ||architecture.rip^
@@ -2766,6 +2822,8 @@
 ||brackets.rip^
 ||buzludzha.rip^
 ||bvcmm.rip^
+||ccnzg.rip^
+||cghts.rip^
 ||christian.rip^
 ||clipt.rip^
 ||comicst.rip^
@@ -2783,6 +2841,7 @@
 ||did.rip^
 ||dkfjhl.rip^
 ||doxxed.rip^
+||dsyhu.rip^
 ||dtzc.rip^
 ||dynamic.rip^
 ||easytarget.rip^
@@ -2797,6 +2856,7 @@
 ||fmrjg.rip^
 ||frenchstreaming.rip^
 ||funeralcenter.rip^
+||fwdzv.rip^
 ||fyjt.rip^
 ||gbuv.rip^
 ||giev.rip^
@@ -2810,32 +2870,40 @@
 ||hearts.rip^
 ||hobby.rip^
 ||hobbyst.rip^
+||hpvvk.rip^
 ||hrtd.rip^
 ||hsi.rip^
+||huige.rip^
 ||igos.rip^
 ||ihc.rip^
 ||instupendo.rip^
+||international.rip^
 ||itdr.rip^
 ||ivanov.rip^
 ||jax.rip^
 ||jdshy.rip^
 ||jetleparti.rip^
+||ju256.rip^
 ||k9.rip^
+||kbcab.rip^
 ||keys.rip^
 ||kfehf.rip^
 ||kill-9.rip^
+||kissinger.rip^
 ||kiy.rip^
 ||kiz.rip^
 ||konami.rip^
 ||kontann.rip^
-||lav.rip^
 ||leider.rip^
 ||lelouch.rip^
+||lianzhou.rip^
 ||lightsout.rip^
 ||lkmijj.rip^
 ||london.rip^
 ||los-lassen.rip^
 ||ltr.rip^
+||luna.rip^
+||luoxin.rip^
 ||lux.rip^
 ||luxekinger.rip^
 ||m88.rip^
@@ -2850,6 +2918,7 @@
 ||moviesverse.rip^
 ||mrvt.rip^
 ||msghu.rip^
+||mtv.rip^
 ||mufyt.rip^
 ||muwdt.rip^
 ||ndghy.rip^
@@ -2860,10 +2929,12 @@
 ||nhdwu.rip^
 ||nhmrs.rip^
 ||nohu.rip^
+||nooz.rip^
 ||now.rip^
 ||nsfhr.rip^
 ||ntmyd.rip^
 ||nuud.rip^
+||oblivion.rip^
 ||ogboosts.rip^
 ||ogpercytalesfromac.rip^
 ||olivine.rip^
@@ -2874,9 +2945,10 @@
 ||pahady.rip^
 ||plasma.rip^
 ||potionlab.rip^
-||prayers.rip^
 ||probate.rip^
+||programmer.rip^
 ||qmuf.rip^
+||qowns.rip^
 ||qpqt.rip^
 ||qwer.rip^
 ||rain.rip^
@@ -2904,6 +2976,8 @@
 ||strongheartline.rip^
 ||supercell.rip^
 ||tattoo.rip^
+||tg.rip^
+||thequickening.rip^
 ||thiswebsite.rip^
 ||thjt.rip^
 ||tkao.rip^
@@ -2925,11 +2999,14 @@
 ||vamp.rip^
 ||vb777.rip^
 ||venues.rip^
+||vhgif.rip^
 ||vik.rip^
 ||vip79.rip^
 ||vpg.rip^
+||wall.rip^
 ||wangboluo.rip^
 ||wolfie.rip^
+||wonjw.rip^
 ||wum.rip^
 ||ygjk.rip^
 ||yout.rip^

@@ -25,6 +25,7 @@
 ||california.auction^
 ||carx.auction^
 ||carz.auction^
+||casinoplus.auction^
 ||cmoa.auction^
 ||code.auction^
 ||copilot.auction^
@@ -51,6 +52,7 @@
 ||hearts.auction^
 ||hoosier.auction^
 ||hotmart.auction^
+||hut.auction^
 ||ic1surplus.auction^
 ||immersive.auction^
 ||imperial.auction^
@@ -77,6 +79,7 @@
 ||lottoland.auction^
 ||luxurylifelounge.auction^
 ||magnolia.auction^
+||manga.auction^
 ||mawdoo3.auction^
 ||mega-sena.auction^
 ||messenger.auction^
@@ -109,7 +112,9 @@
 ||rent.auction^
 ||roubles.auction^
 ||royal.auction^
+||rutor.auction^
 ||ryanair.auction^
+||saratoga.auction^
 ||satellite.auction^
 ||sbisec.auction^
 ||senat.auction^
@@ -119,12 +124,12 @@
 ||son88.auction^
 ||speedtest.auction^
 ||ssg.auction^
+||stackoverflow.auction^
 ||starwars.auction^
 ||streetsweepers.auction^
 ||sudafrica.auction^
 ||teamgb.auction^
 ||testtsnaprod.auction^
-||tourism.auction^
 ||turbo.auction^
 ||twice.auction^
 ||ultimate.auction^
@@ -133,5 +138,6 @@
 ||vino.auction^
 ||vip79.auction^
 ||vision2030.auction^
+||woodfordbid.auction^
 ||worldlife.auction^
 ||xvideo.auction^
