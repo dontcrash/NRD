@@ -14,7 +14,6 @@
 ||betus.delivery^
 ||boba.delivery^
 ||bobatea.delivery^
-||boringtaco.delivery^
 ||bulldozereat.delivery^
 ||caro.delivery^
 ||ch-paket.delivery^
@@ -40,17 +39,13 @@
 ||diary.delivery^
 ||discount.delivery^
 ||dostavka24.delivery^
-||drip.delivery^
 ||e-sense.delivery^
 ||early.delivery^
-||economy.delivery^
 ||ecorn.delivery^
 ||emxpress.delivery^
 ||epiphany.delivery^
 ||esense.delivery^
 ||everydayfresh.delivery^
-||exotics.delivery^
-||export.delivery^
 ||fastexpress.delivery^
 ||fastlink.delivery^
 ||fee-anpost.delivery^
@@ -58,6 +53,7 @@
 ||foodnation.delivery^
 ||forest.delivery^
 ||gamewith.delivery^
+||glaswegin.delivery^
 ||graiied.delivery^
 ||grandcentralpizza.delivery^
 ||grizzly.delivery^
@@ -68,13 +64,7 @@
 ||happynewyear.delivery^
 ||hashtag.delivery^
 ||hi.delivery^
-||id23548.delivery^
-||id24796.delivery^
-||id25487.delivery^
-||id33676.delivery^
-||id91924.delivery^
 ||ilhabela.delivery^
-||import.delivery^
 ||impress.delivery^
 ||inst.delivery^
 ||invoga.delivery^
@@ -165,7 +155,6 @@
 ||subzerodesserts.delivery^
 ||subzeroicebar.delivery^
 ||swiftkargoexpress.delivery^
-||swissexprss.delivery^
 ||t9.delivery^
 ||termproduct.delivery^
 ||timetoeat.delivery^
@@ -173,7 +162,6 @@
 ||tistory.delivery^
 ||trace.delivery^
 ||track-post.delivery^
-||tracked.delivery^
 ||tracking-gr03110420.delivery^
 ||tracking-parcel.delivery^
 ||trackorder.delivery^
@@ -181,6 +169,7 @@
 ||tunnel.delivery^
 ||tupismo.delivery^
 ||uav.delivery^
+||ue.delivery^
 ||ultra.delivery^
 ||unattended.delivery^
 ||underground.delivery^
@@ -204,7 +193,6 @@
 ||workweek.delivery^
 ||wplay.delivery^
 ||xfood.delivery^
-||xis.delivery^
 ||xmas.delivery^
 ||yabox.delivery^
 ||yourexpress.delivery^

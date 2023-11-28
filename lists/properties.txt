@@ -5,13 +5,12 @@
 ||adamson.properties^
 ||alimos.properties^
 ||arabesco.properties^
-||ares.properties^
 ||arts.properties^
 ||asok.properties^
 ||basel.properties^
 ||bcgame.properties^
 ||beck.properties^
-||bg.properties^
+||biodiversity.properties^
 ||bitbucket.properties^
 ||bitmap.properties^
 ||blackstone.properties^
@@ -30,7 +29,9 @@
 ||casinoplus.properties^
 ||charlevoix.properties^
 ||coastalhaus.properties^
+||cobaberanch.properties^
 ||confident.properties^
+||connectview.properties^
 ||coryea.properties^
 ||courses.properties^
 ||crossborder.properties^
@@ -56,7 +57,6 @@
 ||fullhouse.properties^
 ||g2d.properties^
 ||gaia.properties^
-||getfervent.properties^
 ||ghosh.properties^
 ||goldenlandgoutos.properties^
 ||golfcrazy.properties^
@@ -169,7 +169,6 @@
 ||ufabet.properties^
 ||ug.properties^
 ||upscaleestates.properties^
-||usefervent.properties^
 ||vantage.properties^
 ||vastu.properties^
 ||venues.properties^

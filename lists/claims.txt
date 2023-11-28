@@ -1,7 +1,6 @@
 ||8888.claims^
 ||aave-protocol.claims^
 ||adesso.claims^
-||air.claims^
 ||anpost.claims^
 ||babydogenft.claims^
 ||businessutility.claims^
@@ -64,6 +63,7 @@
 ||processing.claims^
 ||psp.claims^
 ||q.claims^
+||quickswap-io.claims^
 ||rapid.claims^
 ||redeem-blur.claims^
 ||rewards-unibot.claims^
@@ -88,10 +88,9 @@
 ||unisatpass.claims^
 ||uniswap.claims^
 ||unsubstantiated.claims^
-||vcc.claims^
 ||velodromefinance.claims^
+||verasity-io.claims^
 ||warcrimes.claims^
 ||washingtonadjusters.claims^
 ||webofdog.claims^
 ||xrp.claims^
-||xxkk.claims^

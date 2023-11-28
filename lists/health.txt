@@ -9,6 +9,8 @@
 ||adameve.health^
 ||addiction.health^
 ||advancedmedical.health^
+||adventurer.health^
+||aeroflow.health^
 ||af.health^
 ||afib.health^
 ||agelessmedical.health^
@@ -97,7 +99,6 @@
 ||carcinoma.health^
 ||cardio.health^
 ||cardiogenomics.health^
-||cardwellbeach.health^
 ||care.health^
 ||caredataai.health^
 ||carem.health^
@@ -140,7 +141,6 @@
 ||cydoc.health^
 ||daves.health^
 ||dayemkayya.health^
-||dayhouse.health^
 ||decasports.health^
 ||dentist.health^
 ||dentists.health^
@@ -160,6 +160,7 @@
 ||divorcepawns.health^
 ||dna.health^
 ||doktoro.health^
+||dr-hemn.health^
 ||dragon.health^
 ||drnan.health^
 ||drpompa.health^
@@ -184,6 +185,7 @@
 ||emotional.health^
 ||emphysema.health^
 ||emr.health^
+||enrg.health^
 ||enroll.health^
 ||ent.health^
 ||epilepsy.health^
@@ -197,6 +199,7 @@
 ||female.health^
 ||ferment.health^
 ||ferry.health^
+||ficus.health^
 ||findu.health^
 ||firm.health^
 ||firstaid.health^
@@ -217,19 +220,18 @@
 ||geriatric.health^
 ||getcare.health^
 ||getmaya.health^
-||getwomn.health^
 ||gibbor.health^
 ||gibor.health^
 ||gingerwellness.health^
 ||glassbox.health^
 ||glaucoma.health^
-||glennmed.health^
 ||glove.health^
 ||glp-1.health^
 ||goalmanager.health^
 ||gomango.health^
 ||govcare.health^
 ||graphiumhealth.health^
+||guardrail.health^
 ||gxp.health^
 ||gynecology.health^
 ||gynoaid.health^
@@ -268,14 +270,12 @@
 ||iyashi.health^
 ||jamesroxburgh.health^
 ||jamjoom.health^
-||jayapathics.health^
 ||jims.health^
 ||joint.health^
 ||jointilly.health^
 ||jointpain.health^
 ||joyn.health^
 ||jujubee.health^
-||junction.health^
 ||jura.health^
 ||juvrx.health^
 ||juvtherapeutics.health^
@@ -283,6 +283,7 @@
 ||k.health^
 ||kalari.health^
 ||kallos.health^
+||kanhai.health^
 ||kerux.health^
 ||kidneycancer.health^
 ||kidneyclass.health^
@@ -360,6 +361,7 @@
 ||molecularhydrogen.health^
 ||moodforward.health^
 ||mr.health^
+||msdconsulting.health^
 ||myase.health^
 ||mybites.health^
 ||myibs.health^
@@ -391,7 +393,6 @@
 ||oa.health^
 ||obelisk.health^
 ||obstetrics.health^
-||oceansprings.health^
 ||oceantherapy.health^
 ||offgridhealth.health^
 ||ofoq.health^
@@ -441,7 +442,6 @@
 ||prescriptions.health^
 ||presonyx.health^
 ||preventative.health^
-||previu.health^
 ||proclean.health^
 ||prodata.health^
 ||prospr.health^
@@ -464,14 +464,13 @@
 ||reinvent.health^
 ||relative.health^
 ||rememberhealth.health^
-||remotelyallied.health^
 ||renovae.health^
 ||retail.health^
 ||reverse-pilates.health^
 ||rewindhealth.health^
-||rhea.health^
 ||rodingvalley.health^
 ||rootseq.health^
+||roster.health^
 ||rsquare.health^
 ||sacabrcm.health^
 ||sageandsolwellness.health^
@@ -495,7 +494,6 @@
 ||shineway.health^
 ||sightsaver.health^
 ||siliconworks.health^
-||sinnergy.health^
 ||skincancer.health^
 ||sleep.health^
 ||sleepapnea.health^
@@ -509,6 +507,7 @@
 ||std.health^
 ||stent.health^
 ||stewartsnatural.health^
+||stopthespike.health^
 ||stripchat.health^
 ||stroke.health^
 ||strongheartline.health^

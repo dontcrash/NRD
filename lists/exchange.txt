@@ -22,7 +22,6 @@
 ||app-pancakeswap.exchange^
 ||arbirtrum.exchange^
 ||ario.exchange^
-||asgard.exchange^
 ||atomicals.exchange^
 ||atreju.exchange^
 ||automatedcrypto.exchange^
@@ -31,6 +30,7 @@
 ||bankless.exchange^
 ||bazaar.exchange^
 ||bbz.exchange^
+||bet303.exchange^
 ||bettermentpro.exchange^
 ||bge.exchange^
 ||bitsramp.exchange^
@@ -92,6 +92,7 @@
 ||fiixedflaoat.exchange^
 ||fineart.exchange^
 ||finecon.exchange^
+||firstratehospitality.exchange^
 ||forex-factory.exchange^
 ||forian.exchange^
 ||frax.exchange^
@@ -104,7 +105,6 @@
 ||gomining.exchange^
 ||governance-ens.exchange^
 ||grok.exchange^
-||grvt.exchange^
 ||gulfbinance.exchange^
 ||h2invest.exchange^
 ||handle.exchange^
@@ -121,7 +121,6 @@
 ||humandesign.exchange^
 ||ic1.exchange^
 ||idx.exchange^
-||ikaria.exchange^
 ||inex.exchange^
 ||iptv.exchange^
 ||ipv6.exchange^
@@ -139,8 +138,10 @@
 ||laksh.exchange^
 ||lcuk.exchange^
 ||ldex.exchange^
+||lead-data.exchange^
 ||leapcoin.exchange^
 ||lightspark.exchange^
+||liido.exchange^
 ||lionsgate.exchange^
 ||lowfee.exchange^
 ||luxury.exchange^
@@ -156,6 +157,8 @@
 ||module.exchange^
 ||morwa.exchange^
 ||multibits.exchange^
+||multibitstake.exchange^
+||multiverse.exchange^
 ||multiversx.exchange^
 ||mummy.exchange^
 ||mutiny.exchange^
@@ -167,11 +170,11 @@
 ||newton.exchange^
 ||nite.exchange^
 ||nohu.exchange^
+||noones.exchange^
 ||nostro.exchange^
 ||novinex.exchange^
 ||nuchain.exchange^
 ||nyxswap.exchange^
-||offchain.exchange^
 ||okcswap.exchange^
 ||orai.exchange^
 ||orbitfxtrade.exchange^
@@ -202,6 +205,7 @@
 ||sea.exchange^
 ||seif.exchange^
 ||siga.exchange^
+||simulator.exchange^
 ||skilled.exchange^
 ||skullswap.exchange^
 ||snf.exchange^
@@ -211,18 +215,16 @@
 ||spank.exchange^
 ||sparkle.exchange^
 ||sparky.exchange^
+||stok.exchange^
 ||stripchat.exchange^
 ||suni.exchange^
-||superswap.exchange^
 ||switchx.exchange^
 ||tauprotocol.exchange^
 ||tax-payser-a.exchange^
 ||telx.exchange^
 ||thebriggsgarage.exchange^
-||themoov.exchange^
 ||thesis.exchange^
 ||tire.exchange^
-||todd.exchange^
 ||tradelot.exchange^
 ||tradies.exchange^
 ||traffic.exchange^
