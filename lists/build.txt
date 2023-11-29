@@ -3,6 +3,7 @@
 ||atomic.build^
 ||backyard.build^
 ||barcode.build^
+||bellrise.build^
 ||bennettbuilt.build^
 ||biohackers.build^
 ||boardgame.build^
@@ -12,11 +13,11 @@
 ||caulkinshomes.build^
 ||cel.build^
 ||cornerstone.build^
-||dalux.build^
 ||darkaero.build^
 ||deckforge.build^
 ||ecg.build^
 ||exopen.build^
+||founderup.build^
 ||gaia.build^
 ||gizmo.build^
 ||gpts.build^
@@ -39,7 +40,6 @@
 ||pinnacleconstruction.build^
 ||pixel.build^
 ||rails.build^
-||regency.build^
 ||replicator.build^
 ||rubble.build^
 ||savvy.build^
@@ -50,6 +50,7 @@
 ||steelcoconstruction.build^
 ||stigmergy.build^
 ||stripchat.build^
+||stripeapp.build^
 ||superfast.build^
 ||supple.build^
 ||synaps.build^

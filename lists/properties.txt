@@ -25,7 +25,6 @@
 ||cabosanlucas.properties^
 ||caleb.properties^
 ||cannes.properties^
-||cascade.properties^
 ||casinoplus.properties^
 ||charlevoix.properties^
 ||coastalhaus.properties^
@@ -36,6 +35,7 @@
 ||courses.properties^
 ||crossborder.properties^
 ||csdn.properties^
+||cyberealty.properties^
 ||dardur.properties^
 ||database.properties^
 ||dawnvalley.properties^
@@ -58,6 +58,7 @@
 ||g2d.properties^
 ||gaia.properties^
 ||ghosh.properties^
+||gilman.properties^
 ||goldenlandgoutos.properties^
 ||golfcrazy.properties^
 ||googler.properties^
@@ -77,6 +78,7 @@
 ||ie.properties^
 ||inosio.properties^
 ||internet.properties^
+||iterates.properties^
 ||jio.properties^
 ||jroc.properties^
 ||kasyno.properties^
@@ -88,14 +90,15 @@
 ||letsget.properties^
 ||lifestylehomes.properties^
 ||linear.properties^
-||livingluxe.properties^
 ||lost.properties^
+||loterie.properties^
 ||lr.properties^
 ||luna.properties^
 ||luxuryhomes.properties^
 ||make.properties^
 ||manosgreekfishtaverna.properties^
 ||mantra.properties^
+||markets.properties^
 ||mm.properties^
 ||monarchbeach.properties^
 ||mostvaluable.properties^
@@ -118,7 +121,6 @@
 ||ocoeerivermountaincottages.properties^
 ||off-market.properties^
 ||onside.properties^
-||oreon.properties^
 ||palmero.properties^
 ||pantip.properties^
 ||paparounis.properties^
@@ -143,12 +145,11 @@
 ||sb.properties^
 ||scopeinvestment.properties^
 ||scopeinvestmentuae.properties^
+||seven.properties^
 ||shopee.properties^
 ||shriram.properties^
 ||shyeen.properties^
 ||sm.properties^
-||smrealestate.properties^
-||son88.properties^
 ||spankbang.properties^
 ||speedtest.properties^
 ||spetses.properties^
@@ -175,8 +176,10 @@
 ||vi.properties^
 ||vip79.properties^
 ||vision2030.properties^
+||voice.properties^
 ||wanderlust.properties^
 ||waterbridge.properties^
+||waxwing.properties^
 ||wbny.properties^
 ||wiregrasshomeheroes.properties^
 ||worldlife.properties^

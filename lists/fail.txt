@@ -9,6 +9,7 @@
 ||expectation.fail^
 ||forvismazars.fail^
 ||freedom.fail^
+||ggez.fail^
 ||goto.fail^
 ||grok.fail^
 ||humanity.fail^
@@ -16,12 +17,12 @@
 ||jwt.fail^
 ||last.fail^
 ||lisa.fail^
-||lottery.fail^
 ||musk.fail^
 ||nogado.fail^
 ||nohu.fail^
 ||nudes.fail^
 ||overconfident.fail^
+||parrot.fail^
 ||purdue.fail^
 ||robmanfred.fail^
 ||sexy.fail^

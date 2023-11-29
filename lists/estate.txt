@@ -8,8 +8,10 @@
 ||avb.estate^
 ||bay.estate^
 ||bienstock.estate^
+||bigprofit.estate^
 ||blackwood.estate^
 ||bostondivorcereal.estate^
+||brokermap.estate^
 ||butterfly.estate^
 ||buyer.estate^
 ||chima.estate^
@@ -18,6 +20,7 @@
 ||consciouscapital.estate^
 ||crmsuite.estate^
 ||deepblue.estate^
+||designity.estate^
 ||die.estate^
 ||digi.estate^
 ||digitalasset.estate^
@@ -33,7 +36,7 @@
 ||evergreen.estate^
 ||ezyreal.estate^
 ||facelift.estate^
-||faces.estate^
+||familyhome.estate^
 ||fmovies.estate^
 ||fourth.estate^
 ||frye.estate^
@@ -47,6 +50,8 @@
 ||hashtag.estate^
 ||homebuyer.estate^
 ||immo-lausanne.estate^
+||international-llc.estate^
+||investmentinreal.estate^
 ||iot.estate^
 ||ipoteka.estate^
 ||jess-real.estate^
@@ -63,14 +68,12 @@
 ||lahoya.estate^
 ||lausanne.estate^
 ||legends.estate^
-||lica.estate^
 ||luci.estate^
 ||madagascar-real.estate^
 ||makati.estate^
 ||mannei.estate^
 ||meta-verse.estate^
 ||mockingbird.estate^
-||mykonosreal.estate^
 ||nohu.estate^
 ||nonsuch.estate^
 ||nova-real.estate^
@@ -78,6 +81,7 @@
 ||octave.estate^
 ||olivine.estate^
 ||omnia.estate^
+||onchain.estate^
 ||osre.estate^
 ||painfor.estate^
 ||palm.estate^
@@ -94,6 +98,7 @@
 ||reit.estate^
 ||revest.estate^
 ||rosewood.estate^
+||rre.estate^
 ||saint-kitts-and-nevis-real.estate^
 ||saudi.estate^
 ||sedona.estate^
@@ -101,7 +106,6 @@
 ||selfmade.estate^
 ||skorobogatov.estate^
 ||soap2day.estate^
-||son88.estate^
 ||southalabama.estate^
 ||spankbang.estate^
 ||spark.estate^
@@ -111,10 +115,10 @@
 ||sunny.estate^
 ||switzerland-real.estate^
 ||techtouchdown.estate^
+||tema.estate^
 ||texasranch.estate^
 ||theacre.estate^
 ||themeta.estate^
-||thespace.estate^
 ||thor.estate^
 ||tidesreal.estate^
 ||tnt.estate^
@@ -123,6 +127,7 @@
 ||traders.estate^
 ||tranquilityridge.estate^
 ||tropicalhome.estate^
+||tura.estate^
 ||ubond.estate^
 ||vanuatu-real.estate^
 ||vibe.estate^

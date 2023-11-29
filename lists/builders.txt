@@ -4,7 +4,6 @@
 ||agents.builders^
 ||akash.builders^
 ||amateur.builders^
-||anchor.builders^
 ||apex.builders^
 ||aplus.builders^
 ||arboreal.builders^
@@ -18,10 +17,12 @@
 ||bet7k.builders^
 ||brimark.builders^
 ||butterfly.builders^
+||capitol.builders^
 ||cheetah.builders^
 ||cmoa.builders^
 ||core.builders^
 ||cscs.builders^
+||customadu.builders^
 ||customgpt.builders^
 ||davidson.builders^
 ||dba.builders^
@@ -33,10 +34,9 @@
 ||emma.builders^
 ||endeavor.builders^
 ||eric.builders^
+||fenske.builders^
 ||firstchoice.builders^
-||formula.builders^
 ||gamewith.builders^
-||globo.builders^
 ||goat.builders^
 ||gohighlevel.builders^
 ||goldstandard.builders^
@@ -56,6 +56,7 @@
 ||koala.builders^
 ||lawyers.builders^
 ||lead.builders^
+||loterie.builders^
 ||luxepoolmi.builders^
 ||messenger.builders^
 ||meta-verse.builders^
@@ -85,12 +86,13 @@
 ||silva.builders^
 ||skokka.builders^
 ||smartframe.builders^
-||son88.builders^
+||solar.builders^
 ||speedtest.builders^
 ||squid.builders^
 ||stebnitz.builders^
 ||survey.builders^
 ||techtouchdown.builders^
+||thelott.builders^
 ||v.builders^
 ||watch.builders^
 ||wave.builders^

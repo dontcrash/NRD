@@ -45,6 +45,8 @@
 ||05054.rip^
 ||05071.rip^
 ||05301.rip^
+||05350.rip^
+||05351.rip^
 ||05362.rip^
 ||05421.rip^
 ||05462.rip^
@@ -216,7 +218,6 @@
 ||17062.rip^
 ||17090.rip^
 ||17267.rip^
-||1736.rip^
 ||17369.rip^
 ||1742.rip^
 ||17425.rip^
@@ -241,7 +242,6 @@
 ||18997.rip^
 ||1909.rip^
 ||19122.rip^
-||1924.rip^
 ||19262.rip^
 ||19273.rip^
 ||19339.rip^
@@ -282,7 +282,6 @@
 ||21700.rip^
 ||21715.rip^
 ||21723.rip^
-||2177.rip^
 ||22006.rip^
 ||22181.rip^
 ||2222.rip^
@@ -292,6 +291,7 @@
 ||22545.rip^
 ||2255.rip^
 ||22584.rip^
+||22652.rip^
 ||2299.rip^
 ||23090.rip^
 ||2316.rip^
@@ -643,7 +643,6 @@
 ||3515.rip^
 ||35170.rip^
 ||35269.rip^
-||3527.rip^
 ||3528.rip^
 ||3529.rip^
 ||35296.rip^
@@ -1191,7 +1190,6 @@
 ||3792.rip^
 ||37947.rip^
 ||37952.rip^
-||3796.rip^
 ||38111.rip^
 ||38150.rip^
 ||38152.rip^
@@ -1315,6 +1313,7 @@
 ||3854.rip^
 ||38554.rip^
 ||38564.rip^
+||3859.rip^
 ||38601.rip^
 ||38657.rip^
 ||38663.rip^
@@ -1339,7 +1338,6 @@
 ||38713.rip^
 ||38714.rip^
 ||3874.rip^
-||3876.rip^
 ||38769.rip^
 ||38782.rip^
 ||38866.rip^
@@ -1657,7 +1655,6 @@
 ||5367.rip^
 ||53678.rip^
 ||5368.rip^
-||5371.rip^
 ||53724.rip^
 ||53730.rip^
 ||53748.rip^
@@ -1782,6 +1779,7 @@
 ||5646.rip^
 ||5652.rip^
 ||56621.rip^
+||5673.rip^
 ||56778.rip^
 ||5679.rip^
 ||5681.rip^
@@ -1816,6 +1814,7 @@
 ||5716.rip^
 ||57194.rip^
 ||57231.rip^
+||5724.rip^
 ||5726.rip^
 ||57329.rip^
 ||57344.rip^
@@ -2103,6 +2102,11 @@
 ||68296.rip^
 ||6834.rip^
 ||6836.rip^
+||68469.rip^
+||68470.rip^
+||68471.rip^
+||68473.rip^
+||68476.rip^
 ||68502.rip^
 ||68512.rip^
 ||6852.rip^
@@ -2114,6 +2118,7 @@
 ||6877.rip^
 ||68794.rip^
 ||688.rip^
+||6888.rip^
 ||68886.rip^
 ||689.rip^
 ||68913.rip^
@@ -2156,6 +2161,7 @@
 ||69819.rip^
 ||6982.rip^
 ||69820.rip^
+||6983.rip^
 ||69837.rip^
 ||6984.rip^
 ||69853.rip^
@@ -2174,7 +2180,6 @@
 ||7112.rip^
 ||71303.rip^
 ||71324.rip^
-||7135.rip^
 ||71352.rip^
 ||71422.rip^
 ||7148.rip^
@@ -2182,7 +2187,6 @@
 ||7156.rip^
 ||71605.rip^
 ||7164.rip^
-||7165.rip^
 ||7168.rip^
 ||71806.rip^
 ||71839.rip^
@@ -2278,6 +2282,7 @@
 ||74571.rip^
 ||7458.rip^
 ||7474.rip^
+||74882.rip^
 ||74893.rip^
 ||7491.rip^
 ||74926.rip^
@@ -2293,7 +2298,6 @@
 ||7521.rip^
 ||75213.rip^
 ||7524.rip^
-||7529.rip^
 ||75293.rip^
 ||75396.rip^
 ||75429.rip^
@@ -2329,9 +2333,11 @@
 ||7656.rip^
 ||7665.rip^
 ||7683.rip^
+||7692.rip^
 ||77233.rip^
 ||7741.rip^
 ||77545.rip^
+||7773.rip^
 ||77742.rip^
 ||77795.rip^
 ||77851.rip^
@@ -2377,6 +2383,7 @@
 ||7942.rip^
 ||7945.rip^
 ||79453.rip^
+||79531.rip^
 ||79536.rip^
 ||7958.rip^
 ||7963.rip^
@@ -2486,6 +2493,8 @@
 ||834646.rip^
 ||834647.rip^
 ||834648.rip^
+||83502.rip^
+||83505.rip^
 ||83580.rip^
 ||8365.rip^
 ||83697.rip^
@@ -2549,7 +2558,7 @@
 ||86148.rip^
 ||86156.rip^
 ||8624.rip^
-||8633.rip^
+||8629.rip^
 ||8635.rip^
 ||8638.rip^
 ||8643.rip^
@@ -2572,7 +2581,6 @@
 ||86954.rip^
 ||86955.rip^
 ||86956.rip^
-||86957.rip^
 ||86958.rip^
 ||86959.rip^
 ||86960.rip^
@@ -2641,7 +2649,6 @@
 ||8995.rip^
 ||89959.rip^
 ||8k.rip^
-||9002.rip^
 ||90040.rip^
 ||90156.rip^
 ||9025.rip^
@@ -2684,6 +2691,7 @@
 ||9269.rip^
 ||92715.rip^
 ||92735.rip^
+||9274.rip^
 ||92753.rip^
 ||9278.rip^
 ||92782.rip^
@@ -2848,6 +2856,7 @@
 ||9876.rip^
 ||9877.rip^
 ||98775.rip^
+||9888.rip^
 ||9894.rip^
 ||9895.rip^
 ||9927.rip^
@@ -2857,7 +2866,6 @@
 ||9988.rip^
 ||9998.rip^
 ||9999.rip^
-||9xflix.rip^
 ||abdulbaha.rip^
 ||acern.rip^
 ||adid.rip^
@@ -2875,6 +2883,7 @@
 ||bbwnp.rip^
 ||bhjvun.rip^
 ||bipolar.rip^
+||blackmail.rip^
 ||blatant.rip^
 ||boothill.rip^
 ||brackets.rip^
@@ -2931,6 +2940,7 @@
 ||hjfrd.rip^
 ||hobby.rip^
 ||hobbyst.rip^
+||horrorhub.rip^
 ||hpvvk.rip^
 ||hrtd.rip^
 ||hsi.rip^
@@ -2944,6 +2954,7 @@
 ||jdshy.rip^
 ||jetleparti.rip^
 ||ju256.rip^
+||julien.rip^
 ||k9.rip^
 ||kbcab.rip^
 ||keys.rip^
@@ -2955,11 +2966,13 @@
 ||kolkhis.rip^
 ||konami.rip^
 ||kontann.rip^
+||kwikt.rip^
 ||leider.rip^
 ||lelouch.rip^
 ||lianzhou.rip^
 ||lightsout.rip^
 ||lkmijj.rip^
+||loader.rip^
 ||london.rip^
 ||los-lassen.rip^
 ||ltr.rip^
@@ -2975,7 +2988,6 @@
 ||merkletree.rip^
 ||monero.rip^
 ||morgan.rip^
-||moviesflix.rip^
 ||moviesverse.rip^
 ||mrvt.rip^
 ||msghu.rip^
@@ -3005,10 +3017,12 @@
 ||opqh.rip^
 ||order.rip^
 ||pahady.rip^
+||person.rip^
 ||plasma.rip^
 ||potionlab.rip^
 ||probate.rip^
 ||programmer.rip^
+||provider.rip^
 ||qmuf.rip^
 ||qowns.rip^
 ||qpqt.rip^
@@ -3032,12 +3046,10 @@
 ||skepg.rip^
 ||skids.rip^
 ||skyclub.rip^
-||son88.rip^
 ||sslping.rip^
 ||stripchat.rip^
 ||strongheartline.rip^
 ||supercell.rip^
-||tattoo.rip^
 ||tg.rip^
 ||thequickening.rip^
 ||thiswebsite.rip^
@@ -3048,7 +3060,6 @@
 ||topaz.rip^
 ||tpfx.rip^
 ||tpqianbaoapp.rip^
-||turing.rip^
 ||tyhe.rip^
 ||tyler.rip^
 ||udhft.rip^

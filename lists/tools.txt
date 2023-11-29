@@ -13,6 +13,7 @@
 ||agencewam.tools^
 ||agile.tools^
 ||aiconsultant.tools^
+||aimage.tools^
 ||aiprompt.tools^
 ||airender.tools^
 ||aisales.tools^
@@ -92,13 +93,12 @@
 ||dck.tools^
 ||debugging.tools^
 ||degruyter.tools^
-||dep.tools^
 ||devel.tools^
 ||discoverai.tools^
-||diyonline.tools^
 ||dotcom.tools^
 ||downstream.tools^
 ||drgdirect.tools^
+||drone.tools^
 ||dsc.tools^
 ||dvdplay.tools^
 ||editorial.tools^
@@ -118,7 +118,6 @@
 ||fifaplus.tools^
 ||filmy4wap.tools^
 ||filmyhit.tools^
-||first.tools^
 ||flashy.tools^
 ||fll.tools^
 ||fooltech.tools^
@@ -128,6 +127,7 @@
 ||frontier.tools^
 ||frugal.tools^
 ||gadgetai.tools^
+||gaichatbot.tools^
 ||gamecheat.tools^
 ||gamesense.tools^
 ||gamewith.tools^
@@ -177,8 +177,8 @@
 ||kailash.tools^
 ||kaisar89.tools^
 ||kasyno.tools^
+||kfm.tools^
 ||kidgy.tools^
-||king88.tools^
 ||krad.tools^
 ||la-lab.tools^
 ||labour.tools^
@@ -188,10 +188,10 @@
 ||linkinbio.tools^
 ||lix.tools^
 ||lord.tools^
+||loterie.tools^
 ||m2m.tools^
 ||m4m.tools^
 ||mable.tools^
-||madeitwork.tools^
 ||magicprompt.tools^
 ||mail.tools^
 ||malgo.tools^
@@ -203,6 +203,7 @@
 ||maxwen303.tools^
 ||maxwin.tools^
 ||maxwinx500.tools^
+||mech.tools^
 ||medgpt.tools^
 ||meetenamored.tools^
 ||meetendlesslove.tools^
@@ -211,6 +212,7 @@
 ||metatraining.tools^
 ||middleclass.tools^
 ||midmarketer.tools^
+||miflash.tools^
 ||miracle.tools^
 ||mogai.tools^
 ||moonboy.tools^
@@ -232,10 +234,8 @@
 ||noti.tools^
 ||npcaitoolkit.tools^
 ||npckit.tools^
-||nts.tools^
 ||nuansa4d.tools^
 ||nux.tools^
-||obfuscation.tools^
 ||objekt.tools^
 ||objekts.tools^
 ||oceanbatt.tools^
@@ -254,7 +254,6 @@
 ||pluto.tools^
 ||pnl.tools^
 ||poco.tools^
-||polihub.tools^
 ||polycloud.tools^
 ||polygondev.tools^
 ||pond.tools^
@@ -272,6 +271,7 @@
 ||publishers.tools^
 ||pyth.tools^
 ||q-star.tools^
+||qh88.tools^
 ||qlearning.tools^
 ||qorno.tools^
 ||qstar.tools^
@@ -322,6 +322,7 @@
 ||stargatesfinance.tools^
 ||startupsuccess.tools^
 ||stech.tools^
+||studentaid.tools^
 ||stump.tools^
 ||supergpt.tools^
 ||sus.tools^
@@ -336,13 +337,11 @@
 ||testosterone.tools^
 ||textformer.tools^
 ||thecreative.tools^
-||thetower.tools^
 ||thevoidtest.tools^
 ||tingsupport.tools^
 ||tinybox.tools^
 ||tistory.tools^
 ||tlhb.tools^
-||todays.tools^
 ||top.tools^
 ||topsaas.tools^
 ||tpv.tools^
@@ -353,19 +352,17 @@
 ||tvisyn.tools^
 ||ukcore.tools^
 ||unapologetic.tools^
-||unipal.tools^
 ||upload-mailing-address.tools^
 ||velox.tools^
-||vile.tools^
 ||vinanalytic.tools^
 ||vip79.tools^
 ||vni.tools^
+||vnmodapk.tools^
 ||vuo.tools^
 ||walletium.tools^
 ||wearableai.tools^
 ||webjs.tools^
 ||webservice.tools^
-||wemadeitwork.tools^
 ||witold.tools^
 ||worldlife.tools^
 ||wpac.tools^
@@ -373,6 +370,7 @@
 ||wtdev.tools^
 ||wukko.tools^
 ||wuxia.tools^
+||wyze.tools^
 ||x500maxwin.tools^
 ||xpres.tools^
 ||youtility.tools^

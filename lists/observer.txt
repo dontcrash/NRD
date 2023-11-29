@@ -84,7 +84,6 @@
 ||freepik.observer^
 ||fubo.observer^
 ||gazzetta.observer^
-||globo.observer^
 ||gmx.observer^
 ||goal.observer^
 ||goo.observer^
@@ -124,6 +123,7 @@
 ||lloydsbank.observer^
 ||loteriasdominicanas.observer^
 ||loteriasmundiales.observer^
+||loterie.observer^
 ||loto.observer^
 ||loto60.observer^
 ||lotterypost.observer^
@@ -166,6 +166,7 @@
 ||pinduoduo.observer^
 ||pinterest.observer^
 ||pixbet.observer^
+||poker.observer^
 ||pornzog.observer^
 ||promiedos.observer^
 ||quantum.observer^
@@ -194,9 +195,9 @@
 ||skysports.observer^
 ||sofascore.observer^
 ||sohu.observer^
-||son88.observer^
 ||spankbang.observer^
 ||sportradar.observer^
+||sportsbet.observer^
 ||sportybet.observer^
 ||stress.observer^
 ||syf.observer^

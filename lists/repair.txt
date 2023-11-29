@@ -19,6 +19,7 @@
 ||burnabyauto.repair^
 ||cash.repair^
 ||climate.repair^
+||cod.repair^
 ||creditboss.repair^
 ||creditmatters.repair^
 ||csdn.repair^
@@ -38,15 +39,14 @@
 ||electriciannearme.repair^
 ||electro.repair^
 ||feishu.repair^
-||fish.repair^
 ||fixzone.repair^
 ||foneworld.repair^
 ||furnace.repair^
 ||galxe.repair^
 ||gen.repair^
 ||gurgaon.repair^
+||handymanrenovations.repair^
 ||hawaii.repair^
-||howtofix.repair^
 ||ident.repair^
 ||img.repair^
 ||kakao.repair^
@@ -55,6 +55,7 @@
 ||kits.repair^
 ||landcruiser.repair^
 ||liverdamage.repair^
+||loterie.repair^
 ||macbookrepair.repair^
 ||messenger.repair^
 ||midwestspeedometer.repair^
@@ -67,11 +68,10 @@
 ||payu.repair^
 ||pcandphone.repair^
 ||pcbboard.repair^
+||poker.repair^
 ||primetechappliance.repair^
 ||rapid.repair^
 ||reliablefurniture.repair^
-||rights2.repair^
-||rightsto.repair^
 ||rtic.repair^
 ||samsungdryer.repair^
 ||shoe.repair^
@@ -79,6 +79,7 @@
 ||social.repair^
 ||spacebar.repair^
 ||spankbang.repair^
+||speed.repair^
 ||speedtest.repair^
 ||sportybet.repair^
 ||subzerofridge.repair^
