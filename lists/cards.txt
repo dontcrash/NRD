@@ -23,7 +23,6 @@
 ||capybara.cards^
 ||cardplay.cards^
 ||chitchat.cards^
-||clink.cards^
 ||coa.cards^
 ||cryptodebit.cards^
 ||d-o-t.cards^
@@ -43,6 +42,7 @@
 ||getsome.cards^
 ||getv.cards^
 ||gifthub.cards^
+||gingahearts.cards^
 ||gogo.cards^
 ||golden.cards^
 ||googlereview.cards^
@@ -51,6 +51,7 @@
 ||handmade.cards^
 ||happybirdday.cards^
 ||happyvalleytrading.cards^
+||healthid.cards^
 ||highseaspirates.cards^
 ||hometown.cards^
 ||hsp.cards^
@@ -65,6 +66,7 @@
 ||m00m.cards^
 ||mahjong.cards^
 ||majin.cards^
+||masker.cards^
 ||meta-verse.cards^
 ||miami.cards^
 ||misfits.cards^
@@ -75,6 +77,7 @@
 ||nba.cards^
 ||nebula.cards^
 ||nfcv.cards^
+||onlinereview.cards^
 ||oragami.cards^
 ||paw.cards^
 ||payengine.cards^
@@ -90,20 +93,21 @@
 ||root.cards^
 ||satelit.cards^
 ||sch.cards^
-||seekers.cards^
 ||service-post.cards^
+||somewhere.cards^
 ||spaced.cards^
 ||spacexp.cards^
-||statuscard.cards^
 ||stripchat.cards^
 ||supernode.cards^
 ||tarotme.cards^
+||thankyou.cards^
 ||thedeck.cards^
 ||tokenize.cards^
 ||toofar.cards^
 ||translucent.cards^
 ||trynfc.cards^
 ||twod.cards^
+||vaccineid.cards^
 ||waxnft.cards^
 ||webuyany.cards^
 ||whizz.cards^

@@ -158,6 +158,7 @@
 ||olympics.observer^
 ||olympus.observer^
 ||onet.observer^
+||orion.observer^
 ||ozon.observer^
 ||parimatch-in.observer^
 ||parimatch.observer^
@@ -225,7 +226,6 @@
 ||txxx.observer^
 ||usatoday.observer^
 ||vietnamnet.observer^
-||vip79.observer^
 ||vnexpress.observer^
 ||washingtonpost.observer^
 ||wayfair.observer^

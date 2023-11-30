@@ -1,4 +1,3 @@
-||aloe.build^
 ||asterism.build^
 ||atomic.build^
 ||backyard.build^
@@ -32,6 +31,7 @@
 ||libertas.build^
 ||madara.build^
 ||mainframe.build^
+||mcwa.build^
 ||mermaid.build^
 ||nifty.build^
 ||nohu.build^
@@ -58,7 +58,6 @@
 ||thesys.build^
 ||tvix.build^
 ||urbanconversions.build^
-||vip79.build^
 ||workroom.build^
 ||xhamster.build^
 ||youcan.build^

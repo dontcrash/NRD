@@ -12,6 +12,7 @@
 ||adventurer.health^
 ||aeroflow.health^
 ||af.health^
+||affectable.health^
 ||afib.health^
 ||agelessmedical.health^
 ||agent.health^
@@ -68,7 +69,6 @@
 ||bezzypsoriasis.health^
 ||bi.health^
 ||biocoach.health^
-||birchwood.health^
 ||bladder.health^
 ||blc.health^
 ||blockchain.health^
@@ -100,7 +100,6 @@
 ||cardiogenomics.health^
 ||care.health^
 ||caredataai.health^
-||carem.health^
 ||catholic.health^
 ||cclear.health^
 ||century.health^
@@ -137,7 +136,7 @@
 ||cures.health^
 ||cydoc.health^
 ||daves.health^
-||dayemkayya.health^
+||dazzle.health^
 ||decasports.health^
 ||dentist.health^
 ||dentists.health^
@@ -151,6 +150,7 @@
 ||diagnostic.health^
 ||dialysis.health^
 ||diet.health^
+||different.health^
 ||digital4.health^
 ||digitaldetox.health^
 ||digitalmarketing.health^
@@ -187,6 +187,7 @@
 ||epilepsy.health^
 ||esrd.health^
 ||expansion.health^
+||extraordinary.health^
 ||eye.health^
 ||eyes.health^
 ||factcheck.health^
@@ -204,7 +205,6 @@
 ||foot.health^
 ||foreverchemicalfree.health^
 ||formi.health^
-||freegazanow.health^
 ||fufu.health^
 ||functionalchinesemedicine.health^
 ||gaitanalyzer.health^
@@ -232,6 +232,7 @@
 ||gynecology.health^
 ||hackhydration.health^
 ||halik.health^
+||healthqor.health^
 ||heart.health^
 ||heartline.health^
 ||hemorrhoid.health^
@@ -373,7 +374,6 @@
 ||no.health^
 ||nobrainer.health^
 ||nodistance.health^
-||nook.health^
 ||nosis.health^
 ||np.health^
 ||nphies.health^
@@ -411,6 +411,7 @@
 ||paths.health^
 ||patient.health^
 ||patients.health^
+||paxa.health^
 ||paymybil.health^
 ||ped.health^
 ||pediatric.health^
@@ -451,20 +452,16 @@
 ||reallygoodbenefits.health^
 ||records.health^
 ||recoveryroad.health^
-||reinvent.health^
 ||relative.health^
 ||rememberhealth.health^
 ||renovae.health^
 ||retail.health^
-||reverse-pilates.health^
-||rewindhealth.health^
 ||rodingvalley.health^
 ||rootseq.health^
 ||rootsreview.health^
 ||roster.health^
 ||rsquare.health^
 ||sacabrcm.health^
-||sageandsolwellness.health^
 ||sakti.health^
 ||sams.health^
 ||sanctuarycollective.health^
@@ -514,7 +511,6 @@
 ||sweetra.health^
 ||swiftly.health^
 ||taco.health^
-||taft.health^
 ||tele.health^
 ||telemedicine.health^
 ||telimed.health^
@@ -553,7 +549,6 @@
 ||vaccinecorps.health^
 ||vascular.health^
 ||vc.health^
-||vidaverde.health^
 ||virtual.health^
 ||vision2030.health^
 ||vitalai.health^

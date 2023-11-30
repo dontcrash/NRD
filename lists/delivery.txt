@@ -34,7 +34,6 @@
 ||defense.delivery^
 ||deliverama.delivery^
 ||deluxeexpress.delivery^
-||delv.delivery^
 ||deutschepost-express.delivery^
 ||dhlexpress.delivery^
 ||diary.delivery^
@@ -62,9 +61,7 @@
 ||happychristmas.delivery^
 ||happynewyear.delivery^
 ||hashtag.delivery^
-||hi.delivery^
 ||ilhabela.delivery^
-||inst.delivery^
 ||invoga.delivery^
 ||isp.delivery^
 ||jun88.delivery^
@@ -73,7 +70,6 @@
 ||kasyno.delivery^
 ||kuwaitflowers.delivery^
 ||lavka.delivery^
-||lazy.delivery^
 ||loterie.delivery^
 ||magazine.delivery^
 ||mangal.delivery^
@@ -81,7 +77,6 @@
 ||milktea.delivery^
 ||mindaltar.delivery^
 ||moms.delivery^
-||mooditaly.delivery^
 ||motherschoice.delivery^
 ||msg.delivery^
 ||mtwtfss.delivery^
@@ -114,11 +109,11 @@
 ||playbeer.delivery^
 ||porn.delivery^
 ||post-check.delivery^
+||pragueflowers.delivery^
 ||puravive.delivery^
 ||qorno.delivery^
 ||quito.delivery^
 ||r7.delivery^
-||raashan.delivery^
 ||rapidoor.delivery^
 ||raw.delivery^
 ||rawmilk.delivery^
@@ -133,7 +128,6 @@
 ||service-post.delivery^
 ||sexvid.delivery^
 ||ship-parcel-qa.delivery^
-||shipping-id.delivery^
 ||shoe.delivery^
 ||sms-panel.delivery^
 ||sneaker.delivery^
@@ -175,6 +169,8 @@
 ||ups-track-gr031108.delivery^
 ||ups-tracking.delivery^
 ||uspscclient.delivery^
+||veniceflowers.delivery^
+||vietnamflowers.delivery^
 ||vim.delivery^
 ||vision2030.delivery^
 ||vitfi.delivery^

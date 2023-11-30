@@ -21,6 +21,7 @@
 ||etf.broker^
 ||europe.broker^
 ||fca.broker^
+||fmovies.broker^
 ||germanrealty.broker^
 ||goods.broker^
 ||gpts.broker^
@@ -32,11 +33,13 @@
 ||mind.broker^
 ||myfpx.broker^
 ||neverbeen.broker^
+||newrock.broker^
 ||nohu.broker^
 ||noones.broker^
 ||ourmortgage.broker^
 ||pawnshop.broker^
 ||prefix.broker^
+||provable.broker^
 ||raps.broker^
 ||remote.broker^
 ||sample.broker^
@@ -45,3 +48,4 @@
 ||sun.broker^
 ||tender.broker^
 ||vision.broker^
+||w88.broker^
