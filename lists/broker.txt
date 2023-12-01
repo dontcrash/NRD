@@ -1,5 +1,4 @@
 ||algo.broker^
-||algotrading.broker^
 ||amarkets.broker^
 ||analytics.broker^
 ||assistant.broker^
@@ -16,7 +15,6 @@
 ||cryptocom.broker^
 ||cryptos.broker^
 ||dscr.broker^
-||eagleeye.broker^
 ||esim.broker^
 ||etf.broker^
 ||europe.broker^

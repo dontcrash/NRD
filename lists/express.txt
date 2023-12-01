@@ -49,10 +49,8 @@
 ||fastcoin.express^
 ||fasts.express^
 ||frete.express^
-||g.express^
 ||gelato.express^
 ||girlfriend.express^
-||glas.express^
 ||godis.express^
 ||goldengrannys.express^
 ||goose.express^
@@ -74,7 +72,6 @@
 ||iptv.express^
 ||josmantul.express^
 ||junior.express^
-||juquilita.express^
 ||kalinka.express^
 ||keigyns.express^
 ||la-notary.express^
@@ -134,6 +131,7 @@
 ||toot.express^
 ||topfreight.express^
 ||torch.express^
+||tornado.express^
 ||trace-bh.express^
 ||traceitsg.express^
 ||transportadora.express^

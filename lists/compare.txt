@@ -4,7 +4,6 @@
 ||checkmate.compare^
 ||emergencyroom.compare^
 ||fenderfinder.compare^
-||influencepr.compare^
 ||largelanguagemodels.compare^
 ||litera.compare^
 ||liveincare.compare^
@@ -12,6 +11,8 @@
 ||models.compare^
 ||monthlymess.compare^
 ||nectar.compare^
+||portablepowerstations.compare^
+||powerstations.compare^
 ||styles.compare^
 ||syntax.compare^
 ||traintickets.compare^

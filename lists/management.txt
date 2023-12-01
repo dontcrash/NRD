@@ -32,13 +32,11 @@
 ||developers.management^
 ||digital-industry.management^
 ||digital-marketing-for-b2b-investment.management^
-||door.management^
 ||douyin.management^
 ||dvir.management^
 ||entwickler.management^
 ||ephemeral.management^
 ||etalent.management^
-||eurinterim.management^
 ||feishu.management^
 ||fgi.management^
 ||finance.management^
@@ -60,6 +58,8 @@
 ||kasino.management^
 ||keystonerealty.management^
 ||kosmos.management^
+||legalops.management^
+||legalproject.management^
 ||lightbody-vehicle.management^
 ||liquidity.management^
 ||logsa.management^
@@ -69,7 +69,6 @@
 ||millenium.management^
 ||mmie.management^
 ||monitoring.management^
-||mox.management^
 ||msi.management^
 ||mtnproperty.management^
 ||networking.management^

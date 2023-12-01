@@ -6,7 +6,6 @@
 ||a1.exchange^
 ||aedc.exchange^
 ||aequinox.exchange^
-||aions.exchange^
 ||airdrop-dydx.exchange^
 ||alhabib.exchange^
 ||alpinex.exchange^
@@ -30,7 +29,7 @@
 ||bbz.exchange^
 ||bet303.exchange^
 ||bettermentpro.exchange^
-||bge.exchange^
+||bitnew.exchange^
 ||bitsramp.exchange^
 ||bitstore.exchange^
 ||bitverse.exchange^
@@ -67,12 +66,14 @@
 ||dafabet.exchange^
 ||dechiffertoutcegachis.exchange^
 ||decrypt.exchange^
+||degencoin.exchange^
 ||dictum.exchange^
 ||digitaldollar.exchange^
 ||dilium.exchange^
 ||drachma.exchange^
 ||dragons.exchange^
 ||dttd.exchange^
+||dydx-trade.exchange^
 ||easyrehaf.exchange^
 ||eigenlayer.exchange^
 ||electrician.exchange^
@@ -99,6 +100,8 @@
 ||freightrate.exchange^
 ||fusionbtc.exchange^
 ||gamify.exchange^
+||gasles.exchange^
+||gasless.exchange^
 ||generaly.exchange^
 ||getmoney.exchange^
 ||given.exchange^
@@ -111,7 +114,6 @@
 ||hashtag.exchange^
 ||helixgaia.exchange^
 ||hitro.exchange^
-||hkbg.exchange^
 ||hkdr.exchange^
 ||hkdsttd.exchange^
 ||hkstablecoin.exchange^
@@ -127,7 +129,6 @@
 ||islamic.exchange^
 ||jamonswap.exchange^
 ||jensen.exchange^
-||kodiak.exchange^
 ||kodo.exchange^
 ||kyt-app.exchange^
 ||kytapp.exchange^
@@ -138,6 +139,7 @@
 ||ldex.exchange^
 ||lead-data.exchange^
 ||leapcoin.exchange^
+||leumia.exchange^
 ||liido.exchange^
 ||lionsgate.exchange^
 ||livecoin.exchange^
@@ -146,7 +148,6 @@
 ||lvm.exchange^
 ||malgo.exchange^
 ||maya.exchange^
-||meex.exchange^
 ||metri.exchange^
 ||metriverse.exchange^
 ||militaryequipment.exchange^
@@ -175,6 +176,7 @@
 ||nyxswap.exchange^
 ||orai.exchange^
 ||orbitfxtrade.exchange^
+||ore.exchange^
 ||p2pgram.exchange^
 ||pancakerewards.exchange^
 ||paperhands.exchange^
@@ -186,9 +188,7 @@
 ||ptoken.exchange^
 ||qtex.exchange^
 ||quofix.exchange^
-||rails.exchange^
 ||rainbow.exchange^
-||raised.exchange^
 ||remco.exchange^
 ||reshape.exchange^
 ||rewards-dydx.exchange^
@@ -200,7 +200,6 @@
 ||saliva.exchange^
 ||sapugo.exchange^
 ||satsat.exchange^
-||sea.exchange^
 ||seif.exchange^
 ||siga.exchange^
 ||simulator.exchange^
@@ -225,14 +224,12 @@
 ||tradelot.exchange^
 ||tradies.exchange^
 ||traffic.exchange^
-||treehouse.exchange^
 ||trusttether.exchange^
 ||tyre.exchange^
 ||unco.exchange^
 ||union24.exchange^
 ||unix.exchange^
 ||unlim.exchange^
-||vatp.exchange^
 ||veils.exchange^
 ||velodrome.exchange^
 ||vietstock.exchange^
@@ -253,7 +250,6 @@
 ||xcoins.exchange^
 ||xdx.exchange^
 ||xentain.exchange^
-||xxkk.exchange^
 ||yard.exchange^
 ||yue.exchange^
 ||zenoz.exchange^

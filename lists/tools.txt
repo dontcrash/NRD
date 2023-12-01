@@ -59,6 +59,7 @@
 ||cheatengine889.tools^
 ||checkbox.tools^
 ||checklist.tools^
+||checkm8.tools^
 ||checksum.tools^
 ||chilli.tools^
 ||cloudlan.tools^
@@ -68,7 +69,6 @@
 ||compilers.tools^
 ||completegm.tools^
 ||confirm-mailing-address.tools^
-||contextual.tools^
 ||contrac.tools^
 ||convertisseur.tools^
 ||cooldev.tools^
@@ -109,7 +109,6 @@
 ||equip.tools^
 ||excel.tools^
 ||existence.tools^
-||farmlabor.tools^
 ||feishu.tools^
 ||fibonaccitile.tools^
 ||fifaplus.tools^
@@ -129,7 +128,6 @@
 ||gamesense.tools^
 ||gamewith.tools^
 ||gauss.tools^
-||gdn.tools^
 ||gemslab.tools^
 ||geppetto.tools^
 ||ggg.tools^
@@ -137,6 +135,7 @@
 ||gizmo.tools^
 ||gnosischain.tools^
 ||godfather.tools^
+||gogopower.tools^
 ||gptactions.tools^
 ||gptstore.tools^
 ||grok-image-ai.tools^
@@ -182,7 +181,6 @@
 ||lifemap.tools^
 ||linkinbio.tools^
 ||lix.tools^
-||lord.tools^
 ||loterie.tools^
 ||m2m.tools^
 ||m4m.tools^
@@ -223,7 +221,6 @@
 ||nbcs.tools^
 ||nerva.tools^
 ||nextgen.tools^
-||nftgenerator.tools^
 ||nocoder.tools^
 ||nohu.tools^
 ||nomadic.tools^
@@ -274,7 +271,6 @@
 ||reactions.tools^
 ||readyplayer.tools^
 ||recrui.tools^
-||rediscover.tools^
 ||reelspeed.tools^
 ||refactor.tools^
 ||remix.tools^
@@ -298,13 +294,11 @@
 ||sei.tools^
 ||sexvid.tools^
 ||sharks.tools^
-||shasta.tools^
 ||siafactory.tools^
 ||skull-shot.tools^
 ||smallbizhub.tools^
 ||smashing.tools^
 ||smoothie.tools^
-||soap2day.tools^
 ||socialdata.tools^
 ||spawn.tools^
 ||specialist.tools^
@@ -358,7 +352,6 @@
 ||vuo.tools^
 ||walletium.tools^
 ||wearableai.tools^
-||webjs.tools^
 ||webservice.tools^
 ||witold.tools^
 ||worldlife.tools^

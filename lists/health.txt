@@ -2,8 +2,6 @@
 ||888.health^
 ||access.health^
 ||accessdenied.health^
-||achievement.health^
-||achievements.health^
 ||acidreflux.health^
 ||aco.health^
 ||adameve.health^
@@ -24,7 +22,6 @@
 ||ailab.health^
 ||ailabs.health^
 ||aiomega.health^
-||aitools.health^
 ||aliasherbal.health^
 ||alida.health^
 ||alwa.health^
@@ -37,7 +34,6 @@
 ||anatomie.health^
 ||ancientholistics.health^
 ||anesthesia.health^
-||antifragile.health^
 ||aox3.health^
 ||api.health^
 ||apis.health^
@@ -60,8 +56,6 @@
 ||bcares.health^
 ||be.health^
 ||becauseisayso.health^
-||beehiveinsights.health^
-||bellatrix.health^
 ||benessere.health^
 ||beonbit.health^
 ||bestfriends.health^
@@ -84,7 +78,6 @@
 ||breeze.health^
 ||bridget.health^
 ||brigade.health^
-||brightlight.health^
 ||bulimia.health^
 ||bycore.health^
 ||ca.health^
@@ -101,7 +94,6 @@
 ||care.health^
 ||caredataai.health^
 ||catholic.health^
-||cclear.health^
 ||century.health^
 ||cera.health^
 ||cervicalcancer.health^
@@ -116,7 +108,6 @@
 ||chronic.health^
 ||chronickidneydisease.health^
 ||circleoflife.health^
-||citizen.health^
 ||ckd.health^
 ||claima.health^
 ||cloud.health^
@@ -137,7 +128,6 @@
 ||cydoc.health^
 ||daves.health^
 ||dazzle.health^
-||decasports.health^
 ||dentist.health^
 ||dentists.health^
 ||dentures.health^
@@ -161,7 +151,6 @@
 ||dragon.health^
 ||drnan.health^
 ||drpompa.health^
-||drsmile.health^
 ||drugs.health^
 ||e.health^
 ||eatrealfood.health^
@@ -183,6 +172,7 @@
 ||emphysema.health^
 ||emr.health^
 ||enrg.health^
+||enrollmountain.health^
 ||ent.health^
 ||epilepsy.health^
 ||esrd.health^
@@ -219,9 +209,7 @@
 ||gibbor.health^
 ||gibor.health^
 ||gingerwellness.health^
-||glassbox.health^
 ||glaucoma.health^
-||glove.health^
 ||glp-1.health^
 ||goalmanager.health^
 ||gomango.health^
@@ -243,9 +231,7 @@
 ||hospitals.health^
 ||huaqitrade.health^
 ||ichra.health^
-||iknow.health^
 ||illumine.health^
-||imho.health^
 ||immortalcoin.health^
 ||immune.health^
 ||immunizations.health^
@@ -275,7 +261,6 @@
 ||jujubee.health^
 ||jura.health^
 ||k.health^
-||kalari.health^
 ||kallos.health^
 ||kanhai.health^
 ||kelham.health^
@@ -293,7 +278,6 @@
 ||leopard.health^
 ||level42.health^
 ||lexingtonmedicalspa.health^
-||lifescape.health^
 ||lifewell.health^
 ||lift.health^
 ||limitlessli.health^
@@ -328,7 +312,6 @@
 ||mdfp.health^
 ||medaccess.health^
 ||medical.health^
-||medidash.health^
 ||medivanthealthcare.health^
 ||medivaultai.health^
 ||meijer.health^
@@ -360,14 +343,13 @@
 ||myibs.health^
 ||mymemorial.health^
 ||myplacecarepartners.health^
-||myriadsystems.health^
-||natu.health^
 ||nebosh.health^
 ||necto.health^
 ||neom.health^
 ||neurologic.health^
 ||news.health^
 ||newyou.health^
+||ngrc.health^
 ||nicely.health^
 ||nightfall.health^
 ||nivonyx.health^
@@ -385,7 +367,6 @@
 ||oa.health^
 ||obelisk.health^
 ||obstetrics.health^
-||oceantherapy.health^
 ||offgridhealth.health^
 ||ofoq.health^
 ||ohmydog.health^
@@ -451,7 +432,6 @@
 ||re.health^
 ||reallygoodbenefits.health^
 ||records.health^
-||recoveryroad.health^
 ||relative.health^
 ||rememberhealth.health^
 ||renovae.health^
@@ -478,7 +458,6 @@
 ||sentinelneuro.health^
 ||sf.health^
 ||sh.health^
-||sharm.health^
 ||sheep.health^
 ||shineway.health^
 ||sightsaver.health^
@@ -503,12 +482,10 @@
 ||strongheartline.health^
 ||suicide.health^
 ||sunwin.health^
-||supergut.health^
 ||superman.health^
 ||superwoman.health^
 ||surgery.health^
 ||sustento.health^
-||sweetra.health^
 ||swiftly.health^
 ||taco.health^
 ||tele.health^
@@ -556,7 +533,6 @@
 ||vitamins.health^
 ||voce.health^
 ||waterplus.health^
-||wechat.health^
 ||weightloss.health^
 ||wellandgood.health^
 ||wellchildrens.health^
@@ -565,7 +541,6 @@
 ||wellunity.health^
 ||wesearch.health^
 ||westslope.health^
-||wheredoistart.health^
 ||wilink.health^
 ||willgibson.health^
 ||worldlife.health^
