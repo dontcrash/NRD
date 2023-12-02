@@ -5,6 +5,7 @@
 ||bellrise.build^
 ||bennettbuilt.build^
 ||biohackers.build^
+||biscuits.build^
 ||boardgame.build^
 ||bodd.build^
 ||brickbooks.build^
@@ -21,7 +22,6 @@
 ||gizmo.build^
 ||gpts.build^
 ||groseandmanz.build^
-||homer.build^
 ||ingress.build^
 ||integrations.build^
 ||itec.build^
@@ -33,13 +33,13 @@
 ||mcwa.build^
 ||mermaid.build^
 ||nifty.build^
-||nohu.build^
 ||pagnos.build^
 ||phoenixroofing.build^
 ||pinnacleconstruction.build^
 ||pixel.build^
 ||rails.build^
 ||replicator.build^
+||rigawa.build^
 ||rubble.build^
 ||savvy.build^
 ||skylineconstructioninc.build^

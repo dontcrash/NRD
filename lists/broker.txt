@@ -15,6 +15,7 @@
 ||cryptocom.broker^
 ||cryptos.broker^
 ||dscr.broker^
+||empower.broker^
 ||esim.broker^
 ||etf.broker^
 ||europe.broker^
@@ -23,16 +24,17 @@
 ||germanrealty.broker^
 ||goods.broker^
 ||gpts.broker^
+||ichra.broker^
 ||immovest.broker^
 ||infy.broker^
 ||karenritchie.broker^
 ||logistics.broker^
 ||metapay.broker^
 ||mind.broker^
+||mrspecialist.broker^
 ||myfpx.broker^
 ||neverbeen.broker^
 ||newrock.broker^
-||nohu.broker^
 ||noones.broker^
 ||ourmortgage.broker^
 ||pawnshop.broker^
