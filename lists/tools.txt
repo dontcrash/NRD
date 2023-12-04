@@ -101,6 +101,7 @@
 ||d2d.tools^
 ||daher.tools^
 ||dataanalytic.tools^
+||dawnet.tools^
 ||db.tools^
 ||dck.tools^
 ||degruyter.tools^
@@ -113,6 +114,7 @@
 ||drone.tools^
 ||dsc.tools^
 ||dvdplay.tools^
+||ecoin.tools^
 ||edmond.tools^
 ||eft.tools^
 ||eid.tools^
@@ -228,7 +230,6 @@
 ||mynotes.tools^
 ||mypdf.tools^
 ||myquick.tools^
-||naga889.tools^
 ||nagoya.tools^
 ||nairobi.tools^
 ||nanning.tools^
@@ -248,7 +249,6 @@
 ||nux.tools^
 ||oakland.tools^
 ||oceanbatt.tools^
-||oidc.tools^
 ||onlinemoneytools.tools^
 ||onlyone.tools^
 ||optimus.tools^
@@ -260,7 +260,6 @@
 ||pasadena.tools^
 ||paw.tools^
 ||payu.tools^
-||pdf-accessibility.tools^
 ||peoria.tools^
 ||pier.tools^
 ||pisa.tools^
@@ -288,6 +287,7 @@
 ||qorno.tools^
 ||qstar.tools^
 ||quickai.tools^
+||quicklink.tools^
 ||reactions.tools^
 ||readyplayer.tools^
 ||recrui.tools^
@@ -311,7 +311,7 @@
 ||saiunes.tools^
 ||salute.tools^
 ||satellite.tools^
-||sdmx.tools^
+||secondbrain.tools^
 ||seekai.tools^
 ||sei.tools^
 ||sharks.tools^
@@ -344,6 +344,7 @@
 ||swindon.tools^
 ||system.tools^
 ||tamilgun.tools^
+||tap.tools^
 ||taxpro.tools^
 ||tcpip.tools^
 ||techlead.tools^
@@ -360,7 +361,6 @@
 ||top50ai.tools^
 ||topsaas.tools^
 ||tpv.tools^
-||tradechat.tools^
 ||trainer.tools^
 ||trashcan.tools^
 ||trum.tools^
@@ -369,9 +369,11 @@
 ||ukcore.tools^
 ||unapologetic.tools^
 ||upload-mailing-address.tools^
+||uptodate.tools^
 ||utxo.tools^
 ||velox.tools^
 ||vinanalytic.tools^
+||vmail.tools^
 ||vni.tools^
 ||vnmodapk.tools^
 ||vuo.tools^
@@ -379,6 +381,7 @@
 ||wearableai.tools^
 ||webservice.tools^
 ||wichita.tools^
+||wilhoyt-tyrell.tools^
 ||witold.tools^
 ||worldlife.tools^
 ||wpac.tools^

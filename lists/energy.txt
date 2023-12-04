@@ -28,6 +28,7 @@
 ||bahia.energy^
 ||bai.energy^
 ||balto.energy^
+||bam.energy^
 ||bashed.energy^
 ||batterybank.energy^
 ||batterystorage.energy^
@@ -39,6 +40,7 @@
 ||bigdickenergy24.energy^
 ||bigduck.energy^
 ||billswap.energy^
+||blackrock.energy^
 ||bmr.energy^
 ||bnt.energy^
 ||bonterra.energy^
@@ -61,12 +63,11 @@
 ||cross.energy^
 ||daen.energy^
 ||decrease.energy^
-||delawarestate.energy^
 ||delta.energy^
 ||dirgha.energy^
-||district.energy^
 ||dixe.energy^
 ||dn.energy^
+||don.energy^
 ||drink7.energy^
 ||druid.energy^
 ||dunkelflaute.energy^
@@ -80,13 +81,13 @@
 ||empowernew.energy^
 ||endlessenergyllc.energy^
 ||endurance.energy^
+||energy-garage.energy^
 ||energyexperts.energy^
 ||energysavings.energy^
 ||energystorage.energy^
 ||enpax.energy^
 ||ensolar.energy^
 ||epec.energy^
-||epi.energy^
 ||epplament.energy^
 ||escgroup.energy^
 ||essentialsolarusa.energy^
@@ -112,16 +113,15 @@
 ||greenvoltix.energy^
 ||grnyld.energy^
 ||gumption.energy^
-||heal.energy^
 ||heizgruen.energy^
 ||higherpower.energy^
 ||ho.energy^
-||holz.energy^
 ||homestep.energy^
 ||horse.energy^
 ||hotdog.energy^
 ||hydralink.energy^
 ||hydrocosm.energy^
+||incendium.energy^
 ||infin.energy^
 ||innerdance.energy^
 ||inpower.energy^
@@ -143,6 +143,7 @@
 ||latos.energy^
 ||lazarus.energy^
 ||lifebalance.energy^
+||livingflow.energy^
 ||lowdown.energy^
 ||luck.energy^
 ||lx.energy^
@@ -158,6 +159,7 @@
 ||mkhwind.energy^
 ||mondtal.energy^
 ||monolith.energy^
+||monument.energy^
 ||moorgenstern.energy^
 ||mto.energy^
 ||mye.energy^
@@ -192,11 +194,13 @@
 ||portage.energy^
 ||possiblewith.energy^
 ||powar.energy^
+||powerappultra.energy^
 ||powerboxx.energy^
 ||poweredchrismas.energy^
 ||powernap.energy^
 ||powerproject.energy^
 ||pr2.energy^
+||propel.energy^
 ||providence.energy^
 ||puresource.energy^
 ||pushflow.energy^
@@ -206,6 +210,7 @@
 ||redding.energy^
 ||remote.energy^
 ||reno-emobility.energy^
+||representingpower.energy^
 ||resonance.energy^
 ||restart.energy^
 ||rollup.energy^
@@ -216,6 +221,7 @@
 ||schaefer.energy^
 ||shepherdindustrial.energy^
 ||sige.energy^
+||sight.energy^
 ||small.energy^
 ||smartbusiness.energy^
 ||smartgrid.energy^
@@ -269,6 +275,7 @@
 ||whiteh2.energy^
 ||wipetrol.energy^
 ||wire.energy^
+||wisewoman.energy^
 ||worldlife.energy^
 ||x-grid.energy^
 ||xn--7xa.energy^
@@ -280,5 +287,6 @@
 ||xpower.energy^
 ||zebra.energy^
 ||zeeta.energy^
+||zimwadi.energy^
 ||zogenergy.energy^
 ||zoomer.energy^

@@ -8,17 +8,15 @@
 ||biscuits.build^
 ||boardgame.build^
 ||bodd.build^
-||brickbooks.build^
 ||caisson.build^
 ||caulkinshomes.build^
 ||cel.build^
+||comwork.build^
 ||cornerstone.build^
 ||darkaero.build^
 ||deckforge.build^
 ||ecg.build^
-||exopen.build^
 ||founderup.build^
-||gaia.build^
 ||gizmo.build^
 ||gpts.build^
 ||groseandmanz.build^
@@ -34,6 +32,7 @@
 ||mermaid.build^
 ||nifty.build^
 ||pagnos.build^
+||paviana.build^
 ||phoenixroofing.build^
 ||pinnacleconstruction.build^
 ||pixel.build^
@@ -42,6 +41,7 @@
 ||rigawa.build^
 ||rubble.build^
 ||savvy.build^
+||secondbrain.build^
 ||skylineconstructioninc.build^
 ||smartwall.build^
 ||sonderdesign.build^
@@ -54,7 +54,9 @@
 ||swerve.build^
 ||synaps.build^
 ||sync.build^
+||tailoredliving.build^
 ||thesys.build^
+||township.build^
 ||tvix.build^
 ||urbanconversions.build^
 ||workroom.build^

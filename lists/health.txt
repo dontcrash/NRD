@@ -11,6 +11,7 @@
 ||aeroflow.health^
 ||af.health^
 ||affectable.health^
+||affineon.health^
 ||afib.health^
 ||agelessmedical.health^
 ||agent.health^
@@ -33,6 +34,7 @@
 ||anatomie.health^
 ||ancientholistics.health^
 ||anesthesia.health^
+||annalyse.health^
 ||aox3.health^
 ||api.health^
 ||apis.health^
@@ -51,7 +53,6 @@
 ||babies.health^
 ||baby.health^
 ||babymind.health^
-||bakery.health^
 ||bbls.health^
 ||bcares.health^
 ||be.health^
@@ -70,6 +71,7 @@
 ||bloodscanner.health^
 ||bloombeck.health^
 ||blud.health^
+||bluephoenix.health^
 ||bobs.health^
 ||borg.health^
 ||boundlesslife.health^
@@ -78,6 +80,7 @@
 ||breeze.health^
 ||bridget.health^
 ||brigade.health^
+||brightwood.health^
 ||bulimia.health^
 ||bycore.health^
 ||ca.health^
@@ -109,7 +112,6 @@
 ||chronickidneydisease.health^
 ||circleoflife.health^
 ||ckd.health^
-||claima.health^
 ||cloud.health^
 ||cms.health^
 ||cns.health^
@@ -134,6 +136,7 @@
 ||depression.health^
 ||dermatology.health^
 ||device.health^
+||devonshirecc.health^
 ||dhsanalytics.health^
 ||dhspbm.health^
 ||diabetes.health^
@@ -142,16 +145,17 @@
 ||diet.health^
 ||different.health^
 ||digital4.health^
+||digitalconnect.health^
 ||digitaldetox.health^
 ||digitalmarketing.health^
 ||divorcepawns.health^
 ||dna.health^
-||doktoro.health^
 ||dr-hemn.health^
 ||dragon.health^
 ||drnan.health^
 ||drpompa.health^
 ||drugs.health^
+||drwater.health^
 ||e.health^
 ||eatrealfood.health^
 ||ecg.health^
@@ -212,6 +216,7 @@
 ||goldenrose.health^
 ||gomango.health^
 ||govcare.health^
+||gower.health^
 ||graphiumhealth.health^
 ||guardrail.health^
 ||gxp.health^
@@ -229,6 +234,7 @@
 ||hospitals.health^
 ||huaqitrade.health^
 ||ichra.health^
+||ikariajuice.health^
 ||illumine.health^
 ||imallears.health^
 ||immortalcoin.health^
@@ -270,6 +276,7 @@
 ||kids.health^
 ||kinvolve.health^
 ||kratomnation.health^
+||kvantas.health^
 ||la.health^
 ||lacunasleep.health^
 ||laeq.health^
@@ -344,7 +351,6 @@
 ||mymemorial.health^
 ||myplacecarepartners.health^
 ||ndp.health^
-||nebosh.health^
 ||necto.health^
 ||neom.health^
 ||neurologic.health^
@@ -390,6 +396,7 @@
 ||overweight.health^
 ||p.health^
 ||painally.health^
+||paperclip.health^
 ||parkinsons.health^
 ||parrot.health^
 ||paths.health^
@@ -439,8 +446,7 @@
 ||renovae.health^
 ||retail.health^
 ||reverse-yoga.health^
-||rodingvalley.health^
-||rootseq.health^
+||ringza.health^
 ||rootsreview.health^
 ||roster.health^
 ||rsquare.health^

@@ -2,7 +2,6 @@
 ||251.properties^
 ||479.properties^
 ||adamson.properties^
-||alimos.properties^
 ||allcommercial.properties^
 ||arabesco.properties^
 ||arts.properties^
@@ -61,16 +60,13 @@
 ||ghosh.properties^
 ||gilman.properties^
 ||goal1.properties^
-||goldenlandgoutos.properties^
 ||golfcrazy.properties^
 ||googler.properties^
-||goutos.properties^
 ||gpts.properties^
 ||greenandgold.properties^
 ||grok.properties^
 ||hashtag.properties^
 ||headwater.properties^
-||hellman.properties^
 ||helmsrealestate.properties^
 ||homeawayfromhome.properties^
 ||homecraftinstallations.properties^
@@ -121,12 +117,8 @@
 ||onside.properties^
 ||palmero.properties^
 ||pantip.properties^
-||paparounis.properties^
-||peiraias.properties^
 ||pinkmoon.properties^
 ||polyester.properties^
-||porto-hydra.properties^
-||portohydra.properties^
 ||positiveinvestment.properties^
 ||pretoria.properties^
 ||projoel.properties^
@@ -150,10 +142,10 @@
 ||sophisticated.properties^
 ||spankbang.properties^
 ||speedtest.properties^
-||spetses.properties^
 ||sportybet.properties^
 ||squarex.properties^
 ||stripchat.properties^
+||study.properties^
 ||suprem.properties^
 ||thara.properties^
 ||thebeachwithinreach.properties^
@@ -164,6 +156,7 @@
 ||traders.properties^
 ||truhome.properties^
 ||turf.properties^
+||turtlehill.properties^
 ||ufabet.properties^
 ||ug.properties^
 ||upscaleestates.properties^
@@ -178,5 +171,6 @@
 ||waxwing.properties^
 ||wbny.properties^
 ||wiregrasshomeheroes.properties^
+||woman.properties^
 ||worldlife.properties^
 ||xesquarecapital.properties^
