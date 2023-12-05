@@ -5,18 +5,17 @@
 ||amateur.builders^
 ||apex.builders^
 ||aplus.builders^
+||apollo.builders^
 ||arboreal.builders^
 ||architectural.builders^
 ||article.builders^
 ||assistant.builders^
-||automatedincome.builders^
 ||bcgame.builders^
 ||brimark.builders^
 ||butterfly.builders^
 ||capitol.builders^
 ||cheetah.builders^
 ||classical.builders^
-||cmoa.builders^
 ||coleman.builders^
 ||core.builders^
 ||cscs.builders^
@@ -33,7 +32,6 @@
 ||eric.builders^
 ||fenske.builders^
 ||firstchoice.builders^
-||gamewith.builders^
 ||goat.builders^
 ||gohighlevel.builders^
 ||gptassistant.builders^
@@ -64,7 +62,6 @@
 ||panda.builders^
 ||pdf.builders^
 ||premiums.builders^
-||private.builders^
 ||promptbyprompt.builders^
 ||qstar.builders^
 ||revolution.builders^

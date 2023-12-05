@@ -18,7 +18,6 @@
 ||myrisecredit.creditcard^
 ||national.creditcard^
 ||polygon.creditcard^
-||pot.creditcard^
 ||premium.creditcard^
 ||repay.creditcard^
 ||risecreditonline.creditcard^
@@ -26,6 +25,7 @@
 ||roma.creditcard^
 ||rtpslothailand.creditcard^
 ||rw.creditcard^
+||smallbusiness.creditcard^
 ||spark.creditcard^
 ||stripchat.creditcard^
 ||telaviv.creditcard^
@@ -34,6 +34,5 @@
 ||university.creditcard^
 ||vancouver.creditcard^
 ||voice.creditcard^
-||worldlife.creditcard^
 ||ws.creditcard^
 ||xbank.creditcard^

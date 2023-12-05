@@ -2,7 +2,7 @@
 ||aave-protocol.claims^
 ||airline.claims^
 ||anpost.claims^
-||babydogenft.claims^
+||bitcoin.claims^
 ||businessutility.claims^
 ||ca.claims^
 ||carfinance.claims^
@@ -33,13 +33,16 @@
 ||flpersonalinjury.claims^
 ||ftx-lawsuit.claims^
 ||group.claims^
+||hashflow-com.claims^
 ||hire.claims^
+||hollywood.claims^
 ||hyperliquid.claims^
 ||illuvium-io.claims^
 ||investigation.claims^
 ||iotex.claims^
 ||ixiniumasset.claims^
 ||leroymerlin.claims^
+||magpiexyz.claims^
 ||maryland.claims^
 ||metapay.claims^
 ||mortgage.claims^
@@ -55,11 +58,12 @@
 ||paraswap.claims^
 ||pendle.claims^
 ||phygitals.claims^
+||portalgaming.claims^
 ||processing.claims^
 ||psp.claims^
-||q.claims^
 ||quickswap-io.claims^
 ||rapid.claims^
+||rd4u.claims^
 ||rewards-unibot.claims^
 ||rocketpool.claims^
 ||sandboxgame.claims^
@@ -67,7 +71,6 @@
 ||scroll-io.claims^
 ||shop.claims^
 ||sky88.claims^
-||soft.claims^
 ||spankbang.claims^
 ||stripchat.claims^
 ||swapapp.claims^
@@ -84,7 +87,6 @@
 ||unisatpass.claims^
 ||uniswap.claims^
 ||unsubstantiated.claims^
-||velodromefinance.claims^
 ||verasity-io.claims^
 ||warcrimes.claims^
 ||washingtonadjusters.claims^

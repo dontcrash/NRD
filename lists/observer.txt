@@ -49,7 +49,6 @@
 ||cheesecake.observer^
 ||cibc.observer^
 ||clarin.observer^
-||cmoa.observer^
 ||coinmarketcap.observer^
 ||communication.observer^
 ||comstar.observer^
@@ -86,7 +85,6 @@
 ||gazzetta.observer^
 ||gmx.observer^
 ||goal.observer^
-||goo.observer^
 ||grok.observer^
 ||gulftech.observer^
 ||hindustantimes.observer^
@@ -192,7 +190,6 @@
 ||skysports.observer^
 ||sofascore.observer^
 ||sohu.observer^
-||spankbang.observer^
 ||sportradar.observer^
 ||sportsbet.observer^
 ||sportybet.observer^
@@ -202,7 +199,6 @@
 ||t-online.observer^
 ||taobao.observer^
 ||temu.observer^
-||tenki.observer^
 ||tesla.observer^
 ||theguardian.observer^
 ||thelott.observer^
@@ -231,7 +227,6 @@
 ||winline.observer^
 ||winzogames.observer^
 ||wplay.observer^
-||xai.observer^
 ||xgroovy.observer^
 ||xhamsterlive.observer^
 ||xo88.observer^

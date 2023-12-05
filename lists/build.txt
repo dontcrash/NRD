@@ -1,3 +1,4 @@
+||aecosystem.build^
 ||asterism.build^
 ||atomic.build^
 ||backyard.build^
@@ -8,14 +9,14 @@
 ||biscuits.build^
 ||boardgame.build^
 ||bodd.build^
+||boldtex.build^
 ||caisson.build^
 ||caulkinshomes.build^
 ||cel.build^
 ||comwork.build^
 ||cornerstone.build^
-||darkaero.build^
 ||deckforge.build^
-||ecg.build^
+||echtfab.build^
 ||founderup.build^
 ||gizmo.build^
 ||gpts.build^
@@ -26,6 +27,7 @@
 ||iterative.build^
 ||join-linea.build^
 ||kingdomkonduit.build^
+||konnen.build^
 ||libertas.build^
 ||madara.build^
 ||mcwa.build^

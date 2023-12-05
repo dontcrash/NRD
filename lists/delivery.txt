@@ -18,9 +18,7 @@
 ||chatto.delivery^
 ||chronopost-mon-suivi.delivery^
 ||clubve.delivery^
-||cmoa.delivery^
 ||confirmed.delivery^
-||controlled.delivery^
 ||corridor.delivery^
 ||csdn.delivery^
 ||customs-anpost.delivery^
@@ -47,7 +45,6 @@
 ||foodking.delivery^
 ||foodnation.delivery^
 ||forest.delivery^
-||gamewith.delivery^
 ||glaswegin.delivery^
 ||graiied.delivery^
 ||grizzly.delivery^
@@ -66,15 +63,14 @@
 ||kasino.delivery^
 ||kasyno.delivery^
 ||kuwaitflowers.delivery^
-||lavka.delivery^
 ||loterie.delivery^
 ||magazine.delivery^
 ||mangal.delivery^
+||mercadoahorros.delivery^
 ||meth.delivery^
 ||mindaltar.delivery^
 ||moms.delivery^
 ||motherschoice.delivery^
-||msg.delivery^
 ||mtwtfss.delivery^
 ||mums.delivery^
 ||mush.delivery^
@@ -86,6 +82,7 @@
 ||nextdaywork.delivery^
 ||nextmonths.delivery^
 ||nextweeks.delivery^
+||norms.delivery^
 ||nudes.delivery^
 ||ogo.delivery^
 ||oh.delivery^
@@ -93,8 +90,7 @@
 ||onetap.delivery^
 ||optimus.delivery^
 ||optional.delivery^
-||ottransportationllc.delivery^
-||paket-ch.delivery^
+||painless.delivery^
 ||pancatrans.delivery^
 ||panquecabrasileira.delivery^
 ||parimatch.delivery^
@@ -121,7 +117,6 @@
 ||ripe.delivery^
 ||rockstar.delivery^
 ||samuraihibachigrillla.delivery^
-||securefaxdelivery.delivery^
 ||service-post.delivery^
 ||ship-parcel-qa.delivery^
 ||shoe.delivery^
@@ -155,6 +150,7 @@
 ||unitedexpressshipping.delivery^
 ||upoke.delivery^
 ||ups-colis.delivery^
+||ups-expedition.delivery^
 ||ups-express.delivery^
 ||ups-levering.delivery^
 ||ups-track-gr031108.delivery^
@@ -162,7 +158,6 @@
 ||uspscclient.delivery^
 ||veniceflowers.delivery^
 ||vietnamflowers.delivery^
-||vim.delivery^
 ||vision2030.delivery^
 ||wallet.delivery^
 ||wiin.delivery^
