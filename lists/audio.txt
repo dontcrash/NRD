@@ -19,6 +19,7 @@
 ||gapless.audio^
 ||gorilla.audio^
 ||halcyon.audio^
+||igneous.audio^
 ||ilan.audio^
 ||intrepid.audio^
 ||jaguar.audio^
@@ -30,13 +31,14 @@
 ||lux.audio^
 ||mana.audio^
 ||manchester.audio^
-||menubus.audio^
+||moco.audio^
 ||mode.audio^
 ||mon.audio^
 ||norrebro.audio^
 ||office365.audio^
 ||oink.audio^
 ||paskhin.audio^
+||ponder.audio^
 ||preaching.audio^
 ||presets.audio^
 ||productions.audio^
@@ -56,7 +58,6 @@
 ||unfiltered.audio^
 ||victoriya.audio^
 ||vintagecartoons.audio^
-||wechat.audio^
 ||xboxmusic.audio^
 ||zelda.audio^
 ||zen.audio^

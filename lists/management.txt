@@ -53,10 +53,10 @@
 ||hardware-requirements.management^
 ||hotmart.management^
 ||hubs.management^
-||immersive.management^
 ||janiss.management^
 ||jcp.management^
 ||jensen.management^
+||kaia.management^
 ||kamra.management^
 ||kasino.management^
 ||keystonerealty.management^
@@ -65,7 +65,6 @@
 ||legalops.management^
 ||legalproject.management^
 ||lightbody-vehicle.management^
-||liquidity.management^
 ||logsa.management^
 ||loterie.management^
 ||mails-delivery-protection-mimemcast-outlook.management^
@@ -96,7 +95,6 @@
 ||queensboro.management^
 ||recruitment.management^
 ||reddog.management^
-||refolio.management^
 ||relia.management^
 ||retec.management^
 ||rhb.management^
@@ -118,10 +116,8 @@
 ||stackoverflow.management^
 ||staking.management^
 ||stripchat.management^
-||swsolutions.management^
 ||symbol.management^
 ||techtouchdown.management^
-||terracommercial.management^
 ||thebakerygenetics.management^
 ||thomascapital.management^
 ||tistory.management^

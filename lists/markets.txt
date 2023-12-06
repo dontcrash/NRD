@@ -30,7 +30,6 @@
 ||cryptochips.markets^
 ||dba.markets^
 ||diamond.markets^
-||digitalasset.markets^
 ||dpi.markets^
 ||eg.markets^
 ||epicstocks.markets^
@@ -46,7 +45,6 @@
 ||hotepicstocks.markets^
 ||hotmart.markets^
 ||il.markets^
-||immersive.markets^
 ||indx.markets^
 ||iptv.markets^
 ||iterates.markets^
@@ -72,11 +70,9 @@
 ||postbank.markets^
 ||predyx.markets^
 ||pt.markets^
-||quantitativefinance.markets^
 ||qubitcoin.markets^
 ||r7.markets^
 ||rage.markets^
-||remote.markets^
 ||rocker.markets^
 ||royal.markets^
 ||running.markets^
