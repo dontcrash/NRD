@@ -9,7 +9,6 @@
 ||areal.delivery^
 ||asap.delivery^
 ||battery.delivery^
-||beerandwine.delivery^
 ||betus.delivery^
 ||booom.delivery^
 ||bulldozereat.delivery^
@@ -22,6 +21,7 @@
 ||corridor.delivery^
 ||csdn.delivery^
 ||customs-anpost.delivery^
+||cyberpunk.delivery^
 ||dads.delivery^
 ||darq.delivery^
 ||daughters.delivery^
@@ -42,9 +42,11 @@
 ||fastexpress.delivery^
 ||fastlink.delivery^
 ||fee-anpost.delivery^
-||foodking.delivery^
 ||foodnation.delivery^
 ||forest.delivery^
+||free-day.delivery^
+||freeday.delivery^
+||freshtoday.delivery^
 ||glaswegin.delivery^
 ||graiied.delivery^
 ||gralied.delivery^
@@ -89,7 +91,6 @@
 ||nudes.delivery^
 ||ogo.delivery^
 ||oh.delivery^
-||on-demand.delivery^
 ||onetap.delivery^
 ||optimus.delivery^
 ||optional.delivery^

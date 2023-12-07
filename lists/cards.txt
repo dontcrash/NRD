@@ -11,7 +11,6 @@
 ||arlington.cards^
 ||asia.cards^
 ||automatedrewards.cards^
-||bancochile.cards^
 ||banks.cards^
 ||baseball.cards^
 ||basketball.cards^
@@ -21,10 +20,10 @@
 ||blog.cards^
 ||boring.cards^
 ||brick.cards^
-||buckit.cards^
 ||capybara.cards^
 ||chitchat.cards^
 ||coa.cards^
+||com-cancel.cards^
 ||cryptodebit.cards^
 ||d-o-t.cards^
 ||deadpair.cards^
@@ -54,7 +53,6 @@
 ||gripe.cards^
 ||handmade.cards^
 ||happybirdday.cards^
-||happyvalleytrading.cards^
 ||healthid.cards^
 ||hilarious.cards^
 ||holland.cards^
@@ -74,9 +72,11 @@
 ||mexy.cards^
 ||miami.cards^
 ||mindless.cards^
+||mistr.cards^
 ||mobiuos.cards^
 ||my-v.cards^
 ||mynfc.cards^
+||myste.cards^
 ||nba.cards^
 ||nebula.cards^
 ||nfcv.cards^
@@ -90,7 +90,6 @@
 ||playsolitaire.cards^
 ||pogo.cards^
 ||pokerhands.cards^
-||povipo.cards^
 ||qarma.cards^
 ||quebec.cards^
 ||resolve.cards^
@@ -111,6 +110,7 @@
 ||thedeck.cards^
 ||tokenize.cards^
 ||toofar.cards^
+||tradingvn.cards^
 ||trynfc.cards^
 ||twod.cards^
 ||utah.cards^

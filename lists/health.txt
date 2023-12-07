@@ -25,7 +25,6 @@
 ||ailabs.health^
 ||aiomega.health^
 ||aliasherbal.health^
-||alida.health^
 ||alwa.health^
 ||alzheimers.health^
 ||ama.health^
@@ -39,12 +38,10 @@
 ||aox3.health^
 ||apexmed.health^
 ||api.health^
-||apis.health^
 ||apoth.health^
 ||applyboard.health^
 ||arthritis.health^
 ||ashvin.health^
-||aspiresenlorliving.health^
 ||assistedai.health^
 ||asthma.health^
 ||atharv.health^
@@ -115,6 +112,7 @@
 ||codoc.health^
 ||cold.health^
 ||coldplunge.health^
+||coleman.health^
 ||collaborative.health^
 ||columbiasurgicalspecialists.health^
 ||commonfriend.health^
@@ -194,7 +192,6 @@
 ||fitness.health^
 ||foot.health^
 ||foreverchemicalfree.health^
-||formi.health^
 ||ftg.health^
 ||fufu.health^
 ||functionalchinesemedicine.health^
@@ -215,7 +212,6 @@
 ||goldenrose.health^
 ||gomango.health^
 ||gower.health^
-||graphiumhealth.health^
 ||guardrail.health^
 ||gxp.health^
 ||gynecology.health^
@@ -225,6 +221,7 @@
 ||heart.health^
 ||heartline.health^
 ||hemorrhoid.health^
+||herweb.health^
 ||hinds4health.health^
 ||hiveinsights.health^
 ||hopscotch.health^
@@ -257,6 +254,7 @@
 ||is.health^
 ||it.health^
 ||itmatters.health^
+||itte.health^
 ||iyashi.health^
 ||jamesroxburgh.health^
 ||jamjoom.health^
@@ -298,7 +296,6 @@
 ||livewhole.health^
 ||livfit.health^
 ||livingstonwellness.health^
-||livingwellwithmaura.health^
 ||local.health^
 ||location.health^
 ||lotuseffect.health^
@@ -318,7 +315,6 @@
 ||marijuana.health^
 ||mariposa-azul.health^
 ||maximal.health^
-||medaccess.health^
 ||medical.health^
 ||medivanthealthcare.health^
 ||medivaultai.health^
@@ -349,10 +345,10 @@
 ||myase.health^
 ||mybites.health^
 ||myibs.health^
-||mymemorial.health^
 ||myndstrong.health^
 ||myphoenix.health^
 ||myplacecarepartners.health^
+||mystack.health^
 ||ndp.health^
 ||necto.health^
 ||neurologic.health^
@@ -388,6 +384,7 @@
 ||orbimed.health^
 ||otc.health^
 ||our.health^
+||ourstack.health^
 ||ovariancancer.health^
 ||overweight.health^
 ||p.health^
@@ -425,6 +422,7 @@
 ||prostatecancer.health^
 ||proutcomes.health^
 ||provoke.health^
+||psp.health^
 ||psychadelic.health^
 ||psychiatry.health^
 ||psychology.health^
@@ -490,6 +488,8 @@
 ||surgery.health^
 ||swiftly.health^
 ||taco.health^
+||team.health^
+||teams.health^
 ||tele.health^
 ||telemedicine.health^
 ||telimed.health^
@@ -537,6 +537,7 @@
 ||vitalai.health^
 ||vitalhub.health^
 ||vitamins.health^
+||vmore.health^
 ||voce.health^
 ||waterplus.health^
 ||weightloss.health^
@@ -548,6 +549,7 @@
 ||westslope.health^
 ||wilink.health^
 ||willgibson.health^
+||willow-labs.health^
 ||wwwpocket.health^
 ||xplain.health^
 ||y.health^

@@ -9,6 +9,7 @@
 ||corporate.auspost^
 ||de.auspost^
 ||delivered.auspost^
+||dev.auspost^
 ||digital.auspost^
 ||email.auspost^
 ||foundation.auspost^
@@ -17,6 +18,7 @@
 ||group.auspost^
 ||help.auspost^
 ||hk.auspost^
+||home.auspost^
 ||it.auspost^
 ||jobs.auspost^
 ||logistics.auspost^
@@ -24,7 +26,9 @@
 ||my.auspost^
 ||network.auspost^
 ||news.auspost^
+||next.auspost^
 ||services.auspost^
+||shop.auspost^
 ||social.auspost^
 ||store.auspost^
 ||support.auspost^
@@ -32,3 +36,4 @@
 ||tracking.auspost^
 ||uk.auspost^
 ||us.auspost^
+||youtube.auspost^

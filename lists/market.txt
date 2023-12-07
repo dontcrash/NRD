@@ -12,6 +12,7 @@
 ||admiral.market^
 ||agents.market^
 ||ahc.market^
+||aigpt.market^
 ||aion.market^
 ||airy.market^
 ||aiva.market^
@@ -43,7 +44,6 @@
 ||bless.market^
 ||bnbs.market^
 ||botanica.market^
-||botanika.market^
 ||brisc.market^
 ||bs.market^
 ||bsc20.market^
@@ -71,11 +71,11 @@
 ||csv.market^
 ||ctv.market^
 ||dala.market^
+||danilovsky.market^
 ||dazzleball.market^
 ||deaqua.market^
 ||demetra.market^
 ||dhl.market^
-||distil.market^
 ||distill.market^
 ||dmt.market^
 ||drinkat.market^
@@ -102,7 +102,6 @@
 ||gami.market^
 ||garant.market^
 ||genart.market^
-||geno.market^
 ||godnotaba.market^
 ||gptads.market^
 ||gptstore.market^
@@ -145,12 +144,14 @@
 ||mels.market^
 ||metalbuildings.market^
 ||microbiota.market^
+||microblading.market^
 ||mile.market^
 ||milkyway.market^
 ||miniopt.market^
 ||mixmarket.market^
 ||mlops.market^
 ||modernmuse.market^
+||mommy.market^
 ||monastirakigreek.market^
 ||mosaic.market^
 ||motorrad.market^
@@ -164,6 +165,7 @@
 ||noon.market^
 ||nownow.market^
 ||obuv.market^
+||oldmoney.market^
 ||oldschool.market^
 ||onebuff.market^
 ||openspace.market^
@@ -173,6 +175,7 @@
 ||ownly.market^
 ||ox.market^
 ||ozempic.market^
+||paleezban.market^
 ||panacea.market^
 ||pancho.market^
 ||pay1.market^
@@ -234,12 +237,12 @@
 ||thedirtylittlefarmers.market^
 ||thejobs.market^
 ||themamahood.market^
-||thesuper.market^
 ||theticket.market^
 ||tkrm.market^
 ||topg.market^
 ||trade-buff.market^
 ||travelx.market^
+||trends.market^
 ||troy.market^
 ||unco.market^
 ||unisol.market^
@@ -247,6 +250,7 @@
 ||uyut.market^
 ||vetements.market^
 ||wake.market^
+||wbuff.market^
 ||worldswithin.market^
 ||wwwcryptovand.market^
 ||xn----vtbaksfq3e.market^

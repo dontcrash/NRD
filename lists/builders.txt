@@ -1,6 +1,7 @@
 ||1688.builders^
 ||aboveboard.builders^
 ||agents.builders^
+||agile.builders^
 ||akash.builders^
 ||amateur.builders^
 ||apex.builders^
@@ -26,13 +27,11 @@
 ||document.builders^
 ||dragon.builders^
 ||ecohouse.builders^
-||ecopro.builders^
 ||einstein.builders^
 ||endeavor.builders^
 ||eric.builders^
 ||fenske.builders^
 ||firstchoice.builders^
-||goat.builders^
 ||gohighlevel.builders^
 ||gptassistant.builders^
 ||gptbot.builders^
@@ -47,7 +46,6 @@
 ||kasino.builders^
 ||keonconstruction.builders^
 ||kkb.builders^
-||koala.builders^
 ||lawyers.builders^
 ||lead.builders^
 ||loterie.builders^
