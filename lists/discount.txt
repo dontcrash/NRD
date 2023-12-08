@@ -33,7 +33,6 @@
 ||exposed.discount^
 ||flooring.discount^
 ||fundraising.discount^
-||garagen.discount^
 ||good.discount^
 ||grok.discount^
 ||hosting.discount^
@@ -49,6 +48,7 @@
 ||models.discount^
 ||o.discount^
 ||option.discount^
+||plotter.discount^
 ||polygon.discount^
 ||quality.discount^
 ||s.discount^

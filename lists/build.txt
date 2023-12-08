@@ -17,13 +17,13 @@
 ||comwork.build^
 ||cornerstone.build^
 ||deckforge.build^
+||dotfile.build^
 ||echtfab.build^
 ||founderup.build^
 ||gizmo.build^
 ||gpts.build^
 ||grapl.build^
 ||groseandmanz.build^
-||ingress.build^
 ||integrations.build^
 ||itec.build^
 ||join-linea.build^
@@ -37,7 +37,6 @@
 ||pagnos.build^
 ||paviana.build^
 ||phoenixroofing.build^
-||pinnacleconstruction.build^
 ||pixel.build^
 ||rails.build^
 ||replicator.build^

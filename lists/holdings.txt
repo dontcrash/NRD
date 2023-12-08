@@ -28,8 +28,10 @@
 ||game.holdings^
 ||goodland.holdings^
 ||gregarious.holdings^
+||h2.holdings^
 ||hafner.holdings^
 ||help.holdings^
+||heritagehospitality.holdings^
 ||hodges.holdings^
 ||horizonventure.holdings^
 ||inkling.holdings^
@@ -44,12 +46,9 @@
 ||lnj.holdings^
 ||madisonintl.holdings^
 ||medscan.holdings^
-||meritus.holdings^
-||metaterra.holdings^
 ||method.holdings^
 ||mika.holdings^
 ||mikheev.holdings^
-||moebian.holdings^
 ||mollasadra.holdings^
 ||mouthwatering.holdings^
 ||napura.holdings^
@@ -63,7 +62,6 @@
 ||pasp.holdings^
 ||pay.holdings^
 ||peridot.holdings^
-||price.holdings^
 ||rescorp.holdings^
 ||rwa.holdings^
 ||sandbox.holdings^
@@ -81,3 +79,4 @@
 ||wirth.holdings^
 ||workofart.holdings^
 ||xbt.holdings^
+||yuva.holdings^

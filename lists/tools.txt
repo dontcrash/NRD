@@ -30,7 +30,6 @@
 ||altitude.tools^
 ||amzpro.tools^
 ||apein.tools^
-||apg.tools^
 ||appaloosa.tools^
 ||arachne.tools^
 ||athlete.tools^
@@ -57,9 +56,7 @@
 ||bestreviews.tools^
 ||bizgrowth.tools^
 ||blanca.tools^
-||blastoff.tools^
 ||blazed.tools^
-||blockchains.tools^
 ||bosch-ru.tools^
 ||brandium.tools^
 ||bronze.tools^
@@ -132,6 +129,7 @@
 ||equip.tools^
 ||excel.tools^
 ||existence.tools^
+||fachhandwerker.tools^
 ||feishu.tools^
 ||fifaplus.tools^
 ||filmy4wap.tools^
@@ -150,6 +148,7 @@
 ||gece.tools^
 ||geppetto.tools^
 ||geraetewart.tools^
+||getai.tools^
 ||gizmo.tools^
 ||gnosischain.tools^
 ||gogopower.tools^
@@ -172,6 +171,7 @@
 ||hiai.tools^
 ||hocoosbuilder.tools^
 ||homebrewing.tools^
+||honk.tools^
 ||hotshot.tools^
 ||hss.tools^
 ||hubitai.tools^
@@ -195,7 +195,6 @@
 ||kfm.tools^
 ||killgore.tools^
 ||krad.tools^
-||la-lab.tools^
 ||lazuli.tools^
 ||lifehack.tools^
 ||lifemap.tools^
@@ -232,6 +231,7 @@
 ||mogai.tools^
 ||monsterseo.tools^
 ||moonboy.tools^
+||mor.tools^
 ||moro.tools^
 ||mtc.tools^
 ||multistream.tools^
@@ -244,6 +244,7 @@
 ||nanning.tools^
 ||napoli.tools^
 ||nbcs.tools^
+||needed.tools^
 ||networkmarketing.tools^
 ||newport.tools^
 ||nextgen.tools^
@@ -285,6 +286,7 @@
 ||practicepro.tools^
 ||prague.tools^
 ||prayer.tools^
+||prismatic.tools^
 ||privaty.tools^
 ||prizma.tools^
 ||proficiency.tools^
@@ -299,7 +301,6 @@
 ||qorno.tools^
 ||qstar.tools^
 ||quicklink.tools^
-||reactions.tools^
 ||readyplayer.tools^
 ||recrui.tools^
 ||redditch.tools^
@@ -318,13 +319,13 @@
 ||runner.tools^
 ||rushbet.tools^
 ||s5h5.tools^
-||saiunes.tools^
 ||saks.tools^
 ||salute.tools^
 ||satellite.tools^
 ||secondbrain.tools^
 ||seekai.tools^
 ||sei.tools^
+||shahed4u.tools^
 ||sharks.tools^
 ||siafactory.tools^
 ||skilled.tools^
@@ -333,6 +334,7 @@
 ||smartmoney.tools^
 ||smashing.tools^
 ||smoothie.tools^
+||smsblasting.tools^
 ||snack.tools^
 ||soca.tools^
 ||socialdata.tools^
@@ -362,7 +364,6 @@
 ||taxpro.tools^
 ||techlead.tools^
 ||telega.tools^
-||testosterone.tools^
 ||textformer.tools^
 ||thebest.tools^
 ||thecreative.tools^
@@ -374,7 +375,6 @@
 ||top.tools^
 ||top50ai.tools^
 ||topsaas.tools^
-||tpv.tools^
 ||trainer.tools^
 ||trashcan.tools^
 ||trum.tools^
@@ -388,7 +388,6 @@
 ||velox.tools^
 ||vinanalytic.tools^
 ||vmail.tools^
-||vni.tools^
 ||vnmodapk.tools^
 ||vuo.tools^
 ||walletium.tools^
@@ -396,6 +395,7 @@
 ||websiteonline.tools^
 ||wichita.tools^
 ||wilhoyt-tyrell.tools^
+||wordcount.tools^
 ||wpac.tools^
 ||wpgrowth.tools^
 ||wtdev.tools^

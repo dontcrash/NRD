@@ -27,7 +27,6 @@
 ||asats.exchange^
 ||atomicals.exchange^
 ||attendee.exchange^
-||balder.exchange^
 ||bankless.exchange^
 ||bargains.exchange^
 ||barricader.exchange^
@@ -46,6 +45,7 @@
 ||blow.exchange^
 ||blur-io.exchange^
 ||boiler.exchange^
+||boomerang.exchange^
 ||botan.exchange^
 ||brisc.exchange^
 ||bros.exchange^
@@ -70,7 +70,6 @@
 ||clip.exchange^
 ||clover.exchange^
 ||coils.exchange^
-||coin-cash.exchange^
 ||coinbasewallets.exchange^
 ||compassion.exchange^
 ||coral.exchange^
@@ -81,7 +80,6 @@
 ||cryptomix.exchange^
 ||cryptoverse.exchange^
 ||customerservice.exchange^
-||d2d.exchange^
 ||dafabet.exchange^
 ||defrag.exchange^
 ||degencoin.exchange^
@@ -89,7 +87,7 @@
 ||democrat.exchange^
 ||designers.exchange^
 ||dictum.exchange^
-||digitaldollar.exchange^
+||diffusers.exchange^
 ||dltx.exchange^
 ||drachma.exchange^
 ||dragons.exchange^
@@ -107,7 +105,6 @@
 ||fairbet.exchange^
 ||fairexchanger.exchange^
 ||feet.exchange^
-||feris.exchange^
 ||fgc.exchange^
 ||fiixedflaoat.exchange^
 ||fin.exchange^
@@ -120,7 +117,6 @@
 ||forextrade.exchange^
 ||forian.exchange^
 ||freemovies.exchange^
-||freightrate.exchange^
 ||fusionbtc.exchange^
 ||gamify.exchange^
 ||gasles.exchange^
@@ -154,7 +150,6 @@
 ||iqex.exchange^
 ||islamic.exchange^
 ||jamonswap.exchange^
-||jensen.exchange^
 ||jetbet.exchange^
 ||kodo.exchange^
 ||kyt-app.exchange^
@@ -182,7 +177,6 @@
 ||metriverse.exchange^
 ||militaryequipment.exchange^
 ||mixpay.exchange^
-||module.exchange^
 ||morwa.exchange^
 ||multbitstake.exchange^
 ||multibits.exchange^
@@ -195,7 +189,6 @@
 ||myinsurance.exchange^
 ||nanjing.exchange^
 ||nanocommodity.exchange^
-||natives.exchange^
 ||nemukaeth.exchange^
 ||neonest.exchange^
 ||newton.exchange^
@@ -228,7 +221,6 @@
 ||reshape.exchange^
 ||rewards-dydx.exchange^
 ||rfx.exchange^
-||rosettatoken.exchange^
 ||rta.exchange^
 ||rutor.exchange^
 ||safariexchangeprogram.exchange^
@@ -254,13 +246,13 @@
 ||switchx.exchange^
 ||syncswap-io.exchange^
 ||tauprotocol.exchange^
-||tax-payser-a.exchange^
 ||theinsurance.exchange^
 ||thesis.exchange^
 ||tianjin.exchange^
 ||tire.exchange^
 ||tmi.exchange^
 ||tradelot.exchange^
+||tradingview.exchange^
 ||traffic.exchange^
 ||trust2pay.exchange^
 ||trusttether.exchange^
@@ -277,6 +269,7 @@
 ||voluntary.exchange^
 ||vtrade.exchange^
 ||vuelos.exchange^
+||vvela.exchange^
 ||weart.exchange^
 ||weblink.exchange^
 ||wgrow.exchange^
@@ -295,7 +288,6 @@
 ||xenon.exchange^
 ||xiyomi.exchange^
 ||xuzhou.exchange^
-||yard.exchange^
 ||yue.exchange^
 ||zenoz.exchange^
 ||zeroize.exchange^

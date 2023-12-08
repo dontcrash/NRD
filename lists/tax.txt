@@ -29,6 +29,7 @@
 ||charge.tax^
 ||collect.tax^
 ||controversy.tax^
+||credi.tax^
 ||currency.tax^
 ||dcom.tax^
 ||dixsondavis.tax^
@@ -55,7 +56,6 @@
 ||junan.tax^
 ||kinogo.tax^
 ||kkp.tax^
-||levinstaxlaw.tax^
 ||license-tax.tax^
 ||litigation.tax^
 ||lotusfinancial.tax^
@@ -67,7 +67,6 @@
 ||myirs.tax^
 ||mylawyer.tax^
 ||myteam.tax^
-||neat.tax^
 ||nepacpa.tax^
 ||neural.tax^
 ||notariusze.tax^
@@ -90,9 +89,11 @@
 ||smc.tax^
 ||statement.tax^
 ||staxer.tax^
+||stbv-formulare.tax^
 ||steinel.tax^
 ||stripchat.tax^
 ||tax-turbo-license.tax^
+||taxtalk.tax^
 ||taxtools.tax^
 ||tele.tax^
 ||telegram.tax^
@@ -102,6 +103,7 @@
 ||tomg.tax^
 ||top100.tax^
 ||tri.tax^
+||truthful.tax^
 ||turbo-tax.tax^
 ||turbotax-license.tax^
 ||valiotis.tax^

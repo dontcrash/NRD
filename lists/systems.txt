@@ -14,7 +14,6 @@
 ||air-plate-portal.systems^
 ||alaskan.systems^
 ||aligned.systems^
-||alio.systems^
 ||amarina.systems^
 ||amazonq.systems^
 ||amnesic.systems^
@@ -24,6 +23,7 @@
 ||antidote.systems^
 ||appraisal.systems^
 ||apx.systems^
+||apyeth.systems^
 ||aquatek.systems^
 ||arachne.systems^
 ||archi.systems^
@@ -36,11 +36,9 @@
 ||atomik.systems^
 ||automating.systems^
 ||aventus.systems^
-||avox.systems^
 ||awspartyrock.systems^
 ||axops.systems^
 ||b2go.systems^
-||badassaudio.systems^
 ||bally.systems^
 ||batterystorage.systems^
 ||baz.systems^
@@ -74,7 +72,6 @@
 ||charm.systems^
 ||chatgenie.systems^
 ||chenchen.systems^
-||chirality.systems^
 ||cignet.systems^
 ||cinemamovies.systems^
 ||cleanwater.systems^
@@ -92,7 +89,6 @@
 ||currencies.systems^
 ||cybersecurity.systems^
 ||cyberviking.systems^
-||dakine.systems^
 ||dakotabrewhouse.systems^
 ||dasig.systems^
 ||deltaenergy.systems^
@@ -107,7 +103,6 @@
 ||dvir.systems^
 ||dweb.systems^
 ||easypay.systems^
-||ebitda.systems^
 ||eco5.systems^
 ||edgevana.systems^
 ||efishery.systems^
@@ -120,7 +115,6 @@
 ||encryption.systems^
 ||enticing.systems^
 ||eof.systems^
-||eonic.systems^
 ||eot.systems^
 ||epos.systems^
 ||eqm.systems^
@@ -143,10 +137,10 @@
 ||folia.systems^
 ||forgemedia.systems^
 ||fortress.systems^
+||franchise.systems^
 ||geekiam.systems^
 ||gid.systems^
 ||gobeyond.systems^
-||gofarmers.systems^
 ||goldenhorse.systems^
 ||goodsteward.systems^
 ||gpts.systems^
@@ -169,7 +163,6 @@
 ||hurrdurr.systems^
 ||hydroponic.systems^
 ||hyphen.systems^
-||iago.systems^
 ||iav.systems^
 ||ichor.systems^
 ||idk.systems^
@@ -183,7 +176,6 @@
 ||jac.systems^
 ||jamigeo.systems^
 ||jarvi.systems^
-||jensen.systems^
 ||jetset.systems^
 ||jmd.systems^
 ||joho.systems^
@@ -205,9 +197,11 @@
 ||maidenlane.systems^
 ||mariosanchez.systems^
 ||mediaimpactexpert.systems^
+||metachaos.systems^
 ||mim.systems^
 ||mingatravel.systems^
 ||movo.systems^
+||mtechmail.systems^
 ||myapimongoshardreplication.systems^
 ||nahruplaceleptop.systems^
 ||nautilus-smart.systems^
@@ -215,7 +209,6 @@
 ||nctm.systems^
 ||ndev.systems^
 ||neonpixy.systems^
-||netforge.systems^
 ||neuralnexus.systems^
 ||neurophonic.systems^
 ||newatlantis.systems^
@@ -235,6 +228,7 @@
 ||offgridpower.systems^
 ||offgridwater.systems^
 ||oliveoil-moyclub.systems^
+||openset.systems^
 ||oraclehealth.systems^
 ||ore.systems^
 ||ozone.systems^
@@ -246,7 +240,6 @@
 ||payu.systems^
 ||permissionless.systems^
 ||phantom.systems^
-||phishingsimulation.systems^
 ||piatti.systems^
 ||pilogic.systems^
 ||pinecone.systems^
@@ -287,6 +280,7 @@
 ||scottishsecurity.systems^
 ||secura.systems^
 ||securityhome.systems^
+||see.systems^
 ||semantic.systems^
 ||sendit.systems^
 ||senior.systems^
@@ -320,12 +314,12 @@
 ||symmetry.systems^
 ||tacla.systems^
 ||talking.systems^
+||tangam.systems^
 ||tangle.systems^
 ||tayoku.systems^
 ||techmeetsnature.systems^
 ||techtalktrinity.systems^
 ||telenot.systems^
-||that.systems^
 ||thehideout.systems^
 ||thehub.systems^
 ||timi.systems^
@@ -340,14 +334,11 @@
 ||vampy.systems^
 ||vasut.systems^
 ||verkle.systems^
-||vertice.systems^
-||verticetech.systems^
 ||viridis.systems^
 ||vision2030.systems^
 ||voltz.systems^
 ||w4h.systems^
 ||walters.systems^
-||warrior.systems^
 ||waterfiltration.systems^
 ||waterpurification.systems^
 ||wavform.systems^
