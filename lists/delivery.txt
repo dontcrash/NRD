@@ -9,9 +9,11 @@
 ||areal.delivery^
 ||battery.delivery^
 ||betus.delivery^
+||blackfriday.delivery^
 ||booom.delivery^
 ||bulldozereat.delivery^
 ||caro.delivery^
+||carrylance.delivery^
 ||ch-paket.delivery^
 ||chatto.delivery^
 ||chronopost-mon-suivi.delivery^
@@ -19,14 +21,12 @@
 ||confirmed.delivery^
 ||corridor.delivery^
 ||csdn.delivery^
-||customs-anpost.delivery^
 ||cyberpunk.delivery^
 ||dads.delivery^
 ||darq.delivery^
 ||daughters.delivery^
 ||deliverama.delivery^
 ||deluxeexpress.delivery^
-||deutschepost-express.delivery^
 ||diary.delivery^
 ||digitalwatersolutions.delivery^
 ||discount.delivery^
@@ -61,6 +61,7 @@
 ||kasyno.delivery^
 ||kdysgchbsdvjsdkv.delivery^
 ||kuwaitflowers.delivery^
+||life.delivery^
 ||loterie.delivery^
 ||magazine.delivery^
 ||mangal.delivery^
@@ -91,13 +92,13 @@
 ||painless.delivery^
 ||panquecabrasileira.delivery^
 ||parimatch.delivery^
-||partyhub.delivery^
 ||pharm.delivery^
 ||picup.delivery^
 ||pin-up.delivery^
 ||plan.delivery^
 ||planet-express.delivery^
 ||playbeer.delivery^
+||pods.delivery^
 ||porn.delivery^
 ||post-check.delivery^
 ||pragueflowers.delivery^
@@ -106,7 +107,6 @@
 ||qorno.delivery^
 ||quito.delivery^
 ||r7.delivery^
-||rapidoor.delivery^
 ||raw.delivery^
 ||rawmilk.delivery^
 ||ri.delivery^
@@ -125,6 +125,7 @@
 ||srvicedhl.delivery^
 ||stake.delivery^
 ||stock.delivery^
+||studio.delivery^
 ||subscribe.delivery^
 ||suttonexpress.delivery^
 ||swap.delivery^
@@ -139,13 +140,10 @@
 ||tistory.delivery^
 ||track-post.delivery^
 ||trackorder.delivery^
-||tunnel.delivery^
 ||tupismo.delivery^
 ||uav.delivery^
 ||ue.delivery^
-||ultra.delivery^
 ||unattended.delivery^
-||underground.delivery^
 ||unitedexpressshipping.delivery^
 ||upoke.delivery^
 ||ups-colis.delivery^
@@ -153,7 +151,6 @@
 ||ups-express.delivery^
 ||ups-levering.delivery^
 ||ups-track-gr031108.delivery^
-||ups-tracking.delivery^
 ||uspscclient.delivery^
 ||veniceflowers.delivery^
 ||vietnamflowers.delivery^
@@ -167,6 +164,7 @@
 ||www-ze.delivery^
 ||xfood.delivery^
 ||yabox.delivery^
+||yougreen.delivery^
 ||zeeppy.delivery^
 ||zilch.delivery^
 ||zipcode.delivery^

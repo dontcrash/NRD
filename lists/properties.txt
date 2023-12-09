@@ -18,6 +18,7 @@
 ||blackstone.properties^
 ||bluechaconia.properties^
 ||bojo.properties^
+||bot.properties^
 ||brampton.properties^
 ||bridgestreet.properties^
 ||burgundy.properties^
@@ -43,6 +44,8 @@
 ||database.properties^
 ||dawnvalley.properties^
 ||dba.properties^
+||dedicatedanddesigned.properties^
+||delsur.properties^
 ||designspark.properties^
 ||doorway.properties^
 ||ducasa.properties^
@@ -64,7 +67,6 @@
 ||gilman.properties^
 ||goal1.properties^
 ||golfcrazy.properties^
-||googler.properties^
 ||gpts.properties^
 ||greenandgold.properties^
 ||grok.properties^
@@ -73,7 +75,7 @@
 ||helmsrealestate.properties^
 ||hgp.properties^
 ||homeawayfromhome.properties^
-||homecraftinstallations.properties^
+||honeycomb.properties^
 ||hotmart.properties^
 ||iberian.properties^
 ||idealhomeinspections.properties^
@@ -97,7 +99,6 @@
 ||loterie.properties^
 ||lr.properties^
 ||luna.properties^
-||luxuryhomes.properties^
 ||mantra.properties^
 ||marketonline.properties^
 ||markets.properties^
@@ -112,7 +113,6 @@
 ||namrita.properties^
 ||namu.properties^
 ||navigator.properties^
-||nayarrealty.properties^
 ||neptune.properties^
 ||neverland.properties^
 ||newmark.properties^
@@ -138,6 +138,7 @@
 ||rwas.properties^
 ||sabens.properties^
 ||sail.properties^
+||saintlouis.properties^
 ||saltworks.properties^
 ||santaoliva.properties^
 ||seven.properties^
@@ -177,6 +178,6 @@
 ||waxwing.properties^
 ||wbny.properties^
 ||wendyrealtor.properties^
+||weshare.properties^
 ||wiregrasshomeheroes.properties^
 ||woman.properties^
-||xesquarecapital.properties^

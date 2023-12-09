@@ -1,13 +1,13 @@
 ||aave-protocol.claims^
 ||airline.claims^
 ||anpost.claims^
+||billionaire.claims^
 ||bitcoin.claims^
 ||blast-io.claims^
 ||businessutility.claims^
 ||ca.claims^
 ||cargo.claims^
 ||case.claims^
-||cash.claims^
 ||certeurope.claims^
 ||certifiedpublicadjuster.claims^
 ||chain-link.claims^
@@ -26,6 +26,7 @@
 ||eth-gift.claims^
 ||expense.claims^
 ||eye.claims^
+||f.claims^
 ||fantom.claims^
 ||flpersonalinjury.claims^
 ||ftx-lawsuit.claims^
@@ -88,7 +89,6 @@
 ||unsubstantiated.claims^
 ||verasity-io.claims^
 ||vulcanforged.claims^
-||warcrimes.claims^
 ||washingtonadjusters.claims^
 ||xrp.claims^
 ||ycombinator.claims^

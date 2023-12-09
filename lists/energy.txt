@@ -3,7 +3,6 @@
 ||1o.energy^
 ||3kf.energy^
 ||4en.energy^
-||5k.energy^
 ||acid.energy^
 ||acre.energy^
 ||acres4.energy^
@@ -26,6 +25,8 @@
 ||applied.energy^
 ||aquila.energy^
 ||asplundh.energy^
+||athens.energy^
+||athlon.energy^
 ||atp.energy^
 ||audinforsystem.energy^
 ||bahia.energy^
@@ -69,7 +70,6 @@
 ||dn.energy^
 ||don.energy^
 ||drink7.energy^
-||dunkelflaute.energy^
 ||e4ev.energy^
 ||ebreeze.energy^
 ||ecogaseluce.energy^
@@ -95,6 +95,7 @@
 ||evoly.energy^
 ||fanfare.energy^
 ||fb.energy^
+||flextinder.energy^
 ||flint.energy^
 ||flix.energy^
 ||flowx.energy^
@@ -103,6 +104,7 @@
 ||fundgreen.energy^
 ||futureafrica.energy^
 ||gbf.energy^
+||gengalactic.energy^
 ||geniusenergy.energy^
 ||gijs.energy^
 ||goo.energy^
@@ -143,7 +145,6 @@
 ||kosmos.energy^
 ||kps.energy^
 ||kranebio.energy^
-||krhron.energy^
 ||ksi.energy^
 ||landscape.energy^
 ||latos.energy^
@@ -162,7 +163,7 @@
 ||mkhwind.energy^
 ||mondtal.energy^
 ||monument.energy^
-||moorgenstern.energy^
+||mote.energy^
 ||msk.energy^
 ||mto.energy^
 ||mye.energy^
@@ -187,24 +188,21 @@
 ||parkwest.energy^
 ||paschal.energy^
 ||pci.energy^
-||permianrenewables.energy^
+||pecpak.energy^
 ||pipedreams.energy^
 ||planetenergy.energy^
 ||platinum.energy^
 ||playground.energy^
 ||podcast.energy^
-||possiblewith.energy^
 ||powerappultra.energy^
 ||powerboxx.energy^
 ||poweredchrismas.energy^
 ||powernap.energy^
 ||powerproject.energy^
-||pr2.energy^
 ||propel.energy^
 ||providence.energy^
 ||pullman.energy^
 ||puresource.energy^
-||pushflow.energy^
 ||quantumedge.energy^
 ||queen.energy^
 ||redding.energy^
@@ -221,12 +219,14 @@
 ||rt.energy^
 ||rwa.energy^
 ||schaefer.energy^
+||schenke.energy^
 ||securepowerint.energy^
 ||sgrenewables.energy^
 ||shepherdindustrial.energy^
 ||shibainu.energy^
 ||sige.energy^
 ||sight.energy^
+||smackover.energy^
 ||small.energy^
 ||smartbusiness.energy^
 ||smartgrid.energy^
@@ -253,6 +253,7 @@
 ||synkee.energy^
 ||systemics.energy^
 ||tantric.energy^
+||tech2.energy^
 ||ted.energy^
 ||tending.energy^
 ||tetrahydron.energy^
@@ -260,7 +261,6 @@
 ||therisingsun.energy^
 ||thinkmirai.energy^
 ||thy-hydroport-official.energy^
-||tiara.energy^
 ||trajectory.energy^
 ||trinityvoltaic.energy^
 ||trynytywind.energy^
@@ -278,7 +278,6 @@
 ||vireo.energy^
 ||vision2030.energy^
 ||voco.energy^
-||volthome.energy^
 ||watchmovies.energy^
 ||wattplus.energy^
 ||wattsinsightlab.energy^

@@ -23,7 +23,6 @@
 ||ailab.health^
 ||ailabs.health^
 ||aiomega.health^
-||aliasherbal.health^
 ||alphakaiomega.health^
 ||alwa.health^
 ||alzheimers.health^
@@ -82,7 +81,6 @@
 ||bulimia.health^
 ||bycore.health^
 ||ca.health^
-||cairsuite.health^
 ||canbee.health^
 ||cancer.health^
 ||cancers.health^
@@ -111,6 +109,7 @@
 ||cms.health^
 ||cns.health^
 ||codoc.health^
+||cognition.health^
 ||cold.health^
 ||coldplunge.health^
 ||coleman.health^
@@ -223,6 +222,7 @@
 ||gynecology.health^
 ||hackhydration.health^
 ||halik.health^
+||hammerhead.health^
 ||healthqor.health^
 ||heart.health^
 ||hemorrhoid.health^
@@ -232,11 +232,12 @@
 ||hipe.health^
 ||hiveinsights.health^
 ||hopscotch.health^
-||hormony.health^
 ||horse.health^
 ||hospitals.health^
 ||huaqitrade.health^
 ||humetrics.health^
+||ibd.health^
+||icecold.health^
 ||ichra.health^
 ||ikariajuice.health^
 ||illumine.health^
@@ -349,10 +350,8 @@
 ||myic.health^
 ||myndstrong.health^
 ||myphoenix.health^
-||myplacecarepartners.health^
 ||mystack.health^
 ||ndp.health^
-||necto.health^
 ||neurologic.health^
 ||newday.health^
 ||news.health^
@@ -368,7 +367,6 @@
 ||np.health^
 ||nphies.health^
 ||nu.health^
-||nurseai.health^
 ||nutricionista.health^
 ||nyc.health^
 ||oa.health^
@@ -382,7 +380,6 @@
 ||omlysa.health^
 ||omyx.health^
 ||one.health^
-||onewell.health^
 ||onlinepharmacy.health^
 ||orbimed.health^
 ||otc.health^
@@ -431,12 +428,14 @@
 ||psychiatry.health^
 ||psychology.health^
 ||pulmonary.health^
+||pwz.health^
 ||quitforlife.health^
 ||rapidkd.health^
 ||rapidkdhcp.health^
 ||rapidknowdown.health^
 ||rapidknowdownhcp.health^
 ||rapidrepair.health^
+||rdi.health^
 ||re.health^
 ||reallygoodbenefits.health^
 ||records.health^
@@ -465,8 +464,8 @@
 ||sf.health^
 ||sh.health^
 ||sheep.health^
+||shop.health^
 ||sightsaver.health^
-||siliconworks.health^
 ||skincancer.health^
 ||sleep.health^
 ||sleepapnea.health^
@@ -489,6 +488,7 @@
 ||surgery.health^
 ||swiftly.health^
 ||taco.health^
+||tanuki.health^
 ||team.health^
 ||teams.health^
 ||tele.health^
@@ -499,6 +499,7 @@
 ||thebeacon.health^
 ||thehealingcircle.health^
 ||thehelm.health^
+||thewoodlands.health^
 ||throat.health^
 ||throatcancer.health^
 ||thyroidcancer.health^
@@ -512,6 +513,7 @@
 ||treeoflife.health^
 ||tuberculosis.health^
 ||tumor.health^
+||u.health^
 ||ultimatehuman.health^
 ||unbound.health^
 ||unchi.health^
@@ -523,6 +525,7 @@
 ||urology.health^
 ||us.health^
 ||usda.health^
+||userfirst.health^
 ||usko.health^
 ||v-smart.health^
 ||vaccine.health^
@@ -551,11 +554,13 @@
 ||willgibson.health^
 ||willow-labs.health^
 ||wwwpocket.health^
+||x.health^
 ||xplain.health^
 ||y.health^
 ||yearly.health^
 ||yiha.health^
 ||yinflow.health^
 ||you.health^
+||youmove.health^
 ||yuvanesse.health^
 ||zolve.health^

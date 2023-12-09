@@ -10,6 +10,7 @@
 ||aspiredproperty.management^
 ||asv.management^
 ||awrak.management^
+||backlog.management^
 ||bancolombia.management^
 ||befirst.management^
 ||bezdelnik.management^
@@ -50,6 +51,7 @@
 ||globalexpress.management^
 ||greatass.management^
 ||gsp.management^
+||gymnastics.management^
 ||hardware-requirements.management^
 ||hotmart.management^
 ||hubs.management^
@@ -60,7 +62,6 @@
 ||kasino.management^
 ||keystonerealty.management^
 ||klubb.management^
-||kosmos.management^
 ||legalops.management^
 ||legalproject.management^
 ||letting.management^
@@ -71,6 +72,7 @@
 ||mails-protection-mimemcast-outlook.management^
 ||makebelieve.management^
 ||mambamentality.management^
+||mdcdiesel.management^
 ||metamusic.management^
 ||mmie.management^
 ||msi.management^
@@ -82,6 +84,7 @@
 ||office365-microsoft365.management^
 ||olive.management^
 ||our.management^
+||pacifica.management^
 ||pandemonium.management^
 ||parimatch.management^
 ||payne.management^
@@ -108,11 +111,11 @@
 ||selfmail-outlook-mimemcast-protection.management^
 ||selfmail-protection-mimemcast-outlook.management^
 ||sender-protection-mimemcast-outlook.management^
+||sendmail-protection-mimemcast-outlook.management^
 ||shopee.management^
 ||sigston.management^
 ||sixstring.management^
 ||skin.management^
-||sla.management^
 ||sleep.management^
 ||sportybet.management^
 ||srla.management^
