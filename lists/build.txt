@@ -15,7 +15,6 @@
 ||caisson.build^
 ||cocoa.build^
 ||comwork.build^
-||cornerstone.build^
 ||deckforge.build^
 ||dotfile.build^
 ||echtfab.build^
@@ -41,7 +40,6 @@
 ||reflex.build^
 ||replicator.build^
 ||rigawa.build^
-||rubble.build^
 ||savvy.build^
 ||secondbrain.build^
 ||segmentlocal.build^
