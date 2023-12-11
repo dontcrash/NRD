@@ -33,7 +33,6 @@
 ||catman.training^
 ||cbs8.training^
 ||cfg.training^
-||cmt-communicate.training^
 ||coachep.training^
 ||coachingpnl.training^
 ||combrella.training^
@@ -95,7 +94,6 @@
 ||insightfulcommunication.training^
 ||insilico.training^
 ||inspiro.training^
-||instruct.training^
 ||interworks.training^
 ||jacobs.training^
 ||jencol.training^
@@ -120,14 +118,13 @@
 ||loli.training^
 ||loveandjusticeconquerall.training^
 ||lucidlms.training^
-||marketingmagic.training^
 ||martafrances.training^
 ||mashmanventures.training^
 ||medina.training^
 ||mensch-und-ai.training^
 ||menschundai.training^
 ||meridian.training^
-||michigansales.training^
+||metz.training^
 ||midlandtrainingcenter.training^
 ||miziwebiik.training^
 ||modernseller.training^
@@ -172,9 +169,7 @@
 ||stevens.training^
 ||stripchat.training^
 ||supermodel.training^
-||sustainable.training^
 ||swimhouse.training^
-||taylortight.training^
 ||teameagleone.training^
 ||techlabs.training^
 ||techtouchdown.training^
@@ -196,6 +191,7 @@
 ||updog.training^
 ||usagov.training^
 ||vectorizer.training^
+||vender.training^
 ||veritas.training^
 ||veterans.training^
 ||videoproduction.training^

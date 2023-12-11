@@ -20,6 +20,7 @@
 ||goods.broker^
 ||gpts.broker^
 ||handlr.broker^
+||happy.broker^
 ||henray.broker^
 ||ichra.broker^
 ||il.broker^
@@ -42,7 +43,6 @@
 ||pt.broker^
 ||raps.broker^
 ||remote.broker^
-||sample.broker^
 ||search.broker^
 ||sg.broker^
 ||skins.broker^

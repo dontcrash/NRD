@@ -2,7 +2,6 @@
 ||aboveboard.builders^
 ||agents.builders^
 ||agile.builders^
-||akash.builders^
 ||amateur.builders^
 ||apex.builders^
 ||aplus.builders^
@@ -17,6 +16,7 @@
 ||capitol.builders^
 ||cheetah.builders^
 ||classical.builders^
+||clientele.builders^
 ||coleman.builders^
 ||core.builders^
 ||cscs.builders^
@@ -37,7 +37,6 @@
 ||gptbot.builders^
 ||gpts.builders^
 ||greenbuilding.builders^
-||grok.builders^
 ||hair.builders^
 ||highlevel.builders^
 ||hillsidehome.builders^
@@ -51,7 +50,6 @@
 ||messenger.builders^
 ||meta-verse.builders^
 ||midnight.builders^
-||nexus.builders^
 ||nft.builders^
 ||norwegian.builders^
 ||olivine.builders^
@@ -75,7 +73,6 @@
 ||thelott.builders^
 ||trustworthy.builders^
 ||utica.builders^
-||watch.builders^
 ||whitchurch.builders^
 ||williamhill.builders^
 ||yourgpt.builders^

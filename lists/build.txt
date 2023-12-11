@@ -19,7 +19,6 @@
 ||dotfile.build^
 ||echtfab.build^
 ||founderup.build^
-||gpts.build^
 ||grapl.build^
 ||groseandmanz.build^
 ||integrations.build^
@@ -40,6 +39,7 @@
 ||reflex.build^
 ||replicator.build^
 ||rigawa.build^
+||river.build^
 ||savvy.build^
 ||secondbrain.build^
 ||segmentlocal.build^
@@ -57,7 +57,6 @@
 ||swerve.build^
 ||sync.build^
 ||tailoredliving.build^
-||thesys.build^
 ||township.build^
 ||truedup.build^
 ||tvix.build^

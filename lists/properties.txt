@@ -2,7 +2,7 @@
 ||ada.properties^
 ||adamson.properties^
 ||allcommercial.properties^
-||arts.properties^
+||alta.properties^
 ||asok.properties^
 ||aspiredmanagements.properties^
 ||aspiredproperties.properties^
@@ -16,16 +16,15 @@
 ||bjyama.properties^
 ||blackstone.properties^
 ||bluechaconia.properties^
-||bojo.properties^
 ||bot.properties^
 ||brampton.properties^
 ||bridgestreet.properties^
-||burgundy.properties^
 ||buyinvestment.properties^
 ||casinoplus.properties^
 ||cavendish.properties^
 ||cebu.properties^
 ||charlevoix.properties^
+||chinasl.properties^
 ||choice.properties^
 ||cityhost.properties^
 ||coastalhaus.properties^
@@ -70,6 +69,7 @@
 ||headwater.properties^
 ||helmsrealestate.properties^
 ||hgp.properties^
+||hillhaven.properties^
 ||homeawayfromhome.properties^
 ||honeycomb.properties^
 ||hotmart.properties^
@@ -86,7 +86,6 @@
 ||kingsarms.properties^
 ||kingsway.properties^
 ||kowal.properties^
-||kwsearch.properties^
 ||landlords.properties^
 ||lapis.properties^
 ||lifestylehomes.properties^
@@ -175,3 +174,4 @@
 ||weshare.properties^
 ||wiregrasshomeheroes.properties^
 ||woman.properties^
+||zambias.properties^

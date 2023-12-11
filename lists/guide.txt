@@ -26,7 +26,6 @@
 ||autoaccident.guide^
 ||aviators.guide^
 ||aviia.guide^
-||azubi-tools.guide^
 ||banker.guide^
 ||bankruptcy.guide^
 ||bbg.guide^
@@ -45,6 +44,7 @@
 ||cigars.guide^
 ||city-story.guide^
 ||citystory.guide^
+||citytravel.guide^
 ||ck3norse.guide^
 ||classic.guide^
 ||clipart.guide^
@@ -126,7 +126,8 @@
 ||hoster.guide^
 ||housekeepers.guide^
 ||howtomakeeasymoney.guide^
-||huelvatravel.guide^
+||howtoquit.guide^
+||howtostop.guide^
 ||hull.guide^
 ||hypertension.guide^
 ||hypr.guide^
@@ -210,7 +211,6 @@
 ||pragmatic.guide^
 ||private-chernobyl.guide^
 ||privateschool.guide^
-||psychedjourney.guide^
 ||psychic-glympse.guide^
 ||puf.guide^
 ||pulsechain.guide^
@@ -225,6 +225,7 @@
 ||rsp.guide^
 ||russe.guide^
 ||rvs.guide^
+||sabbaticalplanning.guide^
 ||sardinian.guide^
 ||schengenvisa.guide^
 ||schule.guide^
@@ -245,6 +246,7 @@
 ||soultravel.guide^
 ||spectator.guide^
 ||spiele.guide^
+||spiritualretreat.guide^
 ||stablediffusion.guide^
 ||stackernews.guide^
 ||starspawn.guide^
@@ -263,6 +265,8 @@
 ||thecoin.guide^
 ||thecomplete.guide^
 ||thedownbad.guide^
+||thehuman.guide^
+||thehumans.guide^
 ||theinsurance.guide^
 ||theinvesting.guide^
 ||theoverland.guide^
@@ -298,13 +302,11 @@
 ||webdeveloper.guide^
 ||webhoster.guide^
 ||webspace.guide^
-||weihnachtsmarkt.guide^
 ||westerross.guide^
 ||wheretobuy.guide^
 ||wicca.guide^
 ||wikiart.guide^
 ||worship.guide^
-||xworld.guide^
 ||yidali.guide^
 ||yoga-nidra.guide^
 ||youridea.guide^

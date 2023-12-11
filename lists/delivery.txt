@@ -30,6 +30,7 @@
 ||discount.delivery^
 ||dostavka24.delivery^
 ||e-sense.delivery^
+||ecofriendly.delivery^
 ||ecorn.delivery^
 ||esense.delivery^
 ||expresslivery.delivery^
@@ -84,6 +85,7 @@
 ||onetap.delivery^
 ||optimus.delivery^
 ||optional.delivery^
+||packrat.delivery^
 ||painless.delivery^
 ||panquecabrasileira.delivery^
 ||parimatch.delivery^
@@ -108,7 +110,7 @@
 ||rockstar.delivery^
 ||samuraihibachigrillla.delivery^
 ||segewe-co.delivery^
-||ship-parcel-qa.delivery^
+||shipshape.delivery^
 ||shoe.delivery^
 ||sms-panel.delivery^
 ||sneaker.delivery^
@@ -131,6 +133,8 @@
 ||timetoeat.delivery^
 ||tinder.delivery^
 ||tistory.delivery^
+||todays.delivery^
+||tomorrows.delivery^
 ||track-post.delivery^
 ||trackorder.delivery^
 ||uav.delivery^
