@@ -5,6 +5,7 @@
 ||60sec.exchange^
 ||6810.exchange^
 ||7749.exchange^
+||789.exchange^
 ||aedc.exchange^
 ||aequinox.exchange^
 ||aero.exchange^
@@ -48,9 +49,7 @@
 ||boomerang.exchange^
 ||botan.exchange^
 ||boxing.exchange^
-||brisc.exchange^
 ||btcsale.exchange^
-||btigerswap.exchange^
 ||bull-b.exchange^
 ||bullb.exchange^
 ||bungeeee.exchange^
@@ -58,7 +57,7 @@
 ||buungeee.exchange^
 ||bypasserc.exchange^
 ||canto.exchange^
-||car.exchange^
+||carbonmarket.exchange^
 ||cash-back.exchange^
 ||cbg.exchange^
 ||cefi.exchange^
@@ -126,6 +125,7 @@
 ||gamify.exchange^
 ||gasles.exchange^
 ||gasless.exchange^
+||gem.exchange^
 ||gemlink.exchange^
 ||generaly.exchange^
 ||getmoney.exchange^
@@ -136,7 +136,6 @@
 ||gulfbinance.exchange^
 ||handle.exchange^
 ||handmade.exchange^
-||hashtag.exchange^
 ||helixgaia.exchange^
 ||hitro.exchange^
 ||hkdr.exchange^
@@ -145,6 +144,7 @@
 ||hongkongstablecoin.exchange^
 ||hpc.exchange^
 ||hytale.exchange^
+||ice.exchange^
 ||idx.exchange^
 ||impactinvestment.exchange^
 ||inex.exchange^
@@ -175,7 +175,6 @@
 ||lvm.exchange^
 ||mailserver.exchange^
 ||malgo.exchange^
-||maya.exchange^
 ||mdrx.exchange^
 ||metaquests.exchange^
 ||metri.exchange^
@@ -193,13 +192,13 @@
 ||myinsurance.exchange^
 ||nanjing.exchange^
 ||nanocommodity.exchange^
-||nemukaeth.exchange^
 ||neonest.exchange^
 ||newton.exchange^
 ||nite.exchange^
 ||noones.exchange^
 ||nostro.exchange^
 ||novus.exchange^
+||novuscrypto.exchange^
 ||nuchain.exchange^
 ||nyxswap.exchange^
 ||opencollab.exchange^
@@ -225,8 +224,10 @@
 ||qx.exchange^
 ||rainbow.exchange^
 ||recife.exchange^
+||redtube.exchange^
 ||rewards-dydx.exchange^
 ||rfx.exchange^
+||rockctx.exchange^
 ||rta.exchange^
 ||rutor.exchange^
 ||safariexchangeprogram.exchange^
@@ -236,6 +237,7 @@
 ||satsat.exchange^
 ||scot.exchange^
 ||seif.exchange^
+||serv.exchange^
 ||shekel.exchange^
 ||siga.exchange^
 ||simulator.exchange^
@@ -253,13 +255,15 @@
 ||syncswap-io.exchange^
 ||tauprotocol.exchange^
 ||tea-swap.exchange^
+||thebad.exchange^
+||thegoods.exchange^
 ||theinsurance.exchange^
 ||thesis.exchange^
+||theugly.exchange^
 ||tianjin.exchange^
 ||tire.exchange^
 ||tmi.exchange^
 ||tnt.exchange^
-||tradelot.exchange^
 ||tradingview.exchange^
 ||traffic.exchange^
 ||trust2pay.exchange^

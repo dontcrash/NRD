@@ -1,9 +1,7 @@
 ||aecosystem.build^
 ||assistants.build^
 ||asterism.build^
-||atomic.build^
 ||backyard.build^
-||barcode.build^
 ||bellrise.build^
 ||bennettbuilt.build^
 ||bestnew.build^
@@ -18,9 +16,12 @@
 ||deckforge.build^
 ||dotfile.build^
 ||echtfab.build^
+||esim.build^
 ||founderup.build^
+||gem.build^
 ||grapl.build^
 ||groseandmanz.build^
+||hit.build^
 ||integrations.build^
 ||itec.build^
 ||join-linea.build^
@@ -46,6 +47,7 @@
 ||shai.build^
 ||skylineconstructioninc.build^
 ||smartwall.build^
+||spacebar.build^
 ||steelcoconstruction.build^
 ||stigmergy.build^
 ||stripchat.build^
