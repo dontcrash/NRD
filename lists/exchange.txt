@@ -1,6 +1,7 @@
 ||1.exchange^
 ||2bears.exchange^
 ||3192.exchange^
+||365cash.exchange^
 ||5189.exchange^
 ||60sec.exchange^
 ||6810.exchange^
@@ -60,7 +61,6 @@
 ||carbonmarket.exchange^
 ||cash-back.exchange^
 ||cbg.exchange^
-||cefi.exchange^
 ||celestia.exchange^
 ||changchun.exchange^
 ||chartrage.exchange^
@@ -76,6 +76,7 @@
 ||countryhome.exchange^
 ||countryhouse.exchange^
 ||cpcoin.exchange^
+||crdep.exchange^
 ||croc.exchange^
 ||crypthub.exchange^
 ||cryptonote.exchange^
@@ -98,6 +99,7 @@
 ||eagonswap.exchange^
 ||easyrehaf.exchange^
 ||echarge.exchange^
+||econody.exchange^
 ||eigenlayer.exchange^
 ||emx.exchange^
 ||enox.exchange^
@@ -137,7 +139,6 @@
 ||handle.exchange^
 ||handmade.exchange^
 ||helixgaia.exchange^
-||hitro.exchange^
 ||hkdr.exchange^
 ||hkstablecoin.exchange^
 ||homeinsurance.exchange^
@@ -150,7 +151,6 @@
 ||inex.exchange^
 ||installing.exchange^
 ||iptv.exchange^
-||ipv6.exchange^
 ||iqex.exchange^
 ||islamic.exchange^
 ||jamonswap.exchange^
@@ -169,6 +169,7 @@
 ||lionsgate.exchange^
 ||livecoin.exchange^
 ||llamas.exchange^
+||lord.exchange^
 ||lowfee.exchange^
 ||luxury.exchange^
 ||luxuryhome.exchange^
@@ -206,9 +207,7 @@
 ||orbitfxtrade.exchange^
 ||ore.exchange^
 ||p2pgram.exchange^
-||pancakerewards.exchange^
 ||paperhands.exchange^
-||parkingspace.exchange^
 ||payapa.exchange^
 ||payfull.exchange^
 ||payr.exchange^
@@ -220,7 +219,6 @@
 ||proto.exchange^
 ||prudent.exchange^
 ||ptoken.exchange^
-||quofix.exchange^
 ||qx.exchange^
 ||rainbow.exchange^
 ||recife.exchange^
@@ -228,6 +226,7 @@
 ||rewards-dydx.exchange^
 ||rfx.exchange^
 ||rockctx.exchange^
+||rocket-x.exchange^
 ||rta.exchange^
 ||rutor.exchange^
 ||safariexchangeprogram.exchange^
@@ -250,11 +249,13 @@
 ||stateinsurance.exchange^
 ||stok.exchange^
 ||stripchat.exchange^
+||sun88.exchange^
 ||suni.exchange^
 ||switchx.exchange^
 ||syncswap-io.exchange^
 ||tauprotocol.exchange^
 ||tea-swap.exchange^
+||tep.exchange^
 ||thebad.exchange^
 ||thegoods.exchange^
 ||theinsurance.exchange^
@@ -268,6 +269,7 @@
 ||traffic.exchange^
 ||trust2pay.exchange^
 ||trusttether.exchange^
+||tubular.exchange^
 ||tyre.exchange^
 ||unco.exchange^
 ||unicash.exchange^

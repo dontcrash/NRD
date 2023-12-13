@@ -15,12 +15,10 @@
 ||caboodle.delivery^
 ||caro.delivery^
 ||carrylance.delivery^
-||ch-paket.delivery^
 ||chatto.delivery^
 ||chronopost-mon-suivi.delivery^
 ||clubve.delivery^
 ||confirmed.delivery^
-||corridor.delivery^
 ||cosmc.delivery^
 ||csdn.delivery^
 ||cybermonday.delivery^
@@ -39,6 +37,8 @@
 ||fastlink.delivery^
 ||foodnation.delivery^
 ||forest.delivery^
+||fortcollins.delivery^
+||fortcollinsfood.delivery^
 ||free-day.delivery^
 ||freeday.delivery^
 ||freshtoday.delivery^
@@ -51,7 +51,6 @@
 ||ilhabela.delivery^
 ||invoga.delivery^
 ||isp.delivery^
-||jun88.delivery^
 ||kakao.delivery^
 ||kasino.delivery^
 ||kasyno.delivery^
@@ -73,6 +72,7 @@
 ||mush.delivery^
 ||mushrush.delivery^
 ||najmae.delivery^
+||newyorkcannabis.delivery^
 ||nextdaywork.delivery^
 ||nextmonths.delivery^
 ||nextweeks.delivery^
@@ -95,6 +95,7 @@
 ||playbeer.delivery^
 ||pods.delivery^
 ||porn.delivery^
+||ppe.delivery^
 ||pragueflowers.delivery^
 ||prontopappa.delivery^
 ||puravive.delivery^
@@ -102,7 +103,6 @@
 ||quito.delivery^
 ||r7.delivery^
 ||raw.delivery^
-||rawmilk.delivery^
 ||ri.delivery^
 ||ripe.delivery^
 ||rockstar.delivery^
@@ -122,6 +122,7 @@
 ||stock.delivery^
 ||studio.delivery^
 ||subscribe.delivery^
+||sun88.delivery^
 ||suttonexpress.delivery^
 ||swap.delivery^
 ||swiftkargoexpress.delivery^
@@ -148,6 +149,7 @@
 ||ups-levering.delivery^
 ||ups-track-gr031108.delivery^
 ||uspscclient.delivery^
+||vegascannabis.delivery^
 ||veniceflowers.delivery^
 ||vietnamflowers.delivery^
 ||vision2030.delivery^

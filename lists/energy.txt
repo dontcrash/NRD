@@ -8,13 +8,11 @@
 ||acid.energy^
 ||acre.energy^
 ||acres4.energy^
-||activation.energy^
 ||adm.energy^
 ||adon.energy^
 ||agt.energy^
 ||akeena.energy^
 ||alma-solar.energy^
-||alpin.energy^
 ||altis.energy^
 ||amao.energy^
 ||ampforce.energy^
@@ -41,6 +39,7 @@
 ||bdb.energy^
 ||beulah.energy^
 ||bigdickenergy24.energy^
+||bigdork.energy^
 ||blackrock.energy^
 ||bluechew.energy^
 ||bmr.energy^
@@ -114,7 +113,6 @@
 ||greenbuzz.energy^
 ||greenco.energy^
 ||greencube.energy^
-||greengroup.energy^
 ||grnyld.energy^
 ||h2transport.energy^
 ||harrison.energy^
@@ -147,10 +145,8 @@
 ||kosmos.energy^
 ||kps.energy^
 ||kremlin.energy^
-||landscape.energy^
 ||latos.energy^
 ||lazarus.energy^
-||lifebalance.energy^
 ||livingflow.energy^
 ||lowdown.energy^
 ||luck.energy^
@@ -163,9 +159,9 @@
 ||milloin.energy^
 ||miningrace.energy^
 ||mkhwind.energy^
-||mondtal.energy^
 ||monument.energy^
 ||mote.energy^
+||movable.energy^
 ||msk.energy^
 ||mto.energy^
 ||mye.energy^
@@ -177,7 +173,6 @@
 ||neotribe.energy^
 ||net3.energy^
 ||newmoonwellness.energy^
-||newtimes.energy^
 ||nuiuu.energy^
 ||nxt.energy^
 ||oceanbatt.energy^
@@ -189,6 +184,7 @@
 ||paschal.energy^
 ||pci.energy^
 ||pecpak.energy^
+||phasewave.energy^
 ||pipedreams.energy^
 ||planetenergy.energy^
 ||platinum.energy^
@@ -202,7 +198,6 @@
 ||propel.energy^
 ||providence.energy^
 ||pullman.energy^
-||puresource.energy^
 ||quantumedge.energy^
 ||queen.energy^
 ||redding.energy^
@@ -212,7 +207,6 @@
 ||resacs.energy^
 ||reservepetroleumplc.energy^
 ||restart.energy^
-||rollup.energy^
 ||rorison.energy^
 ||rpd.energy^
 ||rt.energy^
@@ -233,7 +227,6 @@
 ||solar-island.energy^
 ||solarent.energy^
 ||solarrent.energy^
-||solarrevolution.energy^
 ||solas.energy^
 ||sourceresonance.energy^
 ||spacexp.energy^
@@ -268,8 +261,6 @@
 ||turquoise.energy^
 ||uanode.energy^
 ||unlimitedenergy.energy^
-||valex.energy^
-||valsania.energy^
 ||vek.energy^
 ||verdius.energy^
 ||vireo.energy^

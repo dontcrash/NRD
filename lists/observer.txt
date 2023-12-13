@@ -50,7 +50,6 @@
 ||cibc.observer^
 ||clarin.observer^
 ||coinmarketcap.observer^
-||communication.observer^
 ||comstar.observer^
 ||conectate.observer^
 ||config.observer^
@@ -204,6 +203,7 @@
 ||sportsbet.observer^
 ||sportybet.observer^
 ||stress.observer^
+||sun88.observer^
 ||syf.observer^
 ||syosetu.observer^
 ||t-online.observer^
