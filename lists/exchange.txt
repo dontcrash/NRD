@@ -65,6 +65,7 @@
 ||changchun.exchange^
 ||chartrage.exchange^
 ||childsupport.exchange^
+||cinema.exchange^
 ||cinta.exchange^
 ||claim-multibit.exchange^
 ||clip.exchange^
@@ -95,6 +96,7 @@
 ||drachma.exchange^
 ||dragons.exchange^
 ||dttd.exchange^
+||dualbit.exchange^
 ||dydx-trade.exchange^
 ||eagonswap.exchange^
 ||easyrehaf.exchange^
@@ -102,6 +104,8 @@
 ||econody.exchange^
 ||eigenlayer.exchange^
 ||emx.exchange^
+||endurance.exchange^
+||eneftee.exchange^
 ||enox.exchange^
 ||eric.exchange^
 ||eris.exchange^
@@ -115,6 +119,7 @@
 ||fin.exchange^
 ||fineart.exchange^
 ||finecon.exchange^
+||finetunes.exchange^
 ||fireball.exchange^
 ||firstratehospitality.exchange^
 ||foodsafety.exchange^
@@ -165,6 +170,7 @@
 ||lead-data.exchange^
 ||leumia.exchange^
 ||liido.exchange^
+||lionex.exchange^
 ||liongate.exchange^
 ||lionsgate.exchange^
 ||livecoin.exchange^
@@ -291,9 +297,6 @@
 ||wgrow.exchange^
 ||win.exchange^
 ||wintap.exchange^
-||wombate.exchange^
-||wombats.exchange^
-||womebat.exchange^
 ||womebet.exchange^
 ||workflow.exchange^
 ||world.exchange^
@@ -312,4 +315,3 @@
 ||zigszag.exchange^
 ||zkcross.exchange^
 ||zombie.exchange^
-||zonex.exchange^

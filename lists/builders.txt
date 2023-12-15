@@ -8,7 +8,6 @@
 ||aplus.builders^
 ||apollo.builders^
 ||arboreal.builders^
-||architectural.builders^
 ||arise.builders^
 ||article.builders^
 ||bcgame.builders^
@@ -36,7 +35,6 @@
 ||gem.builders^
 ||gohighlevel.builders^
 ||gptbot.builders^
-||gpts.builders^
 ||greenbuilding.builders^
 ||hair.builders^
 ||highlevel.builders^
@@ -51,12 +49,14 @@
 ||messenger.builders^
 ||meta-verse.builders^
 ||midnight.builders^
+||monarch.builders^
 ||nft.builders^
 ||norwegian.builders^
 ||olivine.builders^
 ||premiums.builders^
 ||promptbyprompt.builders^
 ||qstar.builders^
+||rambo.builders^
 ||revolution.builders^
 ||rig.builders^
 ||rushbet.builders^

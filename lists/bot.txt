@@ -1,7 +1,6 @@
 ||10x.bot^
 ||12step.bot^
 ||16bit.bot^
-||1xbet.bot^
 ||789.bot^
 ||789club.bot^
 ||ability.bot^
@@ -54,7 +53,6 @@
 ||aiwriter.bot^
 ||alberts.bot^
 ||algosignals.bot^
-||align.bot^
 ||alignment.bot^
 ||allo.bot^
 ||allow.bot^
@@ -113,7 +111,6 @@
 ||ascend.bot^
 ||askbali.bot^
 ||askcupid.bot^
-||aso.bot^
 ||aspen.bot^
 ||assistants.bot^
 ||astrological.bot^
@@ -123,7 +120,6 @@
 ||auditor.bot^
 ||authenticity.bot^
 ||autism.bot^
-||autochat.bot^
 ||autocheck.bot^
 ||autoexec.bot^
 ||automatia.bot^
@@ -167,9 +163,12 @@
 ||bestbet.bot^
 ||bestcasino.bot^
 ||bestcrypto.bot^
+||bestforex.bot^
 ||bestmarket.bot^
 ||bestoffer.bot^
+||bestoptions.bot^
 ||bestpoker.bot^
+||beststock.bot^
 ||bet360.bot^
 ||bet9ja.bot^
 ||betbuddy.bot^
@@ -190,7 +189,6 @@
 ||bitcoinspotetf.bot^
 ||bitcointrading.bot^
 ||bitforge.bot^
-||blabber.bot^
 ||blam.bot^
 ||blanks.bot^
 ||blockchainsuper.bot^
@@ -203,16 +201,12 @@
 ||bobby.bot^
 ||bobbybuy.bot^
 ||boerse.bot^
-||bolsa.bot^
 ||bom.bot^
 ||boomer.bot^
 ||booty.bot^
 ||born.bot^
-||botly.bot^
 ||botr.bot^
-||bott.bot^
 ||bottoolbox.bot^
-||bout.bot^
 ||brainstorm.bot^
 ||branch.bot^
 ||brandmanager.bot^
@@ -232,6 +226,7 @@
 ||buenosaires.bot^
 ||builder.bot^
 ||buildingabetter.bot^
+||bulb.bot^
 ||bullandbear.bot^
 ||bulletin.bot^
 ||bumblebee.bot^
@@ -286,7 +281,6 @@
 ||chevy.bot^
 ||chicas.bot^
 ||choice.bot^
-||choose.bot^
 ||chtr.bot^
 ||cine.bot^
 ||cinema.bot^
@@ -341,9 +335,9 @@
 ||compareai.bot^
 ||compensation.bot^
 ||compress.bot^
+||confidence.bot^
 ||confluence.bot^
 ||connects.bot^
-||conquest.bot^
 ||conscious.bot^
 ||consolidation.bot^
 ||continue.bot^
@@ -405,6 +399,7 @@
 ||dataport.bot^
 ||dataro.bot^
 ||datatrust.bot^
+||dates.bot^
 ||dba.bot^
 ||dcatrading.bot^
 ||dcx.bot^
@@ -418,6 +413,7 @@
 ||deepai.bot^
 ||default.bot^
 ||delight.bot^
+||delta.bot^
 ||dentistry.bot^
 ||dentvision.bot^
 ||depin.bot^
@@ -457,6 +453,7 @@
 ||dorian.bot^
 ||dotti.bot^
 ||downvod.bot^
+||dox.bot^
 ||draco.bot^
 ||dracula.bot^
 ||dre.bot^
@@ -534,6 +531,7 @@
 ||fabulous.bot^
 ||fact.bot^
 ||falc.bot^
+||fame.bot^
 ||family.bot^
 ||fandom.bot^
 ||fantom.bot^
@@ -562,7 +560,6 @@
 ||forest.bot^
 ||forexmath.bot^
 ||fortuna.bot^
-||founder.bot^
 ||four.bot^
 ||foxnews.bot^
 ||fractional.bot^
@@ -637,7 +634,6 @@
 ||grief.bot^
 ||gui.bot^
 ||gyro.bot^
-||habibi.bot^
 ||hai.bot^
 ||half.bot^
 ||hannity.bot^
@@ -676,8 +672,6 @@
 ||hobbies.bot^
 ||holler.bot^
 ||hollywoodbets.bot^
-||holon.bot^
-||holygrail.bot^
 ||homeloans.bot^
 ||homeowner.bot^
 ||homeworkhelper.bot^
@@ -685,7 +679,6 @@
 ||hookup.bot^
 ||hoop.bot^
 ||hotstock.bot^
-||hover.bot^
 ||howto.bot^
 ||humanity.bot^
 ||humanoidro.bot^
@@ -767,6 +760,7 @@
 ||jmp.bot^
 ||jointilly.bot^
 ||jonah.bot^
+||joq.bot^
 ||jordanotrafs.bot^
 ||juggle.bot^
 ||juju.bot^
@@ -782,7 +776,6 @@
 ||kitchen.bot^
 ||klara.bot^
 ||kleinanzeigen.bot^
-||knowledgebase.bot^
 ||kobold.bot^
 ||kredit.bot^
 ||krutrim.bot^
@@ -810,6 +803,7 @@
 ||liar.bot^
 ||libra.bot^
 ||life.bot^
+||liftoff.bot^
 ||lightyear.bot^
 ||ligma.bot^
 ||lillio.bot^
@@ -871,8 +865,8 @@
 ||meinestadt.bot^
 ||meld.bot^
 ||mellow.bot^
+||memory.bot^
 ||metadata.bot^
-||metatax.bot^
 ||metaversebet.bot^
 ||meteor.bot^
 ||methods.bot^
@@ -889,6 +883,7 @@
 ||miri.bot^
 ||mirrortrade.bot^
 ||mistral.bot^
+||mixtral.bot^
 ||moan.bot^
 ||mocha.bot^
 ||model.bot^
@@ -899,7 +894,6 @@
 ||momo.bot^
 ||mon-chat.bot^
 ||monchat.bot^
-||moneygpt.bot^
 ||moneymaker.bot^
 ||monitor.bot^
 ||monk.bot^
@@ -919,18 +913,25 @@
 ||must.bot^
 ||mute.bot^
 ||muzmuz.bot^
+||myaccountant.bot^
+||mybedroom.bot^
 ||mybet.bot^
 ||mybike.bot^
 ||mybirds.bot^
+||myboyfriends.bot^
 ||mycards.bot^
 ||mycareer.bot^
 ||mycharity.bot^
 ||mychef.bot^
+||mychildren.bot^
+||mycloset.bot^
+||mycoach.bot^
 ||mycoffee.bot^
 ||mycommunity.bot^
 ||mycountry.bot^
 ||mycreations.bot^
 ||myculture.bot^
+||mydocs.bot^
 ||mydoctor.bot^
 ||mydreams.bot^
 ||mydrinks.bot^
@@ -944,6 +945,10 @@
 ||myfriends.bot^
 ||mygear.bot^
 ||mygender.bot^
+||mygenius.bot^
+||mygirlfriend.bot^
+||mygrandparents.bot^
+||myguide.bot^
 ||myhand.bot^
 ||myheart.bot^
 ||myheritage.bot^
@@ -951,7 +956,10 @@
 ||myhouse.bot^
 ||myideas.bot^
 ||myillness.bot^
+||myinsights.bot^
+||mykids.bot^
 ||mykitchen.bot^
+||mylaw.bot^
 ||mylearning.bot^
 ||mylegacy.bot^
 ||mylove.bot^
@@ -960,10 +968,12 @@
 ||mymeetings.bot^
 ||mymortgage.bot^
 ||mynotes.bot^
+||mypantry.bot^
 ||mypet.bot^
 ||mypets.bot^
 ||myplants.bot^
 ||mypoetry.bot^
+||myprayers.bot^
 ||mypriorities.bot^
 ||myreceipts.bot^
 ||myrecipes.bot^
@@ -975,6 +985,7 @@
 ||mysleep.bot^
 ||myspirit.bot^
 ||mysport.bot^
+||myspouse.bot^
 ||mystical.bot^
 ||mystory.bot^
 ||mystuff.bot^
@@ -995,7 +1006,6 @@
 ||navigator.bot^
 ||nearme.bot^
 ||need.bot^
-||negotiation.bot^
 ||neira.bot^
 ||nell.bot^
 ||nen.bot^
@@ -1012,14 +1022,12 @@
 ||nostradamus.bot^
 ||not.bot^
 ||novastar.bot^
-||noygear.bot^
 ||ns.bot^
 ||nsfwai.bot^
 ||nudge.bot^
 ||nuke.bot^
 ||numbers.bot^
 ||nyse.bot^
-||observe.bot^
 ||ocai.bot^
 ||ocho.bot^
 ||octave.bot^
@@ -1028,17 +1036,14 @@
 ||offline.bot^
 ||ohanapal.bot^
 ||olly.bot^
-||olympus.bot^
 ||omg.bot^
 ||omnichan.bot^
 ||onefunnelaway.bot^
 ||onyx.bot^
 ||open.bot^
-||openchat.bot^
 ||openhouse.bot^
 ||optimai.bot^
 ||optimizing.bot^
-||optionstrading.bot^
 ||oraclecards.bot^
 ||oracles.bot^
 ||oral.bot^
@@ -1087,7 +1092,6 @@
 ||photon.bot^
 ||physical.bot^
 ||picnic.bot^
-||pilates.bot^
 ||pilot.bot^
 ||pixi.bot^
 ||pkg.bot^
@@ -1154,7 +1158,6 @@
 ||qstar.bot^
 ||quanta.bot^
 ||quants.bot^
-||qubit.bot^
 ||quotes.bot^
 ||r34.bot^
 ||racing.bot^
@@ -1169,6 +1172,7 @@
 ||rand.bot^
 ||readers.bot^
 ||rebalancing.bot^
+||rebound.bot^
 ||recess.bot^
 ||recorder.bot^
 ||redo.bot^
@@ -1270,7 +1274,6 @@
 ||sky88.bot^
 ||sleepwell.bot^
 ||smallbiz.bot^
-||smartai.bot^
 ||smartchat.bot^
 ||smarter.bot^
 ||smarthome.bot^
@@ -1281,7 +1284,6 @@
 ||socket.bot^
 ||sofort.bot^
 ||solidworks.bot^
-||solvo.bot^
 ||sonnet.bot^
 ||sonny.bot^
 ||soo.bot^
@@ -1338,7 +1340,6 @@
 ||superintelligent.bot^
 ||supermpower.bot^
 ||superpower.bot^
-||superro.bot^
 ||superuser.bot^
 ||supervising.bot^
 ||suri.bot^
@@ -1354,7 +1355,6 @@
 ||synthian.bot^
 ||system.bot^
 ||tada.bot^
-||taichi.bot^
 ||tail.bot^
 ||talentbot.bot^
 ||tamil.bot^
@@ -1368,7 +1368,6 @@
 ||techno.bot^
 ||teentalk.bot^
 ||temp-mail.bot^
-||tenor.bot^
 ||tensor.bot^
 ||teo.bot^
 ||term.bot^
@@ -1377,7 +1376,6 @@
 ||tfc.bot^
 ||thalia.bot^
 ||thca.bot^
-||theai.bot^
 ||thedomain.bot^
 ||thelovecoach.bot^
 ||theq.bot^
@@ -1422,7 +1420,6 @@
 ||trusty.bot^
 ||tsun.bot^
 ||tuesday.bot^
-||turkiye.bot^
 ||tycoon.bot^
 ||ufa.bot^
 ||ufabet.bot^
@@ -1435,24 +1432,24 @@
 ||urdu.bot^
 ||usedcar.bot^
 ||vaca.bot^
-||vacationrentals.bot^
 ||vacay.bot^
 ||valet.bot^
 ||vault4.bot^
 ||velvet.bot^
 ||vern.bot^
 ||version.bot^
+||veterans.bot^
+||vets.bot^
 ||vid.bot^
 ||vida.bot^
 ||village.bot^
 ||virtualagent.bot^
 ||virtuos.bot^
-||visionary.bot^
-||vita-mix.bot^
 ||vitae.bot^
 ||vix.bot^
 ||voiceaid.bot^
 ||void.bot^
+||voila.bot^
 ||volunteer.bot^
 ||voters.bot^
 ||vrbet.bot^
@@ -1479,9 +1476,11 @@
 ||wigoswap.bot^
 ||wildlife.bot^
 ||wio.bot^
+||wisdomai.bot^
 ||with.bot^
 ||witty.bot^
 ||wkelmsolutions.bot^
+||wki.bot^
 ||woke.bot^
 ||work.bot^
 ||workforce.bot^
@@ -1496,7 +1495,6 @@
 ||yep.bot^
 ||yes.bot^
 ||yeti.bot^
-||yogi.bot^
 ||youtubead.bot^
 ||yyds.bot^
 ||z.bot^

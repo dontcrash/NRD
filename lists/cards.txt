@@ -19,6 +19,7 @@
 ||be.cards^
 ||bitcoindebit.cards^
 ||bitty.cards^
+||blacklist.cards^
 ||blog.cards^
 ||bluelight.cards^
 ||brick.cards^
@@ -29,6 +30,7 @@
 ||cobra.cards^
 ||com-cancel.cards^
 ||cryptodebit.cards^
+||cvv2.cards^
 ||deadpair.cards^
 ||delta.cards^
 ||deployment.cards^
@@ -48,6 +50,7 @@
 ||finmo.cards^
 ||freedigital.cards^
 ||fungible.cards^
+||gamestore.cards^
 ||getsome.cards^
 ||gift420.cards^
 ||gifthub.cards^
@@ -100,7 +103,6 @@
 ||playsolitaire.cards^
 ||pogo.cards^
 ||pokerhands.cards^
-||qarma.cards^
 ||quebec.cards^
 ||redeemable.cards^
 ||render.cards^
@@ -117,6 +119,7 @@
 ||stripchat.cards^
 ||sun88.cards^
 ||supernode.cards^
+||superrender.cards^
 ||tem.cards^
 ||thankyou.cards^
 ||thedeck.cards^

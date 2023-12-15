@@ -7,7 +7,6 @@
 ||blast-io.claims^
 ||cargo.claims^
 ||carinsurance.claims^
-||case.claims^
 ||certeurope.claims^
 ||certifiedpublicadjuster.claims^
 ||chain-link.claims^
@@ -44,10 +43,12 @@
 ||hyperliquid.claims^
 ||ian.claims^
 ||illuvium-io.claims^
+||ins.claims^
 ||iotex.claims^
 ||iowa.claims^
 ||ixiniumasset.claims^
 ||join-starknet.claims^
+||kaleido.claims^
 ||leroymerlin.claims^
 ||looksrare.claims^
 ||magpiexyz.claims^
@@ -69,6 +70,7 @@
 ||phygitals.claims^
 ||portalgaming.claims^
 ||powerstake.claims^
+||pyusd.claims^
 ||qcat.claims^
 ||quickswap-io.claims^
 ||rapid.claims^
@@ -78,7 +80,6 @@
 ||rocketpool.claims^
 ||sacat.claims^
 ||saet.claims^
-||sandboxgames.claims^
 ||scroll-io.claims^
 ||seriousinjury.claims^
 ||shop.claims^
@@ -97,7 +98,6 @@
 ||trx.claims^
 ||ukbusiness.claims^
 ||ukbusinessenergy.claims^
-||unisatpass.claims^
 ||uniswap.claims^
 ||unsubstantiated.claims^
 ||vcat.claims^

@@ -9,7 +9,6 @@
 ||agro.trade^
 ||aikima.trade^
 ||aimy.trade^
-||aistockforecasta.trade^
 ||akhdar.trade^
 ||alcera.trade^
 ||algobit.trade^
@@ -17,6 +16,7 @@
 ||alibaba-cloud-huawei-mate-fd-zhihui01.trade^
 ||alibaba-cloud-huawei-mate-ios-zjcl1.trade^
 ||alibaba-cloud-huawei-mate-pt-zhihuiyp01.trade^
+||alibaba-cloud-huawei-mate-pt-zhihuiyp02.trade^
 ||alibaba-cloud-huawei-mate-pt-zjcl1.trade^
 ||alibaba-cloud-huawei-mate-pt-zjcl2.trade^
 ||alibaba-cloud-huawei-mate60-ios-zyw1.trade^
@@ -42,7 +42,6 @@
 ||alibabacloud-huawei-tygfrghdb-caixinw3.trade^
 ||alibabacloud-huawei-tygfrghdb-caixinw4.trade^
 ||alibabacloud-oss-mate-zjcl-pt-1245.trade^
-||alibabacloud-oss-mate-zjcl-pt-744.trade^
 ||alibabacloud-oss-mate-zjcl-pt-777.trade^
 ||alibabacloud-oss-mate-zjcl-pt-886.trade^
 ||alibabacloud-oss-mate-zjcl-pt-8888.trade^
@@ -86,6 +85,7 @@
 ||bluetradex.trade^
 ||bridge.trade^
 ||brothermm01a.trade^
+||buslik.trade^
 ||cademyinv.trade^
 ||capitalcom.trade^
 ||carage.trade^
@@ -132,11 +132,10 @@
 ||domdash.trade^
 ||domin8.trade^
 ||dump.trade^
-||dyor.trade^
+||e-secure.trade^
 ||easyjournal.trade^
 ||ellisedi.trade^
 ||euchina.trade^
-||eusl.trade^
 ||evidencebasedoptions.trade^
 ||exness-meta.trade^
 ||fanz.trade^
@@ -161,6 +160,7 @@
 ||greenbloom.trade^
 ||gulfbinance.trade^
 ||guytomeethimonworld.trade^
+||hit.trade^
 ||huanjing.trade^
 ||hunfine.trade^
 ||hytale.trade^
@@ -223,7 +223,6 @@
 ||okhash.trade^
 ||onedex.trade^
 ||onenewsilkroad.trade^
-||onlyfx.trade^
 ||optional.trade^
 ||osmise.trade^
 ||p3g36y.trade^
@@ -286,11 +285,11 @@
 ||tgsi.trade^
 ||tick-mill.trade^
 ||tigerbroker.trade^
-||tonswap.trade^
 ||torrent.trade^
+||trendex.trade^
 ||trustmarket.trade^
-||ulog.trade^
 ||unco.trade^
+||unitypro.trade^
 ||unlockpro.trade^
 ||upptipstockt.trade^
 ||usedbra.trade^

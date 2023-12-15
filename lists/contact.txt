@@ -32,6 +32,7 @@
 ||common.contact^
 ||csis.contact^
 ||customerservicequik.contact^
+||cut.contact^
 ||cysec.contact^
 ||dbv.contact^
 ||dcsa.contact^
@@ -93,10 +94,12 @@
 ||manoramaonline.contact^
 ||mastodon.contact^
 ||meaningful.contact^
+||mg.contact^
 ||mi6.contact^
 ||miles.contact^
 ||moonraker.contact^
 ||multipleentrepreneur.contact^
+||nate.contact^
 ||nikkei.contact^
 ||occasional.contact^
 ||oraclehealth.contact^
@@ -111,6 +114,7 @@
 ||revoke.contact^
 ||role.contact^
 ||ryanair.contact^
+||satellite.contact^
 ||schroeder.contact^
 ||shortmovie.contact^
 ||sin88.contact^
@@ -132,7 +136,6 @@
 ||trong.contact^
 ||urgentcare.contact^
 ||vitae.contact^
-||vos.contact^
 ||web4.contact^
 ||when.contact^
 ||wittek.contact^
