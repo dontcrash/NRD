@@ -1,7 +1,6 @@
 ||aat.claims^
 ||aave-protocol.claims^
 ||airline.claims^
-||anpost.claims^
 ||billionaire.claims^
 ||bitcoin.claims^
 ||blast-io.claims^
@@ -10,7 +9,6 @@
 ||certeurope.claims^
 ||certifiedpublicadjuster.claims^
 ||chain-link.claims^
-||charlotte.claims^
 ||childsupport.claims^
 ||civiltribunal.claims^
 ||claimguard.claims^
@@ -25,10 +23,9 @@
 ||cuevana.claims^
 ||dailycheck.claims^
 ||delhi.claims^
-||distribute-pepe.claims^
 ||enter-zero.claims^
 ||equation.claims^
-||eth-gift.claims^
+||etoro.claims^
 ||expense.claims^
 ||f.claims^
 ||familycourt.claims^
@@ -72,23 +69,21 @@
 ||powerstake.claims^
 ||pyusd.claims^
 ||qcat.claims^
+||quickswap-exchange.claims^
 ||quickswap-io.claims^
-||rapid.claims^
 ||rd4u.claims^
-||rewards-unibot.claims^
 ||robotrade-ai.claims^
 ||rocketpool.claims^
 ||sacat.claims^
 ||saet.claims^
 ||scroll-io.claims^
 ||seriousinjury.claims^
-||shop.claims^
 ||signup-zero.claims^
 ||silo-finance.claims^
 ||socialservices.claims^
-||stripchat.claims^
 ||sun88.claims^
 ||syncswap-io.claims^
+||synthetix-io.claims^
 ||synthetix.claims^
 ||tascat.claims^
 ||tenancy.claims^
@@ -96,8 +91,6 @@
 ||tradingview.claims^
 ||treasury.claims^
 ||trx.claims^
-||ukbusiness.claims^
-||ukbusinessenergy.claims^
 ||uniswap.claims^
 ||unsubstantiated.claims^
 ||vcat.claims^
@@ -107,3 +100,4 @@
 ||will.claims^
 ||xrp.claims^
 ||ycombinator.claims^
+||zerion-io.claims^

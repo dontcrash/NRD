@@ -12,12 +12,12 @@
 ||bitcoinfarmers.markets^
 ||bitcoinsv.markets^
 ||bittensor.markets^
+||blofin.markets^
 ||blur-io.markets^
 ||brave.markets^
 ||chris.markets^
 ||claim.markets^
 ||cod.markets^
-||codec.markets^
 ||company.markets^
 ||copilot.markets^
 ||corefinance.markets^
@@ -29,6 +29,7 @@
 ||dpi.markets^
 ||e-sport.markets^
 ||eg.markets^
+||envato.markets^
 ||exodus.markets^
 ||falcon.markets^
 ||fintech.markets^
@@ -52,7 +53,7 @@
 ||latam.markets^
 ||loli.markets^
 ||loterie.markets^
-||meta-verse.markets^
+||market.markets^
 ||netzero.markets^
 ||phi.markets^
 ||pin-up.markets^
@@ -74,6 +75,7 @@
 ||soroban.markets^
 ||speedtest.markets^
 ||step.markets^
+||sticker.markets^
 ||tellus.markets^
 ||tradesmart.markets^
 ||tradestory.markets^
@@ -84,5 +86,4 @@
 ||whalesafe.markets^
 ||wplay.markets^
 ||wtf.markets^
-||yield.markets^
 ||zbrain.markets^

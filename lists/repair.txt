@@ -15,7 +15,6 @@
 ||bna.repair^
 ||brave.repair^
 ||buckheadcredit.repair^
-||burnabyauto.repair^
 ||cacheappliance.repair^
 ||clearview.repair^
 ||cleveland.repair^
@@ -39,6 +38,7 @@
 ||easydoesit.repair^
 ||ecotech.repair^
 ||emergencydoor.repair^
+||farrar.repair^
 ||feishu.repair^
 ||firedamage.repair^
 ||fixmathomeappliance.repair^
@@ -57,6 +57,7 @@
 ||handy.repair^
 ||handymanrenovations.repair^
 ||hawaii.repair^
+||homes.repair^
 ||hughes.repair^
 ||hutter.repair^
 ||ident.repair^
@@ -74,8 +75,10 @@
 ||liverdamage.repair^
 ||loterie.repair^
 ||manchester.repair^
+||manuals.repair^
 ||messenger.repair^
 ||michelle.repair^
+||midwest.repair^
 ||mind.repair^
 ||mobilediesel.repair^
 ||mobyl.repair^
@@ -109,7 +112,6 @@
 ||tassie.repair^
 ||tct.repair^
 ||teamship.repair^
-||tech2go.repair^
 ||tek.repair^
 ||terra.repair^
 ||texasstar.repair^

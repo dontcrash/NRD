@@ -7,15 +7,12 @@
 ||arte.broker^
 ||battle.broker^
 ||beat.broker^
-||block-chain.broker^
-||cryptocom.broker^
 ||cryptos.broker^
 ||eg.broker^
 ||empower.broker^
 ||es.broker^
 ||esim.broker^
 ||europe.broker^
-||fca.broker^
 ||fmovies.broker^
 ||front.broker^
 ||fxgiants.broker^
@@ -31,6 +28,8 @@
 ||imagine.broker^
 ||immovest.broker^
 ||infy.broker^
+||israelimortgage.broker^
+||israelirealestate.broker^
 ||karenritchie.broker^
 ||kr.broker^
 ||ky.broker^
@@ -49,6 +48,7 @@
 ||provable.broker^
 ||pt.broker^
 ||raps.broker^
+||rate.broker^
 ||remote.broker^
 ||search.broker^
 ||sg.broker^

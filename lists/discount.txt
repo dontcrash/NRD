@@ -15,10 +15,7 @@
 ||audio.discount^
 ||autoinsurance.discount^
 ||band.discount^
-||bank.discount^
-||bargain.discount^
 ||blackfriday.discount^
-||burger.discount^
 ||buyonline.discount^
 ||cable.discount^
 ||cart.discount^
@@ -41,6 +38,7 @@
 ||independence.discount^
 ||lease.discount^
 ||list.discount^
+||live.discount^
 ||luggage.discount^
 ||machinery.discount^
 ||madrid.discount^
@@ -64,7 +62,6 @@
 ||telephone.discount^
 ||therapist.discount^
 ||tiles.discount^
-||tshirts.discount^
 ||tupismo.discount^
 ||tv.discount^
 ||vgo.discount^
