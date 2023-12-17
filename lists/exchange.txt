@@ -14,6 +14,7 @@
 ||alamoudi.exchange^
 ||amx.exchange^
 ||any-swap.exchange^
+||apexchange.exchange^
 ||api-poodl.exchange^
 ||app-pancakeswap.exchange^
 ||aquitaine.exchange^
@@ -56,7 +57,6 @@
 ||bungeeee.exchange^
 ||bungeeeee.exchange^
 ||buungeee.exchange^
-||bypasserc.exchange^
 ||canto.exchange^
 ||carbonmarket.exchange^
 ||cash-back.exchange^
@@ -102,6 +102,7 @@
 ||dttd.exchange^
 ||dualbit.exchange^
 ||dydx-trade.exchange^
+||dydxtrade.exchange^
 ||eagonswap.exchange^
 ||easyrehaf.exchange^
 ||echarge.exchange^
@@ -112,7 +113,7 @@
 ||eneftee.exchange^
 ||enox.exchange^
 ||enrg.exchange^
-||eric.exchange^
+||equip.exchange^
 ||eris.exchange^
 ||etc.exchange^
 ||etherscan.exchange^
@@ -125,7 +126,6 @@
 ||fgc.exchange^
 ||fiixedflaoat.exchange^
 ||fin.exchange^
-||fineart.exchange^
 ||finecon.exchange^
 ||finetunes.exchange^
 ||fireball.exchange^
@@ -135,7 +135,7 @@
 ||forex-factory.exchange^
 ||forextrade.exchange^
 ||forian.exchange^
-||freemovies.exchange^
+||fragrance.exchange^
 ||fusionbtc.exchange^
 ||gamify.exchange^
 ||gasles.exchange^
@@ -151,7 +151,6 @@
 ||gulfbinance.exchange^
 ||handle.exchange^
 ||handmade.exchange^
-||helixgaia.exchange^
 ||hkdr.exchange^
 ||hkstablecoin.exchange^
 ||homeinsurance.exchange^
@@ -161,15 +160,18 @@
 ||hytale.exchange^
 ||ice.exchange^
 ||impactinvestment.exchange^
+||incept.exchange^
 ||indiabusiness.exchange^
 ||inex.exchange^
 ||installing.exchange^
 ||iptv.exchange^
 ||iqex.exchange^
 ||islamic.exchange^
+||iv.exchange^
 ||jamonswap.exchange^
 ||jetbet.exchange^
 ||jup.exchange^
+||kode.exchange^
 ||kodo.exchange^
 ||kyt-app.exchange^
 ||kytapp.exchange^
@@ -192,6 +194,7 @@
 ||lvm.exchange^
 ||mailserver.exchange^
 ||malgo.exchange^
+||marbles.exchange^
 ||mdrx.exchange^
 ||metaquests.exchange^
 ||metri.exchange^
@@ -247,7 +250,6 @@
 ||safariexchangeprogram.exchange^
 ||saliva.exchange^
 ||sanjuan.exchange^
-||sapugo.exchange^
 ||satsat.exchange^
 ||scot.exchange^
 ||securitytoken.exchange^
@@ -291,6 +293,7 @@
 ||trusttether.exchange^
 ||tubular.exchange^
 ||tyre.exchange^
+||ultimafarm.exchange^
 ||ultimate.exchange^
 ||unco.exchange^
 ||unicash.exchange^
@@ -299,7 +302,6 @@
 ||uvoucher.exchange^
 ||v2-rubic.exchange^
 ||vaex.exchange^
-||vietstock.exchange^
 ||vips.exchange^
 ||vision2030.exchange^
 ||vitas.exchange^
@@ -315,8 +317,8 @@
 ||workflow.exchange^
 ||world.exchange^
 ||worldwidemarketing.exchange^
+||wwapex.exchange^
 ||xcoins.exchange^
-||xdx.exchange^
 ||xena.exchange^
 ||xenon.exchange^
 ||xiyomi.exchange^

@@ -18,8 +18,11 @@
 ||dotmake.build^
 ||easterton.build^
 ||echtfab.build^
+||elliotthardie.build^
 ||esim.build^
 ||founderup.build^
+||gamebai.build^
+||gamebai88.build^
 ||gem.build^
 ||grapl.build^
 ||groseandmanz.build^
@@ -34,7 +37,6 @@
 ||listen.build^
 ||madara.build^
 ||mcwa.build^
-||mermaid.build^
 ||nifty.build^
 ||nuhorizon.build^
 ||pagnos.build^
@@ -44,6 +46,7 @@
 ||reflex.build^
 ||replicator.build^
 ||rigawa.build^
+||ringer.build^
 ||river.build^
 ||secondbrain.build^
 ||segmentlocal.build^
@@ -51,6 +54,7 @@
 ||smartwall.build^
 ||spacebar.build^
 ||stigmergy.build^
+||stonehorn.build^
 ||stripeapp.build^
 ||sup.build^
 ||supple.build^
@@ -60,7 +64,6 @@
 ||thelahainaproject.build^
 ||township.build^
 ||truedup.build^
-||tvix.build^
 ||wemust.build^
 ||workroom.build^
 ||youcan.build^

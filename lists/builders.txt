@@ -29,7 +29,6 @@
 ||document.builders^
 ||einstein.builders^
 ||endeavor.builders^
-||eric.builders^
 ||evmos.builders^
 ||fenske.builders^
 ||firstchoice.builders^
@@ -46,6 +45,7 @@
 ||kakao.builders^
 ||kasino.builders^
 ||lawyers.builders^
+||layer2.builders^
 ||live.builders^
 ||loterie.builders^
 ||messenger.builders^

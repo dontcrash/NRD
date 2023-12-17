@@ -19,10 +19,12 @@
 ||cryptopsychic.trading^
 ||dca.trading^
 ||decisiontree.trading^
+||dojo.trading^
 ||felix.trading^
 ||forexcopy.trading^
 ||forexoptions.trading^
-||gaoa.trading^
+||gamebai.trading^
+||generativeai.trading^
 ||gordion.trading^
 ||gpts.trading^
 ||grok.trading^
@@ -43,9 +45,9 @@
 ||nimble.trading^
 ||oraclehealth.trading^
 ||orai.trading^
+||prodigy.trading^
 ||pt.trading^
 ||pyramid.trading^
-||quantbot.trading^
 ||randomclick.trading^
 ||rareearth.trading^
 ||rareearths.trading^
@@ -70,7 +72,6 @@
 ||voa.trading^
 ||w66d.trading^
 ||wads.trading^
-||whale.trading^
 ||whitebox.trading^
 ||worldgateholding.trading^
 ||worldnet.trading^
