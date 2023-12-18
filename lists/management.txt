@@ -48,12 +48,11 @@
 ||feishu.management^
 ||fgi.management^
 ||finance.management^
-||fitandsupply.management^
-||ftx.management^
 ||g4.management^
 ||g4c.management^
 ||gacha.management^
 ||gamebai.management^
+||gamebaidoithuong.management^
 ||globalexpress.management^
 ||greatass.management^
 ||gsp.management^
@@ -64,6 +63,7 @@
 ||hype.management^
 ||ideas.management^
 ||infomail-box-system-inbounds-outlook.management^
+||ipd.management^
 ||janiss.management^
 ||jautos.management^
 ||jcp.management^
@@ -84,6 +84,7 @@
 ||mambamentality.management^
 ||mdcdiesel.management^
 ||metamusic.management^
+||miramar.management^
 ||msi.management^
 ||myopia.management^
 ||myplan.management^
@@ -96,15 +97,14 @@
 ||pandemonium.management^
 ||parimatch.management^
 ||payu.management^
-||piatti.management^
 ||piloti.management^
 ||ploudos.management^
 ||positive.management^
 ||privatefinance.management^
 ||projection.management^
+||providence.management^
 ||provider.management^
 ||queensboro.management^
-||recruitment.management^
 ||reddog.management^
 ||relia.management^
 ||rkc.management^
@@ -113,8 +113,8 @@
 ||rubino.management^
 ||rwa.management^
 ||ryanair.management^
+||secret.management^
 ||selfmail-outlook-mimemcast-protection.management^
-||selfmail-protection-mimemcast-outlook.management^
 ||sender-protection-mimemcast-outlook.management^
 ||sendmail-protection-mimemcast-outlook.management^
 ||shopee.management^
@@ -122,6 +122,7 @@
 ||sixstring.management^
 ||skin.management^
 ||smartevent.management^
+||southeastrisk.management^
 ||specpros.management^
 ||sportybet.management^
 ||srla.management^
@@ -134,6 +135,7 @@
 ||thebakerygenetics.management^
 ||thomascapital.management^
 ||tistory.management^
+||tna.management^
 ||tqp.management^
 ||transactionrisk.management^
 ||transformation.management^
@@ -143,4 +145,3 @@
 ||whistlemedia.management^
 ||williamhill.management^
 ||worx.management^
-||zeeba.management^

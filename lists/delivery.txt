@@ -6,7 +6,6 @@
 ||active.delivery^
 ||aio.delivery^
 ||aladdin.delivery^
-||ampm.delivery^
 ||anything.delivery^
 ||areal.delivery^
 ||battery.delivery^
@@ -21,14 +20,12 @@
 ||chronopost-mon-suivi.delivery^
 ||clubve.delivery^
 ||collect.delivery^
-||confirmed.delivery^
 ||cosmc.delivery^
 ||csdn.delivery^
 ||cybermonday.delivery^
 ||cyberpunk.delivery^
 ||darq.delivery^
 ||deliverama.delivery^
-||diary.delivery^
 ||digitalwatersolutions.delivery^
 ||discount.delivery^
 ||dostavka24.delivery^
@@ -46,12 +43,16 @@
 ||freeday.delivery^
 ||freshtoday.delivery^
 ||gamebai88.delivery^
+||gamebaidoithuong.delivery^
+||gamedoithuong.delivery^
 ||glaswegin.delivery^
+||globalexpsupermarket.delivery^
 ||gralied.delivery^
 ||grizzly.delivery^
 ||guayaquil.delivery^
 ||guide.delivery^
 ||gus.delivery^
+||innovation.delivery^
 ||isp.delivery^
 ||kakao.delivery^
 ||kasino.delivery^
@@ -75,7 +76,6 @@
 ||nationalexperiencesupermarket.delivery^
 ||newyorkcannabis.delivery^
 ||next-days.delivery^
-||nextdaywork.delivery^
 ||nextmonths.delivery^
 ||nextweeks.delivery^
 ||norms.delivery^
@@ -140,7 +140,6 @@
 ||track-post.delivery^
 ||trackorder.delivery^
 ||tuesdays.delivery^
-||uav.delivery^
 ||ue.delivery^
 ||unitedexpressshipping.delivery^
 ||upoke.delivery^
@@ -150,7 +149,6 @@
 ||veniceflowers.delivery^
 ||vietnamflowers.delivery^
 ||vision2030.delivery^
-||wallet.delivery^
 ||wednesdays.delivery^
 ||wiin.delivery^
 ||williamhill.delivery^
@@ -163,4 +161,3 @@
 ||zeeppy.delivery^
 ||zilch.delivery^
 ||zipcode.delivery^
-||zippys.delivery^

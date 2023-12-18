@@ -1,3 +1,4 @@
+||0.claims^
 ||aat.claims^
 ||aave-protocol.claims^
 ||airline.claims^
@@ -18,12 +19,10 @@
 ||claimtrak.claims^
 ||columbus.claims^
 ||commonlaw.claims^
-||consumer.claims^
 ||covidcompensation.claims^
 ||cpia.claims^
 ||cuevana.claims^
 ||dailycheck.claims^
-||delhi.claims^
 ||enter-zero.claims^
 ||equation.claims^
 ||etoro.claims^
@@ -35,6 +34,7 @@
 ||flpersonalinjury.claims^
 ||fortworth.claims^
 ||ftx-lawsuit.claims^
+||gamedoithuong.claims^
 ||gifts.claims^
 ||hashflow-com.claims^
 ||hire.claims^
@@ -62,8 +62,6 @@
 ||nocturne.claims^
 ||northamerican.claims^
 ||ntcat.claims^
-||op-badge.claims^
-||opti.claims^
 ||paraswap.claims^
 ||pendle.claims^
 ||pennsylvania.claims^
@@ -83,16 +81,16 @@
 ||seriousinjury.claims^
 ||signup-zero.claims^
 ||silo-finance.claims^
+||soap2day.claims^
 ||socialservices.claims^
+||strk.claims^
 ||sun88.claims^
 ||syncswap-io.claims^
 ||synthetix-io.claims^
 ||synthetix.claims^
 ||tascat.claims^
 ||tenancy.claims^
-||thehellolabs.claims^
 ||tradingview.claims^
-||treasury.claims^
 ||trx.claims^
 ||uniswap.claims^
 ||unsubstantiated.claims^

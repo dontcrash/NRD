@@ -8,7 +8,6 @@
 ||aeroflow.health^
 ||affectable.health^
 ||affineon.health^
-||agent.health^
 ||ai360x.health^
 ||ai71.health^
 ||aiguy.health^
@@ -27,9 +26,12 @@
 ||apoth.health^
 ||apothewell.health^
 ||apparati.health^
+||asclepius.health^
 ||assistedai.health^
+||astrana.health^
 ||avarda.health^
 ||babymind.health^
+||bamba.health^
 ||bcares.health^
 ||beckycurtis.health^
 ||benessere.health^
@@ -50,14 +52,12 @@
 ||brooke.health^
 ||bycore.health^
 ||careai.health^
-||caredataai.health^
 ||cera.health^
 ||chihuahua.health^
 ||circleoflife.health^
 ||claritysolutions.health^
 ||cloudclinic.health^
 ||cmsaruba.health^
-||codoc.health^
 ||cognition.health^
 ||coldplunge.health^
 ||coleman.health^
@@ -128,7 +128,6 @@
 ||gaitanalyzer.health^
 ||geodata.health^
 ||getdaytona.health^
-||getmaya.health^
 ||getrelish.health^
 ||gibbor.health^
 ||gibor.health^
@@ -137,6 +136,7 @@
 ||gomango.health^
 ||goodsteward.health^
 ||gower.health^
+||graf.health^
 ||guardrail.health^
 ||guidehuman.health^
 ||gutcheck.health^
@@ -146,7 +146,6 @@
 ||hi-pe.health^
 ||hinds4health.health^
 ||hipe.health^
-||hiveinsights.health^
 ||hopscotch.health^
 ||horse.health^
 ||htw.health^
@@ -174,6 +173,7 @@
 ||jamesroxburgh.health^
 ||jamjoom.health^
 ||jinni.health^
+||joerg.health^
 ||jointilly.health^
 ||joyn.health^
 ||jujubee.health^
@@ -210,7 +210,6 @@
 ||maxwell.health^
 ||medibeeper.health^
 ||medivanthealthcare.health^
-||medivaultai.health^
 ||medscout.health^
 ||medspace.health^
 ||metanoia.health^
@@ -242,7 +241,6 @@
 ||ngrc.health^
 ||nichols.health^
 ||nightfall.health^
-||nodistance.health^
 ||nphies.health^
 ||nutrigenics.health^
 ||obelisk.health^
@@ -264,7 +262,6 @@
 ||proclean.health^
 ||prospr.health^
 ||prostaid.health^
-||proutcomes.health^
 ||provoke.health^
 ||psp.health^
 ||psychadelic.health^
@@ -283,6 +280,7 @@
 ||regener.health^
 ||relative.health^
 ||renovae.health^
+||renovaro.health^
 ||reverse-yoga.health^
 ||revitaliving.health^
 ||ringza.health^
@@ -306,6 +304,7 @@
 ||selfdiscovery.health^
 ||selfmade.health^
 ||selfmap.health^
+||seven.health^
 ||sheep.health^
 ||shop.health^
 ||slimmingtreatment.health^
@@ -322,7 +321,6 @@
 ||telimed.health^
 ||telmd.health^
 ||tenth.health^
-||thebeacon.health^
 ||thecommon.health^
 ||thehelm.health^
 ||therawin.health^
@@ -366,6 +364,7 @@
 ||wesearch.health^
 ||westslope.health^
 ||wheretodance.health^
+||wildandwell.health^
 ||wilink.health^
 ||willgibson.health^
 ||willow-labs.health^
