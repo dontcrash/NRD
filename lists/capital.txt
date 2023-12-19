@@ -22,7 +22,6 @@
 ||arrange.capital^
 ||artcommodity.capital^
 ||artha.capital^
-||asv.capital^
 ||atv.capital^
 ||avi.capital^
 ||b-rich.capital^
@@ -37,6 +36,7 @@
 ||bioengineering.capital^
 ||bitmap.capital^
 ||biznexus.capital^
+||bk8.capital^
 ||blackadventure.capital^
 ||blacklotus.capital^
 ||blanche.capital^
@@ -63,18 +63,15 @@
 ||ceres.capital^
 ||cfb.capital^
 ||chart.capital^
-||chemtech.capital^
 ||choucair.capital^
 ||cloudlake.capital^
 ||cnh.capital^
 ||collagen.capital^
 ||commodityone.capital^
 ||confused.capital^
-||consult.capital^
 ||controlplane.capital^
 ||convos.capital^
 ||corporative.capital^
-||corrin.capital^
 ||courage.capital^
 ||crap.capital^
 ||cryptocurrencies.capital^
@@ -89,9 +86,7 @@
 ||deephaven.capital^
 ||defacto.capital^
 ||defenseventure.capital^
-||degussabank.capital^
 ||denne.capital^
-||digifund.capital^
 ||dmc.capital^
 ||dnca.capital^
 ||doublev.capital^
@@ -122,7 +117,6 @@
 ||flux.capital^
 ||fnx.capital^
 ||for.capital^
-||fortunate.capital^
 ||fourcorners.capital^
 ||fsociety.capital^
 ||fueloz.capital^
@@ -135,7 +129,6 @@
 ||gamebaidoithuong.capital^
 ||gamechanger.capital^
 ||gamedoithuong.capital^
-||gatepass.capital^
 ||gaussian.capital^
 ||gemspring.capital^
 ||gih.capital^
@@ -153,7 +146,7 @@
 ||haritonov.capital^
 ||hayek.capital^
 ||heal.capital^
-||healthx.capital^
+||heights.capital^
 ||hi88.capital^
 ||hk11.capital^
 ||hodges.capital^
@@ -183,12 +176,15 @@
 ||journey.capital^
 ||jsur.capital^
 ||jun88.capital^
+||kapo.capital^
 ||kennel.capital^
 ||keyloc.capital^
+||keystate.capital^
 ||khalil.capital^
 ||kingdomventure.capital^
 ||kingdon.capital^
 ||kiyo.capital^
+||kjkcapital.capital^
 ||knights.capital^
 ||koen.capital^
 ||kuroto.capital^
@@ -223,6 +219,7 @@
 ||muzizi.capital^
 ||myra.capital^
 ||n8.capital^
+||nammu.capital^
 ||nasir.capital^
 ||nazarov.capital^
 ||ndu.capital^
@@ -270,8 +267,8 @@
 ||rembrandt.capital^
 ||restart.capital^
 ||resultado.capital^
-||rhode.capital^
 ||riv.capital^
+||rlabs.capital^
 ||rpa.capital^
 ||rta.capital^
 ||rythm.capital^
@@ -282,6 +279,7 @@
 ||sandbar.capital^
 ||scholarium.capital^
 ||semperios.capital^
+||seton.capital^
 ||shuaa.capital^
 ||sidequest.capital^
 ||signals.capital^
@@ -323,6 +321,7 @@
 ||traverse.capital^
 ||tream.capital^
 ||tridin.capital^
+||trustex.capital^
 ||tslainvest.capital^
 ||usdtpay.capital^
 ||venturly.capital^

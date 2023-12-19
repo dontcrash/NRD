@@ -10,7 +10,7 @@
 ||apostrophe.management^
 ||area.management^
 ||assetsproperty.management^
-||asv.management^
+||atoz.management^
 ||automatedinventory.management^
 ||backlog.management^
 ||bancolombia.management^
@@ -45,6 +45,7 @@
 ||ephemeral.management^
 ||esi.management^
 ||etalent.management^
+||fachai.management^
 ||feishu.management^
 ||fgi.management^
 ||finance.management^
@@ -66,7 +67,6 @@
 ||ipd.management^
 ||janiss.management^
 ||jautos.management^
-||jcp.management^
 ||kaia.management^
 ||kamra.management^
 ||kasino.management^
@@ -97,7 +97,6 @@
 ||pandemonium.management^
 ||parimatch.management^
 ||payu.management^
-||piloti.management^
 ||ploudos.management^
 ||positive.management^
 ||privatefinance.management^
@@ -105,6 +104,7 @@
 ||providence.management^
 ||provider.management^
 ||queensboro.management^
+||rectify.management^
 ||reddog.management^
 ||relia.management^
 ||rkc.management^
@@ -132,7 +132,6 @@
 ||symbol.management^
 ||tep.management^
 ||theartistandyjames.management^
-||thebakerygenetics.management^
 ||thomascapital.management^
 ||tistory.management^
 ||tna.management^

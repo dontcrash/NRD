@@ -14,6 +14,7 @@
 ||comwork.build^
 ||dark.build^
 ||deckforge.build^
+||diggerscrowd.build^
 ||dotfile.build^
 ||dotmake.build^
 ||easterton.build^
@@ -31,16 +32,15 @@
 ||gunvolt.build^
 ||hit.build^
 ||integrations.build^
-||join-linea.build^
 ||konnen.build^
 ||layer2.build^
 ||libertas.build^
+||linear.build^
 ||listen.build^
 ||madara.build^
 ||mcwa.build^
 ||nifty.build^
 ||nuhorizon.build^
-||pagnos.build^
 ||paviana.build^
 ||pixel.build^
 ||rails.build^
@@ -68,5 +68,6 @@
 ||township.build^
 ||truedup.build^
 ||wemust.build^
+||whatdidaidan.build^
 ||workroom.build^
 ||youcan.build^

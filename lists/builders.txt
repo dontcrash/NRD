@@ -18,7 +18,6 @@
 ||clientele.builders^
 ||coleman.builders^
 ||company.builders^
-||core.builders^
 ||cornwall.builders^
 ||cscs.builders^
 ||customadu.builders^
@@ -26,6 +25,7 @@
 ||dba.builders^
 ||document.builders^
 ||einstein.builders^
+||ethsyn.builders^
 ||evmos.builders^
 ||fenske.builders^
 ||firstchoice.builders^
@@ -67,7 +67,6 @@
 ||skylineconstruction.builders^
 ||solar.builders^
 ||speedtest.builders^
-||stebnitz.builders^
 ||sticker.builders^
 ||strength.builders^
 ||sun88.builders^
@@ -76,5 +75,6 @@
 ||time.builders^
 ||trustworthy.builders^
 ||utica.builders^
+||utm.builders^
 ||weare.builders^
 ||williamhill.builders^

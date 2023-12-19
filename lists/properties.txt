@@ -21,7 +21,6 @@
 ||bjyama.properties^
 ||blackstone.properties^
 ||bot.properties^
-||brampton.properties^
 ||brm.properties^
 ||buy2sell.properties^
 ||buyinvestment.properties^
@@ -30,6 +29,7 @@
 ||casinoplus.properties^
 ||cavendish.properties^
 ||cebu.properties^
+||ceres.properties^
 ||charlevoix.properties^
 ||chinasl.properties^
 ||choice.properties^
@@ -76,7 +76,7 @@
 ||gem.properties^
 ||gilman.properties^
 ||goal1.properties^
-||helmsrealestate.properties^
+||hashimalsagoff.properties^
 ||hgp.properties^
 ||hillhaven.properties^
 ||homeawayfromhome.properties^
@@ -93,6 +93,7 @@
 ||kasyno.properties^
 ||kingsarms.properties^
 ||landlords.properties^
+||landscaped.properties^
 ||lapis.properties^
 ||lgm.properties^
 ||lifestylehomes.properties^
@@ -126,7 +127,6 @@
 ||piccolo.properties^
 ||polyester.properties^
 ||positiveinvestment.properties^
-||projoel.properties^
 ||propertycentric.properties^
 ||pumped.properties^
 ||punctilious.properties^
@@ -142,6 +142,7 @@
 ||riverstone.properties^
 ||rivieramaya.properties^
 ||rosan.properties^
+||roso.properties^
 ||sabens.properties^
 ||saintlouis.properties^
 ||saltworks.properties^
@@ -161,6 +162,7 @@
 ||sun88.properties^
 ||suprem.properties^
 ||tamarackfalls.properties^
+||tennis.properties^
 ||tep.properties^
 ||thebeachwithinreach.properties^
 ||thind.properties^
@@ -171,7 +173,6 @@
 ||townsendandco.properties^
 ||turtlehill.properties^
 ||ufabet.properties^
-||ug.properties^
 ||venues.properties^
 ||vernisage.properties^
 ||vernissage.properties^
@@ -184,6 +185,7 @@
 ||waxwing.properties^
 ||wbny.properties^
 ||webuyasis8.properties^
+||weekend.properties^
 ||wendyrealtor.properties^
 ||weshare.properties^
 ||wiregrasshomeheroes.properties^

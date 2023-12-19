@@ -26,10 +26,8 @@
 ||enter-zero.claims^
 ||equation.claims^
 ||etoro.claims^
-||expense.claims^
 ||f.claims^
 ||familycourt.claims^
-||fantom.claims^
 ||federalcourt.claims^
 ||flpersonalinjury.claims^
 ||fortworth.claims^
@@ -38,12 +36,12 @@
 ||gifts.claims^
 ||hashflow-com.claims^
 ||hire.claims^
+||hkc.claims^
 ||hollywood.claims^
 ||hyperliquid.claims^
 ||ian.claims^
 ||illuvium-io.claims^
 ||ins.claims^
-||iotex.claims^
 ||iowa.claims^
 ||ixiniumasset.claims^
 ||join-starknet.claims^
@@ -74,7 +72,6 @@
 ||quickswap-io.claims^
 ||rd4u.claims^
 ||robotrade-ai.claims^
-||rocketpool.claims^
 ||sacat.claims^
 ||saet.claims^
 ||scroll-io.claims^
@@ -87,7 +84,6 @@
 ||sun88.claims^
 ||syncswap-io.claims^
 ||synthetix-io.claims^
-||synthetix.claims^
 ||tascat.claims^
 ||tenancy.claims^
 ||tradingview.claims^

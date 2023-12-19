@@ -4,7 +4,6 @@
 ||bbva.observer^
 ||bsky.observer^
 ||comstar.observer^
-||config.observer^
 ||cz.observer^
 ||dailycrypto.observer^
 ||daum.observer^
@@ -20,6 +19,7 @@
 ||gmx.observer^
 ||gpts.observer^
 ||hu.observer^
+||itunes.observer^
 ||javhd.observer^
 ||justin.observer^
 ||kasyno.observer^
