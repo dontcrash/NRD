@@ -43,7 +43,6 @@
 ||nuhorizon.build^
 ||paviana.build^
 ||pixel.build^
-||rails.build^
 ||reflex.build^
 ||replicator.build^
 ||rigawa.build^
@@ -51,12 +50,12 @@
 ||river.build^
 ||secondbrain.build^
 ||segmentlocal.build^
+||sera.build^
 ||shai.build^
 ||smartwall.build^
 ||spacebar.build^
 ||steelconstruction.build^
 ||steelsolutions.build^
-||stigmergy.build^
 ||stonehorn.build^
 ||stripeapp.build^
 ||sup.build^
@@ -67,6 +66,7 @@
 ||thelahainaproject.build^
 ||township.build^
 ||truedup.build^
+||wanna.build^
 ||wemust.build^
 ||whatdidaidan.build^
 ||workroom.build^

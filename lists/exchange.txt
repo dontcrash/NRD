@@ -42,7 +42,6 @@
 ||bitnew.exchange^
 ||bitsramp.exchange^
 ||bitstore.exchange^
-||blackrockinc.exchange^
 ||blasted.exchange^
 ||blastfutures.exchange^
 ||blastswap.exchange^
@@ -50,6 +49,7 @@
 ||bloom.exchange^
 ||blow.exchange^
 ||blur-io.exchange^
+||bluswap.exchange^
 ||boiler.exchange^
 ||bonk.exchange^
 ||boomerang.exchange^
@@ -118,11 +118,11 @@
 ||emx.exchange^
 ||endurance.exchange^
 ||eneftee.exchange^
-||enox.exchange^
 ||enrg.exchange^
 ||equip.exchange^
 ||eris.exchange^
 ||etc.exchange^
+||eternal.exchange^
 ||etherscan.exchange^
 ||ethetf.exchange^
 ||ethx.exchange^
@@ -130,11 +130,9 @@
 ||evolve.exchange^
 ||expedition.exchange^
 ||fairexchanger.exchange^
-||feet.exchange^
 ||fgc.exchange^
 ||fiixedflaoat.exchange^
 ||fin.exchange^
-||finecon.exchange^
 ||finetunes.exchange^
 ||fireball.exchange^
 ||firstratehospitality.exchange^
@@ -199,12 +197,12 @@
 ||mailserver.exchange^
 ||malgo.exchange^
 ||marbles.exchange^
+||mbox.exchange^
 ||mdrx.exchange^
 ||metaquests.exchange^
 ||metri.exchange^
 ||metriverse.exchange^
 ||militaryequipment.exchange^
-||mixpay.exchange^
 ||morwa.exchange^
 ||mulitibit.exchange^
 ||multbitstake.exchange^
@@ -223,6 +221,7 @@
 ||novuscrypto.exchange^
 ||nuchain.exchange^
 ||omniverse.exchange^
+||onlycash.exchange^
 ||opencollab.exchange^
 ||orai.exchange^
 ||ore.exchange^
@@ -248,7 +247,6 @@
 ||rfx.exchange^
 ||rockctx.exchange^
 ||rocket-x.exchange^
-||rta.exchange^
 ||rubics.exchange^
 ||rutor.exchange^
 ||safariexchangeprogram.exchange^
@@ -265,6 +263,7 @@
 ||simulator.exchange^
 ||skullswap.exchange^
 ||snipe.exchange^
+||solbit.exchange^
 ||sols.exchange^
 ||ssk.exchange^
 ||stateinsurance.exchange^
@@ -300,7 +299,6 @@
 ||tyre.exchange^
 ||ultimafarm.exchange^
 ||ultimate.exchange^
-||unco.exchange^
 ||unicash.exchange^
 ||union24.exchange^
 ||unlim.exchange^
@@ -315,13 +313,11 @@
 ||vtrade.exchange^
 ||vuelos.exchange^
 ||vvela.exchange^
-||weblink.exchange^
 ||wgrow.exchange^
 ||win.exchange^
 ||wintap.exchange^
 ||womebet.exchange^
 ||workflow.exchange^
-||world.exchange^
 ||worldwidemarketing.exchange^
 ||wwapex.exchange^
 ||xcoins.exchange^

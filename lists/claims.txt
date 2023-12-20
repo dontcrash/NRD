@@ -26,6 +26,7 @@
 ||enter-zero.claims^
 ||equation.claims^
 ||etoro.claims^
+||extraordinary.claims^
 ||f.claims^
 ||familycourt.claims^
 ||federalcourt.claims^
@@ -71,6 +72,7 @@
 ||quickswap-exchange.claims^
 ||quickswap-io.claims^
 ||rd4u.claims^
+||rewards-velodrome.claims^
 ||robotrade-ai.claims^
 ||sacat.claims^
 ||saet.claims^
@@ -86,6 +88,7 @@
 ||synthetix-io.claims^
 ||tascat.claims^
 ||tenancy.claims^
+||tmg.claims^
 ||tradingview.claims^
 ||trx.claims^
 ||uniswap.claims^

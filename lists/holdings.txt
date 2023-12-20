@@ -23,7 +23,6 @@
 ||eacc.holdings^
 ||east.holdings^
 ||empirecapital.holdings^
-||faraday.holdings^
 ||financier.holdings^
 ||finops.holdings^
 ||game.holdings^
@@ -33,7 +32,6 @@
 ||goodland.holdings^
 ||gregarious.holdings^
 ||h2.holdings^
-||hafner.holdings^
 ||heptinstall.holdings^
 ||heritagehospitality.holdings^
 ||hit.holdings^
@@ -56,6 +54,7 @@
 ||napura.holdings^
 ||neco.holdings^
 ||neomventures.holdings^
+||nessaea.holdings^
 ||opulate.holdings^
 ||parallelhealth.holdings^
 ||pasp.holdings^
@@ -66,9 +65,11 @@
 ||redcedar.holdings^
 ||rescorp.holdings^
 ||rwa.holdings^
+||samgroup.holdings^
 ||sandbox.holdings^
 ||seacormarine.holdings^
 ||season.holdings^
+||skip.holdings^
 ||soro.holdings^
 ||startup.holdings^
 ||suleman.holdings^
@@ -76,7 +77,6 @@
 ||synqd.holdings^
 ||trustex.holdings^
 ||vault.holdings^
-||visionit.holdings^
 ||vox.holdings^
 ||w66d.holdings^
 ||wagroup.holdings^

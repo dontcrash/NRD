@@ -49,7 +49,6 @@
 ||feishu.management^
 ||fgi.management^
 ||finance.management^
-||g4.management^
 ||g4c.management^
 ||gacha.management^
 ||gamebai.management^
@@ -67,15 +66,14 @@
 ||ipd.management^
 ||janiss.management^
 ||jautos.management^
+||jwm.management^
 ||kaia.management^
-||kamra.management^
 ||kasino.management^
 ||klubb.management^
 ||legalops.management^
 ||legalproject.management^
 ||letting.management^
 ||lightbody-vehicle.management^
-||logsa.management^
 ||loterie.management^
 ||mail-box-system-inbounds-outlook.management^
 ||mails-delivery-protection-mimemcast-outlook.management^
@@ -90,7 +88,6 @@
 ||myplan.management^
 ||neumayer.management^
 ||office365-microsoft365.management^
-||olive.management^
 ||our.management^
 ||overdrive.management^
 ||pacifica.management^
@@ -105,7 +102,6 @@
 ||provider.management^
 ||queensboro.management^
 ||rectify.management^
-||reddog.management^
 ||relia.management^
 ||rkc.management^
 ||roboadvisor.management^
@@ -117,8 +113,8 @@
 ||selfmail-outlook-mimemcast-protection.management^
 ||sender-protection-mimemcast-outlook.management^
 ||sendmail-protection-mimemcast-outlook.management^
+||ships.management^
 ||shopee.management^
-||sigston.management^
 ||sixstring.management^
 ||skin.management^
 ||smartevent.management^

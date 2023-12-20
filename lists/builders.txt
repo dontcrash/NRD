@@ -26,6 +26,7 @@
 ||document.builders^
 ||einstein.builders^
 ||ethsyn.builders^
+||ethsync.builders^
 ||evmos.builders^
 ||fenske.builders^
 ||firstchoice.builders^

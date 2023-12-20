@@ -26,7 +26,6 @@
 ||allaitoolslist.tools^
 ||allieddiamond.tools^
 ||allseller.tools^
-||altitude.tools^
 ||ampkids.tools^
 ||analogue.tools^
 ||apein.tools^
@@ -53,6 +52,7 @@
 ||bigjpg.tools^
 ||blacksnake.tools^
 ||blanca.tools^
+||blox.tools^
 ||bosch-ru.tools^
 ||botkit.tools^
 ||brandium.tools^
@@ -65,7 +65,10 @@
 ||canberra.tools^
 ||caracas.tools^
 ||careergo.tools^
+||carver.tools^
+||caseconvert.tools^
 ||cash4.tools^
+||cashflow.tools^
 ||cbdc.tools^
 ||celatls.tools^
 ||cenex.tools^
@@ -80,6 +83,7 @@
 ||chimera.tools^
 ||cine.tools^
 ||co-intelligence.tools^
+||cognitio.tools^
 ||compare.tools^
 ||compareai.tools^
 ||compilers.tools^
@@ -88,7 +92,6 @@
 ||convertisseur.tools^
 ||cooldev.tools^
 ||copilots.tools^
-||correction-mailing-address.tools^
 ||crosspost.tools^
 ||cryptominer.tools^
 ||cryptoslam.tools^
@@ -109,7 +112,6 @@
 ||diagnostics.tools^
 ||divot.tools^
 ||dkim.tools^
-||downstream.tools^
 ||drgdirect.tools^
 ||drone.tools^
 ||dslr.tools^
@@ -123,6 +125,7 @@
 ||enter.tools^
 ||entropy.tools^
 ||equip.tools^
+||eris.tools^
 ||excel.tools^
 ||ezms.tools^
 ||faceless.tools^
@@ -132,7 +135,6 @@
 ||fieldcode.tools^
 ||financegpt.tools^
 ||findbest.tools^
-||fll.tools^
 ||floristai.tools^
 ||foggy.tools^
 ||fpcontent.tools^
@@ -141,6 +143,7 @@
 ||frenpet.tools^
 ||frida.tools^
 ||frugal.tools^
+||fuse.tools^
 ||gaichatbot.tools^
 ||gamebai.tools^
 ||gamebai88.tools^
@@ -149,7 +152,6 @@
 ||gauss.tools^
 ||gece.tools^
 ||geminiultra.tools^
-||geppetto.tools^
 ||geraetewart.tools^
 ||getai.tools^
 ||gettrx.tools^
@@ -162,7 +164,6 @@
 ||gst.tools^
 ||guardaserie.tools^
 ||hackintosh.tools^
-||handi.tools^
 ||hanoi.tools^
 ||healthinsurance.tools^
 ||healthspan.tools^
@@ -181,7 +182,6 @@
 ||isphere.tools^
 ||izmir.tools^
 ||josh.tools^
-||justai.tools^
 ||karaoke.tools^
 ||kasyno.tools^
 ||katom.tools^
@@ -192,9 +192,8 @@
 ||lazuli.tools^
 ||lifecycle.tools^
 ||loterie.tools^
+||luhn.tools^
 ||lyls.tools^
-||m2m.tools^
-||m4m.tools^
 ||mailing-address-change.tools^
 ||majic.tools^
 ||makecoin.tools^
@@ -244,11 +243,13 @@
 ||npcaitoolkit.tools^
 ||npckit.tools^
 ||npu.tools^
+||nxt.tools^
 ||oakland.tools^
 ||oceanbatt.tools^
 ||omaxemall.tools^
 ||onboard.tools^
 ||onlyone.tools^
+||opinion.tools^
 ||optimus.tools^
 ||orgapp.tools^
 ||owly.tools^
@@ -290,7 +291,6 @@
 ||readyplayer.tools^
 ||redaction.tools^
 ||redditch.tools^
-||reelspeed.tools^
 ||refactor.tools^
 ||renton.tools^
 ||revanced.tools^
@@ -301,7 +301,6 @@
 ||rios.tools^
 ||roadmap.tools^
 ||rushbet.tools^
-||s5h5.tools^
 ||sajhasuchana.tools^
 ||saks.tools^
 ||salute.tools^
@@ -336,7 +335,9 @@
 ||swipe.tools^
 ||systeme.tools^
 ||tap.tools^
+||tat.tools^
 ||taxpro.tools^
+||tcservices.tools^
 ||telega.tools^
 ||thebest.tools^
 ||thecreative.tools^
@@ -348,17 +349,14 @@
 ||top.tools^
 ||top50ai.tools^
 ||trainer.tools^
-||trum.tools^
 ||trustno.tools^
 ||twr.tools^
 ||ukcore.tools^
-||unapologetic.tools^
 ||unban.tools^
 ||upload-mailing-address.tools^
 ||uptodate.tools^
 ||utxo.tools^
 ||videosave.tools^
-||vinanalytic.tools^
 ||vio88win.tools^
 ||visualflow360.tools^
 ||vmail.tools^
@@ -380,3 +378,4 @@
 ||yachts.tools^
 ||yami.tools^
 ||yeti.tools^
+||zhongjietools.tools^
