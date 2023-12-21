@@ -10,10 +10,8 @@
 ||carinsurance.claims^
 ||certeurope.claims^
 ||certifiedpublicadjuster.claims^
-||chain-link.claims^
 ||childsupport.claims^
 ||civiltribunal.claims^
-||claimguard.claims^
 ||claimsmanagment.claims^
 ||claimster.claims^
 ||claimtrak.claims^
@@ -21,7 +19,6 @@
 ||commonlaw.claims^
 ||covidcompensation.claims^
 ||cpia.claims^
-||cuevana.claims^
 ||dailycheck.claims^
 ||enter-zero.claims^
 ||equation.claims^
@@ -47,6 +44,7 @@
 ||ixiniumasset.claims^
 ||join-starknet.claims^
 ||kaleido.claims^
+||lasvegas.claims^
 ||leroymerlin.claims^
 ||looksrare.claims^
 ||magpiexyz.claims^
@@ -74,6 +72,7 @@
 ||rd4u.claims^
 ||rewards-velodrome.claims^
 ||robotrade-ai.claims^
+||rollbitrewards.claims^
 ||sacat.claims^
 ||saet.claims^
 ||scroll-io.claims^
@@ -90,9 +89,8 @@
 ||tenancy.claims^
 ||tmg.claims^
 ||tradingview.claims^
-||trx.claims^
-||uniswap.claims^
 ||unsubstantiated.claims^
+||vanhawkroofing.claims^
 ||vcat.claims^
 ||verasity-io.claims^
 ||vulcanforged.claims^

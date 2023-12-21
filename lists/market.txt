@@ -20,21 +20,21 @@
 ||airy.market^
 ||algorithmic.market^
 ||allone.market^
-||alloy.market^
 ||allstory.market^
 ||amir.market^
 ||aog.market^
 ||apovault.market^
+||arbs.market^
 ||artshungry.market^
 ||atsoko.market^
 ||avav.market^
 ||avtoshtamp.market^
 ||awakened.market^
-||babu.market^
 ||bama.market^
 ||baseline.market^
 ||bazaar.market^
 ||behdasht.market^
+||bells.market^
 ||bems.market^
 ||betaalverzoek.market^
 ||bishkekauto.market^
@@ -51,10 +51,10 @@
 ||buutills.market^
 ||buybuff.market^
 ||capacity.market^
+||catalyst.market^
 ||cbuff.market^
 ||cbuffk.market^
 ||ccbuff.market^
-||chesterco.market^
 ||codepoint.market^
 ||collector.market^
 ||countryclub.market^
@@ -63,6 +63,7 @@
 ||cs-buff.market^
 ||csv.market^
 ||ctv.market^
+||ctx.market^
 ||cybord.market^
 ||d365.market^
 ||dala.market^
@@ -78,6 +79,7 @@
 ||dx.market^
 ||dynamics.market^
 ||e-home.market^
+||e-sim.market^
 ||ebbuff.market^
 ||ehome.market^
 ||ellasuper.market^
@@ -107,6 +109,7 @@
 ||grabngo.market^
 ||greennorth.market^
 ||hack.market^
+||hawoow.market^
 ||hellcase.market^
 ||henan.market^
 ||hit-proxy.market^
@@ -130,7 +133,6 @@
 ||logene.market^
 ||lounge.market^
 ||magick.market^
-||makechange.market^
 ||mbb.market^
 ||mbuff.market^
 ||mcpe.market^
@@ -147,7 +149,6 @@
 ||mommy.market^
 ||morningsunshine.market^
 ||mosaic.market^
-||movemove.market^
 ||mvflea.market^
 ||mybuff.market^
 ||mysolar.market^
@@ -176,7 +177,6 @@
 ||pili.market^
 ||pimd.market^
 ||pixa.market^
-||players.market^
 ||plus500.market^
 ||polatlarqr.market^
 ||pols.market^
@@ -190,7 +190,6 @@
 ||quasar.market^
 ||raph.market^
 ||raretaste.market^
-||rayan.market^
 ||rbuffk.market^
 ||rdv.market^
 ||reddot.market^
@@ -202,6 +201,7 @@
 ||rosa.market^
 ||rossvik.market^
 ||rrbuff.market^
+||rtx.market^
 ||russ.market^
 ||sale-buff.market^
 ||sanprof.market^
@@ -217,17 +217,16 @@
 ||skinsbuff.market^
 ||skitz.market^
 ||smak.market^
-||soap2day.market^
 ||solidarity.market^
 ||sols.market^
 ||spartak.market^
 ||steelbuildings.market^
+||stg.market^
 ||store-buff.market^
 ||streem.market^
 ||stump.market^
 ||svetoch.market^
 ||svoi.market^
-||sweat.market^
 ||sweep.market^
 ||tep.market^
 ||theclean.market^
@@ -241,6 +240,7 @@
 ||trustwallet.market^
 ||tuner.market^
 ||umb.market^
+||unidex.market^
 ||unisol.market^
 ||unisoln.market^
 ||uyut.market^
@@ -249,12 +249,11 @@
 ||wake.market^
 ||wbuff.market^
 ||weshare.market^
+||whales.market^
 ||whiteliving.market^
 ||xn----vtbaksfq3e.market^
 ||xn--80afn.market^
-||xn--h1adbcke2e9a.market^
 ||xuchang.market^
-||y3.market^
 ||yap.market^
 ||yeralti.market^
 ||ygs.market^
@@ -265,4 +264,5 @@
 ||zeta.market^
 ||zhemchuzhnii.market^
 ||zhongguoyimei.market^
+||zov.market^
 ||zrc.market^

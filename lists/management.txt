@@ -6,7 +6,6 @@
 ||aac.management^
 ||abfall.management^
 ||aggregator.management^
-||alpha-security.management^
 ||apostrophe.management^
 ||area.management^
 ||assetsproperty.management^
@@ -18,14 +17,10 @@
 ||bezdelnik.management^
 ||bgp.management^
 ||bjyama.management^
-||brisbanepest.management^
 ||businesscreations.management^
 ||carvoeiro.management^
 ||catalyst.management^
 ||cca.management^
-||centralproperty.management^
-||chamberstheory.management^
-||classact.management^
 ||clean.management^
 ||clearvision.management^
 ||coastalhome.management^
@@ -44,7 +39,6 @@
 ||entwickler.management^
 ||ephemeral.management^
 ||esi.management^
-||etalent.management^
 ||fachai.management^
 ||feishu.management^
 ||fgi.management^
@@ -54,8 +48,6 @@
 ||gamebai.management^
 ||gamebaidoithuong.management^
 ||globalexpress.management^
-||greatass.management^
-||gsp.management^
 ||gymnastics.management^
 ||hotmart.management^
 ||hubs.management^
@@ -63,6 +55,7 @@
 ||hype.management^
 ||ideas.management^
 ||infomail-box-system-inbounds-outlook.management^
+||input.management^
 ||ipd.management^
 ||janiss.management^
 ||jautos.management^
@@ -73,7 +66,6 @@
 ||legalops.management^
 ||legalproject.management^
 ||letting.management^
-||lightbody-vehicle.management^
 ||loterie.management^
 ||mail-box-system-inbounds-outlook.management^
 ||mails-delivery-protection-mimemcast-outlook.management^
@@ -86,9 +78,7 @@
 ||msi.management^
 ||myopia.management^
 ||myplan.management^
-||neumayer.management^
 ||office365-microsoft365.management^
-||our.management^
 ||overdrive.management^
 ||pacifica.management^
 ||pandemonium.management^
@@ -96,7 +86,6 @@
 ||payu.management^
 ||ploudos.management^
 ||positive.management^
-||privatefinance.management^
 ||projection.management^
 ||providence.management^
 ||provider.management^
@@ -105,7 +94,6 @@
 ||relia.management^
 ||rkc.management^
 ||roboadvisor.management^
-||royal.management^
 ||rubino.management^
 ||rwa.management^
 ||ryanair.management^
@@ -128,7 +116,6 @@
 ||symbol.management^
 ||tep.management^
 ||theartistandyjames.management^
-||thomascapital.management^
 ||tistory.management^
 ||tna.management^
 ||tqp.management^

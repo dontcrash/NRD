@@ -5,7 +5,6 @@
 ||bellrise.build^
 ||bestnew.build^
 ||biscuits.build^
-||boardgame.build^
 ||boldtex.build^
 ||bonaqua.build^
 ||caisson.build^
@@ -19,6 +18,7 @@
 ||dotmake.build^
 ||easterton.build^
 ||echtfab.build^
+||elementaldesign.build^
 ||elliotthardie.build^
 ||esim.build^
 ||fabmfg.build^
@@ -52,7 +52,6 @@
 ||segmentlocal.build^
 ||sera.build^
 ||shai.build^
-||smartwall.build^
 ||spacebar.build^
 ||steelconstruction.build^
 ||steelsolutions.build^
@@ -69,5 +68,4 @@
 ||wanna.build^
 ||wemust.build^
 ||whatdidaidan.build^
-||workroom.build^
 ||youcan.build^

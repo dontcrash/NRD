@@ -10,16 +10,17 @@
 ||artmarket.holdings^
 ||aspiredmanagements.holdings^
 ||atmospheric.holdings^
+||auto.holdings^
 ||automated.holdings^
 ||bafin.holdings^
 ||bam.holdings^
+||bcf.holdings^
 ||beautylabo.holdings^
 ||beresford.holdings^
 ||bjyama.holdings^
 ||blueprintinvestments.holdings^
 ||chaplin.holdings^
 ||decisiontree.holdings^
-||domino.holdings^
 ||eacc.holdings^
 ||east.holdings^
 ||empirecapital.holdings^
@@ -37,7 +38,6 @@
 ||hit.holdings^
 ||hitclub.holdings^
 ||hodges.holdings^
-||inkling.holdings^
 ||iranianatlas.holdings^
 ||jetjac.holdings^
 ||jred.holdings^
@@ -49,7 +49,6 @@
 ||madisonintl.holdings^
 ||mdcdiesel.holdings^
 ||mema.holdings^
-||method.holdings^
 ||mikheev.holdings^
 ||napura.holdings^
 ||neco.holdings^
@@ -60,6 +59,7 @@
 ||pasp.holdings^
 ||pay.holdings^
 ||peridot.holdings^
+||pod.holdings^
 ||rambo.holdings^
 ||rectify.holdings^
 ||redcedar.holdings^
@@ -82,7 +82,6 @@
 ||wagroup.holdings^
 ||waste.holdings^
 ||windowcleaner.holdings^
-||workofart.holdings^
 ||xbt.holdings^
 ||yuva.holdings^
 ||zrobto.holdings^

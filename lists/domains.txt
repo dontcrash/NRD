@@ -16,6 +16,7 @@
 ||bbq.domains^
 ||bf.domains^
 ||bitgert.domains^
+||btns.domains^
 ||bulldog.domains^
 ||buyai.domains^
 ||campbell.domains^
@@ -64,7 +65,6 @@
 ||mastering.domains^
 ||mormon.domains^
 ||mrpc.domains^
-||mtrg.domains^
 ||multiversx.domains^
 ||murray.domains^
 ||my-ens.domains^
@@ -77,7 +77,6 @@
 ||nns.domains^
 ||npu.domains^
 ||olympia.domains^
-||omniscale.domains^
 ||pace.domains^
 ||pandora.domains^
 ||peterson.domains^
@@ -85,6 +84,7 @@
 ||phoenix.domains^
 ||pond.domains^
 ||pricelist.domains^
+||property.domains^
 ||qa.domains^
 ||qns.domains^
 ||raven.domains^
@@ -95,7 +95,9 @@
 ||ryukyu.domains^
 ||scl.domains^
 ||selfhosted.domains^
+||sellbuy.domains^
 ||shopnet.domains^
+||sinkhole.domains^
 ||spa.domains^
 ||squat.domains^
 ||ssh.domains^
@@ -108,8 +110,6 @@
 ||teleport.domains^
 ||thompson.domains^
 ||traders.domains^
-||umlaute.domains^
-||unfiltered.domains^
 ||valkyrie.domains^
 ||vigilance.domains^
 ||voting.domains^
