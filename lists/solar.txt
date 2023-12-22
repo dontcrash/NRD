@@ -30,7 +30,6 @@
 ||defi.solar^
 ||dekaden.solar^
 ||empr.solar^
-||energieoptimaal.solar^
 ||estaciondeenergia.solar^
 ||eur.solar^
 ||euro.solar^
@@ -59,7 +58,6 @@
 ||inquire.solar^
 ||jrg.solar^
 ||karga.solar^
-||kasino.solar^
 ||makler.solar^
 ||masterclass.solar^
 ||mwh.solar^
@@ -78,7 +76,6 @@
 ||planetenergy.solar^
 ||ppp.solar^
 ||publicgrid.solar^
-||pvgis.solar^
 ||qubit.solar^
 ||reach.solar^
 ||red.solar^
@@ -92,6 +89,7 @@
 ||signature.solar^
 ||sile.solar^
 ||sixtyfour.solar^
+||sky.solar^
 ||skycatcher.solar^
 ||sls.solar^
 ||sma.solar^
@@ -118,6 +116,8 @@
 ||top10.solar^
 ||trans.solar^
 ||trunkey.solar^
+||turo.solar^
+||turoparking.solar^
 ||vecinos.solar^
 ||veins.solar^
 ||vergleiche.solar^
@@ -129,6 +129,3 @@
 ||wildheart.solar^
 ||wolfriver.solar^
 ||wplay.solar^
-||x-roof.solar^
-||xroof.solar^
-||zesty.solar^

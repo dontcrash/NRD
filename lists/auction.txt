@@ -17,7 +17,6 @@
 ||bigapple.auction^
 ||bin.auction^
 ||bingo.auction^
-||bitmap.auction^
 ||blackopal.auction^
 ||board.auction^
 ||california.auction^
@@ -45,6 +44,7 @@
 ||go-dove.auction^
 ||gobid.auction^
 ||hanime1.auction^
+||heritageplates.auction^
 ||hiphapp.auction^
 ||hoosier.auction^
 ||hotmart.auction^
@@ -60,7 +60,6 @@
 ||jpn.auction^
 ||kakao.auction^
 ||keywords.auction^
-||kumarhane.auction^
 ||labdiamond.auction^
 ||labdiamonds.auction^
 ||lakefront.auction^
@@ -87,10 +86,12 @@
 ||northwestdiecast.auction^
 ||oceanside.auction^
 ||offers.auction^
+||onlineplate.auction^
 ||peace.auction^
 ||petroliana.auction^
 ||pex.auction^
 ||pinnacle.auction^
+||plates.auction^
 ||postbank.auction^
 ||prairie.auction^
 ||prop.auction^
@@ -99,7 +100,6 @@
 ||realworldasset.auction^
 ||redlink.auction^
 ||rent.auction^
-||roubles.auction^
 ||roughopal.auction^
 ||runs.auction^
 ||rutor.auction^

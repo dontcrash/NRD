@@ -5,6 +5,7 @@
 ||bellrise.build^
 ||bestnew.build^
 ||biscuits.build^
+||blockchainexchange.build^
 ||boldtex.build^
 ||bonaqua.build^
 ||caisson.build^
@@ -34,7 +35,6 @@
 ||integrations.build^
 ||konnen.build^
 ||layer2.build^
-||libertas.build^
 ||linear.build^
 ||listen.build^
 ||madara.build^
@@ -44,7 +44,6 @@
 ||paviana.build^
 ||pixel.build^
 ||reflex.build^
-||replicator.build^
 ||rigawa.build^
 ||ringer.build^
 ||river.build^
@@ -66,6 +65,7 @@
 ||township.build^
 ||truedup.build^
 ||wanna.build^
+||wav.build^
 ||wemust.build^
 ||whatdidaidan.build^
 ||youcan.build^

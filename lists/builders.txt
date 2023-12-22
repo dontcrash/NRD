@@ -5,6 +5,7 @@
 ||apollo.builders^
 ||arboreal.builders^
 ||arise.builders^
+||arntz.builders^
 ||article.builders^
 ||bcgame.builders^
 ||brimark.builders^
@@ -39,13 +40,13 @@
 ||hit.builders^
 ||irish.builders^
 ||kakao.builders^
-||kasino.builders^
 ||lawyers.builders^
 ||layer2.builders^
 ||live.builders^
 ||loterie.builders^
 ||messenger.builders^
 ||midnight.builders^
+||modcontech.builders^
 ||monarch.builders^
 ||norwegian.builders^
 ||olivine.builders^
