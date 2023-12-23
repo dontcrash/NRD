@@ -64,7 +64,6 @@
 ||campsdeveloper.tools^
 ||canberra.tools^
 ||caracas.tools^
-||careergo.tools^
 ||carver.tools^
 ||caseconvert.tools^
 ||cash4.tools^
@@ -83,7 +82,6 @@
 ||cognitio.tools^
 ||compare.tools^
 ||compareai.tools^
-||compilers.tools^
 ||connectome.tools^
 ||contents.tools^
 ||cooldev.tools^
@@ -95,6 +93,7 @@
 ||customerobsessed.tools^
 ||customize.tools^
 ||cybsec.tools^
+||cypher.tools^
 ||d-eship.tools^
 ||dartmouth.tools^
 ||dawnet.tools^
@@ -118,12 +117,11 @@
 ||eliteai.tools^
 ||enter.tools^
 ||entropy.tools^
-||equip.tools^
 ||eris.tools^
-||excel.tools^
 ||ezms.tools^
 ||faceless.tools^
 ||fachhandwerker.tools^
+||falke.tools^
 ||fb88.tools^
 ||feishu.tools^
 ||fieldcode.tools^
@@ -138,6 +136,7 @@
 ||frid.tools^
 ||frida.tools^
 ||fuse.tools^
+||gaga.tools^
 ||gaichatbot.tools^
 ||gamebai.tools^
 ||gamebai88.tools^
@@ -165,12 +164,10 @@
 ||hocoosbuilder.tools^
 ||honk.tools^
 ||hubitai.tools^
-||hunt.tools^
 ||ide.tools^
 ||iforgot.tools^
 ||inj.tools^
 ||integr8.tools^
-||inventor.tools^
 ||io-web3.tools^
 ||irr.tools^
 ||isphere.tools^
@@ -179,6 +176,7 @@
 ||karaoke.tools^
 ||katom.tools^
 ||kfm.tools^
+||khrysos.tools^
 ||killgore.tools^
 ||kingkong.tools^
 ||layerx.tools^
@@ -194,11 +192,8 @@
 ||makecoin.tools^
 ||makecorrections-addressee-address.tools^
 ||makenft.tools^
-||malgo.tools^
-||mantra.tools^
 ||marketminds.tools^
 ||mateiradu.tools^
-||matrica.tools^
 ||matt.tools^
 ||maurer.tools^
 ||mckinney.tools^
@@ -216,6 +211,7 @@
 ||moro.tools^
 ||mtg.tools^
 ||multistream.tools^
+||mvx.tools^
 ||my-kitchen.tools^
 ||myit.tools^
 ||mythic.tools^
@@ -225,7 +221,6 @@
 ||naming.tools^
 ||nanning.tools^
 ||napoli.tools^
-||nbcs.tools^
 ||needed.tools^
 ||networkmarketing.tools^
 ||newport.tools^
@@ -253,7 +248,6 @@
 ||parkit.tools^
 ||parma.tools^
 ||pasadena.tools^
-||paw.tools^
 ||payu.tools^
 ||people.tools^
 ||peoria.tools^
@@ -297,7 +291,6 @@
 ||saks.tools^
 ||salute.tools^
 ||secondbrain.tools^
-||sei.tools^
 ||ser.tools^
 ||server-dns.tools^
 ||shahed4u.tools^
@@ -313,7 +306,9 @@
 ||soca.tools^
 ||socialdata.tools^
 ||sparta.tools^
+||specs.tools^
 ||spm.tools^
+||square-cash.tools^
 ||stablevideodiffusion.tools^
 ||staple.tools^
 ||stech.tools^
@@ -328,19 +323,21 @@
 ||talent-assessment.tools^
 ||tap.tools^
 ||tat.tools^
-||taxpro.tools^
 ||tcservices.tools^
+||tee.tools^
 ||telega.tools^
 ||thebest.tools^
 ||tinybox.tools^
 ||tistory.tools^
 ||titaniumrock.tools^
 ||tk.tools^
+||tomtom.tools^
 ||toolslevelup.tools^
 ||toolsnicremasterizado.tools^
 ||toolvirals.tools^
 ||top.tools^
 ||top50ai.tools^
+||topo.tools^
 ||trainer.tools^
 ||trustno.tools^
 ||twr.tools^
@@ -366,8 +363,8 @@
 ||wuxia.tools^
 ||wx.tools^
 ||wyze.tools^
+||x1000.tools^
 ||xapi.tools^
-||xpres.tools^
 ||xscan.tools^
 ||xyz.tools^
 ||yachts.tools^

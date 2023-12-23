@@ -5,6 +5,7 @@
 ||aac.management^
 ||abfall.management^
 ||aggregator.management^
+||ajpservice.management^
 ||apostrophe.management^
 ||area.management^
 ||assetsproperty.management^
@@ -23,9 +24,7 @@
 ||clean.management^
 ||clearvision.management^
 ||coastalhome.management^
-||crw.management^
 ||cybersec.management^
-||ddp.management^
 ||decisiontree.management^
 ||designity.management^
 ||developers.management^
@@ -64,6 +63,7 @@
 ||legalproject.management^
 ||letting.management^
 ||loterie.management^
+||luminacare.management^
 ||mail-box-system-inbounds-outlook.management^
 ||mail-protection-outlook-mimecast.management^
 ||mails-delivery-protection-mimemcast-outlook.management^
@@ -82,11 +82,10 @@
 ||pandemonium.management^
 ||parimatch.management^
 ||payu.management^
-||ploudos.management^
+||porno.management^
 ||positive.management^
 ||projection.management^
 ||providence.management^
-||queensboro.management^
 ||rectify.management^
 ||relia.management^
 ||rkc.management^
@@ -94,6 +93,7 @@
 ||rubino.management^
 ||rwa.management^
 ||ryanair.management^
+||sbs.management^
 ||secret.management^
 ||selfmail-outlook-mimemcast-protection.management^
 ||sender-protection-mimemcast-outlook.management^

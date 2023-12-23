@@ -1,6 +1,5 @@
 ||0.claims^
 ||aat.claims^
-||aave-protocol.claims^
 ||airline.claims^
 ||billionaire.claims^
 ||bitcoin.claims^
@@ -17,6 +16,7 @@
 ||claimtrak.claims^
 ||columbus.claims^
 ||commonlaw.claims^
+||covid.claims^
 ||covidcompensation.claims^
 ||cpia.claims^
 ||dailycheck.claims^
@@ -30,7 +30,7 @@
 ||flpersonalinjury.claims^
 ||fortworth.claims^
 ||frame-xyz.claims^
-||ftx-lawsuit.claims^
+||frame.claims^
 ||gamedoithuong.claims^
 ||gifts.claims^
 ||hashflow-com.claims^
@@ -62,7 +62,6 @@
 ||northamerican.claims^
 ||ntcat.claims^
 ||pancakeswapv5.claims^
-||paraswap.claims^
 ||pendle.claims^
 ||pennsylvania.claims^
 ||phygitals.claims^
@@ -84,6 +83,7 @@
 ||silo-finance.claims^
 ||soap2day.claims^
 ||socialservices.claims^
+||spam.claims^
 ||strk.claims^
 ||sun88.claims^
 ||syncswap-io.claims^
@@ -93,13 +93,11 @@
 ||tmg.claims^
 ||tradingview.claims^
 ||unclaimedproperty.claims^
-||unsubstantiated.claims^
 ||vanhawkroofing.claims^
 ||vanity.claims^
 ||vcat.claims^
 ||verasity-io.claims^
 ||vulcanforged.claims^
-||washingtonadjusters.claims^
 ||will.claims^
 ||xrp.claims^
 ||ycombinator.claims^

@@ -27,6 +27,7 @@
 ||chzns.domains^
 ||ci.domains^
 ||contract.domains^
+||d3shib.domains^
 ||daofor.domains^
 ||delhi.domains^
 ||developed.domains^
@@ -45,7 +46,7 @@
 ||gh.domains^
 ||gns.domains^
 ||hanf.domains^
-||harryet.domains^
+||helsinki.domains^
 ||here.domains^
 ||hijack.domains^
 ||hit.domains^
@@ -56,12 +57,11 @@
 ||jns.domains^
 ||kindred.domains^
 ||kromans.domains^
-||kubet.domains^
 ||let.domains^
-||lot.domains^
 ||m2.domains^
 ||marks.domains^
 ||mastering.domains^
+||misspelled.domains^
 ||mormon.domains^
 ||mrpc.domains^
 ||multiversx.domains^
@@ -114,7 +114,6 @@
 ||traders.domains^
 ||valkyrie.domains^
 ||vigilance.domains^
-||voting.domains^
 ||waco.domains^
 ||warden.domains^
 ||we.domains^

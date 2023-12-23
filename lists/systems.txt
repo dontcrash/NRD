@@ -7,7 +7,6 @@
 ||acu.systems^
 ||advanced-simulation.systems^
 ||aiagents.systems^
-||air-plate-portal.systems^
 ||alexis.systems^
 ||aligned.systems^
 ||alpinewindow.systems^
@@ -22,6 +21,7 @@
 ||arte.systems^
 ||astratech.systems^
 ||astreus.systems^
+||astrofood.systems^
 ||asuer.systems^
 ||atai.systems^
 ||atl.systems^
@@ -72,7 +72,7 @@
 ||compose.systems^
 ||contest.systems^
 ||controlledchaos.systems^
-||coolmoviez.systems^
+||cord.systems^
 ||coservant.systems^
 ||couture.systems^
 ||cyberviking.systems^
@@ -92,7 +92,6 @@
 ||edify.systems^
 ||efishery.systems^
 ||efyra.systems^
-||electrum.systems^
 ||elementlogic.systems^
 ||elliott.systems^
 ||empowerment.systems^
@@ -105,8 +104,8 @@
 ||escapevelocity.systems^
 ||etigon.systems^
 ||evacuationalert.systems^
-||evidence.systems^
 ||factory.systems^
+||factorydata.systems^
 ||fasts.systems^
 ||faulty.systems^
 ||fiesta.systems^
@@ -121,7 +120,6 @@
 ||freshdigi.systems^
 ||gcc-uog.systems^
 ||gefest.systems^
-||goodsteward.systems^
 ||googol.systems^
 ||greencloud.systems^
 ||guidehuman.systems^
@@ -154,7 +152,6 @@
 ||jj.systems^
 ||jmd.systems^
 ||joho.systems^
-||juggernaut.systems^
 ||kaspa.systems^
 ||kdorf.systems^
 ||kernelstudio.systems^
@@ -163,17 +160,16 @@
 ||kml.systems^
 ||kto.systems^
 ||kyte.systems^
+||lascampanas.systems^
 ||lavis.systems^
 ||learncloud.systems^
 ||leo.systems^
 ||linckode.systems^
-||links.systems^
 ||little.systems^
 ||locomotive.systems^
 ||loquacious.systems^
 ||lossless.systems^
 ||lucksbane.systems^
-||luxodon.systems^
 ||mariosanchez.systems^
 ||mavilio.systems^
 ||mazda.systems^
@@ -190,7 +186,6 @@
 ||mrv.systems^
 ||mtechmail.systems^
 ||muamua.systems^
-||nahruplaceleptop.systems^
 ||nautilus-smart.systems^
 ||ncs.systems^
 ||nctm.systems^
@@ -245,7 +240,6 @@
 ||rieger.systems^
 ||romantic.systems^
 ||rotations.systems^
-||ruby.systems^
 ||s666.systems^
 ||sander.systems^
 ||sanita.systems^
@@ -271,6 +265,7 @@
 ||smartsecurity.systems^
 ||sockeye.systems^
 ||sougi.systems^
+||spacefood.systems^
 ||speidel.systems^
 ||spoofing.systems^
 ||stagelife.systems^
@@ -282,14 +277,15 @@
 ||sun88.systems^
 ||supersimple.systems^
 ||sweg.systems^
+||symbiont.systems^
 ||symmetry.systems^
 ||tangam.systems^
 ||tangle.systems^
 ||techtalktrinity.systems^
 ||terramedia.systems^
 ||thehub.systems^
-||timi.systems^
 ||tinder.systems^
+||tomtom.systems^
 ||trapp.systems^
 ||trentec.systems^
 ||udn.systems^
@@ -303,9 +299,8 @@
 ||vision2030.systems^
 ||vito.systems^
 ||w4h.systems^
-||walters.systems^
 ||warehousing.systems^
-||wavform.systems^
+||watchit.systems^
 ||webwise.systems^
 ||wecan.systems^
 ||wheretodance.systems^
@@ -322,4 +317,5 @@
 ||y5.systems^
 ||yptc.systems^
 ||zeal.systems^
+||zebra.systems^
 ||zonewatch.systems^

@@ -8,7 +8,6 @@
 ||9999.discount^
 ||actor.discount^
 ||agents.discount^
-||airlinetickets.discount^
 ||alicante.discount^
 ||any.discount^
 ||audio.discount^
@@ -23,7 +22,9 @@
 ||cn.discount^
 ||company.discount^
 ||coop.discount^
+||credobeauty.discount^
 ||darwin.discount^
+||dcx.discount^
 ||exposed.discount^
 ||express.discount^
 ||fundraising.discount^
@@ -37,6 +38,7 @@
 ||hit.discount^
 ||hyderabad.discount^
 ||independence.discount^
+||laptops.discount^
 ||lease.discount^
 ||live.discount^
 ||luggage.discount^
@@ -45,6 +47,7 @@
 ||maison.discount^
 ||medicineman.discount^
 ||models.discount^
+||more.discount^
 ||plotter.discount^
 ||quality.discount^
 ||sextoys.discount^
@@ -56,6 +59,7 @@
 ||tangem.discount^
 ||teen.discount^
 ||telephone.discount^
+||the.discount^
 ||therapist.discount^
 ||tiles.discount^
 ||tupismo.discount^

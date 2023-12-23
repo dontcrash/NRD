@@ -14,7 +14,6 @@
 ||atom.financial^
 ||awc.financial^
 ||bbry.financial^
-||bitmoney.financial^
 ||bluespace.financial^
 ||bot.financial^
 ||ca.financial^
@@ -26,9 +25,8 @@
 ||cswap.financial^
 ||cybersecurity.financial^
 ||davidson.financial^
+||dcx.financial^
 ||dpf.financial^
-||elysian.financial^
-||emerald.financial^
 ||figo.financial^
 ||fuse.financial^
 ||gamedoithuong.financial^
@@ -40,7 +38,6 @@
 ||hawkstreet.financial^
 ||highlight.financial^
 ||hit.financial^
-||hurricane.financial^
 ||ikigai.financial^
 ||incubator.financial^
 ||indiana.financial^
@@ -78,7 +75,6 @@
 ||quiver.financial^
 ||remove.financial^
 ||revolut.financial^
-||ruby.financial^
 ||sciencecapital.financial^
 ||sehk.financial^
 ||shake.financial^

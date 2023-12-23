@@ -24,7 +24,6 @@
 ||cabinet.supply^
 ||carpart.supply^
 ||carparts.supply^
-||cee.supply^
 ||charleston.supply^
 ||chosen.supply^
 ||clickbuy.supply^
@@ -34,7 +33,6 @@
 ||domotics.supply^
 ||dotsvg.supply^
 ||dystopian.supply^
-||emerald.supply^
 ||enchantment.supply^
 ||enterprises.supply^
 ||erdenes.supply^
@@ -53,11 +51,11 @@
 ||iglobal.supply^
 ||info.supply^
 ||ingot.supply^
-||kas.supply^
 ||kcpaper.supply^
 ||kittykat.supply^
 ||knitwear.supply^
 ||kona.supply^
+||language.supply^
 ||license.supply^
 ||mana.supply^
 ||manicure.supply^
@@ -72,7 +70,9 @@
 ||portlandiaelectric.supply^
 ||powder.supply^
 ||powertica.supply^
+||pro1.supply^
 ||promoart.supply^
+||provisions.supply^
 ||pythnetwork.supply^
 ||quest.supply^
 ||rahil.supply^
@@ -95,6 +95,5 @@
 ||uma.supply^
 ||valley.supply^
 ||vape.supply^
-||versed.supply^
 ||yoghurt.supply^
 ||zksync.supply^
