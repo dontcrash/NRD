@@ -5,6 +5,7 @@
 ||aac.management^
 ||abfall.management^
 ||aggregator.management^
+||ain.management^
 ||ajpservice.management^
 ||apostrophe.management^
 ||area.management^
@@ -13,7 +14,6 @@
 ||automatedinventory.management^
 ||backlog.management^
 ||bancolombia.management^
-||befirst.management^
 ||bezdelnik.management^
 ||bgp.management^
 ||bjyama.management^
@@ -28,7 +28,6 @@
 ||decisiontree.management^
 ||designity.management^
 ||developers.management^
-||digital-industry.management^
 ||digital-marketing-for-b2b-investment.management^
 ||douyin.management^
 ||duplex.management^
@@ -73,7 +72,6 @@
 ||mdcdiesel.management^
 ||metamusic.management^
 ||miramar.management^
-||msi.management^
 ||myopia.management^
 ||myplan.management^
 ||office365-microsoft365.management^
@@ -85,17 +83,21 @@
 ||porno.management^
 ||positive.management^
 ||projection.management^
+||prospect.management^
 ||providence.management^
 ||rectify.management^
 ||relia.management^
 ||rkc.management^
 ||roboadvisor.management^
+||robotic.management^
 ||rubino.management^
 ||rwa.management^
 ||ryanair.management^
+||s-e.management^
 ||sbs.management^
 ||secret.management^
 ||selfmail-outlook-mimemcast-protection.management^
+||send-in-protection-mimemcast-outlook.management^
 ||sender-protection-mimemcast-outlook.management^
 ||sendmail-protection-mimemcast-outlook.management^
 ||ships.management^
@@ -123,4 +125,3 @@
 ||whalesafe.management^
 ||whistlemedia.management^
 ||williamhill.management^
-||worx.management^

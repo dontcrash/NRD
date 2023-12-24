@@ -44,10 +44,12 @@
 ||gogopower.supply^
 ||grainlogic.supply^
 ||greening.supply^
+||growlights.supply^
 ||gymnastics.supply^
 ||healthgovsa.supply^
 ||hex.supply^
 ||hilltopskateshop.supply^
+||i4.supply^
 ||iglobal.supply^
 ||info.supply^
 ||ingot.supply^
@@ -82,7 +84,6 @@
 ||revivalist.supply^
 ||robotics.supply^
 ||secret.supply^
-||sister.supply^
 ||sourcing.supply^
 ||spa.supply^
 ||sun.supply^
@@ -96,4 +97,3 @@
 ||valley.supply^
 ||vape.supply^
 ||yoghurt.supply^
-||zksync.supply^

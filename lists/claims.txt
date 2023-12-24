@@ -1,6 +1,7 @@
 ||0.claims^
 ||aat.claims^
 ||airline.claims^
+||asia.claims^
 ||billionaire.claims^
 ||bitcoin.claims^
 ||blast-io.claims^
@@ -17,7 +18,6 @@
 ||columbus.claims^
 ||commonlaw.claims^
 ||covid.claims^
-||covidcompensation.claims^
 ||cpia.claims^
 ||dailycheck.claims^
 ||enter-zero.claims^
@@ -64,6 +64,7 @@
 ||pancakeswapv5.claims^
 ||pendle.claims^
 ||pennsylvania.claims^
+||phtm.claims^
 ||phygitals.claims^
 ||portalgaming.claims^
 ||powerstake.claims^
@@ -101,4 +102,5 @@
 ||will.claims^
 ||xrp.claims^
 ||ycombinator.claims^
+||yield.claims^
 ||zerion-io.claims^

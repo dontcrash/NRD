@@ -5,11 +5,11 @@
 ||derm-detect.compare^
 ||machinelearning.compare^
 ||metaverses.compare^
-||models.compare^
 ||nohu.compare^
 ||oraclehealth.compare^
 ||portablepowerstations.compare^
 ||powerstations.compare^
+||ratio.compare^
 ||relay.compare^
-||styles.compare^
+||rlalgos.compare^
 ||traintickets.compare^

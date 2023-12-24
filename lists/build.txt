@@ -8,7 +8,6 @@
 ||blockchainexchange.build^
 ||boldtex.build^
 ||bonaqua.build^
-||caisson.build^
 ||circles.build^
 ||cocoa.build^
 ||comwork.build^
@@ -33,6 +32,7 @@
 ||gunvolt.build^
 ||hit.build^
 ||integrations.build^
+||kamco.build^
 ||konnen.build^
 ||layer2.build^
 ||linear.build^
@@ -42,7 +42,6 @@
 ||nifty.build^
 ||nuhorizon.build^
 ||paviana.build^
-||pixel.build^
 ||reflex.build^
 ||rigawa.build^
 ||ringer.build^
