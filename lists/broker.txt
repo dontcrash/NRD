@@ -7,6 +7,11 @@
 ||asn.broker^
 ||beat.broker^
 ||c2.broker^
+||carshippingquote.broker^
+||carshippingquotes.broker^
+||cobroker.broker^
+||commercialrealestate.broker^
+||construction.broker^
 ||eg.broker^
 ||empower.broker^
 ||es.broker^
@@ -23,6 +28,7 @@
 ||grok.broker^
 ||handlr.broker^
 ||happy.broker^
+||hardmoney.broker^
 ||henray.broker^
 ||ichra.broker^
 ||il.broker^
@@ -56,6 +62,7 @@
 ||sun.broker^
 ||sun88.broker^
 ||tea.broker^
+||tenminitz.broker^
 ||tony.broker^
 ||tonywalsh.broker^
 ||tw.broker^

@@ -6,9 +6,10 @@
 ||bitcoin.claims^
 ||blast-io.claims^
 ||bonk.claims^
+||cannabis.claims^
 ||cargo.claims^
 ||carinsurance.claims^
-||certeurope.claims^
+||carshipping.claims^
 ||certifiedpublicadjuster.claims^
 ||childsupport.claims^
 ||civiltribunal.claims^
@@ -27,6 +28,7 @@
 ||f.claims^
 ||familycourt.claims^
 ||federalcourt.claims^
+||ffcra.claims^
 ||flpersonalinjury.claims^
 ||fortworth.claims^
 ||frame-xyz.claims^
@@ -34,6 +36,7 @@
 ||gamedoithuong.claims^
 ||gifts.claims^
 ||hashflow-com.claims^
+||haywire.claims^
 ||hire.claims^
 ||hkc.claims^
 ||hollywood.claims^
@@ -57,8 +60,6 @@
 ||mova.claims^
 ||mypersonalinjury.claims^
 ||ncat.claims^
-||newyorkcity.claims^
-||nocturne.claims^
 ||northamerican.claims^
 ||ntcat.claims^
 ||pancakeswapv5.claims^

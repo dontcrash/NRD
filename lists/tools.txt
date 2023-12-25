@@ -34,6 +34,7 @@
 ||appaloosa.tools^
 ||aptos.tools^
 ||aseesa.tools^
+||askai.tools^
 ||association.tools^
 ||athlete.tools^
 ||auckland.tools^
@@ -53,6 +54,7 @@
 ||bigjpg.tools^
 ||blacksnake.tools^
 ||blanca.tools^
+||blogging.tools^
 ||blox.tools^
 ||bosch-ru.tools^
 ||botkit.tools^
@@ -86,6 +88,7 @@
 ||connectome.tools^
 ||contents.tools^
 ||copilots.tools^
+||crosschain.tools^
 ||crosspost.tools^
 ||cryptominer.tools^
 ||cryptoslam.tools^
@@ -98,6 +101,7 @@
 ||dartmouth.tools^
 ||dawnet.tools^
 ||dazzle.tools^
+||decalvenue.tools^
 ||decompiler.tools^
 ||depixelate.tools^
 ||devos.tools^
@@ -119,6 +123,7 @@
 ||enter.tools^
 ||entropy.tools^
 ||eris.tools^
+||express.tools^
 ||ezms.tools^
 ||faceless.tools^
 ||fachhandwerker.tools^
@@ -148,6 +153,7 @@
 ||geraetewart.tools^
 ||getai.tools^
 ||gettrx.tools^
+||girl.tools^
 ||gizmo.tools^
 ||gltf.tools^
 ||gogopower.tools^
@@ -172,6 +178,7 @@
 ||io-web3.tools^
 ||irr.tools^
 ||isphere.tools^
+||ito5d.tools^
 ||izmir.tools^
 ||josh.tools^
 ||karaoke.tools^
@@ -180,6 +187,7 @@
 ||khrysos.tools^
 ||killgore.tools^
 ||kingkong.tools^
+||korloy.tools^
 ||kps.tools^
 ||kyc.tools^
 ||layerx.tools^
@@ -232,6 +240,7 @@
 ||networkmarketing.tools^
 ||newport.tools^
 ||nfdhtycsgjcsvsdhjvs.tools^
+||nodex.tools^
 ||noga.tools^
 ||norfolk.tools^
 ||northshore.tools^
@@ -244,7 +253,6 @@
 ||oop.tools^
 ||oops.tools^
 ||opinion.tools^
-||orgapp.tools^
 ||owly.tools^
 ||pain.tools^
 ||painally.tools^
@@ -266,6 +274,7 @@
 ||prague.tools^
 ||primary.tools^
 ||prismatic.tools^
+||priv8.tools^
 ||promptwhiz.tools^
 ||proofread.tools^
 ||proxima.tools^
@@ -283,6 +292,7 @@
 ||redditch.tools^
 ||refactor.tools^
 ||ren.tools^
+||rentlocal.tools^
 ||renton.tools^
 ||revanced.tools^
 ||reverse.tools^
@@ -304,7 +314,6 @@
 ||skilled.tools^
 ||skull-shot.tools^
 ||smartmoney.tools^
-||smashing.tools^
 ||smsblasting.tools^
 ||snack.tools^
 ||soca.tools^
@@ -315,7 +324,6 @@
 ||spm.tools^
 ||square-cash.tools^
 ||stablevideodiffusion.tools^
-||staple.tools^
 ||stay.tools^
 ||stech.tools^
 ||story.tools^
@@ -326,6 +334,7 @@
 ||swapper.tools^
 ||swindon.tools^
 ||swipe.tools^
+||swis.tools^
 ||systeme.tools^
 ||talent-assessment.tools^
 ||tap.tools^
@@ -379,3 +388,4 @@
 ||yami.tools^
 ||yeti.tools^
 ||zhongjietools.tools^
+||zinger.tools^

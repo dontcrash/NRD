@@ -26,6 +26,7 @@
 ||layer.observer^
 ||loterie.observer^
 ||lottoland.observer^
+||meteo.observer^
 ||mindful.observer^
 ||nyaris.observer^
 ||olympus.observer^
@@ -41,7 +42,6 @@
 ||retrograde.observer^
 ||sanctuary.observer^
 ||shitshow.observer^
-||skokka.observer^
 ||sportsbet.observer^
 ||sun88.observer^
 ||text.observer^

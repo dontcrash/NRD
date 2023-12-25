@@ -8,6 +8,7 @@
 ||arise.builders^
 ||arntz.builders^
 ||bcgame.builders^
+||blocksweb.builders^
 ||brimark.builders^
 ||built4u.builders^
 ||bundle.builders^
@@ -20,7 +21,6 @@
 ||cornwall.builders^
 ||customadu.builders^
 ||dba.builders^
-||document.builders^
 ||einstein.builders^
 ||ethsyn.builders^
 ||ethsync.builders^
@@ -44,8 +44,8 @@
 ||layer2.builders^
 ||live.builders^
 ||loterie.builders^
+||martin.builders^
 ||messenger.builders^
-||midnight.builders^
 ||modcontech.builders^
 ||monarch.builders^
 ||norwegian.builders^
@@ -60,7 +60,6 @@
 ||ryd.builders^
 ||schedule.builders^
 ||silva.builders^
-||skokka.builders^
 ||skylineconstruction.builders^
 ||solar.builders^
 ||speedtest.builders^

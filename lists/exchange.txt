@@ -47,7 +47,6 @@
 ||blizzard.exchange^
 ||bloom.exchange^
 ||blow.exchange^
-||blur-io.exchange^
 ||bluswap.exchange^
 ||boiler.exchange^
 ||bonk.exchange^
@@ -65,6 +64,7 @@
 ||carbonmarket.exchange^
 ||cbrc20.exchange^
 ||celestia.exchange^
+||centimos.exchange^
 ||chainalysis.exchange^
 ||changchun.exchange^
 ||chartrage.exchange^
@@ -142,6 +142,7 @@
 ||fusionbtc.exchange^
 ||gamebaidoithuong.exchange^
 ||gamedoithuong.exchange^
+||gamejam.exchange^
 ||garts.exchange^
 ||gasles.exchange^
 ||gasless.exchange^
@@ -169,16 +170,17 @@
 ||iqex.exchange^
 ||iv.exchange^
 ||jetbet.exchange^
+||jump.exchange^
 ||jup.exchange^
 ||jupiter-swap.exchange^
 ||kage.exchange^
 ||kamaogandhi.exchange^
 ||kaze.exchange^
+||kingdomcoin.exchange^
 ||kode.exchange^
 ||kodo.exchange^
 ||lanzhou.exchange^
 ||layer3.exchange^
-||lcuk.exchange^
 ||lead-data.exchange^
 ||leumia.exchange^
 ||liido.exchange^
@@ -192,6 +194,7 @@
 ||mailserver.exchange^
 ||marbles.exchange^
 ||mbox.exchange^
+||mbuni.exchange^
 ||mdrx.exchange^
 ||mercure.exchange^
 ||metalsafe.exchange^
@@ -219,10 +222,10 @@
 ||orai.exchange^
 ||ordis.exchange^
 ||ore.exchange^
+||otegotextile.exchange^
 ||panegolin.exchange^
 ||pangeolin.exchange^
 ||pangolien.exchange^
-||paperhands.exchange^
 ||partshound.exchange^
 ||payapa.exchange^
 ||payfull.exchange^
@@ -263,6 +266,7 @@
 ||snipe.exchange^
 ||solbit.exchange^
 ||sparq.exchange^
+||spirit.exchange^
 ||ssk.exchange^
 ||stateinsurance.exchange^
 ||stok.exchange^
@@ -285,6 +289,7 @@
 ||tire.exchange^
 ||tmi.exchange^
 ||tnt.exchange^
+||tokyocoin.exchange^
 ||traderjoexyz.exchange^
 ||tradfi.exchange^
 ||tradingview.exchange^
@@ -324,7 +329,6 @@
 ||zeroize.exchange^
 ||zev.exchange^
 ||zibo.exchange^
-||zigszag.exchange^
 ||zina.exchange^
 ||zkcross.exchange^
 ||zombie.exchange^

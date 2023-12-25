@@ -17,6 +17,7 @@
 ||bezdelnik.management^
 ||bgp.management^
 ||bjyama.management^
+||blackout.management^
 ||businesscreations.management^
 ||carvoeiro.management^
 ||catalyst.management^
@@ -35,11 +36,12 @@
 ||eneftee.management^
 ||entwickler.management^
 ||ephemeral.management^
+||erosioncontrol.management^
 ||esi.management^
+||esk.management^
 ||fachai.management^
 ||feishu.management^
 ||fgi.management^
-||finance.management^
 ||gacha.management^
 ||gamebai.management^
 ||gamebaidoithuong.management^
@@ -74,7 +76,6 @@
 ||miramar.management^
 ||myopia.management^
 ||myplan.management^
-||office365-microsoft365.management^
 ||overdrive.management^
 ||pacifica.management^
 ||pandemonium.management^
@@ -98,10 +99,8 @@
 ||secret.management^
 ||selfmail-outlook-mimemcast-protection.management^
 ||send-in-protection-mimemcast-outlook.management^
-||sender-protection-mimemcast-outlook.management^
 ||sendmail-protection-mimemcast-outlook.management^
 ||ships.management^
-||shopee.management^
 ||sixstring.management^
 ||skin.management^
 ||smartevent.management^
@@ -119,7 +118,6 @@
 ||tna.management^
 ||tqp.management^
 ||transactionrisk.management^
-||transformation.management^
 ||ugc.management^
 ||walnutcreekproperty.management^
 ||whalesafe.management^

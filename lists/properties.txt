@@ -18,6 +18,7 @@
 ||bcgame.properties^
 ||beglobal.properties^
 ||benji.properties^
+||bennelong.properties^
 ||beourguest.properties^
 ||biodiversity.properties^
 ||bjyama.properties^
@@ -29,7 +30,6 @@
 ||bry.properties^
 ||butler.properties^
 ||buy2sell.properties^
-||buyinvestment.properties^
 ||buzz.properties^
 ||carr.properties^
 ||cash.properties^
@@ -79,7 +79,6 @@
 ||favbet.properties^
 ||fevzj.properties^
 ||film.properties^
-||franklin.properties^
 ||gamebai.properties^
 ||gamebaidoithuong.properties^
 ||gamedoithuong.properties^
@@ -99,6 +98,7 @@
 ||idealhomeinspections.properties^
 ||ie.properties^
 ||inspiration.properties^
+||installment.properties^
 ||iterates.properties^
 ||ivermectin.properties^
 ||jdm.properties^
@@ -115,6 +115,7 @@
 ||linear.properties^
 ||logic-mindz.properties^
 ||loterie.properties^
+||manitoba.properties^
 ||marketonline.properties^
 ||markets.properties^
 ||mart.properties^
@@ -157,14 +158,15 @@
 ||saltworks.properties^
 ||seven.properties^
 ||sevenkeys.properties^
-||shopee.properties^
 ||shriram.properties^
 ||silko.properties^
 ||sisu.properties^
 ||slice.properties^
+||smithrealtypartners.properties^
 ||snowburgh.properties^
 ||soleste.properties^
 ||sophisticated.properties^
+||southkorea.properties^
 ||speedtest.properties^
 ||sportybet.properties^
 ||srgroup.properties^
@@ -177,6 +179,7 @@
 ||tang.properties^
 ||tennis.properties^
 ||tep.properties^
+||texascommercial.properties^
 ||thebeachwithinreach.properties^
 ||thind.properties^
 ||tier1.properties^
@@ -188,7 +191,6 @@
 ||ufabet.properties^
 ||unclaimed.properties^
 ||ustay.properties^
-||venues.properties^
 ||vernisage.properties^
 ||vernissage.properties^
 ||vfd.properties^
@@ -203,6 +205,8 @@
 ||wendyrealtor.properties^
 ||weshare.properties^
 ||woman.properties^
+||xoso66.properties^
+||yaml2.properties^
 ||yas-island.properties^
 ||zachry.properties^
 ||zambias.properties^
