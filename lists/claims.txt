@@ -1,6 +1,7 @@
 ||0.claims^
 ||aat.claims^
 ||airline.claims^
+||analos.claims^
 ||asia.claims^
 ||billionaire.claims^
 ||bitcoin.claims^
@@ -13,7 +14,6 @@
 ||certifiedpublicadjuster.claims^
 ||childsupport.claims^
 ||civiltribunal.claims^
-||claimsmanagment.claims^
 ||claimster.claims^
 ||claimtrak.claims^
 ||columbus.claims^
@@ -33,6 +33,7 @@
 ||fortworth.claims^
 ||frame-xyz.claims^
 ||frame.claims^
+||frogo.claims^
 ||gamedoithuong.claims^
 ||gifts.claims^
 ||hashflow-com.claims^
@@ -56,12 +57,12 @@
 ||metis-io.claims^
 ||mocaverse.claims^
 ||morpho.claims^
-||mortgage.claims^
 ||mova.claims^
 ||mypersonalinjury.claims^
 ||ncat.claims^
 ||northamerican.claims^
 ||ntcat.claims^
+||omnicat.claims^
 ||pancakeswapv5.claims^
 ||pendle.claims^
 ||pennsylvania.claims^
@@ -90,6 +91,7 @@
 ||sun88.claims^
 ||syncswap-io.claims^
 ||synthetix-io.claims^
+||t.claims^
 ||tascat.claims^
 ||tenancy.claims^
 ||tmg.claims^
@@ -101,7 +103,6 @@
 ||verasity-io.claims^
 ||vulcanforged.claims^
 ||will.claims^
-||xrp.claims^
 ||ycombinator.claims^
 ||yield.claims^
 ||zerion-io.claims^

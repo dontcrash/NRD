@@ -23,6 +23,7 @@
 ||3dassetstor.ing^
 ||3dbuild.ing^
 ||3dimag.ing^
+||3dloom.ing^
 ||3dmapp.ing^
 ||3dmodel.ing^
 ||3dpack.ing^
@@ -313,6 +314,7 @@
 ||artificialaim.ing^
 ||artificialreason.ing^
 ||artl.ing^
+||artlist.ing^
 ||artmarket.ing^
 ||artofcoach.ing^
 ||artofliv.ing^
@@ -457,6 +459,7 @@
 ||beachfish.ing^
 ||beachtoldmoor.ing^
 ||beancount.ing^
+||beandbe.ing^
 ||bearhunt.ing^
 ||beastbreed.ing^
 ||beatvisualiz.ing^
@@ -689,12 +692,14 @@
 ||brilliantdeal.ing^
 ||brimm.ing^
 ||brinkmann.ing^
+||bro.ing^
 ||broer.ing^
 ||brottsl.ing^
 ||browar.ing^
 ||brownload.ing^
 ||browse.ing^
 ||browserl.ing^
+||bruen.ing^
 ||brun.ing^
 ||brunn.ing^
 ||brussel.ing^
@@ -705,6 +710,7 @@
 ||bubbl.ing^
 ||bubl.ing^
 ||bucketlist.ing^
+||buckgam.ing^
 ||buckl.ing^
 ||buddhist.ing^
 ||budgethost.ing^
@@ -744,6 +750,7 @@
 ||buttsniff.ing^
 ||buyanyth.ing^
 ||buzzword.ing^
+||bygg.ing^
 ||bynnd.ing^
 ||byoot.ing^
 ||byron.ing^
@@ -781,6 +788,7 @@
 ||caps.ing^
 ||capsoul.ing^
 ||captialfinanc.ing^
+||capybara.ing^
 ||car-insur.ing^
 ||car-insure.ing^
 ||caravann.ing^
@@ -855,6 +863,7 @@
 ||chach.ing^
 ||chadd.ing^
 ||chainlink.ing^
+||challengerun.ing^
 ||changel.ing^
 ||characterbuild.ing^
 ||charitablegiv.ing^
@@ -1069,6 +1078,7 @@
 ||continuingeducationtrain.ing^
 ||continuous-monitor.ing^
 ||continuouslearn.ing^
+||convergecoach.ing^
 ||conversat.ing^
 ||conversionconsult.ing^
 ||conveyanc.ing^
@@ -1460,12 +1470,14 @@
 ||dron.ing^
 ||dronefly.ing^
 ||dronemapp.ing^
+||dronenav.ing^
 ||dronepilot.ing^
 ||dronesurvey.ing^
 ||dropbox.ing^
 ||dropshipp.ing^
 ||drotn.ing^
 ||drugdeal.ing^
+||drumm.ing^
 ||dryclean.ing^
 ||dryerventclean.ing^
 ||dsa.ing^
@@ -1558,6 +1570,7 @@
 ||electrix.ing^
 ||electroplat.ing^
 ||elend.ing^
+||elev8.ing^
 ||elevat.ing^
 ||elevatehealthwellness.ing^
 ||elfpretend.ing^
@@ -1695,6 +1708,7 @@
 ||evidencebasedoptionstrad.ing^
 ||evidencebasedoptiontrad.ing^
 ||evok.ing^
+||evpark.ing^
 ||exaggerat.ing^
 ||exchang.ing^
 ||excruciat.ing^
@@ -1721,6 +1735,7 @@
 ||eyecare.ing^
 ||ezthread.ing^
 ||eztxt.ing^
+||f-s.ing^
 ||face-lift.ing^
 ||facefuck.ing^
 ||facemelt.ing^
@@ -1790,6 +1805,7 @@
 ||financieren.ing^
 ||financieringen.ing^
 ||finans.ing^
+||finansier.ing^
 ||finanzmarket.ing^
 ||finanztrack.ing^
 ||findomm.ing^
@@ -1846,6 +1862,7 @@
 ||floridatravel.ing^
 ||flourish.ing^
 ||fluff.ing^
+||fluidiz.ing^
 ||flunk.ing^
 ||foamroof.ing^
 ||focuss.ing^
@@ -1995,6 +2012,7 @@
 ||genesiscadillac.ing^
 ||genoplot.ing^
 ||genotyp.ing^
+||gentlywander.ing^
 ||geocach.ing^
 ||geoconsult.ing^
 ||geoengineer.ing^
@@ -2087,6 +2105,7 @@
 ||goldbuy.ing^
 ||golddigg.ing^
 ||goldtrad.ing^
+||goldx.ing^
 ||golfsw.ing^
 ||gonefish.ing^
 ||gonk.ing^
@@ -2142,6 +2161,7 @@
 ||greenclean.ing^
 ||greeneat.ing^
 ||greenw.ing^
+||greggle.ing^
 ||grep.ing^
 ||gripp.ing^
 ||grnd.ing^
@@ -2291,6 +2311,7 @@
 ||hobbylaser.ing^
 ||hodl.ing^
 ||hogmanay.ing^
+||hoki138.ing^
 ||holi.ing^
 ||holidaylight.ing^
 ||holinger.ing^
@@ -2307,6 +2328,7 @@
 ||homeloanlend.ing^
 ||homemak.ing^
 ||homeorganiz.ing^
+||homeplay77.ing^
 ||homerefinance.ing^
 ||homeschool.ing^
 ||homestag.ing^
@@ -2383,8 +2405,10 @@
 ||i-n-g.ing^
 ||i6t.ing^
 ||iamamaz.ing^
+||iamb.ing^
 ||iameveryth.ing^
 ||iamexplor.ing^
+||iamfuck.ing^
 ||iamglow.ing^
 ||iamlearn.ing^
 ||iamresearch.ing^
@@ -2739,6 +2763,7 @@
 ||khabar.ing^
 ||khlwd.ing^
 ||ki-consult.ing^
+||kibbel.ing^
 ||kibitz.ing^
 ||kickgo.ing^
 ||kidd.ing^
@@ -2802,6 +2827,7 @@
 ||kuajing.ing^
 ||kubernetes.ing^
 ||kubet.ing^
+||kuenst.ing^
 ||kungfufight.ing^
 ||kurdistan.ing^
 ||kurl.ing^
@@ -2904,6 +2930,7 @@
 ||lineremove.ing^
 ||ling.ing^
 ||lingj.ing^
+||linkdrop.ing^
 ||linkop.ing^
 ||linkstak.ing^
 ||linuxtest.ing^
@@ -3236,6 +3263,7 @@
 ||moneywatch.ing^
 ||monogramm.ing^
 ||moo.ing^
+||moonify.ing^
 ||moonwitch.ing^
 ||morb.ing^
 ||moroccotours.ing^
@@ -3350,6 +3378,7 @@
 ||netbang.ing^
 ||netboot.ing^
 ||netcast.ing^
+||neth.ing^
 ||nethost.ing^
 ||netkey.ing^
 ||netrunn.ing^
@@ -3397,6 +3426,7 @@
 ||nils.ing^
 ||ning.ing^
 ||ningn.ing^
+||ninja.ing^
 ||nipandtuck.ing^
 ||nippon.ing^
 ||niranjan.ing^
@@ -3487,6 +3517,7 @@
 ||onchain.ing^
 ||ond.ing^
 ||onekeyr.ing^
+||onemoreth.ing^
 ||onetak.ing^
 ||online-bett.ing^
 ||online-gambl.ing^
@@ -3753,6 +3784,7 @@
 ||plung.ing^
 ||plunge.ing^
 ||plusw.ing^
+||pmail.ing^
 ||pmcoach.ing^
 ||podd.ing^
 ||poelk.ing^
@@ -3886,6 +3918,7 @@
 ||qiao.ing^
 ||qiaod.ing^
 ||qid.ing^
+||qikqikbank.ing^
 ||qim.ing^
 ||qing.ing^
 ||qqonline303.ing^
@@ -3901,6 +3934,7 @@
 ||quicklist.ing^
 ||quickstart.ing^
 ||quickturn.ing^
+||quiteinterest.ing^
 ||quitsmok.ing^
 ||quittingsmok.ing^
 ||qunar.ing^
@@ -3995,10 +4029,12 @@
 ||rejoic.ing^
 ||rejoin.ing^
 ||rejuvenate.ing^
+||rekrutter.ing^
 ||rekryter.ing^
 ||rekt.ing^
 ||relationship.ing^
 ||relationshipcoach.ing^
+||relink.ing^
 ||relish.ing^
 ||rellaxing.ing^
 ||relocat.ing^
@@ -4119,6 +4155,7 @@
 ||rtfkt.ing^
 ||rtpbaik4d.ing^
 ||ruf.ing^
+||ruff.ing^
 ||ruffl.ing^
 ||rugclean.ing^
 ||rugpull.ing^
@@ -4192,12 +4229,14 @@
 ||schaerd.ing^
 ||schaw.ing^
 ||scheid.ing^
+||scheidler.ing^
 ||scheifl.ing^
 ||schem.ing^
 ||schenn.ing^
 ||scheur.ing^
 ||schladm.ing^
 ||schlicht.ing^
+||schmel.ing^
 ||schmittle.ing^
 ||schmitz.ing^
 ||schmooz.ing^
@@ -4252,6 +4291,7 @@
 ||selfmax.ing^
 ||selfmaxx.ing^
 ||selfpay.ing^
+||sellev.ing^
 ||semmer.ing^
 ||seo-optimize.ing^
 ||seo-rank.ing^
@@ -4334,9 +4374,11 @@
 ||silkscreenprint.ing^
 ||silverk.ing^
 ||simn.ing^
+||simonandkaylawedd.ing^
 ||simpl.ing^
 ||simplescort.ing^
 ||simply-draw.ing^
+||simply-pay.ing^
 ||simply-sing.ing^
 ||simplyengineer.ing^
 ||simplyhost.ing^
@@ -4553,6 +4595,7 @@
 ||stagelight.ing^
 ||stak.ing^
 ||stampcollect.ing^
+||stanbicibtc.ing^
 ||stann.ing^
 ||stapl.ing^
 ||starbird.ing^
@@ -4600,6 +4643,7 @@
 ||stopjerk.ing^
 ||stoplook.ing^
 ||stopstalk.ing^
+||stopyapp.ing^
 ||storag.ing^
 ||storagehost.ing^
 ||stormchas.ing^
@@ -4616,6 +4660,7 @@
 ||strategis.ing^
 ||strategiz.ing^
 ||stream.ing^
+||streamcast.ing^
 ||streaming.ing^
 ||streamingcommunity.ing^
 ||strid.ing^
@@ -4657,6 +4702,7 @@
 ||supaclean.ing^
 ||supercalifragilisticexpialidocious.ing^
 ||supergrow.ing^
+||superk.ing^
 ||superposition.ing^
 ||supervise.ing^
 ||superyacht.ing^
@@ -4707,6 +4753,7 @@
 ||tahiti-coach.ing^
 ||take5.ing^
 ||takeshima.ing^
+||talentspot.ing^
 ||tamilwin.ing^
 ||tamp.ing^
 ||tankfuel.ing^
@@ -4731,6 +4778,7 @@
 ||teambond.ing^
 ||teamtalk.ing^
 ||teamz.ing^
+||teatim.ing^
 ||tech-learn.ing^
 ||tech-snack.ing^
 ||techbrand.ing^
@@ -4893,6 +4941,7 @@
 ||tragwerk.ing^
 ||trailblaz.ing^
 ||traject.ing^
+||trannyfuck.ing^
 ||transacties.ing^
 ||transcare.ing^
 ||transcend.ing^
@@ -4921,6 +4970,7 @@
 ||treasurehunt.ing^
 ||treeclimb.ing^
 ||treefarm.ing^
+||treehugg.ing^
 ||treeplant.ing^
 ||treetrimm.ing^
 ||trembl.ing^
@@ -4950,7 +5000,6 @@
 ||tugg.ing^
 ||tull.ing^
 ||tupismo.ing^
-||tur.ing^
 ||turbotax.ing^
 ||turd.ing^
 ||turkeyandstuff.ing^
@@ -5050,6 +5099,7 @@
 ||utbildn.ing^
 ||utdann.ing^
 ||utmtrack.ing^
+||utvikl.ing^
 ||uvcure.ing^
 ||uvpaint.ing^
 ||ux-research.ing^
@@ -5072,6 +5122,7 @@
 ||vanliv.ing^
 ||vanquish.ing^
 ||vape.ing^
+||varf.ing^
 ||variantinterpret.ing^
 ||variate.ing^
 ||varsl.ing^
@@ -5243,6 +5294,7 @@
 ||webgl.ing^
 ||webhost.ing^
 ||webify.ing^
+||weblift.ing^
 ||weblink.ing^
 ||weblist.ing^
 ||webmake.ing^
@@ -5263,6 +5315,7 @@
 ||websitedevelop.ing^
 ||websitemarket.ing^
 ||websiterank.ing^
+||websoft.ing^
 ||websurf.ing^
 ||webtrain.ing^
 ||webtrend.ing^
@@ -5280,6 +5333,7 @@
 ||weilai.ing^
 ||weixin.ing^
 ||welearn.ing^
+||welf.ing^
 ||well-be.ing^
 ||welld.ing^
 ||wellliv.ing^
@@ -5441,6 +5495,7 @@
 ||xpay.ing^
 ||xperiment.ing^
 ||xplore.ing^
+||xport.ing^
 ||xpost.ing^
 ||xss.ing^
 ||xtool.ing^

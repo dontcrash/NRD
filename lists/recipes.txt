@@ -1,12 +1,15 @@
+||777.recipes^
 ||888.recipes^
 ||asparagus.recipes^
+||basic.recipes^
+||beefalo.recipes^
 ||betway.recipes^
 ||bluemeth.recipes^
 ||brenda.recipes^
-||cns.recipes^
 ||cowtail.recipes^
 ||discord.recipes^
 ||dns.recipes^
+||docker-compose.recipes^
 ||easyvegan.recipes^
 ||frontend.recipes^
 ||fryme.recipes^
@@ -22,7 +25,6 @@
 ||jesus.recipes^
 ||jeyda.recipes^
 ||kubernetes.recipes^
-||learning.recipes^
 ||mail.recipes^
 ||mike.recipes^
 ||momspaghetti.recipes^

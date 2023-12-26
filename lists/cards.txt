@@ -22,6 +22,7 @@
 ||blacklist.cards^
 ||blog.cards^
 ||bluelight.cards^
+||certification.cards^
 ||click-business.cards^
 ||cobra.cards^
 ||com-cancel.cards^
@@ -29,7 +30,6 @@
 ||cuddle.cards^
 ||cvv2.cards^
 ||cxo.cards^
-||delta.cards^
 ||deluxe.cards^
 ||deployment.cards^
 ||dkb.cards^
@@ -59,6 +59,7 @@
 ||happybirdday.cards^
 ||happyeaster.cards^
 ||happyholiday.cards^
+||hashtag.cards^
 ||haunted.cards^
 ||healthid.cards^
 ||hilarious.cards^
@@ -72,20 +73,18 @@
 ||improv.cards^
 ||innovation.cards^
 ||inspired.cards^
-||joe.cards^
 ||kitty.cards^
 ||last.cards^
 ||lovers.cards^
 ||loyllt.cards^
-||lust.cards^
 ||magical.cards^
 ||maid.cards^
 ||majin.cards^
 ||masker.cards^
 ||maslow.cards^
+||memo.cards^
 ||merryshitmas.cards^
 ||mexy.cards^
-||miami.cards^
 ||mindless.cards^
 ||mistr.cards^
 ||mylove.cards^
@@ -104,6 +103,7 @@
 ||pin-up.cards^
 ||play111.cards^
 ||pogo.cards^
+||presents.cards^
 ||quebec.cards^
 ||redeemable.cards^
 ||render.cards^
@@ -111,7 +111,6 @@
 ||rocks.cards^
 ||rust.cards^
 ||rutor.cards^
-||sch.cards^
 ||sdx.cards^
 ||somewhere.cards^
 ||sun88.cards^
