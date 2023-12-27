@@ -7,6 +7,7 @@
 ||adara.health^
 ||adewell.health^
 ||adventurer.health^
+||aelo.health^
 ||aeroflow.health^
 ||affectable.health^
 ||affineon.health^
@@ -48,7 +49,6 @@
 ||bluephoenix.health^
 ||bodytemple.health^
 ||borg.health^
-||boundlesslife.health^
 ||brightwood.health^
 ||brooke.health^
 ||careai.health^
@@ -68,8 +68,8 @@
 ||concord.health^
 ||confidante.health^
 ||continuum.health^
+||convoy.health^
 ||copilots.health^
-||cpa.health^
 ||createwellstudio.health^
 ||crosshatch.health^
 ||culkeen.health^
@@ -92,7 +92,6 @@
 ||directional.health^
 ||divinetherapy.health^
 ||dr-hemn.health^
-||dragon.health^
 ||dreamtime.health^
 ||drshivanihomeopathy.health^
 ||drwater.health^
@@ -125,6 +124,7 @@
 ||firefighter.health^
 ||fontana.health^
 ||ftg.health^
+||gate.health^
 ||getdaytona.health^
 ||getrelish.health^
 ||glamping.health^
@@ -189,8 +189,8 @@
 ||ketomojo.health^
 ||kollagen.health^
 ||kvantas.health^
-||lacunasleep.health^
 ||leanin.health^
+||libertycare.health^
 ||lively.health^
 ||livfit.health^
 ||livingstonwellness.health^
@@ -219,6 +219,7 @@
 ||mlp.health^
 ||mneimatmd.health^
 ||momentumtherapy.health^
+||morfeo.health^
 ||msdconsulting.health^
 ||multipli.health^
 ||myase.health^
@@ -233,7 +234,6 @@
 ||naturae.health^
 ||ndp.health^
 ||newday.health^
-||newyou.health^
 ||nexamind.health^
 ||nexauth.health^
 ||ngrc.health^
@@ -252,6 +252,7 @@
 ||paramedicine.health^
 ||patience.health^
 ||paxa.health^
+||pearly.health^
 ||pharmacyfirst.health^
 ||phlow.health^
 ||pintar.health^
@@ -262,13 +263,13 @@
 ||preparation.health^
 ||pressureulcers.health^
 ||prospr.health^
-||prostaid.health^
 ||provide.health^
 ||psp.health^
 ||psychadelic.health^
 ||psychedeliccare.health^
 ||pthome.health^
 ||pwz.health^
+||qapi.health^
 ||qhm.health^
 ||queerly.health^
 ||rapidkd.health^
@@ -293,6 +294,7 @@
 ||s-pharmaceutical.health^
 ||sagitron.health^
 ||sanctuarycreativelabs.health^
+||saudebemestar.health^
 ||scan-med.health^
 ||schie.health^
 ||secure.health^
@@ -307,7 +309,6 @@
 ||slimmingtreatment.health^
 ||smithersko.health^
 ||specialiced.health^
-||stewartsnatural.health^
 ||stopthespike.health^
 ||streamlined.health^
 ||studioai.health^
@@ -315,6 +316,7 @@
 ||superalignment.health^
 ||superbloom.health^
 ||systagenix.health^
+||tab.health^
 ||talentburst.health^
 ||tanuki.health^
 ||teachingtouch.health^
@@ -336,6 +338,7 @@
 ||unitedsafety.health^
 ||unitynetwork.health^
 ||upgrading.health^
+||urbane.health^
 ||urucum.health^
 ||userfirst.health^
 ||v-smart.health^
@@ -347,16 +350,12 @@
 ||villas.health^
 ||viscofan.health^
 ||vitafreeze.health^
-||vitalai.health^
 ||vitalflow.health^
-||vitalhub.health^
 ||vitalitycollective.health^
 ||vmore.health^
-||voce.health^
 ||w66d.health^
 ||wakeb.health^
 ||web-deepmeasures.health^
-||wellchildrens.health^
 ||westslope.health^
 ||wheretodance.health^
 ||wildandwell.health^
@@ -366,6 +365,5 @@
 ||xrai.health^
 ||yearly.health^
 ||yiha.health^
-||yinflow.health^
 ||youmove.health^
 ||yourstory.health^

@@ -12,15 +12,15 @@
 ||docker-compose.recipes^
 ||easyvegan.recipes^
 ||frontend.recipes^
-||fryme.recipes^
 ||gamebai.recipes^
 ||gamebai88.recipes^
 ||gamedoithuong.recipes^
-||gif.recipes^
+||git.recipes^
 ||glowfoody.recipes^
 ||heirloom.recipes^
 ||hit.recipes^
 ||hotel.recipes^
+||ideas.recipes^
 ||indiacook.recipes^
 ||jesus.recipes^
 ||jeyda.recipes^
@@ -42,6 +42,7 @@
 ||super.recipes^
 ||teppanyaki.recipes^
 ||thechristmas.recipes^
+||thetasty.recipes^
 ||unreal.recipes^
 ||vacation.recipes^
 ||vampire.recipes^

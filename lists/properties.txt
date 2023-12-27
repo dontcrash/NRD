@@ -6,7 +6,6 @@
 ||aarambh.properties^
 ||abroad.properties^
 ||ada.properties^
-||adamson.properties^
 ||aes.properties^
 ||aeternitas.properties^
 ||allcommercial.properties^
@@ -15,6 +14,7 @@
 ||aspiredmanagements.properties^
 ||aspiredproperties.properties^
 ||aspiredproperty.properties^
+||bayarea.properties^
 ||bcgame.properties^
 ||beglobal.properties^
 ||benji.properties^
@@ -52,15 +52,13 @@
 ||cx.properties^
 ||cyberealty.properties^
 ||davidquinn.properties^
-||dawnvalley.properties^
-||dba.properties^
 ||dedicatedanddesigned.properties^
 ||delsur.properties^
+||deutsch.properties^
 ||divineclassic.properties^
 ||dominion.properties^
 ||doolittle.properties^
 ||doorway.properties^
-||ducasa.properties^
 ||dw.properties^
 ||e-girls.properties^
 ||edwards.properties^
@@ -79,6 +77,7 @@
 ||gamedoithuong.properties^
 ||gem.properties^
 ||gilman.properties^
+||globuson.properties^
 ||goal1.properties^
 ||goldengoose.properties^
 ||gptpepe.properties^
@@ -89,7 +88,6 @@
 ||hgp.properties^
 ||hillhaven.properties^
 ||honeycomb.properties^
-||hotmart.properties^
 ||iberian.properties^
 ||idealhomeinspections.properties^
 ||ie.properties^
@@ -105,7 +103,6 @@
 ||kongsrental.properties^
 ||landlords.properties^
 ||landscaped.properties^
-||lapis.properties^
 ||lgm.properties^
 ||linear.properties^
 ||logic-mindz.properties^
@@ -120,15 +117,13 @@
 ||movies4u.properties^
 ||mss.properties^
 ||myneighborhood.properties^
-||namu.properties^
 ||nasanciassellshome.properties^
-||navigator.properties^
 ||nearme.properties^
 ||nyx.properties^
 ||onthewater.properties^
 ||paco.properties^
-||pantip.properties^
 ||payment.properties^
+||payne.properties^
 ||perseverance.properties^
 ||persevere.properties^
 ||piccolo.properties^
@@ -151,6 +146,7 @@
 ||roso.properties^
 ||sabens.properties^
 ||saintlouis.properties^
+||salon.properties^
 ||saltworks.properties^
 ||seven.properties^
 ||sevenkeys.properties^
@@ -162,7 +158,6 @@
 ||soleste.properties^
 ||sophisticated.properties^
 ||southkorea.properties^
-||speedtest.properties^
 ||sportybet.properties^
 ||srgroup.properties^
 ||store.properties^
@@ -177,10 +172,10 @@
 ||texascommercial.properties^
 ||thind.properties^
 ||tier1.properties^
-||tistory.properties^
 ||tonyzhangisoffbalance.properties^
 ||town.properties^
 ||townsendandco.properties^
+||trl.properties^
 ||turtlehill.properties^
 ||unclaimed.properties^
 ||ustay.properties^
