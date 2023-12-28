@@ -4,7 +4,6 @@
 ||aibfamily.flights^
 ||airforce.flights^
 ||airports.flights^
-||assistant.flights^
 ||bkk.flights^
 ||dao.flights^
 ||deal.flights^
@@ -18,6 +17,7 @@
 ||holidays.flights^
 ||info.flights^
 ||investments.flights^
+||island.flights^
 ||ixigo.flights^
 ||limo.flights^
 ||lulich.flights^

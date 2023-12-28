@@ -41,7 +41,6 @@
 ||mcwa.build^
 ||metr.build^
 ||mindset.build^
-||nifty.build^
 ||nuhorizon.build^
 ||paviana.build^
 ||pilosio.build^
@@ -54,6 +53,7 @@
 ||segmentlocal.build^
 ||sera.build^
 ||shai.build^
+||solana.build^
 ||spacebar.build^
 ||steelconstruction.build^
 ||steelsolutions.build^
@@ -72,4 +72,3 @@
 ||wemust.build^
 ||whatdidaidan.build^
 ||winget.build^
-||youcan.build^

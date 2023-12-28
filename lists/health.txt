@@ -16,15 +16,13 @@
 ||aiagents.health^
 ||aifor.health^
 ||aiguy.health^
-||aiomega.health^
 ||aippoint.health^
+||aiu.health^
 ||ajan.health^
 ||allnature.health^
 ||alphakaiomega.health^
-||alwa.health^
 ||ambrosia.health^
 ||ambrosiapharma.health^
-||americanlipedemasociety.health^
 ||amour.health^
 ||annaka.health^
 ||annalyse.health^
@@ -35,7 +33,6 @@
 ||apparati.health^
 ||appropos.health^
 ||asclepius.health^
-||assistedai.health^
 ||astera.health^
 ||astrana.health^
 ||aymcetla.health^
@@ -196,7 +193,6 @@
 ||livingstonwellness.health^
 ||lumeox.health^
 ||luminacare.health^
-||luxuriae.health^
 ||mateos.health^
 ||materia.health^
 ||maxwell.health^
@@ -222,7 +218,6 @@
 ||morfeo.health^
 ||msdconsulting.health^
 ||multipli.health^
-||myase.health^
 ||myfamilytree.health^
 ||myic.health^
 ||myndstrong.health^
@@ -239,6 +234,7 @@
 ||ngrc.health^
 ||nichols.health^
 ||nrv.health^
+||nuomo.health^
 ||nursenatalie.health^
 ||nutrigenics.health^
 ||occhavn.health^
@@ -254,7 +250,6 @@
 ||paxa.health^
 ||pearly.health^
 ||pharmacyfirst.health^
-||phlow.health^
 ||pintar.health^
 ||polarity.health^
 ||postsurgical.health^
@@ -265,10 +260,10 @@
 ||prospr.health^
 ||provide.health^
 ||psp.health^
-||psychadelic.health^
 ||psychedeliccare.health^
 ||pthome.health^
 ||pwz.health^
+||pylot.health^
 ||qapi.health^
 ||qhm.health^
 ||queerly.health^
@@ -360,7 +355,6 @@
 ||wheretodance.health^
 ||wildandwell.health^
 ||willow-labs.health^
-||wwwpocket.health^
 ||x.health^
 ||xrai.health^
 ||yearly.health^

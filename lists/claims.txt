@@ -9,7 +9,6 @@
 ||blast-io.claims^
 ||bonk.claims^
 ||cannabis.claims^
-||cargo.claims^
 ||carinsurance.claims^
 ||carshipping.claims^
 ||certifiedpublicadjuster.claims^
@@ -50,6 +49,7 @@
 ||ixiniumasset.claims^
 ||join-starknet.claims^
 ||kaleido.claims^
+||land.claims^
 ||lasvegas.claims^
 ||leroymerlin.claims^
 ||looksrare.claims^
@@ -68,7 +68,6 @@
 ||pennsylvania.claims^
 ||pepeonsol.claims^
 ||phtm.claims^
-||phygitals.claims^
 ||portalgaming.claims^
 ||powerstake.claims^
 ||pyusd.claims^
