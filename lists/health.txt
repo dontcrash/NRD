@@ -28,6 +28,7 @@
 ||annalyse.health^
 ||anq.health^
 ||apexmed.health^
+||apolo.health^
 ||apoth.health^
 ||apothewell.health^
 ||apparati.health^
@@ -51,7 +52,6 @@
 ||careai.health^
 ||carrom.health^
 ||cccc.health^
-||chihuahua.health^
 ||claritysolutions.health^
 ||cleia.health^
 ||cloudclinic.health^
@@ -96,12 +96,6 @@
 ||elide.health^
 ||elite360care.health^
 ||elivity.health^
-||elnaesthetic.health^
-||elnamedecineprivee.health^
-||elnaprivatecare.health^
-||elnasantesexuelle.health^
-||elnaurgentcare.health^
-||elnaurology.health^
 ||elshen.health^
 ||elyon.health^
 ||empatia.health^
@@ -145,7 +139,6 @@
 ||hi-pe.health^
 ||hinds4health.health^
 ||hipe.health^
-||hopscotch.health^
 ||horse.health^
 ||htw.health^
 ||humboldt.health^
@@ -212,8 +205,10 @@
 ||milkharmony.health^
 ||mind-matters.health^
 ||mindnet.health^
+||mindscout.health^
 ||mlp.health^
 ||mneimatmd.health^
+||molet.health^
 ||momentumtherapy.health^
 ||morfeo.health^
 ||msdconsulting.health^
@@ -243,21 +238,20 @@
 ||og.health^
 ||onebillion.health^
 ||ourstack.health^
-||painally.health^
 ||paperclip.health^
 ||paramedicine.health^
 ||patience.health^
 ||paxa.health^
 ||pearly.health^
+||pem.health^
 ||pharmacyfirst.health^
+||pharmacyfirstservice.health^
 ||pintar.health^
-||polarity.health^
 ||postsurgical.health^
 ||postura.health^
 ||precisionmotion.health^
 ||preparation.health^
 ||pressureulcers.health^
-||prospr.health^
 ||provide.health^
 ||psp.health^
 ||psychedeliccare.health^
@@ -277,6 +271,7 @@
 ||remd.health^
 ||renovaro.health^
 ||restorix.health^
+||revai.health^
 ||reverse-yoga.health^
 ||revitaliving.health^
 ||revup.health^
@@ -298,10 +293,10 @@
 ||seven.health^
 ||sgcc.health^
 ||sheep.health^
+||sholder.health^
 ||shop.health^
 ||simpurity.health^
 ||skintemp.health^
-||slimmingtreatment.health^
 ||smithersko.health^
 ||specialiced.health^
 ||stopthespike.health^
@@ -329,6 +324,7 @@
 ||u.health^
 ||uci.health^
 ||udda.health^
+||umbria.health^
 ||unbound.health^
 ||unitedsafety.health^
 ||unitynetwork.health^
@@ -351,7 +347,6 @@
 ||w66d.health^
 ||wakeb.health^
 ||web-deepmeasures.health^
-||westslope.health^
 ||wheretodance.health^
 ||wildandwell.health^
 ||willow-labs.health^

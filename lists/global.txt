@@ -38,6 +38,7 @@
 ||audacity.global^
 ||aui.global^
 ||aur6.global^
+||autch.global^
 ||aviators.global^
 ||b52.global^
 ||bastion.global^
@@ -59,6 +60,7 @@
 ||bumpstars.global^
 ||businessarrangement.global^
 ||c21.global^
+||cannaceutical.global^
 ||capturethebag.global^
 ||carbon50.global^
 ||casefinite.global^
@@ -70,6 +72,7 @@
 ||chromatic.global^
 ||cielo.global^
 ||cityofgifted.global^
+||cjkopin.global^
 ||clearwater.global^
 ||cnects.global^
 ||cnf.global^
@@ -77,8 +80,6 @@
 ||codex.global^
 ||combate.global^
 ||commbank.global^
-||connectivity.global^
-||contiki.global^
 ||contra.global^
 ||cood.global^
 ||copperessence.global^
@@ -104,10 +105,8 @@
 ||debix-group.global^
 ||devmads.global^
 ||dhc.global^
-||digi.global^
 ||digimax.global^
 ||dit.global^
-||dorsch.global^
 ||dotlink.global^
 ||dpisd.global^
 ||dropshipper.global^
@@ -124,13 +123,11 @@
 ||elpaisdelencanto.global^
 ||emive.global^
 ||enablementsociety.global^
-||energysharing.global^
 ||engagehope.global^
 ||epcon.global^
 ||epicteamai.global^
 ||epijointaus.global^
 ||escient.global^
-||esper.global^
 ||eurotv.global^
 ||evatech.global^
 ||evd.global^
@@ -161,6 +158,7 @@
 ||fujitei.global^
 ||fusion.global^
 ||futad.global^
+||futureai.global^
 ||futurefoundation.global^
 ||galeri.global^
 ||gallagher.global^
@@ -216,7 +214,6 @@
 ||intricateacctg.global^
 ||inversekw.global^
 ||islamophobia.global^
-||it-park.global^
 ||itef.global^
 ||iweb.global^
 ||jackofspades.global^
@@ -266,8 +263,6 @@
 ||martello.global^
 ||mediarockets.global^
 ||meditour.global^
-||medtechguide.global^
-||meliora.global^
 ||mentalhealthinformed.global^
 ||merania.global^
 ||mfin.global^
@@ -291,9 +286,7 @@
 ||mxb.global^
 ||namingservice.global^
 ||namira.global^
-||narrativ.global^
 ||neomventures.global^
-||nextbook.global^
 ||nfpasolutions.global^
 ||nightshoppa.global^
 ||no-one.global^
@@ -339,6 +332,7 @@
 ||pricbackpacks.global^
 ||primer.global^
 ||profusioncommercial.global^
+||promocode.global^
 ||prophetelias.global^
 ||prosperandoansanm.global^
 ||provenance.global^
@@ -367,6 +361,8 @@
 ||remedyearth.global^
 ||remission.global^
 ||repsa.global^
+||republic.global^
+||resurrection.global^
 ||retina.global^
 ||revive.global^
 ||rewind2.global^
@@ -398,7 +394,6 @@
 ||shakira.global^
 ||sharedpurpose.global^
 ||siam.global^
-||sidara.global^
 ||sight.global^
 ||sin88.global^
 ||sisterhoodrising.global^
@@ -479,8 +474,12 @@
 ||victorious.global^
 ||videogaming.global^
 ||vnlf.global^
+||vnxoso.global^
+||volatility.global^
 ||vold.global^
 ||voteharder.global^
+||vr-online.global^
+||vss.global^
 ||w4e.global^
 ||wangari.global^
 ||warisnottheanswer.global^
@@ -490,6 +489,7 @@
 ||wgg.global^
 ||wheretodance.global^
 ||wilderlands.global^
+||wiselife.global^
 ||wiseman.global^
 ||wlngi.global^
 ||worth.global^
@@ -498,7 +498,6 @@
 ||x-r.global^
 ||xbtc.global^
 ||xgn.global^
-||xiaomihome.global^
 ||xmb.global^
 ||xmtp.global^
 ||xugar.global^

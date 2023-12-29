@@ -5,8 +5,8 @@
 ||airforce.flights^
 ||airports.flights^
 ||bkk.flights^
-||dao.flights^
 ||deal.flights^
+||findly.flights^
 ||flightlog.flights^
 ||flightschool.flights^
 ||gamebai.flights^
@@ -23,7 +23,6 @@
 ||lulich.flights^
 ||mo-travel-agent.flights^
 ||motravelagent.flights^
-||orientation.flights^
 ||proper.flights^
 ||renew.flights^
 ||save.flights^

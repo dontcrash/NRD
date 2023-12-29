@@ -11,7 +11,6 @@
 ||adiu.bot^
 ||adventurer.bot^
 ||advocate.bot^
-||aegis.bot^
 ||agentic.bot^
 ||ai71.bot^
 ||aicare.bot^
@@ -22,7 +21,6 @@
 ||aigirlfriend.bot^
 ||aiinnovation.bot^
 ||aiinvesting.bot^
-||aimovie.bot^
 ||aimovies.bot^
 ||airobotics.bot^
 ||airx.bot^
@@ -64,7 +62,6 @@
 ||bardit.bot^
 ||basicai.bot^
 ||bayt.bot^
-||bbq.bot^
 ||bcc.bot^
 ||bcg.bot^
 ||berlin.bot^
@@ -90,8 +87,9 @@
 ||boerse.bot^
 ||bollywood.bot^
 ||bom.bot^
+||bondetf.bot^
+||bondetfs.bot^
 ||botox.bot^
-||botr.bot^
 ||bottoolbox.bot^
 ||brainpick.bot^
 ||brandmanager.bot^
@@ -101,7 +99,6 @@
 ||browsing.bot^
 ||bryce.bot^
 ||bsc.bot^
-||btcetf.bot^
 ||budgeting.bot^
 ||buecher.bot^
 ||buildingabetter.bot^
@@ -122,8 +119,6 @@
 ||casual.bot^
 ||casualmaker.bot^
 ||cchaxcess.bot^
-||chappie.bot^
-||charity.bot^
 ||chatfunnels.bot^
 ||chatgbt.bot^
 ||chatservice.bot^
@@ -132,7 +127,6 @@
 ||cheeky.bot^
 ||chefkoch.bot^
 ||cine.bot^
-||cinema.bot^
 ||cinematic.bot^
 ||cite.bot^
 ||claro.bot^
@@ -198,7 +192,6 @@
 ||dba.bot^
 ||dealhunter.bot^
 ||decalvenue.bot^
-||decentralization.bot^
 ||decentramind.bot^
 ||defis.bot^
 ||delta.bot^
@@ -263,7 +256,6 @@
 ||ethe.bot^
 ||ethetf.bot^
 ||exo-shell.bot^
-||exodus.bot^
 ||export.bot^
 ||external.bot^
 ||ezvpn.bot^
@@ -272,19 +264,15 @@
 ||fame.bot^
 ||fantom.bot^
 ||faqtuur.bot^
-||feat.bot^
 ||ferret.bot^
 ||fey.bot^
-||fi.bot^
 ||filming.bot^
-||films.bot^
 ||fingpt.bot^
 ||finserv.bot^
 ||fnls.bot^
 ||foom.bot^
 ||football.bot^
 ||forecasting.bot^
-||forest.bot^
 ||forexmath.bot^
 ||frankenstein.bot^
 ||frauddetection.bot^
@@ -308,7 +296,6 @@
 ||geschenkefinder.bot^
 ||geysevilleinn.bot^
 ||gfy.bot^
-||giving.bot^
 ||gizmowhatsit.bot^
 ||glean.bot^
 ||glip.bot^
@@ -359,6 +346,7 @@
 ||indigoarc.bot^
 ||infinitybet.bot^
 ||inker.bot^
+||integer.bot^
 ||invited.bot^
 ||ipos.bot^
 ||irl.bot^
@@ -380,6 +368,7 @@
 ||keem.bot^
 ||keles.bot^
 ||killerro.bot^
+||kine.bot^
 ||kitchen.bot^
 ||klara.bot^
 ||kleinanzeigen.bot^
@@ -392,6 +381,7 @@
 ||lana.bot^
 ||language.bot^
 ||laptop.bot^
+||lastwill.bot^
 ||lenatheplug.bot^
 ||leprechaun.bot^
 ||levarage.bot^
@@ -439,7 +429,6 @@
 ||mixtral.bot^
 ||mlm.bot^
 ||model.bot^
-||moment.bot^
 ||momentumtrading.bot^
 ||moonlight.bot^
 ||moses.bot^
@@ -540,7 +529,6 @@
 ||ojas.bot^
 ||okvip.bot^
 ||olakrutrim.bot^
-||onyx.bot^
 ||open.bot^
 ||openhathi.bot^
 ||openhouse.bot^
@@ -576,7 +564,6 @@
 ||poll.bot^
 ||prank.bot^
 ||prayer.bot^
-||predictions.bot^
 ||preworkouts.bot^
 ||priceaction.bot^
 ||probe.bot^
@@ -592,8 +579,6 @@
 ||publicai.bot^
 ||q-star.bot^
 ||qhumans.bot^
-||qingyan.bot^
-||qs.bot^
 ||quanta.bot^
 ||quants.bot^
 ||quantumai.bot^
@@ -604,12 +589,12 @@
 ||raivohein.bot^
 ||rakhoitv.bot^
 ||rand.bot^
+||rational.bot^
 ||rebalancing.bot^
 ||rebound.bot^
 ||reels.bot^
 ||refine.bot^
 ||reggie.bot^
-||rep.bot^
 ||replicant.bot^
 ||research.bot^
 ||rfid.bot^
@@ -627,6 +612,7 @@
 ||santa.bot^
 ||santaclaus.bot^
 ||sasquatch.bot^
+||satuslots1.bot^
 ||savior.bot^
 ||schematic.bot^
 ||schools.bot^
@@ -649,7 +635,6 @@
 ||shankarponcelet.bot^
 ||shinobi.bot^
 ||shodan.bot^
-||shorts.bot^
 ||sideways.bot^
 ||siliconvalley.bot^
 ||simone.bot^
@@ -667,7 +652,6 @@
 ||solitaire.bot^
 ||solsniper.bot^
 ||solverone.bot^
-||sonny.bot^
 ||sower.bot^
 ||sparky.bot^
 ||speakeasy.bot^
@@ -679,7 +663,6 @@
 ||sslproxy.bot^
 ||stackoverflow.bot^
 ||stake.bot^
-||starq.bot^
 ||stingray.bot^
 ||stockadvisor.bot^
 ||stockexchange.bot^
@@ -697,7 +680,6 @@
 ||superintelligent.bot^
 ||supermind.bot^
 ||supervising.bot^
-||surya.bot^
 ||susu.bot^
 ||swahili.bot^
 ||swapkit.bot^
@@ -706,10 +688,7 @@
 ||synchro.bot^
 ||system.bot^
 ||tail.bot^
-||talentbot.bot^
 ||tamil.bot^
-||taohao.bot^
-||tasting.bot^
 ||tau.bot^
 ||taxgpt.bot^
 ||taxtime.bot^
@@ -741,7 +720,6 @@
 ||tribal.bot^
 ||tribes.bot^
 ||trove.bot^
-||trustee.bot^
 ||tsun.bot^
 ||turtleboy.bot^
 ||ufa.bot^
@@ -749,7 +727,6 @@
 ||ultron.bot^
 ||umbrella.bot^
 ||undo.bot^
-||unit.bot^
 ||unknown.bot^
 ||unlearning.bot^
 ||upsurge.bot^
@@ -774,7 +751,6 @@
 ||voila.bot^
 ||vorsorge.bot^
 ||voters.bot^
-||vtol.bot^
 ||w88.bot^
 ||waifugen.bot^
 ||warehousestorage.bot^
