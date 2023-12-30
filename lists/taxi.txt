@@ -6,6 +6,7 @@
 ||airport-innsbruck.taxi^
 ||alger.taxi^
 ||algerie.taxi^
+||alltaxi.taxi^
 ||amman.taxi^
 ||any.taxi^
 ||astana.taxi^
@@ -38,7 +39,6 @@
 ||gemwin.taxi^
 ||getair.taxi^
 ||globus.taxi^
-||golf.taxi^
 ||hakone.taxi^
 ||hal.taxi^
 ||halacab.taxi^
@@ -46,7 +46,6 @@
 ||hipclub.taxi^
 ||hit.taxi^
 ||hs.taxi^
-||hyllo.taxi^
 ||ingolstadt.taxi^
 ||irish.taxi^
 ||iwin.taxi^
@@ -114,5 +113,6 @@
 ||vungtau.taxi^
 ||whitecourt.taxi^
 ||win79.taxi^
+||wyland.taxi^
 ||zbet.taxi^
 ||zowin.taxi^

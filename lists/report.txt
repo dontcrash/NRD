@@ -7,9 +7,9 @@
 ||agingreport.report^
 ||aiadaptability.report^
 ||aitrend.report^
+||animal.report^
 ||app-location.report^
 ||aramco.report^
-||army.report^
 ||autonews.report^
 ||bolo.report^
 ||bond.report^
@@ -29,10 +29,8 @@
 ||databases.report^
 ||devicefound.report^
 ||digitalist.report^
-||docket.report^
 ||donation.report^
 ||euroassociation.report^
-||everythingandmore.report^
 ||eyewitness.report^
 ||ezeelogin.report^
 ||finddevices.report^
@@ -52,6 +50,7 @@
 ||influence.report^
 ||israelnews.report^
 ||it4all.report^
+||jadara.report^
 ||kadena.report^
 ||kyp.report^
 ||lifecodes.report^
@@ -88,6 +87,7 @@
 ||quote.report^
 ||radvisor.report^
 ||rbctransfer.report^
+||referee.report^
 ||rehab.report^
 ||rekt.report^
 ||rentals.report^
@@ -95,6 +95,7 @@
 ||rockymountain.report^
 ||run.report^
 ||s0ng.report^
+||sec.report^
 ||secr.report^
 ||servicetech.report^
 ||shutdown.report^
@@ -121,6 +122,7 @@
 ||trustwallet.report^
 ||u.report^
 ||uberaccident.report^
+||uncuni.report^
 ||vcheck.report^
 ||vehicledamage.report^
 ||veto.report^
@@ -132,5 +134,6 @@
 ||webaudit.report^
 ||wizard.report^
 ||workout.report^
+||x22.report^
 ||y.report^
 ||yutes.report^

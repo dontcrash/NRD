@@ -14,7 +14,6 @@
 ||automatedinventory.management^
 ||backlog.management^
 ||bgp.management^
-||bjyama.management^
 ||blackout.management^
 ||businesscreations.management^
 ||carvoeiro.management^
@@ -22,7 +21,6 @@
 ||clean.management^
 ||clearvision.management^
 ||coastalhome.management^
-||cybersec.management^
 ||decisiontree.management^
 ||designity.management^
 ||duplex.management^
@@ -36,7 +34,6 @@
 ||gacha.management^
 ||gamebai.management^
 ||gamebaidoithuong.management^
-||globalexpress.management^
 ||gymnastics.management^
 ||hoa.management^
 ||hubs.management^
@@ -51,6 +48,7 @@
 ||jwm.management^
 ||kaia.management^
 ||klubb.management^
+||kratom.management^
 ||legalops.management^
 ||legalproject.management^
 ||letting.management^
@@ -89,6 +87,7 @@
 ||sendmail-protection-mimemcast-outlook.management^
 ||ships.management^
 ||sixstring.management^
+||skill.management^
 ||skin.management^
 ||smartevent.management^
 ||southeastrisk.management^
@@ -99,6 +98,7 @@
 ||tep.management^
 ||theartistandyjames.management^
 ||tna.management^
+||touchandgo.management^
 ||tqp.management^
 ||transactionrisk.management^
 ||ugc.management^

@@ -11,6 +11,7 @@
 ||alive.properties^
 ||allcommercial.properties^
 ||alta.properties^
+||animo.properties^
 ||archway.properties^
 ||aspiredmanagements.properties^
 ||aspiredproperties.properties^
@@ -20,7 +21,6 @@
 ||benji.properties^
 ||bennelong.properties^
 ||beourguest.properties^
-||biodiversity.properties^
 ||bjyama.properties^
 ||bk.properties^
 ||bot.properties^
@@ -39,9 +39,7 @@
 ||chinasl.properties^
 ||choice.properties^
 ||cityhost.properties^
-||cobaberanch.properties^
 ||cobblestone.properties^
-||connectview.properties^
 ||continent.properties^
 ||creek.properties^
 ||crete.properties^
@@ -144,8 +142,11 @@
 ||saintlouis.properties^
 ||salon.properties^
 ||saltworks.properties^
+||senior.properties^
+||seniorhousing.properties^
 ||seven.properties^
 ||sevenkeys.properties^
+||sg.properties^
 ||silko.properties^
 ||sisu.properties^
 ||slice.properties^
@@ -182,6 +183,7 @@
 ||viral.properties^
 ||vistavibes.properties^
 ||voice.properties^
+||watchdog.properties^
 ||waterman.properties^
 ||waxwing.properties^
 ||webuyasis8.properties^

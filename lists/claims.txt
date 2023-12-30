@@ -22,6 +22,7 @@
 ||covid.claims^
 ||cpia.claims^
 ||dailycheck.claims^
+||dental.claims^
 ||enter-zero.claims^
 ||equation.claims^
 ||etoro.claims^
@@ -58,6 +59,7 @@
 ||mocaverse.claims^
 ||morpho.claims^
 ||mova.claims^
+||muraibet.claims^
 ||ncat.claims^
 ||northamerican.claims^
 ||ntcat.claims^
@@ -71,7 +73,6 @@
 ||pyusd.claims^
 ||qcat.claims^
 ||quickswap-exchange.claims^
-||quickswap-io.claims^
 ||rd4u.claims^
 ||rewards-velodrome.claims^
 ||robotrade-ai.claims^
@@ -98,7 +99,6 @@
 ||vanhawkroofing.claims^
 ||vanity.claims^
 ||vcat.claims^
-||verasity-io.claims^
 ||vulcanforged.claims^
 ||will.claims^
 ||xai.claims^

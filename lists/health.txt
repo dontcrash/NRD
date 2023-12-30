@@ -6,9 +6,7 @@
 ||acclaimed.health^
 ||adara.health^
 ||adewell.health^
-||adventurer.health^
 ||aelo.health^
-||aeroflow.health^
 ||affectable.health^
 ||affineon.health^
 ||ai360x.health^
@@ -64,16 +62,19 @@
 ||compre.health^
 ||concord.health^
 ||confidante.health^
+||conjure.health^
 ||continuum.health^
 ||convoy.health^
 ||copilots.health^
 ||createwellstudio.health^
 ||crosshatch.health^
 ||culkeen.health^
+||curam.health^
 ||cureous.health^
 ||customa.health^
 ||cyberwellness.health^
 ||danielrruth.health^
+||datapreneur.health^
 ||dayside.health^
 ||daytonaone.health^
 ||dazzle.health^
@@ -88,7 +89,6 @@
 ||digitaltech.health^
 ||directional.health^
 ||divinetherapy.health^
-||dr-hemn.health^
 ||dreamtime.health^
 ||drshivanihomeopathy.health^
 ||drwater.health^
@@ -100,7 +100,6 @@
 ||elyon.health^
 ||empatia.health^
 ||empoweredtherapy.health^
-||enrg.health^
 ||enrollmountain.health^
 ||etherna.health^
 ||everydayteen.health^
@@ -110,7 +109,6 @@
 ||familymatters.health^
 ||farmercy.health^
 ||fello.health^
-||ficus.health^
 ||fintech.health^
 ||firefighter.health^
 ||fontana.health^
@@ -125,7 +123,6 @@
 ||gower.health^
 ||gpo.health^
 ||graf.health^
-||guardrail.health^
 ||guidehuman.health^
 ||gutcheck.health^
 ||hammerhead.health^
@@ -139,6 +136,7 @@
 ||hi-pe.health^
 ||hinds4health.health^
 ||hipe.health^
+||hometown.health^
 ||horse.health^
 ||htw.health^
 ||humboldt.health^
@@ -171,7 +169,6 @@
 ||kaliedohealth.health^
 ||kaliedohealthcentre.health^
 ||kaliedohealthservice.health^
-||kanhai.health^
 ||karal.health^
 ||keeper.health^
 ||kelham.health^
@@ -201,6 +198,7 @@
 ||membranes.health^
 ||mensdaily.health^
 ||metanoia.health^
+||metapneumovirus.health^
 ||meum.health^
 ||milkharmony.health^
 ||mind-matters.health^
@@ -211,7 +209,6 @@
 ||molet.health^
 ||momentumtherapy.health^
 ||morfeo.health^
-||msdconsulting.health^
 ||multipli.health^
 ||myfamilytree.health^
 ||myic.health^
@@ -228,6 +225,8 @@
 ||nexauth.health^
 ||ngrc.health^
 ||nichols.health^
+||nima-life.health^
+||nimalife.health^
 ||nrv.health^
 ||nuomo.health^
 ||nursenatalie.health^
@@ -259,6 +258,7 @@
 ||pwz.health^
 ||pylot.health^
 ||qapi.health^
+||qcca.health^
 ||qhm.health^
 ||queerly.health^
 ||rapidkd.health^
@@ -279,7 +279,6 @@
 ||rizz.health^
 ||rootedcommunities.health^
 ||rootsreview.health^
-||roster.health^
 ||rutor.health^
 ||s-pharmaceutical.health^
 ||sagitron.health^
@@ -299,7 +298,6 @@
 ||skintemp.health^
 ||smithersko.health^
 ||specialiced.health^
-||stopthespike.health^
 ||streamlined.health^
 ||studioai.health^
 ||sun88.health^

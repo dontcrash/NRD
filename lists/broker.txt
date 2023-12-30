@@ -6,6 +6,7 @@
 ||arte.broker^
 ||asn.broker^
 ||c2.broker^
+||canna.broker^
 ||carshippingquote.broker^
 ||carshippingquotes.broker^
 ||cobroker.broker^
@@ -36,7 +37,6 @@
 ||imagine.broker^
 ||israelimortgage.broker^
 ||israelirealestate.broker^
-||karenritchie.broker^
 ||kr.broker^
 ||ky.broker^
 ||labdiamond.broker^
@@ -46,7 +46,6 @@
 ||machinery.broker^
 ||mrspecialist.broker^
 ||newrock.broker^
-||noones.broker^
 ||offshoring.broker^
 ||outsourcing.broker^
 ||prop.broker^
@@ -63,6 +62,7 @@
 ||shortsales.broker^
 ||shortselling.broker^
 ||signals.broker^
+||starlink.broker^
 ||stay.broker^
 ||stockexchange.broker^
 ||stockportfolio.broker^
