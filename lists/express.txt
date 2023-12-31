@@ -58,6 +58,7 @@
 ||customs.express^
 ||cutout.express^
 ||cybersex.express^
+||d.express^
 ||darnellfrank.express^
 ||delivery-aramex.express^
 ||diabetic.express^
@@ -69,6 +70,8 @@
 ||dtdccargo.express^
 ||dunzo.express^
 ||eastcoast.express^
+||eats.express^
+||eatz.express^
 ||echarge.express^
 ||eden.express^
 ||edge.express^
@@ -78,6 +81,7 @@
 ||epic.express^
 ||epilepsy.express^
 ||eshop.express^
+||european.express^
 ||evakuator.express^
 ||event.express^
 ||farmaci.express^
@@ -101,6 +105,7 @@
 ||horeca.express^
 ||hotline.express^
 ||icarus.express^
+||ihost.express^
 ||ink.express^
 ||instamart.express^
 ||itsm.express^
@@ -119,9 +124,7 @@
 ||m2m.express^
 ||malaga.express^
 ||meditation.express^
-||metropolitan.express^
 ||midas.express^
-||moonbound.express^
 ||mycolisdhl.express^
 ||myink.express^
 ||neom.express^
@@ -131,7 +134,6 @@
 ||onex.express^
 ||padel.express^
 ||painting.express^
-||pamandchamps.express^
 ||paralegal.express^
 ||pattaya.express^
 ||pdn.express^
@@ -186,7 +188,6 @@
 ||traveler.express^
 ||triplec.express^
 ||try.express^
-||tsadmin.express^
 ||uspsship.express^
 ||v2ray.express^
 ||vapeur.express^

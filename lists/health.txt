@@ -9,11 +9,12 @@
 ||aelo.health^
 ||affectable.health^
 ||affineon.health^
-||ai360x.health^
 ||ai71.health^
 ||aiagents.health^
 ||aifor.health^
 ||aiguy.health^
+||ailment.health^
+||ailments.health^
 ||aippoint.health^
 ||aiu.health^
 ||ajan.health^
@@ -44,9 +45,9 @@
 ||bkm.health^
 ||bluephoenix.health^
 ||bodytemple.health^
-||borg.health^
 ||brightwood.health^
 ||brooke.health^
+||cardia.health^
 ||careai.health^
 ||carrom.health^
 ||cccc.health^
@@ -63,6 +64,7 @@
 ||concord.health^
 ||confidante.health^
 ||conjure.health^
+||contingency.health^
 ||continuum.health^
 ||convoy.health^
 ||copilots.health^
@@ -115,7 +117,6 @@
 ||ftg.health^
 ||gate.health^
 ||getdaytona.health^
-||getrelish.health^
 ||glamping.health^
 ||goglobal.health^
 ||goldenrose.health^
@@ -137,7 +138,6 @@
 ||hinds4health.health^
 ||hipe.health^
 ||hometown.health^
-||horse.health^
 ||htw.health^
 ||humboldt.health^
 ||humetrics.health^
@@ -152,6 +152,7 @@
 ||imallears.health^
 ||immuniize.health^
 ||impactlife.health^
+||indicate.health^
 ||infinityheart.health^
 ||ink.health^
 ||innerfreedom.health^
@@ -171,7 +172,6 @@
 ||kaliedohealthservice.health^
 ||karal.health^
 ||keeper.health^
-||kelham.health^
 ||keto-mojo.health^
 ||ketomojo.health^
 ||kollagen.health^
@@ -183,6 +183,8 @@
 ||livingstonwellness.health^
 ||lumeox.health^
 ||luminacare.health^
+||lution.health^
+||lykos.health^
 ||mateos.health^
 ||materia.health^
 ||maxwell.health^
@@ -251,6 +253,7 @@
 ||precisionmotion.health^
 ||preparation.health^
 ||pressureulcers.health^
+||prevail.health^
 ||provide.health^
 ||psp.health^
 ||psychedeliccare.health^
@@ -278,7 +281,6 @@
 ||ringza.health^
 ||rizz.health^
 ||rootedcommunities.health^
-||rootsreview.health^
 ||rutor.health^
 ||s-pharmaceutical.health^
 ||sagitron.health^
@@ -291,12 +293,11 @@
 ||selfmap.health^
 ||seven.health^
 ||sgcc.health^
-||sheep.health^
 ||sholder.health^
 ||shop.health^
 ||simpurity.health^
 ||skintemp.health^
-||smithersko.health^
+||soundtherapy.health^
 ||specialiced.health^
 ||streamlined.health^
 ||studioai.health^
@@ -316,17 +317,15 @@
 ||thehelm.health^
 ||therawin.health^
 ||thewoodlands.health^
+||tiger.health^
 ||trampolineai.health^
-||treeoflife.health^
 ||u-are.health^
 ||u.health^
 ||uci.health^
 ||udda.health^
 ||umbria.health^
-||unbound.health^
 ||unitedsafety.health^
-||unitynetwork.health^
-||upgrading.health^
+||universityventures.health^
 ||urbane.health^
 ||urucum.health^
 ||userfirst.health^
@@ -350,7 +349,5 @@
 ||willow-labs.health^
 ||x.health^
 ||xrai.health^
-||yearly.health^
-||yiha.health^
 ||youmove.health^
 ||yourstory.health^

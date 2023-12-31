@@ -3,7 +3,6 @@
 ||archipelago.build^
 ||assistants.build^
 ||atta.build^
-||bellrise.build^
 ||bestnew.build^
 ||biscuits.build^
 ||blockchainexchange.build^
@@ -13,6 +12,7 @@
 ||cocoa.build^
 ||comwork.build^
 ||dark.build^
+||designunique.build^
 ||diggerscrowd.build^
 ||digitalist.build^
 ||dotfile.build^
@@ -24,10 +24,10 @@
 ||endevr.build^
 ||esim.build^
 ||fabmfg.build^
-||founderup.build^
 ||gamebai.build^
 ||gamebai88.build^
 ||gamedoithuong.build^
+||garmong.build^
 ||gem.build^
 ||gramercy.build^
 ||grapl.build^
@@ -60,7 +60,6 @@
 ||steelsolutions.build^
 ||steve.build^
 ||stonehorn.build^
-||stripeapp.build^
 ||sup.build^
 ||sustaina.build^
 ||swerve.build^
@@ -69,6 +68,7 @@
 ||thelahainaproject.build^
 ||township.build^
 ||truedup.build^
+||uniques.build^
 ||wanna.build^
 ||wav.build^
 ||wemust.build^
