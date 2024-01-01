@@ -27,6 +27,7 @@
 ||bot.properties^
 ||brm.properties^
 ||brokerage.properties^
+||broussard.properties^
 ||bry.properties^
 ||butler.properties^
 ||buy2sell.properties^
@@ -48,6 +49,7 @@
 ||cx.properties^
 ||davidquinn.properties^
 ||dedicatedanddesigned.properties^
+||defense.properties^
 ||delsur.properties^
 ||deutsch.properties^
 ||divineclassic.properties^
@@ -68,13 +70,13 @@
 ||fevzj.properties^
 ||film.properties^
 ||fishing.properties^
+||fitness.properties^
 ||gamebai.properties^
 ||gamebaidoithuong.properties^
 ||gamedoithuong.properties^
 ||gem.properties^
 ||glenwood.properties^
 ||globuson.properties^
-||goal1.properties^
 ||goldengoose.properties^
 ||gptpepe.properties^
 ||greatamerican.properties^
@@ -149,10 +151,9 @@
 ||silko.properties^
 ||sisu.properties^
 ||slice.properties^
+||smartinvest.properties^
 ||smithrealtypartners.properties^
 ||snowburgh.properties^
-||soleste.properties^
-||sophisticated.properties^
 ||southkorea.properties^
 ||srgroup.properties^
 ||store.properties^

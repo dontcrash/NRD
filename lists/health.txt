@@ -7,7 +7,6 @@
 ||adara.health^
 ||adewell.health^
 ||aelo.health^
-||affectable.health^
 ||affineon.health^
 ||ai71.health^
 ||aiagents.health^
@@ -69,6 +68,7 @@
 ||convoy.health^
 ||copilots.health^
 ||createwellstudio.health^
+||crosby.health^
 ||crosshatch.health^
 ||culkeen.health^
 ||curam.health^
@@ -79,19 +79,18 @@
 ||datapreneur.health^
 ||dayside.health^
 ||daytonaone.health^
-||dazzle.health^
 ||deepx-elysium.health^
 ||define.health^
 ||delayed.health^
 ||dermacol.health^
 ||devonshirecc.health^
 ||diabeticulcer.health^
-||different.health^
 ||digitalconnect.health^
 ||digitaltech.health^
 ||directional.health^
 ||divinetherapy.health^
 ||dreamtime.health^
+||drjoel.health^
 ||drshivanihomeopathy.health^
 ||drwater.health^
 ||ecra.health^
@@ -105,7 +104,6 @@
 ||enrollmountain.health^
 ||etherna.health^
 ||everydayteen.health^
-||extraordinary.health^
 ||exuberance.health^
 ||fairsense.health^
 ||familymatters.health^
@@ -114,6 +112,7 @@
 ||fintech.health^
 ||firefighter.health^
 ||fontana.health^
+||foundersmental.health^
 ||ftg.health^
 ||gate.health^
 ||getdaytona.health^
@@ -129,7 +128,6 @@
 ||hammerhead.health^
 ||harrisarc.health^
 ||healthandfitness.health^
-||healthqor.health^
 ||helix3.health^
 ||helixrx.health^
 ||herweb.health^
@@ -237,14 +235,16 @@
 ||odesso.health^
 ||odyssey.health^
 ||og.health^
+||onaya.health^
 ||onebillion.health^
 ||ourstack.health^
 ||paperclip.health^
 ||paramedicine.health^
 ||patience.health^
-||paxa.health^
 ||pearly.health^
+||peeps.health^
 ||pem.health^
+||pharmabeauty.health^
 ||pharmacyfirst.health^
 ||pharmacyfirstservice.health^
 ||pintar.health^
@@ -254,6 +254,7 @@
 ||preparation.health^
 ||pressureulcers.health^
 ||prevail.health^
+||primegenix.health^
 ||provide.health^
 ||psp.health^
 ||psychedeliccare.health^
@@ -298,6 +299,7 @@
 ||simpurity.health^
 ||skintemp.health^
 ||soundtherapy.health^
+||sourcepharmacy.health^
 ||specialiced.health^
 ||streamlined.health^
 ||studioai.health^

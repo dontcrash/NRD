@@ -46,6 +46,7 @@
 ||brighterfutures.energy^
 ||c4.energy^
 ||camo.energy^
+||capo.energy^
 ||carbon.energy^
 ||carthago.energy^
 ||catator.energy^
@@ -57,6 +58,7 @@
 ||chasity.energy^
 ||chatto.energy^
 ||cisa.energy^
+||compounding.energy^
 ||comsec.energy^
 ||connectambit.energy^
 ||consultant.energy^
@@ -89,11 +91,9 @@
 ||eliot.energy^
 ||emami.energy^
 ||emm.energy^
-||endurance.energy^
 ||energy-garage.energy^
 ||engineeryour.energy^
 ||epbizsolutiogfhf.energy^
-||epec.energy^
 ||epplament.energy^
 ||eridanus.energy^
 ||ers.energy^
@@ -136,19 +136,21 @@
 ||h2transport.energy^
 ||harrison.energy^
 ||hazheart.energy^
+||heartcenteredhealing.energy^
+||heartcenteredtherapy.energy^
 ||heuris.energy^
 ||homesolarsolutions.energy^
 ||honeysolar.energy^
 ||host.energy^
 ||hp.energy^
 ||hvdc.energy^
-||hydrocosm.energy^
 ||hydrogenhero.energy^
 ||hymax.energy^
 ||ial.energy^
 ||ialengineering.energy^
 ||ideas.energy^
 ||ids.energy^
+||ihstowers.energy^
 ||illi.energy^
 ||ilovemy.energy^
 ||imsolar.energy^
@@ -180,7 +182,6 @@
 ||maa.energy^
 ||magnis.energy^
 ||mama.energy^
-||mambamentality.energy^
 ||masf.energy^
 ||medisun.energy^
 ||mega.energy^
@@ -189,14 +190,12 @@
 ||midamerican.energy^
 ||milloin.energy^
 ||miningrace.energy^
-||mkhwind.energy^
 ||monument.energy^
 ||mote.energy^
 ||movable.energy^
 ||mpa.energy^
 ||msk.energy^
 ||nam-os.energy^
-||nanoguard.energy^
 ||navarro.energy^
 ||neotribe.energy^
 ||nergco.energy^
@@ -219,6 +218,7 @@
 ||propel.energy^
 ||pullman.energy^
 ||purple.energy^
+||pytorch.energy^
 ||qonnected.energy^
 ||quantize.energy^
 ||quantumedge.energy^
@@ -288,6 +288,7 @@
 ||titanomega.energy^
 ||tod.energy^
 ||transcendence.energy^
+||transeco.energy^
 ||trekker.energy^
 ||trolie.energy^
 ||tucker.energy^
@@ -304,6 +305,7 @@
 ||wallbox.energy^
 ||websites.energy^
 ||whistler.energy^
+||wi.energy^
 ||wiles.energy^
 ||wipetrol.energy^
 ||wisewoman.energy^

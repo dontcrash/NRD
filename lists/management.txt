@@ -20,7 +20,7 @@
 ||catalyst.management^
 ||cdhwealth.management^
 ||clearvision.management^
-||coastalhome.management^
+||coaching.management^
 ||decisiontree.management^
 ||duplex.management^
 ||eleva.management^
@@ -29,6 +29,7 @@
 ||esi.management^
 ||esk.management^
 ||fachai.management^
+||fortuna.management^
 ||gacha.management^
 ||gamebai.management^
 ||gamebaidoithuong.management^
@@ -54,9 +55,7 @@
 ||mail-box-system-inbounds-outlook.management^
 ||mail-protection-outlook-mimecast.management^
 ||mails-delivery-protection-mimemcast-outlook.management^
-||mails-protection-mimemcast-outlook.management^
 ||makebelieve.management^
-||mambamentality.management^
 ||mcj.management^
 ||mdcdiesel.management^
 ||metamusic.management^
@@ -85,14 +84,12 @@
 ||send-in-protection-mimemcast-outlook.management^
 ||sendmail-protection-mimemcast-outlook.management^
 ||ships.management^
-||sixstring.management^
 ||skill.management^
 ||skin.management^
 ||smartevent.management^
 ||southeastrisk.management^
 ||specpros.management^
 ||sunwin.management^
-||symbol.management^
 ||tarot.management^
 ||tep.management^
 ||theartistandyjames.management^

@@ -15,10 +15,10 @@
 ||local.lease^
 ||love.lease^
 ||low.lease^
-||midterm.lease^
 ||o.lease^
 ||obd2.lease^
 ||platinum.lease^
+||prime.lease^
 ||properties.lease^
 ||rambo.lease^
 ||rates.lease^
@@ -31,6 +31,5 @@
 ||top.lease^
 ||travel.lease^
 ||uk.lease^
-||villasfor.lease^
 ||wedding.lease^
 ||zipweb.lease^

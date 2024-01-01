@@ -3,6 +3,7 @@
 ||airline.claims^
 ||analos.claims^
 ||asia.claims^
+||autoaccident.claims^
 ||big.claims^
 ||billionaire.claims^
 ||birdeye.claims^
@@ -22,6 +23,7 @@
 ||covid.claims^
 ||cpia.claims^
 ||dailycheck.claims^
+||dashboard-solend.claims^
 ||dental.claims^
 ||enter-zero.claims^
 ||equation.claims^
@@ -63,7 +65,6 @@
 ||muraibet.claims^
 ||mycas.claims^
 ||ncat.claims^
-||northamerican.claims^
 ||ntcat.claims^
 ||omnicat.claims^
 ||pancakeswapv5.claims^
