@@ -45,6 +45,7 @@
 ||loanlocation.broker^
 ||luxe.broker^
 ||machinery.broker^
+||mid.broker^
 ||mrspecialist.broker^
 ||museum.broker^
 ||offshoring.broker^
@@ -53,6 +54,7 @@
 ||pt.broker^
 ||rate.broker^
 ||rei.broker^
+||routing.broker^
 ||search.broker^
 ||sg.broker^
 ||shareholder.broker^
@@ -74,5 +76,6 @@
 ||tonywalsh.broker^
 ||tw.broker^
 ||use.broker^
+||voit.broker^
 ||watt.broker^
 ||worldwidetrade.broker^

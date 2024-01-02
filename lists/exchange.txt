@@ -34,6 +34,7 @@
 ||b52club.exchange^
 ||bargains.exchange^
 ||barricader.exchange^
+||bch.exchange^
 ||bchf.exchange^
 ||bcny.exchange^
 ||bella.exchange^
@@ -45,7 +46,6 @@
 ||bitbot.exchange^
 ||bitcoine.exchange^
 ||bitcoke.exchange^
-||bitnew.exchange^
 ||bitstable.exchange^
 ||blastfutures.exchange^
 ||blastswap.exchange^
@@ -56,6 +56,7 @@
 ||bonk.exchange^
 ||boomerang.exchange^
 ||boxing.exchange^
+||bozo.exchange^
 ||brands.exchange^
 ||brian.exchange^
 ||bridgenode.exchange^
@@ -68,6 +69,7 @@
 ||buungeee.exchange^
 ||california.exchange^
 ||carbonmarket.exchange^
+||caribbean.exchange^
 ||cash.exchange^
 ||cbrc20.exchange^
 ||celestia.exchange^
@@ -81,6 +83,7 @@
 ||climategov.exchange^
 ||climatevalue.exchange^
 ||clip.exchange^
+||closetworld.exchange^
 ||cofinex.exchange^
 ||coils.exchange^
 ||coinbase-wallet.exchange^
@@ -102,7 +105,6 @@
 ||davidkillsgoliath.exchange^
 ||dedabit.exchange^
 ||defrag.exchange^
-||degencoin.exchange^
 ||delayed.exchange^
 ||democrat.exchange^
 ||derivabit.exchange^
@@ -113,7 +115,6 @@
 ||dtc.exchange^
 ||dualbit.exchange^
 ||dydix.exchange^
-||dydx-trade.exchange^
 ||dydxtrade.exchange^
 ||eagonswap.exchange^
 ||earnex.exchange^
@@ -149,8 +150,6 @@
 ||gamedoithuong.exchange^
 ||gamejam.exchange^
 ||garts.exchange^
-||gasles.exchange^
-||gasless.exchange^
 ||geeks.exchange^
 ||gem.exchange^
 ||gemlink.exchange^
@@ -192,7 +191,6 @@
 ||kytheria.exchange^
 ||lanzhou.exchange^
 ||legalytech.exchange^
-||leumia.exchange^
 ||lionex.exchange^
 ||liongate.exchange^
 ||llamas.exchange^
@@ -202,6 +200,7 @@
 ||machinist.exchange^
 ||mailserver.exchange^
 ||marbles.exchange^
+||matrixchange.exchange^
 ||mbox.exchange^
 ||mbuni.exchange^
 ||mdrx.exchange^
@@ -217,6 +216,7 @@
 ||multiplier-multibit.exchange^
 ||myinsurance.exchange^
 ||nanjing.exchange^
+||nebulax.exchange^
 ||neby.exchange^
 ||novus.exchange^
 ||novuscrypto.exchange^
@@ -226,7 +226,6 @@
 ||ordis.exchange^
 ||ordiswap.exchange^
 ||ordizk.exchange^
-||ore.exchange^
 ||otegotextile.exchange^
 ||panegolin.exchange^
 ||pangeolin.exchange^
@@ -283,6 +282,7 @@
 ||strikt.exchange^
 ||sun88.exchange^
 ||swapmonero.exchange^
+||sweep.exchange^
 ||swop.exchange^
 ||syncswap-io.exchange^
 ||tangleswaper.exchange^
@@ -292,6 +292,7 @@
 ||thebad.exchange^
 ||thegoods.exchange^
 ||theinsurance.exchange^
+||thelotus.exchange^
 ||theugly.exchange^
 ||this.exchange^
 ||thoughtsandprayers.exchange^
@@ -323,11 +324,14 @@
 ||vr.exchange^
 ||vuelos.exchange^
 ||vvela.exchange^
+||warrior.exchange^
 ||wgrow.exchange^
 ||whitefox.exchange^
 ||win.exchange^
+||worldcurrency.exchange^
 ||worldwidemarketing.exchange^
 ||wwapex.exchange^
+||xebula.exchange^
 ||xena.exchange^
 ||xenon.exchange^
 ||xiyomi.exchange^
