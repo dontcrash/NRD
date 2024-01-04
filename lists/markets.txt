@@ -24,6 +24,7 @@
 ||dapp.markets^
 ||defense.markets^
 ||deso.markets^
+||dex.markets^
 ||dexzeta.markets^
 ||diamond.markets^
 ||diet.markets^
@@ -61,6 +62,7 @@
 ||matter.markets^
 ||maven.markets^
 ||mbg.markets^
+||nachos.markets^
 ||orbit.markets^
 ||phi.markets^
 ||pixel.markets^
@@ -75,11 +77,13 @@
 ||sat.markets^
 ||selatan88.markets^
 ||selene.markets^
+||signup.markets^
 ||sin88.markets^
 ||smile.markets^
 ||sovereign.markets^
 ||sticker.markets^
 ||tarot.markets^
+||tele.markets^
 ||tellus.markets^
 ||tensor.markets^
 ||teslastocks.markets^

@@ -28,6 +28,7 @@
 ||artcommodity.capital^
 ||artha.capital^
 ||ascension.capital^
+||asiacircle.capital^
 ||augur.capital^
 ||avi.capital^
 ||axsys.capital^
@@ -70,6 +71,8 @@
 ||chart.capital^
 ||circlecity.capital^
 ||circulating.capital^
+||civilian.capital^
+||clapperton.capital^
 ||cnh.capital^
 ||coinwealth.capital^
 ||comanchepeak.capital^
@@ -111,6 +114,7 @@
 ||eternity.capital^
 ||euclidresearch.capital^
 ||european-cb.capital^
+||evolving.capital^
 ||excelsior.capital^
 ||exo.capital^
 ||exoventure.capital^
@@ -208,6 +212,7 @@
 ||lentara.capital^
 ||lh.capital^
 ||lightblock.capital^
+||livtrasir.capital^
 ||lmsic.capital^
 ||lostcoin.capital^
 ||lsm.capital^
@@ -229,6 +234,7 @@
 ||milestone.capital^
 ||mining.capital^
 ||momenta.capital^
+||monitor.capital^
 ||montarto.capital^
 ||moonshot.capital^
 ||mordor.capital^
@@ -238,6 +244,7 @@
 ||mythic.capital^
 ||n8.capital^
 ||nammu.capital^
+||nav.capital^
 ||ndu.capital^
 ||newmind.capital^
 ||nexusone.capital^
@@ -245,11 +252,15 @@
 ||nightly.capital^
 ||noksha.capital^
 ||northwest.capital^
+||novaprime.capital^
 ||novax.capital^
 ||nowis.capital^
 ||noxo.capital^
+||numina.capital^
+||nustar.capital^
 ||ole.capital^
 ||ordbridge.capital^
+||ordizk.capital^
 ||oro.capital^
 ||osmundo.capital^
 ||oto.capital^
@@ -260,6 +271,7 @@
 ||paint.capital^
 ||paladin.capital^
 ||pathway.capital^
+||patroness.capital^
 ||pera.capital^
 ||perpetual.capital^
 ||pilier.capital^
@@ -306,6 +318,8 @@
 ||sheismakingmoves.capital^
 ||sic.capital^
 ||sidequest.capital^
+||signup-radiant.capital^
+||silicon.capital^
 ||sims.capital^
 ||skip.capital^
 ||skye.capital^
@@ -325,6 +339,7 @@
 ||steppe.capital^
 ||stonebridge.capital^
 ||submit.capital^
+||summitpath.capital^
 ||sun88.capital^
 ||sungroup.capital^
 ||superex.capital^
@@ -340,6 +355,7 @@
 ||thebig.capital^
 ||thedon.capital^
 ||theskilling.capital^
+||todo.capital^
 ||torque.capital^
 ||touchpoint.capital^
 ||trainer.capital^

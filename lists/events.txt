@@ -69,6 +69,7 @@
 ||bonkers.events^
 ||bouncefi.events^
 ||brightonblock.events^
+||browsealbion.events^
 ||brunos.events^
 ||buddyhub.events^
 ||budgets.events^
@@ -104,11 +105,13 @@
 ||dappradar.events^
 ||datacenter.events^
 ||decarbon.events^
+||decklife.events^
 ||deco.events^
 ||dextools.events^
 ||digi.events^
 ||dlm.events^
 ||done.events^
+||drako.events^
 ||dreamscapes.events^
 ||drinks.events^
 ||dullboys.events^
@@ -122,6 +125,7 @@
 ||egersis.events^
 ||eigenlayer-xyz.events^
 ||ela.events^
+||emeraldpoint.events^
 ||empoweredme.events^
 ||encompass.events^
 ||enter-hashflow.events^
@@ -129,6 +133,7 @@
 ||enter-zero.events^
 ||envision.events^
 ||essence.events^
+||etail.events^
 ||europe.events^
 ||event-farcana.events^
 ||eventops.events^
@@ -144,6 +149,7 @@
 ||federal.events^
 ||femm.events^
 ||fencing.events^
+||fes.events^
 ||fight.events^
 ||findly.events^
 ||fine.events^
@@ -151,6 +157,7 @@
 ||forbidden.events^
 ||frame-xyz.events^
 ||frankie.events^
+||fun88.events^
 ||funl.events^
 ||funtastic.events^
 ||fur.events^
@@ -189,10 +196,10 @@
 ||iam.events^
 ||idemo.events^
 ||ikhwan.events^
-||iletaitunefoisl.events^
 ||impostors.events^
 ||incentive.events^
 ||inspect-xyz.events^
+||inter8tive.events^
 ||itineris.events^
 ||jake.events^
 ||jardin.events^
@@ -210,6 +217,8 @@
 ||keystone.events^
 ||kickoff.events^
 ||kindred.events^
+||kindregards.events^
+||knowledge.events^
 ||kollisjon.events^
 ||krypto.events^
 ||ladies.events^
@@ -255,12 +264,12 @@
 ||moshpit.events^
 ||mountainhome.events^
 ||mozgo.events^
-||msglobal.events^
 ||mtf.events^
 ||muchticket.events^
 ||muteio.events^
 ||muz.events^
 ||mydoge.events^
+||myro.events^
 ||namer.events^
 ||naturalmente.events^
 ||natya.events^
@@ -274,6 +283,7 @@
 ||oboe.events^
 ||octopus.events^
 ||oneday.events^
+||onlinestore.events^
 ||opnx-exchange.events^
 ||optimal.events^
 ||orensanz.events^
@@ -286,6 +296,7 @@
 ||paparazzi.events^
 ||partake.events^
 ||partner.events^
+||peepo.events^
 ||perennial-finance.events^
 ||pets.events^
 ||photonic.events^
@@ -295,8 +306,10 @@
 ||planeta.events^
 ||plataform.events^
 ||plavent.events^
+||playember.events^
 ||plottwist.events^
 ||pls.events^
+||plumbing.events^
 ||pocket.events^
 ||porschenft.events^
 ||ppa.events^
@@ -332,12 +345,12 @@
 ||romance.events^
 ||runofshow.events^
 ||rutor.events^
-||s2l.events^
 ||salam.events^
 ||samt.events^
 ||sanbf.events^
 ||sandd.events^
 ||saudia.events^
+||scaleorfail.events^
 ||schneider.events^
 ||schwalenberg.events^
 ||sciabica.events^
@@ -383,7 +396,6 @@
 ||stellarguest.events^
 ||strangerthanet.events^
 ||stroke.events^
-||stuweb.events^
 ||succeed.events^
 ||sudoku.events^
 ||summer-fi.events^
@@ -449,6 +461,7 @@
 ||web.events^
 ||weddingplanet.events^
 ||weekends.events^
+||welara.events^
 ||wetfish.events^
 ||whathafun.events^
 ||whatsthefuture.events^
@@ -463,5 +476,4 @@
 ||yoda.events^
 ||yogapetz.events^
 ||yolo.events^
-||youngs.events^
 ||zip.events^

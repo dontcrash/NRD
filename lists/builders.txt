@@ -4,6 +4,7 @@
 ||a2z.builders^
 ||agile.builders^
 ||aiagents.builders^
+||algarve.builders^
 ||allegiance.builders^
 ||aplus.builders^
 ||apollo.builders^
@@ -32,6 +33,7 @@
 ||ethsync.builders^
 ||evmos.builders^
 ||firstchoice.builders^
+||gak.builders^
 ||gamebaidoithuong.builders^
 ||gamedoithuong.builders^
 ||gem.builders^
@@ -67,6 +69,7 @@
 ||practice.builders^
 ||q.builders^
 ||rambo.builders^
+||randr.builders^
 ||reef.builders^
 ||revenue.builders^
 ||ryd.builders^
@@ -78,7 +81,6 @@
 ||sunwin.builders^
 ||taylor.builders^
 ||time.builders^
-||utica.builders^
 ||utm.builders^
 ||vantage.builders^
 ||victoria.builders^

@@ -11,6 +11,7 @@
 ||a3i.tools^
 ||aatools.tools^
 ||ab.tools^
+||adfree.tools^
 ||admincenter.tools^
 ||admiresty.tools^
 ||agencypro.tools^
@@ -35,6 +36,7 @@
 ||analogue.tools^
 ||aptos.tools^
 ||aramco.tools^
+||argmax.tools^
 ||aro.tools^
 ||arte.tools^
 ||aseesa.tools^
@@ -47,7 +49,6 @@
 ||barrelproof.tools^
 ||bcdev.tools^
 ||bct.tools^
-||berlands.tools^
 ||bestonline.tools^
 ||bigdog.tools^
 ||bigjpg.tools^
@@ -86,6 +87,7 @@
 ||connectome.tools^
 ||contents.tools^
 ||copilots.tools^
+||cosmicmind.tools^
 ||cross.tools^
 ||crosschain.tools^
 ||crosspost.tools^
@@ -154,6 +156,7 @@
 ||getai.tools^
 ||gettrx.tools^
 ||girl.tools^
+||giveme.tools^
 ||gltf.tools^
 ||gosuper.tools^
 ||gpatoolkit.tools^
@@ -166,6 +169,7 @@
 ||healthspan.tools^
 ||hemp.tools^
 ||herald.tools^
+||heyai.tools^
 ||hhh.tools^
 ||high-roller.tools^
 ||highavailability.tools^
@@ -213,6 +217,7 @@
 ||lynxforged.tools^
 ||lyrn.tools^
 ||macsol.tools^
+||magnus.tools^
 ||mailing-address-change.tools^
 ||majic.tools^
 ||makecoin.tools^
@@ -257,9 +262,11 @@
 ||oav.tools^
 ||oavm.tools^
 ||obd.tools^
+||ocaye.tools^
 ||omaxemall.tools^
 ||omnimedius.tools^
 ||onboard.tools^
+||onlinestore.tools^
 ||oop.tools^
 ||oops.tools^
 ||opinion.tools^
@@ -267,7 +274,6 @@
 ||over.tools^
 ||pagepower.tools^
 ||pain.tools^
-||painally.tools^
 ||pansensus.tools^
 ||parkit.tools^
 ||passwordless.tools^
@@ -294,6 +300,7 @@
 ||radian.tools^
 ||raj.tools^
 ||rakmana.tools^
+||recommend.tools^
 ||redaction.tools^
 ||rei.tools^
 ||ren.tools^
@@ -320,11 +327,11 @@
 ||similarai.tools^
 ||skgp.tools^
 ||skilled.tools^
-||smartmoney.tools^
 ||smsblasting.tools^
 ||snack.tools^
 ||soca.tools^
 ||soctrip.tools^
+||solanabox.tools^
 ||soundcloudmp3.tools^
 ||sova.tools^
 ||specs.tools^
@@ -382,6 +389,7 @@
 ||vmail.tools^
 ||vortex.tools^
 ||vulkan.tools^
+||website-dev.tools^
 ||websiteonline.tools^
 ||wedo.tools^
 ||which-ai.tools^

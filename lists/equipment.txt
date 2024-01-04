@@ -12,6 +12,8 @@
 ||coinmining.equipment^
 ||company.equipment^
 ||defence.equipment^
+||direct.equipment^
+||dmg.equipment^
 ||dot.equipment^
 ||electronic.equipment^
 ||exclusive.equipment^
@@ -39,6 +41,7 @@
 ||shopping.equipment^
 ||skiing.equipment^
 ||snowboard.equipment^
+||softworks.equipment^
 ||soulverse.equipment^
 ||sun88.equipment^
 ||sustainable.equipment^
