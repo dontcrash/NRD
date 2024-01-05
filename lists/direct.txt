@@ -30,6 +30,7 @@
 ||charging.direct^
 ||cinema.direct^
 ||classroom.direct^
+||clickshop.direct^
 ||climb.direct^
 ||cloudstorage.direct^
 ||compositedoors.direct^
@@ -45,6 +46,7 @@
 ||eon.direct^
 ||ersatzteile.direct^
 ||eshop.direct^
+||everyonesocial.direct^
 ||fedexdelivery.direct^
 ||fedi.direct^
 ||fiber.direct^
@@ -100,7 +102,6 @@
 ||reinsurance.direct^
 ||remax.direct^
 ||rentalcars.direct^
-||roamswap.direct^
 ||rooms.direct^
 ||scan.direct^
 ||sellhomes.direct^
@@ -125,7 +126,6 @@
 ||umail.direct^
 ||update-com.direct^
 ||ustay.direct^
-||vesco.direct^
 ||vineyard.direct^
 ||vino.direct^
 ||virtualoffice.direct^
@@ -133,7 +133,16 @@
 ||webs.direct^
 ||welding.direct^
 ||workspace.direct^
+||xmcnbroker.direct^
+||xmcnmarkets.direct^
 ||xmidbroker.direct^
 ||xmidforex.direct^
 ||xmididader.direct^
+||xmidmarkets.direct^
+||xmidsite.direct^
+||xmidwebsite.direct^
+||xmmybroker.direct^
+||xmmytrader.direct^
+||xmtrmarket.direct^
+||xmtrmarkets.direct^
 ||yourmaker.direct^

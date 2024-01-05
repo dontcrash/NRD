@@ -1,6 +1,5 @@
 ||0.claims^
 ||aat.claims^
-||airline.claims^
 ||analos.claims^
 ||asia.claims^
 ||autoaccident.claims^
@@ -23,7 +22,6 @@
 ||com-iphone.claims^
 ||commonlaw.claims^
 ||covid.claims^
-||dailycheck.claims^
 ||dashboard-solend.claims^
 ||dental.claims^
 ||enter-zero.claims^
@@ -46,7 +44,6 @@
 ||hkc.claims^
 ||hollywood.claims^
 ||ian.claims^
-||illuvium-io.claims^
 ||ins.claims^
 ||iowa.claims^
 ||join-starknet.claims^
@@ -65,6 +62,7 @@
 ||mycas.claims^
 ||ncat.claims^
 ||ntcat.claims^
+||omada.claims^
 ||omnicat.claims^
 ||p.claims^
 ||pancakeswapv5.claims^
@@ -78,18 +76,19 @@
 ||qcat.claims^
 ||quickswap-exchange.claims^
 ||rd4u.claims^
+||rewards-gmx.claims^
 ||rewards-velodrome.claims^
 ||robotrade-ai.claims^
 ||rollbitrewards.claims^
 ||sacat.claims^
 ||saet.claims^
-||scroll-io.claims^
 ||seriousinjury.claims^
 ||signup-zero.claims^
 ||silo-finance.claims^
 ||smolcoin.claims^
 ||soap2day.claims^
 ||socialservices.claims^
+||soldragon.claims^
 ||spam.claims^
 ||strk.claims^
 ||sun88.claims^
@@ -97,6 +96,7 @@
 ||t.claims^
 ||tascat.claims^
 ||tenancy.claims^
+||themask.claims^
 ||tmg.claims^
 ||unclaimedproperty.claims^
 ||vanhawkroofing.claims^

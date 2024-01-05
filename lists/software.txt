@@ -27,6 +27,7 @@
 ||ai71.software^
 ||aibm.software^
 ||aideveloper.software^
+||aigenerator.software^
 ||aihubspotapp.software^
 ||aimai.software^
 ||aimarketing.software^
@@ -60,7 +61,6 @@
 ||bail.software^
 ||bambus.software^
 ||bankers.software^
-||basecase.software^
 ||baykartech.software^
 ||bdsg.software^
 ||beaumont.software^
@@ -90,11 +90,11 @@
 ||cfloinc.software^
 ||chinamil.software^
 ||ching.software^
-||chronos.software^
 ||churo.software^
 ||cifra.software^
 ||cisa.software^
 ||ckr.software^
+||classified.software^
 ||clinica.software^
 ||cloudminer.software^
 ||clover.software^
@@ -105,7 +105,6 @@
 ||comms.software^
 ||conover.software^
 ||constructo.software^
-||controlledchaos.software^
 ||creditacceptance.software^
 ||crontum.software^
 ||cstg.software^
@@ -116,6 +115,7 @@
 ||datacenter.software^
 ||davedigitalsolutions.software^
 ||degrowth.software^
+||deploy.software^
 ||developer.software^
 ||die-assistenzdienst.software^
 ||digipro.software^
@@ -131,7 +131,6 @@
 ||edeveloper.software^
 ||effective.software^
 ||elicate.software^
-||endof.software^
 ||enterpriseai.software^
 ||entschuldo.software^
 ||erin.software^
@@ -171,7 +170,6 @@
 ||htech.software^
 ||huawei.software^
 ||hybrid.software^
-||hyperdigital.software^
 ||hyperion.software^
 ||hypixel.software^
 ||iama.software^
@@ -180,6 +178,7 @@
 ||immersive.software^
 ||incidenciascamavi.software^
 ||individual.software^
+||ingpocuan.software^
 ||instinctive.software^
 ||integritycarenet.software^
 ||intros.software^
@@ -191,6 +190,7 @@
 ||jet.software^
 ||jhonsjiana.software^
 ||josh.software^
+||jupyter.software^
 ||jvinicius.software^
 ||keisan.software^
 ||keyguard.software^
@@ -214,6 +214,7 @@
 ||mckay.software^
 ||mentorstech.software^
 ||millennium.software^
+||moderation.software^
 ||mojica.software^
 ||monetize.software^
 ||mor.software^
@@ -228,14 +229,11 @@
 ||myportfolio.software^
 ||mysmarthome.software^
 ||n2.software^
-||nder.software^
-||nek.software^
 ||neutrino.software^
-||neutron.software^
 ||next-step.software^
-||nicktabick.software^
 ||nightly.software^
 ||npu.software^
+||oddity.software^
 ||openlane.software^
 ||opsec.software^
 ||oraclehealth.software^
@@ -268,7 +266,6 @@
 ||remotework.software^
 ||republic.software^
 ||result.software^
-||robotspacer.software^
 ||rundown.software^
 ||ryabolic.software^
 ||s141479devops.software^
@@ -281,7 +278,6 @@
 ||sedona.software^
 ||senal.software^
 ||seraphim.software^
-||she.software^
 ||shebang.software^
 ||shockleyblog.software^
 ||shoggoth.software^
@@ -299,6 +295,7 @@
 ||stamford.software^
 ||storyai.software^
 ||sun88.software^
+||suresign.software^
 ||sushi.software^
 ||sympatent.software^
 ||synio.software^
@@ -306,11 +303,13 @@
 ||tablez.software^
 ||tactos.software^
 ||talk.software^
+||talkbuzz.software^
 ||tan.software^
 ||tcservices.software^
 ||tech-help.software^
 ||techliance.software^
 ||terastore.software^
+||terran.software^
 ||thalos.software^
 ||timeoff.software^
 ||toni.software^
@@ -335,7 +334,6 @@
 ||webadvance.software^
 ||whatsoft.software^
 ||whites.software^
-||wien.software^
 ||xapk.software^
 ||xmtp.software^
 ||xweb.software^

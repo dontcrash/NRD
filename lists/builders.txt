@@ -4,6 +4,7 @@
 ||a2z.builders^
 ||agile.builders^
 ||aiagents.builders^
+||aichat.builders^
 ||algarve.builders^
 ||allegiance.builders^
 ||aplus.builders^
@@ -22,7 +23,6 @@
 ||capitol.builders^
 ||chatbot.builders^
 ||clientele.builders^
-||coleman.builders^
 ||company.builders^
 ||cornwall.builders^
 ||customgpt.builders^

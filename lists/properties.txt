@@ -29,6 +29,7 @@
 ||bjyama.properties^
 ||bk.properties^
 ||bluediamond.properties^
+||blueridgemountainscabins.properties^
 ||bot.properties^
 ||brm.properties^
 ||brokerage.properties^
@@ -49,6 +50,7 @@
 ||crete.properties^
 ||crisos.properties^
 ||cx.properties^
+||dal.properties^
 ||davidquinn.properties^
 ||dedicatedanddesigned.properties^
 ||defense.properties^
@@ -68,6 +70,7 @@
 ||enhope.properties^
 ||eshop.properties^
 ||eth.properties^
+||event.properties^
 ||everestinmobiliaria.properties^
 ||fantasy.properties^
 ||farming.properties^
@@ -100,6 +103,7 @@
 ||hgp.properties^
 ||hidden.properties^
 ||hillhaven.properties^
+||hitclub.properties^
 ||hmh.properties^
 ||homestead.properties^
 ||honeycomb.properties^
@@ -198,7 +202,6 @@
 ||southkorea.properties^
 ||srgroup.properties^
 ||store.properties^
-||study.properties^
 ||sulyn.properties^
 ||sun88.properties^
 ||tamarackfalls.properties^
@@ -213,7 +216,6 @@
 ||town.properties^
 ||townsendandco.properties^
 ||trl.properties^
-||turtlehill.properties^
 ||unclaimed.properties^
 ||ustay.properties^
 ||vantage.properties^
@@ -225,6 +227,7 @@
 ||viciniti.properties^
 ||vida.properties^
 ||viral.properties^
+||virginisland.properties^
 ||vistavibes.properties^
 ||watchdog.properties^
 ||waterman.properties^
@@ -237,10 +240,11 @@
 ||westgate.properties^
 ||wildcat.properties^
 ||willow.properties^
-||woman.properties^
+||workspace.properties^
 ||xoso66.properties^
 ||yaml2.properties^
 ||yas-island.properties^
+||yorkcounty.properties^
 ||zachry.properties^
 ||zambias.properties^
 ||zeneca.properties^
