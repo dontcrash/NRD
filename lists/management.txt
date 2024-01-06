@@ -6,13 +6,10 @@
 ||ain.management^
 ||ajpservice.management^
 ||anima.management^
-||apostrophe.management^
-||area.management^
 ||assetsproperty.management^
 ||atoz.management^
 ||automatedinventory.management^
 ||backlog.management^
-||bgp.management^
 ||billpay.management^
 ||billpayment.management^
 ||blackout.management^
@@ -29,7 +26,6 @@
 ||context.management^
 ||cornerstone.management^
 ||dash.management^
-||decisiontree.management^
 ||domainname.management^
 ||duplex.management^
 ||dvfi.management^
@@ -47,6 +43,7 @@
 ||glam.management^
 ||greenenergy.management^
 ||gymnastics.management^
+||harvestland.management^
 ||hill.management^
 ||hoa.management^
 ||horeca.management^
@@ -64,9 +61,10 @@
 ||jautos.management^
 ||jwm.management^
 ||kaia.management^
-||klubb.management^
 ||kratom.management^
+||krypto.management^
 ||lakeview.management^
+||leadflow.management^
 ||letting.management^
 ||lighthouse.management^
 ||liveoak.management^
@@ -122,8 +120,10 @@
 ||slow.management^
 ||smartevent.management^
 ||smc.management^
+||smithgroupco.management^
 ||soa.management^
 ||southeastrisk.management^
+||spatial.management^
 ||specpros.management^
 ||sunwin.management^
 ||tarot.management^
@@ -134,7 +134,6 @@
 ||tna.management^
 ||touchandgo.management^
 ||tqp.management^
-||transactionrisk.management^
 ||transformation.management^
 ||ugc.management^
 ||vertiport.management^

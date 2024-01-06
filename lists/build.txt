@@ -1,11 +1,9 @@
-||aecosystem.build^
 ||aiworkflow.build^
 ||archipelago.build^
 ||assistants.build^
 ||atta.build^
 ||bestnew.build^
 ||blockchainexchange.build^
-||boldtex.build^
 ||bonaqua.build^
 ||brianscottcurry.build^
 ||buoy.build^
@@ -20,7 +18,6 @@
 ||dotmake.build^
 ||durapro.build^
 ||easterton.build^
-||echtfab.build^
 ||elementaldesign.build^
 ||elliotthardie.build^
 ||endevr.build^
@@ -39,7 +36,6 @@
 ||homeequities.build^
 ||icg.build^
 ||kamco.build^
-||konnen.build^
 ||layer2.build^
 ||lendhands.build^
 ||linear.build^
