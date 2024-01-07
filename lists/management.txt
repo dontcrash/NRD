@@ -25,6 +25,7 @@
 ||communication.management^
 ||context.management^
 ||cornerstone.management^
+||cya.management^
 ||dash.management^
 ||domainname.management^
 ||duplex.management^
@@ -44,11 +45,13 @@
 ||greenenergy.management^
 ||gymnastics.management^
 ||harvestland.management^
+||highcapital.management^
 ||hill.management^
 ||hoa.management^
 ||horeca.management^
 ||hunter.management^
 ||hype.management^
+||hypemarketing.management^
 ||icent.management^
 ||ideas.management^
 ||infomail-box-system-inbounds-outlook.management^
@@ -60,7 +63,6 @@
 ||ipd.management^
 ||jautos.management^
 ||jwm.management^
-||kaia.management^
 ||kratom.management^
 ||krypto.management^
 ||lakeview.management^

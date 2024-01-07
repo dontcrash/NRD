@@ -7,7 +7,6 @@
 ||accounting.energy^
 ||adainfra.energy^
 ||adept.energy^
-||adon.energy^
 ||aegis.energy^
 ||afri.energy^
 ||agens.energy^
@@ -34,6 +33,7 @@
 ||attorney.energy^
 ||atx.energy^
 ||aurum.energy^
+||balko.energy^
 ||bay.energy^
 ||beauty.energy^
 ||bharatvolt.energy^
@@ -97,6 +97,7 @@
 ||domains.energy^
 ||don.energy^
 ||drinkcatalyst.energy^
+||drinkdefiant.energy^
 ||dt.energy^
 ||duqmsolar.energy^
 ||dvgw.energy^
@@ -107,6 +108,8 @@
 ||ecosenses.energy^
 ||ee88.energy^
 ||effect.energy^
+||eight.energy^
+||electroua.energy^
 ||eliot.energy^
 ||emami.energy^
 ||emm.energy^
@@ -122,6 +125,7 @@
 ||evchargingstations.energy^
 ||everglaze.energy^
 ||evogrid.energy^
+||ewolf.energy^
 ||excel.energy^
 ||extra.energy^
 ||extreme.energy^
@@ -132,6 +136,7 @@
 ||feel.energy^
 ||feine.energy^
 ||festakpsulksmeestheelsfarm.energy^
+||fisterra.energy^
 ||fix.energy^
 ||flexline.energy^
 ||flextinder.energy^
@@ -179,17 +184,12 @@
 ||ho.energy^
 ||homesolarsolutions.energy^
 ||honeysolar.energy^
-||host.energy^
 ||hp.energy^
-||hvdc.energy^
-||hydrogenhero.energy^
 ||hydrov.energy^
 ||hydrovend.energy^
 ||hymax.energy^
 ||hz.energy^
 ||i-os.energy^
-||ial.energy^
-||ialengineering.energy^
 ||ideas.energy^
 ||ids.energy^
 ||ihstowers.energy^
@@ -253,8 +253,6 @@
 ||mote.energy^
 ||movable.energy^
 ||mpa.energy^
-||msk.energy^
-||navarro.energy^
 ||nergco.energy^
 ||neso.energy^
 ||newtech.energy^
@@ -288,6 +286,7 @@
 ||ppm.energy^
 ||profi.energy^
 ||profit.energy^
+||propower.energy^
 ||pulsar.energy^
 ||purple.energy^
 ||pytorch.energy^
@@ -316,7 +315,6 @@
 ||savoy.energy^
 ||schenke.energy^
 ||scottishrenewables.energy^
-||securepowerint.energy^
 ||sharee.energy^
 ||shepherd.energy^
 ||shibainu.energy^
@@ -335,7 +333,6 @@
 ||solarlady.energy^
 ||solarnavigator.energy^
 ||solarquest.energy^
-||solarrent.energy^
 ||solarsmart.energy^
 ||solstis.energy^
 ||soreq.energy^
@@ -383,12 +380,12 @@
 ||trekker.energy^
 ||triple.energy^
 ||trolie.energy^
-||tucker.energy^
 ||uprisun.energy^
 ||uv.energy^
 ||vanilla.energy^
 ||venus.energy^
 ||verte.energy^
+||verusnavitas.energy^
 ||verve.energy^
 ||vianne.energy^
 ||victory.energy^
@@ -401,16 +398,13 @@
 ||wallbox.energy^
 ||websites.energy^
 ||wg.energy^
-||whistler.energy^
 ||whitepapers.energy^
 ||wi.energy^
 ||wiles.energy^
 ||wooo.energy^
 ||xl.energy^
 ||xpert.energy^
-||y2k.energy^
 ||yasuda.energy^
 ||yc.energy^
 ||yeo.energy^
-||yodia.energy^
 ||zcarbon.energy^

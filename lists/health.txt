@@ -47,7 +47,6 @@
 ||afterfive.health^
 ||aiagents.health^
 ||aifor.health^
-||aiguy.health^
 ||ailment.health^
 ||ailments.health^
 ||aippoint.health^
@@ -117,9 +116,9 @@
 ||cukbt.health^
 ||culkeen.health^
 ||curam.health^
-||cureous.health^
 ||customa.health^
 ||cyberwellness.health^
+||dacrx.health^
 ||danielrruth.health^
 ||datapreneur.health^
 ||dawaa.health^
@@ -130,6 +129,7 @@
 ||delayed.health^
 ||dermacol.health^
 ||dey90viplatuvsim.health^
+||dht.health^
 ||diabeticulcer.health^
 ||diia-com.health^
 ||directional.health^
@@ -162,6 +162,7 @@
 ||etherna.health^
 ||everydayteen.health^
 ||exuberance.health^
+||faceyogi.health^
 ||fairsense.health^
 ||faktorydop.health^
 ||familymatters.health^
@@ -171,7 +172,6 @@
 ||firefighter.health^
 ||fontana.health^
 ||foundersmental.health^
-||ftg.health^
 ||gate.health^
 ||generationshomecare.health^
 ||genu.health^
@@ -192,6 +192,7 @@
 ||hammerhead.health^
 ||harrisarc.health^
 ||healthandfitness.health^
+||heartlandseniorliving.health^
 ||helix3.health^
 ||helixrx.health^
 ||herweb.health^
@@ -218,7 +219,6 @@
 ||indicate.health^
 ||infinityheart.health^
 ||ink.health^
-||innerfreedom.health^
 ||invincible.health^
 ||invision.health^
 ||ipt.health^
@@ -273,7 +273,6 @@
 ||methodus.health^
 ||meum.health^
 ||milkharmony.health^
-||mindnet.health^
 ||mindscout.health^
 ||mlp.health^
 ||mneimatmd.health^
@@ -285,7 +284,6 @@
 ||mycovidrecord.health^
 ||myfamilytree.health^
 ||myic.health^
-||myphoenix.health^
 ||mysolution.health^
 ||mystack.health^
 ||mywellscreen.health^
@@ -354,6 +352,7 @@
 ||redis.health^
 ||regalo.health^
 ||regener.health^
+||releeva.health^
 ||remd.health^
 ||renewlife.health^
 ||renovaro.health^
@@ -364,8 +363,8 @@
 ||rizz.health^
 ||rmt.health^
 ||rootedcommunities.health^
-||rutor.health^
 ||s-pharmaceutical.health^
+||safari.health^
 ||sagitron.health^
 ||saudebemestar.health^
 ||scan-med.health^
@@ -383,6 +382,7 @@
 ||soundtherapy.health^
 ||sourcepharmacy.health^
 ||specialiced.health^
+||spotlight.health^
 ||springsmens.health^
 ||standardhs.health^
 ||stay.health^
@@ -396,6 +396,7 @@
 ||sun88.health^
 ||superalignment.health^
 ||superbloom.health^
+||suppl.health^
 ||swen.health^
 ||systagenix.health^
 ||tab.health^
@@ -407,7 +408,6 @@
 ||tenth.health^
 ||thecommon.health^
 ||thegoodgene.health^
-||thehelm.health^
 ||therawin.health^
 ||thewoodlands.health^
 ||tiger.health^
@@ -428,8 +428,6 @@
 ||v-smart.health^
 ||valencia.health^
 ||venousstasisulcer.health^
-||ver-one.health^
-||verone.health^
 ||vgeun.health^
 ||villas.health^
 ||viplata24.health^
@@ -442,12 +440,14 @@
 ||wakeb.health^
 ||web-deepmeasures.health^
 ||welldiagnostics.health^
+||welldiagnosticscawelldiagnostics.health^
 ||wellhealthsleepcentres.health^
 ||wellnessmadeez.health^
 ||wheretodance.health^
 ||wildandwell.health^
 ||wildlife.health^
 ||willow-labs.health^
+||womensclinic.health^
 ||x.health^
 ||xrai.health^
 ||ylmgd.health^

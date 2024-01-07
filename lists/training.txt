@@ -78,7 +78,6 @@
 ||gameface.training^
 ||garage.training^
 ||gosuperior.training^
-||grauhybridbox.training^
 ||groups.training^
 ||growthmarketing.training^
 ||harbor.training^
@@ -91,11 +90,12 @@
 ||hotelskills.training^
 ||houseofmedicineinstitute.training^
 ||humantouchai.training^
-||hybridbox.training^
 ||hypnose.training^
 ||ielts.training^
 ||ifrs.training^
+||ilias.training^
 ||illuminate.training^
+||imaniaten.training^
 ||ims.training^
 ||in2.training^
 ||insidesales.training^
@@ -119,7 +119,6 @@
 ||kvue.training^
 ||lactateplus.training^
 ||lava.training^
-||leadersandcandidates.training^
 ||leadstocustomers.training^
 ||learnit.training^
 ||lhx.training^
@@ -144,6 +143,7 @@
 ||myci.training^
 ||mydigital.training^
 ||myphotography.training^
+||mysupport.training^
 ||mywayforth.training^
 ||nbacoach.training^
 ||nccoaching.training^
@@ -156,7 +156,6 @@
 ||onenation.training^
 ||oneslevelup.training^
 ||onestop.training^
-||ourfreedomofchoice.training^
 ||outsidesales.training^
 ||paleo.training^
 ||parent.training^
@@ -167,7 +166,6 @@
 ||playmaker.training^
 ||pledgefitness.training^
 ||podcastuniversity.training^
-||pointofsale.training^
 ||powr.training^
 ||primal.training^
 ||primalnature.training^
@@ -175,7 +173,6 @@
 ||profit.training^
 ||projectleaders.training^
 ||prolevel.training^
-||prompt-engineering.training^
 ||property.training^
 ||proskills.training^
 ||prutor.training^
@@ -233,7 +230,6 @@
 ||tylererickson.training^
 ||unpotty.training^
 ||upward.training^
-||usagov.training^
 ||vectorizer.training^
 ||vender.training^
 ||vibe.training^
@@ -242,12 +238,14 @@
 ||webdesign.training^
 ||wfmynews2.training^
 ||whas11.training^
+||whiteoak.training^
 ||witness.training^
 ||wonders.training^
 ||wusa9.training^
 ||wwltv.training^
 ||xero.training^
 ||yakka.training^
+||yarddog.training^
 ||youjizz.training^
 ||yourcreativefreedom.training^
 ||zer0.training^

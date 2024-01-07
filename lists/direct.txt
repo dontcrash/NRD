@@ -39,7 +39,6 @@
 ||correction.direct^
 ||course.direct^
 ||dbs.direct^
-||dexw.direct^
 ||donor.direct^
 ||dumpster.direct^
 ||dynamic.direct^
@@ -88,7 +87,6 @@
 ||mthd.direct^
 ||namer.direct^
 ||nds.direct^
-||nice.direct^
 ||oauth.direct^
 ||omegle.direct^
 ||ordered.direct^
@@ -110,6 +108,7 @@
 ||soctrip.direct^
 ||spar.direct^
 ||specs.direct^
+||startech.direct^
 ||startups.direct^
 ||sun88.direct^
 ||taiwan.direct^
@@ -125,9 +124,11 @@
 ||ustay.direct^
 ||vineyard.direct^
 ||vino.direct^
+||vinyl.direct^
 ||vulcan.direct^
 ||webs.direct^
 ||welding.direct^
+||wireless.direct^
 ||workspace.direct^
 ||xmcnbroker.direct^
 ||xmcnmarkets.direct^
@@ -141,4 +142,5 @@
 ||xmmytrader.direct^
 ||xmtrmarket.direct^
 ||xmtrmarkets.direct^
+||xpert.direct^
 ||yourmaker.direct^

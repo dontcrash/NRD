@@ -6,7 +6,6 @@
 ||action.report^
 ||adsync.report^
 ||agingreport.report^
-||aitrend.report^
 ||animal.report^
 ||app-location.report^
 ||aqua.report^
@@ -53,9 +52,9 @@
 ||foodpositive.report^
 ||fortcar.report^
 ||foundry.report^
-||freecriminal.report^
 ||freedom.report^
 ||gala.report^
+||getfile.report^
 ||good-money.report^
 ||healthandbeauty.report^
 ||homehealthcost.report^
@@ -75,7 +74,6 @@
 ||lausanne.report^
 ||lifecodes.report^
 ||lokaly.report^
-||lyftaccident.report^
 ||macknight.report^
 ||malaysianbird.report^
 ||matrixport.report^
@@ -86,9 +84,9 @@
 ||metareports.report^
 ||mindfulness.report^
 ||mitlistarts2016.report^
-||mittelstand.report^
 ||mkd.report^
 ||mm.report^
+||my-money.report^
 ||nerd.report^
 ||numerology.report^
 ||nursinghomecost.report^
@@ -103,6 +101,7 @@
 ||photosharing.report^
 ||pif.report^
 ||plastic.report^
+||play.report^
 ||policyworkgroups.report^
 ||portal.report^
 ||praise.report^
@@ -140,7 +139,6 @@
 ||trivedi.report^
 ||trustmebro.report^
 ||u.report^
-||uberaccident.report^
 ||uncuni.report^
 ||vcheck.report^
 ||vehicledamage.report^
