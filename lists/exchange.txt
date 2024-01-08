@@ -23,8 +23,8 @@
 ||asakusa.exchange^
 ||avatars.exchange^
 ||axiome.exchange^
+||b52.exchange^
 ||b52club.exchange^
-||barricader.exchange^
 ||bch.exchange^
 ||bchf.exchange^
 ||bcny.exchange^
@@ -54,6 +54,7 @@
 ||bridges.exchange^
 ||brines.exchange^
 ||brit.exchange^
+||btcash.exchange^
 ||bunnger.exchange^
 ||buunegee.exchange^
 ||california.exchange^
@@ -74,7 +75,6 @@
 ||coinbase-wallet.exchange^
 ||coinmining.exchange^
 ||collabpii.exchange^
-||compassion.exchange^
 ||convert.exchange^
 ||cpcoin.exchange^
 ||crdep.exchange^
@@ -110,7 +110,6 @@
 ||enrg.exchange^
 ||equestrian.exchange^
 ||equip.exchange^
-||eris.exchange^
 ||etc.exchange^
 ||eternal.exchange^
 ||ethx.exchange^
@@ -132,6 +131,7 @@
 ||geeks.exchange^
 ||gem.exchange^
 ||gemlink.exchange^
+||gemwin.exchange^
 ||genmodels.exchange^
 ||gigaswap.exchange^
 ||goasis.exchange^
@@ -139,7 +139,7 @@
 ||greatest.exchange^
 ||greentech.exchange^
 ||gtg.exchange^
-||handmade.exchange^
+||hit.exchange^
 ||hitclub.exchange^
 ||holdstaltion.exchange^
 ||hopprotocol.exchange^
@@ -153,6 +153,7 @@
 ||indiabusiness.exchange^
 ||ins.exchange^
 ||iv.exchange^
+||iwinclub.exchange^
 ||jump.exchange^
 ||jup-ag.exchange^
 ||jup.exchange^
@@ -174,7 +175,9 @@
 ||liongate.exchange^
 ||lord.exchange^
 ||lub.exchange^
+||lux.exchange^
 ||machinist.exchange^
+||manclub.exchange^
 ||marbles.exchange^
 ||matchbet.exchange^
 ||matrixchange.exchange^
@@ -217,7 +220,6 @@
 ||payfull.exchange^
 ||payget.exchange^
 ||phantom.exchange^
-||proto.exchange^
 ||psychology.exchange^
 ||qipay.exchange^
 ||quai.exchange^
@@ -225,10 +227,12 @@
 ||quickzwap.exchange^
 ||qupcoin.exchange^
 ||qx.exchange^
+||redemption.exchange^
 ||redswap.exchange^
 ||redtube.exchange^
 ||refinance.exchange^
 ||retclub.exchange^
+||rik.exchange^
 ||rockctx.exchange^
 ||rocket-x.exchange^
 ||rubicex.exchange^
@@ -240,6 +244,7 @@
 ||rubicx.exchange^
 ||securitytoken.exchange^
 ||seedt.exchange^
+||sell.exchange^
 ||sentiafi.exchange^
 ||serv.exchange^
 ||signup-dydx.exchange^
@@ -295,6 +300,7 @@
 ||v2-rubic.exchange^
 ||venue.exchange^
 ||victimsconnect.exchange^
+||vinwin.exchange^
 ||vips.exchange^
 ||vr.exchange^
 ||vvela.exchange^

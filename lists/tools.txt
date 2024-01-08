@@ -1,5 +1,4 @@
 ||100000.tools^
-||10000000.tools^
 ||1payment.tools^
 ||2024.tools^
 ||360ai.tools^
@@ -9,6 +8,7 @@
 ||9ai.tools^
 ||aatools.tools^
 ||ab.tools^
+||address-change.tools^
 ||adfree.tools^
 ||admincenter.tools^
 ||admiresty.tools^
@@ -30,6 +30,7 @@
 ||ampkids.tools^
 ||amrani.tools^
 ||analogue.tools^
+||antirug.tools^
 ||aptos.tools^
 ||aramco.tools^
 ||argmax.tools^
@@ -52,6 +53,7 @@
 ||blogging.tools^
 ||blox.tools^
 ||botkit.tools^
+||boxdoc.tools^
 ||brewlabs.tools^
 ||brokenstring.tools^
 ||bughunter.tools^
@@ -79,7 +81,6 @@
 ||cosmicmind.tools^
 ||cross.tools^
 ||crosschain.tools^
-||crosspost.tools^
 ||cryptoseller.tools^
 ||cryptoslam.tools^
 ||cybsec.tools^
@@ -97,6 +98,7 @@
 ||disc.tools^
 ||dkim.tools^
 ||dpa.tools^
+||drops.tools^
 ||dslr.tools^
 ||dsox.tools^
 ||eauction.tools^
@@ -149,7 +151,6 @@
 ||gosuper.tools^
 ||gptscript.tools^
 ||gptshappy.tools^
-||grapple.tools^
 ||hallwayofdoors.tools^
 ||handymantools.tools^
 ||harden.tools^
@@ -170,12 +171,12 @@
 ||imagesearch.tools^
 ||inflation-calculator.tools^
 ||inj.tools^
+||innoculator.tools^
 ||instagramstorydownload.tools^
 ||integr8.tools^
 ||intelli.tools^
 ||io-web3.tools^
 ||ipower.tools^
-||irr.tools^
 ||isphere.tools^
 ||ito5d.tools^
 ||javan.tools^
@@ -244,7 +245,6 @@
 ||nodex.tools^
 ||noga.tools^
 ||nox.tools^
-||npu.tools^
 ||nxt.tools^
 ||oav.tools^
 ||oavm.tools^
@@ -269,6 +269,7 @@
 ||peche.tools^
 ||people.tools^
 ||petro.tools^
+||petrofracoil.tools^
 ||pipal.tools^
 ||pixelperfect.tools^
 ||podcast.tools^
@@ -345,6 +346,7 @@
 ||toolslevelup.tools^
 ||toolsnicremasterizado.tools^
 ||toolvirals.tools^
+||top88.tools^
 ||topo.tools^
 ||tradematic.tools^
 ||trainer.tools^
@@ -360,18 +362,19 @@
 ||upbound.tools^
 ||urly.tools^
 ||usernamegenerator.tools^
+||usps.tools^
 ||vagary.tools^
 ||validate.tools^
 ||vanced.tools^
 ||vanity.tools^
 ||videoeditor.tools^
 ||videosave.tools^
+||vinwin.tools^
 ||vio88win.tools^
 ||visualflow360.tools^
 ||vortex.tools^
 ||vulkan.tools^
 ||website-dev.tools^
-||websiteonline.tools^
 ||wedo.tools^
 ||which-ai.tools^
 ||wordcount.tools^
@@ -379,6 +382,7 @@
 ||worldof.tools^
 ||wx.tools^
 ||x1000.tools^
+||xaico.tools^
 ||xapi.tools^
 ||xconvert.tools^
 ||xscan.tools^
