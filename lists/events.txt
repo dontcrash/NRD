@@ -26,7 +26,6 @@
 ||alsace.events^
 ||analios.events^
 ||analos.events^
-||aofverse.events^
 ||artemis.events^
 ||artificialintelligence.events^
 ||artrust.events^
@@ -82,7 +81,6 @@
 ||commu.events^
 ||compass.events^
 ||connect-hashflow.events^
-||coppejans.events^
 ||cork.events^
 ||corporatefighter-10-week-challenge.events^
 ||corporatefighter-fight-for-charity.events^
@@ -124,14 +122,17 @@
 ||envision.events^
 ||essence.events^
 ||etail.events^
+||eternal.events^
 ||europe.events^
 ||event-farcana.events^
+||eventdireksitoto.events^
 ||eventops.events^
 ||eventstream.events^
 ||eventvibe.events^
 ||everandever.events^
 ||eviesweven.events^
 ||evlife.events^
+||execai.events^
 ||exhibit.events^
 ||eywa.events^
 ||fail.events^
@@ -185,7 +186,6 @@
 ||idemo.events^
 ||ikhwan.events^
 ||incentive.events^
-||inspect-xyz.events^
 ||inter8tive.events^
 ||itineris.events^
 ||jake.events^
@@ -257,6 +257,7 @@
 ||natya.events^
 ||nava.events^
 ||near-protocol.events^
+||netapi.events^
 ||neuermarktplatz.events^
 ||nickgames.events^
 ||nightsky.events^
@@ -267,6 +268,7 @@
 ||onlinestore.events^
 ||opnx-exchange.events^
 ||optimal.events^
+||opuluxe.events^
 ||orensanz.events^
 ||otsecurity.events^
 ||page.events^
@@ -286,6 +288,7 @@
 ||plataform.events^
 ||plavent.events^
 ||playember.events^
+||plog.events^
 ||plottwist.events^
 ||pls.events^
 ||plumbing.events^
@@ -295,12 +298,12 @@
 ||ppa.events^
 ||preludecoffee.events^
 ||privat.events^
+||private-houze.events^
 ||pudgyspenguin.events^
 ||pudgyspenguins.events^
 ||qrticket.events^
 ||quantnetwork.events^
 ||quickswap-exchange.events^
-||quietmood.events^
 ||racket.events^
 ||rackets.events^
 ||radioplayer.events^
@@ -323,6 +326,7 @@
 ||romance.events^
 ||runofshow.events^
 ||salam.events^
+||salem.events^
 ||samt.events^
 ||sanbf.events^
 ||saudia.events^
@@ -366,6 +370,7 @@
 ||spin.events^
 ||spookapalooza.events^
 ||spruit.events^
+||standaard.events^
 ||stargazing.events^
 ||startinglineupdj.events^
 ||stellarguest.events^
@@ -375,7 +380,6 @@
 ||sun88.events^
 ||superior.events^
 ||syncswap-exchange.events^
-||syncswap-lo.events^
 ||takshak.events^
 ||talkbuzz.events^
 ||tasteful.events^
@@ -383,6 +387,7 @@
 ||tearcoin.events^
 ||tensor.events^
 ||teva.events^
+||the-prestige.events^
 ||thebest.events^
 ||thebigevent.events^
 ||thecinderellashop.events^
@@ -396,7 +401,6 @@
 ||titos.events^
 ||tlt.events^
 ||toastedalmonds.events^
-||tomorrowland.events^
 ||top5.events^
 ||top88.events^
 ||totaluk.events^
@@ -424,7 +428,6 @@
 ||vsm.events^
 ||vw.events^
 ||wahgwan.events^
-||wallet-wars.events^
 ||water.events^
 ||web.events^
 ||welara.events^
@@ -434,6 +437,7 @@
 ||wilderworld.events^
 ||witandwhimsy.events^
 ||wots.events^
+||xmas.events^
 ||xmtp.events^
 ||yellow.events^
 ||yevents.events^

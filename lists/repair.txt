@@ -17,7 +17,6 @@
 ||bev.repair^
 ||bookar.repair^
 ||box.repair^
-||cacheappliance.repair^
 ||caraudio.repair^
 ||christian.repair^
 ||clearview.repair^
@@ -44,7 +43,6 @@
 ||gibsonsgarage.repair^
 ||godstone.repair^
 ||gold.repair^
-||handy.repair^
 ||hipclub.repair^
 ||hitclub.repair^
 ||homes.repair^
@@ -55,6 +53,7 @@
 ||keywest.repair^
 ||kingspc.repair^
 ||kpauto.repair^
+||lift.repair^
 ||magical.repair^
 ||man.repair^
 ||manuals.repair^
@@ -91,6 +90,7 @@
 ||tenancy.repair^
 ||tex.repair^
 ||texasstar.repair^
+||tom.repair^
 ||tomtom.repair^
 ||transit.repair^
 ||tulsacomputer.repair^

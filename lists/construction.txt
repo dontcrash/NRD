@@ -5,6 +5,7 @@
 ||acme.construction^
 ||ardesigns.construction^
 ||armor.construction^
+||asm.construction^
 ||assa.construction^
 ||b52.construction^
 ||balance.construction^
@@ -32,6 +33,7 @@
 ||dkm.construction^
 ||dmb.construction^
 ||dreamhouse.construction^
+||earth.construction^
 ||elevate.construction^
 ||exigo.construction^
 ||fab.construction^
@@ -56,6 +58,7 @@
 ||in-pulsa.construction^
 ||index.construction^
 ||indigo.construction^
+||info.construction^
 ||interiors.construction^
 ||irish.construction^
 ||iwin.construction^
@@ -126,7 +129,6 @@
 ||var.construction^
 ||victory.construction^
 ||vinwin.construction^
-||viv.construction^
 ||wagner.construction^
 ||win79.construction^
 ||xcel.construction^

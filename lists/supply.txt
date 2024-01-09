@@ -22,9 +22,11 @@
 ||chosen.supply^
 ||clickbuy.supply^
 ||climb.supply^
-||curry.supply^
+||competitive.supply^
+||dabbers.supply^
 ||dotsvg.supply^
 ||dystopian.supply^
+||easysolar.supply^
 ||ee88.supply^
 ||enchantment.supply^
 ||erdenes.supply^
@@ -36,7 +38,6 @@
 ||gemwin.supply^
 ||grainlogic.supply^
 ||greenes.supply^
-||greening.supply^
 ||greenway.supply^
 ||growlights.supply^
 ||gymnastics.supply^
@@ -65,11 +66,11 @@
 ||needs.supply^
 ||next.supply^
 ||nhatvip.supply^
+||nothing.supply^
 ||ore.supply^
 ||patriot3d.supply^
 ||pet.supply^
 ||pkg.supply^
-||plotter.supply^
 ||pneumatic.supply^
 ||porch-sitting.supply^
 ||portlandiaelectric.supply^
@@ -92,6 +93,7 @@
 ||teach.supply^
 ||thvry.supply^
 ||tinytreasures.supply^
+||tm06.supply^
 ||tridenthardware.supply^
 ||uma.supply^
 ||valley.supply^

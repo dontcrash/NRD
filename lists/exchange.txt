@@ -37,6 +37,7 @@
 ||bitcoine.exchange^
 ||bitcoinpeople.exchange^
 ||bitcoke.exchange^
+||bitplus.exchange^
 ||bitstable.exchange^
 ||blastfutures.exchange^
 ||blizzard.exchange^
@@ -45,7 +46,6 @@
 ||bobos.exchange^
 ||bonk.exchange^
 ||bonus.exchange^
-||boomerang.exchange^
 ||boxing.exchange^
 ||bozo.exchange^
 ||brands.exchange^
@@ -66,8 +66,10 @@
 ||centimos.exchange^
 ||chainalysis.exchange^
 ||chartrage.exchange^
+||chedd.exchange^
 ||cinema.exchange^
 ||cinta.exchange^
+||claim-rubic.exchange^
 ||climategov.exchange^
 ||climatevalue.exchange^
 ||closetworld.exchange^
@@ -91,7 +93,6 @@
 ||deqx.exchange^
 ||derivabit.exchange^
 ||detf.exchange^
-||diffusers.exchange^
 ||digitalasset.exchange^
 ||dollars.exchange^
 ||dtc.exchange^
@@ -99,6 +100,7 @@
 ||dxdywebsite.exchange^
 ||dydix.exchange^
 ||dydxtrade.exchange^
+||e-rub.exchange^
 ||earnex.exchange^
 ||earthintel.exchange^
 ||echarge.exchange^
@@ -127,6 +129,7 @@
 ||gamebaidoithuong.exchange^
 ||gamedoithuong.exchange^
 ||gamejam.exchange^
+||gametoken.exchange^
 ||garts.exchange^
 ||geeks.exchange^
 ||gem.exchange^
@@ -154,6 +157,7 @@
 ||ins.exchange^
 ||iv.exchange^
 ||iwinclub.exchange^
+||ix.exchange^
 ||jump.exchange^
 ||jup-ag.exchange^
 ||jup.exchange^
@@ -179,6 +183,7 @@
 ||machinist.exchange^
 ||manclub.exchange^
 ||marbles.exchange^
+||marinade.exchange^
 ||matchbet.exchange^
 ||matrixchange.exchange^
 ||mblox.exchange^
@@ -198,6 +203,8 @@
 ||multibit-bridge.exchange^
 ||multibitprotocol.exchange^
 ||multiplier-multibit.exchange^
+||mvcoin.exchange^
+||mvtoken.exchange^
 ||nebulax.exchange^
 ||neby.exchange^
 ||novuscrypto.exchange^
@@ -286,7 +293,6 @@
 ||topaz.exchange^
 ||traderjoexyz.exchange^
 ||tradfi.exchange^
-||tradingview.exchange^
 ||trapix.exchange^
 ||trees.exchange^
 ||tubular.exchange^
@@ -303,9 +309,9 @@
 ||vinwin.exchange^
 ||vips.exchange^
 ||vr.exchange^
-||vvela.exchange^
 ||wallets.exchange^
 ||walletsupport.exchange^
+||wanjia.exchange^
 ||warrior.exchange^
 ||whitefox.exchange^
 ||worldcurrency.exchange^

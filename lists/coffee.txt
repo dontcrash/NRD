@@ -9,7 +9,6 @@
 ||abyssinia.coffee^
 ||acaba.coffee^
 ||acidheads.coffee^
-||aether.coffee^
 ||africanus.coffee^
 ||aggregate.coffee^
 ||agri.coffee^
@@ -42,11 +41,11 @@
 ||bep.coffee^
 ||bestespresso.coffee^
 ||bevhills.coffee^
+||blackbird.coffee^
 ||blackbox.coffee^
 ||blackcat.coffee^
 ||blackcherry.coffee^
 ||blends.coffee^
-||blog.coffee^
 ||bluewillow.coffee^
 ||bondi.coffee^
 ||bonnie.coffee^
@@ -96,7 +95,6 @@
 ||dear.coffee^
 ||deighton.coffee^
 ||denhoed.coffee^
-||dibs.coffee^
 ||dimello.coffee^
 ||directtrade.coffee^
 ||dispatch.coffee^
@@ -130,11 +128,9 @@
 ||fdup.coffee^
 ||fellini.coffee^
 ||findly.coffee^
-||firstbatch.coffee^
 ||fix.coffee^
 ||floo.coffee^
 ||freeflow.coffee^
-||fren.coffee^
 ||fucking.coffee^
 ||fugue.coffee^
 ||g3cc.coffee^
@@ -144,6 +140,7 @@
 ||gamedoithuong.coffee^
 ||gaza.coffee^
 ||geek-guild.coffee^
+||gesha.coffee^
 ||givegrundy.coffee^
 ||gladiator.coffee^
 ||goodform.coffee^
@@ -159,6 +156,7 @@
 ||healthychoice.coffee^
 ||hedgehog.coffee^
 ||heritage.coffee^
+||heroescoffee.coffee^
 ||heyfriend.coffee^
 ||hibou.coffee^
 ||highfive.coffee^
@@ -173,6 +171,7 @@
 ||horizons.coffee^
 ||human.coffee^
 ||huracan.coffee^
+||hydro.coffee^
 ||iluv.coffee^
 ||institute.coffee^
 ||inthenameof.coffee^
@@ -198,6 +197,7 @@
 ||kindness.coffee^
 ||kink.coffee^
 ||kooche.coffee^
+||kudlurfilter.coffee^
 ||kunu.coffee^
 ||kuu.coffee^
 ||laboheme.coffee^
@@ -209,7 +209,6 @@
 ||lesso.coffee^
 ||liberation.coffee^
 ||littlegiant.coffee^
-||littlepress.coffee^
 ||localsonly.coffee^
 ||lofi.coffee^
 ||lojjka.coffee^
@@ -226,7 +225,6 @@
 ||medipalette.coffee^
 ||metalpedal.coffee^
 ||mid-night.coffee^
-||miguel.coffee^
 ||mitacita.coffee^
 ||mmss.coffee^
 ||motwct.coffee^
@@ -265,6 +263,7 @@
 ||roastsoftherealm.coffee^
 ||robu.coffee^
 ||robustagraders.coffee^
+||rock.coffee^
 ||rockspringmountain.coffee^
 ||romance.coffee^
 ||rost.coffee^
@@ -272,6 +271,7 @@
 ||sarkop.coffee^
 ||saudi.coffee^
 ||schema.coffee^
+||schematic.coffee^
 ||science.coffee^
 ||scription.coffee^
 ||seniority.coffee^
@@ -306,10 +306,12 @@
 ||thebench.coffee^
 ||thedailygrind.coffee^
 ||thegreatbeans.coffee^
+||thepoeticsofroast.coffee^
 ||theroasts.coffee^
 ||threekings.coffee^
 ||time4.coffee^
 ||timeless.coffee^
+||tocaffe.coffee^
 ||tokinokoe.coffee^
 ||tonicroast.coffee^
 ||toscana.coffee^
@@ -326,13 +328,13 @@
 ||utopia.coffee^
 ||varbro.coffee^
 ||verve.coffee^
+||vibra-tamper.coffee^
 ||vibrate.coffee^
 ||villain.coffee^
 ||vinyl.coffee^
 ||volcano.coffee^
 ||vpn.coffee^
 ||vysoka.coffee^
-||watchshop.coffee^
 ||wego.coffee^
 ||wemake.coffee^
 ||wfrc.coffee^

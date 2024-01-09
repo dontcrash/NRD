@@ -29,7 +29,7 @@
 ||ascension.capital^
 ||asiacircle.capital^
 ||augur.capital^
-||avi.capital^
+||avm.capital^
 ||axsys.capital^
 ||b52.capital^
 ||b52club.capital^
@@ -74,8 +74,10 @@
 ||commerciallender.capital^
 ||commerciallending.capital^
 ||commex.capital^
+||commodities.capital^
 ||commodityone.capital^
 ||compound.capital^
+||control-plane.capital^
 ||controlplane.capital^
 ||conversion.capital^
 ||convex.capital^
@@ -87,6 +89,7 @@
 ||cubic.capital^
 ||cuc.capital^
 ||darkmatter.capital^
+||dash.capital^
 ||deltafi.capital^
 ||deltaphi.capital^
 ||derivabit.capital^
@@ -145,10 +148,12 @@
 ||gemspring.capital^
 ||gemwin.capital^
 ||gih.capital^
+||ginkgo.capital^
 ||glam.capital^
 ||gno.capital^
 ||goldcoin.capital^
 ||gramercypark.capital^
+||greenblock.capital^
 ||guard.capital^
 ||guthega.capital^
 ||hager.capital^
@@ -161,6 +166,7 @@
 ||hk11.capital^
 ||hotelrunner.capital^
 ||huntly.capital^
+||ibiza.capital^
 ||ic-sav.capital^
 ||icecredit.capital^
 ||ilove.capital^
@@ -208,6 +214,8 @@
 ||lisbon.capital^
 ||livtrasir.capital^
 ||lmsic.capital^
+||lobo.capital^
+||longcoin.capital^
 ||lostcoin.capital^
 ||lsm.capital^
 ||lukso.capital^
@@ -239,6 +247,7 @@
 ||n8.capital^
 ||nammu.capital^
 ||nav.capital^
+||nazar.capital^
 ||ndu.capital^
 ||ness.capital^
 ||newmind.capital^
@@ -274,6 +283,7 @@
 ||pilier.capital^
 ||pion.capital^
 ||pishgam.capital^
+||plebe.capital^
 ||police.capital^
 ||political.capital^
 ||practical.capital^
@@ -299,6 +309,7 @@
 ||ridgepoint.capital^
 ||rlabs.capital^
 ||rns.capital^
+||rogers.capital^
 ||room.capital^
 ||rpk.capital^
 ||runner.capital^
@@ -329,6 +340,7 @@
 ||solanameme.capital^
 ||sole.capital^
 ||solidarity.capital^
+||solomon.capital^
 ||soto.capital^
 ||spatialcomputing.capital^
 ||spm.capital^
@@ -337,6 +349,8 @@
 ||stead.capital^
 ||steppe.capital^
 ||stonebridge.capital^
+||strategy.capital^
+||strialpha.capital^
 ||submit.capital^
 ||summitpath.capital^
 ||sun88.capital^
@@ -390,6 +404,7 @@
 ||yo88.capital^
 ||zellers.capital^
 ||zet.capital^
+||zhi.capital^
 ||zoom.capital^
 ||zuid.capital^
 ||zumex.capital^

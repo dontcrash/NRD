@@ -17,6 +17,7 @@
 ||aimarketing.tools^
 ||aimo.tools^
 ||ainsider.tools^
+||aipower.tools^
 ||aiprompts.tools^
 ||airdrop.tools^
 ||aiuser.tools^
@@ -41,6 +42,7 @@
 ||association.tools^
 ||astra.tools^
 ||autominer.tools^
+||avif.tools^
 ||barrelproof.tools^
 ||bcdev.tools^
 ||bct.tools^
@@ -120,7 +122,6 @@
 ||express.tools^
 ||ezms.tools^
 ||faceless.tools^
-||fachhandwerker.tools^
 ||falke.tools^
 ||fantasy99.tools^
 ||fb88.tools^
@@ -143,7 +144,6 @@
 ||gamedesign.tools^
 ||gamedoithuong.tools^
 ||geminiultra.tools^
-||getai.tools^
 ||gettrx.tools^
 ||girl.tools^
 ||giveme.tools^
@@ -164,7 +164,6 @@
 ||hit.tools^
 ||hms.tools^
 ||homeschool.tools^
-||honk.tools^
 ||hydra.tools^
 ||hyperv.tools^
 ||iforgot.tools^
@@ -180,7 +179,9 @@
 ||isphere.tools^
 ||ito5d.tools^
 ||javan.tools^
+||jfif.tools^
 ||jup.tools^
+||jxl.tools^
 ||karaoke.tools^
 ||kate.tools^
 ||keonhacai.tools^
@@ -225,7 +226,6 @@
 ||mobius.tools^
 ||modernslaveryassessment.tools^
 ||modernslaverystatement.tools^
-||mor.tools^
 ||mtg.tools^
 ||mvx.tools^
 ||my-kitchen.tools^
@@ -237,7 +237,6 @@
 ||myunidays.tools^
 ||namer.tools^
 ||naming.tools^
-||needed.tools^
 ||nekobox.tools^
 ||nex.tools^
 ||nexy.tools^
@@ -253,6 +252,7 @@
 ||omnimedius.tools^
 ||onboard.tools^
 ||onlinestore.tools^
+||onlyfansapk.tools^
 ||oop.tools^
 ||oops.tools^
 ||opinion.tools^
@@ -275,7 +275,6 @@
 ||podcast.tools^
 ||powrox.tools^
 ||primary.tools^
-||prismatic.tools^
 ||priv8.tools^
 ||proactive.tools^
 ||proofread.tools^
@@ -293,6 +292,7 @@
 ||revanced.tools^
 ||reverse.tools^
 ||rey.tools^
+||rhaw.tools^
 ||ronix.tools^
 ||runn.tools^
 ||sajhasuchana.tools^
@@ -308,11 +308,10 @@
 ||serpent.tools^
 ||server-dns.tools^
 ||serviceorchestration.tools^
-||shahed4u.tools^
+||shadownet.tools^
 ||shipstart.tools^
 ||similarai.tools^
 ||skgp.tools^
-||smsblasting.tools^
 ||soctrip.tools^
 ||solanabox.tools^
 ||soundcloudmp3.tools^
@@ -364,6 +363,7 @@
 ||usernamegenerator.tools^
 ||usps.tools^
 ||vagary.tools^
+||val.tools^
 ||validate.tools^
 ||vanced.tools^
 ||vanity.tools^
@@ -374,10 +374,10 @@
 ||visualflow360.tools^
 ||vortex.tools^
 ||vulkan.tools^
+||webp.tools^
 ||website-dev.tools^
 ||wedo.tools^
 ||which-ai.tools^
-||wordcount.tools^
 ||workmax.tools^
 ||worldof.tools^
 ||wx.tools^
@@ -388,6 +388,7 @@
 ||xscan.tools^
 ||yami.tools^
 ||yeti.tools^
+||yoko.tools^
 ||ytcreator.tools^
 ||ytmp3.tools^
 ||zhongjietools.tools^

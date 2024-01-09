@@ -1,5 +1,6 @@
 ||aiworkflow.build^
 ||aliy.build^
+||allys.build^
 ||archipelago.build^
 ||atta.build^
 ||blockchainexchange.build^
@@ -13,7 +14,6 @@
 ||designunique.build^
 ||diggerscrowd.build^
 ||digitalist.build^
-||dotfile.build^
 ||dotmake.build^
 ||durapro.build^
 ||easterton.build^
@@ -23,6 +23,7 @@
 ||endevr.build^
 ||esim.build^
 ||fabmfg.build^
+||flipit.build^
 ||gamebai.build^
 ||gamebai88.build^
 ||gamedoithuong.build^
@@ -45,6 +46,7 @@
 ||metr.build^
 ||mindset.build^
 ||moot.build^
+||motor.build^
 ||nuhorizon.build^
 ||pilosio.build^
 ||polebarn.build^
@@ -54,6 +56,7 @@
 ||rikvip.build^
 ||ringer.build^
 ||river.build^
+||running.build^
 ||sera.build^
 ||shai.build^
 ||solana.build^
