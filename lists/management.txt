@@ -36,8 +36,10 @@
 ||erosioncontrol.management^
 ||esi.management^
 ||esk.management^
+||essential.management^
 ||fachai.management^
 ||fortuna.management^
+||fraud.management^
 ||gacha.management^
 ||gamebai.management^
 ||gamebaidoithuong.management^
@@ -137,6 +139,7 @@
 ||tep.management^
 ||theartistandyjames.management^
 ||tna.management^
+||toptier.management^
 ||touchandgo.management^
 ||towing.management^
 ||tqp.management^

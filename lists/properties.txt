@@ -40,6 +40,7 @@
 ||century21.properties^
 ||ceres.properties^
 ||champagne.properties^
+||cheng.properties^
 ||chinasl.properties^
 ||creek.properties^
 ||crete.properties^
@@ -106,6 +107,7 @@
 ||honeycomb.properties^
 ||houston.properties^
 ||hu.properties^
+||hyderabad.properties^
 ||icent.properties^
 ||inspiration.properties^
 ||installment.properties^
@@ -197,11 +199,14 @@
 ||snowburgh.properties^
 ||southkorea.properties^
 ||srgroup.properties^
+||standrews.properties^
 ||store.properties^
+||suite.properties^
 ||sullivans.properties^
 ||sulyn.properties^
 ||sun88.properties^
 ||sunny.properties^
+||tact.properties^
 ||tamarackfalls.properties^
 ||tang.properties^
 ||tau.properties^
@@ -244,3 +249,4 @@
 ||zachry.properties^
 ||zambias.properties^
 ||zeneca.properties^
+||zoom.properties^

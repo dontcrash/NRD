@@ -612,6 +612,7 @@
 ||btclend.ing^
 ||btcloan.ing^
 ||btcpool.ing^
+||btcsend.ing^
 ||btctrad.ing^
 ||bubbl.ing^
 ||bubl.ing^
@@ -920,6 +921,7 @@
 ||contentsell.ing^
 ||continous-monitor.ing^
 ||continue-read.ing^
+||continue-readi.ing^
 ||continuingeducationtrain.ing^
 ||continuous-monitor.ing^
 ||conveen.ing^
@@ -1066,6 +1068,7 @@
 ||dateshar.ing^
 ||datetimeconvert.ing^
 ||datingcoach.ing^
+||dav.ing^
 ||davewood.ing^
 ||dax.ing^
 ||day0.ing^
@@ -1202,6 +1205,7 @@
 ||dnspark.ing^
 ||dnvr.ing^
 ||do2.ing^
+||docc.ing^
 ||docker.ing^
 ||dockl.ing^
 ||docomo.ing^
@@ -1209,6 +1213,7 @@
 ||dogmod.ing^
 ||dogtrain.ing^
 ||dolar.ing^
+||dollpost.ing^
 ||domainsexpir.ing^
 ||domainsquatt.ing^
 ||domaintrack.ing^
@@ -1268,6 +1273,7 @@
 ||dyrk.ing^
 ||e-bike.ing^
 ||e-commerceaccount.ing^
+||e-learn.ing^
 ||e-lectrify.ing^
 ||eacc.ing^
 ||eahr.ing^
@@ -1785,6 +1791,7 @@
 ||greas.ing^
 ||greatawaken.ing^
 ||greatk.ing^
+||greatliv.ing^
 ||gree.ing^
 ||greeneat.ing^
 ||greenreport.ing^
@@ -2417,7 +2424,9 @@
 ||letsgobirdwatch.ing^
 ||letsgoboat.ing^
 ||letsgofly.ing^
+||letsgogolf.ing^
 ||letsgoski.ing^
+||letsgothrift.ing^
 ||letterbox.ing^
 ||lexicon.ing^
 ||lgensol.ing^
@@ -2674,6 +2683,7 @@
 ||mlem.ing^
 ||mlstag.ing^
 ||mlsy.ing^
+||mltinker.ing^
 ||mmabett.ing^
 ||mmateach.ing^
 ||mmmake.ing^
@@ -2810,6 +2820,7 @@
 ||neep.ing^
 ||neighbour.ing^
 ||neodesign.ing^
+||neopost.ing^
 ||neotrain.ing^
 ||nerd.ing^
 ||nerdl.ing^
@@ -2904,6 +2915,7 @@
 ||nptdafplus.ing^
 ||nptukgivingusd.ing^
 ||nsiemer.ing^
+||nudge.ing^
 ||nuke.ing^
 ||nummerupplysn.ing^
 ||nursecoach.ing^
@@ -2920,6 +2932,8 @@
 ||offgridliv.ing^
 ||offic.ing^
 ||officerent.ing^
+||offput.ing^
+||offputt.ing^
 ||offshor.ing^
 ||offshorehost.ing^
 ||offtrailbackpack.ing^
@@ -3091,6 +3105,7 @@
 ||photosofstuff.ing^
 ||phpdev.ing^
 ||phpdevelop.ing^
+||phr34k.ing^
 ||phreak.ing^
 ||phrsch.ing^
 ||phuq.ing^
@@ -3197,6 +3212,7 @@
 ||princecharm.ing^
 ||prioritiz.ing^
 ||privatepilot.ing^
+||privatiz.ing^
 ||problemhunt.ing^
 ||proclaim.ing^
 ||prodesign.ing^
@@ -3243,6 +3259,7 @@
 ||pwrbrand.ing^
 ||pythoneer.ing^
 ||pythonprogram.ing^
+||pyusd.ing^
 ||qatest.ing^
 ||qbott.ing^
 ||qianxun.ing^
@@ -3282,6 +3299,7 @@
 ||rainmak.ing^
 ||rajanyangamen.ing^
 ||randomchat.ing^
+||randomlyexpos.ing^
 ||rapidprototyp.ing^
 ||rar.ing^
 ||ratelimit.ing^
@@ -3320,6 +3338,7 @@
 ||refin.ing^
 ||refinish.ing^
 ||refract.ing^
+||refurb.ing^
 ||reger.ing^
 ||regift.ing^
 ||regret.ing^
@@ -3419,6 +3438,7 @@
 ||romhack.ing^
 ||roofgarden.ing^
 ||roofleak.ing^
+||roombook.ing^
 ||roost.ing^
 ||roughfuck.ing^
 ||routeplann.ing^
@@ -3743,6 +3763,7 @@
 ||spaceexplor.ing^
 ||spacefarm.ing^
 ||spaceflex.ing^
+||spacemin.ing^
 ||spaceplann.ing^
 ||spacetravel.ing^
 ||spacewalk.ing^
@@ -3801,6 +3822,7 @@
 ||stann.ing^
 ||starbird.ing^
 ||starbucks.ing^
+||stargaz.ing^
 ||starhack.ing^
 ||starlink.ing^
 ||startbuild.ing^
@@ -3892,6 +3914,7 @@
 ||suss.ing^
 ||sustainability.ing^
 ||sustainabletravel.ing^
+||sustainconsult.ing^
 ||sutra.ing^
 ||svelte.ing^
 ||swag.ing^
@@ -4312,6 +4335,7 @@
 ||vitalik.ing^
 ||vivek.ing^
 ||vlaamsereger.ing^
+||vloerverwarm.ing^
 ||voed.ing^
 ||vogu.ing^
 ||voiceover.ing^
@@ -4616,6 +4640,7 @@
 ||zhilk.ing^
 ||zhim.ing^
 ||zillow.ing^
+||zincke.ing^
 ||zindex.ing^
 ||zing.ing^
 ||zolabet.ing^
