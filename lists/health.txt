@@ -98,7 +98,6 @@
 ||clinicalassociates.health^
 ||cloudclinic.health^
 ||cmsaruba.health^
-||cognition.health^
 ||collagendressing.health^
 ||collatek.health^
 ||collectivemind.health^
@@ -111,6 +110,7 @@
 ||contingency.health^
 ||continuum.health^
 ||convoy.health^
+||corebond.health^
 ||cqndx.health^
 ||crosby.health^
 ||cukbt.health^
@@ -185,7 +185,6 @@
 ||guidehuman.health^
 ||gutcheck.health^
 ||h4.health^
-||hammerhead.health^
 ||harrisarc.health^
 ||healthandfitness.health^
 ||heartlandseniorliving.health^
@@ -197,8 +196,6 @@
 ||htw.health^
 ||humboldt.health^
 ||hyden.health^
-||ibd.health^
-||icecold.health^
 ||ichc.health^
 ||id1242.health^
 ||id5223.health^
@@ -302,6 +299,7 @@
 ||omnipotence.health^
 ||onaya.health^
 ||onebillion.health^
+||oneglobal.health^
 ||onesource.health^
 ||onme.health^
 ||otrymatydopomogy.health^
@@ -330,7 +328,6 @@
 ||psychedelictherapy.health^
 ||pthome.health^
 ||pwpja.health^
-||pwz.health^
 ||pxempower.health^
 ||pylot.health^
 ||qapi.health^
@@ -340,7 +337,6 @@
 ||qigonglife.health^
 ||qstar.health^
 ||queerly.health^
-||rdi.health^
 ||rdmeds.health^
 ||redis.health^
 ||regalo.health^
@@ -371,7 +367,6 @@
 ||seven.health^
 ||sgcc.health^
 ||sholder.health^
-||shop.health^
 ||simpurity.health^
 ||skintemp.health^
 ||snrpe.health^
@@ -398,20 +393,17 @@
 ||tab.health^
 ||talentburst.health^
 ||talktherapy.health^
-||tanuki.health^
 ||teachingtouch.health^
 ||tenth.health^
 ||thecommon.health^
 ||thegoodgene.health^
 ||therawin.health^
-||thewoodlands.health^
 ||threerivers.health^
 ||tiger.health^
 ||tokenized.health^
 ||tongue.health^
 ||trampolineai.health^
 ||u-are.health^
-||u.health^
 ||uci.health^
 ||udda.health^
 ||udeti.health^
@@ -422,7 +414,6 @@
 ||urbane.health^
 ||uris.health^
 ||urucum.health^
-||userfirst.health^
 ||valdenmedical.health^
 ||valencia.health^
 ||venousstasisulcer.health^
@@ -445,10 +436,8 @@
 ||wildlife.health^
 ||womensclinic.health^
 ||wyce.health^
-||x.health^
 ||xrai.health^
 ||ylmgd.health^
-||youmove.health^
 ||yourday.health^
 ||yourstory.health^
 ||yourtransformation.health^

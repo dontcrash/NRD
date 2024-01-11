@@ -25,7 +25,6 @@
 ||bk.properties^
 ||bluediamond.properties^
 ||blueridgemountainscabins.properties^
-||bot.properties^
 ||brm.properties^
 ||brokerage.properties^
 ||broussard.properties^
@@ -47,9 +46,7 @@
 ||cx.properties^
 ||dal.properties^
 ||davidquinn.properties^
-||dedicatedanddesigned.properties^
 ||defense.properties^
-||delsur.properties^
 ||deutsch.properties^
 ||development.properties^
 ||divineclassic.properties^
@@ -67,9 +64,11 @@
 ||eth.properties^
 ||event.properties^
 ||everestinmobiliaria.properties^
+||fabrielite.properties^
 ||fantasy.properties^
 ||farming.properties^
 ||film.properties^
+||fineart.properties^
 ||firstclass.properties^
 ||fishing.properties^
 ||fitness.properties^
@@ -104,7 +103,6 @@
 ||hmh.properties^
 ||hoffman.properties^
 ||homestead.properties^
-||honeycomb.properties^
 ||houston.properties^
 ||hu.properties^
 ||hyderabad.properties^
@@ -177,7 +175,6 @@
 ||roso.properties^
 ||ru.properties^
 ||sai.properties^
-||saintlouis.properties^
 ||sale.properties^
 ||salon.properties^
 ||scott.properties^
@@ -236,7 +233,6 @@
 ||weekend.properties^
 ||welara.properties^
 ||welcomehome.properties^
-||weshare.properties^
 ||westdale.properties^
 ||westgate.properties^
 ||wildcat.properties^

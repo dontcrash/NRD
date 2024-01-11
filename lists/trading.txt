@@ -10,6 +10,7 @@
 ||analyze.trading^
 ||autistic.trading^
 ||bakeryswap.trading^
+||beincrypto.trading^
 ||bitcoincats.trading^
 ||blum.trading^
 ||bnb.trading^
@@ -18,7 +19,6 @@
 ||bytes.trading^
 ||camelot.trading^
 ||citadel.trading^
-||cow.trading^
 ||cryptocoin.trading^
 ||deriv.trading^
 ||dione.trading^
@@ -49,7 +49,9 @@
 ||ky.trading^
 ||lambda.trading^
 ||lifestyle.trading^
+||ljective.trading^
 ||llm.trading^
+||lnjective.trading^
 ||ludwig.trading^
 ||mextrade.trading^
 ||miluquant.trading^
@@ -80,6 +82,7 @@
 ||tera.trading^
 ||toncoin.trading^
 ||travel.trading^
+||trip.trading^
 ||ubquants.trading^
 ||unitbots.trading^
 ||unlbot.trading^

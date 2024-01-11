@@ -70,7 +70,6 @@
 ||botics.bot^
 ||botox.bot^
 ||botsito.bot^
-||bottoolbox.bot^
 ||brainpick.bot^
 ||browsing.bot^
 ||budgeting.bot^
@@ -83,6 +82,7 @@
 ||bytebot.bot^
 ||c3.bot^
 ||calling.bot^
+||callreview.bot^
 ||canadiens.bot^
 ||candle.bot^
 ||capchabot.bot^
@@ -95,12 +95,9 @@
 ||chatgbt.bot^
 ||chatservice.bot^
 ||chatta.bot^
-||cheeky.bot^
 ||chinachina.bot^
 ||cite.bot^
 ||claims.bot^
-||claro.bot^
-||cleva.bot^
 ||click.bot^
 ||clima.bot^
 ||clothes.bot^
@@ -109,10 +106,10 @@
 ||coby.bot^
 ||cocacola.bot^
 ||cocr.bot^
+||codegen.bot^
 ||comment.bot^
 ||commoditytrading.bot^
 ||confidence.bot^
-||confluence.bot^
 ||connectoriq.bot^
 ||consolidation.bot^
 ||container.bot^
@@ -130,6 +127,7 @@
 ||credits.bot^
 ||crewroom.bot^
 ||croc.bot^
+||crossword.bot^
 ||crowdfunding.bot^
 ||crowdsource.bot^
 ||crowdsourcing.bot^
@@ -173,7 +171,6 @@
 ||e-invoice.bot^
 ||easy-money.bot^
 ||eclectic.bot^
-||ediz.bot^
 ||edutech.bot^
 ||egirl.bot^
 ||electro.bot^
@@ -194,7 +191,7 @@
 ||exo-shell.bot^
 ||expi.bot^
 ||exploit.bot^
-||external.bot^
+||eyeq.bot^
 ||ezvpn.bot^
 ||fabet.bot^
 ||facts.bot^
@@ -254,7 +251,6 @@
 ||icp.bot^
 ||identify.bot^
 ||igor.bot^
-||impress.bot^
 ||infinitybet.bot^
 ||initiate.bot^
 ||inker.bot^
@@ -305,6 +301,7 @@
 ||lightspeed.bot^
 ||lint.bot^
 ||llmchat.bot^
+||localsecurity.bot^
 ||lode88.bot^
 ||logomaker.bot^
 ||loyalty.bot^
@@ -314,7 +311,9 @@
 ||mailing.bot^
 ||mammoth.bot^
 ||maplestory.bot^
+||marcusaurelius.bot^
 ||marketmentor.bot^
+||martin.bot^
 ||maru.bot^
 ||materia.bot^
 ||maverick.bot^
@@ -330,6 +329,7 @@
 ||mickey.bot^
 ||mickeymouse.bot^
 ||microchip.bot^
+||midman.bot^
 ||mimi.bot^
 ||mini.bot^
 ||miragesecurity.bot^
@@ -426,7 +426,6 @@
 ||nutri.bot^
 ||nvuti.bot^
 ||obit.bot^
-||ocho.bot^
 ||offline.bot^
 ||ojas.bot^
 ||okvip.bot^
@@ -442,8 +441,6 @@
 ||paradise.bot^
 ||patternrecognition.bot^
 ||paywall.bot^
-||pendulum.bot^
-||people.bot^
 ||perplexity.bot^
 ||personalbrand.bot^
 ||personally.bot^
@@ -487,6 +484,7 @@
 ||rings.bot^
 ||riskfree.bot^
 ||riskmanagement.bot^
+||rosy.bot^
 ||rwas.bot^
 ||safha.bot^
 ||salesview.bot^
@@ -500,7 +498,6 @@
 ||screenplay.bot^
 ||screenwriting.bot^
 ||script.bot^
-||seductive.bot^
 ||selfdriving.bot^
 ||semiconductor.bot^
 ||sending.bot^
@@ -518,6 +515,7 @@
 ||simpleai.bot^
 ||sino.bot^
 ||sixty.bot^
+||skrt.bot^
 ||smartblockchain.bot^
 ||smarthome.bot^
 ||snacks.bot^
@@ -535,7 +533,6 @@
 ||storytelling.bot^
 ||streak.bot^
 ||strip.bot^
-||studie.bot^
 ||sunrise.bot^
 ||superalignment.bot^
 ||superhuman.bot^
@@ -555,6 +552,7 @@
 ||talisman.bot^
 ||talkbuzz.bot^
 ||tau.bot^
+||tawk.bot^
 ||taxgpt.bot^
 ||taxtime.bot^
 ||tcs.bot^
@@ -564,7 +562,6 @@
 ||teo.bot^
 ||teragol.bot^
 ||textback.bot^
-||tfc.bot^
 ||thapcamtv.bot^
 ||thedollar.bot^
 ||them.bot^
@@ -583,6 +580,7 @@
 ||travelassistant.bot^
 ||tribal.bot^
 ||tribes.bot^
+||trilithon.bot^
 ||trove.bot^
 ||trvl.bot^
 ||turtleboy.bot^
@@ -605,6 +603,7 @@
 ||vets.bot^
 ||viet.bot^
 ||vile.bot^
+||virtualblue.bot^
 ||virtuos.bot^
 ||visionai.bot^
 ||voiceaid.bot^
@@ -613,9 +612,9 @@
 ||vorsorge.bot^
 ||voters.bot^
 ||w88.bot^
-||waifugen.bot^
 ||walk.bot^
 ||walker.bot^
+||walletwatcher.bot^
 ||warehousestorage.bot^
 ||wealthadvisor.bot^
 ||wealthadvisors.bot^
@@ -628,7 +627,6 @@
 ||whitelabel.bot^
 ||whoowns.bot^
 ||wildfire.bot^
-||wildlife.bot^
 ||winningstrategy.bot^
 ||wisdomai.bot^
 ||wkelmsolutions.bot^

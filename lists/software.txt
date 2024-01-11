@@ -15,12 +15,10 @@
 ||9514.software^
 ||9542.software^
 ||9546.software^
-||9683.software^
 ||9761.software^
 ||9765.software^
-||9785.software^
-||9813.software^
 ||9861.software^
+||activitypub.software^
 ||admincenter.software^
 ||advent.software^
 ||afsoc.software^
@@ -45,6 +43,7 @@
 ||andes.software^
 ||ankushsharma.software^
 ||ap.software^
+||apache.software^
 ||apitec.software^
 ||appforce.software^
 ||aracinarandevu.software^
@@ -58,14 +57,13 @@
 ||aseesa.software^
 ||assistenza.software^
 ||assurity.software^
-||aurabackapi.software^
 ||autoqa.software^
+||aviatorgame.software^
 ||b52.software^
 ||b52club.software^
 ||b8.software^
 ||back-fist.software^
 ||badass.software^
-||bail.software^
 ||bambus.software^
 ||bankers.software^
 ||baykartech.software^
@@ -85,7 +83,6 @@
 ||boy.software^
 ||brahmos.software^
 ||bullz.software^
-||bundle.software^
 ||cadabra.software^
 ||carsales.software^
 ||cedarpark.software^
@@ -115,6 +112,8 @@
 ||cuanstore.software^
 ||curried.software^
 ||cybercontrol.software^
+||cybersec.software^
+||dance.software^
 ||datacenter.software^
 ||davedigitalsolutions.software^
 ||deploy.software^
@@ -144,12 +143,11 @@
 ||ethernet.software^
 ||eureka.software^
 ||eventops.software^
-||fabrice.software^
 ||faceless.software^
 ||facode.software^
 ||factory.software^
-||fansystemcontrol.software^
 ||fedexground.software^
+||fedramp.software^
 ||femestore.software^
 ||filament.software^
 ||fileshare.software^
@@ -173,6 +171,7 @@
 ||hackruler.software^
 ||halcyon.software^
 ||havoc.software^
+||haystack.software^
 ||hcmuscanteen.software^
 ||hikvision.software^
 ||hiveco.software^
@@ -188,8 +187,6 @@
 ||iai.software^
 ||ihatejava.software^
 ||img-background-removal.software^
-||immersive.software^
-||incidenciascamavi.software^
 ||individual.software^
 ||ingpocuan.software^
 ||instinctive.software^
@@ -198,6 +195,7 @@
 ||isi.software^
 ||ithrift.software^
 ||itinsell.software^
+||jandapirang.software^
 ||javanesian.software^
 ||jchs.software^
 ||jdm.software^
@@ -205,7 +203,6 @@
 ||josh.software^
 ||jupyter.software^
 ||juyst.software^
-||keisan.software^
 ||keyguard.software^
 ||kits.software^
 ||klickauf.software^
@@ -220,6 +217,7 @@
 ||linksys.software^
 ||lizee.software^
 ||lora-alliance.software^
+||lorex.software^
 ||macro.software^
 ||makeestore.software^
 ||malaga.software^
@@ -250,20 +248,23 @@
 ||n2.software^
 ||neutrino.software^
 ||next-step.software^
+||nga.software^
 ||nhat.software^
 ||nhatvip.software^
-||nightly.software^
+||noise.software^
 ||nuance.software^
 ||oddity.software^
 ||odin.software^
 ||omnipod.software^
 ||openlane.software^
 ||opsec.software^
+||opslyft.software^
 ||orchestration.software^
 ||ordo.software^
 ||oval.software^
 ||pacific.software^
 ||pages.software^
+||param.software^
 ||patrickfree.software^
 ||pcie.software^
 ||pedramghiasvand.software^
@@ -271,6 +272,7 @@
 ||perfectgym.software^
 ||pha.software^
 ||pharma.software^
+||plasma.software^
 ||poc.software^
 ||ponder.software^
 ||programmare.software^
@@ -278,6 +280,7 @@
 ||quickpractice.software^
 ||quinsol.software^
 ||qwertz.software^
+||radiantnuclear.software^
 ||ramanta.software^
 ||rapha.software^
 ||rbua.software^
@@ -342,7 +345,6 @@
 ||togetha.software^
 ||toni.software^
 ||top88.software^
-||tracksite.software^
 ||trive.software^
 ||unicore.software^
 ||unisonly.software^
@@ -355,7 +357,9 @@
 ||verbatim.software^
 ||virgil.software^
 ||virgo.software^
+||virtualbox.software^
 ||vital.software^
+||vitrin.software^
 ||wagold.software^
 ||warm.software^
 ||wasion.software^
@@ -364,6 +368,7 @@
 ||waths.software^
 ||webadvance.software^
 ||whatsoft.software^
+||whitelabelcasino.software^
 ||whites.software^
 ||win79.software^
 ||world.software^
@@ -373,6 +378,5 @@
 ||y2mate.software^
 ||yimengchai.software^
 ||yzena.software^
-||zeaproduction.software^
 ||zonka.software^
 ||zso.software^

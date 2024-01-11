@@ -13,12 +13,12 @@
 ||apovault.markets^
 ||ares.markets^
 ||atom.markets^
+||bags.markets^
 ||blofin.markets^
 ||bodega.markets^
 ||box.markets^
 ||build.markets^
 ||candlestickrich.markets^
-||chris.markets^
 ||comms.markets^
 ||company.markets^
 ||cpt.markets^
@@ -31,7 +31,6 @@
 ||dexzeta.markets^
 ||diamond.markets^
 ||diet.markets^
-||domainco.markets^
 ||drone.markets^
 ||e-girls.markets^
 ||e-sport.markets^
@@ -75,6 +74,7 @@
 ||mavi.markets^
 ||may.markets^
 ||mbg.markets^
+||moxie.markets^
 ||muni.markets^
 ||nachos.markets^
 ||nhat.markets^
@@ -86,9 +86,9 @@
 ||polynomial.markets^
 ||posh.markets^
 ||ppc.markets^
-||quick.markets^
 ||rebound.markets^
 ||redtube.markets^
+||remedy.markets^
 ||rik.markets^
 ||rikvip.markets^
 ||royal.markets^
@@ -119,4 +119,5 @@
 ||whiterabbit.markets^
 ||wow.markets^
 ||wtf.markets^
+||xenon.markets^
 ||yo88.markets^
