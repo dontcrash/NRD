@@ -10,17 +10,18 @@
 ||aes.properties^
 ||aeternitas.properties^
 ||alive.properties^
-||alta.properties^
 ||amr.properties^
 ||animo.properties^
 ||aps.properties^
 ||archway.properties^
 ||b52.properties^
+||bats.properties^
 ||bayarea.properties^
 ||beglobal.properties^
 ||benji.properties^
 ||bennelong.properties^
 ||bespokereal.properties^
+||beta.properties^
 ||beulah.properties^
 ||bk.properties^
 ||bluediamond.properties^
@@ -40,7 +41,6 @@
 ||ceres.properties^
 ||champagne.properties^
 ||cheng.properties^
-||chinasl.properties^
 ||creek.properties^
 ||crete.properties^
 ||cx.properties^
@@ -90,6 +90,7 @@
 ||greatamerican.properties^
 ||greentree.properties^
 ||habitat.properties^
+||hair.properties^
 ||halcyon.properties^
 ||hale.properties^
 ||harris.properties^
@@ -98,7 +99,6 @@
 ||heavenly.properties^
 ||helium.properties^
 ||hidden.properties^
-||hillhaven.properties^
 ||hitclub.properties^
 ||hmh.properties^
 ||hoffman.properties^
@@ -120,6 +120,7 @@
 ||kongsrental.properties^
 ||laguna.properties^
 ||landscaped.properties^
+||landscapinglawnhomeinvestment.properties^
 ||lgm.properties^
 ||limelight.properties^
 ||lost.properties^
@@ -187,6 +188,7 @@
 ||sg.properties^
 ||showcase.properties^
 ||siam.properties^
+||sigma.properties^
 ||silko.properties^
 ||sisu.properties^
 ||slice.properties^
@@ -227,6 +229,7 @@
 ||vida.properties^
 ||viral.properties^
 ||virginisland.properties^
+||virtue.properties^
 ||vistavibes.properties^
 ||watchdog.properties^
 ||webuyasis8.properties^
@@ -243,6 +246,5 @@
 ||yas-island.properties^
 ||yorkcounty.properties^
 ||zachry.properties^
-||zambias.properties^
 ||zeneca.properties^
 ||zoom.properties^

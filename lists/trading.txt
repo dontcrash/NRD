@@ -18,9 +18,9 @@
 ||brc20.trading^
 ||bytes.trading^
 ||camelot.trading^
-||citadel.trading^
 ||cryptocoin.trading^
 ||deriv.trading^
+||desk.trading^
 ||dione.trading^
 ||disciplined.trading^
 ||dogwifcoin.trading^
@@ -65,6 +65,7 @@
 ||optionchain.trading^
 ||orca.trading^
 ||phoenlx.trading^
+||playbook.trading^
 ||portalsgamings.trading^
 ||prodigy.trading^
 ||protervus.trading^

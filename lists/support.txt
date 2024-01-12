@@ -16,6 +16,7 @@
 ||aave.support^
 ||absolute.support^
 ||abt.support^
+||account-apple.support^
 ||account-be.support^
 ||account-xiaomi.support^
 ||acellus.support^
@@ -23,7 +24,6 @@
 ||adback.support^
 ||adsp.support^
 ||aeonx.support^
-||agenbet38.support^
 ||agora.support^
 ||aicustomer.support^
 ||aide-livraison.support^
@@ -80,6 +80,7 @@
 ||authssl.support^
 ||autonews.support^
 ||ava.support^
+||avg.support^
 ||ayem.support^
 ||b52.support^
 ||bacteristant.support^
@@ -95,7 +96,6 @@
 ||beyond.support^
 ||bigwin29.support^
 ||billdesk.support^
-||binaryweb.support^
 ||bitcoinetf.support^
 ||bl3p.support^
 ||bladelphia.support^
@@ -123,6 +123,8 @@
 ||care-find.support^
 ||carotato.support^
 ||ccinsch.support^
+||centra.support^
+||centra2.support^
 ||cfx.support^
 ||chambersync.support^
 ||channeltech.support^
@@ -165,6 +167,7 @@
 ||corporatetransparencyact.support^
 ||counsellors.support^
 ||courierhelp.support^
+||couriertracking.support^
 ||creativeteam.support^
 ||cristalant.support^
 ||csteam.support^
@@ -172,6 +175,7 @@
 ||customerservicehelpline.support^
 ||d88.support^
 ||dappsynchronize.support^
+||datarecover.support^
 ||daten.support^
 ||dcu.support^
 ||deal.support^
@@ -203,12 +207,15 @@
 ||endidate.support^
 ||enouncil.support^
 ||entertainment.support^
+||erc-advisors.support^
+||erc-experts.support^
 ||ero.support^
 ||essentialingo.support^
 ||eunification.support^
 ||evolution-aerie.support^
 ||exam.support^
 ||exec.support^
+||express-dhl-parcels.support^
 ||eystx.support^
 ||face-it.support^
 ||faceit.support^
@@ -336,6 +343,7 @@
 ||id-verification.support^
 ||idcloud-device.support^
 ||identify-whatsapp.support^
+||idfc.support^
 ||idfcfirst.support^
 ||iforget-maps-ios.support^
 ||iforgot-login-id-mx.support^
@@ -349,8 +357,9 @@
 ||influential.support^
 ||info-user.support^
 ||infocenter.support^
-||infosys.support^
+||infy.support^
 ||integralingo.support^
+||internationalworkers.support^
 ||interstellar.support^
 ||ios16.support^
 ||iota.support^
@@ -374,7 +383,6 @@
 ||kentdenver.support^
 ||keonhacai.support^
 ||keto.support^
-||kgw.support^
 ||king5.support^
 ||kitchenaidappliance.support^
 ||kotak.support^
@@ -387,8 +395,6 @@
 ||labuddy.support^
 ||langwater.support^
 ||laposte-acheminement.support^
-||lava-x.support^
-||lawyers.support^
 ||lcloud-id.support^
 ||lcloud-location.support^
 ||lcloud-ubication.support^
@@ -418,7 +424,6 @@
 ||love.support^
 ||ltobet.support^
 ||luminacare.support^
-||luoli.support^
 ||luxtrust.support^
 ||m-amazon.support^
 ||macau.support^
@@ -431,6 +436,7 @@
 ||manage-appleld.support^
 ||manage-claim.support^
 ||manage-whatsapp.support^
+||mansa.support^
 ||manticore.support^
 ||map-online.support^
 ||mapa-encontrar.support^
@@ -460,7 +466,6 @@
 ||mro.support^
 ||muscleros.support^
 ||mvideo.support^
-||mx-cloud.support^
 ||mx5.support^
 ||my-password.support^
 ||mycelium.support^
@@ -472,7 +477,6 @@
 ||natuzzi.support^
 ||neptune.support^
 ||nesting.support^
-||netsys.support^
 ||networks.support^
 ||newpush.support^
 ||newscentermaine.support^
@@ -490,7 +494,6 @@
 ||novaeon.support^
 ||noveco.support^
 ||numbers.support^
-||nurseauntyo.support^
 ||nymcard.support^
 ||odoo.support^
 ||ofbl.support^
@@ -512,7 +515,6 @@
 ||ourtech.support^
 ||ourwebsite.support^
 ||pagespolicy.support^
-||pain.support^
 ||paramountplus.support^
 ||parcel-delivery.support^
 ||parentkidhelp.support^
@@ -533,7 +535,6 @@
 ||plumberslosangeles.support^
 ||pofy.support^
 ||porn.support^
-||posteit.support^
 ||presence.support^
 ||printersetup.support^
 ||problement.support^
@@ -573,6 +574,7 @@
 ||reset-setting-whatsapp.support^
 ||reset-verify.support^
 ||resources.support^
+||respondermail.support^
 ||restrictions-support-page.support^
 ||result.support^
 ||revolut.support^
@@ -597,7 +599,6 @@
 ||showup.support^
 ||shuaainv.support^
 ||signal.support^
-||simrad.support^
 ||siyu.support^
 ||skill.support^
 ||smallcharity.support^
@@ -679,7 +680,6 @@
 ||trix.support^
 ||truelogian.support^
 ||truelogiant.support^
-||tt88.support^
 ||tutor.support^
 ||two-factor.support^
 ||ubet89.support^
@@ -740,6 +740,7 @@
 ||whatsapp-info.support^
 ||whatsapp-recovery.support^
 ||whatsapp-settings.support^
+||whipflash.support^
 ||whirlpoolappliance.support^
 ||wildlife.support^
 ||will.support^

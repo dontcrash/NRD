@@ -18,11 +18,11 @@
 ||claimtrak.claims^
 ||com-iphone.claims^
 ||commonlaw.claims^
+||court.claims^
 ||covid.claims^
 ||covidvax.claims^
 ||dashboard-solend.claims^
 ||dental.claims^
-||enter-zero.claims^
 ||etoro.claims^
 ||extraordinary.claims^
 ||familycourt.claims^
@@ -61,6 +61,7 @@
 ||nashville.claims^
 ||ncat.claims^
 ||newhampshire.claims^
+||newjersey.claims^
 ||ntcat.claims^
 ||omada.claims^
 ||omnicat.claims^
@@ -81,7 +82,6 @@
 ||sacat.claims^
 ||saet.claims^
 ||seriousinjury.claims^
-||signup-zero.claims^
 ||silo-finance.claims^
 ||smolcoin.claims^
 ||soap2day.claims^

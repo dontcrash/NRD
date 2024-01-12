@@ -26,7 +26,6 @@
 ||bv.loans^
 ||cashadvance.loans^
 ||commerciallender.loans^
-||complaints.loans^
 ||cool.loans^
 ||coq.loans^
 ||corporation.loans^
@@ -72,10 +71,10 @@
 ||mavason.loans^
 ||may.loans^
 ||mayclub.loans^
+||messenger.loans^
 ||mortgages.loans^
 ||mv.loans^
 ||nhatvip.loans^
-||nodownpayment.loans^
 ||nova.loans^
 ||number.loans^
 ||og.loans^
@@ -95,6 +94,7 @@
 ||timely.loans^
 ||trustex.loans^
 ||tycoon.loans^
+||ucash.loans^
 ||ug.loans^
 ||usda.loans^
 ||vi.loans^

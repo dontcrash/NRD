@@ -59,7 +59,6 @@
 ||ambrosia.health^
 ||ambrosiapharma.health^
 ||amour.health^
-||annaka.health^
 ||apolo.health^
 ||apothewell.health^
 ||apparati.health^
@@ -167,6 +166,7 @@
 ||fieldlab.health^
 ||fine.health^
 ||firefighter.health^
+||flashp.health^
 ||foodforfuel.health^
 ||foundersmental.health^
 ||furever.health^
@@ -182,7 +182,6 @@
 ||gpo.health^
 ||graf.health^
 ||granite.health^
-||guidehuman.health^
 ||gutcheck.health^
 ||h4.health^
 ||harrisarc.health^
@@ -194,7 +193,6 @@
 ||homegrown.health^
 ||hometown.health^
 ||htw.health^
-||humboldt.health^
 ||hyden.health^
 ||ichc.health^
 ||id1242.health^
@@ -203,7 +201,6 @@
 ||id888.health^
 ||idlabs.health^
 ||iima.health^
-||illumina.health^
 ||ilysm.health^
 ||immuniize.health^
 ||indicate.health^
@@ -228,6 +225,7 @@
 ||kaygj.health^
 ||kfzom.health^
 ||kollagen.health^
+||kratomtherapy.health^
 ||ktlmj.health^
 ||kuulo.health^
 ||labvie.health^
@@ -244,7 +242,6 @@
 ||luminacare.health^
 ||lution.health^
 ||lykos.health^
-||mateos.health^
 ||materia.health^
 ||maxwell.health^
 ||mbohq.health^
@@ -300,9 +297,11 @@
 ||onaya.health^
 ||onebillion.health^
 ||oneglobal.health^
+||oneoak.health^
 ||onesource.health^
 ||onme.health^
 ||otrymatydopomogy.health^
+||oveda.health^
 ||paramedicine.health^
 ||patience.health^
 ||peaksandvalleys.health^
@@ -315,7 +314,6 @@
 ||pintar.health^
 ||pocke.health^
 ||postsurgical.health^
-||postura.health^
 ||precisionmotion.health^
 ||preparation.health^
 ||pressureulcers.health^
@@ -337,8 +335,8 @@
 ||qigonglife.health^
 ||qstar.health^
 ||queerly.health^
+||rair.health^
 ||rdmeds.health^
-||redis.health^
 ||regalo.health^
 ||regener.health^
 ||releeva.health^
@@ -349,13 +347,11 @@
 ||renovaro.health^
 ||restorix.health^
 ||revai.health^
-||revitaliving.health^
 ||revup.health^
 ||rhaw.health^
 ||rizz.health^
 ||rmt.health^
 ||rootedcommunities.health^
-||s-pharmaceutical.health^
 ||safari.health^
 ||sagitron.health^
 ||saudebemestar.health^
@@ -367,6 +363,7 @@
 ||seven.health^
 ||sgcc.health^
 ||sholder.health^
+||simplymedcare.health^
 ||simpurity.health^
 ||skintemp.health^
 ||snrpe.health^
@@ -405,7 +402,6 @@
 ||trampolineai.health^
 ||u-are.health^
 ||uci.health^
-||udda.health^
 ||udeti.health^
 ||umbria.health^
 ||universityventures.health^
@@ -420,8 +416,6 @@
 ||vgeun.health^
 ||viplata24.health^
 ||viscofan.health^
-||vitafreeze.health^
-||vitalflow.health^
 ||vitalitycollective.health^
 ||vitalityhealthcare.health^
 ||w66d.health^
