@@ -28,8 +28,6 @@
 ||61284.health^
 ||62651.health^
 ||78391.health^
-||789.health^
-||789club.health^
 ||84252.health^
 ||89521.health^
 ||8life.health^
@@ -56,6 +54,7 @@
 ||ajan.health^
 ||alliancehealth.health^
 ||allnature.health^
+||alphatech.health^
 ||ambrosia.health^
 ||ambrosiapharma.health^
 ||amour.health^
@@ -70,6 +69,7 @@
 ||aymcetla.health^
 ||azvhw.health^
 ||bamba.health^
+||bancadoithuong.health^
 ||band.health^
 ||beckycurtis.health^
 ||bestweightloss.health^
@@ -85,6 +85,7 @@
 ||bozeman.health^
 ||brooke.health^
 ||bryanjohnsonblueprint.health^
+||cai.health^
 ||cancelcancer.health^
 ||cardia.health^
 ||careso.health^
@@ -93,6 +94,7 @@
 ||cccc.health^
 ||cedars.health^
 ||certificate.health^
+||clea.health^
 ||cleia.health^
 ||clinicalassociates.health^
 ||cloudclinic.health^
@@ -103,7 +105,6 @@
 ||communitywell.health^
 ||compre.health^
 ||concord.health^
-||confidante.health^
 ||conjure.health^
 ||connect4.health^
 ||contingency.health^
@@ -120,7 +121,6 @@
 ||dacrx.health^
 ||datapreneur.health^
 ||dawaa.health^
-||deepx-elysium.health^
 ||define.health^
 ||delayed.health^
 ||dermacol.health^
@@ -156,12 +156,10 @@
 ||elysiumestate.health^
 ||empoweredtherapy.health^
 ||eqology.health^
-||everydayteen.health^
 ||exuberance.health^
 ||faceyogi.health^
 ||fairsense.health^
 ||faktorydop.health^
-||familymatters.health^
 ||fello.health^
 ||fieldlab.health^
 ||fine.health^
@@ -170,6 +168,7 @@
 ||foodforfuel.health^
 ||foundersmental.health^
 ||furever.health^
+||g-girl.health^
 ||gate.health^
 ||generationshomecare.health^
 ||genu.health^
@@ -177,8 +176,8 @@
 ||glamping.health^
 ||good-life.health^
 ||goods.health^
-||goodsteward.health^
 ||goxkoll.health^
+||gpi.health^
 ||gpo.health^
 ||graf.health^
 ||granite.health^
@@ -186,6 +185,7 @@
 ||h4.health^
 ||harrisarc.health^
 ||healthandfitness.health^
+||healthoptimizing.health^
 ||heartlandseniorliving.health^
 ||helix3.health^
 ||helixrx.health^
@@ -194,15 +194,12 @@
 ||hometown.health^
 ||htw.health^
 ||hyden.health^
-||ichc.health^
 ||id1242.health^
 ||id5223.health^
 ||id887.health^
 ||id888.health^
 ||idlabs.health^
-||iima.health^
 ||ilysm.health^
-||immuniize.health^
 ||indicate.health^
 ||infinityheart.health^
 ||ink.health^
@@ -211,7 +208,6 @@
 ||ipt.health^
 ||iregmed.health^
 ||ivermectin.health^
-||jinni.health^
 ||jnpkl.health^
 ||joerg.health^
 ||joeun.health^
@@ -272,9 +268,9 @@
 ||molet.health^
 ||momentumtherapy.health^
 ||morfeo.health^
+||multitude.health^
 ||mungerua.health^
 ||mycovidrecord.health^
-||myfamilytree.health^
 ||mysolution.health^
 ||mywellscreen.health^
 ||nada.health^
@@ -291,7 +287,6 @@
 ||nursenatalie.health^
 ||nutrigenics.health^
 ||occhavn.health^
-||odesso.health^
 ||odyssey.health^
 ||omnipotence.health^
 ||onaya.health^
@@ -300,6 +295,7 @@
 ||oneoak.health^
 ||onesource.health^
 ||onme.health^
+||optimizing.health^
 ||otrymatydopomogy.health^
 ||oveda.health^
 ||paramedicine.health^
@@ -312,6 +308,7 @@
 ||pharmabeauty.health^
 ||pharmacyfirstservice.health^
 ||pintar.health^
+||platos.health^
 ||pocke.health^
 ||postsurgical.health^
 ||precisionmotion.health^
@@ -322,7 +319,6 @@
 ||profit.health^
 ||provide.health^
 ||prudent.health^
-||psychedeliccare.health^
 ||psychedelictherapy.health^
 ||pthome.health^
 ||pwpja.health^
@@ -345,13 +341,13 @@
 ||renewlife.health^
 ||renou.health^
 ||renovaro.health^
+||report.health^
 ||restorix.health^
 ||revai.health^
 ||revup.health^
 ||rhaw.health^
 ||rizz.health^
 ||rmt.health^
-||rootedcommunities.health^
 ||safari.health^
 ||sagitron.health^
 ||saudebemestar.health^
@@ -373,6 +369,7 @@
 ||spotlight.health^
 ||springsmens.health^
 ||standardhs.health^
+||statusreport.health^
 ||stay.health^
 ||stdavids.health^
 ||stjudes.health^
@@ -394,13 +391,11 @@
 ||tenth.health^
 ||thecommon.health^
 ||thegoodgene.health^
-||therawin.health^
 ||threerivers.health^
 ||tiger.health^
 ||tokenized.health^
 ||tongue.health^
 ||trampolineai.health^
-||u-are.health^
 ||uci.health^
 ||udeti.health^
 ||umbria.health^
@@ -428,6 +423,7 @@
 ||wheretodance.health^
 ||wildandwell.health^
 ||wildlife.health^
+||wingman.health^
 ||womensclinic.health^
 ||wyce.health^
 ||xrai.health^
