@@ -52,8 +52,6 @@
 ||airdrop-trustpad.finance^
 ||airkey.finance^
 ||aldini.finance^
-||allmerica.finance^
-||alphagold.finance^
 ||altus.finance^
 ||ambients.finance^
 ||ambiient.finance^
@@ -86,14 +84,13 @@
 ||athbase.finance^
 ||attackontitan.finance^
 ||ausboilers.finance^
-||ayatollah.finance^
 ||azocoin.finance^
-||babyyoda.finance^
 ||ballet.finance^
 ||bancogalicia.finance^
 ||bancorp.finance^
 ||banks.finance^
 ||bazelet.finance^
+||bearpunks.finance^
 ||beema.finance^
 ||bestpay.finance^
 ||bettsc.finance^
@@ -151,7 +148,6 @@
 ||calories.finance^
 ||canarabank.finance^
 ||candydex.finance^
-||canna.finance^
 ||cannaminner.finance^
 ||carbondefi.finance^
 ||carillonium.finance^
@@ -162,11 +158,11 @@
 ||cetra.finance^
 ||cfic.finance^
 ||cfsbond.finance^
-||chadpepe.finance^
 ||chadswap.finance^
 ||champagne.finance^
 ||championszone.finance^
 ||cheng.finance^
+||chickadee.finance^
 ||chive.finance^
 ||chromelaunchpad.finance^
 ||citac.finance^
@@ -204,7 +200,6 @@
 ||dali.finance^
 ||daln.finance^
 ||dalt.finance^
-||daring.finance^
 ||david.finance^
 ||davinci.finance^
 ||dcp.finance^
@@ -255,6 +250,7 @@
 ||estrellas.finance^
 ||ethereumetf.finance^
 ||etheryield.finance^
+||etp.finance^
 ||eurodenizbank.finance^
 ||everestdao.finance^
 ||everfarm.finance^
@@ -269,7 +265,6 @@
 ||factor.finance^
 ||fafnir.finance^
 ||falqom.finance^
-||farmy.finance^
 ||fatcat.finance^
 ||fcb8.finance^
 ||fcms.finance^
@@ -308,7 +303,6 @@
 ||goldenkey.finance^
 ||gooselokicat.finance^
 ||gqg.finance^
-||gravity.finance^
 ||groks.finance^
 ||guar.finance^
 ||haghighi.finance^
@@ -334,7 +328,6 @@
 ||hrznlabs.finance^
 ||hungrybear.finance^
 ||hypo.finance^
-||i9tech.finance^
 ||iamfuture.finance^
 ||ibc.finance^
 ||ignitionpaidnetwork.finance^
@@ -348,11 +341,12 @@
 ||intangiblecoin.finance^
 ||intelligentinvestor.finance^
 ||intentful.finance^
+||interestpool.finance^
+||interpac.finance^
 ||invari.finance^
 ||invitae.finance^
 ||invus.finance^
 ||ipfs.finance^
-||irish.finance^
 ||isure.finance^
 ||itech.finance^
 ||jaycashed.finance^
@@ -430,7 +424,6 @@
 ||modera.finance^
 ||mondialprivatebank.finance^
 ||moneykey.finance^
-||moore.finance^
 ||movemoon.finance^
 ||movex.finance^
 ||moxeo.finance^
@@ -502,8 +495,8 @@
 ||pepepods.finance^
 ||picasso.finance^
 ||piggybankdao.finance^
-||pinkasale.finance^
-||pinksabe.finance^
+||piinu.finance^
+||pinksaie.finance^
 ||pinkzsale.finance^
 ||pinrksale.finance^
 ||pitbull.finance^
@@ -524,16 +517,19 @@
 ||potato.finance^
 ||powerdex.finance^
 ||powered.finance^
-||practical.finance^
+||powerwomen.finance^
 ||presalerhytmic.finance^
 ||pretzelswap.finance^
 ||privatelending.finance^
 ||privatemoney.finance^
 ||productive.finance^
 ||promos.finance^
+||pry.finance^
 ||pxr.finance^
 ||qanswap.finance^
 ||qipay.finance^
+||ramirezam.finance^
+||ramirezassetmanagment.finance^
 ||rapidefi.finance^
 ||rbase.finance^
 ||re-publictrade.finance^
@@ -541,7 +537,6 @@
 ||reflecter.finance^
 ||refunds-algebra.finance^
 ||regiment.finance^
-||register-orbiter.finance^
 ||regulatoreuropa.finance^
 ||remit.finance^
 ||rentcredit.finance^
@@ -567,15 +562,14 @@
 ||sanic.finance^
 ||sapphires.finance^
 ||savethefuture.finance^
-||savvest.finance^
 ||saylor.finance^
 ||sba.finance^
 ||sbtc.finance^
 ||sca.finance^
-||scads.finance^
 ||scaifid.finance^
 ||scalable.finance^
 ||scion.finance^
+||scopetoken.finance^
 ||seat.finance^
 ||seeding.finance^
 ||seis.finance^
@@ -596,6 +590,7 @@
 ||simit.finance^
 ||simpla.finance^
 ||sin88.finance^
+||sinergia.finance^
 ||sketch.finance^
 ||skip.finance^
 ||skull.finance^
@@ -611,13 +606,10 @@
 ||solcake.finance^
 ||solsale.finance^
 ||sovereignty.finance^
-||space-x.finance^
-||specpros.finance^
 ||speedforce.finance^
 ||spenda.finance^
 ||spyder.finance^
 ||squeezetoken.finance^
-||staff.finance^
 ||stakebitstable.finance^
 ||stakehaus.finance^
 ||stakeingtokens.finance^
@@ -642,7 +634,6 @@
 ||stonetemple.finance^
 ||stryke.finance^
 ||sublime.finance^
-||sun88.finance^
 ||supportdoge.finance^
 ||supswap.finance^
 ||sv88.finance^
@@ -660,7 +651,6 @@
 ||technostech.finance^
 ||telcoin.finance^
 ||telon.finance^
-||tep.finance^
 ||tethermint.finance^
 ||tfc.finance^
 ||thea.finance^
@@ -694,7 +684,7 @@
 ||truedollar.finance^
 ||trustex.finance^
 ||trustscience.finance^
-||tubular.finance^
+||trx.finance^
 ||tutor.finance^
 ||tweelon.finance^
 ||txg.finance^
@@ -704,6 +694,7 @@
 ||uniperp.finance^
 ||unisat.finance^
 ||unstp.finance^
+||usdc.finance^
 ||users.finance^
 ||vangold.finance^
 ||vapordao.finance^
@@ -720,7 +711,6 @@
 ||watchsports.finance^
 ||wau.finance^
 ||web3game.finance^
-||wecan.finance^
 ||western.finance^
 ||whiteheart.finance^
 ||whitepapers.finance^
@@ -738,6 +728,7 @@
 ||xcoin.finance^
 ||xen.finance^
 ||xn--ancakeswap-3u2e.finance^
+||xn--bounc-fsa.finance^
 ||xo88.finance^
 ||xolt.finance^
 ||xsy.finance^

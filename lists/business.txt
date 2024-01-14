@@ -54,6 +54,7 @@
 ||appdevelopment.business^
 ||aras.business^
 ||arban.business^
+||architect.business^
 ||arize.business^
 ||arte.business^
 ||artificialintelligence.business^
@@ -68,7 +69,6 @@
 ||bald.business^
 ||banner.business^
 ||bavarian.business^
-||beautysalon.business^
 ||beep.business^
 ||beergarden.business^
 ||behind.business^
@@ -78,8 +78,10 @@
 ||bep20smartcontractwallet.business^
 ||berk.business^
 ||bestin.business^
+||betterbenefits.business^
 ||betw.business^
 ||beyslocsllc.business^
+||bitcoinetf.business^
 ||bluediamond.business^
 ||bluemoon.business^
 ||boardroom.business^
@@ -100,7 +102,6 @@
 ||bucharest.business^
 ||bunny.business^
 ||bushfireinfo.business^
-||business-http-s.business^
 ||businessdesignroadmap.business^
 ||bust.business^
 ||cadillacjanitorial.business^
@@ -109,8 +110,8 @@
 ||capitalab.business^
 ||capitol.business^
 ||captain.business^
+||capturemoments.business^
 ||career.business^
-||carrepair.business^
 ||carshub.business^
 ||carte.business^
 ||cascade.business^
@@ -140,11 +141,11 @@
 ||conor.business^
 ||constellations.business^
 ||controlmarketing.business^
+||copper.business^
 ||copycat.business^
 ||corvus.business^
 ||costume.business^
 ||coworkingspace.business^
-||crafting.business^
 ||crafts.business^
 ||craftsman.business^
 ||craftycorner-yr.business^
@@ -169,7 +170,6 @@
 ||deals2b.business^
 ||debank.business^
 ||decalvenue.business^
-||decormyway.business^
 ||deer.business^
 ||demeter.business^
 ||dermasense.business^
@@ -197,6 +197,7 @@
 ||dronephotography.business^
 ||dubaiexports.business^
 ||dylanikaenterprises.business^
+||earnify.business^
 ||easi.business^
 ||easycharge.business^
 ||easyhome.business^
@@ -205,7 +206,6 @@
 ||ecoenergy.business^
 ||ecore.business^
 ||ecsolutions.business^
-||effectivecommunication.business^
 ||eie.business^
 ||einhorn.business^
 ||elan.business^
@@ -225,7 +225,6 @@
 ||escobar.business^
 ||eseller.business^
 ||eshop.business^
-||eshopworld.business^
 ||essen.business^
 ||estate.business^
 ||ether.business^
@@ -240,6 +239,7 @@
 ||famenews.business^
 ||favoritestore.business^
 ||fcb8.business^
+||felonyaesthetics.business^
 ||fencecompany.business^
 ||fenics.business^
 ||fibre4.business^
@@ -247,13 +247,12 @@
 ||financialconsulting.business^
 ||finest.business^
 ||firstclub.business^
-||fitnessapparel.business^
 ||flexx.business^
 ||from.business^
+||fundcraft.business^
 ||fundingyour.business^
 ||funeralhome.business^
 ||future-wood.business^
-||gacha.business^
 ||gadgets.business^
 ||gaetanofranco.business^
 ||galochkin.business^
@@ -283,6 +282,7 @@
 ||googlemap.business^
 ||gr8.business^
 ||graf.business^
+||grantsupport.business^
 ||grips.business^
 ||grodno.business^
 ||groomers.business^
@@ -296,6 +296,7 @@
 ||hazar.business^
 ||hdcteam.business^
 ||headstone.business^
+||healix.business^
 ||heightened.business^
 ||helix.business^
 ||helpnow.business^
@@ -321,6 +322,7 @@
 ||humanodyne.business^
 ||humanoidrobots.business^
 ||hussam.business^
+||hydrate.business^
 ||hydroponics.business^
 ||icent.business^
 ||ideato.business^
@@ -337,6 +339,7 @@
 ||insuranceagency.business^
 ||integratedmarketing.business^
 ||inteligenciaartificial.business^
+||intentional.business^
 ||inventive.business^
 ||isaacs.business^
 ||isellgloba.business^
@@ -408,7 +411,6 @@
 ||marketingmachinery.business^
 ||master303.business^
 ||masterclassonline.business^
-||masterresellrights.business^
 ||matic.business^
 ||matrx.business^
 ||mavi.business^
@@ -426,7 +428,6 @@
 ||metric.business^
 ||metropolis.business^
 ||metta.business^
-||mickilia.business^
 ||microbrewery.business^
 ||minimalist.business^
 ||miski-willow.business^
@@ -442,6 +443,7 @@
 ||mteverest.business^
 ||multitienda.business^
 ||mural.business^
+||muslimowned.business^
 ||mycar.business^
 ||mydigital.business^
 ||myone.business^
@@ -481,7 +483,6 @@
 ||options.business^
 ||oq.business^
 ||oryx.business^
-||oskilko.business^
 ||outerbounds.business^
 ||ozon.business^
 ||pacharabre.business^
@@ -512,7 +513,6 @@
 ||privateinvestigator.business^
 ||problem.business^
 ||professionalservice.business^
-||projectku.business^
 ||projectory.business^
 ||publi.business^
 ||punk.business^
@@ -549,12 +549,13 @@
 ||sandmanofficial.business^
 ||satishenterprises.business^
 ||savvy-solutions.business^
+||savvysolutionsllc.business^
 ||searchesearch.business^
 ||sebastian.business^
 ||secrets.business^
 ||sectorsavvy.business^
+||secureoneauto.business^
 ||securityguard.business^
-||selfdefense.business^
 ||sellmyhousefast.business^
 ||sensible.business^
 ||server5418.business^
@@ -594,6 +595,7 @@
 ||spying.business^
 ||sqlite.business^
 ||ssmmarketing.business^
+||sso-verizonenterprise.business^
 ||stadium.business^
 ||staffingcompany.business^
 ||standing.business^
@@ -637,6 +639,8 @@
 ||theflow.business^
 ||thefood.business^
 ||thejplegal.business^
+||themechanics.business^
+||themelbournegenetics.business^
 ||theother.business^
 ||theperfect.business^
 ||thereal.business^
@@ -654,14 +658,13 @@
 ||toxic.business^
 ||tp.business^
 ||trace.business^
-||tractor.business^
 ||trendingnow.business^
-||trendythreads.business^
 ||trychannel.business^
 ||tunetx.business^
 ||tutoring.business^
 ||typehost.business^
 ||uaeproperties.business^
+||ultimaa.business^
 ||unleashing.business^
 ||up.business^
 ||upholstery.business^
