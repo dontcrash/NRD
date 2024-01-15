@@ -16,9 +16,11 @@
 ||apexchange.exchange^
 ||app-holdstaltion.exchange^
 ||app-rocketx.exchange^
+||appdhis.exchange^
 ||apps-rocketx.exchange^
 ||apxplus.exchange^
 ||arab.exchange^
+||archaxcrypto.exchange^
 ||artexstock.exchange^
 ||asakusa.exchange^
 ||avatars.exchange^
@@ -69,7 +71,6 @@
 ||centimos.exchange^
 ||chainalysis.exchange^
 ||chedd.exchange^
-||cinema.exchange^
 ||claim-rubic.exchange^
 ||climategov.exchange^
 ||climatevalue.exchange^
@@ -77,6 +78,7 @@
 ||cofinex.exchange^
 ||coinbase-wallet.exchange^
 ||coinmining.exchange^
+||coinverse.exchange^
 ||collabpii.exchange^
 ||conto.exchange^
 ||convert.exchange^
@@ -95,7 +97,6 @@
 ||digitalasset.exchange^
 ||dollars.exchange^
 ||dtc.exchange^
-||dualbit.exchange^
 ||dxdywebsite.exchange^
 ||dydix.exchange^
 ||dydxtrade.exchange^
@@ -104,8 +105,6 @@
 ||earthintel.exchange^
 ||ee88.exchange^
 ||eidoo.exchange^
-||endurance.exchange^
-||eneftee.exchange^
 ||enrg.exchange^
 ||equestrian.exchange^
 ||equip.exchange^
@@ -120,7 +119,6 @@
 ||fenics.exchange^
 ||fibswap.exchange^
 ||findly.exchange^
-||finetunes.exchange^
 ||five88.exchange^
 ||flac.exchange^
 ||fragrance.exchange^
@@ -173,7 +171,6 @@
 ||leo88.exchange^
 ||libra.exchange^
 ||limon.exchange^
-||lionex.exchange^
 ||lub.exchange^
 ||lucky88.exchange^
 ||lux.exchange^
@@ -225,6 +222,7 @@
 ||panegolin.exchange^
 ||pangeolin.exchange^
 ||pangolien.exchange^
+||parity.exchange^
 ||partshound.exchange^
 ||patent.exchange^
 ||payget.exchange^
@@ -318,5 +316,6 @@
 ||xp.exchange^
 ||zina.exchange^
 ||zkfair.exchange^
+||zkhub.exchange^
 ||zoon.exchange^
 ||zuu.exchange^
