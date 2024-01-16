@@ -15,6 +15,7 @@
 ||airport.systems^
 ||alexis.systems^
 ||allah.systems^
+||allshookup.systems^
 ||alpine-data.systems^
 ||alt-nameserver.systems^
 ||ambientphotonics.systems^
@@ -81,7 +82,6 @@
 ||cmcomputer.systems^
 ||cobra.systems^
 ||codeless.systems^
-||coffea.systems^
 ||coldnumber.systems^
 ||compact.systems^
 ||compose.systems^
@@ -104,7 +104,9 @@
 ||cyberduck.systems^
 ||cyberhealth.systems^
 ||cybersecurity.systems^
+||cyberwallsecurity.systems^
 ||cyte.systems^
+||dataday.systems^
 ||datasynth.systems^
 ||debet.systems^
 ||deepak.systems^
@@ -114,6 +116,7 @@
 ||dhl-paketversand.systems^
 ||dice.systems^
 ||digit.systems^
+||digitalseating.systems^
 ||dirks-jaeger.systems^
 ||dmk.systems^
 ||dobro.systems^
@@ -153,6 +156,7 @@
 ||ezpos.systems^
 ||fa88.systems^
 ||factorydata.systems^
+||fastpay.systems^
 ||faulty.systems^
 ||fitnessmarketing.systems^
 ||floating.systems^
@@ -177,7 +181,6 @@
 ||geospacial.systems^
 ||gfy.systems^
 ||goldenway.systems^
-||googol.systems^
 ||greenwall.systems^
 ||grizzlabs.systems^
 ||growhub.systems^
@@ -200,6 +203,7 @@
 ||iav-news.systems^
 ||iav-preland.systems^
 ||ibrahkrep.systems^
+||icom.systems^
 ||icrew.systems^
 ||ifnor.systems^
 ||ika.systems^
@@ -229,6 +233,7 @@
 ||jt.systems^
 ||juju.systems^
 ||juspay.systems^
+||justreal.systems^
 ||kaufmann.systems^
 ||kiwi.systems^
 ||korea.systems^
@@ -248,10 +253,9 @@
 ||linu.systems^
 ||lit.systems^
 ||location.systems^
-||locomotive.systems^
 ||logicblocks.systems^
-||loquacious.systems^
 ||lorentzen.systems^
+||lostandnewfood.systems^
 ||lus.systems^
 ||mach3.systems^
 ||machpanel.systems^
@@ -261,7 +265,6 @@
 ||maingate.systems^
 ||managment.systems^
 ||may88.systems^
-||mazda.systems^
 ||mechminds.systems^
 ||medfix.systems^
 ||mems.systems^
@@ -283,6 +286,7 @@
 ||nbet.systems^
 ||neel.systems^
 ||nena.systems^
+||neox.systems^
 ||nerdbot.systems^
 ||nex.systems^
 ||nexgen.systems^
@@ -298,7 +302,6 @@
 ||omnicare.systems^
 ||omnilang.systems^
 ||one88.systems^
-||oosphere.systems^
 ||open-camera-phone.systems^
 ||opf.systems^
 ||optim.systems^
@@ -312,6 +315,7 @@
 ||pdf.systems^
 ||perc.systems^
 ||persistent.systems^
+||ph2.systems^
 ||pkt.systems^
 ||places.systems^
 ||pod.systems^
@@ -322,6 +326,7 @@
 ||prokoders.systems^
 ||prosecco.systems^
 ||protonmail.systems^
+||psd.systems^
 ||pumpkin.systems^
 ||pusatara.systems^
 ||qc.systems^
@@ -351,16 +356,13 @@
 ||safer.systems^
 ||sail.systems^
 ||sander.systems^
-||sanita.systems^
 ||saturn.systems^
 ||savage.systems^
-||sber.systems^
-||sberbank.systems^
 ||scarbrough.systems^
 ||schnell.systems^
 ||seabet.systems^
 ||searchgo.systems^
-||securitysurface.systems^
+||selfhealing.systems^
 ||serial.systems^
 ||shft.systems^
 ||shog.systems^
@@ -407,9 +409,12 @@
 ||terramedia.systems^
 ||tetra-security.systems^
 ||thepeoplepos.systems^
+||thepure.systems^
 ||thinking.systems^
 ||thrift.systems^
+||tokens.systems^
 ||tomtom.systems^
+||tp88.systems^
 ||tradersvps.systems^
 ||transmit.systems^
 ||trentec.systems^
@@ -448,7 +453,6 @@
 ||wholeearth.systems^
 ||wild.systems^
 ||wilt.systems^
-||wine.systems^
 ||wlms.systems^
 ||worldbusiness.systems^
 ||worldprofit.systems^
@@ -464,5 +468,4 @@
 ||y8y.systems^
 ||yellowbox.systems^
 ||zebra.systems^
-||zonewatch.systems^
 ||zso.systems^

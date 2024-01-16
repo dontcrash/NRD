@@ -25,6 +25,7 @@
 ||advent.software^
 ||afsoc.software^
 ||agents.software^
+||aha.software^
 ||ahmetcanakcicek.software^
 ||ai-agency.software^
 ||ai-chat.software^
@@ -94,7 +95,6 @@
 ||ceramic.software^
 ||chinamil.software^
 ||ching.software^
-||churo.software^
 ||cifra.software^
 ||cisa.software^
 ||ckr.software^
@@ -106,6 +106,7 @@
 ||comms.software^
 ||conover.software^
 ||constructo.software^
+||covalent.software^
 ||creditacceptance.software^
 ||crontum.software^
 ||cstg.software^
@@ -163,7 +164,6 @@
 ||gchq.software^
 ||ge.software^
 ||gimp.software^
-||goblinlordslayer.software^
 ||gohighlevel.software^
 ||greenstone.software^
 ||greensupermarket.software^
@@ -177,7 +177,6 @@
 ||hgid.software^
 ||hibiscus.software^
 ||hikvision.software^
-||hklo.software^
 ||holocaust.software^
 ||honey.software^
 ||hospitality.software^
@@ -261,6 +260,7 @@
 ||omnipod.software^
 ||openlane.software^
 ||opsec.software^
+||opsecc.software^
 ||opslyft.software^
 ||orchestration.software^
 ||ordo.software^
@@ -305,13 +305,11 @@
 ||sedona.software^
 ||senal.software^
 ||seraphim.software^
-||shebang.software^
 ||shockleyblog.software^
 ||shoggoth.software^
 ||sis.software^
 ||skyla.software^
 ||smart-parking-system.software^
-||smartdraw.software^
 ||smarter.software^
 ||smileitsolutions.software^
 ||smoothify.software^
@@ -326,7 +324,6 @@
 ||stamford.software^
 ||storyai.software^
 ||suresign.software^
-||sympatent.software^
 ||synio.software^
 ||talk.software^
 ||talkbuzz.software^
@@ -346,7 +343,6 @@
 ||unisource.software^
 ||unity.software^
 ||usembassy.software^
-||usermodifiable.software^
 ||veles.software^
 ||veneta.software^
 ||verbatim.software^

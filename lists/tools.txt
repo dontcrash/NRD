@@ -39,7 +39,6 @@
 ||askai.tools^
 ||association.tools^
 ||astra.tools^
-||autominer.tools^
 ||avif.tools^
 ||bancadoithuong.tools^
 ||barrelproof.tools^
@@ -47,9 +46,8 @@
 ||bcdev.tools^
 ||bct.tools^
 ||bestlink.tools^
-||bestonline.tools^
+||bestprivacy.tools^
 ||bigdog.tools^
-||bigjpg.tools^
 ||bivisi.tools^
 ||blackdog.tools^
 ||blockchain.tools^
@@ -69,8 +67,10 @@
 ||cell.tools^
 ||change-mailing-address.tools^
 ||checker.tools^
+||chihuahua.tools^
 ||chip.tools^
 ||cine.tools^
+||cinemahd.tools^
 ||clientcreate.tools^
 ||cloudorchestration.tools^
 ||coav.tools^
@@ -97,7 +97,6 @@
 ||dbs.tools^
 ||debit.tools^
 ||decalvenue.tools^
-||depixelate.tools^
 ||dgov.tools^
 ||disc.tools^
 ||dpa.tools^
@@ -109,6 +108,7 @@
 ||eliseoffing.tools^
 ||elixr.tools^
 ||embedded.tools^
+||emblem.tools^
 ||empireof.tools^
 ||energo.tools^
 ||engagewithsmartertactics.tools^
@@ -163,6 +163,7 @@
 ||highavailability.tools^
 ||hms.tools^
 ||homeschool.tools^
+||honista.tools^
 ||hydra.tools^
 ||hyperv.tools^
 ||imagesearch.tools^
@@ -173,13 +174,11 @@
 ||intelli.tools^
 ||io-web3.tools^
 ||ipower.tools^
-||isphere.tools^
 ||ito5d.tools^
 ||javan.tools^
 ||jfif.tools^
 ||jup.tools^
 ||jxl.tools^
-||karaoke.tools^
 ||kate.tools^
 ||keonhacai.tools^
 ||khrysos.tools^
@@ -223,6 +222,7 @@
 ||modernslaveryassessment.tools^
 ||modernslaverystatement.tools^
 ||moneda.tools^
+||msf.tools^
 ||mu9.tools^
 ||mundane.tools^
 ||musiccharts.tools^
@@ -240,6 +240,7 @@
 ||net88.tools^
 ||neural.tools^
 ||nex.tools^
+||nextgen.tools^
 ||nexy.tools^
 ||ng.tools^
 ||nodex.tools^
@@ -267,6 +268,7 @@
 ||passwordless.tools^
 ||paw.tools^
 ||pdne.tools^
+||peaceofmind.tools^
 ||pebble.tools^
 ||peche.tools^
 ||petrofracoil.tools^
@@ -304,6 +306,7 @@
 ||runn.tools^
 ||sajhasuchana.tools^
 ||salespilot.tools^
+||sana.tools^
 ||sasa.tools^
 ||scamorlegit.tools^
 ||scm.tools^
@@ -355,6 +358,7 @@
 ||telematicsplatform.tools^
 ||telugu.tools^
 ||thefam.tools^
+||thinking.tools^
 ||titaniumrock.tools^
 ||todays.tools^
 ||tomtom.tools^
@@ -369,12 +373,12 @@
 ||trainer.tools^
 ||transcript.tools^
 ||tronscan.tools^
-||trustno.tools^
 ||trustwallet.tools^
 ||tusi.tools^
 ||twr.tools^
 ||uk88.tools^
 ||unban.tools^
+||unchained.tools^
 ||undress.tools^
 ||unimedius.tools^
 ||unimount.tools^
@@ -396,6 +400,7 @@
 ||vinwin.tools^
 ||vio88win.tools^
 ||vortex.tools^
+||vu.tools^
 ||vulkan.tools^
 ||webp.tools^
 ||website-dev.tools^

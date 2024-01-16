@@ -14,7 +14,6 @@
 ||b52.properties^
 ||bats.properties^
 ||bayarea.properties^
-||beglobal.properties^
 ||benji.properties^
 ||bennelong.properties^
 ||bespokereal.properties^
@@ -32,6 +31,7 @@
 ||buzz.properties^
 ||cabin.properties^
 ||carr.properties^
+||carryall.properties^
 ||cash.properties^
 ||cdr.properties^
 ||century21.properties^
@@ -61,6 +61,7 @@
 ||fa88.properties^
 ||fabrielite.properties^
 ||fairfax.properties^
+||farewellhomes.properties^
 ||farming.properties^
 ||fcb8.properties^
 ||film.properties^
@@ -130,6 +131,7 @@
 ||mantra.properties^
 ||maritime.properties^
 ||mart.properties^
+||matrix.properties^
 ||mdl.properties^
 ||mea.properties^
 ||mendoza.properties^
@@ -161,14 +163,14 @@
 ||persevere.properties^
 ||ppa.properties^
 ||premiere.properties^
+||prescottrealestatemart.properties^
 ||primary.properties^
-||propertycentric.properties^
+||propertyfile.properties^
 ||purple.properties^
 ||red88.properties^
 ||redbrick.properties^
 ||rentscape.properties^
 ||righttobuy.properties^
-||rivieramaya.properties^
 ||robinson.properties^
 ||rosan.properties^
 ||rose.properties^
@@ -188,16 +190,13 @@
 ||showcase.properties^
 ||siam.properties^
 ||sigma.properties^
-||silko.properties^
 ||sin88.properties^
 ||sisu.properties^
-||slice.properties^
 ||smartinvest.properties^
 ||smithrealtypartners.properties^
 ||smw.properties^
 ||snowburgh.properties^
 ||southkorea.properties^
-||srgroup.properties^
 ||standrews.properties^
 ||store.properties^
 ||suite.properties^
@@ -212,6 +211,7 @@
 ||texascommercial.properties^
 ||theseare.properties^
 ||thind.properties^
+||tkelite.properties^
 ||tmg.properties^
 ||triple-e.properties^
 ||trl.properties^
@@ -220,10 +220,7 @@
 ||ustay.properties^
 ||vantage.properties^
 ||vchc.properties^
-||vernisage.properties^
-||vernissage.properties^
 ||viabellacasa.properties^
-||viciniti.properties^
 ||vida.properties^
 ||viral.properties^
 ||virginisland.properties^
@@ -239,6 +236,7 @@
 ||willow.properties^
 ||wilshire.properties^
 ||workspace.properties^
+||wrightwood.properties^
 ||xo88.properties^
 ||xoso66.properties^
 ||yaml2.properties^

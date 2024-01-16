@@ -9,12 +9,13 @@
 ||commerce.observer^
 ||cricket.observer^
 ||crw.observer^
-||dailycrypto.observer^
 ||debet.observer^
+||desci.observer^
 ||doha.observer^
 ||ecommerce.observer^
 ||fabet.observer^
 ||fcb8.observer^
+||flux.observer^
 ||fw.observer^
 ||gamebai88.observer^
 ||gamebaidoithuong.observer^
@@ -55,7 +56,6 @@
 ||piped.observer^
 ||pkg.observer^
 ||plugins.observer^
-||pranidhana.observer^
 ||presence.observer^
 ||present.observer^
 ||presents.observer^
@@ -65,6 +65,7 @@
 ||repo.observer^
 ||scrimstats.observer^
 ||selalupanen.observer^
+||shell.observer^
 ||shitshow.observer^
 ||superjitu.observer^
 ||text.observer^
