@@ -11,7 +11,6 @@
 ||aggregated.auction^
 ||aggregator.auction^
 ||alcohol.auction^
-||alpha.auction^
 ||ancient.auction^
 ||anft.auction^
 ||anjingapaya.auction^
@@ -79,6 +78,7 @@
 ||hqn.auction^
 ||immoral.auction^
 ||imperial.auction^
+||indian.auction^
 ||intranet.auction^
 ||inventories.auction^
 ||johnson.auction^
@@ -92,6 +92,7 @@
 ||macau.auction^
 ||mibet.auction^
 ||mik92938382.auction^
+||mississippi.auction^
 ||mmj.auction^
 ||mysterybox.auction^
 ||namer.auction^
@@ -128,8 +129,6 @@
 ||souvenir.auction^
 ||string.auction^
 ||t10.auction^
-||texcoms.auction^
-||textile.auction^
 ||thirdplaces.auction^
 ||tourmaline.auction^
 ||transparent.auction^

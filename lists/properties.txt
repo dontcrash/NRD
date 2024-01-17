@@ -6,11 +6,14 @@
 ||abroad.properties^
 ||aeternitas.properties^
 ||alive.properties^
+||allph.properties^
 ||amr.properties^
 ||animo.properties^
 ||aps.properties^
 ||archway.properties^
 ||armholdings.properties^
+||artificialintelligence.properties^
+||aster.properties^
 ||b52.properties^
 ||bats.properties^
 ||bayarea.properties^
@@ -28,7 +31,6 @@
 ||bry.properties^
 ||butler.properties^
 ||buy2sell.properties^
-||buzz.properties^
 ||cabin.properties^
 ||carr.properties^
 ||carryall.properties^
@@ -38,6 +40,7 @@
 ||ceres.properties^
 ||champagne.properties^
 ||cheng.properties^
+||chestnutgrove.properties^
 ||dal.properties^
 ||davidquinn.properties^
 ||defense.properties^
@@ -53,7 +56,6 @@
 ||echopark.properties^
 ||ee88.properties^
 ||emma.properties^
-||enhope.properties^
 ||eshop.properties^
 ||eth.properties^
 ||event.properties^
@@ -104,6 +106,7 @@
 ||hu.properties^
 ||hyderabad.properties^
 ||icent.properties^
+||il.properties^
 ||installment.properties^
 ||institute.properties^
 ||iris.properties^
@@ -115,11 +118,14 @@
 ||kevinc.properties^
 ||kingdomcapital.properties^
 ||kongsrental.properties^
+||kurdistan.properties^
 ||laguna.properties^
 ||landscaped.properties^
 ||landscapinglawnhomeinvestment.properties^
 ||larchmont.properties^
+||latifa.properties^
 ||leo88.properties^
+||lesaseibert.properties^
 ||limelight.properties^
 ||lode88.properties^
 ||lost.properties^
@@ -153,13 +159,13 @@
 ||one88.properties^
 ||onthewater.properties^
 ||optima.properties^
+||orchidgardens.properties^
 ||oxbet.properties^
 ||paco.properties^
 ||patriot.properties^
 ||payne.properties^
 ||peachmark.properties^
 ||penguin.properties^
-||perseverance.properties^
 ||persevere.properties^
 ||ppa.properties^
 ||premiere.properties^
@@ -182,6 +188,8 @@
 ||scott.properties^
 ||seaview.properties^
 ||seed.properties^
+||seibert.properties^
+||sellingcoastalvirginia.properties^
 ||senior.properties^
 ||seniorhousing.properties^
 ||seven.properties^
@@ -196,6 +204,7 @@
 ||smithrealtypartners.properties^
 ||smw.properties^
 ||snowburgh.properties^
+||sol8.properties^
 ||southkorea.properties^
 ||standrews.properties^
 ||store.properties^

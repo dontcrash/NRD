@@ -24,7 +24,7 @@
 ||dashboard-solend.claims^
 ||debet.claims^
 ||dental.claims^
-||etoro.claims^
+||dogwifhat.claims^
 ||extraordinary.claims^
 ||ezroof.claims^
 ||fa88.claims^
@@ -79,7 +79,6 @@
 ||pepeonsol.claims^
 ||phtm.claims^
 ||pnd0x.claims^
-||quickswap-exchange.claims^
 ||rewards-gmx.claims^
 ||rewards-velodrome.claims^
 ||rollbitrewards.claims^
@@ -92,7 +91,6 @@
 ||spam.claims^
 ||steth.claims^
 ||strk.claims^
-||synthetix-io.claims^
 ||t.claims^
 ||themask.claims^
 ||tmg.claims^

@@ -11,6 +11,7 @@
 ||crw.observer^
 ||debet.observer^
 ||desci.observer^
+||dmarc.observer^
 ||doha.observer^
 ||ecommerce.observer^
 ||fabet.observer^
@@ -51,11 +52,13 @@
 ||nexts24news.observer^
 ||nexts24vip.observer^
 ||nvuti.observer^
+||observing.observer^
 ||onlinestore.observer^
 ||ops.observer^
 ||piped.observer^
 ||pkg.observer^
 ||plugins.observer^
+||popoxuan.observer^
 ||presence.observer^
 ||present.observer^
 ||presents.observer^
@@ -69,7 +72,6 @@
 ||shitshow.observer^
 ||superjitu.observer^
 ||text.observer^
-||thewatchtower.observer^
 ||ticket.observer^
 ||tip.observer^
 ||ux-design-courses-br.observer^

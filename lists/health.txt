@@ -127,6 +127,7 @@
 ||directional.health^
 ||discerninggentlemen.health^
 ||docthera.health^
+||doctorcare.health^
 ||doctordesigned.health^
 ||dop.health^
 ||dopomoga.health^
@@ -151,7 +152,6 @@
 ||empoweredtherapy.health^
 ||eqology.health^
 ||essenceofhuman.health^
-||exuberance.health^
 ||faceyogi.health^
 ||fairsense.health^
 ||faktorydop.health^
@@ -182,7 +182,6 @@
 ||graf.health^
 ||granite.health^
 ||gulfstream.health^
-||gutcheck.health^
 ||h4.health^
 ||harrisarc.health^
 ||healthandfitness.health^
@@ -191,9 +190,11 @@
 ||helix3.health^
 ||helixrx.health^
 ||hey-nutri.health^
+||highlands.health^
 ||hilltopcottage.health^
 ||hipclub.health^
 ||hipr.health^
+||hologram.health^
 ||homegrown.health^
 ||hometown.health^
 ||htw.health^
@@ -209,13 +210,11 @@
 ||invincible.health^
 ||invision.health^
 ||ipt.health^
-||iregmed.health^
 ||ivermectin.health^
 ||jnpkl.health^
 ||joerg.health^
 ||joeun.health^
 ||justcarehub.health^
-||karal.health^
 ||kaygj.health^
 ||kfzom.health^
 ||koka.health^
@@ -226,6 +225,7 @@
 ||labvie.health^
 ||lakelandingondemand.health^
 ||leanin.health^
+||letschat.health^
 ||lfaie.health^
 ||liana.health^
 ||libertycare.health^
@@ -252,8 +252,6 @@
 ||medibeeper.health^
 ||medifil.health^
 ||mediquest.health^
-||medscout.health^
-||medspace.health^
 ||medsupply.health^
 ||membrane.health^
 ||membranes.health^
@@ -280,7 +278,6 @@
 ||nbet.health^
 ||neurofit.health^
 ||nfeul.health^
-||nichols.health^
 ||nima-life.health^
 ||nimalife.health^
 ||nota.health^
@@ -359,8 +356,8 @@
 ||saudebemestar.health^
 ||scan-med.health^
 ||schie.health^
-||seesaw.health^
 ||selfmap.health^
+||selfup.health^
 ||service-hub.health^
 ||seven.health^
 ||sgcc.health^
@@ -384,7 +381,6 @@
 ||stmartins.health^
 ||streamlined.health^
 ||striva.health^
-||studioai.health^
 ||sublette.health^
 ||superalignment.health^
 ||superbloom.health^
@@ -420,7 +416,6 @@
 ||vitalcare.health^
 ||vitalitycollective.health^
 ||vitalityhealthcare.health^
-||w66d.health^
 ||web-deepmeasures.health^
 ||welldiagnostics.health^
 ||welldiagnosticscawelldiagnostics.health^
