@@ -3,7 +3,6 @@
 ||abuse.report^
 ||account.report^
 ||adsync.report^
-||agingreport.report^
 ||angel.report^
 ||animal.report^
 ||app-location.report^
@@ -13,6 +12,7 @@
 ||atk.report^
 ||autism.report^
 ||autonews.report^
+||balady.report^
 ||bio.report^
 ||blablacar.report^
 ||blogic.report^
@@ -24,7 +24,6 @@
 ||bsc.report^
 ||bund.report^
 ||cc.report^
-||charitycoin.report^
 ||cherub.report^
 ||class.report^
 ||client.report^
@@ -42,10 +41,10 @@
 ||dabet.report^
 ||deepfakeporn.report^
 ||destinations.report^
-||devicefound.report^
 ||devices.report^
 ||digitalist.report^
 ||donation.report^
+||ecaeurope.report^
 ||enterprisearchitects.report^
 ||epc.report^
 ||erc.report^
@@ -65,7 +64,6 @@
 ||freedom.report^
 ||freevacation.report^
 ||furlongs.report^
-||gala.report^
 ||gem.report^
 ||getfile.report^
 ||good-money.report^
@@ -99,7 +97,6 @@
 ||megatree.report^
 ||mental.report^
 ||mindfulness.report^
-||mitlistarts2016.report^
 ||mkd.report^
 ||mm.report^
 ||mns.report^
@@ -143,7 +140,6 @@
 ||rockymountain.report^
 ||roof.report^
 ||sec.report^
-||secr.report^
 ||servicetech.report^
 ||sexoffender.report^
 ||shift.report^
@@ -175,6 +171,7 @@
 ||vital.report^
 ||waterfall.report^
 ||webaudit.report^
+||websites.report^
 ||win79.report^
 ||x22.report^
 ||xo88.report^

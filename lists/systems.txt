@@ -18,6 +18,7 @@
 ||allshookup.systems^
 ||alpine-data.systems^
 ||alt-nameserver.systems^
+||altmarkserver.systems^
 ||ambientphotonics.systems^
 ||angular.systems^
 ||any.systems^
@@ -70,8 +71,6 @@
 ||charlie.systems^
 ||checklist.systems^
 ||checkpoint.systems^
-||chesapeakegeo.systems^
-||cinc.systems^
 ||clearlywater.systems^
 ||clip.systems^
 ||clood.systems^
@@ -115,7 +114,6 @@
 ||digit.systems^
 ||digitalseating.systems^
 ||dirks-jaeger.systems^
-||dmk.systems^
 ||dobro.systems^
 ||dotcom.systems^
 ||downmass.systems^
@@ -157,7 +155,6 @@
 ||faulty.systems^
 ||fitnessmarketing.systems^
 ||floating.systems^
-||fluidadaptivescaling.systems^
 ||forexware.systems^
 ||forge.systems^
 ||forklift.systems^
@@ -169,12 +166,14 @@
 ||frontline.systems^
 ||fse.systems^
 ||fury.systems^
+||gabian.systems^
 ||gamersafer.systems^
 ||garnetknight.systems^
 ||gcc-uog.systems^
 ||gen.systems^
 ||generalmassive.systems^
 ||generativedesign.systems^
+||generator.systems^
 ||geospacial.systems^
 ||gfy.systems^
 ||goalday.systems^
@@ -233,6 +232,7 @@
 ||justreal.systems^
 ||kaufmann.systems^
 ||kiwi.systems^
+||kombine.systems^
 ||korea.systems^
 ||krazy.systems^
 ||krypto.systems^
@@ -303,6 +303,7 @@
 ||open-camera-phone.systems^
 ||opf.systems^
 ||optim.systems^
+||orth.systems^
 ||overkill.systems^
 ||owner.systems^
 ||padel.systems^
@@ -326,7 +327,6 @@
 ||protonmail.systems^
 ||psd.systems^
 ||pumpkin.systems^
-||pusatara.systems^
 ||qc.systems^
 ||qliphoth.systems^
 ||quali.systems^
@@ -358,7 +358,6 @@
 ||saturn.systems^
 ||savage.systems^
 ||schnell.systems^
-||seabet.systems^
 ||searchgo.systems^
 ||selfhealing.systems^
 ||serial.systems^
@@ -447,10 +446,8 @@
 ||whipflash.systems^
 ||white-label.systems^
 ||white.systems^
-||wholeearth.systems^
 ||wild.systems^
 ||wilt.systems^
-||wlms.systems^
 ||worldbusiness.systems^
 ||worldprofit.systems^
 ||wrkdev.systems^

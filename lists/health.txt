@@ -77,7 +77,6 @@
 ||biologix.health^
 ||biorgaket.health^
 ||biostep.health^
-||bkm.health^
 ||bong99.health^
 ||botanic.health^
 ||bozeman.health^
@@ -91,10 +90,10 @@
 ||cccc.health^
 ||cedars.health^
 ||certificate.health^
+||checklist.health^
 ||clea.health^
 ||cleia.health^
 ||clinicalassociates.health^
-||cmsaruba.health^
 ||collagendressing.health^
 ||collatek.health^
 ||collectivemind.health^
@@ -106,6 +105,7 @@
 ||continuum.health^
 ||convoy.health^
 ||corebond.health^
+||corum.health^
 ||cqndx.health^
 ||crosby.health^
 ||cukbt.health^
@@ -152,6 +152,7 @@
 ||empoweredtherapy.health^
 ||eqology.health^
 ||essenceofhuman.health^
+||evergreeninsight.health^
 ||faceyogi.health^
 ||fairsense.health^
 ||faktorydop.health^
@@ -197,7 +198,6 @@
 ||hologram.health^
 ||homegrown.health^
 ||hometown.health^
-||htw.health^
 ||hyden.health^
 ||id1242.health^
 ||id5223.health^
@@ -240,6 +240,7 @@
 ||luminacare.health^
 ||lution.health^
 ||lykos.health^
+||magnifai.health^
 ||manclub.health^
 ||materia.health^
 ||mayclub.health^
@@ -249,7 +250,6 @@
 ||med1.health^
 ||meddx.health^
 ||meddxtx.health^
-||medibeeper.health^
 ||medifil.health^
 ||mediquest.health^
 ||medsupply.health^
@@ -266,12 +266,13 @@
 ||mobilebrain.health^
 ||mock.health^
 ||molet.health^
+||moondaly.health^
 ||morfeo.health^
 ||multitude.health^
 ||mungerua.health^
 ||mycovidrecord.health^
+||mymenopause.health^
 ||mysolution.health^
-||mywellscreen.health^
 ||naked.health^
 ||naturae.health^
 ||naturoids.health^
@@ -284,7 +285,6 @@
 ||nrv.health^
 ||nuomo.health^
 ||nursenatalie.health^
-||nutrigenics.health^
 ||nuu.health^
 ||occhavn.health^
 ||odyssey.health^
@@ -318,6 +318,7 @@
 ||pressureulcers.health^
 ||prevail.health^
 ||primegenix.health^
+||primetel.health^
 ||profit.health^
 ||provide.health^
 ||prudent.health^
@@ -338,7 +339,6 @@
 ||rair.health^
 ||rdmeds.health^
 ||regalo.health^
-||regener.health^
 ||releeva.health^
 ||remd.health^
 ||renewal.health^
@@ -347,16 +347,15 @@
 ||renovaro.health^
 ||report.health^
 ||restorix.health^
+||retatrutide.health^
 ||revai.health^
 ||revup.health^
 ||rhaw.health^
-||rizz.health^
 ||rmt.health^
 ||safari.health^
 ||saudebemestar.health^
 ||scan-med.health^
 ||schie.health^
-||selfmap.health^
 ||selfup.health^
 ||service-hub.health^
 ||seven.health^
@@ -398,7 +397,7 @@
 ||tokenized.health^
 ||tongue.health^
 ||top88.health^
-||uci.health^
+||trayawoman.health^
 ||udeti.health^
 ||umbria.health^
 ||underbutler.health^
@@ -416,6 +415,8 @@
 ||vitalcare.health^
 ||vitalitycollective.health^
 ||vitalityhealthcare.health^
+||voicesofhealth.health^
+||vyledge.health^
 ||web-deepmeasures.health^
 ||welldiagnostics.health^
 ||welldiagnosticscawelldiagnostics.health^
@@ -428,9 +429,10 @@
 ||wyce.health^
 ||xaia.health^
 ||xrai.health^
+||ygt.health^
 ||ylmgd.health^
+||yougotthis.health^
 ||yourday.health^
-||yourstory.health^
 ||yourtransformation.health^
 ||ypucd.health^
 ||zowin.health^
