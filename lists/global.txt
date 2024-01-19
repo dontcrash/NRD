@@ -18,7 +18,6 @@
 ||aiagents.global^
 ||aieio.global^
 ||aifestival.global^
-||airmiles.global^
 ||airplaneglamping.global^
 ||aitc.global^
 ||ajourn.global^
@@ -26,8 +25,10 @@
 ||alcott.global^
 ||aldoria.global^
 ||alida.global^
+||altgoesmainstream.global^
 ||ambient.global^
 ||amilatransport.global^
+||amlbot.global^
 ||annunciator.global^
 ||anuyu.global^
 ||apostolicbamm.global^
@@ -60,6 +61,7 @@
 ||boat.global^
 ||bode.global^
 ||bongdalu.global^
+||bonna.global^
 ||bookinkb2b.global^
 ||brics.global^
 ||broadway.global^
@@ -72,6 +74,7 @@
 ||cannaceutical.global^
 ||cannsigliere.global^
 ||cantabil.global^
+||capitalacademy.global^
 ||cashout.global^
 ||catalyst365.global^
 ||celestia.global^
@@ -85,12 +88,12 @@
 ||clearspeed.global^
 ||clearwater.global^
 ||clmx.global^
-||codex.global^
 ||coincheck.global^
 ||coinlab.global^
 ||coldnorthcreations.global^
 ||computronium.global^
 ||concisenews.global^
+||consciouscollective.global^
 ||copperessence.global^
 ||core-fit.global^
 ||cosmomedica.global^
@@ -109,7 +112,6 @@
 ||cupp.global^
 ||customersuccess.global^
 ||cvsh.global^
-||cyberdome.global^
 ||cyrillweber.global^
 ||dain.global^
 ||daisey.global^
@@ -119,6 +121,7 @@
 ||debix-group.global^
 ||dhc.global^
 ||digimax.global^
+||digitalcomunication.global^
 ||dinamica.global^
 ||disasterpreparedness.global^
 ||discerninggentlemen.global^
@@ -127,6 +130,7 @@
 ||dune.global^
 ||dusha.global^
 ||e-id.global^
+||e-pharmacy.global^
 ||ebmtechnologies.global^
 ||eco-friendlytiles.global^
 ||ecofriendly-tiles.global^
@@ -148,7 +152,6 @@
 ||erka.global^
 ||espo-x.global^
 ||evatech.global^
-||everett.global^
 ||everus.global^
 ||everyoneaid.global^
 ||evp.global^
@@ -160,7 +163,6 @@
 ||exxodus.global^
 ||ezo.global^
 ||fabclabs.global^
-||faces.global^
 ||familyfirst.global^
 ||farkon.global^
 ||farm2.global^
@@ -170,13 +172,13 @@
 ||fey.global^
 ||fibre.global^
 ||financialregulationgroup.global^
+||firstspecialty.global^
 ||flybit.global^
 ||foil.global^
 ||footfree.global^
 ||forbes.global^
 ||foresthedge.global^
 ||formationdata.global^
-||formativeinnovation.global^
 ||formdata.global^
 ||forth.global^
 ||freelancer.global^
@@ -187,13 +189,10 @@
 ||freightfirm.global^
 ||frgroup.global^
 ||fronterapp.global^
-||ftmo.global^
 ||futad.global^
 ||futureai.global^
-||futurefoundation.global^
+||galaglow.global^
 ||gally.global^
-||gamebaidoithuong.global^
-||gamedoithuong.global^
 ||gemcollective.global^
 ||geosec.global^
 ||geospacial.global^
@@ -237,13 +236,12 @@
 ||ikma.global^
 ||illnessb-gone.global^
 ||imai.global^
-||immesh.global^
 ||influencetv.global^
 ||infoya.global^
 ||infy.global^
 ||innergy.global^
 ||innover.global^
-||insightgroup.global^
+||intellica.global^
 ||intertek.global^
 ||introspection.global^
 ||invent.global^
@@ -265,6 +263,7 @@
 ||kjob.global^
 ||landcare.global^
 ||languageaccess.global^
+||lao.global^
 ||lawpartners.global^
 ||lea.global^
 ||leahsteele.global^
@@ -285,7 +284,7 @@
 ||macau.global^
 ||maggieg.global^
 ||maited.global^
-||martello.global^
+||marlou.global^
 ||matriz.global^
 ||maverickgroup.global^
 ||mavi.global^
@@ -300,11 +299,13 @@
 ||miskiwillow.global^
 ||mobilebrain.global^
 ||monti.global^
+||mooi.global^
 ||moolah.global^
 ||motivate.global^
 ||mrcat.global^
 ||mtdc.global^
 ||mu9.global^
+||mullenauto.global^
 ||munim.global^
 ||mushroomz.global^
 ||mutian.global^
@@ -327,6 +328,7 @@
 ||noisely.global^
 ||nordicfinancialgroup.global^
 ||notcoin.global^
+||novuscapital.global^
 ||nudiejeans.global^
 ||nuko.global^
 ||nustar.global^
@@ -349,12 +351,12 @@
 ||papirfly.global^
 ||parkoven.global^
 ||partyradar.global^
+||patientcards.global^
 ||patria.global^
 ||pawsomepets.global^
 ||pawsomepetsdubai.global^
 ||pawsomepetsdxb.global^
 ||payhalal.global^
-||peacerise.global^
 ||pho.global^
 ||pigeon.global^
 ||piqpi.global^
@@ -378,7 +380,6 @@
 ||psyche.global^
 ||pyth.global^
 ||quality.global^
-||rais.global^
 ||rats.global^
 ||ravecave.global^
 ||reaver.global^
@@ -388,9 +389,6 @@
 ||reda.global^
 ||redindlovu.global^
 ||redndlovu.global^
-||regenerativepractices.global^
-||remedyearth.global^
-||repsa.global^
 ||republic.global^
 ||resurrection.global^
 ||retina.global^
@@ -399,6 +397,7 @@
 ||rhemaradiance.global^
 ||richplus.global^
 ||riverland.global^
+||rizz.global^
 ||rka.global^
 ||rmi.global^
 ||roboticsurgerytraining.global^
@@ -469,9 +468,7 @@
 ||travelmate.global^
 ||trendata.global^
 ||trevaga.global^
-||tripwynn.global^
 ||triviet.global^
-||tronminer.global^
 ||trustedhealth.global^
 ||truwheel.global^
 ||turnkeylife.global^
@@ -490,12 +487,10 @@
 ||vibeworldwide.global^
 ||videogaming.global^
 ||vinwin.global^
-||vnlf.global^
 ||vnxoso.global^
 ||voicesforpeace.global^
 ||voicesofpeace.global^
 ||volatility.global^
-||vold.global^
 ||vork.global^
 ||voyantique.global^
 ||vr-online.global^
@@ -534,4 +529,3 @@
 ||yo88.global^
 ||zbet.global^
 ||zellers.global^
-||zenholdings.global^

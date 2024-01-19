@@ -50,6 +50,7 @@
 ||cinna.money^
 ||claim-skip.money^
 ||claim.money^
+||clickon.money^
 ||cngn.money^
 ||cnh.money^
 ||coffeetable.money^
@@ -98,6 +99,7 @@
 ||evermore.money^
 ||exchanges.money^
 ||expiring.money^
+||explorer.money^
 ||ezy.money^
 ||fam.money^
 ||findgoldnearme.money^
@@ -113,7 +115,6 @@
 ||getmoney24.money^
 ||giau.money^
 ||giving.money^
-||glasshammer.money^
 ||goldenpay.money^
 ||gorock.money^
 ||gpay.money^
@@ -151,6 +152,7 @@
 ||karma.money^
 ||karmadao.money^
 ||kaza.money^
+||kellogg.money^
 ||kfc.money^
 ||kimchi.money^
 ||kokain.money^
@@ -178,11 +180,11 @@
 ||m98.money^
 ||made.money^
 ||magicinternetmoney.money^
+||mannie.money^
 ||mansplaining.money^
 ||matcha.money^
 ||matri.money^
 ||mattress.money^
-||mercadolibre8.money^
 ||mindbodymedia.money^
 ||missmanaged.money^
 ||mmosh.money^
@@ -235,9 +237,7 @@
 ||psmg.money^
 ||purchase.money^
 ||pusd.money^
-||quid.money^
 ||rabbitcha.money^
-||rais.money^
 ||realestateinvestor.money^
 ||realmoney.money^
 ||reavill.money^
@@ -249,7 +249,7 @@
 ||ross.money^
 ||rr-cs.money^
 ||rwd.money^
-||samolet.money^
+||s3.money^
 ||sasquatch.money^
 ||sbgfunding.money^
 ||securecheck.money^
@@ -277,7 +277,6 @@
 ||tg.money^
 ||thepsychologyof.money^
 ||thesmart.money^
-||thewhiterabbit.money^
 ||tipsy.money^
 ||tmoneys.money^
 ||tnt.money^
@@ -294,6 +293,7 @@
 ||uc.money^
 ||ufaname.money^
 ||uk88.money^
+||univ.money^
 ||usdd.money^
 ||usdf.money^
 ||usdg.money^
@@ -306,15 +306,12 @@
 ||veneno.money^
 ||vhs.money^
 ||vibe.money^
-||vin777.money^
 ||vipslot.money^
-||vn88.money^
 ||vox.money^
 ||wealthwise.money^
 ||werdier.money^
 ||wewire.money^
 ||whisp.money^
-||whiterabbit.money^
 ||win79.money^
 ||wingsmoney.money^
 ||wins.money^
@@ -328,10 +325,8 @@
 ||x2.money^
 ||x8.money^
 ||xylo.money^
-||yo88.money^
 ||yodl.money^
 ||yusd.money^
-||zbet.money^
 ||zddy.money^
 ||zexit.money^
 ||zowin.money^

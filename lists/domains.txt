@@ -7,6 +7,7 @@
 ||aem.domains^
 ||agent.domains^
 ||angel.domains^
+||atmarket.domains^
 ||bestalien.domains^
 ||bestbot.domains^
 ||bj.domains^
@@ -17,12 +18,15 @@
 ||cal.domains^
 ||cb.domains^
 ||cheaper.domains^
+||clalm-ens.domains^
 ||collective.domains^
 ||config-ens.domains^
+||core.domains^
 ||crd2.domains^
 ||d3shib.domains^
 ||dead.domains^
 ||devrel.domains^
+||diy.domains^
 ||doge5.domains^
 ||dollarclub.domains^
 ||ens-renewal.domains^
@@ -36,6 +40,7 @@
 ||get.domains^
 ||helsinki.domains^
 ||hipclub.domains^
+||honeybadger.domains^
 ||hostmedia.domains^
 ||hu.domains^
 ||imadethis.domains^
@@ -44,6 +49,7 @@
 ||ipfs-ens.domains^
 ||islandof.domains^
 ||kitty.domains^
+||ksa.domains^
 ||lb.domains^
 ||let.domains^
 ||list.domains^
@@ -55,7 +61,10 @@
 ||maulana.domains^
 ||melbourne.domains^
 ||milieu.domains^
+||mindful.domains^
+||mindfulness.domains^
 ||misspelled.domains^
+||monarch.domains^
 ||mrpc.domains^
 ||myportfolio.domains^
 ||namefi.domains^
@@ -64,11 +73,11 @@
 ||nano.domains^
 ||nbet.domains^
 ||newhotfresh.domains^
-||newlyregistered.domains^
 ||ng.domains^
 ||nhacaita88.domains^
 ||nhat.domains^
 ||nino.domains^
+||okx1.domains^
 ||omg138.domains^
 ||orchestration.domains^
 ||orchid.domains^
@@ -95,9 +104,9 @@
 ||sin88.domains^
 ||sinkhole.domains^
 ||sky88.domains^
+||sld.domains^
 ||solara.domains^
 ||solutions.domains^
-||ssh.domains^
 ||supply.domains^
 ||text.domains^
 ||toolkit.domains^
