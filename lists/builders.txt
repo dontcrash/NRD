@@ -19,6 +19,7 @@
 ||bootstrap.builders^
 ||boutique.builders^
 ||bright.builders^
+||british.builders^
 ||buildcapecod.builders^
 ||buy.builders^
 ||campervan.builders^
@@ -32,7 +33,6 @@
 ||dmc.builders^
 ||ecohome.builders^
 ||etf.builders^
-||ethsyn.builders^
 ||ethsync.builders^
 ||fabet.builders^
 ||fcb8.builders^
@@ -90,7 +90,6 @@
 ||stardew.builders^
 ||ta88.builders^
 ||taylor.builders^
-||utm.builders^
 ||vantage.builders^
 ||vic.builders^
 ||victoria.builders^

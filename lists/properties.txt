@@ -6,6 +6,7 @@
 ||aam.properties^
 ||alive.properties^
 ||allph.properties^
+||almailam.properties^
 ||amr.properties^
 ||animo.properties^
 ||aps.properties^
@@ -35,7 +36,6 @@
 ||carryall.properties^
 ||cdr.properties^
 ||century21.properties^
-||ceres.properties^
 ||champagne.properties^
 ||cheng.properties^
 ||chestnutgrove.properties^
@@ -60,6 +60,7 @@
 ||fa88.properties^
 ||fabrielite.properties^
 ||fairfax.properties^
+||fairgo.properties^
 ||farewellhomes.properties^
 ||farming.properties^
 ||fcb8.properties^
@@ -73,6 +74,7 @@
 ||franklin.properties^
 ||fresh.properties^
 ||gaia.properties^
+||getguides.properties^
 ||glenwood.properties^
 ||globuson.properties^
 ||goldengoose.properties^
@@ -86,7 +88,6 @@
 ||halcyon.properties^
 ||hale.properties^
 ||harris.properties^
-||hashimalsagoff.properties^
 ||haute.properties^
 ||heavenly.properties^
 ||helium.properties^
@@ -114,7 +115,6 @@
 ||kongsrental.properties^
 ||kurdistan.properties^
 ||laguna.properties^
-||landscaped.properties^
 ||landscapinglawnhomeinvestment.properties^
 ||larchmont.properties^
 ||latifa.properties^
@@ -156,6 +156,7 @@
 ||orchidgardens.properties^
 ||oxbet.properties^
 ||paco.properties^
+||parec.properties^
 ||patriot.properties^
 ||payne.properties^
 ||peachmark.properties^
@@ -172,7 +173,6 @@
 ||righttobuy.properties^
 ||robinson.properties^
 ||rose.properties^
-||roso.properties^
 ||ru.properties^
 ||sai.properties^
 ||sale.properties^
@@ -206,7 +206,6 @@
 ||tang.properties^
 ||tau.properties^
 ||teesside.properties^
-||tennis.properties^
 ||texascommercial.properties^
 ||theseare.properties^
 ||tkelite.properties^
@@ -226,7 +225,6 @@
 ||virtue.properties^
 ||vistavibes.properties^
 ||watchdog.properties^
-||weekend.properties^
 ||welara.properties^
 ||welcomehome.properties^
 ||westdale.properties^
