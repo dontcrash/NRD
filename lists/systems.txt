@@ -1,5 +1,6 @@
 ||103municipios.systems^
 ||123b.systems^
+||8080network.systems^
 ||aap.systems^
 ||abbafreight.systems^
 ||account.systems^
@@ -27,7 +28,6 @@
 ||antidrone.systems^
 ||any.systems^
 ||apartmentmanagement.systems^
-||aps.systems^
 ||aranea.systems^
 ||arc.systems^
 ||archi.systems^
@@ -60,7 +60,6 @@
 ||bitwarpers.systems^
 ||bizflows.systems^
 ||blox.systems^
-||blueai.systems^
 ||bluekinetic.systems^
 ||blueridgebiz.systems^
 ||bong99.systems^
@@ -71,6 +70,7 @@
 ||ccoo.systems^
 ||cctv.systems^
 ||ceiling.systems^
+||celadon.systems^
 ||cfm.systems^
 ||ch.systems^
 ||charlie.systems^
@@ -79,8 +79,6 @@
 ||clearlywater.systems^
 ||clip.systems^
 ||clood.systems^
-||cm-computer.systems^
-||cmcomputer.systems^
 ||cobra.systems^
 ||codeless.systems^
 ||coldnumber.systems^
@@ -141,13 +139,14 @@
 ||elevate.systems^
 ||elitesoftwareautomation.systems^
 ||elogic.systems^
+||emaildesign.systems^
+||emotionalprocessing.systems^
 ||energo.systems^
 ||epos.systems^
 ||equinox.systems^
 ||er.systems^
 ||esofa.systems^
 ||eth-security.systems^
-||evacuationalert.systems^
 ||everstake.systems^
 ||everyonesocial.systems^
 ||eweb.systems^
@@ -159,7 +158,6 @@
 ||fa88.systems^
 ||factorydata.systems^
 ||fastpay.systems^
-||faulty.systems^
 ||fitnessmarketing.systems^
 ||floating.systems^
 ||forexware.systems^
@@ -193,7 +191,9 @@
 ||hamakuaenergy.systems^
 ||hawk.systems^
 ||hbar.systems^
+||heimer.systems^
 ||helo.systems^
+||hexagonal.systems^
 ||heyjohnny.systems^
 ||high.systems^
 ||hipclub.systems^
@@ -211,7 +211,6 @@
 ||ifnor.systems^
 ||ika.systems^
 ||imhere.systems^
-||immersif.systems^
 ||imun.systems^
 ||indahonline.systems^
 ||influxeo.systems^
@@ -223,8 +222,11 @@
 ||intec.systems^
 ||interplanetary.systems^
 ||intrusion.systems^
+||invest.systems^
 ||invitae.systems^
 ||ips.systems^
+||irix.systems^
+||isarsoft.systems^
 ||ivao.systems^
 ||jae.systems^
 ||jordy.systems^
@@ -306,17 +308,15 @@
 ||omnicare.systems^
 ||omnilang.systems^
 ||one88.systems^
-||open-camera-phone.systems^
-||opf.systems^
 ||optim.systems^
 ||orth.systems^
-||overkill.systems^
 ||owner.systems^
 ||padel.systems^
 ||paid.systems^
 ||pangu.systems^
 ||passion.systems^
 ||pattrn.systems^
+||paulista.systems^
 ||payment-gateway.systems^
 ||pdf.systems^
 ||pdi.systems^
@@ -325,7 +325,6 @@
 ||ph2.systems^
 ||pkt.systems^
 ||places.systems^
-||pod.systems^
 ||powermax.systems^
 ||primac.systems^
 ||primemeridian.systems^
@@ -355,6 +354,7 @@
 ||replicant.systems^
 ||reso.systems^
 ||resolute.systems^
+||restance.systems^
 ||restarthosting.systems^
 ||reticulate.systems^
 ||rikvip.systems^
@@ -426,6 +426,7 @@
 ||truelogian.systems^
 ||truelogiant.systems^
 ||trupos.systems^
+||tsf.systems^
 ||ubc.systems^
 ||ubx.systems^
 ||ulysses.systems^
@@ -435,6 +436,7 @@
 ||uno.systems^
 ||unplug.systems^
 ||user-experience.systems^
+||utter.systems^
 ||valet.systems^
 ||vanquish.systems^
 ||vantosh.systems^
@@ -447,6 +449,7 @@
 ||vitus.systems^
 ||voltarium.systems^
 ||vortex.systems^
+||w2systems.systems^
 ||warehousing.systems^
 ||watcher.systems^
 ||watchit.systems^
@@ -458,15 +461,12 @@
 ||white.systems^
 ||wild.systems^
 ||wilt.systems^
-||worldbusiness.systems^
-||worldprofit.systems^
 ||wrkdev.systems^
 ||wrkprod.systems^
 ||wrkqa.systems^
 ||wrkstag.systems^
 ||wsrwwtf.systems^
 ||wyckoff.systems^
-||xewdy.systems^
 ||xo88.systems^
 ||xti.systems^
 ||y8y.systems^

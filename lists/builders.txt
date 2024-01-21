@@ -33,7 +33,7 @@
 ||dmc.builders^
 ||ecohome.builders^
 ||etf.builders^
-||ethsync.builders^
+||ethicology.builders^
 ||fabet.builders^
 ||fcb8.builders^
 ||firstchoice.builders^
@@ -47,6 +47,8 @@
 ||homeshortage.builders^
 ||inhomeserve.builders^
 ||integral.builders^
+||intent.builders^
+||intents.builders^
 ||josko.builders^
 ||just.builders^
 ||kingzmen.builders^
@@ -73,6 +75,7 @@
 ||paramount.builders^
 ||paulhaley.builders^
 ||personalbrand.builders^
+||portside.builders^
 ||practice.builders^
 ||q.builders^
 ||randr.builders^
@@ -90,6 +93,7 @@
 ||stardew.builders^
 ||ta88.builders^
 ||taylor.builders^
+||uncommon.builders^
 ||vantage.builders^
 ||vic.builders^
 ||victoria.builders^

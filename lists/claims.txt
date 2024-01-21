@@ -24,7 +24,7 @@
 ||debet.claims^
 ||dental.claims^
 ||dogwifhat.claims^
-||extraordinary.claims^
+||etherfi.claims^
 ||ezroof.claims^
 ||fa88.claims^
 ||fcb8.claims^
@@ -78,7 +78,6 @@
 ||phtm.claims^
 ||pnd0x.claims^
 ||rewards-gmx.claims^
-||rewards-velodrome.claims^
 ||rollbitrewards.claims^
 ||roofproinspections.claims^
 ||sin88.claims^
@@ -89,7 +88,6 @@
 ||steth.claims^
 ||t.claims^
 ||themask.claims^
-||tmg.claims^
 ||troll.claims^
 ||uk88.claims^
 ||unclaimedproperty.claims^

@@ -32,7 +32,6 @@
 ||bry.properties^
 ||butler.properties^
 ||cabin.properties^
-||carr.properties^
 ||carryall.properties^
 ||cdr.properties^
 ||century21.properties^
@@ -141,7 +140,6 @@
 ||minerva.properties^
 ||miral.properties^
 ||movetomckinney.properties^
-||myneighborhood.properties^
 ||myrental.properties^
 ||nation.properties^
 ||nearme.properties^
@@ -157,6 +155,7 @@
 ||oxbet.properties^
 ||paco.properties^
 ||parec.properties^
+||passwire.properties^
 ||patriot.properties^
 ||payne.properties^
 ||peachmark.properties^
@@ -174,6 +173,7 @@
 ||robinson.properties^
 ||rose.properties^
 ||ru.properties^
+||rw.properties^
 ||sai.properties^
 ||sale.properties^
 ||salon.properties^
@@ -198,7 +198,6 @@
 ||sol8.properties^
 ||southkorea.properties^
 ||standrews.properties^
-||store.properties^
 ||suite.properties^
 ||sullivans.properties^
 ||sunny.properties^

@@ -1,7 +1,9 @@
 ||accommodation.broker^
 ||affiliatemarketing.broker^
 ||all.broker^
+||arabicspeaking.broker^
 ||artist.broker^
+||atvshipping.broker^
 ||aurel.broker^
 ||avalanche.broker^
 ||avto.broker^
@@ -48,8 +50,9 @@
 ||immo.broker^
 ||iwin.broker^
 ||iwinclub.broker^
+||jetski.broker^
+||jetskishipping.broker^
 ||keymaker.broker^
-||loanlocation.broker^
 ||lode88.broker^
 ||logic.broker^
 ||lottery.broker^
@@ -85,6 +88,7 @@
 ||signals.broker^
 ||smm.broker^
 ||soc88.broker^
+||spanishspeaking.broker^
 ||starlink.broker^
 ||stay.broker^
 ||stockexchange.broker^
@@ -93,10 +97,9 @@
 ||studio.broker^
 ||subnet.broker^
 ||ta88.broker^
+||tagalogspeaking.broker^
 ||tea.broker^
 ||tenminitz.broker^
-||tony.broker^
-||tonywalsh.broker^
 ||tradestation.broker^
 ||use.broker^
 ||v8.broker^

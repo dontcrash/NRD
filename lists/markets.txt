@@ -26,7 +26,6 @@
 ||cool.markets^
 ||corporate.markets^
 ||cpt.markets^
-||cybord.markets^
 ||defense.markets^
 ||deso.markets^
 ||dex.markets^
@@ -38,6 +37,7 @@
 ||election.markets^
 ||fake.markets^
 ||finery.markets^
+||fluent.markets^
 ||forever.markets^
 ||fragrance.markets^
 ||frok.markets^
@@ -96,7 +96,6 @@
 ||posh.markets^
 ||ppc.markets^
 ||reach.markets^
-||rebound.markets^
 ||redtube.markets^
 ||remedy.markets^
 ||revoke.markets^
@@ -115,7 +114,6 @@
 ||social.markets^
 ||stocky.markets^
 ||ta88.markets^
-||tarot.markets^
 ||tele.markets^
 ||tensor.markets^
 ||teslastocks.markets^
@@ -126,9 +124,9 @@
 ||uniquegadget.markets^
 ||v8.markets^
 ||venu.markets^
+||venue.markets^
 ||vin.markets^
 ||website.markets^
-||wow.markets^
 ||xenon.markets^
 ||yo88.markets^
 ||zbet.markets^
