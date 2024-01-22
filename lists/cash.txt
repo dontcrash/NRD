@@ -18,6 +18,7 @@
 ||1325.cash^
 ||1326.cash^
 ||1345.cash^
+||1349.cash^
 ||1355.cash^
 ||1365.cash^
 ||1372.cash^
@@ -96,6 +97,7 @@
 ||21173.cash^
 ||2134.cash^
 ||2136.cash^
+||2137.cash^
 ||2138.cash^
 ||2148.cash^
 ||2157.cash^
@@ -334,7 +336,6 @@
 ||4596.cash^
 ||4598.cash^
 ||4632.cash^
-||465.cash^
 ||4658.cash^
 ||4659.cash^
 ||4672.cash^
@@ -391,6 +392,7 @@
 ||5231.cash^
 ||5234.cash^
 ||5249.cash^
+||5261.cash^
 ||5267.cash^
 ||5269.cash^
 ||5271.cash^
@@ -535,6 +537,7 @@
 ||6583.cash^
 ||6593.cash^
 ||6597.cash^
+||6637.cash^
 ||6691.cash^
 ||6702.cash^
 ||6713.cash^
@@ -580,8 +583,8 @@
 ||7184.cash^
 ||7185.cash^
 ||7214.cash^
-||7216.cash^
 ||7234.cash^
+||7236.cash^
 ||7241.cash^
 ||7256.cash^
 ||7261.cash^
@@ -685,7 +688,6 @@
 ||8291.cash^
 ||8296.cash^
 ||8312.cash^
-||8327.cash^
 ||8345.cash^
 ||8349.cash^
 ||8371.cash^
@@ -718,7 +720,6 @@
 ||8615.cash^
 ||8621.cash^
 ||8624.cash^
-||8627.cash^
 ||86372.cash^
 ||8652.cash^
 ||86534.cash^
@@ -836,6 +837,7 @@
 ||9817.cash^
 ||9826.cash^
 ||9827.cash^
+||9831.cash^
 ||9832.cash^
 ||9836.cash^
 ||9846.cash^
@@ -851,16 +853,18 @@
 ||ae888.cash^
 ||after.cash^
 ||ai.cash^
+||aibank.cash^
 ||aionline.cash^
 ||aiswap.cash^
 ||akinator.cash^
 ||algobot.cash^
 ||alloy.cash^
 ||alphafund.cash^
+||amagold.cash^
 ||amber.cash^
-||ample.cash^
 ||analos.cash^
 ||anycoin.cash^
+||ape.cash^
 ||aquire.cash^
 ||arcane.cash^
 ||artificialintelligence.cash^
@@ -901,7 +905,6 @@
 ||coin999.cash^
 ||coinchanger.cash^
 ||coins4.cash^
-||coinsurfer.cash^
 ||cooper.cash^
 ||creditninja.cash^
 ||cryptogems.cash^
@@ -932,6 +935,7 @@
 ||et779.cash^
 ||et881.cash^
 ||et900.cash^
+||ethereumbacked.cash^
 ||etron.cash^
 ||fab.cash^
 ||fabtwentyfive.cash^
@@ -955,7 +959,6 @@
 ||hellomoney.cash^
 ||hooked.cash^
 ||hungry.cash^
-||i465.cash^
 ||ibuyin.cash^
 ||icent.cash^
 ||ignite.cash^
@@ -993,7 +996,6 @@
 ||loongonsol.cash^
 ||lumo.cash^
 ||magick.cash^
-||makingitrain.cash^
 ||mamubaji.cash^
 ||mannie.cash^
 ||manta.cash^
@@ -1001,6 +1003,7 @@
 ||melon.cash^
 ||mercbenztokencurrency.cash^
 ||merkle.cash^
+||metaplay.cash^
 ||mindful.cash^
 ||moneypot.cash^
 ||mtb.cash^
@@ -1015,7 +1018,6 @@
 ||numbers.cash^
 ||o.cash^
 ||openlibra.cash^
-||ordinalswap.cash^
 ||ore.cash^
 ||oya.cash^
 ||paperhands.cash^
@@ -1063,18 +1065,18 @@
 ||signup.cash^
 ||silvermoney.cash^
 ||skinport.cash^
-||skipprotocol.cash^
 ||skratchpay.cash^
 ||socket-revoke.cash^
+||sockets-revoke.cash^
 ||solanacoin.cash^
 ||solnado.cash^
 ||stablecoin.cash^
-||stablenote.cash^
 ||stock.cash^
 ||stripclub.cash^
 ||strong.cash^
 ||subwaycash.cash^
 ||subwaypix.cash^
+||supa.cash^
 ||superpesa.cash^
 ||swap-revoke.cash^
 ||synapp.cash^
@@ -1094,7 +1096,6 @@
 ||triton.cash^
 ||true.cash^
 ||trunft.cash^
-||ufacashes.cash^
 ||ufaname.cash^
 ||ugo.cash^
 ||unclaimedproperty.cash^
@@ -1115,8 +1116,6 @@
 ||worksforme.cash^
 ||wormgpt.cash^
 ||xeur.cash^
-||ydpay.cash^
-||yea.cash^
 ||yep.cash^
 ||yip.cash^
 ||yoy.cash^

@@ -12,13 +12,13 @@
 ||book.domains^
 ||brandready.domains^
 ||breakout.domains^
-||btns.domains^
 ||cal.domains^
 ||cb.domains^
 ||cheaper.domains^
 ||cheesy.domains^
 ||cheezy.domains^
 ||clalm-ens.domains^
+||clicks.domains^
 ||collective.domains^
 ||config-ens.domains^
 ||contoh.domains^
@@ -31,6 +31,7 @@
 ||diy.domains^
 ||doge5.domains^
 ||dollarclub.domains^
+||domaining.domains^
 ||ens-renewal.domains^
 ||eweb.domains^
 ||fa88.domains^
@@ -45,12 +46,14 @@
 ||honeybadger.domains^
 ||hostmedia.domains^
 ||hu.domains^
+||hyphen.domains^
 ||imadethis.domains^
 ||infinit-dns.domains^
 ||inter.domains^
 ||ipfs-ens.domains^
 ||islandof.domains^
 ||kitty.domains^
+||kosa.domains^
 ||ksa.domains^
 ||lb.domains^
 ||let.domains^
@@ -84,7 +87,6 @@
 ||plant.domains^
 ||pol.domains^
 ||powns.domains^
-||property.domains^
 ||pursevalley.domains^
 ||quirk.domains^
 ||raffle.domains^
@@ -97,12 +99,10 @@
 ||sci.domains^
 ||scoop.domains^
 ||scott.domains^
-||sellbuy.domains^
 ||seotools.domains^
 ||shake.domains^
 ||si.domains^
 ||sin88.domains^
-||sinkhole.domains^
 ||sky88.domains^
 ||sld.domains^
 ||solara.domains^
@@ -123,6 +123,7 @@
 ||vn.domains^
 ||web-3.domains^
 ||web3best.domains^
+||web3hub.domains^
 ||webseiten.domains^
 ||xo88.domains^
 ||zkf.domains^

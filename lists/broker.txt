@@ -40,7 +40,6 @@
 ||gallery.broker^
 ||gemwin.broker^
 ||gfi.broker^
-||grok.broker^
 ||gscheitversichert.broker^
 ||handshake.broker^
 ||hardmoney.broker^
@@ -53,10 +52,12 @@
 ||jetski.broker^
 ||jetskishipping.broker^
 ||keymaker.broker^
+||kosa.broker^
 ||lode88.broker^
 ||logic.broker^
 ||lottery.broker^
 ||lucky88.broker^
+||luna.broker^
 ||macau.broker^
 ||maga.broker^
 ||man.broker^
@@ -66,6 +67,7 @@
 ||mid.broker^
 ||milk.broker^
 ||museum.broker^
+||namefi.broker^
 ||net88.broker^
 ||nvuti.broker^
 ||oanda.broker^

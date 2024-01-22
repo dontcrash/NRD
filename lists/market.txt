@@ -45,7 +45,6 @@
 ||amysfood.market^
 ||ancient.market^
 ||antikvar.market^
-||arbs.market^
 ||artist.market^
 ||assetdata.market^
 ||atelier.market^
@@ -62,7 +61,6 @@
 ||ballardfarmers.market^
 ||bedroomessentials.market^
 ||beesure.market^
-||bells.market^
 ||ber.market^
 ||beststore.market^
 ||bgl.market^
@@ -84,7 +82,6 @@
 ||cabyra.market^
 ||cann.market^
 ||carshipping.market^
-||catalyst.market^
 ||catfish.market^
 ||cbrc20.market^
 ||cc0.market^
@@ -94,6 +91,7 @@
 ||cheat.market^
 ||chikun.market^
 ||cleaning.market^
+||co-axis.market^
 ||cobura.market^
 ||cobyra.market^
 ||coinb.market^
@@ -104,7 +102,6 @@
 ||crit.market^
 ||crumbs.market^
 ||cryptomoney.market^
-||ctx.market^
 ||daybuy.market^
 ||deyx.market^
 ||digitalpro.market^
@@ -114,7 +111,6 @@
 ||drc420.market^
 ||droplo.market^
 ||dzen.market^
-||e-sim.market^
 ||ecasino.market^
 ||eden.market^
 ||elamnet.market^
@@ -146,14 +142,15 @@
 ||goodnotes.market^
 ||gptpepe.market^
 ||grass-clean.market^
+||gromo.market^
 ||gtin.market^
 ||hackers.market^
 ||hackerverse.market^
 ||handle.market^
 ||hansa.market^
-||hawoow.market^
 ||horse24.market^
 ||hours.market^
+||hrono.market^
 ||hype.market^
 ||hyperflex.market^
 ||icent.market^
@@ -179,6 +176,7 @@
 ||lf.market^
 ||licensed.market^
 ||lis.market^
+||livebid.market^
 ||lnr-stroy.market^
 ||lrw.market^
 ||lux.market^
@@ -192,6 +190,7 @@
 ||may88.market^
 ||mayclub.market^
 ||meatfix.market^
+||medrx.market^
 ||merch.market^
 ||metamorph.market^
 ||metaversefi.market^
@@ -200,6 +199,7 @@
 ||mol.market^
 ||moonlight.market^
 ||morningstar.market^
+||mositosinsoulard.market^
 ||mozg.market^
 ||muni.market^
 ||namefi.market^
@@ -238,6 +238,7 @@
 ||qmarkett.market^
 ||raffle.market^
 ||rara.market^
+||reefs.market^
 ||remilia.market^
 ||retour.market^
 ||rgp.market^
@@ -246,15 +247,17 @@
 ||rmt.market^
 ||roblox.market^
 ||rochesterrealestate.market^
-||rtx.market^
 ||rusagro.market^
 ||russcom.market^
 ||sagehome.market^
 ||sahibinden.market^
 ||samba.market^
+||saudiarabian.market^
+||scaut.market^
 ||scottys.market^
 ||seeu.market^
 ||semo.market^
+||senior.market^
 ||sharptransfoods.market^
 ||shein.market^
 ||shirinasal.market^
@@ -269,7 +272,6 @@
 ||spajz.market^
 ||stadio.market^
 ||starlink.market^
-||stg.market^
 ||stocky.market^
 ||stonehengefarm.market^
 ||stotinka.market^
@@ -299,12 +301,10 @@
 ||uapro.market^
 ||ufabet.market^
 ||ukiyo.market^
-||unidex.market^
 ||upc.market^
 ||urozhay.market^
 ||uvlitoptical.market^
 ||vesta.market^
-||whales.market^
 ||wildwild.market^
 ||wins.market^
 ||xml.market^
@@ -323,5 +323,4 @@
 ||zagranka.market^
 ||zbet.market^
 ||zenku.market^
-||zov.market^
 ||zowin.market^

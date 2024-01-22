@@ -98,7 +98,6 @@
 ||e-rub.exchange^
 ||earnex.exchange^
 ||ee88.exchange^
-||eidoo.exchange^
 ||equestrian.exchange^
 ||europa.exchange^
 ||everybit.exchange^
@@ -125,22 +124,20 @@
 ||hbl.exchange^
 ||hit.exchange^
 ||hitclub.exchange^
-||hopprotocol.exchange^
 ||hosted.exchange^
 ||hot.exchange^
 ||hra.exchange^
 ||humanelingo.exchange^
 ||ibx.exchange^
 ||ins.exchange^
+||insiders.exchange^
 ||iwinclub.exchange^
 ||ix.exchange^
 ||jump.exchange^
 ||jup-ag.exchange^
 ||jupiter-swap.exchange^
 ||jupiterstation.exchange^
-||kage.exchange^
 ||kamaogandhi.exchange^
-||kaze.exchange^
 ||keycap.exchange^
 ||kingdomcoin.exchange^
 ||koinos.exchange^
@@ -152,6 +149,7 @@
 ||leo88.exchange^
 ||libra.exchange^
 ||limon.exchange^
+||livebid.exchange^
 ||ln.exchange^
 ||lub.exchange^
 ||lucky88.exchange^
@@ -167,7 +165,6 @@
 ||mbuni.exchange^
 ||mediumofexchange.exchange^
 ||mercure.exchange^
-||metalsafe.exchange^
 ||metro.exchange^
 ||mibet.exchange^
 ||milkyway.exchange^
@@ -200,9 +197,6 @@
 ||ordizk.exchange^
 ||otegotextile.exchange^
 ||p2pshield.exchange^
-||panegolin.exchange^
-||pangeolin.exchange^
-||pangolien.exchange^
 ||parity.exchange^
 ||partshound.exchange^
 ||patent.exchange^
@@ -210,8 +204,10 @@
 ||paywallet.exchange^
 ||peech.exchange^
 ||phantom.exchange^
+||platinum-ex.exchange^
 ||popupparty.exchange^
 ||powerpay.exchange^
+||priestessai.exchange^
 ||qipay.exchange^
 ||quantummetal.exchange^
 ||quetta.exchange^
@@ -249,6 +245,8 @@
 ||spinner.exchange^
 ||spirit.exchange^
 ||spotbitcoin.exchange^
+||sprite.exchange^
+||srisai.exchange^
 ||stake-multibit.exchange^
 ||stamps.exchange^
 ||stocky.exchange^
@@ -270,6 +268,7 @@
 ||twd.exchange^
 ||ubuntu.exchange^
 ||udc.exchange^
+||unishield.exchange^
 ||ustay.exchange^
 ||v3x.exchange^
 ||venue.exchange^
@@ -279,7 +278,6 @@
 ||walletsupport.exchange^
 ||wanjia.exchange^
 ||warrior.exchange^
-||whitefox.exchange^
 ||worldcurrency.exchange^
 ||wormhole.exchange^
 ||wwwdelta.exchange^

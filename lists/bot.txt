@@ -43,6 +43,7 @@
 ||babelfish.bot^
 ||backsage.bot^
 ||bankofscotland.bot^
+||bannertech.bot^
 ||basicai.bot^
 ||bestfx.bot^
 ||betbig.bot^
@@ -87,6 +88,7 @@
 ||ciso.bot^
 ||claims.bot^
 ||clickhive.bot^
+||climatejobs.bot^
 ||cnc.bot^
 ||coby.bot^
 ||codegen.bot^
@@ -134,7 +136,6 @@
 ||dixio.bot^
 ||dizzy.bot^
 ||dotcom.bot^
-||dotes.bot^
 ||dragunova.bot^
 ||drgn.bot^
 ||dynadot.bot^
@@ -145,11 +146,12 @@
 ||eleven.bot^
 ||elk.bot^
 ||embroidery.bot^
+||emiratesauction.bot^
 ||encryption.bot^
 ||entity.bot^
 ||envision.bot^
+||epi.bot^
 ||escalate.bot^
-||escort.bot^
 ||eth.bot^
 ||ethe.bot^
 ||ethetf.bot^
@@ -172,7 +174,6 @@
 ||frok.bot^
 ||futurescope.bot^
 ||g.bot^
-||gaius.bot^
 ||galaxybrain.bot^
 ||gamification.bot^
 ||gdpr.bot^
@@ -193,9 +194,9 @@
 ||healthywealthywise.bot^
 ||hellohuman.bot^
 ||hellohumanai.bot^
-||helpcenter.bot^
 ||hofer.bot^
 ||homeoutletdirect.bot^
+||hpn.bot^
 ||humanoid.bot^
 ||hyped.bot^
 ||icd.bot^
@@ -206,6 +207,7 @@
 ||insidertrading.bot^
 ||inspection.bot^
 ||integer.bot^
+||intentai.bot^
 ||intra.bot^
 ||ipanel.bot^
 ||iqmarkets.bot^
@@ -227,10 +229,12 @@
 ||knock.bot^
 ||knowitall.bot^
 ||knowly.bot^
+||kosa.bot^
 ||kucoin.bot^
 ||kuji.bot^
 ||lakers.bot^
 ||lame.bot^
+||larsen.bot^
 ||lastwill.bot^
 ||learntotrade.bot^
 ||legalassistant.bot^
@@ -239,7 +243,6 @@
 ||lepton.bot^
 ||levarage.bot^
 ||lexco.bot^
-||liao6.bot^
 ||liberation.bot^
 ||lido.bot^
 ||lightspeed.bot^
@@ -258,12 +261,12 @@
 ||martin.bot^
 ||maru.bot^
 ||materia.bot^
-||maverick.bot^
 ||maxheadroom.bot^
 ||mbna.bot^
 ||medspa.bot^
 ||megasoft.bot^
 ||men-tora.bot^
+||meshed.bot^
 ||metagpt.bot^
 ||metaview.bot^
 ||metime.bot^
@@ -285,6 +288,7 @@
 ||mybets.bot^
 ||nag.bot^
 ||namegenerator.bot^
+||nan0.bot^
 ||nanoro.bot^
 ||nomo.bot^
 ||notifier.bot^
@@ -323,7 +327,6 @@
 ||pyusd.bot^
 ||qubits.bot^
 ||quickfix.bot^
-||quicksilver.bot^
 ||rakhoitv.bot^
 ||rational.bot^
 ||realm.bot^
@@ -391,9 +394,9 @@
 ||teragol.bot^
 ||textback.bot^
 ||thapcamtv.bot^
-||thedollar.bot^
 ||them.bot^
 ||thewhiterabbit.bot^
+||thinkspace.bot^
 ||tion.bot^
 ||tixmon.bot^
 ||toonme.bot^
@@ -426,7 +429,6 @@
 ||vigoron.bot^
 ||virtualblue.bot^
 ||visionai.bot^
-||vorsorge.bot^
 ||walk.bot^
 ||walker.bot^
 ||walletwatcher.bot^
@@ -444,8 +446,8 @@
 ||whitehat.bot^
 ||wiki.bot^
 ||wildfire.bot^
-||wolfscan.bot^
 ||worker.bot^
+||worldai.bot^
 ||xcoin.bot^
 ||xmpp.bot^
 ||xpilot.bot^

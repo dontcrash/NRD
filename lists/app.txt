@@ -28,6 +28,7 @@
 ||0ptima.app^
 ||0qwrm.app^
 ||0xlsd.app^
+||0xswap.app^
 ||0xwash.app^
 ||10-5.app^
 ||10069.app^
@@ -108,6 +109,7 @@
 ||1712.app^
 ||17243.app^
 ||17352.app^
+||1770.app^
 ||18510.app^
 ||188s.app^
 ||18cdh.app^
@@ -140,6 +142,7 @@
 ||1pick.app^
 ||1search.app^
 ||1site.app^
+||1stbrain.app^
 ||1tab.app^
 ||1to100.app^
 ||200v.app^
@@ -187,6 +190,7 @@
 ||27651.app^
 ||27720.app^
 ||27941.app^
+||27k.app^
 ||289138.app^
 ||29014.app^
 ||29322.app^
@@ -198,7 +202,6 @@
 ||2loqit.app^
 ||2nis.app^
 ||2system.app^
-||30min.app^
 ||323888.app^
 ||32579.app^
 ||32591.app^
@@ -370,6 +373,7 @@
 ||49m.app^
 ||4clkk.app^
 ||4corners.app^
+||4dnum.app^
 ||4tv.app^
 ||4x.app^
 ||4x4kiss.app^
@@ -392,7 +396,6 @@
 ||555985.app^
 ||555987.app^
 ||56208.app^
-||566199.app^
 ||57783.app^
 ||57800.app^
 ||58777.app^
@@ -1030,6 +1033,7 @@
 ||82687.app^
 ||827088.app^
 ||827288.app^
+||82746.app^
 ||827898.app^
 ||82898.app^
 ||82902.app^
@@ -1109,6 +1113,8 @@
 ||85135.app^
 ||851385.app^
 ||851538.app^
+||852005.app^
+||852008.app^
 ||85230.app^
 ||852398.app^
 ||85248.app^
@@ -1196,7 +1202,6 @@
 ||871842.app^
 ||87188.app^
 ||871918.app^
-||8720.app^
 ||872038.app^
 ||87256.app^
 ||872808.app^
@@ -1217,14 +1222,12 @@
 ||874680.app^
 ||874708.app^
 ||874868.app^
-||8750.app^
 ||875087.app^
 ||875318.app^
 ||875858.app^
 ||87598.app^
 ||876386.app^
 ||876408.app^
-||8770.app^
 ||87728.app^
 ||877558.app^
 ||877589.app^
@@ -1240,7 +1243,6 @@
 ||87855.app^
 ||87858.app^
 ||87898.app^
-||8790.app^
 ||879028.app^
 ||879238.app^
 ||879698.app^
@@ -1358,7 +1360,6 @@
 ||888988.app^
 ||888kaiyun.app^
 ||88978.app^
-||88ds.app^
 ||88gaming.app^
 ||88lottomember.app^
 ||88sports.app^
@@ -1537,7 +1538,6 @@
 ||aave-survey.app^
 ||aave-web3.app^
 ||aaxxii.app^
-||abbabet.app^
 ||abbachurch.app^
 ||abc888.app^
 ||abcphonics.app^
@@ -1565,7 +1565,6 @@
 ||acegpts.app^
 ||acessolivre.app^
 ||acg4d.app^
-||achadinho.app^
 ||achiblocks.app^
 ||achllysmail.app^
 ||achq.app^
@@ -1576,12 +1575,15 @@
 ||actionfeedback.app^
 ||activeair.app^
 ||activestride.app^
+||activetasks.app^
 ||activic.app^
+||activnote.app^
+||activnotes.app^
+||activtask.app^
 ||acuer.app^
 ||adakami-id.app^
 ||adaptivestrategy.app^
 ||addictionless.app^
-||addo.app^
 ||adighgzk184.app^
 ||adigi.app^
 ||adminhelponline.app^
@@ -1590,9 +1592,7 @@
 ||adoptme.app^
 ||adsbing.app^
 ||adscrypto.app^
-||advancedsobriety.app^
 ||advancedtech.app^
-||advancement.app^
 ||advantageautodirect.app^
 ||advera.app^
 ||advisr.app^
@@ -1606,7 +1606,6 @@
 ||affinityai.app^
 ||afpbanreservasnv.app^
 ||afrek.app^
-||africaluxclub.app^
 ||africanrenaissancefoundation.app^
 ||africareadingclub.app^
 ||afrikard.app^
@@ -1623,9 +1622,9 @@
 ||agendo.app^
 ||agent333.app^
 ||agentsai.app^
-||aggpt.app^
 ||agiagent.app^
 ||agiagents.app^
+||agil.app^
 ||agniya.app^
 ||agoraclub.app^
 ||agrimarket.app^
@@ -1651,6 +1650,7 @@
 ||aiadvisors.app^
 ||aiadz.app^
 ||aiarta.app^
+||aiauth.app^
 ||aibusinesssolutions.app^
 ||aichan.app^
 ||aichatpro.app^
@@ -1664,11 +1664,11 @@
 ||aidiverse.app^
 ||aidou.app^
 ||aidude.app^
-||aiexpert.app^
 ||aigenerate.app^
 ||aihealthsystem.app^
 ||aihuo.app^
 ||aiino.app^
+||aiiot.app^
 ||aiir.app^
 ||ailearning.app^
 ||ailens.app^
@@ -1678,6 +1678,7 @@
 ||aionesecurity.app^
 ||aipedia.app^
 ||aipersonaltrainer.app^
+||aipextech.app^
 ||aiprotrade.app^
 ||aiproxy.app^
 ||air-zkfair.app^
@@ -1693,7 +1694,6 @@
 ||airscooter.app^
 ||airsure.app^
 ||aisai.app^
-||aiscan.app^
 ||aishopper.app^
 ||aishopping.app^
 ||aisle-one.app^
@@ -1822,7 +1822,6 @@
 ||allcaps.app^
 ||alldownloader.app^
 ||allivia.app^
-||allocation-injective.app^
 ||allriginals.app^
 ||allskate.app^
 ||allwall.app^
@@ -1845,8 +1844,8 @@
 ||altcoinalert.app^
 ||alternative-sailing.app^
 ||altlayer.app^
+||altofinances.app^
 ||altruistry.app^
-||alvalope.app^
 ||alvetia.app^
 ||alyana.app^
 ||alzamel.app^
@@ -1865,7 +1864,6 @@
 ||americanasofertas.app^
 ||amg8.app^
 ||amigoapp.app^
-||amiki.app^
 ||ammarksix.app^
 ||amo777.app^
 ||amonra.app^
@@ -1885,6 +1883,7 @@
 ||anchorhold.app^
 ||ancienthealingcodes.app^
 ||ancilla.app^
+||andre.app^
 ||andref.app^
 ||andrewhuberman.app^
 ||androidapp.app^
@@ -1894,6 +1893,7 @@
 ||angelbusinessinc.app^
 ||angelcredit.app^
 ||angelusgallery.app^
+||angrymoney.app^
 ||anichin.app^
 ||anila.app^
 ||anilive.app^
@@ -1904,7 +1904,6 @@
 ||anjstory.app^
 ||anna66.app^
 ||annafi.app^
-||anngon.app^
 ||annotap.app^
 ||annum.app^
 ||annuus.app^
@@ -1983,9 +1982,8 @@
 ||apinamavaaa.app^
 ||apiofpii.app^
 ||apixxpay.app^
-||aplicativoexclusivo.app^
+||apkmods.app^
 ||aplotto.app^
-||aplselo1973.app^
 ||apmbox.app^
 ||apollobot.app^
 ||appbookr.app^
@@ -1994,7 +1992,6 @@
 ||applicazione.app^
 ||appliedhealth.app^
 ||applinked.app^
-||applitude.app^
 ||appolxpay.app^
 ||apprised.app^
 ||approvalitis.app^
@@ -2016,7 +2013,6 @@
 ||arbitrumm.app^
 ||arbitrumname.app^
 ||arbitrumnames.app^
-||arbtrade.app^
 ||arcacer.app^
 ||arcanet.app^
 ||arcee.app^
@@ -2025,7 +2021,6 @@
 ||archeryx.app^
 ||architest.app^
 ||archmail.app^
-||arclab.app^
 ||arctramrkydnz.app^
 ||ardw-swa-g.app^
 ||arira.app^
@@ -2037,14 +2032,13 @@
 ||arknet.app^
 ||arkquire.app^
 ||arlive.app^
-||armoury.app^
 ||arquipelago.app^
 ||arrebol.app^
 ||arrendify.app^
 ||arshia.app^
 ||art-blocks.app^
 ||artc.app^
-||arteycultura.app^
+||artex.app^
 ||articlegenerator.app^
 ||articul8.app^
 ||artificialethic.app^
@@ -2054,6 +2048,7 @@
 ||artiverse.app^
 ||artwhiskify.app^
 ||asapp.app^
+||ascendhere.app^
 ||ascupa.app^
 ||ashag.app^
 ||ashertech.app^
@@ -2096,7 +2091,6 @@
 ||atomicdesktop.app^
 ||atorie.app^
 ||atse.app^
-||attendright.app^
 ||attorneyfeed.app^
 ||attribe.app^
 ||aty1.app^
@@ -2254,7 +2248,6 @@
 ||authstack.app^
 ||auto-chase2fa.app^
 ||autoblow.app^
-||autodealerportal.app^
 ||autodidactica.app^
 ||autofun.app^
 ||autojourney.app^
@@ -2267,13 +2260,12 @@
 ||avaluanch.app^
 ||avantgarden.app^
 ||avasarala.app^
-||avax-deployer.app^
+||avattia.app^
 ||avcrypto.app^
 ||avocabot.app^
 ||avocadao.app^
 ||aweby.app^
 ||awqbtyub0178.app^
-||awsexplorer.app^
 ||axcelauto.app^
 ||axelvision.app^
 ||axethrowingx.app^
@@ -2283,6 +2275,7 @@
 ||ayodhyarammandir.app^
 ||azad.app^
 ||azadi.app^
+||azaman.app^
 ||azathleticgrounds.app^
 ||azuki.app^
 ||b-smart.app^
@@ -2302,7 +2295,6 @@
 ||bagui.app^
 ||bahnfinder.app^
 ||bahnstark.app^
-||baitulmal.app^
 ||baji88.app^
 ||bajilive999.app^
 ||bakirkhata.app^
@@ -2312,7 +2304,7 @@
 ||balibuddy.app^
 ||ballito.app^
 ||bandie.app^
-||baoba.app^
+||bannertech.app^
 ||baozimanhua.app^
 ||barblitz.app^
 ||barcelonago.app^
@@ -2323,7 +2315,6 @@
 ||barn-genius-staging.app^
 ||barrelaged.app^
 ||bartual.app^
-||basedomains.app^
 ||basenameservice.app^
 ||baskonia.app^
 ||bati-training.app^
@@ -2378,7 +2369,6 @@
 ||befri.app^
 ||behindtheplate.app^
 ||behonest.app^
-||beingchurch.app^
 ||belbaqy.app^
 ||belcast.app^
 ||belezavirtual.app^
@@ -2392,10 +2382,9 @@
 ||benotify.app^
 ||bense.app^
 ||beo69.app^
+||beproductable.app^
 ||berari.app^
 ||beren.app^
-||bersama.app^
-||bestbuyrewards.app^
 ||bestclimbingshoes.app^
 ||bestcompany.app^
 ||bestfyplay.app^
@@ -2422,6 +2411,7 @@
 ||betprops.app^
 ||betrodds.app^
 ||betrout.app^
+||betsi.app^
 ||betstreet.app^
 ||better4u.app^
 ||betterinperson.app^
@@ -2431,7 +2421,7 @@
 ||betw.app^
 ||betwork.app^
 ||betyek1.app^
-||beyond-health.app^
+||bevers.app^
 ||beyondbeautyclub.app^
 ||bf49.app^
 ||bfhtiszo119.app^
@@ -2454,6 +2444,7 @@
 ||bigchi.app^
 ||bigcityhippies.app^
 ||bigdogdata.app^
+||biggpt.app^
 ||bigl.app^
 ||biglietto.app^
 ||bigplay.app^
@@ -2513,11 +2504,9 @@
 ||bitesize.app^
 ||bitf.app^
 ||bitfast.app^
-||bitflux.app^
 ||bithive.app^
 ||bithome.app^
 ||bitiplux.app^
-||bitlife.app^
 ||bitlinks.app^
 ||bitluck.app^
 ||bitmaps.app^
@@ -2553,7 +2542,6 @@
 ||blancdigital.app^
 ||blbawycslygp6686.app^
 ||bldg.app^
-||bleuet.app^
 ||blinksy.app^
 ||blipcut.app^
 ||blipgrid.app^
@@ -2593,6 +2581,7 @@
 ||bmind.app^
 ||bmltsearch.app^
 ||bn2bu.app^
+||bnascmaskcmasck.app^
 ||bnbpetsnfts.app^
 ||bnbspin.app^
 ||bnbtime.app^
@@ -2607,6 +2596,7 @@
 ||bolaemas88apk.app^
 ||bolai.app^
 ||bolaibet.app^
+||bolebet.app^
 ||bolink.app^
 ||bolna.app^
 ||bombuz.app^
@@ -2630,7 +2620,6 @@
 ||bookmyroom.app^
 ||bookoffusainventory.app^
 ||bookollector.app^
-||bookswipe.app^
 ||booktoaction.app^
 ||bookwyrms.app^
 ||boom360.app^
@@ -2638,7 +2627,6 @@
 ||boozelessbar.app^
 ||borj.app^
 ||borneo168.app^
-||borso.app^
 ||borusancat.app^
 ||bosid.app^
 ||bosma.app^
@@ -2653,9 +2641,11 @@
 ||bouldering.app^
 ||boundlesscanvas.app^
 ||bowandarrow.app^
-||box4lio.app^
 ||boxingscores.app^
 ||boxpix.app^
+||boying111.app^
+||boying699.app^
+||boying988.app^
 ||bozocoin.app^
 ||bozodrop.app^
 ||bp77.app^
@@ -2666,11 +2656,9 @@
 ||brado.app^
 ||braegen.app^
 ||brain-builder.app^
-||brainenergy.app^
 ||brainspace.app^
 ||brakesandoil.app^
 ||bramework.app^
-||brand-kit.app^
 ||brandbuild.app^
 ||brandefi.app^
 ||brandspark.app^
@@ -2692,6 +2680,7 @@
 ||brevus.app^
 ||brick1100.app^
 ||bridge-mantanetwork.app^
+||bridge-optics.app^
 ||bridge-pulsechain.app^
 ||bridgegroup.app^
 ||bridgeportal.app^
@@ -2701,9 +2690,9 @@
 ||brilliantideas.app^
 ||brkify.app^
 ||broadcastbuddy.app^
+||broga.app^
 ||brolly.app^
 ||brotorrent.app^
-||bruffin.app^
 ||bruski.app^
 ||bryxo.app^
 ||bsnx.app^
@@ -2729,11 +2718,11 @@
 ||buenos.app^
 ||buentrip.app^
 ||buenviaje.app^
+||buffbunny.app^
 ||buffdudes.app^
 ||buggz.app^
 ||buhb.app^
 ||buildandmeasure.app^
-||buildingcompliance.app^
 ||buildsatx.app^
 ||buildyourownbrowser.app^
 ||bujtore.app^
@@ -2786,7 +2775,6 @@
 ||bzj.app^
 ||bzzzt.app^
 ||c92024.app^
-||cadabra.app^
 ||cadobia.app^
 ||cafe444.app^
 ||cafeelbotanico.app^
@@ -2803,6 +2791,7 @@
 ||calidadcine.app^
 ||califlow.app^
 ||caliup.app^
+||callegari.app^
 ||callm.app^
 ||callofbeauty.app^
 ||callpoint.app^
@@ -2822,7 +2811,6 @@
 ||cancuntours.app^
 ||candlesfragranceanddesign.app^
 ||candt.app^
-||caneta.app^
 ||cannacoffee.app^
 ||cannaland.app^
 ||cannanetwork.app^
@@ -2833,7 +2821,6 @@
 ||capagora.app^
 ||capbot.app^
 ||capcutdownload.app^
-||capetonian.app^
 ||capisci.app^
 ||capitall.app^
 ||capitalx.app^
@@ -2859,7 +2846,6 @@
 ||cartarespiro.app^
 ||cartes.app^
 ||casaforte.app^
-||casanostra.app^
 ||cascadiadn.app^
 ||cashbet.app^
 ||cashchamp.app^
@@ -2882,6 +2868,7 @@
 ||cattale.app^
 ||cbks.app^
 ||cboe.app^
+||cccm.app^
 ||ccqepnjb158.app^
 ||cctp.app^
 ||ccyscn.app^
@@ -2920,10 +2907,13 @@
 ||chair-bear.app^
 ||challengeyourself.app^
 ||chandriagroup.app^
+||chaneljogo.app^
 ||changeful.app^
 ||chanyou.app^
 ||characteris.app^
 ||charadesgame.app^
+||chargebeacon.app^
+||charitabl.app^
 ||charlies.app^
 ||charmilon.app^
 ||chartpaper.app^
@@ -2943,7 +2933,7 @@
 ||chatloop.app^
 ||chatman.app^
 ||chatpins.app^
-||chatplanner.app^
+||chatplace.app^
 ||chatscore.app^
 ||chatserve.app^
 ||chattrbox.app^
@@ -2967,7 +2957,6 @@
 ||chillchinese.app^
 ||chipsi.app^
 ||chirpan.app^
-||chivowallet.app^
 ||chleb.app^
 ||chockd20.app^
 ||chokdee20.app^
@@ -3022,13 +3011,10 @@
 ||clearite.app^
 ||clearspend.app^
 ||clearteam.app^
-||clearvision.app^
 ||cleary.app^
-||cleenr.app^
 ||clevercue.app^
 ||cleverlist.app^
 ||cleversign.app^
-||clickboy.app^
 ||clickmoney.app^
 ||clienty.app^
 ||climat.app^
@@ -3068,7 +3054,6 @@
 ||cloud-domains-cep-serverless-cancellation-fee-8565952.app^
 ||cloud2all.app^
 ||cloud999web.app^
-||cloudbot.app^
 ||cloudbusiness.app^
 ||cloudcookbook.app^
 ||cloudisk.app^
@@ -3076,14 +3061,17 @@
 ||cloudpathology.app^
 ||cloudpress.app^
 ||cloudright.app^
+||cloudsea.app^
 ||cloudshort.app^
 ||cloudtable.app^
 ||clowli.app^
 ||clown.app^
 ||clsq.app^
+||cltxs1.app^
 ||club21.app^
 ||club33.app^
 ||club77.app^
+||clubticketing.app^
 ||clubverde.app^
 ||clump.app^
 ||cmegroup.app^
@@ -3091,6 +3079,7 @@
 ||cmtv2.app^
 ||cnbgf.app^
 ||cnst.app^
+||cnvmakcsmackasm.app^
 ||cnygpkcatwpt6686.app^
 ||co-ba.app^
 ||co-trader.app^
@@ -3121,6 +3110,7 @@
 ||cogwheel.app^
 ||coinblux.app^
 ||coinchase.app^
+||coinfundr.app^
 ||coingeek.app^
 ||coinify.app^
 ||coinpro.app^
@@ -3184,8 +3174,6 @@
 ||connectall.app^
 ||connectedpregnancy.app^
 ||connectidiomas.app^
-||connectingpeople.app^
-||connectright.app^
 ||consedge.app^
 ||consentstamp.app^
 ||constructready.app^
@@ -3195,7 +3183,6 @@
 ||contactpilot.app^
 ||contar.app^
 ||contasapagar.app^
-||contec.app^
 ||contiguous.app^
 ||contractgenerator.app^
 ||conus.app^
@@ -3219,11 +3206,9 @@
 ||corgito.app^
 ||corp10.app^
 ||correos-es.app^
-||cosmaker.app^
 ||cosmetici.app^
 ||cosmicrepository.app^
 ||cosri.app^
-||count-finance.app^
 ||countrytoken.app^
 ||coupleconcierge.app^
 ||courtier.app^
@@ -3320,7 +3305,6 @@
 ||ctt-pagamentos.app^
 ||ctutor.app^
 ||cuaa.app^
-||cuidademim.app^
 ||cuit.app^
 ||culturecours.app^
 ||cuonghuyen.app^
@@ -3355,7 +3339,6 @@
 ||cycla.app^
 ||cypresslabs.app^
 ||cytstrdo0139.app^
-||czajo.app^
 ||czctkskp149.app^
 ||czyzygy.app^
 ||czz.app^
@@ -3364,12 +3347,12 @@
 ||da7.app^
 ||dabazaar.app^
 ||dabong.app^
+||dad-mobile.app^
 ||daduva.app^
 ||daero.app^
 ||dafanfan.app^
 ||daiki.app^
 ||dailyalignment.app^
-||dailydisc.app^
 ||dailydrivenexotics.app^
 ||dailyfantasy.app^
 ||dailyflow.app^
@@ -3381,7 +3364,6 @@
 ||dailyroutines.app^
 ||dailywear.app^
 ||daise.app^
-||daisyproject.app^
 ||daited.app^
 ||daki.app^
 ||dalih.app^
@@ -3394,6 +3376,7 @@
 ||dander.app^
 ||danger.app^
 ||dankdash.app^
+||dankest.app^
 ||danmu.app^
 ||danuvia.app^
 ||danzai.app^
@@ -3410,6 +3393,8 @@
 ||dashbored.app^
 ||dashclicker.app^
 ||dastavard.app^
+||databeliever.app^
+||databelievers.app^
 ||databiz.app^
 ||datadrift.app^
 ||datainsight.app^
@@ -3444,6 +3429,7 @@
 ||dcmotors.app^
 ||dcodr.app^
 ||dcusmcgl0187.app^
+||dd-mobile.app^
 ||dd1111.app^
 ||dd555.app^
 ||ddodo.app^
@@ -3476,7 +3462,6 @@
 ||decolonized.app^
 ||decorai.app^
 ||deepbrain.app^
-||deepfacer.app^
 ||deeplife.app^
 ||deepspatial.app^
 ||defiintel.app^
@@ -3484,8 +3469,9 @@
 ||delivery-sms.app^
 ||deltadb.app^
 ||deltahub.app^
-||dentalwar.app^
+||demoai.app^
 ||dentoflow.app^
+||denzhorn.app^
 ||departmentalize.app^
 ||depinking.app^
 ||depintech.app^
@@ -3495,6 +3481,7 @@
 ||desiccant.app^
 ||designerai.app^
 ||deskhoppa.app^
+||desktopwallpaper.app^
 ||desoc.app^
 ||detached.app^
 ||detectiontek.app^
@@ -3505,13 +3492,11 @@
 ||devforum.app^
 ||devgear.app^
 ||devsjpnl106.app^
-||devtree-local.app^
 ||dewa.app^
 ||dexmap.app^
 ||dexterminal.app^
 ||dextool.app^
 ||dexxml.app^
-||dexycon.app^
 ||df100.app^
 ||df190.app^
 ||dfjt20.app^
@@ -3528,6 +3513,7 @@
 ||dibujar.app^
 ||dictsa.app^
 ||didyouknow.app^
+||dien.app^
 ||dietguard.app^
 ||dietree.app^
 ||diewolke.app^
@@ -3546,7 +3532,6 @@
 ||digitalin.app^
 ||digitalisimo.app^
 ||digitalmarketer.app^
-||digitalmentor.app^
 ||digitalopen.app^
 ||digitalscs.app^
 ||digitalstrawboss.app^
@@ -3574,7 +3559,6 @@
 ||discusswithai.app^
 ||dishdash.app^
 ||diskify.app^
-||dispay.app^
 ||dispersion.app^
 ||displane.app^
 ||distech.app^
@@ -3582,10 +3566,8 @@
 ||ditss.app^
 ||divashair.app^
 ||diverr.app^
-||diversityfactory.app^
 ||diyphysicaltherapy.app^
 ||diyrealty.app^
-||dizee.app^
 ||dizpo.app^
 ||djdl.app^
 ||djembe.app^
@@ -3598,6 +3580,7 @@
 ||dnacapital.app^
 ||dname.app^
 ||dndarts.app^
+||dndm.app^
 ||dnsbl.app^
 ||doacvglpvkyy6686.app^
 ||dobar.app^
@@ -3608,7 +3591,6 @@
 ||docnest.app^
 ||docpal.app^
 ||docportal.app^
-||docright.app^
 ||doctoranonymous.app^
 ||doctoryar.app^
 ||documentaries.app^
@@ -3633,14 +3615,12 @@
 ||dollarbudget.app^
 ||domai.app^
 ||domain-name.app^
-||domestik.app^
 ||domine.app^
 ||domoal.app^
 ||donationworks.app^
 ||donera.app^
 ||dongqiu1919.app^
 ||donkonsol.app^
-||donornet.app^
 ||donou.app^
 ||donthecape.app^
 ||doodly.app^
@@ -3679,7 +3659,6 @@
 ||doxa-sport.app^
 ||doxbin.app^
 ||doxxed.app^
-||dozari.app^
 ||dpeter.app^
 ||dppt.app^
 ||dpsprotocol.app^
@@ -3696,12 +3675,10 @@
 ||draped.app^
 ||drby.app^
 ||drc420.app^
-||dreamcometure.app^
 ||dreamengine.app^
 ||dreamflare.app^
 ||dreammosaic.app^
 ||dreampaths.app^
-||dreamscometure.app^
 ||drews.app^
 ||drifthero.app^
 ||drify.app^
@@ -3711,12 +3688,10 @@
 ||drivenproperties.app^
 ||driverlink.app^
 ||drivers4events.app^
-||drivingschool.app^
 ||drivstoff.app^
 ||drivva.app^
 ||droni.app^
 ||dropandgo.app^
-||dropbee.app^
 ||dropy.app^
 ||drowyourtours.app^
 ||drsinus.app^
@@ -3724,9 +3699,11 @@
 ||drugfighter.app^
 ||dshs.app^
 ||dsmf.app^
+||dstruct.app^
 ||dsyl2000.app^
 ||dtsone.app^
 ||dtunes.app^
+||dual.app^
 ||dub-ai.app^
 ||dubai7.app^
 ||dubai900.app^
@@ -3740,12 +3717,12 @@
 ||dunet.app^
 ||dunnk.app^
 ||duoby.app^
-||duolexis.app^
 ||duomondo.app^
 ||duoyo.app^
 ||dupunt.app^
 ||dusa.app^
 ||dutyai.app^
+||duventus.app^
 ||dvault.app^
 ||dviemwgsxjuh6686.app^
 ||dw6.app^
@@ -3757,9 +3734,9 @@
 ||dycast.app^
 ||dydy.app^
 ||dykj.app^
-||dylc.app^
 ||dymension.app^
 ||dynamiccanvas.app^
+||dynamicsdge.app^
 ||dynopremium.app^
 ||dynoverify.app^
 ||dyrt.app^
@@ -3822,6 +3799,7 @@
 ||e2e-test-v1-everything-1705077142.app^
 ||e2e-test-v1-everything-1705251870.app^
 ||e2e-test-v1-everything-1705513779.app^
+||e2e-test-v1-everything-1705601939.app^
 ||e2e-test-v1alpha2-everything-1702983675.app^
 ||e2e-test-v1alpha2-everything-1703158074.app^
 ||e2e-test-v1alpha2-everything-1703333654.app^
@@ -3839,7 +3817,6 @@
 ||e2e-test-v1alpha2-everything-1705251869.app^
 ||e2e-test-v1alpha2-everything-1705339156.app^
 ||e2e-test-v1alpha2-everything-1705513777.app^
-||e2e-test-v1beta1-everything-1702895879.app^
 ||e2e-test-v1beta1-everything-1702983676.app^
 ||e2e-test-v1beta1-everything-1703070422.app^
 ||e2e-test-v1beta1-everything-1703245743.app^
@@ -3869,12 +3846,10 @@
 ||easy-qrcode.app^
 ||easy-resume.app^
 ||easyb.app^
-||easycalories.app^
 ||easydigipay.app^
 ||easyecom.app^
 ||easyfitness.app^
 ||easyfreight.app^
-||easyhomehealtyrecipes.app^
 ||easyk8scloud.app^
 ||easymath.app^
 ||easymenu.app^
@@ -3884,7 +3859,6 @@
 ||easytask.app^
 ||easytextbook.app^
 ||easytranscribe.app^
-||easyweight.app^
 ||eatiq.app^
 ||eatthegarden.app^
 ||eattheyard.app^
@@ -3940,6 +3914,7 @@
 ||eliteonly.app^
 ||ellavate.app^
 ||ellicenciado.app^
+||ellumination.app^
 ||elofy.app^
 ||elondragon.app^
 ||email-squadia.app^
@@ -3965,7 +3940,6 @@
 ||employeejourneysuite.app^
 ||employeeretention.app^
 ||empoweryou.app^
-||empowre.app^
 ||empresa-verificacion.app^
 ||emprestimo.app^
 ||emptech.app^
@@ -3979,6 +3953,7 @@
 ||encryptedhuman.app^
 ||endings.app^
 ||endpointtvercel.app^
+||energy-idea.app^
 ||enfej.app^
 ||enforcer.app^
 ||enfys.app^
@@ -3990,7 +3965,6 @@
 ||enlightenai.app^
 ||enmlife.app^
 ||enmovimiento.app^
-||enotech.app^
 ||enter-it.app^
 ||enterit.app^
 ||enterprisegrc.app^
@@ -4023,6 +3997,7 @@
 ||epochnote.app^
 ||eppy.app^
 ||eptura.app^
+||epubkit.app^
 ||eqlabs.app^
 ||equantify.app^
 ||ergonai.app^
@@ -4042,20 +4017,19 @@
 ||esgms.app^
 ||esimly.app^
 ||esit.app^
-||esolutions.app^
 ||espiritualguide.app^
 ||esportesno.app^
 ||essco.app^
 ||esxcj.app^
 ||etchdroid.app^
 ||etfxrp.app^
+||ethereumfoundation.app^
 ||etlab.app^
 ||etmanager.app^
 ||etparking.app^
 ||etpspot.app^
 ||etradingvol.app^
 ||etxt.app^
-||eu-taxonomy.app^
 ||eudaimoni.app^
 ||eugenia.app^
 ||euhfbhkuabfbwejhfbhuwbfwebkeu1.app^
@@ -4100,7 +4074,6 @@
 ||everycard.app^
 ||everydaysa.app^
 ||everytip.app^
-||evitation.app^
 ||evms.app^
 ||evntpass.app^
 ||evo158.app^
@@ -4113,19 +4086,20 @@
 ||ewww.app^
 ||exambuzz.app^
 ||excitement.app^
+||exitscam.app^
 ||exitstrategy.app^
 ||exo-shell.app^
 ||exodus-connect.app^
 ||expatify.app^
 ||expatrack.app^
-||expocall.app^
+||expert-envoy.app^
 ||extended.app^
 ||extrasafe.app^
 ||eyed.app^
 ||eyestar.app^
 ||eyrhtwni142.app^
+||ezap.app^
 ||ezbet.app^
-||ezcasino168.app^
 ||ezday.app^
 ||ezform.app^
 ||ezforms.app^
@@ -4138,7 +4112,10 @@
 ||f7wsg.app^
 ||f8d.app^
 ||fabfeb.app^
-||fablo.app^
+||fabled-solutionz.app^
+||fabledsolution.app^
+||fabledsolutions.app^
+||fabledsolutionz.app^
 ||fabuli.app^
 ||facecall.app^
 ||facelog.app^
@@ -4212,15 +4189,14 @@
 ||figdoc.app^
 ||fightlife.app^
 ||fiig.app^
-||filazeez.app^
 ||filegaroo.app^
 ||filein.app^
 ||filesvendor.app^
 ||filewiki.app^
 ||filma24.app^
 ||filmize.app^
-||finacle.app^
 ||financial-perspective.app^
+||financialplanninganalyst.app^
 ||financierasanbenito.app^
 ||financio.app^
 ||finanzcockpit.app^
@@ -4231,7 +4207,6 @@
 ||findadog.app^
 ||findagift.app^
 ||finderx.app^
-||finditsowner.app^
 ||findmy-verify.app^
 ||findmydate.app^
 ||findreal.app^
@@ -4247,9 +4222,11 @@
 ||firmakonto.app^
 ||firmmindset.app^
 ||first-pass.app^
+||firstlink.app^
 ||firstoff.app^
 ||fisc.app^
 ||fit-connect.app^
+||fit4lyfe.app^
 ||fitandfiscal.app^
 ||fitbooster.app^
 ||fitbrutal.app^
@@ -4279,6 +4256,7 @@
 ||flatdekho.app^
 ||flatfam.app^
 ||fleen.app^
+||fleetai.app^
 ||fleetcompass.app^
 ||flenjor.app^
 ||flewte.app^
@@ -4301,13 +4279,16 @@
 ||florian-elender.app^
 ||flourishlabs.app^
 ||flowdaily.app^
+||flowdoc.app^
 ||flowist.app^
+||flowpass.app^
 ||flowsheet.app^
 ||flowsolutions.app^
 ||flowtime.app^
 ||flpbz.app^
 ||flry.app^
 ||flsb.app^
+||flushit.app^
 ||fluxe.app^
 ||flycart.app^
 ||flyer-maker.app^
@@ -4335,6 +4316,7 @@
 ||foodily.app^
 ||foodmonie.app^
 ||foodparis.app^
+||foodrazor.app^
 ||foodservice.app^
 ||foolmeonce.app^
 ||fooocus.app^
@@ -4344,6 +4326,7 @@
 ||fordeer.app^
 ||foreman-hub.app^
 ||foremanhub.app^
+||forexa.app^
 ||forgeos.app^
 ||forgetnot.app^
 ||formularios.app^
@@ -4351,15 +4334,16 @@
 ||fortheone.app^
 ||forthepeople.app^
 ||fortos.app^
+||fortubet.app^
 ||forwardbet.app^
 ||forzen.app^
 ||foundationfinance.app^
 ||foundationlife.app^
 ||fourfiftyfour.app^
-||foxi.app^
 ||foxty.app^
 ||fpezhgvghhps6686.app^
 ||fr8pro.app^
+||framo.app^
 ||frankmannhht.app^
 ||frankstore.app^
 ||fraq.app^
@@ -4375,7 +4359,6 @@
 ||freerx.app^
 ||freewebsite.app^
 ||freeword.app^
-||frenzu.app^
 ||freshbin.app^
 ||freshcom.app^
 ||freshmint.app^
@@ -4385,6 +4368,7 @@
 ||friendli.app^
 ||friendly-pancake.app^
 ||friendsfm.app^
+||friendy.app^
 ||frila.app^
 ||frogeswap.app^
 ||fromafrica.app^
@@ -4442,20 +4426,22 @@
 ||gaazprom.app^
 ||gada.app^
 ||gadier.app^
+||gainify.app^
 ||gainzville.app^
 ||galaxydao.app^
+||gallusinsights.app^
 ||galxe-login.app^
 ||game8.app^
 ||gameassist.app^
 ||gamechunk.app^
 ||gamejam.app^
 ||gamelibrary.app^
-||gameness.app^
 ||gamenoir.app^
 ||gamerank.app^
 ||gamescreen.app^
 ||gamesfull.app^
 ||gameshow.app^
+||gametaste.app^
 ||gamexo.app^
 ||ganas.app^
 ||ganjafaeries.app^
@@ -4474,9 +4460,7 @@
 ||gatt.app^
 ||gauchosbbq.app^
 ||gb345ht34nbhrtwyg90ngk8.app^
-||gbgoldwhats.app^
 ||gbinstaapk.app^
-||gbomargold.app^
 ||gbwatsa.app^
 ||gcc-auto.app^
 ||gdpr.app^
@@ -4510,7 +4494,7 @@
 ||geofive.app^
 ||geojob.app^
 ||geomark.app^
-||geopresto.app^
+||geometria.app^
 ||geospacial.app^
 ||gerple.app^
 ||gesix.app^
@@ -4521,6 +4505,7 @@
 ||get-shaped.app^
 ||get-tipper.app^
 ||get2go.app^
+||getabroad.app^
 ||getacuity.app^
 ||getaihub.app^
 ||getalign.app^
@@ -4569,13 +4554,12 @@
 ||getspeechbuddy.app^
 ||getspool.app^
 ||getspun.app^
+||getstorefront.app^
 ||getwatt.app^
 ||getwechat.app^
 ||getwhy.app^
 ||getzeta.app^
 ||getzinged.app^
-||gf778.app^
-||gf998.app^
 ||gfty1.app^
 ||gfty10.app^
 ||gfty111.app^
@@ -4607,6 +4591,7 @@
 ||ghgff.app^
 ||gho45tf90435ncv.app^
 ||ghostdao.app^
+||ghostledger.app^
 ||ghostposts.app^
 ||ghostship.app^
 ||giada.app^
@@ -4625,11 +4610,10 @@
 ||gimu.app^
 ||gine.app^
 ||giny.app^
+||gioleni.app^
 ||gios.app^
 ||girisbilgi.app^
 ||girisiniyap.app^
-||giriskontrol.app^
-||girisweb.app^
 ||girlfriendai.app^
 ||giros.app^
 ||gitmerge.app^
@@ -4660,6 +4644,7 @@
 ||gms-world.app^
 ||gnk.app^
 ||gnn.app^
+||gnostudio.app^
 ||gnuino.app^
 ||go-sharing.app^
 ||go2spots.app^
@@ -4668,14 +4653,12 @@
 ||go88vr.app^
 ||goalsgamble.app^
 ||goarbit.app^
-||goat99.app^
 ||goatlinks.app^
 ||gobeam.app^
 ||goboozeless.app^
 ||gochurch.app^
 ||godcl.app^
 ||godecor.app^
-||godin.app^
 ||godpowered.app^
 ||goevenly.app^
 ||gofitt.app^
@@ -4692,7 +4675,6 @@
 ||goldmarie.app^
 ||goldmines.app^
 ||goldsbet.app^
-||goldshire.app^
 ||golfbnb.app^
 ||golfcam.app^
 ||golfin.app^
@@ -4743,13 +4725,12 @@
 ||gradesbook.app^
 ||gradescan.app^
 ||graftt.app^
+||grandchildable.app^
 ||grandconnect.app^
 ||granitegenesisasia.app^
-||grannykendrick.app^
 ||graphispot.app^
 ||graphtools.app^
 ||gravador.app^
-||grayboysnft.app^
 ||grayhat.app^
 ||grbx.app^
 ||greaterlending.app^
@@ -4800,6 +4781,7 @@
 ||guessfi.app^
 ||guestrific.app^
 ||guides.app^
+||guildies.app^
 ||guitarfit.app^
 ||guitarguide.app^
 ||gulab.app^
@@ -4833,7 +4815,6 @@
 ||habitzu.app^
 ||hachiko.app^
 ||hackersimulations.app^
-||hackingbet.app^
 ||hacklike.app^
 ||hackmeta.app^
 ||hackrf.app^
@@ -4853,7 +4834,6 @@
 ||handwerker-online.app^
 ||hanedan.app^
 ||hangda.app^
-||happybooking.app^
 ||happyclean.app^
 ||happyclothes.app^
 ||happydivorce.app^
@@ -4874,7 +4854,6 @@
 ||hasenhuttl.app^
 ||hashd.app^
 ||hashimotto.app^
-||hasht.app^
 ||hashyard.app^
 ||hask.app^
 ||hassgalaxy.app^
@@ -4907,12 +4886,10 @@
 ||healthyfoodplanner.app^
 ||healthymealplanner.app^
 ||healthyverse.app^
-||healwrite.app^
 ||hearthub.app^
 ||heartly.app^
 ||heartmindcoach.app^
 ||heartspeak.app^
-||heatedgear.app^
 ||heatvision.app^
 ||hebronsavingsbank.app^
 ||hecta.app^
@@ -4920,6 +4897,7 @@
 ||hedgefi.app^
 ||hedgehoginvestments.app^
 ||heev.app^
+||heex.app^
 ||heliocene.app^
 ||helios168hoki.app^
 ||helios168slotbonus.app^
@@ -4941,6 +4919,7 @@
 ||hemenislemyap.app^
 ||hemertonlabs.app^
 ||hen3x.app^
+||hendlr.app^
 ||heng855.app^
 ||hengheng-888.app^
 ||herbal.app^
@@ -4951,9 +4930,9 @@
 ||hermus.app^
 ||herocall.app^
 ||herochat.app^
-||herogame.app^
 ||heromind.app^
 ||herplog.app^
+||hexahedron.app^
 ||hexis.app^
 ||hexpanda.app^
 ||hey-nutri.app^
@@ -4974,6 +4953,7 @@
 ||hhjeqpdo0111.app^
 ||hhpanda.app^
 ||hi880.app^
+||hibot.app^
 ||hiddenfortune.app^
 ||hiddenwiki.app^
 ||hiephoi.app^
@@ -4994,7 +4974,6 @@
 ||hireposh.app^
 ||hirestream.app^
 ||hiroba.app^
-||historylog.app^
 ||hitbits.app^
 ||hitsdiff.app^
 ||hizligirisyap.app^
@@ -5015,6 +4994,7 @@
 ||hk688.app^
 ||hkjc.app^
 ||hkmalwne116.app^
+||hkproptechalliance.app^
 ||hm-all.app^
 ||hmdl.app^
 ||hmonw.app^
@@ -5051,9 +5031,7 @@
 ||hoood.app^
 ||hoorain.app^
 ||hoothoot.app^
-||hornylabs.app^
 ||hosmony.app^
-||hostfoodie.app^
 ||hostmanager.app^
 ||hosuto.app^
 ||hotair.app^
@@ -5068,6 +5046,7 @@
 ||house4cash.app^
 ||how2edu.app^
 ||howmuchforan.app^
+||howtobehappy.app^
 ||howtodrawanime.app^
 ||howtoguide.app^
 ||howtoread.app^
@@ -5110,7 +5089,7 @@
 ||hub-injectivenetwork.app^
 ||hub4u.app^
 ||huberman.app^
-||hubzz.app^
+||hubmine.app^
 ||hudds.app^
 ||huelet.app^
 ||hufa.app^
@@ -5136,7 +5115,6 @@
 ||hyperpersona.app^
 ||hyperrtech.app^
 ||hypertyper.app^
-||hypnocare.app^
 ||hypnoy.app^
 ||hyring.app^
 ||hyrise.app^
@@ -5226,7 +5204,6 @@
 ||immediateintalai.app^
 ||immediatemultiplex.app^
 ||immediateneupro.app^
-||immediateproair.app^
 ||immediatespark.app^
 ||immediatetrading.app^
 ||immfz.app^
@@ -5264,7 +5241,6 @@
 ||infinite-canvas.app^
 ||infinitemonkeys.app^
 ||infinote.app^
-||infiso.app^
 ||influencive.app^
 ||infoauto.app^
 ||infobits.app^
@@ -5287,7 +5263,6 @@
 ||inneratlas.app^
 ||innerception.app^
 ||innov8tiveadvisors.app^
-||innovate360.app^
 ||innovavionics.app^
 ||innovrh.app^
 ||innvo.app^
@@ -5300,7 +5275,6 @@
 ||insdr.app^
 ||inseehub.app^
 ||insightanalytics.app^
-||insightastro.app^
 ||insightatlas.app^
 ||insightx.app^
 ||inspetor.app^
@@ -5318,7 +5292,6 @@
 ||instodo.app^
 ||insurancepromo3.app^
 ||integral.app^
-||integrationhub.app^
 ||inteli.app^
 ||intellectia.app^
 ||intellilex.app^
@@ -5351,10 +5324,8 @@
 ||io-connect.app^
 ||io-drop.app^
 ||io-launch.app^
-||io-online.app^
 ||io-user.app^
 ||iorca-staging.app^
-||iotacap.app^
 ||iotpot.app^
 ||iotrlcnscbch6686.app^
 ||ioverse.app^
@@ -5376,12 +5347,10 @@
 ||ir34.app^
 ||iranunited.app^
 ||iretro.app^
-||iring.app^
 ||irishgiftshop.app^
 ||irishshop.app^
 ||irisinfotech.app^
 ||irldating.app^
-||ironbeam.app^
 ||irpm.app^
 ||irve.app^
 ||isanai.app^
@@ -5389,14 +5358,13 @@
 ||iselfcare.app^
 ||isginc.app^
 ||isinihallet.app^
+||isitjustme.app^
 ||islamdawah.app^
 ||islamophobia.app^
 ||islem.app^
 ||islemgiriss.app^
 ||islemiademi.app^
-||isleminhizlisi.app^
 ||isleminihallet.app^
-||isleminyap.app^
 ||islemler.app^
 ||islemleregiriss.app^
 ||islemlerimhizli.app^
@@ -5404,7 +5372,6 @@
 ||islemleronayi.app^
 ||islemmerkezi.app^
 ||islemonaylar.app^
-||islemyap.app^
 ||islemyapgiris.app^
 ||islerimis.app^
 ||ismim-yusuf-arda-kebude.app^
@@ -5452,6 +5419,7 @@
 ||jahnke.app^
 ||jaltol.app^
 ||jamshid.app^
+||jardim.app^
 ||jarvisbot.app^
 ||jasmines.app^
 ||jasusi.app^
@@ -5466,7 +5434,6 @@
 ||jcasino.app^
 ||jcoxt.app^
 ||jd588.app^
-||jd838.app^
 ||jdbvip.app^
 ||jdpfpehv0165.app^
 ||jdwright.app^
@@ -5488,6 +5455,7 @@
 ||jieduba.app^
 ||jilicity.app^
 ||jim-workout.app^
+||jimai.app^
 ||jingchat.app^
 ||jinglestreet.app^
 ||jitec.app^
@@ -5508,7 +5476,6 @@
 ||jobqr.app^
 ||jobtree.app^
 ||jockofuel.app^
-||jogagame.app^
 ||jogames.app^
 ||jogmybrain.app^
 ||johndoe.app^
@@ -5527,14 +5494,13 @@
 ||joltpay.app^
 ||jommal.app^
 ||joolie.app^
-||jooty.app^
 ||jorno.app^
 ||josana.app^
 ||joshsavoyfit.app^
 ||jotabet.app^
-||jote.app^
 ||journeybuddy.app^
 ||joviagps.app^
+||jovvie.app^
 ||jowi.app^
 ||joyboy.app^
 ||joygamesludo.app^
@@ -5574,7 +5540,6 @@
 ||justdesign.app^
 ||justevents.app^
 ||justfriends.app^
-||justgood.app^
 ||justhomes.app^
 ||justhostels.app^
 ||justjesus.app^
@@ -5628,10 +5593,10 @@
 ||katabelanja.app^
 ||katirussell.app^
 ||kawasan303.app^
-||kayatogel.app^
 ||kaydet.app^
 ||kazir.app^
 ||kbapsgvc0107.app^
+||kbkbet.app^
 ||kbstar.app^
 ||kbxr.app^
 ||kc0.app^
@@ -5651,6 +5616,7 @@
 ||keapay.app^
 ||kebinkinsleyracing.app^
 ||kech.app^
+||keepitsimplestupid.app^
 ||keeprecipe.app^
 ||kell.app^
 ||kellan.app^
@@ -5676,11 +5642,13 @@
 ||kibblekeeper.app^
 ||kickfootball.app^
 ||kickspro.app^
+||kidclock.app^
 ||kiddoadmin.app^
 ||kidit.app^
 ||kidneycenter.app^
 ||kidsleep.app^
 ||kikeo.app^
+||kincreative.app^
 ||kindhr.app^
 ||kindify.app^
 ||kindllm.app^
@@ -5726,6 +5694,7 @@
 ||km5783.app^
 ||kmap.app^
 ||kmlt666.app^
+||kmwgv.app^
 ||knete.app^
 ||knitted.app^
 ||know-where.app^
@@ -5741,8 +5710,8 @@
 ||koinbot.app^
 ||koirl98972doioa.app^
 ||kokiri.app^
-||kokodi.app^
 ||kolaygiris.app^
+||kolet.app^
 ||komandor.app^
 ||kommend.app^
 ||kompastoto.app^
@@ -5759,6 +5728,7 @@
 ||kotobar.app^
 ||kourier.app^
 ||kouyu.app^
+||kozo.app^
 ||kptc.app^
 ||kraai.app^
 ||krakenlabs.app^
@@ -5800,7 +5770,6 @@
 ||l2-blast.app^
 ||l37x78cp4alwzzcr.app^
 ||l4l.app^
-||labb.app^
 ||labnet.app^
 ||laburo.app^
 ||lacart.app^
@@ -5822,7 +5791,6 @@
 ||lanparty.app^
 ||lantastic.app^
 ||lanv.app^
-||lanxin.app^
 ||lao3.app^
 ||laoyee.app^
 ||larabet5.app^
@@ -5837,8 +5805,6 @@
 ||launchx.app^
 ||lauterbach.app^
 ||lauxanh.app^
-||lava333.app^
-||lava678.app^
 ||lawchat.app^
 ||lawmetrics.app^
 ||layananindonesia.app^
@@ -5883,6 +5849,7 @@
 ||ledger-live-ledgerlive.app^
 ||ledger3.app^
 ||ledgernotes.app^
+||ledgeronline.app^
 ||lediligent.app^
 ||ledscloud.app^
 ||leerbaascoach.app^
@@ -5891,16 +5858,17 @@
 ||lefay.app^
 ||legacyfarms.app^
 ||legalpages.app^
+||legalpilot.app^
 ||legalservice.app^
 ||lehecai.app^
 ||leim.app^
 ||leituradinamica.app^
 ||lelelevis.app^
+||lenddle.app^
 ||lendsmart.app^
 ||lenin.app^
 ||lenobi.app^
 ||lensview.app^
-||leo77.app^
 ||leonardodicaprio.app^
 ||leonasociados.app^
 ||lepetitnosh.app^
@@ -5912,9 +5880,11 @@
 ||letbilly.app^
 ||letemcook.app^
 ||letrasbonitas.app^
+||letrix.app^
 ||letsclick.app^
 ||letsgolf.app^
 ||letspractice.app^
+||letterty.app^
 ||lettrehub.app^
 ||letyouknow.app^
 ||levelupcoaching.app^
@@ -5929,7 +5899,6 @@
 ||lglottery.app^
 ||li-nk.app^
 ||liama.app^
-||liao6.app^
 ||libang.app^
 ||liberodirespirare.app^
 ||libraried.app^
@@ -5952,6 +5921,7 @@
 ||lifetrack.app^
 ||lightcone.app^
 ||lightmobile.app^
+||lightningbox.app^
 ||lightpe.app^
 ||lightstudio.app^
 ||lightwood.app^
@@ -5967,7 +5937,6 @@
 ||lingduck.app^
 ||lingofox.app^
 ||lingohub.app^
-||lingomouse.app^
 ||linguatools.app^
 ||linkbin.app^
 ||linkedcards.app^
@@ -5978,23 +5947,20 @@
 ||linktaigo88.app^
 ||linkvaota88.app^
 ||linxreviews.app^
-||lionscribe.app^
 ||liquidstake.app^
 ||list-assist.app^
 ||listomania.app^
 ||listpro.app^
-||litecalendar.app^
 ||litflow.app^
 ||litly.app^
 ||litmo.app^
+||littlelimefriends.app^
 ||litwork.app^
 ||liubao.app^
-||liuliu.app^
 ||livart.app^
 ||live-on.app^
 ||livebox24.app^
 ||livedraw.app^
-||liveplug.app^
 ||liveswitch.app^
 ||liveweb.app^
 ||livezy.app^
@@ -6023,6 +5989,7 @@
 ||location-support.app^
 ||locigo.app^
 ||locksit.app^
+||lockwire.app^
 ||locsrvmap.app^
 ||log-id.app^
 ||logicheck.app^
@@ -6032,7 +5999,6 @@
 ||logistiq.app^
 ||logiwatch.app^
 ||logogpt.app^
-||logopal.app^
 ||loha.app^
 ||lojamagalu.app^
 ||lokaal.app^
@@ -6053,6 +6019,7 @@
 ||looqa.app^
 ||lootbot.app^
 ||lorde.app^
+||loremipsum.app^
 ||loso.app^
 ||lostfound.app^
 ||lostnfoundmv.app^
@@ -6070,15 +6037,13 @@
 ||lovegram.app^
 ||lovelotto.app^
 ||lovelty.app^
+||lowgo.app^
+||lowo.app^
 ||loyaltygrid.app^
 ||loyx.app^
 ||lp2.app^
 ||lseg.app^
 ||ltobets.app^
-||lty6.app^
-||lty666.app^
-||lty8.app^
-||lty888.app^
 ||lucidnotes.app^
 ||luckfire.app^
 ||luckyfun789.app^
@@ -6101,6 +6066,7 @@
 ||luxurygoods.app^
 ||luzon.app^
 ||lvcasino.app^
+||lvesport.app^
 ||lwoypres0166.app^
 ||lwr.app^
 ||lxlyy.app^
@@ -6114,9 +6080,11 @@
 ||m4ufree.app^
 ||macbench.app^
 ||macgaiver.app^
+||machine-status.app^
 ||maclimo.app^
 ||macrocounting.app^
 ||madhan.app^
+||maestroabm.app^
 ||magazinelu.app^
 ||magehand.app^
 ||magiadafloresta.app^
@@ -6138,8 +6106,6 @@
 ||mailalert.app^
 ||mailerino.app^
 ||mailhog.app^
-||mailright.app^
-||mailsent.app^
 ||maincharacter.app^
 ||mainstreet360.app^
 ||maited.app^
@@ -6163,6 +6129,7 @@
 ||mamzi.app^
 ||managemyclassroom.app^
 ||mananax.app^
+||manch.app^
 ||mandown.app^
 ||mandwasoft.app^
 ||mangaverse.app^
@@ -6186,8 +6153,8 @@
 ||marathone.app^
 ||marblemoney.app^
 ||marcusaurelius.app^
+||margas.app^
 ||marginzero.app^
-||marijsmenu.app^
 ||marinabay.app^
 ||marinara.app^
 ||marination.app^
@@ -6211,6 +6178,7 @@
 ||massaro.app^
 ||masseur.app^
 ||master24.app^
+||masterguard.app^
 ||mastersofreality.app^
 ||mastervegas.app^
 ||mastodon-scheduler.app^
@@ -6219,6 +6187,7 @@
 ||matahari168slotjp.app^
 ||matbott.app^
 ||math-practice.app^
+||mathathon.app^
 ||mathcraft.app^
 ||matilda.app^
 ||matr1x.app^
@@ -6240,7 +6209,6 @@
 ||maydo.app^
 ||maynu.app^
 ||mazal-tov.app^
-||mazanechand.app^
 ||mazonaws.app^
 ||mazrae.app^
 ||mbconcept.app^
@@ -6253,11 +6221,13 @@
 ||mdapp12.app^
 ||mdcrm.app^
 ||mdecod.app^
+||mdwrt.app^
 ||meal-mate.app^
 ||mealclub.app^
 ||mealsonwheels.app^
 ||measureme.app^
 ||meatatarian.app^
+||meatorder.app^
 ||mecki.app^
 ||medcarerecoverysolutions.app^
 ||mediabard.app^
@@ -6266,6 +6236,7 @@
 ||medipalette.app^
 ||medisell.app^
 ||meditative.app^
+||meditek.app^
 ||medsim.app^
 ||medthru.app^
 ||medusabahis.app^
@@ -6278,12 +6249,12 @@
 ||meetnippy.app^
 ||meetscreen.app^
 ||mefu.app^
-||mega168bet.app^
 ||megabet.app^
 ||megabotstaking.app^
 ||megaros.app^
 ||megataf.app^
 ||megatrip.app^
+||megavrse.app^
 ||megethospremium.app^
 ||meidan.app^
 ||meilegal.app^
@@ -6294,6 +6265,7 @@
 ||melboor.app^
 ||meldia.app^
 ||melgambrell.app^
+||melgardeabajo.app^
 ||membler.app^
 ||memego.app^
 ||memeiand.app^
@@ -6301,7 +6273,6 @@
 ||memolia.app^
 ||memorig.app^
 ||memoryceremony.app^
-||memorylanes.app^
 ||memoryte.app^
 ||memotion.app^
 ||menassa.app^
@@ -6321,6 +6292,7 @@
 ||metadatai.app^
 ||metalyceum.app^
 ||metaoffice.app^
+||metaphorest.app^
 ||metapunk.app^
 ||metarix.app^
 ||metasphere.app^
@@ -6343,6 +6315,7 @@
 ||mgbs.app^
 ||mglmt.app^
 ||mgo55.app^
+||mhcam.app^
 ||mhcell.app^
 ||miadqtkgvzjc6686.app^
 ||miamia.app^
@@ -6383,8 +6356,6 @@
 ||milad.app^
 ||milanart.app^
 ||militaryboekelo.app^
-||milliondollarraffle.app^
-||mimira.app^
 ||minconvene.app^
 ||mind-mentor.app^
 ||minddance.app^
@@ -6441,6 +6412,7 @@
 ||miyaai.app^
 ||mize.app^
 ||mizh.app^
+||mkascmakscma.app^
 ||mkss.app^
 ||mlgn.app^
 ||mmafan.app^
@@ -6457,12 +6429,13 @@
 ||modelfi.app^
 ||modelpass.app^
 ||modernagro.app^
-||modernhomes.app^
 ||modusneuanh99238.app^
 ||moedove.app^
+||mohami.app^
 ||mojitv.app^
 ||moldavites.app^
 ||moleculeapps.app^
+||molho.app^
 ||momentumhq.app^
 ||momigo.app^
 ||momipes.app^
@@ -6473,17 +6446,21 @@
 ||moneyceo.app^
 ||moneyhawk.app^
 ||moneylinefinance.app^
+||moneymerge.app^
 ||moneymirror.app^
 ||moneypatterns.app^
 ||moneyposh.app^
 ||mongsonlyfans.app^
 ||monicredit.app^
+||monitorone.app^
 ||moniverse.app^
 ||monjia-segment.app^
 ||monocleai.app^
 ||monsterai.app^
+||monsterbasket.app^
 ||monstream.app^
 ||monylive.app^
+||monymobile.app^
 ||moodby.app^
 ||moodhelper.app^
 ||moodles.app^
@@ -6533,13 +6510,13 @@
 ||mrlunch.app^
 ||mrswift.app^
 ||msat.app^
-||msggpt.app^
 ||mspapp.app^
 ||msport.app^
 ||msrp.app^
 ||mstone.app^
 ||mstv.app^
 ||mtgcube.app^
+||mtrooms.app^
 ||mualike.app^
 ||mubit.app^
 ||muchacho.app^
@@ -6559,6 +6536,7 @@
 ||munroinnovation.app^
 ||music-timer.app^
 ||musicweb.app^
+||musixmatch.app^
 ||musizquiz.app^
 ||muslims4marriage.app^
 ||muslimway.app^
@@ -6569,6 +6547,8 @@
 ||my-intrum.app^
 ||my-itm.app^
 ||my-kredinor.app^
+||my-lab.app^
+||my-transcriber.app^
 ||my2ndopinion.app^
 ||myactivagiftcard.app^
 ||myaigirlfriend.app^
@@ -6598,6 +6578,7 @@
 ||mydailythoughts.app^
 ||mydossier.app^
 ||myeclass.app^
+||myepa.app^
 ||myepicgear.app^
 ||myfello.app^
 ||myfield.app^
@@ -6627,8 +6608,8 @@
 ||mynewyear.app^
 ||mynutritech.app^
 ||mypangea.app^
-||mypasswordgenerator.app^
 ||mypeace.app^
+||mypersonaldatamodel.app^
 ||myphonebook.app^
 ||mypracticeroutines.app^
 ||myquynhspa.app^
@@ -6649,6 +6630,7 @@
 ||mystudiogear.app^
 ||mysupp.app^
 ||myviewings.app^
+||myvios.app^
 ||mywineclub.app^
 ||myxa.app^
 ||myxed.app^
@@ -6665,10 +6647,12 @@
 ||nammayatri.app^
 ||nangman.app^
 ||nanite.app^
+||nanni.app^
 ||nanochat.app^
 ||nansysinc.app^
 ||napaling.app^
 ||narayana.app^
+||narratour.app^
 ||nassau.app^
 ||nassim.app^
 ||natal.app^
@@ -6690,11 +6674,12 @@
 ||neighborhoodcheck.app^
 ||nenuvastha.app^
 ||neo-tokyo.app^
-||neoloop.app^
 ||neotrade.app^
 ||nestate.app^
+||neste.app^
 ||netai.app^
 ||netballsuperstar.app^
+||netbank.app^
 ||netcore.app^
 ||netcup.app^
 ||netdiligent.app^
@@ -6728,15 +6713,14 @@
 ||newsofnews.app^
 ||newsright.app^
 ||newthisweek.app^
-||newtoki.app^
 ||newview.app^
 ||newyearnewme.app^
-||nexa-plus.app^
 ||nexalink.app^
 ||nexat.app^
 ||nextawallet.app^
 ||nextcms.app^
 ||nextgenskills.app^
+||nextonrails.app^
 ||nextrightstep.app^
 ||nexusmedia.app^
 ||nexxio.app^
@@ -6749,7 +6733,6 @@
 ||nftinit.app^
 ||nftlink.app^
 ||nftninja.app^
-||nftpass.app^
 ||nftspots.app^
 ||ngra360grudge.app^
 ||nhacai11bet.app^
@@ -6772,6 +6755,7 @@
 ||nirmatax.app^
 ||nithin.app^
 ||nitrophoto.app^
+||nixup.app^
 ||nkqbnryb114.app^
 ||nlabs.app^
 ||nlbklik.app^
@@ -6785,6 +6769,7 @@
 ||nocknockmail.app^
 ||nockout.app^
 ||nocoding.app^
+||nodeinfra.app^
 ||nodeprotect.app^
 ||noestoy.app^
 ||noetic.app^
@@ -6845,11 +6830,12 @@
 ||numainc.app^
 ||number30.app^
 ||number33.app^
+||numenu.app^
 ||numia.app^
 ||numisnimbus.app^
 ||nurhidayah.app^
+||nurseintro.app^
 ||nutriheal.app^
-||nutrily.app^
 ||nutritact.app^
 ||nutritionassistant.app^
 ||nutrizia.app^
@@ -6858,11 +6844,11 @@
 ||nxcse.app^
 ||nxotussxsngy6686.app^
 ||nxxk.app^
-||nyn.app^
 ||nyna.app^
 ||nyptkybvmxzjw8868.app^
 ||nyxcrm.app^
 ||nyzo.app^
+||o-ai.app^
 ||oaknational.app^
 ||oaknationalacademy.app^
 ||oasisnelwork.app^
@@ -6927,7 +6913,6 @@
 ||okx-whitelist.app^
 ||olacak.app^
 ||olakrutrim.app^
-||oldgoldwhats.app^
 ||oldmannerd.app^
 ||oldwhats.app^
 ||oleapay.app^
@@ -6937,7 +6922,6 @@
 ||olympicgamers.app^
 ||olympicgames.app^
 ||olza.app^
-||omargbwhats.app^
 ||omarob.app^
 ||omarwates.app^
 ||omarwatsb.app^
@@ -6972,10 +6956,8 @@
 ||onesignin.app^
 ||onevents.app^
 ||onewin9.app^
-||onlinebooksreader.app^
 ||onlinecricketid.app^
 ||onlineufa.app^
-||onlychats.app^
 ||onlychoice.app^
 ||onlyfinder.app^
 ||onlysale.app^
@@ -6986,6 +6968,7 @@
 ||onshopp.app^
 ||ontask.app^
 ||onte.app^
+||onthebus.app^
 ||onu.app^
 ||onushilon.app^
 ||oomb.app^
@@ -6997,9 +6980,10 @@
 ||openbecs.app^
 ||openbiz.app^
 ||openchat.app^
+||opendrops.app^
+||openexchange.app^
 ||openfitness.app^
 ||openfunds.app^
-||openhug.app^
 ||openinfo.app^
 ||openlabel.app^
 ||openlibra.app^
@@ -7020,6 +7004,7 @@
 ||oppositioncarte.app^
 ||optchart.app^
 ||opticommerce.app^
+||optimeeze.app^
 ||optisync.app^
 ||optlmsm.app^
 ||optme.app^
@@ -7033,14 +7018,16 @@
 ||ordiswap.app^
 ||ordswap.app^
 ||oregami.app^
+||orgvitals.app^
 ||origamijournal.app^
 ||originx.app^
 ||origlio.app^
 ||orlog.app^
 ||orogami.app^
+||orogold.app^
 ||orthere.app^
+||osaka777.app^
 ||oscarparty.app^
-||ostrovok.app^
 ||oszust.app^
 ||otcm.app^
 ||otello.app^
@@ -7051,7 +7038,6 @@
 ||ourverse.app^
 ||outcomeai.app^
 ||outcomesnetwork.app^
-||outfindo.app^
 ||outfitai.app^
 ||outgo.app^
 ||outweb.app^
@@ -7076,7 +7062,7 @@
 ||outy9.app^
 ||ovao.app^
 ||overblick.app^
-||overcoffee.app^
+||overdash.app^
 ||overdoze.app^
 ||overlander4x4.app^
 ||owat.app^
@@ -7114,7 +7100,6 @@
 ||paintbid.app^
 ||pakyok77.app^
 ||pal-i.app^
-||palamasan.app^
 ||palatablepainting.app^
 ||palletworks.app^
 ||palm-beach.app^
@@ -7139,6 +7124,7 @@
 ||parasempre.app^
 ||paraswap.app^
 ||paratichaber.app^
+||parcelpilot.app^
 ||parcelz.app^
 ||parentdayz.app^
 ||paribucollect.app^
@@ -7147,7 +7133,6 @@
 ||parkerheights.app^
 ||parkncharge.app^
 ||parkspace.app^
-||parmenides.app^
 ||parrotly.app^
 ||partago.app^
 ||participate-zks.app^
@@ -7160,7 +7145,6 @@
 ||parviva.app^
 ||passbutler.app^
 ||passportphotos.app^
-||pastitoto.app^
 ||pastures.app^
 ||pathguide.app^
 ||patidost.app^
@@ -7170,10 +7154,9 @@
 ||patterndraw.app^
 ||patternkit.app^
 ||pawmatch.app^
-||pawnest.app^
+||pawnbroker.app^
 ||pawngo.app^
 ||pawsland.app^
-||pawsroamfree.app^
 ||paximo.app^
 ||paybright.app^
 ||payconlq.app^
@@ -7182,10 +7165,10 @@
 ||paymeat.app^
 ||paymoi.app^
 ||paynet.app^
-||payright.app^
 ||payslot88l.app^
 ||paytion.app^
 ||pbgame.app^
+||pbmxd.app^
 ||pcfew.app^
 ||pck247.app^
 ||pcposos.app^
@@ -7224,14 +7207,13 @@
 ||personage.app^
 ||personal-rabatt.app^
 ||personal-twin.app^
-||persora.app^
+||pesco.app^
 ||pesopluma.app^
 ||peterjames.app^
 ||petlibro.app^
 ||petramas.app^
 ||petricor.app^
 ||petroleo.app^
-||petsocial.app^
 ||petson.app^
 ||petstogo.app^
 ||petstop.app^
@@ -7246,7 +7228,6 @@
 ||pgmobile.app^
 ||pgslot42.app^
 ||pgzeed42.app^
-||phantomdefi.app^
 ||phantoms.app^
 ||phantomtoken.app^
 ||phantonlearning.app^
@@ -7264,11 +7245,11 @@
 ||phpvip.app^
 ||phtm.app^
 ||phuc.app^
-||phuketgo.app^
 ||phwallet.app^
 ||phzme.app^
 ||picaboo.app^
 ||pickleballtraining.app^
+||picklecoach.app^
 ||pickydating.app^
 ||picshr.app^
 ||pictobello.app^
@@ -7277,7 +7258,6 @@
 ||pigeonmail.app^
 ||pigpay.app^
 ||pii.app^
-||piiology.app^
 ||pikped.app^
 ||piks.app^
 ||pikups.app^
@@ -7296,7 +7276,6 @@
 ||pinnaclesword.app^
 ||pinnakle.app^
 ||pinthis.app^
-||pintyle.app^
 ||pinyo.app^
 ||piom.app^
 ||pipalstudio.app^
@@ -7316,27 +7295,9 @@
 ||pixgol24.app^
 ||pizza-calculator.app^
 ||pjg-ernet.app^
-||pjyule1.app^
 ||pjyule11.app^
-||pjyule12.app^
-||pjyule14.app^
-||pjyule16.app^
-||pjyule17.app^
-||pjyule2.app^
 ||pjyule22.app^
-||pjyule24.app^
-||pjyule27.app^
-||pjyule28.app^
-||pjyule29.app^
-||pjyule30.app^
-||pjyule34.app^
-||pjyule35.app^
-||pjyule39.app^
 ||pjyule4.app^
-||pjyule40.app^
-||pjyule47.app^
-||pjyule49.app^
-||pjyule5.app^
 ||pk999slot.app^
 ||pkc111.app^
 ||pkc333.app^
@@ -7346,6 +7307,8 @@
 ||placemat.app^
 ||plagiator.app^
 ||plainnote.app^
+||planeador.app^
+||planear.app^
 ||planes.app^
 ||planetkids.app^
 ||planetloyalty.app^
@@ -7358,7 +7321,6 @@
 ||planright.app^
 ||plantasaber.app^
 ||plantgarden.app^
-||plantis.app^
 ||planzero.app^
 ||plap.app^
 ||plasticfree.app^
@@ -7393,8 +7355,9 @@
 ||pocket-lawyer.app^
 ||pocketbiz.app^
 ||pocketcipher.app^
-||pocketotc.app^
 ||pocketpilot.app^
+||pocketserve.app^
+||pocketserver.app^
 ||podcasttopost.app^
 ||podiumup.app^
 ||podpitch.app^
@@ -7405,6 +7368,8 @@
 ||poisonbait.app^
 ||poker777.app^
 ||pokerases.app^
+||pokerbahis.app^
+||pokerplanets.app^
 ||poleman.app^
 ||polfit.app^
 ||policeassetlibrary.app^
@@ -7420,7 +7385,6 @@
 ||poonji.app^
 ||pooperscooper.app^
 ||pop211.app^
-||popd.app^
 ||popedi.app^
 ||popit.app^
 ||popout.app^
@@ -7436,6 +7400,7 @@
 ||pornohub.app^
 ||porschenfts.app^
 ||portaigaming.app^
+||portalbbpj.app^
 ||portauchoix.app^
 ||portauxchoix.app^
 ||portkey.app^
@@ -7465,7 +7430,6 @@
 ||pream.app^
 ||prebate.app^
 ||predify.app^
-||pregcalc.app^
 ||prego-services.app^
 ||preisprofi.app^
 ||prenoto.app^
@@ -7542,7 +7506,6 @@
 ||propology.app^
 ||propriotec.app^
 ||prorey.app^
-||prospecte.app^
 ||prosperityplanning.app^
 ||protein-plus.app^
 ||proteo.app^
@@ -7556,7 +7519,6 @@
 ||psd2-aktuell.app^
 ||psicofacil.app^
 ||psytech.app^
-||psytests.app^
 ||ptpal.app^
 ||publer.app^
 ||publicgoods.app^
@@ -7573,7 +7535,6 @@
 ||pulsexswap.app^
 ||puluj.app^
 ||pumble.app^
-||punktime.app^
 ||puno.app^
 ||punto.app^
 ||puppacoin.app^
@@ -7658,6 +7619,7 @@
 ||qualisfy.app^
 ||qually.app^
 ||quantacosta.app^
+||quantumage.app^
 ||quantumassets.app^
 ||quantumc.app^
 ||quantumcomputers.app^
@@ -7693,7 +7655,6 @@
 ||qyigdhnkhqco1xay.app^
 ||qyml.app^
 ||r-box.app^
-||r-ip.app^
 ||r-paul.app^
 ||r1r888.app^
 ||r2c2.app^
@@ -7730,7 +7691,6 @@
 ||rapidresus.app^
 ||rapidsky.app^
 ||rapidus.app^
-||rapwriter.app^
 ||rarebook.app^
 ||rateus.app^
 ||ratuplay.app^
@@ -7750,7 +7710,6 @@
 ||readingtaxis.app^
 ||readright.app^
 ||readymadedinners.app^
-||readyrecruiter.app^
 ||reak.app^
 ||realcompanion.app^
 ||realitybets.app^
@@ -7760,7 +7719,6 @@
 ||reawakened.app^
 ||rechargly.app^
 ||recipeboard.app^
-||recipegarden.app^
 ||recipemate.app^
 ||recmed.app^
 ||recoll.app^
@@ -7774,10 +7732,10 @@
 ||recx.app^
 ||recyclecoin.app^
 ||reddinsight.app^
-||reddy-anna.app^
 ||redeslink.app^
 ||redfi.app^
 ||redindlovu.app^
+||redlychee.app^
 ||redndlovu.app^
 ||redplayer.app^
 ||redshiftai.app^
@@ -7811,7 +7769,6 @@
 ||remedo.app^
 ||reminderme.app^
 ||remoteeasy.app^
-||remoteonlyjobs.app^
 ||remotos.app^
 ||removestuff.app^
 ||rencana.app^
@@ -7829,6 +7786,7 @@
 ||replaymywedding.app^
 ||reportage.app^
 ||reportexpert.app^
+||reportify.app^
 ||reportstream.app^
 ||reprio.app^
 ||republicarecargas.app^
@@ -7855,7 +7813,6 @@
 ||retikfinance.app^
 ||retrograding.app^
 ||retromeet.app^
-||revance.app^
 ||revcontrol.app^
 ||revealenterprise.app^
 ||revealyou.app^
@@ -7871,16 +7828,19 @@
 ||revon.app^
 ||rewards-multiweb.app^
 ||rewaro.app^
+||rewilok.app^
 ||reyl.app^
 ||rezepto.app^
 ||rezides.app^
 ||rezije.app^
 ||rezilience.app^
 ||rgwllmeipgcz6686.app^
+||rhabitanalytics.app^
 ||rhapi.app^
 ||rhizomatic.app^
 ||ribl.app^
 ||ricemall.app^
+||richland.app^
 ||ricojogos.app^
 ||riddertrader.app^
 ||rightontrack.app^
@@ -7899,6 +7859,7 @@
 ||riskreview.app^
 ||rivia.app^
 ||rizzbuddy.app^
+||rlab.app^
 ||rlcms.app^
 ||rln.app^
 ||rlw.app^
@@ -7910,6 +7871,7 @@
 ||robocup.app^
 ||robotarm.app^
 ||robotwin.app^
+||robotz.app^
 ||robs.app^
 ||rocketcash.app^
 ||rocketrefund.app^
@@ -7920,6 +7882,7 @@
 ||roj.app^
 ||rokh.app^
 ||rokku.app^
+||rolcontainer.app^
 ||roleplayers.app^
 ||rollbot.app^
 ||rollbridge.app^
@@ -7928,14 +7891,15 @@
 ||roninmahopac.app^
 ||roofbet.app^
 ||rooferhero.app^
+||rooferstakeoff.app^
 ||roofwise.app^
 ||room24.app^
 ||roomates.app^
 ||roomb.app^
+||roompal.app^
 ||roomray.app^
 ||roomright.app^
 ||rootcausecoach.app^
-||roru.app^
 ||roseadv.app^
 ||rosengren.app^
 ||roshnow.app^
@@ -7943,7 +7907,6 @@
 ||rothbright.app^
 ||roundin.app^
 ||royalcats.app^
-||royaleradar.app^
 ||royalmassage.app^
 ||rpcld.app^
 ||rpn.app^
@@ -7975,7 +7938,6 @@
 ||runanything.app^
 ||rundownsoftware.app^
 ||runy-api.app^
-||runz.app^
 ||rupestrik.app^
 ||russellbedford.app^
 ||rustagram.app^
@@ -8002,6 +7964,7 @@
 ||sabiq.app^
 ||sabko.app^
 ||sabzi.app^
+||sacredtable.app^
 ||sadakar.app^
 ||saed.app^
 ||safe-love.app^
@@ -8017,7 +7980,6 @@
 ||sageify.app^
 ||sagewill.app^
 ||sagradocorazon.app^
-||sagu.app^
 ||sahaaab.app^
 ||saheli.app^
 ||saiba.app^
@@ -8040,6 +8002,7 @@
 ||sandboxai.app^
 ||sandeshwala.app^
 ||sandlines.app^
+||sangana.app^
 ||sangtaonoidung.app^
 ||sanspants.app^
 ||santander-particulares.app^
@@ -8049,7 +8012,6 @@
 ||sappiens.app^
 ||sarab.app^
 ||saraeluwa.app^
-||sarap.app^
 ||sarathsbarbershop.app^
 ||sarigama-music.app^
 ||sarros.app^
@@ -8061,6 +8023,7 @@
 ||satoshibase.app^
 ||satoshicoin.app^
 ||satoshiterminal.app^
+||satoshivm.app^
 ||satsports.app^
 ||sattvik.app^
 ||saudimade.app^
@@ -8071,6 +8034,7 @@
 ||saveinstapro.app^
 ||savvier.app^
 ||savvyvessel.app^
+||sayinz.app^
 ||sb2xl3wes1dye68c.app^
 ||sb721.app^
 ||sbcglobal.app^
@@ -8102,6 +8066,7 @@
 ||scout-vc.app^
 ||scowash.app^
 ||scratchjoy.app^
+||screenlines.app^
 ||screenweave.app^
 ||screenwide.app^
 ||scriptcast.app^
@@ -8115,7 +8080,6 @@
 ||scsbizz.app^
 ||scvinha.app^
 ||sczlim.app^
-||sdax.app^
 ||sdylive.app^
 ||se7.app^
 ||seadash.app^
@@ -8138,7 +8102,6 @@
 ||securityconnect.app^
 ||sedex.app^
 ||seedlingo.app^
-||seekrewards.app^
 ||seewith.app^
 ||seeyourbudget.app^
 ||segdrs.app^
@@ -8193,7 +8156,6 @@
 ||serviso.app^
 ||sesese.app^
 ||setewin.app^
-||sethi.app^
 ||setsu.app^
 ||settleinn.app^
 ||sevenbulls.app^
@@ -8225,7 +8187,6 @@
 ||sharelingo.app^
 ||sharelog.app^
 ||sharepilot.app^
-||shareright.app^
 ||sharethedeal.app^
 ||shariah.app^
 ||sharify.app^
@@ -8248,14 +8209,12 @@
 ||shikshya.app^
 ||ship7.app^
 ||shipcars.app^
-||shipmentseekershub.app^
 ||shittysaas.app^
 ||shmap.app^
 ||shmuney.app^
 ||shodachi.app^
 ||shomrim.app^
 ||shop-ai.app^
-||shopbox.app^
 ||shopfront.app^
 ||shopishi.app^
 ||shopkeepr.app^
@@ -8287,6 +8246,7 @@
 ||shypx.app^
 ||siam55.app^
 ||sidehustles.app^
+||sidert.app^
 ||sideswap.app^
 ||sifer.app^
 ||sigaba.app^
@@ -8294,6 +8254,7 @@
 ||sigmawallet.app^
 ||signagesales.app^
 ||signalplus.app^
+||signalsgateway.app^
 ||signaltracks.app^
 ||signaturegenerator.app^
 ||signaturemaker.app^
@@ -8304,14 +8265,17 @@
 ||signum.app^
 ||signup-dojo.app^
 ||sigun.app^
+||sigurd.app^
 ||sijilat.app^
 ||sik.app^
+||sikafund.app^
 ||silenceit.app^
 ||silentsignals.app^
 ||silveralert.app^
 ||silverdice.app^
 ||silveridea.app^
 ||sim-city.app^
+||simerp.app^
 ||simple-fit.app^
 ||simplehealthcare.app^
 ||simplereader.app^
@@ -8321,11 +8285,12 @@
 ||simplibat.app^
 ||simplichat.app^
 ||simplifies.app^
+||simplifyaix.app^
 ||simplistics.app^
 ||simplyip.app^
 ||simultanea.app^
 ||sincethen.app^
-||singy.app^
+||sindro.app^
 ||sipofeurope.app^
 ||sipty.app^
 ||siraat.app^
@@ -8338,6 +8303,7 @@
 ||sixwin.app^
 ||sjhdcbluerlp6686.app^
 ||sjosbudz115.app^
+||skaling-zk.app^
 ||skeells.app^
 ||skiguide.app^
 ||skillevo.app^
@@ -8362,13 +8328,14 @@
 ||skymoth.app^
 ||skymusic.app^
 ||skysoft.app^
-||skystar.app^
+||skytechgame.app^
 ||slackpack.app^
 ||sleepcalculator.app^
 ||sleepingbaby.app^
 ||sleepmindset.app^
 ||slgnal.app^
 ||slicefair.app^
+||slickstats.app^
 ||slidebazaar.app^
 ||slidefy.app^
 ||slidegpt.app^
@@ -8389,24 +8356,21 @@
 ||smartb.app^
 ||smartcars.app^
 ||smartcdr.app^
-||smartfuture.app^
 ||smartmediawallet.app^
 ||smartmoneymmxm.app^
 ||smartq.app^
 ||smarttitle.app^
+||smeets.app^
 ||smfn.app^
 ||smile-up.app^
 ||smileplj.app^
-||smjogo.app^
 ||smll.app^
 ||smscontrol.app^
 ||smssolution.app^
 ||smsway.app^
-||snabbare.app^
 ||snacked.app^
 ||snakevpn.app^
 ||snapay.app^
-||snapcover.app^
 ||snapdroid.app^
 ||snapexpress.app^
 ||snapfid.app^
@@ -8414,7 +8378,6 @@
 ||snapledger.app^
 ||snaplite.app^
 ||snapmatch.app^
-||snapme.app^
 ||snappshop.app^
 ||snapstry.app^
 ||snaptalk.app^
@@ -8446,7 +8409,6 @@
 ||socialscanner.app^
 ||socialsentry.app^
 ||socianet.app^
-||socute.app^
 ||sodateam.app^
 ||sode.app^
 ||softballtraining.app^
@@ -8455,14 +8417,13 @@
 ||softwareforge.app^
 ||softwareship-demos.app^
 ||soh.app^
+||soilab.app^
 ||sol-ns.app^
 ||solana-exchange.app^
 ||solanaetf.app^
 ||solanagold.app^
 ||solanashield.app^
-||solanasniper.app^
 ||solandcoin.app^
-||solarhand.app^
 ||solarminer.app^
 ||solarreferrals.app^
 ||solblend.app^
@@ -8481,7 +8442,6 @@
 ||solsale.app^
 ||solscan.app^
 ||solshield.app^
-||solsniper.app^
 ||solvent.app^
 ||solvey.app^
 ||somneon.app^
@@ -8528,6 +8488,7 @@
 ||spatial-shell.app^
 ||spatialcomputer.app^
 ||spatialcomputin.app^
+||spatialstation.app^
 ||spech.app^
 ||specialnfts.app^
 ||spectrumlabs.app^
@@ -8565,7 +8526,6 @@
 ||sportwithcards.app^
 ||spotetp.app^
 ||spotfees.app^
-||spotsocial.app^
 ||sprintsage.app^
 ||sprouted.app^
 ||sprw.app^
@@ -8590,6 +8550,7 @@
 ||stackshow.app^
 ||stadtkarte.app^
 ||staendel.app^
+||stagely.app^
 ||stagesync.app^
 ||stake88.app^
 ||stakeape.app^
@@ -8598,6 +8559,7 @@
 ||stakewatch.app^
 ||stakewithlido.app^
 ||stalemates.app^
+||stamm.app^
 ||standfast.app^
 ||starbet678.app^
 ||starcard.app^
@@ -8643,6 +8605,8 @@
 ||stocked.app^
 ||stockhunter.app^
 ||stocklo.app^
+||stockonline.app^
+||stoicjournal.app^
 ||stoptrack.app^
 ||storage777.app^
 ||storagenear.app^
@@ -8676,6 +8640,7 @@
 ||stressrx.app^
 ||strugglesesh.app^
 ||studentime.app^
+||studioai.app^
 ||studyconnect.app^
 ||studyshorts.app^
 ||stummble.app^
@@ -8693,8 +8658,6 @@
 ||subramoney.app^
 ||subwaybrasil.app^
 ||subwaybrazil.app^
-||subwaysurfer.app^
-||subwaysurfmoney.app^
 ||succesx.app^
 ||succlyjc0175.app^
 ||sufra.app^
@@ -8732,6 +8695,8 @@
 ||support-findmy.app^
 ||supportfmtv.app^
 ||suptrimza.app^
+||sureid.app^
+||surephyre.app^
 ||surgeryofsoul.app^
 ||survey-chaln.app^
 ||surveychaln.app^
@@ -8771,7 +8736,6 @@
 ||swwale.app^
 ||sybit.app^
 ||sydneylive.app^
-||syllabai.app^
 ||symdata.app^
 ||symptomy.app^
 ||synapsehealth.app^
@@ -8791,8 +8755,6 @@
 ||syqure.app^
 ||sysdev.app^
 ||systemdesignai.app^
-||systemi.app^
-||systemy.app^
 ||t-life.app^
 ||t-spot.app^
 ||taasker.app^
@@ -8806,9 +8768,6 @@
 ||tagson.app^
 ||tagsonomy.app^
 ||tagwise.app^
-||tahadiaat.app^
-||tahadiat.app^
-||tahady.app^
 ||tahun88.app^
 ||taibet.app^
 ||taifxiur.app^
@@ -8898,6 +8857,7 @@
 ||teamzeit.app^
 ||tech-mate.app^
 ||techhelp.app^
+||techimovel.app^
 ||techthrove.app^
 ||techtown.app^
 ||techwizards.app^
@@ -8934,8 +8894,8 @@
 ||terratwin.app^
 ||teslachargingreminder.app^
 ||testflight.app^
-||testhortisupply.app^
 ||tetadex.app^
+||tetrawall.app^
 ||teupeliculas.app^
 ||tewind.app^
 ||text2cad.app^
@@ -8951,7 +8911,6 @@
 ||thatsimple.app^
 ||thc-api.app^
 ||the-aeffort.app^
-||the-doctor.app^
 ||the-remind.app^
 ||the-spot.app^
 ||the-tribe.app^
@@ -8995,6 +8954,7 @@
 ||thenationalacademy.app^
 ||theneobank.app^
 ||thenetworkfirm.app^
+||thenextworldofwork.app^
 ||thep.app^
 ||thepocketgardener.app^
 ||theprofitblueprint.app^
@@ -9008,7 +8968,6 @@
 ||therapyfor.app^
 ||thereddiamond.app^
 ||therepresent.app^
-||therider.app^
 ||theriskypath.app^
 ||theroute66.app^
 ||thesilentself.app^
@@ -9030,7 +8989,6 @@
 ||thinkingcaps.app^
 ||thinkinpictures.app^
 ||thinkright.app^
-||thirdspace.app^
 ||thiro.app^
 ||thirtyfeettohealth.app^
 ||thisguys.app^
@@ -9091,10 +9049,10 @@
 ||toejtlswivui6686.app^
 ||toeo.app^
 ||tofy.app^
-||togame.app^
 ||togodo.app^
 ||tokdownload.app^
 ||tokenapproval.app^
+||tokencheck.app^
 ||tokenpayments.app^
 ||tokenrobot.app^
 ||tokhub.app^
@@ -9124,6 +9082,7 @@
 ||torkengage.app^
 ||torli.app^
 ||torndigital.app^
+||tospace.app^
 ||totalcostofownership.app^
 ||totalfx.app^
 ||totask.app^
@@ -9161,7 +9120,6 @@
 ||tradeconnect.app^
 ||tradefetch.app^
 ||trademeta.app^
-||traderight.app^
 ||traderone.app^
 ||tradeshiphub.app^
 ||tradesignal.app^
@@ -9179,7 +9137,6 @@
 ||trainmap.app^
 ||trainradar24.app^
 ||trainyourway.app^
-||trajectairy.app^
 ||transactive.app^
 ||transferlane.app^
 ||transferly.app^
@@ -9189,7 +9146,6 @@
 ||transmits.app^
 ||trapcard.app^
 ||travelbabe.app^
-||travelcare.app^
 ||traveldee.app^
 ||travelenvy.app^
 ||travellingsalesman.app^
@@ -9214,6 +9170,7 @@
 ||triplogmileage.app^
 ||tripsiri.app^
 ||trishul.app^
+||tristanmobile.app^
 ||trivias.app^
 ||trivy.app^
 ||trmrhzlsrg.app^
@@ -9230,11 +9187,13 @@
 ||trueusd.app^
 ||trufal.app^
 ||trumate.app^
+||trumpresilience.app^
 ||trupay.app^
 ||trustdoor.app^
 ||trustpad-io.app^
 ||trustyfy.app^
 ||truswallet.app^
+||trxonl.app^
 ||tryagain.app^
 ||tryblackout.app^
 ||tryedge.app^
@@ -9262,7 +9221,6 @@
 ||turni.app^
 ||tuskany.app^
 ||tutarogren.app^
-||tutoreal.app^
 ||tutorie.app^
 ||tutorin.app^
 ||tutz.app^
@@ -9290,7 +9248,6 @@
 ||tyconcept.app^
 ||tymy.app^
 ||typegrid.app^
-||typely.app^
 ||typetale.app^
 ||tzcrew.app^
 ||u-api.app^
@@ -9303,10 +9260,10 @@
 ||uct.app^
 ||udhaar.app^
 ||ufa333.app^
-||ufa747.app^
 ||ufabot.app^
 ||ufadear.app^
 ||ufarich777.app^
+||ufarmer.app^
 ||ufaski.app^
 ||ugboy.app^
 ||uhouse.app^
@@ -9314,6 +9271,7 @@
 ||uio9jfkl2kla.app^
 ||ujeebu.app^
 ||ujrrejdv120.app^
+||ukegx.app^
 ||ukhkbgsb0185.app^
 ||ukportal.app^
 ||ulares.app^
@@ -9366,6 +9324,7 @@
 ||unrefined.app^
 ||unshelve.app^
 ||untimely.app^
+||untrayield.app^
 ||untungbet.app^
 ||uokmhsh.app^
 ||up2date.app^
@@ -9373,7 +9332,6 @@
 ||update2go.app^
 ||updeck.app^
 ||upkit.app^
-||upring.app^
 ||upromote.app^
 ||upvsdown.app^
 ||urban-nl.app^
@@ -9392,13 +9350,11 @@
 ||usercodes.app^
 ||usergrowth.app^
 ||userrbus.app^
-||userresearch.app^
 ||userrfly.app^
 ||userrpag.app^
 ||userrpay.app^
 ||userrx.app^
 ||usethebox.app^
-||usetribe.app^
 ||usheets.app^
 ||usomukanirtanadamlar.app^
 ||uspa.app^
@@ -9452,15 +9408,15 @@
 ||vdanmuxi.app^
 ||ve86iutq185ujueb.app^
 ||veganfitness.app^
+||vegankindness.app^
 ||veganvans.app^
-||vegasslots.app^
 ||vegvan.app^
 ||veko.app^
 ||velovision.app^
 ||veloxai.app^
-||velula.app^
 ||venatrace.app^
 ||vendanozap.app^
+||vendasnodigital.app^
 ||vendre-sans-intermediaire.app^
 ||vendre-sans-intermediaires.app^
 ||vendresansintermediaire.app^
@@ -9469,6 +9425,7 @@
 ||vennue.app^
 ||ventursacorporation.app^
 ||verbcafe.app^
+||vergoserfr.app^
 ||veriseal.app^
 ||versatiles.app^
 ||versaventures.app^
@@ -9492,6 +9449,7 @@
 ||vicedrop.app^
 ||vices.app^
 ||vicoin.app^
+||victorblanco.app^
 ||videoblog.app^
 ||videobook.app^
 ||videodownloaderfast.app^
@@ -9512,9 +9470,9 @@
 ||viralvibe.app^
 ||virginland.app^
 ||viridi.app^
+||virtkick.app^
 ||virtual-fulfillment.app^
 ||virtualhandshakes.app^
-||virtualloansofficer.app^
 ||virtualstar.app^
 ||virtublock.app^
 ||virtuesway.app^
@@ -9526,7 +9484,6 @@
 ||visit-jup.app^
 ||visitebrasil.app^
 ||vissenga.app^
-||vistoriador.app^
 ||visualwise.app^
 ||vitabotx.app^
 ||vitalutions.app^
@@ -9536,12 +9493,14 @@
 ||vivadominican.app^
 ||viviprint.app^
 ||vivomoney.app^
+||viyar.app^
 ||vizen.app^
 ||vizlab.app^
 ||vjl.app^
 ||vlogg.app^
 ||vn-tech.app^
 ||vnczr3hosx60vl0i.app^
+||voala.app^
 ||vobu.app^
 ||vocalizer.app^
 ||voicedtek.app^
@@ -9553,7 +9512,6 @@
 ||voij.app^
 ||voipfbi.app^
 ||vokspilot.app^
-||voltinu.app^
 ||voluntario.app^
 ||volunteera.app^
 ||volunteerpassport.app^
@@ -9563,7 +9521,6 @@
 ||votersvoice.app^
 ||vouchershub.app^
 ||vox-sledgehammer.app^
-||voxinsight.app^
 ||voxn.app^
 ||vpncluster.app^
 ||vpnconnect.app^
@@ -9622,6 +9579,7 @@
 ||watawakkal.app^
 ||waterpump.app^
 ||waths.app^
+||watotomarketplace.app^
 ||wats-app.app^
 ||watsab-omar.app^
 ||watsaomar.app^
@@ -9635,6 +9593,7 @@
 ||wayamapp.app^
 ||waybeyond.app^
 ||wayforward.app^
+||waymaker.app^
 ||wazabgold.app^
 ||wb-analyst.app^
 ||wcard.app^
@@ -9672,6 +9631,7 @@
 ||wechatmini.app^
 ||wechats.app^
 ||weddingsnaps.app^
+||weddly.app^
 ||wedevelop.app^
 ||wedloc.app^
 ||weedcard.app^
@@ -9739,7 +9699,7 @@
 ||wiit.app^
 ||wikitravel.app^
 ||willsmith.app^
-||willwrite.app^
+||wimper.app^
 ||win-way.app^
 ||win7simu.app^
 ||win88th.app^
@@ -9750,16 +9710,14 @@
 ||winggal.app^
 ||winglink.app^
 ||wingpay.app^
+||wingsai.app^
 ||winpact.app^
-||winslots.app^
 ||wipoint.app^
 ||wirkoennendasdrucken.app^
 ||wisdomtoken.app^
 ||wiseclock.app^
 ||wisemessage.app^
-||wisetools.app^
 ||wiseways.app^
-||wishpool.app^
 ||wispar.app^
 ||wissy.app^
 ||withdraw.app^
@@ -9804,7 +9762,6 @@
 ||worldconstitution.app^
 ||worldhype.app^
 ||worldplus.app^
-||worldwebcams.app^
 ||worldwideairways.app^
 ||worryme.app^
 ||worthy.app^
@@ -9825,8 +9782,8 @@
 ||wtsp.app^
 ||wu88.app^
 ||wufy.app^
+||wuhk.app^
 ||wulu.app^
-||wunkus.app^
 ||wuufy.app^
 ||ww1111.app^
 ||wwfutemax.app^
@@ -9863,7 +9820,6 @@
 ||www51mh.app^
 ||www51pa.app^
 ||www51se.app^
-||www555dy.app^
 ||www5649.app^
 ||www5799.app^
 ||www58tt.app^
@@ -9910,7 +9866,6 @@
 ||wwwht7.app^
 ||wwwjingjibao.app^
 ||wwwjntiyu.app^
-||wwwkkpp.app^
 ||wwwkxm8.app^
 ||wwwkxqp.app^
 ||wwwky78.app^
@@ -9932,7 +9887,6 @@
 ||wwwwhldh1.app^
 ||wwwwpk.app^
 ||wwwwwim.app^
-||wwwxiao1.app^
 ||wwwxili.app^
 ||wwwxkdsp.app^
 ||wwwxmb.app^
@@ -9942,7 +9896,6 @@
 ||wwwy766.app^
 ||wwwy989.app^
 ||wwwyg13.app^
-||wwwyg14.app^
 ||wwwyhqz.app^
 ||wwwyinghe.app^
 ||wwwyysg.app^
@@ -10007,6 +9960,7 @@
 ||xn--833-7z7fu02f.app^
 ||xn--ol777-uf5i.app^
 ||xn--schdlingsmanagement-iwb.app^
+||xn--trderjoexyz-86a.app^
 ||xn--unswap-q9a.app^
 ||xn--wackelzhne-w5a.app^
 ||xn--zttv4s.app^
@@ -10017,7 +9971,9 @@
 ||xogames.app^
 ||xoie928387332hh2z.app^
 ||xolvie.app^
+||xosearch.app^
 ||xoso888.app^
+||xp-investimentosaplicativo.app^
 ||xp-investimentosseguro.app^
 ||xpet.app^
 ||xplne.app^
@@ -10046,14 +10002,15 @@
 ||y9iueue2p8872djjef.app^
 ||yaa.app^
 ||yaaas.app^
-||yachtii.app^
 ||yachtman.app^
 ||yackfu.app^
 ||yajman.app^
 ||yamart.app^
 ||yapepos.app^
+||yappin.app^
 ||yardsaler.app^
 ||yatai.app^
+||yaviste.app^
 ||yawm.app^
 ||yb4119.app^
 ||yeastandsour.app^
@@ -10111,6 +10068,7 @@
 ||yourmeal.app^
 ||youroof.app^
 ||yoursmart.app^
+||yourticketing.app^
 ||youtextme.app^
 ||youtubelooper.app^
 ||youtubesummarizer.app^
@@ -10129,13 +10087,11 @@
 ||ys60.app^
 ||ys61.app^
 ||ysdaoh.app^
-||yso.app^
 ||yspayments.app^
 ||yt2mp3.app^
 ||ytx.app^
 ||ytzb1.app^
 ||yug.app^
-||yugalab.app^
 ||yugas.app^
 ||yugaslab.app^
 ||yugaslabs.app^
@@ -10163,7 +10119,6 @@
 ||zabbet77.app^
 ||zabbetclub.app^
 ||zahp.app^
-||zalora.app^
 ||zanki.app^
 ||zapmeet.app^
 ||zapper-fi.app^
@@ -10192,10 +10147,10 @@
 ||zcore.app^
 ||zcxy.app^
 ||zczcgbpxihkt6686.app^
-||zeddl.app^
 ||zefrench.app^
 ||zekr.app^
 ||zeleo.app^
+||zelfhelp.app^
 ||zellgruppen.app^
 ||zen-tree.app^
 ||zenclass.app^
@@ -10221,7 +10176,6 @@
 ||zhanhui.app^
 ||zhcishan.app^
 ||zhengqi.app^
-||zhenxuan.app^
 ||zhenyan.app^
 ||zhifou.app^
 ||zhilink.app^
@@ -10242,7 +10196,6 @@
 ||zipd.app^
 ||zipfi.app^
 ||zipsign.app^
-||zipway.app^
 ||zjdou.app^
 ||zjdr.app^
 ||zk-distributions.app^
@@ -10261,7 +10214,6 @@
 ||zldmrjbtssde6686.app^
 ||zling.app^
 ||zoar.app^
-||zoh.app^
 ||zonemaker.app^
 ||zoombuds.app^
 ||zoomx.app^

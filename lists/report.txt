@@ -3,6 +3,7 @@
 ||abuse.report^
 ||account.report^
 ||adsync.report^
+||agetech.report^
 ||angel.report^
 ||animal.report^
 ||app-location.report^
@@ -23,6 +24,7 @@
 ||brunch.report^
 ||bsc.report^
 ||bund.report^
+||capitalglobal.report^
 ||cc.report^
 ||cherub.report^
 ||class.report^
@@ -56,7 +58,6 @@
 ||fcb8.report^
 ||findmydevices.report^
 ||flights.report^
-||fortcar.report^
 ||foundry.report^
 ||freedom.report^
 ||freevacation.report^
@@ -70,6 +71,7 @@
 ||hours.report^
 ||howmany.report^
 ||imageabuse.report^
+||infra.report^
 ||integrated.report^
 ||inter8tive.report^
 ||israelnews.report^
@@ -85,6 +87,7 @@
 ||lifecodes.report^
 ||literatur.report^
 ||lixo.report^
+||longcovid.report^
 ||macknight.report^
 ||matrixport.report^
 ||may88.report^
@@ -127,7 +130,6 @@
 ||policyworkgroups.report^
 ||portal.report^
 ||pulse.report^
-||quote.report^
 ||rbctransfer.report^
 ||reality.report^
 ||redbeard.report^
@@ -139,7 +141,6 @@
 ||rockymountain.report^
 ||roof.report^
 ||sec.report^
-||servicetech.report^
 ||sexoffender.report^
 ||shift.report^
 ||shop.report^
