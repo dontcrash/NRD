@@ -4,11 +4,11 @@
 ||alpen.build^
 ||atta.build^
 ||bernson.build^
-||blockchainexchange.build^
 ||brianscottcurry.build^
 ||buoy.build^
 ||canyoncreative.build^
 ||coder.build^
+||daman.build^
 ||deltaframing.build^
 ||designand.build^
 ||designunique.build^
@@ -26,6 +26,7 @@
 ||goldleaf.build^
 ||gramercy.build^
 ||grewe.build^
+||hatch.build^
 ||hest.build^
 ||homeequities.build^
 ||icg.build^
@@ -39,6 +40,7 @@
 ||maind.build^
 ||mantanetwork.build^
 ||marrow.build^
+||masterplan.build^
 ||metr.build^
 ||mibet.build^
 ||microsaas.build^
@@ -49,6 +51,7 @@
 ||myhome.build^
 ||myth.build^
 ||openshift.build^
+||payments.build^
 ||pilosio.build^
 ||pkconstruction.build^
 ||polebarn.build^
@@ -73,7 +76,6 @@
 ||verticalia.build^
 ||vinwin.build^
 ||visit-ally.build^
-||wav.build^
 ||winget.build^
 ||xldesigns.build^
 ||yokefellows.build^

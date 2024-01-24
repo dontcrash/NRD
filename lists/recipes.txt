@@ -14,13 +14,12 @@
 ||dabet.recipes^
 ||dadcooks.recipes^
 ||debet.recipes^
-||dns.recipes^
 ||docker-compose.recipes^
+||dockercompose.recipes^
 ||fa88.recipes^
 ||findly.recipes^
 ||fishtank.recipes^
 ||friends.recipes^
-||frontend.recipes^
 ||gem.recipes^
 ||git.recipes^
 ||glass.recipes^
@@ -69,7 +68,9 @@
 ||tastyfoods.recipes^
 ||thetasty.recipes^
 ||tip.recipes^
+||tweak.recipes^
 ||unlimitedbreakfast.recipes^
+||urban.recipes^
 ||utopia.recipes^
 ||veganinstantpot.recipes^
 ||whole30.recipes^

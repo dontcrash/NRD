@@ -1,6 +1,7 @@
 ||8live.exposed^
 ||accountant.exposed^
 ||adidas.exposed^
+||all-ports.exposed^
 ||bitcoins.exposed^
 ||broadway.exposed^
 ||bzh.exposed^
@@ -44,8 +45,6 @@
 ||story.exposed^
 ||surface.exposed^
 ||ta88.exposed^
-||text.exposed^
-||to.exposed^
 ||ur.exposed^
 ||v8.exposed^
 ||vinwin.exposed^

@@ -27,7 +27,6 @@
 ||alphanet.host^
 ||always-down.host^
 ||amar.host^
-||amit.host^
 ||anderlab.host^
 ||angkanet.host^
 ||anna.host^
@@ -98,6 +97,7 @@
 ||chingchong.host^
 ||christina.host^
 ||chronical.host^
+||chrono24.host^
 ||chuck-hogan.host^
 ||cianharris.host^
 ||cl0udflare.host^
@@ -117,6 +117,7 @@
 ||craiglegal.host^
 ||crea.host^
 ||crunchbits.host^
+||cryptoreality.host^
 ||cs-ntflx.host^
 ||cs101.host^
 ||cun168.host^
@@ -215,6 +216,7 @@
 ||imen.host^
 ||immich.host^
 ||incognet.host^
+||indiedev.host^
 ||infinitum.host^
 ||informal-snake.host^
 ||inova.host^
@@ -269,14 +271,15 @@
 ||luxmanager.host^
 ||luxurycar.host^
 ||maehdros.host^
-||magipay.host^
 ||mails.host^
+||manta.host^
 ||marcelsm1.host^
 ||mariototo.host^
 ||masked.host^
 ||mawazo.host^
 ||maybeisfree.host^
 ||maztech.host^
+||mca-web.host^
 ||media-server.host^
 ||melhorcompra.host^
 ||melhorhospedagemdesites.host^
@@ -289,8 +292,6 @@
 ||milenawebstudo.host^
 ||milo.host^
 ||mineral.host^
-||minerserver.host^
-||mining.host^
 ||mixers.host^
 ||monitor-the.host^
 ||moojmoon.host^
@@ -346,6 +347,7 @@
 ||owlto.host^
 ||oxyd.host^
 ||pageweb.host^
+||palworld.host^
 ||paraestudiantes.host^
 ||paravirt.host^
 ||parkd.host^
@@ -369,6 +371,7 @@
 ||purpledaddy.host^
 ||quackservers.host^
 ||quadrabase.host^
+||quantumconnect.host^
 ||quickdeploy.host^
 ||radan.host^
 ||radikalfoto.host^
@@ -386,6 +389,7 @@
 ||ripe.host^
 ||rollins.host^
 ||roslot.host^
+||roweandbear.host^
 ||rpki.host^
 ||rtpbd303.host^
 ||rtpninjahoki.host^
@@ -454,7 +458,6 @@
 ||tcm-lss.host^
 ||teamder.host^
 ||tech-admin.host^
-||techneal.host^
 ||tedi.host^
 ||tekno.host^
 ||testingwebsite.host^
@@ -463,6 +466,7 @@
 ||tidex.host^
 ||tigeer.host^
 ||timanttikuutio.host^
+||timelord.host^
 ||tinyurl.host^
 ||titaniumnetwork.host^
 ||tkibookkeeping.host^
@@ -527,11 +531,13 @@
 ||wireguard.host^
 ||wiza.host^
 ||wlwy.host^
+||workon.host^
 ||wphosting.host^
 ||wpsandbox.host^
 ||xinyi.host^
 ||yess.host^
 ||yourpictures.host^
+||yourtrip.host^
 ||z311.host^
 ||zenet.host^
 ||zerkalo.host^

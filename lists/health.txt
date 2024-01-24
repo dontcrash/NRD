@@ -45,13 +45,13 @@
 ||adia.health^
 ||advise.health^
 ||aelo.health^
+||aeoncoaching.health^
 ||after5.health^
 ||afterfive.health^
 ||agri.health^
 ||aiagents.health^
 ||ailment.health^
 ||ailments.health^
-||aippoint.health^
 ||aiu.health^
 ||alliancehealth.health^
 ||almailam.health^
@@ -88,7 +88,6 @@
 ||carlosmala.health^
 ||carrom.health^
 ||cause.health^
-||cccc.health^
 ||cedars.health^
 ||certificate.health^
 ||checklist.health^
@@ -156,6 +155,7 @@
 ||eradicate.health^
 ||erf.health^
 ||essenceofhuman.health^
+||essenscript.health^
 ||evergreeninsight.health^
 ||eweb.health^
 ||faceyogi.health^
@@ -183,6 +183,7 @@
 ||ghf.health^
 ||gibsondunn.health^
 ||glamping.health^
+||gnx.health^
 ||good-life.health^
 ||goods.health^
 ||goxkoll.health^
@@ -197,9 +198,11 @@
 ||healthandfitness.health^
 ||healthnsync.health^
 ||healthoptimizing.health^
+||healthspan100.health^
 ||heartlandseniorliving.health^
 ||heelo.health^
 ||helix3.health^
+||hepipa.health^
 ||hey-nutri.health^
 ||highlands.health^
 ||hilltopcottage.health^
@@ -221,13 +224,14 @@
 ||ideasindigitalhealth.health^
 ||idlabs.health^
 ||indicate.health^
-||ink.health^
+||inspiringapps.health^
 ||intelligeneinstitute.health^
 ||intellume.health^
 ||intra.health^
 ||invision.health^
 ||ivermectin.health^
 ||jnpkl.health^
+||johannawillard.health^
 ||jojo.health^
 ||justcarehub.health^
 ||kaygj.health^
@@ -252,7 +256,6 @@
 ||livinggreen.health^
 ||looseweight.health^
 ||lotusweightloss.health^
-||luminacare.health^
 ||lution.health^
 ||lykos.health^
 ||magnet.health^
@@ -267,6 +270,7 @@
 ||meddx.health^
 ||meddxtx.health^
 ||medifil.health^
+||medik.health^
 ||medikale.health^
 ||mediquest.health^
 ||medsupply.health^
@@ -296,6 +300,7 @@
 ||naked.health^
 ||naturoids.health^
 ||nbet.health^
+||nbsi.health^
 ||neurofit.health^
 ||nextgenmd.health^
 ||nfeul.health^
@@ -328,6 +333,7 @@
 ||pgdif.health^
 ||pharmabeauty.health^
 ||pharmacyfirstservice.health^
+||physicalstructure.health^
 ||pickup.health^
 ||pintar.health^
 ||planet.health^
@@ -335,7 +341,7 @@
 ||pmd.health^
 ||pocke.health^
 ||postsurgical.health^
-||precisionmotion.health^
+||praxia.health^
 ||prehab.health^
 ||preparation.health^
 ||pressureulcers.health^
@@ -363,7 +369,6 @@
 ||regalo.health^
 ||regroup.health^
 ||releeva.health^
-||remd.health^
 ||renewal.health^
 ||renewlife.health^
 ||renou.health^
@@ -377,10 +382,9 @@
 ||safari.health^
 ||sanosmart.health^
 ||saudebemestar.health^
-||scan-med.health^
-||schie.health^
 ||selfology.health^
 ||selfup.health^
+||selfwellness.health^
 ||service-hub.health^
 ||sessions.health^
 ||sgcc.health^
@@ -404,7 +408,6 @@
 ||stdavids.health^
 ||stjudes.health^
 ||stmartins.health^
-||streamlined.health^
 ||striva.health^
 ||sublette.health^
 ||superbloom.health^
@@ -434,10 +437,12 @@
 ||uris.health^
 ||valdenmedical.health^
 ||valethome.health^
+||valiente.health^
 ||venousstasisulcer.health^
 ||vgeun.health^
 ||viome.health^
 ||viplata24.health^
+||virtualens.health^
 ||viscofan.health^
 ||vitalcare.health^
 ||vitalityhealthcare.health^
@@ -447,7 +452,6 @@
 ||vivientemd.health^
 ||voicesofhealth.health^
 ||vyledge.health^
-||web-deepmeasures.health^
 ||welldiagnostics.health^
 ||welldiagnosticscawelldiagnostics.health^
 ||wellhealthsleepcentres.health^
@@ -457,6 +461,7 @@
 ||wildlife.health^
 ||wingman.health^
 ||womensclinic.health^
+||wondrous.health^
 ||wyce.health^
 ||xaia.health^
 ||xrai.health^
