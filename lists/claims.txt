@@ -18,9 +18,9 @@
 ||chime.claims^
 ||com-iphone.claims^
 ||court.claims^
-||covid.claims^
 ||covidvax.claims^
 ||cs.claims^
+||cw.claims^
 ||dashboard-solend.claims^
 ||debet.claims^
 ||dental.claims^
@@ -31,7 +31,6 @@
 ||fcb8.claims^
 ||ffcra.claims^
 ||fmovies.claims^
-||frame.claims^
 ||frogo.claims^
 ||gamble.claims^
 ||handshake.claims^
@@ -85,7 +84,6 @@
 ||smolcoin.claims^
 ||soldragon.claims^
 ||solend-fi.claims^
-||spam.claims^
 ||steth.claims^
 ||t.claims^
 ||themask.claims^

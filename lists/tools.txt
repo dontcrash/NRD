@@ -83,7 +83,6 @@
 ||cross.tools^
 ||crosschain.tools^
 ||cryptoseller.tools^
-||cypher.tools^
 ||dab.tools^
 ||daimon.tools^
 ||dane.tools^
@@ -94,9 +93,11 @@
 ||decalvenue.tools^
 ||devex.tools^
 ||disc.tools^
+||dov.tools^
 ||drops.tools^
 ||dsot.tools^
 ||dsox.tools^
+||easydev.tools^
 ||eauction.tools^
 ||eclipse.tools^
 ||eldentowers.tools^
@@ -116,7 +117,6 @@
 ||express.tools^
 ||fa88.tools^
 ||facilitation.tools^
-||falke.tools^
 ||fantasy99.tools^
 ||fbvideodownloader.tools^
 ||fileconverter.tools^
@@ -128,7 +128,6 @@
 ||foundershit.tools^
 ||frax.tools^
 ||fuckyou.tools^
-||gaga.tools^
 ||gendata.tools^
 ||girl.tools^
 ||giveaway.tools^
@@ -139,6 +138,7 @@
 ||gptscript.tools^
 ||graphy.tools^
 ||grepo.tools^
+||growthmindset.tools^
 ||guildstone.tools^
 ||guitarplayer.tools^
 ||hackquire.tools^
@@ -163,6 +163,7 @@
 ||hydra.tools^
 ||hyperv.tools^
 ||imagesearch.tools^
+||imex.tools^
 ||inflation-calculator.tools^
 ||infrastructure.tools^
 ||innoculator.tools^
@@ -177,7 +178,6 @@
 ||kate.tools^
 ||kcb.tools^
 ||keonhacai.tools^
-||khrysos.tools^
 ||korloy.tools^
 ||kps.tools^
 ||ksa.tools^
@@ -222,7 +222,6 @@
 ||mundane.tools^
 ||musiccharts.tools^
 ||mvp.tools^
-||mvx.tools^
 ||myalpen.tools^
 ||myalpens.tools^
 ||mybosch.tools^
@@ -280,6 +279,7 @@
 ||rabbit.tools^
 ||raid.tools^
 ||rakmana.tools^
+||ravendawn.tools^
 ||rawan.tools^
 ||recommend.tools^
 ||red88.tools^
@@ -321,10 +321,8 @@
 ||solanabox.tools^
 ||soundcloudmp3.tools^
 ||sova.tools^
-||specs.tools^
 ||spire.tools^
 ||spirit.tools^
-||square-cash.tools^
 ||stager.tools^
 ||statement-maker.tools^
 ||stay.tools^
@@ -346,7 +344,6 @@
 ||taiger.tools^
 ||tara.tools^
 ||tcj.tools^
-||tee.tools^
 ||telematicsplatform.tools^
 ||telugu.tools^
 ||terragen.tools^
@@ -356,13 +353,11 @@
 ||thinking.tools^
 ||tier3.tools^
 ||todays.tools^
-||tomtom.tools^
 ||tonne.tools^
 ||toolhackkubet.tools^
 ||toolof.tools^
 ||top88.tools^
 ||topflix.tools^
-||topo.tools^
 ||tradematic.tools^
 ||trainer.tools^
 ||transcript.tools^
@@ -387,6 +382,7 @@
 ||validate.tools^
 ||valor.tools^
 ||vanced.tools^
+||venox.tools^
 ||videoeditor.tools^
 ||vinwin.tools^
 ||vu.tools^
@@ -400,7 +396,6 @@
 ||worldai.tools^
 ||worldof.tools^
 ||worldstoughestfix.tools^
-||x1000.tools^
 ||xaico.tools^
 ||xconvert.tools^
 ||yoko.tools^

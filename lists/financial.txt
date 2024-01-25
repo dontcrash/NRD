@@ -30,7 +30,6 @@
 ||crs.financial^
 ||cryptofcuks.financial^
 ||dallas.financial^
-||dcx.financial^
 ||desk.financial^
 ||dominion.financial^
 ||e01-transfer.financial^
@@ -74,6 +73,7 @@
 ||manta.financial^
 ||margin.financial^
 ||marinade.financial^
+||masa.financial^
 ||mibet.financial^
 ||moneytrack.financial^
 ||moscow.financial^
@@ -114,6 +114,7 @@
 ||soc88.financial^
 ||solidity.financial^
 ||special.financial^
+||stack.financial^
 ||swoop.financial^
 ||ta88.financial^
 ||tau.financial^
@@ -137,6 +138,7 @@
 ||wutang.financial^
 ||wyoming.financial^
 ||xring.financial^
+||xyi.financial^
 ||yo88.financial^
 ||young.financial^
 ||zk-sync.financial^

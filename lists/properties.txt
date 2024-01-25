@@ -11,7 +11,9 @@
 ||arex.properties^
 ||armholdings.properties^
 ||artificialintelligence.properties^
+||assetbase.properties^
 ||aster.properties^
+||astuno.properties^
 ||b52.properties^
 ||bats.properties^
 ||bayarea.properties^
@@ -24,7 +26,6 @@
 ||blueridgemountainscabins.properties^
 ||bong99.properties^
 ||broussard.properties^
-||bry.properties^
 ||butler.properties^
 ||buyira.properties^
 ||cabin.properties^
@@ -42,12 +43,11 @@
 ||dolphin.properties^
 ||domaining.properties^
 ||domains.properties^
-||dw.properties^
+||douglaslake.properties^
 ||dxb.properties^
 ||echopark.properties^
 ||ee88.properties^
 ||emma.properties^
-||eshop.properties^
 ||eth.properties^
 ||event.properties^
 ||fa88.properties^
@@ -81,7 +81,6 @@
 ||hale.properties^
 ||harris.properties^
 ||haute.properties^
-||heavenly.properties^
 ||helium.properties^
 ||hellenic-luxury.properties^
 ||hidden.properties^
@@ -99,7 +98,6 @@
 ||iris.properties^
 ||isellpuntacana.properties^
 ||ivermectin.properties^
-||jdm.properties^
 ||jenniferwright.properties^
 ||junelaketn.properties^
 ||jvp.properties^
@@ -165,6 +163,7 @@
 ||redbrick.properties^
 ||rentscape.properties^
 ||righttobuy.properties^
+||rnr.properties^
 ||robinson.properties^
 ||rose.properties^
 ||ru.properties^
@@ -180,13 +179,11 @@
 ||senior.properties^
 ||seniorhousing.properties^
 ||seven.properties^
-||sevenkeys.properties^
 ||sg.properties^
 ||showcase.properties^
 ||siam.properties^
 ||sigma.properties^
 ||sin88.properties^
-||sisu.properties^
 ||smartinvest.properties^
 ||smithrealtypartners.properties^
 ||smw.properties^
@@ -197,10 +194,10 @@
 ||sullivans.properties^
 ||sunny.properties^
 ||tact.properties^
-||tang.properties^
 ||tau.properties^
 ||teesside.properties^
 ||texascommercial.properties^
+||themiddleeast.properties^
 ||theseare.properties^
 ||third.properties^
 ||tkelite.properties^
@@ -211,7 +208,6 @@
 ||ustay.properties^
 ||vantage.properties^
 ||vchc.properties^
-||viabellacasa.properties^
 ||vida.properties^
 ||villalux.properties^
 ||viral.properties^

@@ -39,12 +39,12 @@
 ||adsp.support^
 ||agora.support^
 ||aicustomer.support^
-||aide-livraison.support^
 ||aidesk.support^
 ||aircraft.support^
 ||airtelbank.support^
 ||alchemy.support^
 ||alexaplus.support^
+||alfa.support^
 ||allergy.support^
 ||alli.support^
 ||almailam.support^
@@ -82,6 +82,7 @@
 ||assistive.support^
 ||astra.support^
 ||atmarket.support^
+||au-web.support^
 ||auclientpf.support^
 ||auth-find.support^
 ||auth-i.support^
@@ -91,7 +92,6 @@
 ||ava.support^
 ||avg.support^
 ||axel.support^
-||ayem.support^
 ||ayodhya.support^
 ||bahraini.support^
 ||bajaj.support^
@@ -103,9 +103,9 @@
 ||benevolution.support^
 ||benign.support^
 ||berrysolutions.support^
-||best4software.support^
 ||beyond.support^
 ||bilal.support^
+||billboard.support^
 ||billdesk.support^
 ||bitcoinetf.support^
 ||bitventures.support^
@@ -114,6 +114,7 @@
 ||bluedot.support^
 ||bolton.support^
 ||breitenbach.support^
+||browser.support^
 ||bsps.support^
 ||bsv.support^
 ||budbargain.support^
@@ -137,7 +138,7 @@
 ||cfx.support^
 ||cha.support^
 ||chaingefinance.support^
-||charitable.support^
+||changes.support^
 ||check-icloud.support^
 ||choice.support^
 ||christian.support^
@@ -149,9 +150,7 @@
 ||cjcit.support^
 ||claim-services.support^
 ||claim-web3.support^
-||claimedalliance.support^
 ||claimhelp.support^
-||clipnshade.support^
 ||cloud-online.support^
 ||cnsrtaemperfect.support^
 ||cnsrteamperfect.support^
@@ -173,7 +172,6 @@
 ||com-verify.support^
 ||community-5264565878451.support^
 ||communitynetworkagents.support^
-||communityrx.support^
 ||concept.support^
 ||confirmid.support^
 ||corp.support^
@@ -209,7 +207,6 @@
 ||digi.support^
 ||discerningmind.support^
 ||disease.support^
-||dista.support^
 ||distadium.support^
 ||distib-info.support^
 ||docstudios.support^
@@ -220,7 +217,6 @@
 ||downturies.support^
 ||druillaged.support^
 ||dsl.support^
-||duquesne.support^
 ||e-pharmacy.support^
 ||e-z.support^
 ||earthkin.support^
@@ -245,7 +241,6 @@
 ||exec.support^
 ||experiphereby.support^
 ||express-dhl-parcels.support^
-||eystx.support^
 ||face-it.support^
 ||faceit.support^
 ||faceitconnect.support^
@@ -259,7 +254,6 @@
 ||find-lat.support^
 ||find-live-location.support^
 ||find-localiser.support^
-||find-my-id.support^
 ||find-my-iphones.support^
 ||find-my.support^
 ||find-phone-location.support^
@@ -289,7 +283,6 @@
 ||give4.support^
 ||glazer.support^
 ||glorybeing.support^
-||glp-1.support^
 ||glyphonies.support^
 ||goatbet909.support^
 ||god55.support^
@@ -306,6 +299,7 @@
 ||graduatemation.support^
 ||grand.support^
 ||grape.support^
+||greatlife.support^
 ||greeingots.support^
 ||grid.support^
 ||grummittentity.support^
@@ -348,6 +342,7 @@
 ||identify-whatsapp.support^
 ||idfc.support^
 ||idfcfirst.support^
+||idinfo.support^
 ||iforget-maps-ios.support^
 ||iforgot-login-id-mx.support^
 ||iforgot-whatsapp.support^
@@ -364,12 +359,11 @@
 ||intellebox.support^
 ||internationalworkers.support^
 ||interstellar.support^
-||ios16.support^
+||intoodeep.support^
 ||iota.support^
 ||ipoffice.support^
 ||iprcm.support^
-||isupport-alert.support^
-||it-apple.support^
+||it-forensik.support^
 ||it-service.support^
 ||itelite.support^
 ||ivan.support^
@@ -384,7 +378,6 @@
 ||kentdenver.support^
 ||keonhacai.support^
 ||keto.support^
-||king5.support^
 ||kmict.support^
 ||kotak.support^
 ||ktvb.support^
@@ -418,7 +411,7 @@
 ||litgear.support^
 ||liveforeverhealth.support^
 ||localmemphis.support^
-||location-ios16.support^
+||locate-iphone.support^
 ||locationmx-ialert.support^
 ||locations-device.support^
 ||lovacrypto.support^
@@ -429,6 +422,7 @@
 ||macau.support^
 ||macintosh.support^
 ||mae.support^
+||mail-apple.support^
 ||maintenanceeg.support^
 ||malwarebytes.support^
 ||manage-appleld.support^
@@ -440,9 +434,11 @@
 ||manticore.support^
 ||map-online.support^
 ||maps-br.support^
+||maps-fmi.support^
 ||maputralian.support^
 ||mark.support^
 ||massemblindrich.support^
+||mastercard-vacu.support^
 ||math.support^
 ||mcpa.support^
 ||mcrepair.support^
@@ -457,6 +453,7 @@
 ||metaretail.support^
 ||methodpay.support^
 ||metod.support^
+||mi-lostmode.support^
 ||microalgae.support^
 ||midi.support^
 ||mizuhobank.support^
@@ -471,14 +468,11 @@
 ||mvideo.support^
 ||mx5.support^
 ||my-password.support^
-||myfoxzone.support^
 ||myiphone.support^
 ||mymental.support^
-||myogenlabs.support^
 ||myr.support^
 ||mysingpost.support^
 ||namefi.support^
-||narkotyki.support^
 ||neptune.support^
 ||nesting.support^
 ||net88.support^
@@ -504,7 +498,6 @@
 ||novaeon.support^
 ||noveco.support^
 ||nsfas.support^
-||nymcard.support^
 ||o1eb1.support^
 ||obrien.support^
 ||olbvacumember.support^
@@ -513,7 +506,6 @@
 ||omnitude.support^
 ||onbuy.support^
 ||one88.support^
-||oneclick.support^
 ||onereview.support^
 ||onlinebet.support^
 ||onlinee-lcloud.support^
@@ -532,7 +524,6 @@
 ||parcel-delivery.support^
 ||parcel-secure-delivery.support^
 ||parcel-securedelivery.support^
-||parentkidhelp.support^
 ||parole.support^
 ||pay-back.support^
 ||paymenthelpukr.support^
@@ -550,12 +541,11 @@
 ||pif.support^
 ||pilot.support^
 ||pionex.support^
+||pislot.support^
 ||pltfrm.support^
-||plumberslosangeles.support^
 ||pmpro.support^
 ||pofy.support^
 ||presence.support^
-||printersetup.support^
 ||problement.support^
 ||procurement.support^
 ||projectcanna.support^
@@ -568,10 +558,10 @@
 ||rachutaneous.support^
 ||raden38.support^
 ||ratcfngw.support^
-||rbcroyalbanksecurity.support^
 ||rebuild.support^
 ||recovery-whatsapp.support^
 ||recuperation.support^
+||reddyanna.support^
 ||referencetree.support^
 ||reflecturied.support^
 ||refugee.support^
@@ -605,6 +595,7 @@
 ||sarcoal.support^
 ||scales.support^
 ||scourther.support^
+||search-apple.support^
 ||seconoment.support^
 ||secure-bittvavo.support^
 ||secure-dhlorder.support^
@@ -649,7 +640,6 @@
 ||stewart.support^
 ||stlchess.support^
 ||strange.support^
-||subzeronyc.support^
 ||succession.support^
 ||suitchsui.support^
 ||suivi-acheminement.support^
@@ -701,7 +691,6 @@
 ||trendingzone.support^
 ||trezor.support^
 ||tristanmobile.support^
-||trix.support^
 ||truelogian.support^
 ||truelogiant.support^
 ||turk.support^
@@ -709,6 +698,7 @@
 ||two-factor.support^
 ||twprotect.support^
 ||ubet89.support^
+||ubication.support^
 ||ufabet365.support^
 ||uk88.support^
 ||ukrainehelp.support^
@@ -739,7 +729,6 @@
 ||verifyevents.support^
 ||verifyid.support^
 ||verse.support^
-||vetech.support^
 ||vettech.support^
 ||viewmydevice.support^
 ||village.support^
@@ -758,7 +747,6 @@
 ||wawaslot.support^
 ||wcnc.support^
 ||web3-claiming.support^
-||webteam.support^
 ||weontic.support^
 ||weontication.support^
 ||weorientation.support^
