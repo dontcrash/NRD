@@ -8,6 +8,7 @@
 ||abdavid.bot^
 ||advocate.bot^
 ||aerospace.bot^
+||aethir.bot^
 ||agentic.bot^
 ||agiro.bot^
 ||ai-assistant.bot^
@@ -60,6 +61,10 @@
 ||bollywood.bot^
 ||bondetf.bot^
 ||bondetfs.bot^
+||bonduel.bot^
+||bonduele.bot^
+||bonduell.bot^
+||bonduellle.bot^
 ||bonuscode.bot^
 ||botcraft.bot^
 ||botfarm.bot^
@@ -72,6 +77,7 @@
 ||bye.bot^
 ||bypass.bot^
 ||c3.bot^
+||caipiao.bot^
 ||callreview.bot^
 ||candle.bot^
 ||capchabot.bot^
@@ -105,7 +111,6 @@
 ||coral.bot^
 ||cornerthemarket.bot^
 ||cosmetics.bot^
-||costumedesign.bot^
 ||coywolf.bot^
 ||cpt.bot^
 ||crewroom.bot^
@@ -156,11 +161,9 @@
 ||esim.bot^
 ||ethe.bot^
 ||evaluation.bot^
-||exo-shell.bot^
 ||expi.bot^
 ||exploit.bot^
 ||eyeq.bot^
-||facts.bot^
 ||feedshift.bot^
 ||ferret.bot^
 ||findmyai.bot^
@@ -174,7 +177,6 @@
 ||gamemall.bot^
 ||gamification.bot^
 ||gdpr.bot^
-||gemflip.bot^
 ||geysevilleinn.bot^
 ||golang.bot^
 ||goodyear.bot^
@@ -185,6 +187,7 @@
 ||grokmeme.bot^
 ||gtm.bot^
 ||guac.bot^
+||guardianai.bot^
 ||guidedog.bot^
 ||habits.bot^
 ||healthywealthywise.bot^
@@ -194,10 +197,10 @@
 ||homeoutletdirect.bot^
 ||hpn.bot^
 ||humanoid.bot^
+||humansource.bot^
 ||hyped.bot^
 ||icd.bot^
 ||icp.bot^
-||infinitybet.bot^
 ||initiate.bot^
 ||injective.bot^
 ||inker.bot^
@@ -206,6 +209,7 @@
 ||integer.bot^
 ||intentai.bot^
 ||intra.bot^
+||inv.bot^
 ||ipanel.bot^
 ||iqmarkets.bot^
 ||jat.bot^
@@ -230,6 +234,7 @@
 ||larsen.bot^
 ||lastwill.bot^
 ||learntotrade.bot^
+||lede.bot^
 ||legalassistant.bot^
 ||legions.bot^
 ||lenny.bot^
@@ -251,7 +256,6 @@
 ||martin.bot^
 ||maru.bot^
 ||materia.bot^
-||maxheadroom.bot^
 ||maxx.bot^
 ||mbna.bot^
 ||medspa.bot^
@@ -292,7 +296,7 @@
 ||obit.bot^
 ||obman.bot^
 ||odoo.bot^
-||olakrutrim.bot^
+||okx.bot^
 ||ollie.bot^
 ||onlinecasinos.bot^
 ||organiser.bot^
@@ -308,9 +312,9 @@
 ||personally.bot^
 ||phimxxx.bot^
 ||photolab.bot^
-||pinescript.bot^
 ||prayer.bot^
 ||preview.bot^
+||probot.bot^
 ||profit.bot^
 ||prometheus.bot^
 ||props.bot^
@@ -341,7 +345,6 @@
 ||sanity.bot^
 ||satoshinakamoto.bot^
 ||satuslots1.bot^
-||screenplay.bot^
 ||scrs.bot^
 ||scylla.bot^
 ||sellifygpt.bot^
@@ -362,7 +365,6 @@
 ||snippet.bot^
 ||solitaire.bot^
 ||solpeak.bot^
-||solverone.bot^
 ||spinthewheel.bot^
 ||stingray.bot^
 ||stockadvisor.bot^
@@ -376,7 +378,6 @@
 ||sythys.bot^
 ||talisman.bot^
 ||talkbuzz.bot^
-||tau.bot^
 ||tawk.bot^
 ||taxpro.bot^
 ||tcg.bot^
@@ -434,7 +435,6 @@
 ||webpage.bot^
 ||webscraping.bot^
 ||website-domains.bot^
-||wei.bot^
 ||whitehat.bot^
 ||wiki.bot^
 ||wildfire.bot^
@@ -444,5 +444,6 @@
 ||xiaoke.bot^
 ||xpayment.bot^
 ||xpilot.bot^
+||yabo.bot^
 ||zapi.bot^
 ||zappy.bot^

@@ -52,6 +52,7 @@
 ||ailment.health^
 ||ailments.health^
 ||aiu.health^
+||akquinet.health^
 ||alliancehealth.health^
 ||almailam.health^
 ||alphatech.health^
@@ -70,11 +71,15 @@
 ||bigfoot.health^
 ||bigman.health^
 ||biocell.health^
+||bioenergetics.health^
 ||biorgaket.health^
+||blackberry.health^
+||bluhaven.health^
 ||bong99.health^
 ||botanic.health^
 ||bozeman.health^
 ||bryanjohnsonblueprint.health^
+||bumper.health^
 ||buyventeurhealth.health^
 ||cai.health^
 ||cancelcancer.health^
@@ -82,9 +87,9 @@
 ||cardia.health^
 ||careso.health^
 ||carlosmala.health^
-||carrom.health^
 ||cause.health^
 ||cedars.health^
+||cellufit.health^
 ||certificate.health^
 ||checklist.health^
 ||childrenspine.health^
@@ -139,9 +144,7 @@
 ||elderli.health^
 ||elevatedpt.health^
 ||elite360care.health^
-||elivity.health^
 ||elshen.health^
-||elyon.health^
 ||elysiumestate.health^
 ||eqology.health^
 ||equalitymd.health^
@@ -156,7 +159,6 @@
 ||faktorydop.health^
 ||fcb8.health^
 ||feedingcommunity.health^
-||fello.health^
 ||fieldlab.health^
 ||findyourwaytherapy.health^
 ||fine.health^
@@ -192,7 +194,6 @@
 ||heartlandseniorliving.health^
 ||heelo.health^
 ||hepipa.health^
-||hey-nutri.health^
 ||highlands.health^
 ||hilltopcottage.health^
 ||hipclub.health^
@@ -241,7 +242,7 @@
 ||lifeos.health^
 ||lifesten.health^
 ||liv.health^
-||lively.health^
+||livetulani.health^
 ||livinggreen.health^
 ||looseweight.health^
 ||lotusweightloss.health^
@@ -250,7 +251,6 @@
 ||magnet.health^
 ||magnifai.health^
 ||manclub.health^
-||materia.health^
 ||mayclub.health^
 ||mbohq.health^
 ||medcarerecoverysolutions.health^
@@ -267,6 +267,7 @@
 ||metarix.health^
 ||methodus.health^
 ||mhslabs.health^
+||miboqo.health^
 ||mindscout.health^
 ||minty.health^
 ||mmj.health^
@@ -280,7 +281,6 @@
 ||mycovidrecord.health^
 ||mygoodness.health^
 ||mymenopause.health^
-||mysolution.health^
 ||naked.health^
 ||naturoids.health^
 ||nbet.health^
@@ -294,7 +294,6 @@
 ||nota.health^
 ||nuomo.health^
 ||nuu.health^
-||odyssey.health^
 ||okmed.health^
 ||omnipotence.health^
 ||onaya.health^
@@ -331,6 +330,7 @@
 ||primetel.health^
 ||profit.health^
 ||prolife.health^
+||proto.health^
 ||prudent.health^
 ||psychedelictherapy.health^
 ||psychminded.health^
@@ -355,7 +355,6 @@
 ||report.health^
 ||retatrutide.health^
 ||revai.health^
-||revup.health^
 ||rhaw.health^
 ||rmt.health^
 ||safari.health^
@@ -366,13 +365,15 @@
 ||selfwellness.health^
 ||service-hub.health^
 ||sessions.health^
-||sgcc.health^
 ||sholder.health^
 ||silvertree.health^
 ||simerp.health^
+||simpleflow.health^
 ||simplymedcare.health^
 ||sin88.health^
 ||snrpe.health^
+||soeasy.health^
+||some.health^
 ||soundtherapy.health^
 ||sourcepharmacy.health^
 ||spotlight.health^
@@ -394,6 +395,7 @@
 ||tab.health^
 ||talktherapy.health^
 ||theosteopath.health^
+||theretreat.health^
 ||theroadtorecovery.health^
 ||threerivers.health^
 ||tie.health^
@@ -403,6 +405,7 @@
 ||tongue.health^
 ||top88.health^
 ||trayawoman.health^
+||tulani.health^
 ||udeti.health^
 ||umbria.health^
 ||underbutler.health^

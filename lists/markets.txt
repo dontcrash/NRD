@@ -28,7 +28,6 @@
 ||corporate.markets^
 ||cpt.markets^
 ||cryptex.markets^
-||defense.markets^
 ||deso.markets^
 ||dex.markets^
 ||diamond.markets^
@@ -37,6 +36,7 @@
 ||e-pharmacy.markets^
 ||election.markets^
 ||fake.markets^
+||finder.markets^
 ||finery.markets^
 ||fluent.markets^
 ||forever.markets^
@@ -95,6 +95,7 @@
 ||orbit.markets^
 ||overstock.markets^
 ||pandemicimpact.markets^
+||pentagon.markets^
 ||pixel.markets^
 ||political.markets^
 ||polynomial.markets^
@@ -122,7 +123,6 @@
 ||tele.markets^
 ||tensor.markets^
 ||teslastocks.markets^
-||tindy.markets^
 ||topfloor.markets^
 ||ture.markets^
 ||uk88.markets^

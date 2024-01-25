@@ -39,10 +39,8 @@
 ||czechfuel.cards^
 ||deep.cards^
 ||degenlotto.cards^
-||deluxe.cards^
 ||digital.cards^
 ||digitalv.cards^
-||dump.cards^
 ||eagle.cards^
 ||ease.cards^
 ||ecoin.cards^
@@ -57,7 +55,6 @@
 ||flashlingua.cards^
 ||flexpay.cards^
 ||footy.cards^
-||gemmintsports.cards^
 ||gift-card.cards^
 ||goldribbon.cards^
 ||hashtag.cards^
@@ -70,7 +67,6 @@
 ||kennel.cards^
 ||kicks.cards^
 ||kiss.cards^
-||kitty.cards^
 ||last.cards^
 ||lasting.cards^
 ||link.cards^
@@ -90,6 +86,7 @@
 ||myholiday.cards^
 ||mysticherb.cards^
 ||names.cards^
+||neodigital.cards^
 ||nfcqr.cards^
 ||nhat.cards^
 ||nurse.cards^
@@ -100,7 +97,9 @@
 ||onza.cards^
 ||opal.cards^
 ||orenda.cards^
+||particle.cards^
 ||pattymelt.cards^
+||pentagon.cards^
 ||pio.cards^
 ||playpedro.cards^
 ||popau.cards^
@@ -110,6 +109,7 @@
 ||realcrypto.cards^
 ||reload.cards^
 ||rendezvous.cards^
+||resto.cards^
 ||retro.cards^
 ||ripntearsports.cards^
 ||robux.cards^
@@ -135,8 +135,6 @@
 ||topg.cards^
 ||transfer24.cards^
 ||trb.cards^
-||trout.cards^
-||ttd.cards^
 ||uae.cards^
 ||use-v.cards^
 ||value.cards^
