@@ -13,11 +13,7 @@
 ||boundlessenergy.broker^
 ||canna.broker^
 ||cantor.broker^
-||carshippingquote.broker^
-||carshippingquotes.broker^
-||cobroker.broker^
-||commercialrealestate.broker^
-||construction.broker^
+||cfs-bonds.broker^
 ||cookie.broker^
 ||cover.broker^
 ||coverall.broker^
@@ -30,6 +26,7 @@
 ||e-pharmacy.broker^
 ||edmontonmortgage.broker^
 ||efexfx.broker^
+||employeebenefitsnj.broker^
 ||etf.broker^
 ||f1.broker^
 ||fa88.broker^
@@ -38,11 +35,11 @@
 ||gacor680indo.broker^
 ||gallery.broker^
 ||gemwin.broker^
+||getrefunds.broker^
 ||gfi.broker^
 ||gscheitversichert.broker^
 ||hall.broker^
 ||handshake.broker^
-||hardmoney.broker^
 ||hit.broker^
 ||icmarkets.broker^
 ||image.broker^
@@ -101,7 +98,6 @@
 ||subnet.broker^
 ||ta88.broker^
 ||tagalogspeaking.broker^
-||tenminitz.broker^
 ||tradestation.broker^
 ||use.broker^
 ||v8.broker^

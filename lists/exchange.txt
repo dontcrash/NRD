@@ -46,6 +46,7 @@
 ||bridges.exchange^
 ||brit.exchange^
 ||btcash.exchange^
+||bulk.exchange^
 ||bullachain.exchange^
 ||bullstocks.exchange^
 ||bunnger.exchange^
@@ -57,19 +58,22 @@
 ||cash.exchange^
 ||catwalks.exchange^
 ||cemelot.exchange^
-||centimos.exchange^
+||cexglobal.exchange^
 ||chedd.exchange^
 ||chord.exchange^
+||cint.exchange^
 ||claim-rubic.exchange^
 ||clickpay.exchange^
 ||closetworld.exchange^
 ||coinmining.exchange^
+||coinpal.exchange^
 ||coinverse.exchange^
 ||conto.exchange^
 ||convert.exchange^
 ||corn.exchange^
 ||cranium.exchange^
 ||crush.exchange^
+||crydex.exchange^
 ||cryptohub.exchange^
 ||cryptomultibit.exchange^
 ||crystal.exchange^
@@ -81,6 +85,7 @@
 ||deqx.exchange^
 ||derivabit.exchange^
 ||detf.exchange^
+||dgg.exchange^
 ||digitalasset.exchange^
 ||diversitybusinessdevelopment.exchange^
 ||dogemap.exchange^
@@ -90,6 +95,7 @@
 ||dxdywebsite.exchange^
 ||e-rub.exchange^
 ||ee88.exchange^
+||embr.exchange^
 ||equestrian.exchange^
 ||europa.exchange^
 ||everybit.exchange^
@@ -102,7 +108,6 @@
 ||five88.exchange^
 ||flac.exchange^
 ||ftlr.exchange^
-||gamejam.exchange^
 ||gametoken.exchange^
 ||geeks.exchange^
 ||gemwin.exchange^
@@ -124,11 +129,9 @@
 ||iwinclub.exchange^
 ||ix.exchange^
 ||jito.exchange^
-||jump.exchange^
 ||jup-ag.exchange^
 ||jupiterstation.exchange^
 ||keycap.exchange^
-||kingdomcoin.exchange^
 ||koinos.exchange^
 ||kupa.exchange^
 ||kytheria.exchange^
@@ -152,7 +155,6 @@
 ||matrixchange.exchange^
 ||may88.exchange^
 ||mblox.exchange^
-||mbuni.exchange^
 ||mdx.exchange^
 ||mediumofexchange.exchange^
 ||mibet.exchange^
@@ -169,8 +171,10 @@
 ||mvtoken.exchange^
 ||nanowallet.exchange^
 ||nebulax.exchange^
+||neighbor.exchange^
 ||net88.exchange^
 ||notcoin.exchange^
+||nuri.exchange^
 ||oav.exchange^
 ||one88.exchange^
 ||onio.exchange^
@@ -182,7 +186,6 @@
 ||opiumium.exchange^
 ||ordiswap.exchange^
 ||ordizk.exchange^
-||otegotextile.exchange^
 ||p2pshield.exchange^
 ||parity.exchange^
 ||patent.exchange^
@@ -197,6 +200,7 @@
 ||properties.exchange^
 ||qipay.exchange^
 ||quantummetal.exchange^
+||quasar.exchange^
 ||quickzwap.exchange^
 ||raydium.exchange^
 ||red88.exchange^
@@ -225,7 +229,6 @@
 ||solpad.exchange^
 ||sparrow.exchange^
 ||spinner.exchange^
-||spirit.exchange^
 ||spotbitcoin.exchange^
 ||sprite.exchange^
 ||srisai.exchange^
@@ -240,9 +243,10 @@
 ||sweep.exchange^
 ||tao.exchange^
 ||thelotus.exchange^
+||theport.exchange^
 ||threadlink.exchange^
+||tier1.exchange^
 ||tokenlze.exchange^
-||tokyocoin.exchange^
 ||topaz.exchange^
 ||topcash.exchange^
 ||transparency.exchange^

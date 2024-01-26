@@ -9,15 +9,16 @@
 ||aps.properties^
 ||arba.properties^
 ||arex.properties^
+||arlington.properties^
 ||armholdings.properties^
 ||artificialintelligence.properties^
 ||assetbase.properties^
 ||aster.properties^
 ||astuno.properties^
+||aventus.properties^
 ||b52.properties^
 ||bats.properties^
 ||bayarea.properties^
-||bennelong.properties^
 ||bespokereal.properties^
 ||beta.properties^
 ||beulah.properties^
@@ -28,6 +29,7 @@
 ||buyira.properties^
 ||cabin.properties^
 ||carryall.properties^
+||catlincollection.properties^
 ||cdr.properties^
 ||century21.properties^
 ||champagne.properties^
@@ -88,11 +90,11 @@
 ||hyderabad.properties^
 ||icent.properties^
 ||il.properties^
-||installment.properties^
 ||institute.properties^
 ||iris.properties^
 ||isellpuntacana.properties^
 ||jenniferwright.properties^
+||jimden.properties^
 ||junelaketn.properties^
 ||jvp.properties^
 ||keenlogic.properties^
@@ -105,6 +107,7 @@
 ||latifa.properties^
 ||leo88.properties^
 ||lesaseibert.properties^
+||lgb.properties^
 ||limelight.properties^
 ||livejunelaketn.properties^
 ||lode88.properties^
@@ -115,7 +118,6 @@
 ||luna.properties^
 ||macau.properties^
 ||mainecoastrealestate.properties^
-||manitoba.properties^
 ||mantra.properties^
 ||maritime.properties^
 ||matrix.properties^
@@ -152,6 +154,7 @@
 ||primary.properties^
 ||propertyfile.properties^
 ||purple.properties^
+||ramp.properties^
 ||red88.properties^
 ||redbrick.properties^
 ||rnr.properties^
@@ -176,10 +179,8 @@
 ||sigma.properties^
 ||sin88.properties^
 ||smartinvest.properties^
-||smithrealtypartners.properties^
 ||smw.properties^
 ||sol8.properties^
-||southkorea.properties^
 ||standrews.properties^
 ||suite.properties^
 ||sullivans.properties^
@@ -187,10 +188,10 @@
 ||tact.properties^
 ||tau.properties^
 ||teesside.properties^
-||texascommercial.properties^
 ||themiddleeast.properties^
 ||theseare.properties^
 ||third.properties^
+||timessquare.properties^
 ||tkelite.properties^
 ||tmg.properties^
 ||triple-e.properties^
@@ -216,8 +217,6 @@
 ||worldsbestrealestate.properties^
 ||wrightwood.properties^
 ||xo88.properties^
-||xoso66.properties^
-||yaml2.properties^
 ||yorkcounty.properties^
 ||zbet.properties^
 ||zigzagslot.properties^

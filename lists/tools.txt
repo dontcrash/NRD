@@ -10,6 +10,7 @@
 ||admincenter.tools^
 ||adobe-commerce-community.tools^
 ||adspy.tools^
+||adventure.tools^
 ||aihive.tools^
 ||aim.tools^
 ||aimo.tools^
@@ -28,6 +29,7 @@
 ||amrani.tools^
 ||ancient.tools^
 ||annual.tools^
+||anti-slavery.tools^
 ||antirug.tools^
 ||apexgpt.tools^
 ||aramco.tools^
@@ -36,7 +38,6 @@
 ||aro.tools^
 ||arte.tools^
 ||ashtons.tools^
-||askai.tools^
 ||assessmentmarketplace.tools^
 ||astra.tools^
 ||auralytical.tools^
@@ -50,7 +51,6 @@
 ||bivisi.tools^
 ||blackdog.tools^
 ||blockchain.tools^
-||blogging.tools^
 ||bloombox.tools^
 ||bong99.tools^
 ||bosch-shop.tools^
@@ -77,7 +77,6 @@
 ||countmein.tools^
 ||cr101.tools^
 ||cross.tools^
-||crosschain.tools^
 ||cryptoseller.tools^
 ||dab.tools^
 ||daimon.tools^
@@ -86,7 +85,6 @@
 ||davo.tools^
 ||dbs.tools^
 ||debit.tools^
-||decalvenue.tools^
 ||devex.tools^
 ||disc.tools^
 ||dov.tools^
@@ -110,7 +108,6 @@
 ||evan.tools^
 ||everwell.tools^
 ||exec.tools^
-||express.tools^
 ||fa88.tools^
 ||facilitation.tools^
 ||fantasy99.tools^
@@ -125,7 +122,7 @@
 ||frax.tools^
 ||fuckyou.tools^
 ||gendata.tools^
-||girl.tools^
+||getsaas.tools^
 ||giveaway.tools^
 ||giveme.tools^
 ||gnostudio.tools^
@@ -156,6 +153,7 @@
 ||huge.tools^
 ||hydra.tools^
 ||hyperv.tools^
+||igloo.tools^
 ||imagesearch.tools^
 ||imex.tools^
 ||inflation-calculator.tools^
@@ -164,7 +162,6 @@
 ||instagramstorydownload.tools^
 ||intelli.tools^
 ||ipower.tools^
-||ito5d.tools^
 ||javan.tools^
 ||jfif.tools^
 ||jup.tools^
@@ -172,7 +169,6 @@
 ||kate.tools^
 ||kcb.tools^
 ||keonhacai.tools^
-||korloy.tools^
 ||ksa.tools^
 ||kvell.tools^
 ||lang.tools^
@@ -205,6 +201,7 @@
 ||mindscape.tools^
 ||mjolnir.tools^
 ||mobius.tools^
+||modernslaverycompliance.tools^
 ||moneda.tools^
 ||monero.tools^
 ||msart.tools^
@@ -228,7 +225,6 @@
 ||nextgen.tools^
 ||nexy.tools^
 ||ng.tools^
-||nodex.tools^
 ||nox.tools^
 ||nubo.tools^
 ||oav.tools^
@@ -259,7 +255,6 @@
 ||policymaker.tools^
 ||powrox.tools^
 ||prefix.tools^
-||priv8.tools^
 ||proactive.tools^
 ||prulde.tools^
 ||pubg.tools^
@@ -277,7 +272,6 @@
 ||reese.tools^
 ||rei.tools^
 ||reinsurance.tools^
-||rentlocal.tools^
 ||replaceanything.tools^
 ||rewst.tools^
 ||rey.tools^
@@ -325,7 +319,6 @@
 ||super.tools^
 ||supplychain.tools^
 ||surf.tools^
-||swis.tools^
 ||sysid.tools^
 ||sysops.tools^
 ||sz.tools^
@@ -370,11 +363,13 @@
 ||valor.tools^
 ||vanced.tools^
 ||venox.tools^
+||verynice.tools^
 ||videoeditor.tools^
 ||vinwin.tools^
 ||vu.tools^
 ||vulkan.tools^
 ||webp.tools^
+||websight.tools^
 ||website-dev.tools^
 ||wedo.tools^
 ||wherearemy.tools^
@@ -391,5 +386,4 @@
 ||ytmp3.tools^
 ||zbet.tools^
 ||zim.tools^
-||zinger.tools^
 ||zso.tools^
