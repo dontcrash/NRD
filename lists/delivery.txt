@@ -17,7 +17,6 @@
 ||active.delivery^
 ||africa.delivery^
 ||alternative.delivery^
-||amoudo.delivery^
 ||angelopizza.delivery^
 ||animal.delivery^
 ||antalyaflowers.delivery^
@@ -46,12 +45,14 @@
 ||cigarettes.delivery^
 ||clean.delivery^
 ||clockwork.delivery^
+||clone.delivery^
 ||coastal.delivery^
 ||cocain.delivery^
 ||coke.delivery^
 ||confirm.delivery^
 ||convenient.delivery^
 ||cookies.delivery^
+||courierhub.delivery^
 ||cp.delivery^
 ||crio.delivery^
 ||cumdump.delivery^
@@ -91,7 +92,6 @@
 ||futura.delivery^
 ||gingo.delivery^
 ||goferit.delivery^
-||goldenessentials.delivery^
 ||gomovies.delivery^
 ||helsinkiflowers.delivery^
 ||hit.delivery^
@@ -108,7 +108,9 @@
 ||kualalumpurflowers.delivery^
 ||lakebum.delivery^
 ||lasvegasweed.delivery^
+||levelup.delivery^
 ||links.delivery^
+||liquorcabinet.delivery^
 ||locsrch.delivery^
 ||lucky88.delivery^
 ||luxembourgflowers.delivery^
@@ -157,6 +159,7 @@
 ||reykjavikflowers.delivery^
 ||rik.delivery^
 ||rosaamazonica.delivery^
+||satchel.delivery^
 ||saudiarabian.delivery^
 ||sg.delivery^
 ||shamrock.delivery^
@@ -210,3 +213,4 @@
 ||xo88.delivery^
 ||xx.delivery^
 ||yoshqa.delivery^
+||zoar.delivery^

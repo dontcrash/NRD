@@ -17,14 +17,12 @@
 ||cookie.broker^
 ||cover.broker^
 ||coverall.broker^
-||dao.broker^
 ||darknet.broker^
 ||debet.broker^
 ||digitalrealestate.broker^
 ||dropshipping.broker^
 ||drug.broker^
 ||e-pharmacy.broker^
-||edmontonmortgage.broker^
 ||efexfx.broker^
 ||employeebenefitsnj.broker^
 ||etf.broker^
@@ -42,7 +40,6 @@
 ||handshake.broker^
 ||hit.broker^
 ||icmarkets.broker^
-||image.broker^
 ||immo.broker^
 ||iwin.broker^
 ||iwinclub.broker^
@@ -67,11 +64,12 @@
 ||museum.broker^
 ||namefi.broker^
 ||net88.broker^
+||news.broker^
 ||nvuti.broker^
 ||oanda.broker^
-||offshoring.broker^
 ||ohiomedicare.broker^
 ||one88.broker^
+||opportunity.broker^
 ||plus500.broker^
 ||prestige.broker^
 ||real-estate.broker^
@@ -91,7 +89,6 @@
 ||soc88.broker^
 ||spanishspeaking.broker^
 ||starlink.broker^
-||stay.broker^
 ||stockexchange.broker^
 ||stockportfolio.broker^
 ||stocky.broker^

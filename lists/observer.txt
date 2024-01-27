@@ -7,8 +7,8 @@
 ||blast.observer^
 ||blochchain.observer^
 ||blowj.observer^
+||blur.observer^
 ||commerce.observer^
-||crw.observer^
 ||debet.observer^
 ||desci.observer^
 ||dmarc.observer^
@@ -61,9 +61,10 @@
 ||scrimstats.observer^
 ||selalupanen.observer^
 ||shell.observer^
-||superjitu.observer^
+||tg.observer^
 ||ticket.observer^
 ||tip.observer^
+||universo-pt.observer^
 ||ux-design-courses-br.observer^
 ||v3x.observer^
 ||v8.observer^

@@ -7,7 +7,6 @@
 ||abl.exchange^
 ||agentex.exchange^
 ||agglo.exchange^
-||aiagents.exchange^
 ||aijob.exchange^
 ||almailam.exchange^
 ||altruistry.exchange^
@@ -44,7 +43,6 @@
 ||brc20-dex.exchange^
 ||bridgenode.exchange^
 ||bridges.exchange^
-||brit.exchange^
 ||btcash.exchange^
 ||bulk.exchange^
 ||bullachain.exchange^
@@ -83,7 +81,6 @@
 ||deita.exchange^
 ||depins.exchange^
 ||deqx.exchange^
-||derivabit.exchange^
 ||detf.exchange^
 ||dgg.exchange^
 ||digitalasset.exchange^
@@ -95,11 +92,11 @@
 ||dxdywebsite.exchange^
 ||e-rub.exchange^
 ||ee88.exchange^
+||ehw.exchange^
 ||embr.exchange^
 ||equestrian.exchange^
 ||europa.exchange^
 ||everybit.exchange^
-||farmer.exchange^
 ||fax.exchange^
 ||fcb8.exchange^
 ||fenics.exchange^
@@ -113,6 +110,7 @@
 ||gemwin.exchange^
 ||geneva.exchange^
 ||globex-globalx.exchange^
+||goldbar.exchange^
 ||gomarketes.exchange^
 ||greatest.exchange^
 ||gtg.exchange^
@@ -133,8 +131,6 @@
 ||jupiterstation.exchange^
 ||keycap.exchange^
 ||koinos.exchange^
-||kupa.exchange^
-||kytheria.exchange^
 ||labor.exchange^
 ||launchpad-jupiter.exchange^
 ||lbuungeee.exchange^
@@ -198,10 +194,10 @@
 ||powerpay.exchange^
 ||priestessai.exchange^
 ||properties.exchange^
-||qipay.exchange^
 ||quantummetal.exchange^
 ||quasar.exchange^
 ||quickzwap.exchange^
+||ram.exchange^
 ||raydium.exchange^
 ||red88.exchange^
 ||redemption.exchange^
@@ -217,6 +213,7 @@
 ||rubicq.exchange^
 ||rubict.exchange^
 ||rubicx.exchange^
+||satbet.exchange^
 ||saucerswap.exchange^
 ||sc.exchange^
 ||seiswap.exchange^
@@ -235,7 +232,6 @@
 ||stake-multibit.exchange^
 ||stamps.exchange^
 ||stocky.exchange^
-||strata.exchange^
 ||strikt.exchange^
 ||styl.exchange^
 ||swag.exchange^
