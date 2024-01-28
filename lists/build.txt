@@ -15,7 +15,6 @@
 ||designand.build^
 ||designunique.build^
 ||desoc.build^
-||digitalist.build^
 ||durapro.build^
 ||edison.build^
 ||elevated.build^
@@ -54,18 +53,17 @@
 ||openshift.build^
 ||payments.build^
 ||pkconstruction.build^
-||polebarn.build^
 ||prompts.build^
 ||red88.build^
 ||rezolve.build^
 ||rikvip.build^
 ||running.build^
+||sgl.build^
 ||soc88.build^
 ||solana.build^
 ||steamworld.build^
 ||steve.build^
 ||ta88.build^
-||tcp.build^
 ||tesseract.build^
 ||thecarpetprotectioncenter.build^
 ||thefloorprotectioncenter.build^

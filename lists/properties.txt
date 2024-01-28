@@ -18,10 +18,10 @@
 ||aventus.properties^
 ||b52.properties^
 ||bats.properties^
-||bayarea.properties^
 ||bespokereal.properties^
 ||beta.properties^
 ||beulah.properties^
+||binarium.properties^
 ||bluediamond.properties^
 ||blueridgemountainscabins.properties^
 ||bong99.properties^
@@ -39,7 +39,6 @@
 ||creamerylaneutah.properties^
 ||dal.properties^
 ||defense.properties^
-||deutsch.properties^
 ||development.properties^
 ||dolphin.properties^
 ||domaining.properties^
@@ -70,7 +69,6 @@
 ||gaia.properties^
 ||getguides.properties^
 ||glenwood.properties^
-||globuson.properties^
 ||golica.properties^
 ||goodlife.properties^
 ||greentree.properties^
@@ -95,6 +93,7 @@
 ||institute.properties^
 ||iris.properties^
 ||isellpuntacana.properties^
+||islandheritage.properties^
 ||jenniferwright.properties^
 ||jimden.properties^
 ||junelaketn.properties^
@@ -147,7 +146,6 @@
 ||parec.properties^
 ||passwire.properties^
 ||patriot.properties^
-||payne.properties^
 ||peachmark.properties^
 ||penguin.properties^
 ||ppa.properties^
@@ -165,7 +163,6 @@
 ||rw.properties^
 ||sai.properties^
 ||sale.properties^
-||salon.properties^
 ||scott.properties^
 ||seaview.properties^
 ||seed.properties^
@@ -197,7 +194,6 @@
 ||tkelite.properties^
 ||tmg.properties^
 ||triple-e.properties^
-||trl.properties^
 ||truenorth.properties^
 ||vantage.properties^
 ||vchc.properties^

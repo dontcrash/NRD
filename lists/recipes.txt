@@ -12,6 +12,7 @@
 ||dabet.recipes^
 ||dadcooks.recipes^
 ||debet.recipes^
+||dishfusion.recipes^
 ||dockercompose.recipes^
 ||fa88.recipes^
 ||findly.recipes^
@@ -19,7 +20,6 @@
 ||friends.recipes^
 ||gem.recipes^
 ||gf.recipes^
-||git.recipes^
 ||glass.recipes^
 ||granny.recipes^
 ||grillandburger.recipes^
@@ -27,11 +27,11 @@
 ||guessworkkitchen.recipes^
 ||gymrats.recipes^
 ||hotsauce.recipes^
-||ideas.recipes^
 ||iwin.recipes^
 ||jaygourmet.recipes^
 ||korea.recipes^
 ||lgb.recipes^
+||local.recipes^
 ||lode88.recipes^
 ||lunch.recipes^
 ||makinglifedelicious.recipes^
@@ -46,6 +46,7 @@
 ||moroccanfood.recipes^
 ||mtl.recipes^
 ||nadines.recipes^
+||nature.recipes^
 ||nbet.recipes^
 ||nhatvip.recipes^
 ||ninth.recipes^
@@ -67,7 +68,6 @@
 ||sv88.recipes^
 ||system.recipes^
 ||tastyfoods.recipes^
-||thetasty.recipes^
 ||tip.recipes^
 ||tomat.recipes^
 ||tweak.recipes^

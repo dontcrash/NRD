@@ -5,6 +5,7 @@
 ||abcus.bot^
 ||abdavid.bot^
 ||abion.bot^
+||advisers.bot^
 ||aerospace.bot^
 ||aethir.bot^
 ||agiro.bot^
@@ -13,7 +14,6 @@
 ||aicreator.bot^
 ||aicredit.bot^
 ||aidefi.bot^
-||aigame.bot^
 ||aigpts.bot^
 ||aihealth.bot^
 ||aimy.bot^
@@ -44,17 +44,18 @@
 ||autoshop.bot^
 ||babelfish.bot^
 ||backsage.bot^
+||bancadoithuong.bot^
 ||bankofscotland.bot^
 ||bannertech.bot^
 ||beachball.bot^
 ||bestfx.bot^
 ||betbig.bot^
+||biased.bot^
 ||bilibili.bot^
 ||bingo.bot^
 ||bitcoinetfs.bot^
 ||blackbox.bot^
 ||blipshift.bot^
-||bollywood.bot^
 ||bondetf.bot^
 ||bondetfs.bot^
 ||bonduel.bot^
@@ -107,10 +108,9 @@
 ||cornerthemarket.bot^
 ||cosmetics.bot^
 ||coywolf.bot^
+||cre.bot^
 ||crewroom.bot^
 ||crossword.bot^
-||crowdsource.bot^
-||crowdsourcing.bot^
 ||cryptotrader.bot^
 ||curriculum.bot^
 ||custody.bot^
@@ -127,7 +127,6 @@
 ||desi.bot^
 ||dexterous.bot^
 ||did.bot^
-||dixio.bot^
 ||dizzy.bot^
 ||dotcom.bot^
 ||dragunova.bot^
@@ -145,6 +144,7 @@
 ||eleven.bot^
 ||elk.bot^
 ||emiratesauction.bot^
+||emotional.bot^
 ||encryption.bot^
 ||entity.bot^
 ||envision.bot^
@@ -154,6 +154,7 @@
 ||everythingai.bot^
 ||expi.bot^
 ||exploit.bot^
+||ey.bot^
 ||eyeq.bot^
 ||feedshift.bot^
 ||ferret.bot^
@@ -198,6 +199,7 @@
 ||insidertrading.bot^
 ||inspection.bot^
 ||integer.bot^
+||intelligenza.bot^
 ||intentai.bot^
 ||interin.bot^
 ||intra.bot^
@@ -205,8 +207,8 @@
 ||ipanel.bot^
 ||iqmarkets.bot^
 ||jat.bot^
-||jelena.bot^
 ||jiujitsu.bot^
+||justask.bot^
 ||k-9.bot^
 ||kaiga.bot^
 ||kairos.bot^
@@ -247,8 +249,11 @@
 ||materia.bot^
 ||maxx.bot^
 ||mbna.bot^
+||mcpvp.bot^
 ||medspa.bot^
 ||megasoft.bot^
+||mein-chat.bot^
+||memawe.bot^
 ||men-tora.bot^
 ||meshed.bot^
 ||metagpt.bot^
@@ -258,7 +263,6 @@
 ||mi.bot^
 ||mickey.bot^
 ||mickeymouse.bot^
-||microchip.bot^
 ||midman.bot^
 ||milestone.bot^
 ||mimi.bot^
@@ -309,11 +313,11 @@
 ||pivotal.bot^
 ||preview.bot^
 ||probot.bot^
-||prometheus.bot^
 ||proximo.bot^
 ||pt.bot^
 ||ptx.bot^
 ||punjabi.bot^
+||puravida.bot^
 ||pyusd.bot^
 ||qubits.bot^
 ||quickfix.bot^
@@ -337,14 +341,10 @@
 ||scrs.bot^
 ||scylla.bot^
 ||sellifygpt.bot^
-||semiconductor.bot^
 ||shayla.bot^
-||shinobi.bot^
-||shodan.bot^
 ||shop.bot^
 ||si.bot^
 ||silentdevnull.bot^
-||siliconvalley.bot^
 ||sino.bot^
 ||sites.bot^
 ||skrt.bot^
@@ -375,6 +375,7 @@
 ||them.bot^
 ||thewhiterabbit.bot^
 ||thinkspace.bot^
+||ticket-vision.bot^
 ||tokenary.bot^
 ||toonme.bot^
 ||topchat.bot^
@@ -393,7 +394,6 @@
 ||unitree.bot^
 ||unkn.bot^
 ||uwu.bot^
-||vans.bot^
 ||vape.bot^
 ||vedicastro.bot^
 ||venmo.bot^
@@ -423,6 +423,7 @@
 ||wildfire.bot^
 ||worker.bot^
 ||worldai.bot^
+||worldmeme.bot^
 ||xcoin.bot^
 ||xiaoke.bot^
 ||xpayment.bot^

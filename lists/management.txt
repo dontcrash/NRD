@@ -45,6 +45,7 @@
 ||essential.management^
 ||executive-mail.management^
 ||facilitation.management^
+||focus.management^
 ||fortuna.management^
 ||fraud.management^
 ||gbp.management^
@@ -59,7 +60,6 @@
 ||hill.management^
 ||hipclub.management^
 ||hitclub.management^
-||hoa.management^
 ||horeca.management^
 ||hostpro.management^
 ||hrcfertility.management^
@@ -128,7 +128,6 @@
 ||publication.management^
 ||qrv.management^
 ||quant.management^
-||rakefet.management^
 ||reda.management^
 ||redlight.management^
 ||remnant.management^

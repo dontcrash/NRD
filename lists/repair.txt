@@ -34,6 +34,7 @@
 ||credithistory.repair^
 ||cs101.repair^
 ||cylinder.repair^
+||deez.repair^
 ||dev.repair^
 ||dmarc.repair^
 ||erebus.repair^
@@ -61,7 +62,6 @@
 ||meridian.repair^
 ||metal.repair^
 ||mob.repair^
-||mrfixerofmonroe.repair^
 ||nbet.repair^
 ||one88.repair^
 ||parkhill.repair^
@@ -97,5 +97,6 @@
 ||waterleakdamage.repair^
 ||win79.repair^
 ||windshieldcrack.repair^
+||yourcar.repair^
 ||zbet.repair^
 ||zowin.repair^
