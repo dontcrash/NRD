@@ -2,6 +2,7 @@
 ||accountant.exposed^
 ||adidas.exposed^
 ||all-ports.exposed^
+||broadway.exposed^
 ||cambro.exposed^
 ||catering.exposed^
 ||deal.exposed^
@@ -21,7 +22,6 @@
 ||ipaddress.exposed^
 ||iwin.exposed^
 ||iwinclub.exposed^
-||jackpotwin.exposed^
 ||kemono.exposed^
 ||kshaw3228.exposed^
 ||law.exposed^

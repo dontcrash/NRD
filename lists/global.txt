@@ -13,6 +13,7 @@
 ||adamah.global^
 ||addon.global^
 ||advising.global^
+||afflux.global^
 ||afromerge.global^
 ||airplaneglamping.global^
 ||aitc.global^
@@ -22,7 +23,6 @@
 ||alcott.global^
 ||aldoria.global^
 ||alhashemi.global^
-||alignmentbehavioral.global^
 ||alldialect.global^
 ||allianzcommercial.global^
 ||almailam.global^
@@ -97,7 +97,6 @@
 ||cjkopin.global^
 ||clearspeed.global^
 ||clmx.global^
-||cofa.global^
 ||coincheck.global^
 ||coinlab.global^
 ||coldnorthcreations.global^
@@ -106,12 +105,16 @@
 ||consciouscollective.global^
 ||cookiesandcaviar.global^
 ||core-fit.global^
-||corporatefinance.global^
 ||cosmomedica.global^
 ||cr8.global^
 ||cre8group.global^
 ||creatorsweb.global^
+||criptoactivo.global^
+||criptoactivos.global^
+||criptodivisa.global^
+||crispera.global^
 ||crow.global^
+||cryptocasinos.global^
 ||culhane.global^
 ||culturekings.global^
 ||custodians.global^
@@ -121,9 +124,9 @@
 ||cyrillweber.global^
 ||dain.global^
 ||daisey.global^
+||daited.global^
 ||dama.global^
 ||datmarketing.global^
-||defiance.global^
 ||devgroup.global^
 ||digitalcomunication.global^
 ||dinamica.global^
@@ -157,7 +160,6 @@
 ||erka.global^
 ||espacios.global^
 ||espo-x.global^
-||espro.global^
 ||essendome.global^
 ||everus.global^
 ||evp.global^
@@ -179,7 +181,6 @@
 ||financialregulationgroup.global^
 ||firstspecialty.global^
 ||flowcapital.global^
-||focusgroup.global^
 ||forbes.global^
 ||foresthedge.global^
 ||formationdata.global^
@@ -192,9 +193,7 @@
 ||frgroup.global^
 ||fronterapp.global^
 ||futureai.global^
-||futurenurse.global^
 ||futureproof.global^
-||fvm.global^
 ||galaglow.global^
 ||gally.global^
 ||gemcollective.global^
@@ -279,6 +278,7 @@
 ||kittens.global^
 ||kjob.global^
 ||kosa.global^
+||languageaccess.global^
 ||lao.global^
 ||lea.global^
 ||level.global^
@@ -287,9 +287,9 @@
 ||livetv.global^
 ||localhost.global^
 ||longhu.global^
+||loopback.global^
 ||loopsports.global^
 ||lotuslabs.global^
-||loveit.global^
 ||lovescience.global^
 ||luckys.global^
 ||lumbini.global^
@@ -298,14 +298,13 @@
 ||m2i.global^
 ||macau.global^
 ||maggieg.global^
-||magicwin360.global^
+||maited.global^
 ||mansha.global^
 ||maos.global^
 ||marfa.global^
 ||marketingandsales.global^
 ||marketingsales.global^
 ||marlou.global^
-||masterstrategy.global^
 ||matriz.global^
 ||maverickgroup.global^
 ||mavi.global^
@@ -321,6 +320,7 @@
 ||mooi.global^
 ||motivate.global^
 ||mtdc.global^
+||mu9.global^
 ||mullenauto.global^
 ||munim.global^
 ||mvpatm.global^
@@ -349,7 +349,6 @@
 ||notcoin.global^
 ||novuscapital.global^
 ||nustar.global^
-||oculus.global^
 ||ohe.global^
 ||ohio.global^
 ||om.global^
@@ -403,12 +402,9 @@
 ||rfd.global^
 ||rhemaradiance.global^
 ||riger.global^
-||rinde.global^
 ||rizz.global^
 ||rka.global^
 ||rmi.global^
-||rmv.global^
-||roboticsurgery.global^
 ||rtx.global^
 ||rubicon.global^
 ||safeapps.global^
@@ -423,8 +419,6 @@
 ||savingthegame.global^
 ||scc-isac.global^
 ||scimitar.global^
-||sdgfund.global^
-||sdginvestments.global^
 ||seaventures.global^
 ||sekai.global^
 ||sendto.global^
@@ -456,7 +450,6 @@
 ||studyexperience.global^
 ||suitehome.global^
 ||sulphur.global^
-||sustainablesociety.global^
 ||tasteaway.global^
 ||tastebudds.global^
 ||tastepoint.global^
@@ -467,7 +460,6 @@
 ||theapostolicbamm.global^
 ||thecenter.global^
 ||thefulcrum.global^
-||thelocalchurch.global^
 ||themindfulleader.global^
 ||thetruth.global^
 ||thisisfine.global^
@@ -482,12 +474,12 @@
 ||trustedhealth.global^
 ||truvanta.global^
 ||truwheel.global^
+||typ.global^
 ||u888.global^
 ||ufabet168.global^
 ||ultra2.global^
 ||underbutler.global^
-||urbin.global^
-||urbinretreat.global^
+||unfold.global^
 ||uru.global^
 ||valentine.global^
 ||vantem.global^
@@ -499,7 +491,6 @@
 ||voicesofpeace.global^
 ||volatility.global^
 ||vork.global^
-||voyageworld.global^
 ||voyantique.global^
 ||vr-online.global^
 ||vss.global^
@@ -514,7 +505,6 @@
 ||wefuse.global^
 ||wendy.global^
 ||wgy.global^
-||whereru.global^
 ||whitehousegifts.global^
 ||wholesome.global^
 ||win79.global^

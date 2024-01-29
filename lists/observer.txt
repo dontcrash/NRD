@@ -1,6 +1,5 @@
 ||0net.observer^
 ||ass.observer^
-||autolysis.observer^
 ||bancadoithuong.observer^
 ||base.observer^
 ||big88.observer^
@@ -14,7 +13,6 @@
 ||desci.observer^
 ||dmarc.observer^
 ||ecommerce.observer^
-||electoral.observer^
 ||fabet.observer^
 ||fcb8.observer^
 ||flux.observer^
@@ -23,6 +21,7 @@
 ||grantcopyrightrightstoarticles.observer^
 ||hit.observer^
 ||hitclub.observer^
+||iam.observer^
 ||iampiqpi.observer^
 ||its.observer^
 ||josh.observer^
@@ -53,6 +52,9 @@
 ||pkg.observer^
 ||plugins.observer^
 ||popoxuan.observer^
+||presence.observer^
+||present.observer^
+||presents.observer^
 ||prod.observer^
 ||pulauhoki.observer^
 ||repo.observer^
@@ -60,6 +62,7 @@
 ||selalupanen.observer^
 ||shell.observer^
 ||tg.observer^
+||ticket.observer^
 ||tip.observer^
 ||universo-pt.observer^
 ||ux-design-courses-br.observer^

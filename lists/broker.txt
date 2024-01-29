@@ -20,6 +20,7 @@
 ||darknet.broker^
 ||debet.broker^
 ||digitalrealestate.broker^
+||dropshipping.broker^
 ||drug.broker^
 ||e-pharmacy.broker^
 ||efexfx.broker^
@@ -81,6 +82,8 @@
 ||shareholders.broker^
 ||sharemarket.broker^
 ||shareportfolio.broker^
+||shortsales.broker^
+||shortselling.broker^
 ||signals.broker^
 ||smm.broker^
 ||soc88.broker^

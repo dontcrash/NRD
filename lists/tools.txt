@@ -11,7 +11,6 @@
 ||adobe-commerce-community.tools^
 ||adspy.tools^
 ||adventure.tools^
-||aidevelopers.tools^
 ||aihive.tools^
 ||aim.tools^
 ||aimo.tools^
@@ -40,8 +39,6 @@
 ||ashtons.tools^
 ||assessmentmarketplace.tools^
 ||astra.tools^
-||atl.tools^
-||attorney.tools^
 ||auralytical.tools^
 ||avif.tools^
 ||bancadoithuong.tools^
@@ -59,6 +56,7 @@
 ||bundl.tools^
 ||carrie.tools^
 ||carshare.tools^
+||casitamx.tools^
 ||cattale.tools^
 ||cell.tools^
 ||checker.tools^
@@ -82,7 +80,6 @@
 ||dab.tools^
 ||daimon.tools^
 ||dappradar.tools^
-||datasecurity.tools^
 ||davo.tools^
 ||dbs.tools^
 ||debit.tools^
@@ -93,11 +90,9 @@
 ||dsot.tools^
 ||dsox.tools^
 ||easydev.tools^
-||easyrecruitment.tools^
 ||eauction.tools^
 ||edel.tools^
 ||eldentowers.tools^
-||ele.tools^
 ||elixr.tools^
 ||embedded.tools^
 ||emblem.tools^
@@ -133,8 +128,6 @@
 ||gpts.tools^
 ||gptscript.tools^
 ||graphy.tools^
-||greenleaf.tools^
-||greenleafcorporation.tools^
 ||grepo.tools^
 ||growthmindset.tools^
 ||guildstone.tools^
@@ -172,18 +165,18 @@
 ||kate.tools^
 ||kcb.tools^
 ||keonhacai.tools^
-||killer.tools^
 ||ksa.tools^
+||kvell.tools^
 ||lang.tools^
 ||lazy.tools^
 ||leadtogether.tools^
 ||lifecrafting.tools^
 ||lifehack.tools^
+||lightcone.tools^
 ||lingua.tools^
 ||lkn.tools^
 ||looker.tools^
 ||lordserial.tools^
-||lovely.tools^
 ||lrn.tools^
 ||luksoscan.tools^
 ||lumisync.tools^
@@ -239,6 +232,7 @@
 ||onlyfansapk.tools^
 ||optimism.tools^
 ||orchestration.tools^
+||over.tools^
 ||pagepower.tools^
 ||palworld.tools^
 ||pansensus.tools^
@@ -255,7 +249,6 @@
 ||policymaker.tools^
 ||powrox.tools^
 ||prefix.tools^
-||privatecrm.tools^
 ||proactive.tools^
 ||prulde.tools^
 ||pubg.tools^
@@ -264,10 +257,8 @@
 ||qrcodes.tools^
 ||qwe.tools^
 ||rabbit.tools^
-||radioplayer.tools^
 ||raid.tools^
 ||rakmana.tools^
-||ramen.tools^
 ||ravendawn.tools^
 ||rawan.tools^
 ||recommend.tools^
@@ -276,7 +267,6 @@
 ||rei.tools^
 ||reinsurance.tools^
 ||replaceanything.tools^
-||requestmac.tools^
 ||rewst.tools^
 ||rey.tools^
 ||rhaw.tools^
@@ -377,6 +367,7 @@
 ||website-dev.tools^
 ||wedo.tools^
 ||wherearemy.tools^
+||which-ai.tools^
 ||worldai.tools^
 ||worldof.tools^
 ||worldstoughestfix.tools^
