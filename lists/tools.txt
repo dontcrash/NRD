@@ -11,6 +11,7 @@
 ||adobe-commerce-community.tools^
 ||adspy.tools^
 ||adventure.tools^
+||aidevelopers.tools^
 ||aihive.tools^
 ||aim.tools^
 ||aimo.tools^
@@ -18,6 +19,7 @@
 ||aiprompts.tools^
 ||airdrop.tools^
 ||aitrade.tools^
+||aiultra.tools^
 ||aiuser.tools^
 ||alientech.tools^
 ||allseo.tools^
@@ -39,6 +41,8 @@
 ||ashtons.tools^
 ||assessmentmarketplace.tools^
 ||astra.tools^
+||atl.tools^
+||attorney.tools^
 ||auralytical.tools^
 ||avif.tools^
 ||bancadoithuong.tools^
@@ -56,8 +60,8 @@
 ||bundl.tools^
 ||carrie.tools^
 ||carshare.tools^
-||casitamx.tools^
 ||cattale.tools^
+||cel.tools^
 ||cell.tools^
 ||checker.tools^
 ||chihuahua.tools^
@@ -80,6 +84,7 @@
 ||dab.tools^
 ||daimon.tools^
 ||dappradar.tools^
+||datasecurity.tools^
 ||davo.tools^
 ||dbs.tools^
 ||debit.tools^
@@ -90,9 +95,11 @@
 ||dsot.tools^
 ||dsox.tools^
 ||easydev.tools^
+||easyrecruitment.tools^
 ||eauction.tools^
 ||edel.tools^
 ||eldentowers.tools^
+||ele.tools^
 ||elixr.tools^
 ||embedded.tools^
 ||emblem.tools^
@@ -128,6 +135,8 @@
 ||gpts.tools^
 ||gptscript.tools^
 ||graphy.tools^
+||greenleaf.tools^
+||greenleafcorporation.tools^
 ||grepo.tools^
 ||growthmindset.tools^
 ||guildstone.tools^
@@ -138,6 +147,7 @@
 ||handymantools.tools^
 ||harden.tools^
 ||hbar.tools^
+||hdmsolar.tools^
 ||hdstreamzapp.tools^
 ||hemp.tools^
 ||heyai.tools^
@@ -165,18 +175,18 @@
 ||kate.tools^
 ||kcb.tools^
 ||keonhacai.tools^
+||killer.tools^
 ||ksa.tools^
-||kvell.tools^
 ||lang.tools^
 ||lazy.tools^
 ||leadtogether.tools^
 ||lifecrafting.tools^
 ||lifehack.tools^
-||lightcone.tools^
 ||lingua.tools^
 ||lkn.tools^
 ||looker.tools^
 ||lordserial.tools^
+||lovely.tools^
 ||lrn.tools^
 ||luksoscan.tools^
 ||lumisync.tools^
@@ -186,6 +196,7 @@
 ||magnus.tools^
 ||mame.tools^
 ||mardeus.tools^
+||matchbook.tools^
 ||mathematical.tools^
 ||mech.tools^
 ||medequipment.tools^
@@ -219,7 +230,6 @@
 ||nex.tools^
 ||nextgen.tools^
 ||nexy.tools^
-||ng.tools^
 ||nox.tools^
 ||nubo.tools^
 ||oav.tools^
@@ -228,11 +238,11 @@
 ||ocaye.tools^
 ||ocd.tools^
 ||omnimedius.tools^
+||onbet.tools^
 ||onlinestore.tools^
 ||onlyfansapk.tools^
 ||optimism.tools^
 ||orchestration.tools^
-||over.tools^
 ||pagepower.tools^
 ||palworld.tools^
 ||pansensus.tools^
@@ -249,6 +259,7 @@
 ||policymaker.tools^
 ||powrox.tools^
 ||prefix.tools^
+||privatecrm.tools^
 ||proactive.tools^
 ||prulde.tools^
 ||pubg.tools^
@@ -257,8 +268,10 @@
 ||qrcodes.tools^
 ||qwe.tools^
 ||rabbit.tools^
+||radioplayer.tools^
 ||raid.tools^
 ||rakmana.tools^
+||ramen.tools^
 ||ravendawn.tools^
 ||rawan.tools^
 ||recommend.tools^
@@ -267,6 +280,7 @@
 ||rei.tools^
 ||reinsurance.tools^
 ||replaceanything.tools^
+||requestmac.tools^
 ||rewst.tools^
 ||rey.tools^
 ||rhaw.tools^
@@ -309,12 +323,10 @@
 ||strategy.tools^
 ||strawberry.tools^
 ||suggest.tools^
-||sunswap.tools^
 ||super.tools^
 ||supplychain.tools^
 ||surf.tools^
 ||sysid.tools^
-||sysops.tools^
 ||sz.tools^
 ||ta88.tools^
 ||taiger.tools^
@@ -367,7 +379,6 @@
 ||website-dev.tools^
 ||wedo.tools^
 ||wherearemy.tools^
-||which-ai.tools^
 ||worldai.tools^
 ||worldof.tools^
 ||worldstoughestfix.tools^

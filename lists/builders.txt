@@ -39,6 +39,7 @@
 ||gak.builders^
 ||gem188.builders^
 ||genshin.builders^
+||gestion.builders^
 ||goat.builders^
 ||habit.builders^
 ||hangar.builders^
@@ -51,7 +52,6 @@
 ||intents.builders^
 ||josko.builders^
 ||just.builders^
-||kingzmen.builders^
 ||korea.builders^
 ||lead.builders^
 ||legendary.builders^
@@ -75,11 +75,9 @@
 ||paramount.builders^
 ||personalbrand.builders^
 ||portside.builders^
-||practice.builders^
 ||q.builders^
 ||randr.builders^
 ||realty.builders^
-||reef.builders^
 ||regohome.builders^
 ||revenue.builders^
 ||revive.builders^

@@ -1,7 +1,6 @@
 ||21century.properties^
 ||4csgroup.properties^
 ||5star.properties^
-||alive.properties^
 ||allph.properties^
 ||almailam.properties^
 ||amr.properties^
@@ -18,10 +17,10 @@
 ||aventus.properties^
 ||b52.properties^
 ||bats.properties^
-||bayarea.properties^
 ||bespokereal.properties^
 ||beta.properties^
 ||beulah.properties^
+||binarium.properties^
 ||bluediamond.properties^
 ||blueridgemountainscabins.properties^
 ||bong99.properties^
@@ -31,7 +30,6 @@
 ||carryall.properties^
 ||catlincollection.properties^
 ||cdr.properties^
-||century21.properties^
 ||champagne.properties^
 ||cheng.properties^
 ||chestnutgrove.properties^
@@ -39,15 +37,14 @@
 ||creamerylaneutah.properties^
 ||dal.properties^
 ||defense.properties^
-||deutsch.properties^
 ||development.properties^
 ||dolphin.properties^
 ||domaining.properties^
 ||domains.properties^
 ||douglaslake.properties^
+||drumland.properties^
 ||dxb.properties^
 ||echopark.properties^
-||ee88.properties^
 ||emma.properties^
 ||eth.properties^
 ||event.properties^
@@ -59,7 +56,6 @@
 ||fcb8.properties^
 ||fineart.properties^
 ||firstclass.properties^
-||fishing.properties^
 ||fitness.properties^
 ||flex.properties^
 ||florida.properties^
@@ -70,7 +66,6 @@
 ||gaia.properties^
 ||getguides.properties^
 ||glenwood.properties^
-||globuson.properties^
 ||golica.properties^
 ||goodlife.properties^
 ||greentree.properties^
@@ -95,6 +90,7 @@
 ||institute.properties^
 ||iris.properties^
 ||isellpuntacana.properties^
+||islandheritage.properties^
 ||jenniferwright.properties^
 ||jimden.properties^
 ||junelaketn.properties^
@@ -126,7 +122,6 @@
 ||matrix.properties^
 ||mcblack.properties^
 ||mdl.properties^
-||mea.properties^
 ||merit.properties^
 ||million.properties^
 ||mills.properties^
@@ -147,7 +142,6 @@
 ||parec.properties^
 ||passwire.properties^
 ||patriot.properties^
-||payne.properties^
 ||peachmark.properties^
 ||penguin.properties^
 ||ppa.properties^
@@ -165,7 +159,6 @@
 ||rw.properties^
 ||sai.properties^
 ||sale.properties^
-||salon.properties^
 ||scott.properties^
 ||seaview.properties^
 ||seed.properties^
@@ -197,7 +190,6 @@
 ||tkelite.properties^
 ||tmg.properties^
 ||triple-e.properties^
-||trl.properties^
 ||truenorth.properties^
 ||vantage.properties^
 ||vchc.properties^
@@ -220,5 +212,6 @@
 ||xo88.properties^
 ||yorkcounty.properties^
 ||zbet.properties^
+||zenithpro.properties^
 ||zigzagslot.properties^
 ||zoom.properties^

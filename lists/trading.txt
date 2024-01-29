@@ -36,6 +36,7 @@
 ||dogwifcoin.trading^
 ||doio.trading^
 ||efexfx.trading^
+||espresso.trading^
 ||everest.trading^
 ||evo.trading^
 ||exim.trading^
@@ -62,8 +63,10 @@
 ||j3l.trading^
 ||jdm.trading^
 ||jetset.trading^
+||jumper.trading^
 ||jup.trading^
 ||kalorama.trading^
+||kelpdao.trading^
 ||lambda.trading^
 ||lgb.trading^
 ||lidofi.trading^
@@ -72,6 +75,7 @@
 ||ljective.trading^
 ||llm.trading^
 ||lnjective.trading^
+||lorgnette.trading^
 ||lucky88.trading^
 ||ludwig.trading^
 ||maga.trading^
@@ -107,7 +111,6 @@
 ||rainbow.trading^
 ||restakefinance.trading^
 ||rikvip.trading^
-||rma.trading^
 ||rocketx.trading^
 ||router.trading^
 ||saga.trading^
@@ -121,6 +124,8 @@
 ||su.trading^
 ||sumo.trading^
 ||supercoin.trading^
+||superverse.trading^
+||synth.trading^
 ||ta88.trading^
 ||tera.trading^
 ||thewhiterabbit.trading^
@@ -136,9 +141,7 @@
 ||vortex.trading^
 ||vosveld.trading^
 ||vulcanforged.trading^
-||vwap.trading^
 ||walnut.trading^
-||weaver.trading^
 ||website.trading^
 ||xenon.trading^
 ||xmascoin.trading^
