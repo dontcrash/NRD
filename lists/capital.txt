@@ -39,6 +39,7 @@
 ||aster.capital^
 ||augur.capital^
 ||auxesis.capital^
+||ave.capital^
 ||avm.capital^
 ||ayz.capital^
 ||baha.capital^
@@ -49,6 +50,7 @@
 ||bastion.capital^
 ||baum.capital^
 ||baytides.capital^
+||bg.capital^
 ||bigbet.capital^
 ||biggulf.capital^
 ||bill.capital^
@@ -56,6 +58,7 @@
 ||bluegreen.capital^
 ||bod.capital^
 ||bottleservice.capital^
+||breecher.capital^
 ||bruton.capital^
 ||bt-cap.capital^
 ||buckhorn.capital^
@@ -72,7 +75,6 @@
 ||cents.capital^
 ||chaac.capital^
 ||chars.capital^
-||circulating.capital^
 ||civilian.capital^
 ||clapperton.capital^
 ||cleanvalley.capital^
@@ -99,7 +101,6 @@
 ||cuarto.capital^
 ||curirmb.capital^
 ||darkalpha.capital^
-||darkmatter.capital^
 ||darwinglobal.capital^
 ||dase.capital^
 ||dash.capital^
@@ -118,6 +119,7 @@
 ||edraj.capital^
 ||edwin.capital^
 ||egz.capital^
+||electra.capital^
 ||electrum.capital^
 ||empyreannebula.capital^
 ||eon.capital^
@@ -157,10 +159,10 @@
 ||fundraiser.capital^
 ||fundwise.capital^
 ||fusetheplug.capital^
-||game.capital^
 ||garage.capital^
 ||gemwin.capital^
 ||geniusbank.capital^
+||geometric.capital^
 ||getrefunds.capital^
 ||gfh.capital^
 ||ginkgo.capital^
@@ -184,6 +186,7 @@
 ||hipclub.capital^
 ||hometeam.capital^
 ||hotelrunner.capital^
+||humanmade.capital^
 ||hygge.capital^
 ||ibiza.capital^
 ||ilabs.capital^
@@ -208,7 +211,6 @@
 ||irina.capital^
 ||ironcock.capital^
 ||itoken.capital^
-||j3l.capital^
 ||jackson.capital^
 ||jadegroup.capital^
 ||jar.capital^
@@ -342,13 +344,14 @@
 ||regent.capital^
 ||relayer.capital^
 ||respublica.capital^
+||restate.capital^
 ||retarded.capital^
 ||retropgf.capital^
 ||revertem.capital^
 ||revhram.capital^
+||rewards-radiant.capital^
 ||reynoldsresource.capital^
 ||rice.capital^
-||ridgepoint.capital^
 ||riyad.capital^
 ||rogers.capital^
 ||room.capital^
@@ -393,7 +396,6 @@
 ||struck.capital^
 ||suits.capital^
 ||summitpath.capital^
-||sungroup.capital^
 ||sunny.capital^
 ||swapx.capital^
 ||ta88.capital^
@@ -405,7 +407,6 @@
 ||tbilisi.capital^
 ||tcd.capital^
 ||technovate.capital^
-||teleport.capital^
 ||tff.capital^
 ||tfo.capital^
 ||thefirm.capital^
@@ -431,7 +432,6 @@
 ||vep.capital^
 ||vera.capital^
 ||verdexcapital.capital^
-||vice.capital^
 ||vigama.capital^
 ||vina.capital^
 ||vnm.capital^
@@ -454,4 +454,3 @@
 ||zet.capital^
 ||zhi.capital^
 ||zuid.capital^
-||zumex.capital^

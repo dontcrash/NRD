@@ -16,8 +16,10 @@
 ||designunique.build^
 ||desoc.build^
 ||durapro.build^
+||ecosuite.build^
 ||edison.build^
 ||elevated.build^
+||elitepro.build^
 ||elitesoftwareautomation.build^
 ||exe.build^
 ||fa88.build^
@@ -26,7 +28,6 @@
 ||garmong.build^
 ||gemini.build^
 ||goldleaf.build^
-||gramercy.build^
 ||grewe.build^
 ||hatch.build^
 ||hest.build^
@@ -49,6 +50,7 @@
 ||moot.build^
 ||motor.build^
 ||msys.build^
+||mydailydriver.build^
 ||myhome.build^
 ||myth.build^
 ||openshift.build^
@@ -62,7 +64,6 @@
 ||sgl.build^
 ||soc88.build^
 ||steamworld.build^
-||steve.build^
 ||ta88.build^
 ||tesseract.build^
 ||thecarpetprotectioncenter.build^
