@@ -7,16 +7,11 @@
 ||7468.software^
 ||9173.software^
 ||9176.software^
-||9186.software^
-||9215.software^
-||9236.software^
 ||9274.software^
 ||9275.software^
 ||9328.software^
 ||9421.software^
 ||9514.software^
-||9542.software^
-||9765.software^
 ||9861.software^
 ||activitypub.software^
 ||admincenter.software^
@@ -47,6 +42,7 @@
 ||apache.software^
 ||apitec.software^
 ||appforce.software^
+||apprem.software^
 ||aracinarandevu.software^
 ||aracinrandevu.software^
 ||archadia.software^
@@ -56,12 +52,12 @@
 ||artion.software^
 ||astrocats.software^
 ||atom.software^
+||atrium.software^
 ||autoqa.software^
 ||aves.software^
 ||aviatorgame.software^
 ||b52.software^
 ||b52club.software^
-||b8.software^
 ||ballare.software^
 ||bankers.software^
 ||baoquan.software^
@@ -87,7 +83,6 @@
 ||cifra.software^
 ||ckr.software^
 ||classified.software^
-||clubfusion.software^
 ||coldnorthcreations.software^
 ||commodities.software^
 ||covalent.software^
@@ -207,6 +202,7 @@
 ||maga.software^
 ||mambo.software^
 ||matteodepauw.software^
+||mattyjam.software^
 ||may88.software^
 ||mckay.software^
 ||medtronic.software^
@@ -218,8 +214,6 @@
 ||mist.software^
 ||mixed.software^
 ||moderation.software^
-||mojica.software^
-||monetize.software^
 ||motoclima.software^
 ||mu9.software^
 ||multik8s.software^
@@ -229,7 +223,6 @@
 ||myhost.software^
 ||ndw.software^
 ||neo.software^
-||next-step.software^
 ||nga.software^
 ||nhat.software^
 ||nhatvip.software^
@@ -244,7 +237,6 @@
 ||omnipod.software^
 ||omz.software^
 ||openlibra.software^
-||opsec.software^
 ||opsecc.software^
 ||opslyft.software^
 ||orchestration.software^
@@ -302,7 +294,7 @@
 ||spacestation.software^
 ||sputnik.software^
 ||stamford.software^
-||storyai.software^
+||subscribe.software^
 ||sunshinestate.software^
 ||suresign.software^
 ||synio.software^
@@ -314,6 +306,7 @@
 ||thenines.software^
 ||togetha.software^
 ||top88.software^
+||tortie.software^
 ||ujeebu.software^
 ||ultramassive.software^
 ||unity.software^
@@ -336,8 +329,10 @@
 ||world.software^
 ||xaibatsu.software^
 ||xenox.software^
+||xn--brger-kva.software^
 ||xo88.software^
 ||y2mate.software^
+||yca.software^
 ||yzena.software^
 ||zcurq.software^
 ||zonka.software^

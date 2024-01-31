@@ -39,12 +39,14 @@
 ||97825.health^
 ||accessrequest.health^
 ||accesstele.health^
+||acre.health^
 ||activarc.health^
 ||activehealthgroup.health^
 ||adcherlo.health^
 ||adfks.health^
 ||adia.health^
 ||advise.health^
+||aegisahomecare.health^
 ||aeoncoaching.health^
 ||after5.health^
 ||afterfive.health^
@@ -107,9 +109,9 @@
 ||clinicalassociates.health^
 ||clusters.health^
 ||collectivemind.health^
+||columbia.health^
 ||communitywell.health^
 ||conciergemedical.health^
-||conjure.health^
 ||connect4.health^
 ||conscious.health^
 ||contingency.health^
@@ -119,12 +121,10 @@
 ||creator.health^
 ||crosby.health^
 ||cukbt.health^
-||curam.health^
 ||curatio.health^
 ||cylinder.health^
 ||cynet.health^
 ||dacrx.health^
-||datapreneur.health^
 ||dawaa.health^
 ||daylight.health^
 ||debet.health^
@@ -195,6 +195,7 @@
 ||gatewaybridge.health^
 ||gemwin.health^
 ||generationshomecare.health^
+||genomix.health^
 ||genu.health^
 ||ghf.health^
 ||gibsondunn.health^
@@ -211,6 +212,7 @@
 ||h4.health^
 ||hakini.health^
 ||hat.health^
+||healer.health^
 ||healthnsync.health^
 ||healthoptimizing.health^
 ||healthspan100.health^
@@ -227,7 +229,6 @@
 ||homegrown.health^
 ||homeopathic.health^
 ||homeopathy.health^
-||hometown.health^
 ||honeybeehlth.health^
 ||hotline.health^
 ||hyden.health^
@@ -243,6 +244,7 @@
 ||inspiringapps.health^
 ||intelligeneinstitute.health^
 ||intellume.health^
+||intiterra.health^
 ||intra.health^
 ||invision.health^
 ||ivermectin.health^
@@ -260,6 +262,7 @@
 ||lakelandingondemand.health^
 ||lattice.health^
 ||ldinsurance.health^
+||leena.health^
 ||leona.health^
 ||letschat.health^
 ||lfaie.health^
@@ -290,11 +293,11 @@
 ||medsupply.health^
 ||meli.health^
 ||meno.health^
-||metapneumovirus.health^
 ||metarix.health^
 ||methodus.health^
 ||mhslabs.health^
 ||miboqo.health^
+||micro.health^
 ||mindtrition.health^
 ||minty.health^
 ||mmj.health^
@@ -305,6 +308,7 @@
 ||multitude.health^
 ||mungerua.health^
 ||mycovidrecord.health^
+||mydata.health^
 ||mygoodness.health^
 ||mymenopause.health^
 ||naked.health^
@@ -314,8 +318,6 @@
 ||neurofit.health^
 ||nextgenmd.health^
 ||nfeul.health^
-||nima-life.health^
-||nimalife.health^
 ||noire.health^
 ||nota.health^
 ||nuu.health^
@@ -362,7 +364,6 @@
 ||psychminded.health^
 ||pwpja.health^
 ||pxempower.health^
-||qcca.health^
 ||qfluv.health^
 ||qigonglife.health^
 ||qstar.health^
@@ -453,6 +454,7 @@
 ||viome.health^
 ||viplata24.health^
 ||virtualens.health^
+||virtualeyes.health^
 ||vitalcare.health^
 ||vitalityhealthcare.health^
 ||vitalman.health^

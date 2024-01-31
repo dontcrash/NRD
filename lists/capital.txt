@@ -30,7 +30,6 @@
 ||aq-law.capital^
 ||arar.capital^
 ||argus.capital^
-||arke.capital^
 ||arqaam.capital^
 ||artha.capital^
 ||ascension.capital^
@@ -64,6 +63,7 @@
 ||buckhorn.capital^
 ||bwl.capital^
 ||cabin.capital^
+||cambrian.capital^
 ||cannonball.capital^
 ||carbonearth.capital^
 ||carter.capital^
@@ -73,6 +73,7 @@
 ||ccc.capital^
 ||celo.capital^
 ||cents.capital^
+||ceres.capital^
 ||chaac.capital^
 ||chars.capital^
 ||civilian.capital^
@@ -85,7 +86,6 @@
 ||control-plane.capital^
 ||conversion.capital^
 ||convex.capital^
-||coq.capital^
 ||corient.capital^
 ||corniche.capital^
 ||cp101.capital^
@@ -105,6 +105,7 @@
 ||dase.capital^
 ||dash.capital^
 ||debberry.capital^
+||desci.capital^
 ||detf.capital^
 ||diametercap.capital^
 ||digitaledge.capital^
@@ -142,6 +143,7 @@
 ||female.capital^
 ||fern.capital^
 ||fight.capital^
+||finergy.capital^
 ||fix-n-flip.capital^
 ||flinthills.capital^
 ||forsah.capital^
@@ -154,6 +156,7 @@
 ||freewill.capital^
 ||fringe.capital^
 ||fruit.capital^
+||ftso.capital^
 ||fundboss.capital^
 ||fundingflow.capital^
 ||fundraiser.capital^
@@ -180,6 +183,7 @@
 ||guard.capital^
 ||habibi.capital^
 ||hammer.capital^
+||hans.capital^
 ||heatconnect.capital^
 ||helvetia.capital^
 ||hermance.capital^
@@ -190,7 +194,6 @@
 ||hygge.capital^
 ||ibiza.capital^
 ||ilabs.capital^
-||indexing.capital^
 ||indivisible.capital^
 ||industrialist.capital^
 ||inefficient.capital^
@@ -210,8 +213,8 @@
 ||investorsfirst.capital^
 ||irina.capital^
 ||ironcock.capital^
+||ithildin.capital^
 ||itoken.capital^
-||jackson.capital^
 ||jadegroup.capital^
 ||jar.capital^
 ||jbo.capital^
@@ -254,11 +257,11 @@
 ||manhattan.capital^
 ||marifa.capital^
 ||marionstreet.capital^
+||marshmallow.capital^
 ||maver.capital^
 ||maximus.capital^
 ||mcg.capital^
 ||mci.capital^
-||members.capital^
 ||mexplorer.capital^
 ||miccio.capital^
 ||microstrategy.capital^
@@ -266,9 +269,9 @@
 ||mits.capital^
 ||monitor.capital^
 ||moonshot.capital^
+||mosa.capital^
 ||mound.capital^
 ||mughal.capital^
-||muraibet.capital^
 ||muro.capital^
 ||namefi.capital^
 ||nav.capital^
@@ -300,7 +303,6 @@
 ||only-green.capital^
 ||openinfra.capital^
 ||optimized.capital^
-||ordbridge.capital^
 ||ordizk.capital^
 ||osmundo.capital^
 ||otsea.capital^
@@ -331,7 +333,6 @@
 ||princeville.capital^
 ||pristine.capital^
 ||proptech.capital^
-||proto.capital^
 ||qontigo.capital^
 ||quivira.capital^
 ||quota.capital^
@@ -367,7 +368,6 @@
 ||savvytinkers.capital^
 ||sciving.capital^
 ||scylla.capital^
-||search-e-search.capital^
 ||sentinal.capital^
 ||sharepoint-firststreet.capital^
 ||sharper.capital^
@@ -394,6 +394,8 @@
 ||strategy.capital^
 ||strialpha.capital^
 ||struck.capital^
+||subscribe.capital^
+||sudmann.capital^
 ||suits.capital^
 ||summitpath.capital^
 ||sunny.capital^
@@ -417,6 +419,7 @@
 ||thisis.capital^
 ||todo.capital^
 ||tokentrade.capital^
+||tools.capital^
 ||top88.capital^
 ||toth.capital^
 ||touchpoint.capital^
@@ -424,7 +427,6 @@
 ||trainer.capital^
 ||trueangel.capital^
 ||trust.capital^
-||trustwise.capital^
 ||tts.capital^
 ||tworavens.capital^
 ||universolcurrency.capital^
@@ -439,13 +441,14 @@
 ||volk.capital^
 ||wagme.capital^
 ||wartime.capital^
+||wesolve.capital^
+||whitehawk.capital^
 ||winton.capital^
 ||withdrawal.capital^
 ||wolverine.capital^
 ||women.capital^
 ||worthless.capital^
 ||wwm.capital^
-||xlii.capital^
 ||xrp.capital^
 ||yo88.capital^
 ||zcard.capital^

@@ -1,6 +1,5 @@
 ||549.taxi^
 ||airport-transfers.taxi^
-||alltaxi.taxi^
 ||baleares.taxi^
 ||barrie.taxi^
 ||beauty.taxi^
@@ -9,6 +8,7 @@
 ||calls.taxi^
 ||cam.taxi^
 ||cash.taxi^
+||checker.taxi^
 ||cityair.taxi^
 ||cruise.taxi^
 ||deso.taxi^
@@ -32,11 +32,13 @@
 ||integrityyellowpage.taxi^
 ||invest.taxi^
 ||iwinclub.taxi^
+||kiev.taxi^
 ||kosa.taxi^
 ||landings.taxi^
 ||lexus.taxi^
 ||licensing.taxi^
 ||line88.taxi^
+||m88.taxi^
 ||mama.taxi^
 ||melex.taxi^
 ||mellowvoyages.taxi^
@@ -80,12 +82,13 @@
 ||thonon.taxi^
 ||tourist.taxi^
 ||trip.taxi^
+||virtual.taxi^
+||virtuality.taxi^
 ||walizki24.taxi^
 ||wasser.taxi^
 ||weare.taxi^
 ||website.taxi^
 ||wein.taxi^
-||wyland.taxi^
 ||yoshqa.taxi^
 ||yyc.taxi^
 ||zamawiam.taxi^

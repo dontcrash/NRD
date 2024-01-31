@@ -18,9 +18,9 @@
 ||crm.claims^
 ||cs.claims^
 ||cw.claims^
+||dashboard-loopring.claims^
 ||dashboard-solend.claims^
 ||debet.claims^
-||dental.claims^
 ||dogwifhat.claims^
 ||dymension.claims^
 ||enstoken.claims^
@@ -30,6 +30,7 @@
 ||fcb8.claims^
 ||fragment.claims^
 ||gamble.claims^
+||guildofguardians.claims^
 ||handshake.claims^
 ||harcus.claims^
 ||harkus.claims^
@@ -37,6 +38,7 @@
 ||hit.claims^
 ||house.claims^
 ||hp.claims^
+||insurancenewsusa.claims^
 ||itx.claims^
 ||iwinclub.claims^
 ||jackofalltrades.claims^
@@ -56,7 +58,6 @@
 ||masktokens.claims^
 ||mayclub.claims^
 ||mibet.claims^
-||muraibet.claims^
 ||mutantdao.claims^
 ||mycas.claims^
 ||nashville.claims^
