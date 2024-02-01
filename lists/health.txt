@@ -27,6 +27,7 @@
 ||59821.health^
 ||61284.health^
 ||62651.health^
+||707.health^
 ||78391.health^
 ||84252.health^
 ||89521.health^
@@ -51,8 +52,6 @@
 ||after5.health^
 ||afterfive.health^
 ||agri.health^
-||ailment.health^
-||ailments.health^
 ||akquinet.health^
 ||alliancehealth.health^
 ||alm.health^
@@ -61,6 +60,7 @@
 ||alphatech.health^
 ||altrd.health^
 ||analytica.health^
+||animuse.health^
 ||archimedic.health^
 ||arini.health^
 ||asclepium.health^
@@ -93,7 +93,6 @@
 ||cancelcancer.health^
 ||cancerome.health^
 ||cannatrust.health^
-||cardia.health^
 ||cardios.health^
 ||care4.health^
 ||careso.health^
@@ -114,7 +113,6 @@
 ||conciergemedical.health^
 ||connect4.health^
 ||conscious.health^
-||contingency.health^
 ||corebond.health^
 ||corum.health^
 ||cqndx.health^
@@ -150,6 +148,7 @@
 ||drrauslander.health^
 ||earth.health^
 ||echoes.health^
+||ecstherapy.health^
 ||ecxua.health^
 ||eddopomoga2023.health^
 ||edopomoga.health^
@@ -161,6 +160,7 @@
 ||elevium.health^
 ||elysiumestate.health^
 ||emilia.health^
+||empty.health^
 ||eqology.health^
 ||equalitymd.health^
 ||eradicate.health^
@@ -171,6 +171,7 @@
 ||evanjones.health^
 ||evergreeninsight.health^
 ||everstong.health^
+||everythingalternative.health^
 ||evolveaba.health^
 ||eweb.health^
 ||executives.health^
@@ -180,6 +181,7 @@
 ||fcb8.health^
 ||feedingcommunity.health^
 ||fieldlab.health^
+||fiftyone.health^
 ||findyourwaytherapy.health^
 ||fine.health^
 ||five88.health^
@@ -239,7 +241,7 @@
 ||id888.health^
 ||ideasindigital.health^
 ||ideasindigitalhealth.health^
-||indicate.health^
+||infusioncare.health^
 ||innov.health^
 ||inspiringapps.health^
 ||intelligeneinstitute.health^
@@ -276,10 +278,10 @@
 ||livinggreen.health^
 ||looseweight.health^
 ||lotusweightloss.health^
-||lution.health^
-||lykos.health^
+||lucina.health^
 ||magnet.health^
 ||magnifai.health^
+||malevirility.health^
 ||manclub.health^
 ||mayclub.health^
 ||mbohq.health^
@@ -330,6 +332,7 @@
 ||onesource.health^
 ||onme.health^
 ||optimizing.health^
+||optiq.health^
 ||orthotherapy.health^
 ||osteopathicmedicine.health^
 ||otrymatydopomogy.health^
@@ -344,6 +347,7 @@
 ||pharmabeauty.health^
 ||physicalstructure.health^
 ||pickup.health^
+||plan-b.health^
 ||planet.health^
 ||platos.health^
 ||pmd.health^
@@ -351,7 +355,6 @@
 ||praxia.health^
 ||preemptive.health^
 ||prehab.health^
-||prevail.health^
 ||primegenix.health^
 ||primetel.health^
 ||proact.health^
@@ -371,6 +374,7 @@
 ||rahat.health^
 ||rair.health^
 ||rdmeds.health^
+||reachholisticrenovations.health^
 ||regalo.health^
 ||regroup.health^
 ||rejoov.health^
@@ -385,6 +389,7 @@
 ||safari.health^
 ||sanosmart.health^
 ||sapia.health^
+||selfhealing.health^
 ||selfology.health^
 ||selfup.health^
 ||selfwellness.health^
@@ -397,11 +402,11 @@
 ||simplyexecutive.health^
 ||simplymedcare.health^
 ||sin88.health^
+||snhc.health^
 ||snrpe.health^
 ||soeasy.health^
 ||solarisboost.health^
 ||some.health^
-||soundtherapy.health^
 ||sourcepharmacy.health^
 ||spotlight.health^
 ||springsmens.health^
@@ -421,16 +426,18 @@
 ||supermed.health^
 ||suppl.health^
 ||swen.health^
+||systemic.health^
 ||ta88.health^
 ||talktherapy.health^
 ||tane.health^
+||thema.health^
 ||theosteopath.health^
+||thepearl.health^
 ||theremia.health^
 ||theretreat.health^
 ||theroadtorecovery.health^
 ||threerivers.health^
 ||tie.health^
-||tiger.health^
 ||tofu.health^
 ||tokenized.health^
 ||tongue.health^
@@ -441,7 +448,6 @@
 ||underbutler.health^
 ||unicycive.health^
 ||unifiedvets.health^
-||universityventures.health^
 ||upandatom.health^
 ||upstart.health^
 ||uris.health^

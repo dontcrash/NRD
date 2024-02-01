@@ -1,4 +1,3 @@
-||0x000000000000000000000000000000000000dead.domains^
 ||3dns.domains^
 ||71.domains^
 ||9000.domains^
@@ -31,6 +30,7 @@
 ||deploy.domains^
 ||devrel.domains^
 ||diy.domains^
+||dns-parking.domains^
 ||dollarclub.domains^
 ||domaining.domains^
 ||ens-renewal.domains^
@@ -47,14 +47,15 @@
 ||hipclub.domains^
 ||honeybadger.domains^
 ||hostmedia.domains^
-||hu.domains^
 ||hyphen.domains^
+||inb4.domains^
 ||infinit-dns.domains^
 ||inter.domains^
 ||ipfs-ens.domains^
 ||k3sp.domains^
 ||kosa.domains^
 ||ksa.domains^
+||kyber.domains^
 ||lb.domains^
 ||liricool.domains^
 ||loco.domains^
@@ -68,7 +69,7 @@
 ||mindfulness.domains^
 ||monarch.domains^
 ||namefi.domains^
-||nano.domains^
+||nameservers.domains^
 ||nbet.domains^
 ||newhotfresh.domains^
 ||ng.domains^
@@ -80,6 +81,7 @@
 ||orchid.domains^
 ||outlaw.domains^
 ||pol.domains^
+||primepresence.domains^
 ||puravida.domains^
 ||pursevalley.domains^
 ||raffle.domains^

@@ -3,7 +3,6 @@
 ||8080network.systems^
 ||990.systems^
 ||aap.systems^
-||abbafreight.systems^
 ||accesscontrol.systems^
 ||aci.systems^
 ||acornedge.systems^
@@ -91,7 +90,6 @@
 ||compounding.systems^
 ||compu.systems^
 ||concilang.systems^
-||configurator.systems^
 ||connects.systems^
 ||consult.systems^
 ||convention.systems^
@@ -109,7 +107,6 @@
 ||cybersecurity.systems^
 ||cyberwallsecurity.systems^
 ||cymraeg.systems^
-||cyte.systems^
 ||dairy.systems^
 ||damaalni.systems^
 ||dataday.systems^
@@ -118,6 +115,7 @@
 ||deck.systems^
 ||deepak.systems^
 ||deli.systems^
+||dev-novicentral.systems^
 ||dev-server4you.systems^
 ||dgk.systems^
 ||dhl-paketversand.systems^
@@ -135,7 +133,6 @@
 ||ecobijo.systems^
 ||edenic.systems^
 ||eg.systems^
-||electron.systems^
 ||elitesoftwareautomation.systems^
 ||emaildesign.systems^
 ||emotionalprocessing.systems^
@@ -146,9 +143,9 @@
 ||equinox.systems^
 ||esofa.systems^
 ||eth-security.systems^
+||eventready.systems^
 ||everyonesocial.systems^
 ||eweb.systems^
-||exomech.systems^
 ||expired.systems^
 ||exquisite.systems^
 ||ezpos.systems^
@@ -157,8 +154,6 @@
 ||fdas.systems^
 ||fitnessmarketing.systems^
 ||flexx.systems^
-||floating.systems^
-||forexware.systems^
 ||forklift.systems^
 ||fortunebuilding.systems^
 ||fourxheavy.systems^
@@ -188,7 +183,6 @@
 ||guardia.systems^
 ||hades.systems^
 ||hawk.systems^
-||hbar.systems^
 ||heatedfloor.systems^
 ||heimer.systems^
 ||helo.systems^
@@ -202,12 +196,10 @@
 ||i-design.systems^
 ||ibrahkrep.systems^
 ||icom.systems^
-||icrew.systems^
 ||ifnor.systems^
 ||ika.systems^
 ||illusion.systems^
 ||imhere.systems^
-||influxeo.systems^
 ||ingage.systems^
 ||ingenioustech.systems^
 ||injective.systems^
@@ -223,7 +215,6 @@
 ||irix.systems^
 ||isarsoft.systems^
 ||itam.systems^
-||jordy.systems^
 ||jt.systems^
 ||juju.systems^
 ||juspay.systems^
@@ -238,13 +229,11 @@
 ||kombine.systems^
 ||kontra.systems^
 ||kookaburra.systems^
-||korea.systems^
 ||korean.systems^
 ||kosa.systems^
 ||kvs-cf.systems^
 ||kwh.systems^
 ||lair.systems^
-||lam.systems^
 ||lao.systems^
 ||laufer.systems^
 ||lea.systems^
@@ -252,7 +241,6 @@
 ||leo88.systems^
 ||linu.systems^
 ||lit.systems^
-||location.systems^
 ||locke.systems^
 ||logicblocks.systems^
 ||lookout.systems^
@@ -282,6 +270,7 @@
 ||my-hotel.systems^
 ||myelin.systems^
 ||myface.systems^
+||nanotec.systems^
 ||nbet.systems^
 ||neel.systems^
 ||nena.systems^
@@ -335,6 +324,7 @@
 ||quantron.systems^
 ||qubit.systems^
 ||qvant.systems^
+||rancher.systems^
 ||realitypoint.systems^
 ||realproperty.systems^
 ||realtors.systems^
@@ -342,7 +332,6 @@
 ||red88.systems^
 ||reda.systems^
 ||redai.systems^
-||reinsurance.systems^
 ||replicant.systems^
 ||reso.systems^
 ||resolute.systems^
@@ -350,6 +339,7 @@
 ||restarthosting.systems^
 ||rikvip.systems^
 ||roblee.systems^
+||rocketday.systems^
 ||rodela.systems^
 ||rs-mounting.systems^
 ||rsic.systems^
@@ -359,15 +349,12 @@
 ||saturn.systems^
 ||saudiaramco.systems^
 ||savage.systems^
-||searchgo.systems^
 ||securenet.systems^
 ||selfhealing.systems^
 ||shft.systems^
-||shog.systems^
 ||shoppy.systems^
 ||sidegig.systems^
 ||signal.systems^
-||simtec.systems^
 ||skin.systems^
 ||soap.systems^
 ||softeye.systems^
@@ -376,8 +363,8 @@
 ||spectre.systems^
 ||speculative.systems^
 ||spray.systems^
-||sprinter.systems^
 ||starlab.systems^
+||stg-novicentral.systems^
 ||sudoaptget.systems^
 ||summers.systems^
 ||sunshine.systems^
@@ -386,6 +373,7 @@
 ||sure.systems^
 ||sv88.systems^
 ||swain.systems^
+||swan.systems^
 ||symmetry.systems^
 ||synapse.systems^
 ||synio.systems^
@@ -415,9 +403,7 @@
 ||umbra.systems^
 ||umbrella.systems^
 ||unified.systems^
-||uno.systems^
 ||unplug.systems^
-||user-experience.systems^
 ||utter.systems^
 ||valet.systems^
 ||vanquish.systems^
@@ -432,7 +418,6 @@
 ||voltarium.systems^
 ||w2systems.systems^
 ||wassersleben.systems^
-||watcher.systems^
 ||wbywpcf.systems^
 ||werk.systems^
 ||whipflash.systems^
