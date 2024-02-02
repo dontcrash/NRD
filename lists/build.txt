@@ -5,7 +5,6 @@
 ||arkham.build^
 ||bernson.build^
 ||bertrand.build^
-||brianscottcurry.build^
 ||buoy.build^
 ||canyoncreative.build^
 ||capsule.build^
@@ -14,9 +13,9 @@
 ||ctlyst.build^
 ||daman.build^
 ||deltaframing.build^
-||designand.build^
 ||desoc.build^
 ||discord.build^
+||dominium.build^
 ||durapro.build^
 ||ecosuite.build^
 ||edison.build^
@@ -59,6 +58,7 @@
 ||payments.build^
 ||pkconstruction.build^
 ||prompts.build^
+||purdon.build^
 ||red88.build^
 ||rezolve.build^
 ||rikvip.build^

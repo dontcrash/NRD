@@ -33,7 +33,6 @@
 ||aloha.bot^
 ||ameca.bot^
 ||amrock.bot^
-||anychain.bot^
 ||apexttt.bot^
 ||apgar.bot^
 ||approval.bot^
@@ -51,6 +50,7 @@
 ||autoshop.bot^
 ||babelfish.bot^
 ||backsage.bot^
+||balancer.bot^
 ||bancadoithuong.bot^
 ||bankofscotland.bot^
 ||bannertech.bot^
@@ -62,7 +62,6 @@
 ||bingo.bot^
 ||bitcoinetfs.bot^
 ||blackbox.bot^
-||blipshift.bot^
 ||bonduel.bot^
 ||bonduele.bot^
 ||bonduell.bot^
@@ -94,8 +93,8 @@
 ||channel.bot^
 ||checkmyip.bot^
 ||chimi.bot^
-||chinachina.bot^
 ||ciso.bot^
+||citibank.bot^
 ||claims.bot^
 ||clem.bot^
 ||clickhive.bot^
@@ -110,7 +109,6 @@
 ||container.bot^
 ||convergent.bot^
 ||cookie.bot^
-||coral.bot^
 ||cosmetics.bot^
 ||cre.bot^
 ||crossword.bot^
@@ -125,7 +123,6 @@
 ||defcon.bot^
 ||defensive.bot^
 ||desci.bot^
-||desi.bot^
 ||dexterous.bot^
 ||did.bot^
 ||dizzy.bot^
@@ -156,10 +153,12 @@
 ||exploit.bot^
 ||ey.bot^
 ||eyeq.bot^
+||f8bet.bot^
+||fastads.bot^
+||fb88.bot^
 ||feedshift.bot^
 ||findmyai.bot^
 ||flywheel.bot^
-||fof.bot^
 ||foia.bot^
 ||footystats.bot^
 ||fort.bot^
@@ -215,7 +214,6 @@
 ||justask.bot^
 ||k-9.bot^
 ||kaiga.bot^
-||kairos.bot^
 ||kcoin.bot^
 ||keys.bot^
 ||khanmigo.bot^
@@ -288,6 +286,7 @@
 ||namegenerator.bot^
 ||nan0.bot^
 ||nanoro.bot^
+||netio.bot^
 ||newsy.bot^
 ||noti.bot^
 ||notifier.bot^
@@ -322,6 +321,7 @@
 ||preview.bot^
 ||privateclient.bot^
 ||probot.bot^
+||propy.bot^
 ||proximo.bot^
 ||pt.bot^
 ||ptx.bot^
@@ -329,6 +329,7 @@
 ||pyusd.bot^
 ||qubits.bot^
 ||raia.bot^
+||readme.bot^
 ||realm.bot^
 ||recommendation.bot^
 ||remy.bot^
@@ -354,6 +355,7 @@
 ||scylla.bot^
 ||sellifygpt.bot^
 ||shayla.bot^
+||shbet.bot^
 ||shipify.bot^
 ||shop.bot^
 ||si.bot^
@@ -364,6 +366,7 @@
 ||snipermethod.bot^
 ||snippet.bot^
 ||sperse.bot^
+||spheron.bot^
 ||spinthewheel.bot^
 ||statfetch.bot^
 ||storebuilder.bot^
@@ -386,6 +389,7 @@
 ||tenga.bot^
 ||teragol.bot^
 ||textback.bot^
+||the.bot^
 ||them.bot^
 ||thewhiterabbit.bot^
 ||thinkspace.bot^
@@ -396,6 +400,7 @@
 ||tradershub.bot^
 ||trilithon.bot^
 ||tripwire.bot^
+||tsp.bot^
 ||tutu.bot^
 ||tx.bot^
 ||uaelaw.bot^
@@ -404,6 +409,7 @@
 ||unitree.bot^
 ||unkn.bot^
 ||uwu.bot^
+||valo.bot^
 ||vape.bot^
 ||vedicastro.bot^
 ||venmo.bot^
