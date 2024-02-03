@@ -17,7 +17,6 @@
 ||aventus.properties^
 ||b52.properties^
 ||bats.properties^
-||bespokereal.properties^
 ||beta.properties^
 ||binarium.properties^
 ||bluediamond.properties^
@@ -31,6 +30,7 @@
 ||champagne.properties^
 ||cheng.properties^
 ||chestnutgrove.properties^
+||choice.properties^
 ||citruscounty.properties^
 ||cnh.properties^
 ||conscious-capital.properties^
@@ -45,8 +45,8 @@
 ||dxb.properties^
 ||echopark.properties^
 ||edgewater.properties^
-||emma.properties^
 ||emporium.properties^
+||engineered.properties^
 ||eth.properties^
 ||event.properties^
 ||fa88.properties^
@@ -67,6 +67,7 @@
 ||getguides.properties^
 ||golica.properties^
 ||goodlife.properties^
+||greenfurb.properties^
 ||greentree.properties^
 ||gtptx.properties^
 ||gujarat.properties^
@@ -76,6 +77,7 @@
 ||halcyon.properties^
 ||hale.properties^
 ||harris.properties^
+||helios.properties^
 ||helium.properties^
 ||hellenic-luxury.properties^
 ||hidden.properties^
@@ -84,7 +86,6 @@
 ||hoffman.properties^
 ||homestead.properties^
 ||hyderabad.properties^
-||icent.properties^
 ||il.properties^
 ||institute.properties^
 ||iris.properties^
@@ -93,7 +94,6 @@
 ||jenniferwright.properties^
 ||jimden.properties^
 ||junelaketn.properties^
-||keenlogic.properties^
 ||kevinc.properties^
 ||keynimal.properties^
 ||kokkinos.properties^
@@ -162,7 +162,6 @@
 ||rnr.properties^
 ||robinson.properties^
 ||rose.properties^
-||ru.properties^
 ||rw.properties^
 ||sai.properties^
 ||sale.properties^
@@ -177,6 +176,7 @@
 ||sigma.properties^
 ||sin88.properties^
 ||smw.properties^
+||socalrealestate.properties^
 ||sol8.properties^
 ||standrews.properties^
 ||stoke.properties^

@@ -9,6 +9,7 @@
 ||1797.network^
 ||192-0-2-1.network^
 ||1all.network^
+||1bitcoin.network^
 ||1w.network^
 ||1x1.network^
 ||2a.network^
@@ -27,7 +28,6 @@
 ||abovenormal.network^
 ||abraham.network^
 ||accelerate.network^
-||acctrade.network^
 ||accurate.network^
 ||acy.network^
 ||addchain.network^
@@ -112,7 +112,6 @@
 ||aquas-manta.network^
 ||arb2.network^
 ||arches.network^
-||archive.network^
 ||arctix.network^
 ||arona.network^
 ||arrise.network^
@@ -122,7 +121,6 @@
 ||as208864.network^
 ||asca.network^
 ||asoulingo.network^
-||asura.network^
 ||atbxchange.network^
 ||atelier.network^
 ||athane.network^
@@ -136,6 +134,7 @@
 ||avova.network^
 ||awallet.network^
 ||aws-support.network^
+||awsbuilder.network^
 ||azcarehome.network^
 ||azerix.network^
 ||azores.network^
@@ -152,7 +151,6 @@
 ||battlecry.network^
 ||bcash.network^
 ||bctcorp.network^
-||beetinq.network^
 ||befriend.network^
 ||behnam.network^
 ||beneficom.network^
@@ -229,7 +227,6 @@
 ||btc-particle.network^
 ||btcstaking.network^
 ||btoe.network^
-||bullrun.network^
 ||bulls.network^
 ||bunq.network^
 ||buoy.network^
@@ -238,6 +235,7 @@
 ||byteguard.network^
 ||cabrera.network^
 ||calendly.network^
+||cannabisnurses.network^
 ||capitol.network^
 ||capledger.network^
 ||capture.network^
@@ -260,6 +258,7 @@
 ||challenger.network^
 ||chandria.network^
 ||change-address.network^
+||changemasters.network^
 ||changepower.network^
 ||check-wenwencoin.network^
 ||chest-manta.network^
@@ -276,6 +275,8 @@
 ||claim-marginfi.network^
 ||claim-zksync.network^
 ||claimdrop-manta.network^
+||claiming-rewards.network^
+||claimingjup.network^
 ||claims-manta.network^
 ||clexy.network^
 ||clinicalstatistics.network^
@@ -287,6 +288,7 @@
 ||coingenesis.network^
 ||coinmarket.network^
 ||coinop.network^
+||coinwarrior.network^
 ||collateral.network^
 ||collegesavings.network^
 ||columbia.network^
@@ -304,6 +306,7 @@
 ||contemporary.network^
 ||contractorpro.network^
 ||controls.network^
+||convergence.network^
 ||cookies.network^
 ||copernicuslac.network^
 ||copium.network^
@@ -317,7 +320,6 @@
 ||cr101.network^
 ||creationly.network^
 ||critical.network^
-||crpew.network^
 ||crv-live.network^
 ||crypta.network^
 ||cryptoad.network^
@@ -339,6 +341,7 @@
 ||cycle-breakers.network^
 ||dabet.network^
 ||dagpin.network^
+||dandan.network^
 ||daneline.network^
 ||dapp-manta.network^
 ||darkspace.network^
@@ -375,6 +378,7 @@
 ||diraction.network^
 ||dirt.network^
 ||discerninggentlemen.network^
+||discover-manta.network^
 ||disk.network^
 ||dispatch.network^
 ||distribution-manta.network^
@@ -387,6 +391,7 @@
 ||domani.network^
 ||domin.network^
 ||donaldtrump2024.network^
+||donato.network^
 ||donatov.network^
 ||dottor.network^
 ||dppfa.network^
@@ -394,6 +399,7 @@
 ||dreamers.network^
 ||drops-manta.network^
 ||drops-pyth.network^
+||druggy.network^
 ||drusha.network^
 ||dtalk.network^
 ||duesseldorf.network^
@@ -414,7 +420,6 @@
 ||edgeless.network^
 ||educational.network^
 ||ekehi.network^
-||elafmedical.network^
 ||electricmobility.network^
 ||electricvehicle.network^
 ||elegance.network^
@@ -422,19 +427,18 @@
 ||eligibility-manta.network^
 ||eligible-manta.network^
 ||embizo.network^
+||emoverse.network^
 ||employment.network^
 ||encourage.network^
 ||energyfast.network^
 ||energysuper.network^
 ||enhanced.network^
 ||enrol-manta.network^
-||entschuldo.network^
 ||envigorall.network^
 ||epsilon.network^
 ||equito.network^
 ||erazksync.network^
 ||ercpros.network^
-||escort.network^
 ||esuper.network^
 ||ethetf.network^
 ||eunity.network^
@@ -444,7 +448,6 @@
 ||event-pyth.network^
 ||events-manta.network^
 ||events-pyth.network^
-||evers.network^
 ||every.network^
 ||evfast.network^
 ||evo-mode.network^
@@ -512,7 +515,6 @@
 ||fubar.network^
 ||fuchsia.network^
 ||fujin.network^
-||fundingschools.network^
 ||funnybusiness.network^
 ||fusionist.network^
 ||g0vernance-manta.network^
@@ -526,10 +528,10 @@
 ||geniusmindz.network^
 ||gentlemen.network^
 ||geospacial.network^
+||get-jup.network^
 ||get-pyth.network^
 ||getmanta.network^
 ||getverified.network^
-||getworker.network^
 ||giao.network^
 ||giftsocial.network^
 ||global-management.network^
@@ -555,7 +557,6 @@
 ||growthquest.network^
 ||grupo.network^
 ||gsvglobal.network^
-||guide.network^
 ||guidepost.network^
 ||guitar.network^
 ||guttersnipe.network^
@@ -570,12 +571,14 @@
 ||hardshippersonalloans.network^
 ||hardshiptools.network^
 ||havoc.network^
+||hayyanmozaik.network^
 ||heartaddiction.network^
 ||heartrecovery.network^
 ||helder.network^
 ||help.network^
 ||helpinghands.network^
 ||henosis.network^
+||herologistic.network^
 ||hilite.network^
 ||hni.network^
 ||home-manta.network^
@@ -588,6 +591,7 @@
 ||hotstories.network^
 ||hotties.network^
 ||hourglass.network^
+||https-acala.network^
 ||humane-lingo.network^
 ||humanecorps.network^
 ||humanedom.network^
@@ -604,7 +608,6 @@
 ||iconx.network^
 ||idep.network^
 ||ido-meson.network^
-||iiquidlayer.network^
 ||illusion.network^
 ||illuvium.network^
 ||iloveto.network^
@@ -613,16 +616,15 @@
 ||immerso.network^
 ||incontinence.network^
 ||incorpware.network^
-||indras.network^
 ||industryai.network^
 ||infarlems.network^
+||inficloud.network^
 ||infinit.network^
 ||infinitylink.network^
 ||infinityone.network^
 ||ingenious.network^
 ||ingenuity.network^
 ||injictives.network^
-||insc.network^
 ||inspace-token.network^
 ||integralingo.network^
 ||integralous.network^
@@ -634,7 +636,9 @@
 ||intro.network^
 ||investigation.network^
 ||ironcrosslivestockco.network^
+||isl.network^
 ||islamiceconomy.network^
+||iso20022.network^
 ||isupport-site.network^
 ||isupport-web.network^
 ||isv.network^
@@ -662,6 +666,7 @@
 ||journey.network^
 ||juju.network^
 ||juki.network^
+||jup-reg.network^
 ||jupidrop.network^
 ||jupiter-airdrop.network^
 ||jupiter-connect.network^
@@ -678,13 +683,14 @@
 ||kasatka.network^
 ||kasi.network^
 ||kauai.network^
+||kayla.network^
 ||keros.network^
 ||keungz.network^
 ||kindeck.network^
+||kinetex.network^
 ||kingdomintelligence.network^
 ||kingdomlife.network^
 ||knock.network^
-||kopigaming.network^
 ||kosa.network^
 ||krignal.network^
 ||krystara.network^
@@ -694,9 +700,8 @@
 ||l2-manta.network^
 ||l3lockchain.network^
 ||lac-eu.network^
-||ladybishop.network^
 ||landscaping.network^
-||lastnode.network^
+||laserbeam.network^
 ||launch-jupiter.network^
 ||launch-rdnt.network^
 ||launchsatoshivm.network^
@@ -718,9 +723,9 @@
 ||lexi.network^
 ||lexim.network^
 ||libertyhardships.network^
-||lifamily.network^
 ||lifehard.network^
 ||lifehardship.network^
+||lightningmind.network^
 ||lightring.network^
 ||linked.network^
 ||linkhub.network^
@@ -744,6 +749,7 @@
 ||lunchpad.network^
 ||luscious.network^
 ||lusdt.network^
+||lust.network^
 ||m1saka.network^
 ||maanta.network^
 ||macau.network^
@@ -799,7 +805,6 @@
 ||mantafi.network^
 ||mantag.network^
 ||mantah.network^
-||mantai.network^
 ||mantairdrop.network^
 ||mantal.network^
 ||mantal2.network^
@@ -844,6 +849,7 @@
 ||mayclub.network^
 ||mb66.network^
 ||mcnta.network^
+||medal.network^
 ||medi.network^
 ||mediamaroc.network^
 ||medicalrecordinvestigations.network^
@@ -870,6 +876,8 @@
 ||million.network^
 ||milo.network^
 ||minaduki.network^
+||mindrupt.network^
+||minergold.network^
 ||minimastermind.network^
 ||mintai.network^
 ||mintchain.network^
@@ -888,6 +896,7 @@
 ||monarch.network^
 ||monke.network^
 ||monobank.network^
+||monti.network^
 ||moon-beam.network^
 ||moonboys.network^
 ||mooney.network^
@@ -904,7 +913,6 @@
 ||mq.network^
 ||msme.network^
 ||mujeresenbienestar.network^
-||multisite.network^
 ||muniversal.network^
 ||mussel.network^
 ||my-iontoken.network^
@@ -991,7 +999,6 @@
 ||oddshop.network^
 ||oer.network^
 ||omegpro.network^
-||omg138.network^
 ||omnicorps.network^
 ||omnidyne.network^
 ||omnifi.network^
@@ -1018,9 +1025,7 @@
 ||openbooks.network^
 ||openmind.network^
 ||openscience.network^
-||openwisdom.network^
 ||opfair.network^
-||opsecsecurity.network^
 ||oraclevpn.network^
 ||orbis.network^
 ||orda.network^
@@ -1029,12 +1034,12 @@
 ||orr.network^
 ||oruc.network^
 ||ostinato.network^
+||otherslde.network^
 ||overlanders.network^
 ||overlanding.network^
 ||overtime.network^
 ||owallet.network^
 ||owlto.network^
-||oxbt.network^
 ||oxford-entrepreneurs.network^
 ||pacific-bridge.network^
 ||pacific-bridgemanta.network^
@@ -1052,7 +1057,6 @@
 ||palserver.network^
 ||palworld.network^
 ||paradigmvpn.network^
-||parallelfl.network^
 ||paranormal.network^
 ||parity.network^
 ||parso.network^
@@ -1065,6 +1069,7 @@
 ||patelprivate.network^
 ||pathwaystoempowerment.network^
 ||patrani.network^
+||pawn.network^
 ||payoneer.network^
 ||payup.network^
 ||pcash.network^
@@ -1074,7 +1079,6 @@
 ||pearl.network^
 ||pedo.network^
 ||pel.network^
-||pela.network^
 ||pengu.network^
 ||pepecoin.network^
 ||perplexity.network^
@@ -1084,9 +1088,6 @@
 ||phase2-jito.network^
 ||phase2-manta.network^
 ||phase2manta.network^
-||pheasants.network^
-||pheasantt.network^
-||pheassant.network^
 ||phillip.network^
 ||philosophy.network^
 ||photobooth.network^
@@ -1135,7 +1136,6 @@
 ||psychiatry.network^
 ||ptyth.network^
 ||publi.network^
-||publican.network^
 ||puffer.network^
 ||pullix.network^
 ||purity.network^
@@ -1144,7 +1144,6 @@
 ||pythh.network^
 ||pythn.network^
 ||pytht.network^
-||quantumhumanity.network^
 ||qubitfiber.network^
 ||quds.network^
 ||quote.network^
@@ -1159,6 +1158,7 @@
 ||rde.network^
 ||readysetconnect.network^
 ||real-human.network^
+||realestateonline.network^
 ||realism.network^
 ||really-human.network^
 ||rebirth.network^
@@ -1171,6 +1171,8 @@
 ||reg-port3.network^
 ||regalingo.network^
 ||regenerativeagriculture.network^
+||register-airdrops.network^
+||register-claim.network^
 ||register-orderly.network^
 ||register-whitelist.network^
 ||registers-manta.network^
@@ -1202,6 +1204,7 @@
 ||rockets.network^
 ||rolexwatch.network^
 ||romenergy.network^
+||ronixtool.network^
 ||roosevelthaulingneeds.network^
 ||roro.network^
 ||ros.network^
@@ -1212,6 +1215,7 @@
 ||rt.network^
 ||rton.network^
 ||rtpgaming88.network^
+||rupt.network^
 ||s3gf4ult.network^
 ||sabzforex.network^
 ||sack.network^
@@ -1270,6 +1274,7 @@
 ||sixquire.network^
 ||siyu.network^
 ||skorka.network^
+||skytron.network^
 ||smartcontracts.network^
 ||smartlink.network^
 ||smartreachai.network^
@@ -1312,6 +1317,7 @@
 ||stark-industries.network^
 ||std.network^
 ||steradian.network^
+||steveharvey.network^
 ||stopcrime.network^
 ||storing.network^
 ||stretto-case-celsius.network^
@@ -1331,16 +1337,17 @@
 ||support-device.network^
 ||support-global.network^
 ||support-web.network^
-||swaggerson.network^
 ||swallet.network^
 ||swaperty.network^
 ||swapper.network^
 ||sweetyflowers.network^
 ||swell-airdrop.network^
+||swiftfulfillment.network^
 ||swoons.network^
 ||synthesize.network^
 ||syntho.network^
 ||t-me.network^
+||tac.network^
 ||taigo88.network^
 ||take-manta.network^
 ||takemake.network^
@@ -1355,6 +1362,7 @@
 ||tcash.network^
 ||teamsmicroconnect.network^
 ||teamsoperator.network^
+||techstar.network^
 ||tecno.network^
 ||teenagereading.network^
 ||tell.network^
@@ -1366,7 +1374,6 @@
 ||terrarium.network^
 ||tgt.network^
 ||thc.network^
-||the-bridge.network^
 ||the-hub.network^
 ||thebeauty.network^
 ||thebig.network^
@@ -1378,6 +1385,7 @@
 ||thedirectory.network^
 ||thedoctors.network^
 ||theforce.network^
+||thefoundation.network^
 ||theglobalpartners.network^
 ||thegoldenway.network^
 ||thehome.network^
@@ -1387,6 +1395,7 @@
 ||themissions.network^
 ||themsp.network^
 ||theoasis.network^
+||theperspective.network^
 ||theplace.network^
 ||theporn.network^
 ||thereform.network^
@@ -1435,6 +1444,7 @@
 ||ttron.network^
 ||tuvkalbim.network^
 ||tvl-manta.network^
+||tvl.network^
 ||twallet.network^
 ||twilight.network^
 ||txt2.network^
@@ -1445,7 +1455,6 @@
 ||undersea-manta.network^
 ||undisclosed.network^
 ||unfold.network^
-||unibus.network^
 ||unicornbsc.network^
 ||unidao.network^
 ||unigue.network^
@@ -1455,7 +1464,6 @@
 ||universalogy.network^
 ||universalsocial.network^
 ||unreal.network^
-||unstoppabledomains.network^
 ||untity.network^
 ||upa.network^
 ||upshield.network^
@@ -1472,13 +1480,11 @@
 ||verb.network^
 ||verifi.network^
 ||verify-wenwencoin.network^
-||verifypayment.network^
 ||verticalcomputing.network^
 ||vfast.network^
 ||victoryleadership.network^
 ||viibr.network^
 ||villagewell.network^
-||vipper.network^
 ||virus.network^
 ||visit-layerzero.network^
 ||visit-manta.network^
@@ -1545,7 +1551,6 @@
 ||x2y2-nft.network^
 ||x2y2.network^
 ||x3.network^
-||xaigames.network^
 ||xenix.network^
 ||xfriends.network^
 ||xmail.network^
