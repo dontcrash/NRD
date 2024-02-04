@@ -35,6 +35,8 @@
 ||apgar.bot^
 ||approval.bot^
 ||aqil.bot^
+||arbimex.bot^
+||artenika.bot^
 ||askalex.bot^
 ||askaway.bot^
 ||askchat.bot^
@@ -56,6 +58,7 @@
 ||biased.bot^
 ||bilibili.bot^
 ||bingo.bot^
+||bitbyte.bot^
 ||bitcoinetfs.bot^
 ||blackbox.bot^
 ||bonduel.bot^
@@ -76,11 +79,11 @@
 ||byd.bot^
 ||bye.bot^
 ||bypass.bot^
+||bytes.bot^
 ||c3.bot^
 ||caio.bot^
 ||caipiao.bot^
 ||callreview.bot^
-||candle.bot^
 ||capchabot.bot^
 ||capthca.bot^
 ||cbrc20.bot^
@@ -164,7 +167,6 @@
 ||gbkjaya.bot^
 ||gdpr.bot^
 ||gentoo.bot^
-||geysevilleinn.bot^
 ||girlwhoisaro.bot^
 ||golang.bot^
 ||goodyear.bot^
@@ -185,8 +187,10 @@
 ||hubcap.bot^
 ||humanoid.bot^
 ||humansource.bot^
+||hushchat.bot^
 ||hyped.bot^
 ||icp.bot^
+||imperial.bot^
 ||initiate.bot^
 ||injective.bot^
 ||insidertrading.bot^
@@ -254,6 +258,7 @@
 ||milestone.bot^
 ||mimi.bot^
 ||misei.bot^
+||mkspamp.bot^
 ||moai.bot^
 ||mobile2b.bot^
 ||modern.bot^
@@ -264,6 +269,7 @@
 ||moodyscopilot.bot^
 ||moodysinvestorsservice.bot^
 ||moogarden.bot^
+||moogardens.bot^
 ||mpesa.bot^
 ||mushroom.bot^
 ||mushrooms.bot^
@@ -311,7 +317,6 @@
 ||promoter.bot^
 ||propy.bot^
 ||proximo.bot^
-||pt.bot^
 ||ptx.bot^
 ||puravida.bot^
 ||pyusd.bot^
@@ -330,7 +335,10 @@
 ||rocketmoney.bot^
 ||rocketmortgage.bot^
 ||rosy.bot^
+||rss.bot^
 ||rtila.bot^
+||rufusai.bot^
+||rufusllm.bot^
 ||rwas.bot^
 ||salesview.bot^
 ||satoshinakamoto.bot^
@@ -340,6 +348,7 @@
 ||screenshot.bot^
 ||scrs.bot^
 ||scylla.bot^
+||searchai.bot^
 ||sellifygpt.bot^
 ||senior.bot^
 ||shayla.bot^
@@ -423,6 +432,7 @@
 ||webscraping.bot^
 ||website-domains.bot^
 ||whitehat.bot^
+||whitelist.bot^
 ||wiki.bot^
 ||wildfire.bot^
 ||windows.bot^
