@@ -10,7 +10,6 @@
 ||aslamtradingenterprise.trading^
 ||bags.trading^
 ||bakerswap.trading^
-||bakeryswap.trading^
 ||bancadoithuong.trading^
 ||beincrypto.trading^
 ||bgc.trading^
@@ -19,10 +18,13 @@
 ||blaze.trading^
 ||blueridges.trading^
 ||blum.trading^
+||botanix.trading^
 ||burnt.trading^
 ||butterfly.trading^
 ||camelot.trading^
 ||carteirax.trading^
+||chip.trading^
+||chips.trading^
 ||clarity.trading^
 ||codigo.trading^
 ||comicbooks.trading^
@@ -37,6 +39,7 @@
 ||falconx.trading^
 ||farcaster.trading^
 ||fusionist.trading^
+||futurescontract.trading^
 ||fxpro-cis.trading^
 ||gainr.trading^
 ||gelion.trading^
@@ -60,6 +63,7 @@
 ||kalorama.trading^
 ||kelpdao.trading^
 ||lambda.trading^
+||lends.trading^
 ||lgb.trading^
 ||lidofi.trading^
 ||liveroom.trading^
@@ -71,8 +75,6 @@
 ||maga.trading^
 ||mei.trading^
 ||mero.trading^
-||mextrade.trading^
-||miluquant.trading^
 ||mintchain.trading^
 ||mission.trading^
 ||mocaverse.trading^
@@ -85,6 +87,7 @@
 ||oasis.trading^
 ||one88.trading^
 ||opiumium.trading^
+||opsec.trading^
 ||optimus.trading^
 ||optionchain.trading^
 ||orivium.trading^
@@ -114,6 +117,7 @@
 ||rocketx.trading^
 ||router.trading^
 ||saga.trading^
+||satori.trading^
 ||signup-frame.trading^
 ||sim.trading^
 ||snapshot-balancer.trading^
@@ -138,7 +142,7 @@
 ||travel.trading^
 ||trip.trading^
 ||tshirt.trading^
-||unlbot.trading^
+||ultiverse.trading^
 ||usm.trading^
 ||usoutlets.trading^
 ||v8.trading^
@@ -148,7 +152,9 @@
 ||vosveld.trading^
 ||vulcanforged.trading^
 ||webverse.trading^
+||wizards.trading^
 ||xenon.trading^
 ||yo88.trading^
 ||yogapetz.trading^
 ||zerolend.trading^
+||zoca.trading^
