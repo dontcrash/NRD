@@ -8,7 +8,6 @@
 ||attention.domains^
 ||bestalien.domains^
 ||blastid.domains^
-||book.domains^
 ||breakout.domains^
 ||buysellauction.domains^
 ||buzzed.domains^
@@ -35,6 +34,7 @@
 ||dollarclub.domains^
 ||domaining.domains^
 ||ens-renewal.domains^
+||ensrenewal.domains^
 ||eweb.domains^
 ||fa88.domains^
 ||fcb8.domains^
@@ -48,6 +48,7 @@
 ||honeybadger.domains^
 ||hostmedia.domains^
 ||hyphen.domains^
+||immutable.domains^
 ||inb4.domains^
 ||infinit-dns.domains^
 ||ipfs-ens.domains^
@@ -68,9 +69,11 @@
 ||mindful.domains^
 ||mindfulness.domains^
 ||monarch.domains^
+||mysearch.domains^
 ||namefi.domains^
 ||nameservers.domains^
 ||nbet.domains^
+||nerdy.domains^
 ||ng.domains^
 ||nhacaita88.domains^
 ||nhat.domains^

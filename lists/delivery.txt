@@ -1,6 +1,5 @@
 ||045742.delivery^
 ||04934.delivery^
-||0s.delivery^
 ||101mail.delivery^
 ||23399.delivery^
 ||23658.delivery^
@@ -31,11 +30,13 @@
 ||astroe.delivery^
 ||auth-dhlsupport.delivery^
 ||awesome.delivery^
+||azcannabis.delivery^
 ||baab.delivery^
 ||badgerstate.delivery^
 ||baitandtackle.delivery^
 ||barneys.delivery^
 ||barzinho.delivery^
+||bigboss.delivery^
 ||biririco.delivery^
 ||bite.delivery^
 ||boatfire.delivery^
@@ -44,12 +45,8 @@
 ||canadapost.delivery^
 ||cashon.delivery^
 ||celebration.delivery^
-||cigarettes.delivery^
-||clean.delivery^
 ||clone.delivery^
 ||coastal.delivery^
-||cocain.delivery^
-||coke.delivery^
 ||cookies.delivery^
 ||courierhub.delivery^
 ||cravingrub.delivery^
@@ -58,9 +55,9 @@
 ||debet.delivery^
 ||dedicateddrivers.delivery^
 ||deliver.delivery^
-||deliveryjobnowusa.delivery^
 ||delivin.delivery^
 ||deutschepost-support.delivery^
+||dhl-mx.delivery^
 ||dmt.delivery^
 ||dock.delivery^
 ||dogmom.delivery^
@@ -75,6 +72,7 @@
 ||expresscourier.delivery^
 ||fa88.delivery^
 ||fairmarket.delivery^
+||fastcourier.delivery^
 ||fastdrop.delivery^
 ||fech.delivery^
 ||fedcourier.delivery^
@@ -91,7 +89,7 @@
 ||infinitepizza.delivery^
 ||interior-aesthetics.delivery^
 ||ireland-ups.delivery^
-||kraid.delivery^
+||joint.delivery^
 ||kualalumpurflowers.delivery^
 ||lakebum.delivery^
 ||lasvegasweed.delivery^
@@ -100,6 +98,7 @@
 ||liquorcabinet.delivery^
 ||lucky88.delivery^
 ||maga.delivery^
+||mailyourprospect.delivery^
 ||matrix.delivery^
 ||may88.delivery^
 ||mealkit.delivery^
@@ -109,6 +108,7 @@
 ||meu.delivery^
 ||millisecond.delivery^
 ||milliseconds.delivery^
+||mining.delivery^
 ||mixvip.delivery^
 ||movex.delivery^
 ||mysterybox.delivery^
@@ -117,7 +117,6 @@
 ||neededbakery.delivery^
 ||net88.delivery^
 ||northvolt.delivery^
-||nps.delivery^
 ||nuevocol.delivery^
 ||okay.delivery^
 ||ondrug.delivery^
@@ -130,13 +129,11 @@
 ||parcelportal.delivery^
 ||picknpay.delivery^
 ||pixelpulsestudios.delivery^
-||placa.delivery^
 ||plates.delivery^
 ||polar.delivery^
 ||popupparty.delivery^
 ||post-macedonia.delivery^
 ||priceand.delivery^
-||prostitutes.delivery^
 ||ps-package02391.delivery^
 ||putin.delivery^
 ||qengo.delivery^
@@ -146,6 +143,7 @@
 ||rosaamazonica.delivery^
 ||satchel.delivery^
 ||saudiarabian.delivery^
+||searchmarkets.delivery^
 ||secure-dhlparcel.delivery^
 ||secure-upstracer.delivery^
 ||sg.delivery^
@@ -153,7 +151,6 @@
 ||sin88.delivery^
 ||singpost-fast.delivery^
 ||slovenska-posta.delivery^
-||smartshop.delivery^
 ||soc88.delivery^
 ||soctrip.delivery^
 ||sons.delivery^
@@ -181,7 +178,6 @@
 ||webhook.delivery^
 ||webpost.delivery^
 ||wedo.delivery^
-||weed24.delivery^
 ||win79.delivery^
 ||wize.delivery^
 ||woola.delivery^

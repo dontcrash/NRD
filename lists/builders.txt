@@ -12,7 +12,6 @@
 ||bootstrap.builders^
 ||british.builders^
 ||buildcapecod.builders^
-||buy.builders^
 ||campbell.builders^
 ||campervan.builders^
 ||constructionlender.builders^
@@ -28,6 +27,7 @@
 ||fabet.builders^
 ||faceless.builders^
 ||fcb8.builders^
+||fidelis.builders^
 ||genshin.builders^
 ||gestion.builders^
 ||goat.builders^
@@ -62,7 +62,6 @@
 ||portside.builders^
 ||realty.builders^
 ||regohome.builders^
-||revive.builders^
 ||rik.builders^
 ||savvytinker.builders^
 ||savvytinkers.builders^
