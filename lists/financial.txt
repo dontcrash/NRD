@@ -15,7 +15,6 @@
 ||app-pendle.financial^
 ||apt.financial^
 ||architect.financial^
-||arfi.financial^
 ||b52.financial^
 ||b52club.financial^
 ||benson.financial^
@@ -27,10 +26,12 @@
 ||chromatic.financial^
 ||cognition.financial^
 ||companion.financial^
+||consumerscu.financial^
 ||copilot.financial^
 ||dash.financial^
 ||desk.financial^
 ||dmnd.financial^
+||dymension.financial^
 ||e01-transfer.financial^
 ||e2-transfer.financial^
 ||effco.financial^
@@ -84,7 +85,10 @@
 ||pinkesale.financial^
 ||plans.financial^
 ||puffer.financial^
+||pufffer.financial^
+||quest-puffer.financial^
 ||rainforest.financial^
+||ram.financial^
 ||red88.financial^
 ||redwood.financial^
 ||reg.financial^
@@ -103,11 +107,12 @@
 ||swoop.financial^
 ||ta88.financial^
 ||takt.financial^
-||tau.financial^
 ||thewhiterabbit.financial^
 ||toca.financial^
+||toyota.financial^
 ||tp88.financial^
 ||trump.financial^
+||txhmrevenuecustoms.financial^
 ||ub-eu.financial^
 ||uk88.financial^
 ||unburg.financial^
@@ -116,6 +121,5 @@
 ||wmg-associate.financial^
 ||wmgassociate.financial^
 ||wmgassociates.financial^
-||wyoming.financial^
 ||xyi.financial^
 ||yo88.financial^

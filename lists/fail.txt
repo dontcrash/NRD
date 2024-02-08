@@ -3,8 +3,6 @@
 ||anon.fail^
 ||bancadoithuong.fail^
 ||cht.fail^
-||complete.fail^
-||cross-tide.fail^
 ||degen.fail^
 ||embed.fail^
 ||f8bet.fail^
@@ -25,6 +23,7 @@
 ||merchant.fail^
 ||nat.fail^
 ||nosrv.fail^
+||octo.fail^
 ||olympics.fail^
 ||pc.fail^
 ||pobretv.fail^
@@ -33,9 +32,9 @@
 ||saudiarabian.fail^
 ||seed.fail^
 ||sms.fail^
+||suncity.fail^
 ||thisis.fail^
 ||time.fail^
-||token.fail^
 ||tryagain.fail^
 ||v3x.fail^
 ||v9bet.fail^

@@ -12,7 +12,6 @@
 ||carinjury.claims^
 ||cavalry.claims^
 ||court.claims^
-||covidvax.claims^
 ||crm.claims^
 ||cs.claims^
 ||cw.claims^
@@ -28,6 +27,7 @@
 ||flipsidecrypto.claims^
 ||fragment.claims^
 ||gamble.claims^
+||gensure.claims^
 ||gme.claims^
 ||guildofguardians.claims^
 ||handshake.claims^
@@ -54,6 +54,7 @@
 ||leo88.claims^
 ||loanhelp.claims^
 ||lucky88.claims^
+||lucrosus.claims^
 ||maga.claims^
 ||man.claims^
 ||manta.claims^
@@ -70,9 +71,9 @@
 ||one88.claims^
 ||oxbet.claims^
 ||pcp.claims^
-||pnd0x.claims^
 ||polygon.claims^
 ||porkcoin.claims^
+||qubic.claims^
 ||roofproinspections.claims^
 ||rtfkt.claims^
 ||saudi.claims^
@@ -83,6 +84,7 @@
 ||solend-fi.claims^
 ||steth.claims^
 ||suomi.claims^
+||swellnetwork.claims^
 ||swiftpa.claims^
 ||swisscustody.claims^
 ||troll.claims^
@@ -94,5 +96,6 @@
 ||wrongfuldeath.claims^
 ||xo88.claims^
 ||zkfair.claims^
+||zora.claims^
 ||zowin.claims^
 ||zuzalu.claims^

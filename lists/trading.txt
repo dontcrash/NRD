@@ -22,8 +22,8 @@
 ||botanix.trading^
 ||burnt.trading^
 ||butterfly.trading^
-||camelot.trading^
 ||carteirax.trading^
+||cast.trading^
 ||chip.trading^
 ||chips.trading^
 ||clarity.trading^
@@ -45,7 +45,6 @@
 ||fxpro-cis.trading^
 ||gainr.trading^
 ||gelion.trading^
-||gem.trading^
 ||gemwin.trading^
 ||getrefunds.trading^
 ||gilanns.trading^
@@ -66,7 +65,6 @@
 ||jumper.trading^
 ||kalorama.trading^
 ||kelpdao.trading^
-||lambda.trading^
 ||lends.trading^
 ||lgb.trading^
 ||lidofi.trading^
@@ -79,10 +77,12 @@
 ||maga.trading^
 ||mei.trading^
 ||mero.trading^
+||metas.trading^
 ||mintchain.trading^
 ||mission.trading^
 ||mocaverse.trading^
 ||monad.trading^
+||multibits.trading^
 ||mybot.trading^
 ||names.trading^
 ||neptune.trading^
@@ -95,6 +95,7 @@
 ||optimus.trading^
 ||optionchain.trading^
 ||orivium.trading^
+||orthogonal.trading^
 ||overnetwork.trading^
 ||oxbet.trading^
 ||palworld.trading^
@@ -120,7 +121,6 @@
 ||rikvip.trading^
 ||rocketx.trading^
 ||router.trading^
-||saga.trading^
 ||satori.trading^
 ||signup-frame.trading^
 ||signup-monad.trading^
@@ -156,7 +156,6 @@
 ||v8.trading^
 ||vanar.trading^
 ||vertex.trading^
-||vortex.trading^
 ||vosveld.trading^
 ||vulcanforged.trading^
 ||webverse.trading^

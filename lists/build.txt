@@ -32,7 +32,6 @@
 ||gemini.build^
 ||goldleaf.build^
 ||hatch.build^
-||hest.build^
 ||infill.build^
 ||jasonclark.build^
 ||king88.build^
@@ -43,7 +42,6 @@
 ||linku.build^
 ||lucky88.build^
 ||machine.build^
-||maind.build^
 ||mantanetwork.build^
 ||marrow.build^
 ||masterplan.build^
@@ -60,7 +58,9 @@
 ||openshift.build^
 ||payments.build^
 ||pkconstruction.build^
+||protocol.build^
 ||purdon.build^
+||qbbscalgary.build^
 ||red88.build^
 ||rikvip.build^
 ||running.build^
@@ -75,6 +75,7 @@
 ||tailoredhomes.build^
 ||tesseract.build^
 ||top88.build^
+||trehelhomes.build^
 ||ufabet.build^
 ||uk88.build^
 ||unbox.build^

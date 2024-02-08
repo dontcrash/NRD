@@ -4,12 +4,9 @@
 ||3p3.software^
 ||4263.software^
 ||7096.software^
-||7468.software^
 ||9173.software^
 ||9274.software^
 ||9275.software^
-||9421.software^
-||9514.software^
 ||activitypub.software^
 ||afos.software^
 ||afsoc.software^
@@ -39,7 +36,6 @@
 ||astrocats.software^
 ||atom.software^
 ||atrium.software^
-||autoqa.software^
 ||avantgarde.software^
 ||aves.software^
 ||aviatorgame.software^
@@ -55,6 +51,7 @@
 ||bilberry.software^
 ||biz2biz.software^
 ||blue-opal.software^
+||bonnet.software^
 ||boxdoc.software^
 ||brainycode.software^
 ||broodaprojects.software^
@@ -88,7 +85,6 @@
 ||devgenius.software^
 ||devportofolio.software^
 ||devstnt.software^
-||dig.software^
 ||drew.software^
 ||drslmedia.software^
 ||dune.software^
@@ -97,7 +93,6 @@
 ||embraceable.software^
 ||enciana.software^
 ||engineros.software^
-||enkel.software^
 ||eskiocak.software^
 ||eure.software^
 ||exodussl.software^
@@ -109,10 +104,11 @@
 ||fedexground.software^
 ||fedramp.software^
 ||fileshare.software^
+||finbuild.software^
+||foxgate.software^
 ||fpt.software^
 ||fsb.software^
 ||funlearning.software^
-||fuzzykittens.software^
 ||gc.software^
 ||gchq.software^
 ||ge.software^
@@ -229,7 +225,6 @@
 ||realestatedragos.software^
 ||rebuild.software^
 ||remastering.software^
-||revrs01.software^
 ||rhaw.software^
 ||rightrudder.software^
 ||robotarm.software^
@@ -249,6 +244,7 @@
 ||slot.software^
 ||smoothify.software^
 ||smyy.software^
+||sodalite.software^
 ||softec.software^
 ||solinfordevapi.software^
 ||spacecom.software^
@@ -272,7 +268,6 @@
 ||usembassy.software^
 ||vash.software^
 ||vecproc.software^
-||veles.software^
 ||virtualbox.software^
 ||virus-scan.software^
 ||virusscan.software^
