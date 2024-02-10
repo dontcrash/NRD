@@ -1,6 +1,7 @@
 ||1188.sh^
 ||250.sh^
 ||3301.sh^
+||3302.sh^
 ||331.sh^
 ||350.sh^
 ||508.sh^
@@ -20,6 +21,8 @@
 ||630.sh^
 ||668.sh^
 ||697.sh^
+||701.sh^
+||702.sh^
 ||731.sh^
 ||745.sh^
 ||750.sh^
@@ -31,7 +34,6 @@
 ||760.sh^
 ||769.sh^
 ||797.sh^
-||801.sh^
 ||815.sh^
 ||823.sh^
 ||824.sh^
@@ -49,6 +51,7 @@
 ||aly.sh^
 ||arcane.sh^
 ||atola.sh^
+||attic.sh^
 ||autoscaler.sh^
 ||averie.sh^
 ||bal.sh^
@@ -63,8 +66,6 @@
 ||bvm.sh^
 ||bwal.sh^
 ||c17.sh^
-||calendly.sh^
-||carapace.sh^
 ||certmon.sh^
 ||cft.sh^
 ||charada.sh^
@@ -76,6 +77,7 @@
 ||crtmon.sh^
 ||dappradar.sh^
 ||dedungeon.sh^
+||designi.sh^
 ||dinar.sh^
 ||dol.sh^
 ||dreamer.sh^
@@ -87,12 +89,14 @@
 ||frc.sh^
 ||fuk.sh^
 ||fzf.sh^
+||gain.sh^
 ||ghazal.sh^
 ||godca.sh^
 ||gosu.sh^
-||hayden.sh^
 ||hdmovie2.sh^
 ||hellhound.sh^
+||hhh.sh^
+||hhw.sh^
 ||hoh.sh^
 ||hwt.sh^
 ||hyd.sh^
@@ -108,6 +112,7 @@
 ||kloud.sh^
 ||koin99.sh^
 ||kpm.sh^
+||linc.sh^
 ||lmx.sh^
 ||mahdi.sh^
 ||maximarkets.sh^
@@ -121,7 +126,6 @@
 ||nev.sh^
 ||noe.sh^
 ||nomind.sh^
-||nordic.sh^
 ||notifications.sh^
 ||nugget.sh^
 ||ogo.sh^
@@ -134,10 +138,10 @@
 ||osdl.sh^
 ||ourhome.sh^
 ||ovm.sh^
-||oyat.sh^
 ||painful.sh^
 ||perplexity.sh^
 ||phkb.sh^
+||pishpo.sh^
 ||planner.sh^
 ||proa.sh^
 ||psb.sh^
@@ -151,6 +155,7 @@
 ||rla.sh^
 ||rm8.sh^
 ||rocketfuel.sh^
+||rohan.sh^
 ||roje.sh^
 ||sammels.sh^
 ||sankalp.sh^
@@ -187,5 +192,3 @@
 ||z3n.sh^
 ||zabbet1.sh^
 ||zalupa.sh^
-||zesty.sh^
-||zhuli.sh^
