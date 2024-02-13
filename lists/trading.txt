@@ -13,7 +13,6 @@
 ||bags.trading^
 ||bakerswap.trading^
 ||bancadoithuong.trading^
-||beincrypto.trading^
 ||bgc.trading^
 ||blaster.trading^
 ||blaze.trading^
@@ -31,6 +30,7 @@
 ||codigo.trading^
 ||comicbooks.trading^
 ||cool.trading^
+||cryptoalerts.trading^
 ||cryptoalgo.trading^
 ||dabet.trading^
 ||debet.trading^
@@ -73,8 +73,6 @@
 ||lgb.trading^
 ||lidofi.trading^
 ||liveroom.trading^
-||ljective.trading^
-||lnjective.trading^
 ||lorgnette.trading^
 ||lot.trading^
 ||lucky88.trading^
@@ -91,6 +89,7 @@
 ||names.trading^
 ||neptune.trading^
 ||netzero.trading^
+||newtype.trading^
 ||nostr.trading^
 ||oasis.trading^
 ||one88.trading^
@@ -120,6 +119,7 @@
 ||quest-zora.trading^
 ||quindoglobal.trading^
 ||rainbow.trading^
+||rare.trading^
 ||registrations-defi.trading^
 ||render.trading^
 ||restakefinance.trading^
@@ -152,7 +152,6 @@
 ||thisis.trading^
 ||tokenize.trading^
 ||trac.trading^
-||trip.trading^
 ||tshirt.trading^
 ||ultiverse.trading^
 ||usm.trading^

@@ -5,7 +5,6 @@
 ||9173.software^
 ||9274.software^
 ||9275.software^
-||activitypub.software^
 ||afos.software^
 ||aha.software^
 ||ai-chat.software^
@@ -21,7 +20,6 @@
 ||anmat.software^
 ||anymetrix.software^
 ||aoosk.software^
-||apache.software^
 ||apprem.software^
 ||arb.software^
 ||archdigital.software^
@@ -34,7 +32,6 @@
 ||attack.software^
 ||avantgarde.software^
 ||aves.software^
-||aviatorgame.software^
 ||ballare.software^
 ||baoquan.software^
 ||barber.software^
@@ -45,6 +42,7 @@
 ||biz2biz.software^
 ||blue-opal.software^
 ||bonnet.software^
+||brainstorm.software^
 ||brainycode.software^
 ||broodaprojects.software^
 ||bstar.software^
@@ -62,8 +60,6 @@
 ||covalent.software^
 ||crafts.software^
 ||customcrm.software^
-||cybersec.software^
-||dance.software^
 ||dani.software^
 ||dataden.software^
 ||datamaster.software^
@@ -90,7 +86,6 @@
 ||faber.software^
 ||fabet.software^
 ||fakturovac.software^
-||fedramp.software^
 ||finbuild.software^
 ||foxgate.software^
 ||fpt.software^
@@ -104,7 +99,6 @@
 ||greenstone.software^
 ||gridsixty.software^
 ||hatchard.software^
-||haystack.software^
 ||held.software^
 ||hgid.software^
 ||hibiscus.software^
@@ -124,7 +118,6 @@
 ||invoicefactoring.software^
 ||it-bc.software^
 ||iweb.software^
-||jandapirang.software^
 ||jank.software^
 ||javameng.software^
 ||joecann.software^
@@ -145,7 +138,6 @@
 ||lms.software^
 ||lni.software^
 ||lode88.software^
-||lorex.software^
 ||luc.software^
 ||lyfcycle.software^
 ||m2.software^
@@ -153,6 +145,7 @@
 ||mambo.software^
 ||matteodepauw.software^
 ||mattyjam.software^
+||mavryx.software^
 ||may88.software^
 ||meego.software^
 ||mist.software^
@@ -164,9 +157,7 @@
 ||ne2.software^
 ||neo.software^
 ||netojoaobatista.software^
-||nga.software^
 ||noah-dev.software^
-||noise.software^
 ||nostack.software^
 ||nvidia-geforce.software^
 ||nxp.software^
@@ -174,23 +165,20 @@
 ||omz.software^
 ||openlibra.software^
 ||opsecc.software^
-||opslyft.software^
+||orbitech.software^
 ||otar.software^
 ||owlin.software^
 ||owls.software^
-||param.software^
 ||parasail.software^
 ||patel.software^
 ||piiology.software^
 ||pimanpn.software^
-||plasma.software^
 ||platetarium.software^
 ||primegamenights.software^
 ||prove.software^
 ||proxies.software^
 ||quantumai.software^
 ||racecar.software^
-||radiantnuclear.software^
 ||rainbow.software^
 ||raudseppit23b.software^
 ||realestatedragos.software^
@@ -230,18 +218,16 @@
 ||typetech.software^
 ||ubik.software^
 ||ujeebu.software^
+||ultimatetech.software^
 ||ultramassive.software^
 ||vash.software^
 ||vecproc.software^
-||virtualbox.software^
 ||virus-scan.software^
 ||virusscan.software^
-||vitrin.software^
 ||vude.software^
 ||vysion.software^
 ||waldorf.software^
 ||wgwl8.software^
-||whitelabelcasino.software^
 ||win10.software^
 ||wish.software^
 ||words.software^

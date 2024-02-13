@@ -21,6 +21,7 @@
 ||b3shop.coffee^
 ||backroom.coffee^
 ||bakeryone.coffee^
+||barista-usa.coffee^
 ||baristaservice.coffee^
 ||beantrade.coffee^
 ||beauxglow.coffee^
@@ -49,10 +50,8 @@
 ||cascaras.coffee^
 ||celeste.coffee^
 ||chew.coffee^
-||chikma.coffee^
 ||chimba.coffee^
 ||circularlypolarisedlight.coffee^
-||clerestory.coffee^
 ||clippedin.coffee^
 ||cocoa.coffee^
 ||coffeecherry.coffee^
@@ -91,11 +90,13 @@
 ||edinburghorigin.coffee^
 ||eifo.coffee^
 ||emptychair.coffee^
+||estafette.coffee^
 ||fa88.coffee^
 ||fabet.coffee^
 ||fcb8.coffee^
 ||flatred.coffee^
 ||flavourtree.coffee^
+||flavr.coffee^
 ||flipside.coffee^
 ||floydroad.coffee^
 ||fmovies.coffee^
@@ -158,7 +159,6 @@
 ||lia.coffee^
 ||lifedeath.coffee^
 ||limestonecoast.coffee^
-||lio.coffee^
 ||liquidfreaks.coffee^
 ||loveyour.coffee^
 ||lumia.coffee^
@@ -172,11 +172,12 @@
 ||malaga.coffee^
 ||malagawood.coffee^
 ||maryjane.coffee^
+||mightyroots.coffee^
 ||mindo.coffee^
 ||momscold.coffee^
+||mona.coffee^
 ||morningafter.coffee^
 ||mpyer.coffee^
-||museumdose.coffee^
 ||myblack.coffee^
 ||myforest.coffee^
 ||myhashtag.coffee^
@@ -214,6 +215,7 @@
 ||raku.coffee^
 ||raptor.coffee^
 ||red88.coffee^
+||redvolution.coffee^
 ||requiringfewerwarm.coffee^
 ||ridgebrew.coffee^
 ||roastdb.coffee^
@@ -230,6 +232,8 @@
 ||searchlocal.coffee^
 ||sefareshi.coffee^
 ||shadegrown.coffee^
+||shalom.coffee^
+||shiva.coffee^
 ||simplebean.coffee^
 ||sinclair.coffee^
 ||singular.coffee^
@@ -239,6 +243,7 @@
 ||slowhaste.coffee^
 ||smallgrainsintheearly.coffee^
 ||snova.coffee^
+||soap2day.coffee^
 ||soc88.coffee^
 ||splender.coffee^
 ||stallion.coffee^
@@ -273,7 +278,6 @@
 ||unicus.coffee^
 ||upcycle.coffee^
 ||urushi.coffee^
-||v3x.coffee^
 ||veganespresso.coffee^
 ||velvetranch.coffee^
 ||vive.coffee^
@@ -291,7 +295,6 @@
 ||xn--schmh-jra.coffee^
 ||yatut.coffee^
 ||you-me.coffee^
-||yourai.coffee^
 ||yourtime.coffee^
 ||zeroproof.coffee^
 ||zimmah.coffee^

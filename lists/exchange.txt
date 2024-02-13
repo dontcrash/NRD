@@ -23,11 +23,9 @@
 ||baku.exchange^
 ||bancadoithuong.exchange^
 ||bark.exchange^
-||beco.exchange^
 ||biat.exchange^
 ||birdeye.exchange^
 ||bitflo.exchange^
-||bitgetwallet.exchange^
 ||blackjack.exchange^
 ||blastfuture.exchange^
 ||bridge-jumper.exchange^
@@ -38,6 +36,7 @@
 ||bunni.exchange^
 ||bur.exchange^
 ||burngee.exchange^
+||businessbroker.exchange^
 ||buunge.exchange^
 ||buygold.exchange^
 ||catwalks.exchange^
@@ -55,7 +54,6 @@
 ||coqswap.exchange^
 ||corn.exchange^
 ||cranium.exchange^
-||crush.exchange^
 ||crydex.exchange^
 ||cryptal.exchange^
 ||cryptohub.exchange^
@@ -96,6 +94,7 @@
 ||globalfillc.exchange^
 ||globex-globalx.exchange^
 ||goldbar.exchange^
+||goldchain.exchange^
 ||gringotts.exchange^
 ||hbl.exchange^
 ||ibx.exchange^
@@ -109,7 +108,6 @@
 ||jupmer.exchange^
 ||kamelot.exchange^
 ||keycap.exchange^
-||koinos.exchange^
 ||kryconn.exchange^
 ||launchpad-jupiter.exchange^
 ||leo88.exchange^
@@ -122,12 +120,14 @@
 ||matanga.exchange^
 ||may88.exchange^
 ||mdx.exchange^
+||medicalpractice.exchange^
 ||metapro.exchange^
 ||mibet.exchange^
 ||mindset.exchange^
 ||mmj.exchange^
 ||moneyball.exchange^
 ||monument.exchange^
+||mta.exchange^
 ||multbitbridge.exchange^
 ||multiibit.exchange^
 ||munna.exchange^
@@ -137,7 +137,6 @@
 ||neuralink.exchange^
 ||node.exchange^
 ||nosara.exchange^
-||notcoin.exchange^
 ||nuri.exchange^
 ||o-mfa.exchange^
 ||off-road.exchange^
@@ -157,7 +156,6 @@
 ||pineapple.exchange^
 ||platinum-ex.exchange^
 ||popupparty.exchange^
-||powerpay.exchange^
 ||priestessai.exchange^
 ||properties.exchange^
 ||pubcoin.exchange^
@@ -165,7 +163,6 @@
 ||quasar.exchange^
 ||quitckswap.exchange^
 ||ram.exchange^
-||raydium.exchange^
 ||red88.exchange^
 ||redtuba.exchange^
 ||reinsurance.exchange^
@@ -176,6 +173,7 @@
 ||saucerswap.exchange^
 ||saudiethereum.exchange^
 ||sc.exchange^
+||scavo.exchange^
 ||sei.exchange^
 ||seiswap.exchange^
 ||servicely.exchange^
@@ -208,8 +206,8 @@
 ||usdt2cash.exchange^
 ||v-wallet.exchange^
 ||v2-bungee.exchange^
-||v3x.exchange^
 ||vape.exchange^
+||variable.exchange^
 ||vie.exchange^
 ||viridian.exchange^
 ||voilatile.exchange^

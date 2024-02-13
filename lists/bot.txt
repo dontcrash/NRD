@@ -80,10 +80,10 @@
 ||caio.bot^
 ||caipiao.bot^
 ||calendly.bot^
-||callreview.bot^
 ||capthca.bot^
 ||celerity.bot^
 ||celestia.bot^
+||chanel.bot^
 ||chatz.bot^
 ||checkmyip.bot^
 ||chimi.bot^
@@ -92,7 +92,6 @@
 ||clem.bot^
 ||clickhive.bot^
 ||climatejobs.bot^
-||codegen.bot^
 ||coinms.bot^
 ||common-sense.bot^
 ||confess.bot^
@@ -101,7 +100,6 @@
 ||corvus.bot^
 ||cosmetics.bot^
 ||cre.bot^
-||crossword.bot^
 ||cyera.bot^
 ||czech.bot^
 ||dada.bot^
@@ -135,7 +133,6 @@
 ||everythingai.bot^
 ||explorer.bot^
 ||ey.bot^
-||eyeq.bot^
 ||f8bet.bot^
 ||factchecker.bot^
 ||farcaster.bot^
@@ -164,6 +161,7 @@
 ||greenbritain.bot^
 ||guac.bot^
 ||guardianai.bot^
+||hamzah.bot^
 ||haptik.bot^
 ||haunt.bot^
 ||healthywealthywise.bot^
@@ -189,6 +187,7 @@
 ||inv.bot^
 ||investicni.bot^
 ||iqmarkets.bot^
+||isai.bot^
 ||jat.bot^
 ||jio.bot^
 ||joiner.bot^
@@ -200,9 +199,11 @@
 ||kore.bot^
 ||kosa.bot^
 ||larsen.bot^
+||latitude.bot^
 ||lede.bot^
 ||legalassistant.bot^
 ||leido.bot^
+||leisure.bot^
 ||lenny.bot^
 ||lexco.bot^
 ||liberation.bot^
@@ -210,7 +211,6 @@
 ||lingerie.bot^
 ||lloydsbankinggroup.bot^
 ||lmk.bot^
-||localsecurity.bot^
 ||lora.bot^
 ||loto188.bot^
 ||luciddreaming.bot^
@@ -222,9 +222,7 @@
 ||magenta.bot^
 ||magic8.bot^
 ||manta.bot^
-||marcusaurelius.bot^
 ||marking.bot^
-||martin.bot^
 ||matching.bot^
 ||maxx.bot^
 ||mbna.bot^
@@ -237,7 +235,6 @@
 ||metaview.bot^
 ||metime.bot^
 ||mi.bot^
-||midman.bot^
 ||milestone.bot^
 ||misei.bot^
 ||mkspamp.bot^
@@ -255,6 +252,7 @@
 ||mushroom.bot^
 ||mushrooms.bot^
 ||myalgo.bot^
+||mytutor.bot^
 ||myv.bot^
 ||nag.bot^
 ||namegenerator.bot^
@@ -262,6 +260,7 @@
 ||netio.bot^
 ||newsy.bot^
 ||newz.bot^
+||nex.bot^
 ||noti.bot^
 ||nsfwchat.bot^
 ||nyt.bot^
@@ -301,6 +300,7 @@
 ||puff.bot^
 ||puravida.bot^
 ||pythia.bot^
+||quasar.bot^
 ||que.bot^
 ||quisito.bot^
 ||r2.bot^
@@ -316,7 +316,6 @@
 ||rocketcard.bot^
 ||rocketmoney.bot^
 ||rocketmortgage.bot^
-||rosy.bot^
 ||rot.bot^
 ||rss.bot^
 ||rtila.bot^
@@ -343,7 +342,6 @@
 ||shop.bot^
 ||sidehustle.bot^
 ||sites.bot^
-||skrt.bot^
 ||sku.bot^
 ||snipermethod.bot^
 ||solgun.bot^
@@ -359,7 +357,6 @@
 ||sv388.bot^
 ||swapper.bot^
 ||tao.bot^
-||tawk.bot^
 ||taxpro.bot^
 ||tcg.bot^
 ||technew.bot^
@@ -375,15 +372,16 @@
 ||tokenary.bot^
 ||tradeprofit.bot^
 ||tradershub.bot^
-||trilithon.bot^
 ||trillium.bot^
 ||tripwire.bot^
+||trutrade.bot^
 ||tsp.bot^
 ||tutu.bot^
 ||tvprogram.bot^
 ||tweetmore.bot^
 ||tx.bot^
 ||uaelaw.bot^
+||uhc.bot^
 ||ujeebu.bot^
 ||ultraverse.bot^
 ||unitedhealthcare.bot^
@@ -396,13 +394,11 @@
 ||vesal.bot^
 ||vesla.bot^
 ||vigoron.bot^
-||virtualblue.bot^
 ||virtualchat.bot^
 ||vive.bot^
 ||vlog.bot^
 ||voicesearch.bot^
 ||vusluge.bot^
-||walletwatcher.bot^
 ||wanderers.bot^
 ||warm.bot^
 ||waspbet.bot^
