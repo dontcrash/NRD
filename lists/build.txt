@@ -19,6 +19,7 @@
 ||devtools.build^
 ||dia.build^
 ||discord.build^
+||distribution-pandora.build^
 ||doge404.build^
 ||dominium.build^
 ||ecosuite.build^
@@ -67,7 +68,6 @@
 ||pandlora.build^
 ||payments.build^
 ||peach.build^
-||pkconstruction.build^
 ||plankton.build^
 ||protocol.build^
 ||purdon.build^
@@ -75,6 +75,7 @@
 ||red88.build^
 ||register-pandora.build^
 ||registrations-pandora.build^
+||rewards-pandora.build^
 ||robertgroups.build^
 ||rockylinux.build^
 ||settedesign.build^
@@ -94,8 +95,10 @@
 ||unbox.build^
 ||verticalia.build^
 ||visit-ally.build^
+||whop.build^
 ||wl-pandora.build^
 ||worxconsultancy.build^
 ||wp.build^
 ||xldesigns.build^
 ||zbet.build^
+||zk404.build^

@@ -10,6 +10,7 @@
 ||cfs-bonds.broker^
 ||clickpoint.broker^
 ||cookie.broker^
+||courtier.broker^
 ||cover.broker^
 ||coverall.broker^
 ||darknet.broker^
@@ -61,6 +62,7 @@
 ||proadvice.broker^
 ||purehealth.broker^
 ||real-estate.broker^
+||rent.broker^
 ||rogan.broker^
 ||royal.broker^
 ||saxo.broker^
@@ -81,7 +83,6 @@
 ||virtualrealestate.broker^
 ||vmc.broker^
 ||walbi.broker^
-||wow.broker^
 ||xo88.broker^
 ||xtb.broker^
 ||zbet.broker^

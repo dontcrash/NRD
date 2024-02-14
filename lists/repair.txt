@@ -12,12 +12,12 @@
 ||ast.repair^
 ||audoor.repair^
 ||autoin.repair^
-||barkersolar.repair^
 ||battlecry.repair^
 ||brokenphone.repair^
 ||brothersglass.repair^
 ||builder.repair^
 ||cathysappliance.repair^
+||center.repair^
 ||chipappliance.repair^
 ||clickoncredit.repair^
 ||clockwork.repair^
@@ -27,7 +27,6 @@
 ||costaplumbing.repair^
 ||countertops.repair^
 ||crefix.repair^
-||cs101.repair^
 ||deez.repair^
 ||dfy.repair^
 ||dmarc.repair^

@@ -14,14 +14,12 @@
 ||airdrop-manta.events^
 ||aligilbert.events^
 ||alisa.events^
-||alliance.events^
 ||allsorts.events^
 ||alterlife.events^
 ||altura.events^
 ||anatomico.events^
 ||animalias.events^
 ||anisha.events^
-||anthropy.events^
 ||appleblossom.events^
 ||ardea.events^
 ||arn.events^
@@ -37,7 +35,6 @@
 ||badhonnef.events^
 ||bakeryswap.events^
 ||bancadoithuong.events^
-||beancon.events^
 ||beatsandbrunch.events^
 ||beatsandeats.events^
 ||because.events^
@@ -54,6 +51,7 @@
 ||blackexcellence.events^
 ||blackonblack.events^
 ||blackpepper.events^
+||blooming.events^
 ||bored.events^
 ||borncreative.events^
 ||bospop.events^
@@ -66,6 +64,7 @@
 ||businesssuitebuddhas.events^
 ||buyout.events^
 ||cache.events^
+||canalwest.events^
 ||candybox.events^
 ||capri.events^
 ||casinotheme.events^
@@ -79,17 +78,14 @@
 ||clutch.events^
 ||cocinaclandestina.events^
 ||cocoon.events^
-||cod.events^
 ||codefor.events^
 ||community-solar.events^
 ||complete.events^
 ||connect-dymension.events^
 ||coordinated.events^
 ||cougarranch.events^
-||creatorfest.events^
 ||cropd.events^
 ||dabet.events^
-||daisydoes.events^
 ||dammam.events^
 ||danceinvasion.events^
 ||debet.events^
@@ -104,7 +100,6 @@
 ||divina.events^
 ||dj-und.events^
 ||dkosmos.events^
-||dnatoto.events^
 ||dogwifhat.events^
 ||donatello.events^
 ||dopamin.events^
@@ -122,12 +117,11 @@
 ||etc.events^
 ||evenda.events^
 ||everlasting.events^
-||everus.events^
 ||evidenze.events^
-||evolutionary.events^
 ||fabic.events^
 ||fcb8.events^
 ||feuer.events^
+||fiestagala.events^
 ||finalepisode.events^
 ||financemagnates.events^
 ||finds.events^
@@ -145,7 +139,6 @@
 ||gemmakate.events^
 ||getmorph.events^
 ||gigimarie.events^
-||globaldisruptorsclub.events^
 ||gocolombia.events^
 ||goldenbliss.events^
 ||goodday.events^
@@ -206,6 +199,7 @@
 ||layerbank.events^
 ||lead.events^
 ||leadrpro.events^
+||leapsecond.events^
 ||lefel.events^
 ||lendas.events^
 ||leo88.events^
@@ -219,7 +213,6 @@
 ||londonhoward.events^
 ||longcovid.events^
 ||ls6.events^
-||lsp.events^
 ||luminous.events^
 ||luxtogel.events^
 ||magiceden.events^
@@ -232,7 +225,6 @@
 ||massivesuccess.events^
 ||meex.events^
 ||memora.events^
-||merchantmoe.events^
 ||metroboomin.events^
 ||micenepal.events^
 ||milestones.events^
@@ -245,6 +237,7 @@
 ||moirareyes.events^
 ||monad.events^
 ||monprotocol.events^
+||mood.events^
 ||moonapp.events^
 ||mostmemorable.events^
 ||mpyer.events^
@@ -257,6 +250,7 @@
 ||nbx.events^
 ||nepadronehome.events^
 ||newhampshire.events^
+||nextday.events^
 ||ninjaseries.events^
 ||nn.events^
 ||noblehouse.events^
@@ -271,13 +265,11 @@
 ||onthewave.events^
 ||oova.events^
 ||opencity.events^
-||otherside-xyz.events^
 ||overdrive.events^
 ||paidnetwork.events^
 ||passionate.events^
 ||penrose.events^
 ||pikante.events^
-||plana.events^
 ||planbased.events^
 ||platinum139.events^
 ||plumgroup.events^
@@ -307,7 +299,6 @@
 ||rs3.events^
 ||rsvp.events^
 ||rush.events^
-||rxr.events^
 ||saudiarabian.events^
 ||savannahtybeeliving.events^
 ||savm.events^
@@ -355,8 +346,6 @@
 ||tgms.events^
 ||theafterparty.events^
 ||theblgpicture.events^
-||theciderhouse.events^
-||thefinale.events^
 ||thefutureofwork.events^
 ||themepark.events^
 ||thirdlevel.events^
@@ -380,7 +369,6 @@
 ||vanity.events^
 ||vanstone.events^
 ||vasta.events^
-||velo.events^
 ||vendome.events^
 ||vettech.events^
 ||vipa.events^
@@ -388,11 +376,11 @@
 ||vrignite.events^
 ||watertowineweddings.events^
 ||wede.events^
+||week.events^
 ||wehavenohandle.events^
 ||whitecanvas.events^
 ||whitecase.events^
 ||whitneycoffman.events^
-||wild.events^
 ||wiseays.events^
 ||wiseways.events^
 ||wowevents.events^
@@ -406,3 +394,4 @@
 ||yield.events^
 ||yourbigday.events^
 ||zabbet1.events^
+||zora.events^

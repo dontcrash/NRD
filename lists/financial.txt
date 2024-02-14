@@ -9,6 +9,7 @@
 ||amd.financial^
 ||americana.financial^
 ||ampersand.financial^
+||ampleforth.financial^
 ||app-ether.financial^
 ||app-pendle.financial^
 ||apt.financial^
@@ -21,10 +22,10 @@
 ||chromatic.financial^
 ||cognition.financial^
 ||companion.financial^
+||concord.financial^
 ||consumerscu.financial^
 ||copilot.financial^
 ||dash.financial^
-||desk.financial^
 ||dmnd.financial^
 ||dymension.financial^
 ||effco.financial^
@@ -39,7 +40,6 @@
 ||gasless.financial^
 ||generations.financial^
 ||getrefunds.financial^
-||getyour.financial^
 ||haute.financial^
 ||heed.financial^
 ||hkd.financial^
@@ -91,7 +91,6 @@
 ||solidity.financial^
 ||stack.financial^
 ||stargatee.financial^
-||swoop.financial^
 ||ta88.financial^
 ||takt.financial^
 ||thewhiterabbit.financial^
@@ -109,3 +108,4 @@
 ||wmgassociate.financial^
 ||wmgassociates.financial^
 ||xyi.financial^
+||zkfair.financial^
