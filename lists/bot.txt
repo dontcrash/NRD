@@ -5,6 +5,7 @@
 ||789bet.bot^
 ||8ball.bot^
 ||8day.bot^
+||8o.bot^
 ||abdavid.bot^
 ||abion.bot^
 ||above.bot^
@@ -26,6 +27,7 @@
 ||aldi-sued.bot^
 ||aldi-suisse.bot^
 ||aldrin.bot^
+||alignly.bot^
 ||alteryx.bot^
 ||amrock.bot^
 ||apexttt.bot^
@@ -37,8 +39,6 @@
 ||askaway.bot^
 ||askbuddy.bot^
 ||askchat.bot^
-||aspiring.bot^
-||assembled.bot^
 ||assistantcoach.bot^
 ||atoz.bot^
 ||augie.bot^
@@ -54,7 +54,6 @@
 ||bannertech.bot^
 ||beachball.bot^
 ||being.bot^
-||betbig.bot^
 ||betterbuilder.bot^
 ||bex.bot^
 ||biased.bot^
@@ -72,6 +71,7 @@
 ||botfather.bot^
 ||bounty.bot^
 ||bowker.bot^
+||bowl.bot^
 ||bozo.bot^
 ||bpo.bot^
 ||bulgarian.bot^
@@ -95,11 +95,11 @@
 ||clem.bot^
 ||climatejobs.bot^
 ||coinms.bot^
+||commander.bot^
 ||common-sense.bot^
 ||compadre.bot^
 ||confess.bot^
 ||confident.bot^
-||consent.bot^
 ||corvus.bot^
 ||cosmetics.bot^
 ||cre.bot^
@@ -133,17 +133,20 @@
 ||epi.bot^
 ||erc404.bot^
 ||esim.bot^
+||eternity.bot^
 ||everythingai.bot^
 ||explorer.bot^
 ||ey.bot^
 ||f8bet.bot^
 ||factchecker.bot^
+||fap.bot^
 ||farcaster.bot^
 ||fastads.bot^
 ||fb88.bot^
 ||festival.bot^
 ||financni.bot^
 ||findmyai.bot^
+||fluffer.bot^
 ||flywheel.bot^
 ||foia.bot^
 ||forreal.bot^
@@ -170,6 +173,7 @@
 ||hamzah.bot^
 ||haptik.bot^
 ||haunt.bot^
+||hawkandrobin.bot^
 ||hikma.bot^
 ||hiphop.bot^
 ||hofer.bot^
@@ -203,6 +207,7 @@
 ||knowitall.bot^
 ||kore.bot^
 ||kosa.bot^
+||kvm.bot^
 ||larsen.bot^
 ||latitude.bot^
 ||lede.bot^
@@ -246,6 +251,7 @@
 ||mkspamp.bot^
 ||moai.bot^
 ||mobile2b.bot^
+||modmail.bot^
 ||moneymuscle.bot^
 ||moodyanalytics.bot^
 ||moodys.bot^
@@ -348,6 +354,7 @@
 ||shipify.bot^
 ||shop.bot^
 ||sidehustle.bot^
+||sieve.bot^
 ||sites.bot^
 ||sku.bot^
 ||snipermethod.bot^
@@ -363,11 +370,13 @@
 ||surveylogic.bot^
 ||sv388.bot^
 ||swapper.bot^
+||sync.bot^
 ||tao.bot^
 ||taxpro.bot^
 ||tcg.bot^
 ||technew.bot^
 ||teleop.bot^
+||telligent.bot^
 ||tenga.bot^
 ||tgpad.bot^
 ||the.bot^
@@ -384,13 +393,13 @@
 ||tripwire.bot^
 ||trutrade.bot^
 ||tsp.bot^
+||tulio.bot^
 ||tvprogram.bot^
 ||tweetmore.bot^
 ||tx.bot^
 ||uaelaw.bot^
 ||uhc.bot^
 ||ujeebu.bot^
-||ultraverse.bot^
 ||unitedhealthcare.bot^
 ||v7go.bot^
 ||valo.bot^
@@ -398,9 +407,9 @@
 ||vavada.bot^
 ||vcfirm.bot^
 ||vedicastro.bot^
+||vercel.bot^
 ||veri-captcha.bot^
 ||veritiv.bot^
-||vesal.bot^
 ||vesla.bot^
 ||vigoron.bot^
 ||virtualchat.bot^
@@ -413,7 +422,6 @@
 ||waspbet.bot^
 ||watch.bot^
 ||web3gpt.bot^
-||webpage.bot^
 ||webscraping.bot^
 ||whitelist.bot^
 ||wiki.bot^
@@ -428,6 +436,8 @@
 ||yabo.bot^
 ||yelper.bot^
 ||your.bot^
+||zak.bot^
+||zakmorris.bot^
 ||zapi.bot^
 ||zappy.bot^
 ||zasilkovna.bot^

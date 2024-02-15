@@ -1,6 +1,4 @@
 ||24hourfurnace.repair^
-||24roof.repair^
-||388bet.repair^
 ||adhd.repair^
 ||ads.repair^
 ||agency.repair^
@@ -16,6 +14,7 @@
 ||brokenphone.repair^
 ||brothersglass.repair^
 ||builder.repair^
+||cartilage.repair^
 ||cathysappliance.repair^
 ||center.repair^
 ||chipappliance.repair^
@@ -23,7 +22,6 @@
 ||clockwork.repair^
 ||cnc-machinery.repair^
 ||cnc-spindle.repair^
-||computertekknowledge.repair^
 ||costaplumbing.repair^
 ||countertops.repair^
 ||crefix.repair^
@@ -32,11 +30,9 @@
 ||dmarc.repair^
 ||dmvroof.repair^
 ||erebus.repair^
-||fabet.repair^
 ||falconauto.repair^
 ||falcontek.repair^
 ||findroofers.repair^
-||fixers.repair^
 ||formula.repair^
 ||gpu.repair^
 ||home-improvements.repair^
@@ -45,7 +41,6 @@
 ||ike.repair^
 ||internex.repair^
 ||lgb.repair^
-||louisville.repair^
 ||luxurycars.repair^
 ||mcleanroof.repair^
 ||meridian.repair^
@@ -54,14 +49,12 @@
 ||mobi.repair^
 ||mpauto.repair^
 ||mpyer.repair^
-||nbet.repair^
 ||off-road.repair^
-||one88.repair^
 ||parkhill.repair^
 ||picayunepc.repair^
 ||planit.repair^
 ||preferredappliance.repair^
-||prescottgaragedoor.repair^
+||prime-appliance.repair^
 ||provok.repair^
 ||qatarappliance.repair^
 ||racket.repair^
@@ -71,7 +64,6 @@
 ||robbins.repair^
 ||set.repair^
 ||smartappliance.repair^
-||soc88.repair^
 ||soulsurvivor.repair^
 ||speedercat.repair^
 ||speedycat.repair^
@@ -98,4 +90,3 @@
 ||washingmachines.repair^
 ||waterleakdamage.repair^
 ||yourcar.repair^
-||zbet.repair^
