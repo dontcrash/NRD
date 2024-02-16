@@ -35,6 +35,7 @@
 ||bestprivacy.tools^
 ||bewater.tools^
 ||biogpt.tools^
+||blizzard.tools^
 ||bloombox.tools^
 ||bosch-shop.tools^
 ||buildingsupplies.tools^
@@ -57,7 +58,9 @@
 ||countmein.tools^
 ||covert.tools^
 ||cracking.tools^
+||crafty.tools^
 ||crea8or.tools^
+||crucials.tools^
 ||crxcked.tools^
 ||cryptoslate.tools^
 ||csne.tools^
@@ -84,7 +87,6 @@
 ||erc404.tools^
 ||escaperoom.tools^
 ||etscorp.tools^
-||euskaltelluzygas.tools^
 ||explosive.tools^
 ||facilitation.tools^
 ||farsi.tools^
@@ -105,7 +107,6 @@
 ||goodlife.tools^
 ||gptguide.tools^
 ||gpts.tools^
-||graphy.tools^
 ||greenleaf.tools^
 ||greenleafcorporation.tools^
 ||growthmindset.tools^
@@ -117,7 +118,6 @@
 ||hackquire.tools^
 ||haystack.tools^
 ||hdmsolar.tools^
-||hdstreamzapp.tools^
 ||helmsman.tools^
 ||herzberg-rollen.tools^
 ||honista.tools^
@@ -175,6 +175,7 @@
 ||mytesla.tools^
 ||neatseo.tools^
 ||neb.tools^
+||neqxt.tools^
 ||nerds.tools^
 ||neural.tools^
 ||nextgen.tools^
@@ -194,8 +195,6 @@
 ||personaldatacollaboration.tools^
 ||phygi.tools^
 ||pin.tools^
-||piracy.tools^
-||pixelx.tools^
 ||pledge.tools^
 ||poker.tools^
 ||policymaker.tools^
@@ -210,7 +209,6 @@
 ||purl.tools^
 ||qatarpost.tools^
 ||qmsr.tools^
-||rabbit.tools^
 ||radioplayer.tools^
 ||raid.tools^
 ||ramen.tools^
@@ -223,7 +221,6 @@
 ||reinsurance.tools^
 ||related.tools^
 ||remotemanager.tools^
-||replaceanything.tools^
 ||replicode.tools^
 ||requestmac.tools^
 ||reusable.tools^
@@ -239,7 +236,6 @@
 ||secops.tools^
 ||secretai.tools^
 ||select.tools^
-||senai.tools^
 ||seotools.tools^
 ||serverlessdev.tools^
 ||shield.tools^
@@ -255,8 +251,9 @@
 ||sovngarde.tools^
 ||spheron.tools^
 ||stage4.tools^
+||starboy.tools^
+||starko.tools^
 ||statement-maker.tools^
-||stocky.tools^
 ||strawberry.tools^
 ||supplychain.tools^
 ||swanstrom.tools^
@@ -292,7 +289,6 @@
 ||unicorn.tools^
 ||uxui.tools^
 ||v2x.tools^
-||vacationrentals.tools^
 ||valor.tools^
 ||venox.tools^
 ||verynice.tools^

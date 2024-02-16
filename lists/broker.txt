@@ -1,5 +1,6 @@
 ||accommodation.broker^
 ||arabicspeaking.broker^
+||ark.broker^
 ||atvshipping.broker^
 ||avalanche.broker^
 ||aylmer.broker^
@@ -23,14 +24,11 @@
 ||getrefunds.broker^
 ||gscheitversichert.broker^
 ||hall.broker^
-||handshake.broker^
 ||housing.broker^
 ||icmarkets.broker^
-||immo.broker^
 ||jetski.broker^
 ||jetskishipping.broker^
 ||jobs.broker^
-||keymaker.broker^
 ||kosa.broker^
 ||kubet.broker^
 ||league.broker^
@@ -38,7 +36,6 @@
 ||luna.broker^
 ||maga.broker^
 ||me.broker^
-||milk.broker^
 ||multi.broker^
 ||namefi.broker^
 ||news.broker^

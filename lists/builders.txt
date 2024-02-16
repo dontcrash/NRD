@@ -3,11 +3,11 @@
 ||activeconstruction.builders^
 ||altahq.builders^
 ||baytobeach.builders^
-||benalla.builders^
 ||bmfcarpentry.builders^
 ||bonsai.builders^
 ||book.builders^
 ||british.builders^
+||bsd.builders^
 ||campbell.builders^
 ||campervan.builders^
 ||constructionlender.builders^
@@ -22,6 +22,8 @@
 ||faceless.builders^
 ||fidelis.builders^
 ||gestion.builders^
+||giant.builders^
+||gobag.builders^
 ||greatest.builders^
 ||grow.builders^
 ||habit.builders^
@@ -31,7 +33,6 @@
 ||intents.builders^
 ||international.builders^
 ||ironwood.builders^
-||josko.builders^
 ||kiewit.builders^
 ||kndconstruction.builders^
 ||legaltech.builders^

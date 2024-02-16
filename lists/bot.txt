@@ -11,7 +11,6 @@
 ||above.bot^
 ||acquisition.bot^
 ||advisers.bot^
-||aerospace.bot^
 ||aethir.bot^
 ||afro.bot^
 ||agiro.bot^
@@ -31,18 +30,20 @@
 ||alteryx.bot^
 ||amrock.bot^
 ||apexttt.bot^
-||aqil.bot^
 ||arbimex.bot^
 ||artenika.bot^
+||ascii.bot^
 ||aseabrownboveri.bot^
 ||askalex.bot^
 ||askaway.bot^
 ||askbuddy.bot^
 ||askchat.bot^
+||asks.bot^
 ||assistantcoach.bot^
 ||atoz.bot^
 ||augie.bot^
 ||automate4success.bot^
+||autonaut.bot^
 ||autoshop.bot^
 ||avvo.bot^
 ||b2bsales.bot^
@@ -64,7 +65,6 @@
 ||bonduele.bot^
 ||bonduell.bot^
 ||bonduellle.bot^
-||bonuscode.bot^
 ||bookit.bot^
 ||boompop.bot^
 ||bopa.bot^
@@ -77,7 +77,6 @@
 ||bulgarian.bot^
 ||bunker.bot^
 ||bye.bot^
-||bypass.bot^
 ||bytes.bot^
 ||caio.bot^
 ||caipiao.bot^
@@ -98,11 +97,11 @@
 ||commander.bot^
 ||common-sense.bot^
 ||compadre.bot^
-||confess.bot^
 ||confident.bot^
 ||corvus.bot^
 ||cosmetics.bot^
 ||cre.bot^
+||cyberbuddy.bot^
 ||cyera.bot^
 ||czech.bot^
 ||dada.bot^
@@ -115,7 +114,6 @@
 ||diner.bot^
 ||dragunova.bot^
 ||dreambig.bot^
-||drgn.bot^
 ||duelbitsmirror.bot^
 ||dyslexia.bot^
 ||e-sim.bot^
@@ -183,7 +181,6 @@
 ||hubcap.bot^
 ||humansource.bot^
 ||hushchat.bot^
-||hyped.bot^
 ||i9bet.bot^
 ||iheartguts.bot^
 ||imcoding.bot^
@@ -214,10 +211,8 @@
 ||legalassistant.bot^
 ||leido.bot^
 ||leisure.bot^
-||lenny.bot^
 ||lexco.bot^
 ||liberation.bot^
-||lido.bot^
 ||lingerie.bot^
 ||lloydsbankinggroup.bot^
 ||lmk.bot^
@@ -284,6 +279,7 @@
 ||okx.bot^
 ||onbet.bot^
 ||oneironautics.bot^
+||onesila.bot^
 ||onlinecasinos.bot^
 ||opesiasyair.bot^
 ||optionsai.bot^
@@ -300,11 +296,13 @@
 ||pivotal.bot^
 ||plagiarismchecker.bot^
 ||plane.bot^
+||plate.bot^
 ||pookie.bot^
 ||preview.bot^
 ||privateclient.bot^
 ||probot.bot^
 ||promoter.bot^
+||proofof.bot^
 ||proptechai.bot^
 ||propy.bot^
 ||proximo.bot^
@@ -365,6 +363,8 @@
 ||spoke.bot^
 ||statfetch.bot^
 ||stealthstartup0.bot^
+||stephenhendel.bot^
+||stevehendel.bot^
 ||stonks.bot^
 ||storebuilder.bot^
 ||surveylogic.bot^
@@ -417,7 +417,6 @@
 ||vlog.bot^
 ||voicesearch.bot^
 ||vusluge.bot^
-||wanderers.bot^
 ||warm.bot^
 ||waspbet.bot^
 ||watch.bot^
@@ -430,7 +429,7 @@
 ||wordcounter.bot^
 ||worldai.bot^
 ||worldmeme.bot^
-||xcoin.bot^
+||worldwatch.bot^
 ||xiaoke.bot^
 ||xpayment.bot^
 ||yabo.bot^

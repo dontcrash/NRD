@@ -32,6 +32,8 @@
 ||bitcoinetfs.fund^
 ||blackfin.fund^
 ||blueberry.fund^
+||bondauction.fund^
+||breathe.fund^
 ||briercliffe.fund^
 ||bt-cap.fund^
 ||burns.fund^
@@ -40,6 +42,7 @@
 ||capinside-solutions.fund^
 ||carolina.fund^
 ||cbd.fund^
+||cd.fund^
 ||cff.fund^
 ||cgm.fund^
 ||cheddar.fund^
@@ -75,6 +78,7 @@
 ||evox.fund^
 ||exoticstables.fund^
 ||fabrianofs.fund^
+||fairmountfunding.fund^
 ||fairwealth.fund^
 ||farmland.fund^
 ||farms.fund^
@@ -90,7 +94,6 @@
 ||findom.fund^
 ||flame.fund^
 ||forces.fund^
-||foresthedge.fund^
 ||foreword.fund^
 ||fractionalexec.fund^
 ||frames.fund^
@@ -122,10 +125,12 @@
 ||impulse.fund^
 ||incyt.fund^
 ||indymo.fund^
+||infrastructure.fund^
 ||inncap.fund^
 ||innovate.fund^
 ||inscriptions.fund^
 ||internex.fund^
+||investbud.fund^
 ||investmentcoin.fund^
 ||investopod.fund^
 ||investscnc.fund^
@@ -139,7 +144,6 @@
 ||jua.fund^
 ||jungle.fund^
 ||kcdigitalinclusion.fund^
-||khooshe.fund^
 ||komorebi.fund^
 ||kosa.fund^
 ||lanhaya.fund^
@@ -154,7 +158,6 @@
 ||lodestar.fund^
 ||loong.fund^
 ||malak.fund^
-||manta.fund^
 ||maverick.fund^
 ||meda.fund^
 ||megem.fund^
@@ -167,6 +170,7 @@
 ||nameless.fund^
 ||nbs.fund^
 ||nebula.fund^
+||nel.fund^
 ||new106.fund^
 ||newtype.fund^
 ||nextstep.fund^
@@ -201,10 +205,12 @@
 ||prime-eth.fund^
 ||prime-ethereum.fund^
 ||primeallocapion.fund^
+||prospect.fund^
 ||puffer.fund^
 ||purpleland.fund^
 ||qverse.fund^
 ||realm.fund^
+||realtor.fund^
 ||recruit.fund^
 ||rendezvous.fund^
 ||rizz.fund^
@@ -240,16 +246,14 @@
 ||suncity.fund^
 ||sunwinvip.fund^
 ||synergylabs.fund^
-||synthium.fund^
-||tangle.fund^
 ||tbh.fund^
 ||tcoin.fund^
 ||tether-reward.fund^
 ||thabet.fund^
 ||theforward.fund^
 ||then.fund^
+||thesafetynet.fund^
 ||thetexasone.fund^
-||thriveimpact.fund^
 ||tokenof.fund^
 ||toptraders.fund^
 ||tp88.fund^
@@ -265,7 +269,6 @@
 ||vax.fund^
 ||vintageguitar.fund^
 ||vstrump.fund^
-||wethriveimpact.fund^
 ||whitelist-gtprotocol.fund^
 ||wiseways.fund^
 ||womensworld.fund^

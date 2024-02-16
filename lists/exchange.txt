@@ -4,13 +4,13 @@
 ||abl.exchange^
 ||advisor.exchange^
 ||advisors.exchange^
-||agglo.exchange^
 ||aggrecost.exchange^
 ||aijob.exchange^
 ||algoassets.exchange^
 ||almailam.exchange^
 ||apeiron.exchange^
 ||apexx.exchange^
+||app-multlbits.exchange^
 ||appcamleot.exchange^
 ||appdhis.exchange^
 ||appunidex.exchange^
@@ -22,6 +22,8 @@
 ||automaton.exchange^
 ||b2dmarketplace.exchange^
 ||babos.exchange^
+||back-pack.exchange^
+||backpacks.exchange^
 ||baku.exchange^
 ||bark.exchange^
 ||biat.exchange^
@@ -39,6 +41,7 @@
 ||businessbroker.exchange^
 ||buunge.exchange^
 ||buygold.exchange^
+||buynothing.exchange^
 ||catwalks.exchange^
 ||cemelot.exchange^
 ||cexglobal.exchange^
@@ -63,6 +66,7 @@
 ||cybersecurity.exchange^
 ||cyberx.exchange^
 ||darttrade.exchange^
+||datasets.exchange^
 ||de1ta.exchange^
 ||deita.exchange^
 ||depins.exchange^
@@ -75,6 +79,7 @@
 ||dragonbyte.exchange^
 ||dymension.exchange^
 ||e-crime.exchange^
+||e1vip.exchange^
 ||econ.exchange^
 ||ecrime.exchange^
 ||ehw.exchange^
@@ -86,11 +91,14 @@
 ||exam.exchange^
 ||exchangeic.exchange^
 ||fair.exchange^
+||fairmountfunding.exchange^
 ||fax.exchange^
 ||financial-service.exchange^
+||freelance.exchange^
 ||gameday.exchange^
 ||geek.exchange^
 ||geneva.exchange^
+||georgia2georgia.exchange^
 ||getx.exchange^
 ||globalfillc.exchange^
 ||globex-globalx.exchange^
@@ -98,6 +106,7 @@
 ||goldchain.exchange^
 ||gringotts.exchange^
 ||hbl.exchange^
+||humptydumpty.exchange^
 ||ibx.exchange^
 ||influx.exchange^
 ||inr.exchange^
@@ -111,6 +120,7 @@
 ||keycap.exchange^
 ||kryconn.exchange^
 ||launchpad-jupiter.exchange^
+||lifeswap.exchange^
 ||livebid.exchange^
 ||ln.exchange^
 ||lum.exchange^
@@ -128,6 +138,7 @@
 ||moneyball.exchange^
 ||monument.exchange^
 ||mta.exchange^
+||mulfibit.exchange^
 ||multbitbridge.exchange^
 ||multiibit.exchange^
 ||munna.exchange^
@@ -144,7 +155,6 @@
 ||onio.exchange^
 ||onion.exchange^
 ||openetf.exchange^
-||opensei.exchange^
 ||optimism.exchange^
 ||parity.exchange^
 ||paywallet.exchange^
@@ -159,7 +169,10 @@
 ||priestessai.exchange^
 ||properties.exchange^
 ||pubcoin.exchange^
+||qswap.exchange^
 ||quasar.exchange^
+||quest-backpack.exchange^
+||quilckswap.exchange^
 ||quitckswap.exchange^
 ||ram.exchange^
 ||redtuba.exchange^
@@ -181,8 +194,11 @@
 ||solarswap.exchange^
 ||sonicboom.exchange^
 ||spinner.exchange^
+||spotprompts.exchange^
+||spotworkai.exchange^
 ||sprite.exchange^
 ||srisai.exchange^
+||stockgenie.exchange^
 ||swag.exchange^
 ||swapify.exchange^
 ||swirl.exchange^

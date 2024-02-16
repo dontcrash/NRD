@@ -14,13 +14,13 @@
 ||alin.systems^
 ||allshookup.systems^
 ||almailam.systems^
-||alpine-data.systems^
 ||alt-nameserver.systems^
 ||altlayer.systems^
 ||altlayers.systems^
 ||altmarkserver.systems^
 ||amaterasu.systems^
 ||amazongamenight.systems^
+||andromeda.systems^
 ||ani.systems^
 ||antidrone.systems^
 ||apartmentmanagement.systems^
@@ -41,6 +41,7 @@
 ||backroom.systems^
 ||barbosa.systems^
 ||baz.systems^
+||beleive.systems^
 ||benedetti.systems^
 ||betcom.systems^
 ||bigfootmarketing.systems^
@@ -61,10 +62,8 @@
 ||caracal.systems^
 ||carlo.systems^
 ||cats.systems^
-||ccc.systems^
 ||cda.systems^
 ||celadon.systems^
-||charlie.systems^
 ||christian.systems^
 ||chrono.systems^
 ||clever.systems^
@@ -96,7 +95,7 @@
 ||digitalseating.systems^
 ||divisionsix.systems^
 ||diya.systems^
-||dobro.systems^
+||dohm.systems^
 ||domaining.systems^
 ||domestic.systems^
 ||don.systems^
@@ -127,7 +126,6 @@
 ||flexx.systems^
 ||flowfield.systems^
 ||football.systems^
-||forklift.systems^
 ||fortunebuilding.systems^
 ||fuiratead.systems^
 ||gabian.systems^
@@ -160,7 +158,9 @@
 ||hydronics.systems^
 ||icom.systems^
 ||illusion.systems^
+||impacto.systems^
 ||improve.systems^
+||inaba.systems^
 ||ingage.systems^
 ||ingenioustech.systems^
 ||inovalon.systems^
@@ -189,9 +189,7 @@
 ||kookaburra.systems^
 ||korean.systems^
 ||kosa.systems^
-||kwh.systems^
 ||labdiamond.systems^
-||lair.systems^
 ||lao.systems^
 ||laufer.systems^
 ||legadvy.systems^
@@ -206,7 +204,6 @@
 ||lspcr.systems^
 ||magicwin.systems^
 ||maidex.systems^
-||maingate.systems^
 ||mania.systems^
 ||martin.systems^
 ||mechpal.systems^
@@ -214,18 +211,15 @@
 ||merit.systems^
 ||metaverso.systems^
 ||micasa.systems^
-||microdev.systems^
 ||mjp.systems^
 ||mlt.systems^
 ||mobi.systems^
 ||mota.systems^
 ||movingexpress.systems^
-||my-hotel.systems^
 ||myelin.systems^
 ||myodoo.systems^
 ||nanotec.systems^
 ||nebulab.systems^
-||nena.systems^
 ||neox.systems^
 ||never.systems^
 ||nichol.systems^
@@ -252,14 +246,15 @@
 ||payback.systems^
 ||payfuture.systems^
 ||pdi.systems^
-||perc.systems^
 ||ph2.systems^
 ||phix.systems^
 ||pictorlabs.systems^
 ||pixy.systems^
+||plata.systems^
 ||powerlaw.systems^
 ||powermax.systems^
 ||powerstorage.systems^
+||premierenvironmental.systems^
 ||primegamenight.systems^
 ||primewaterfiltration.systems^
 ||programmability.systems^
@@ -269,7 +264,6 @@
 ||pursuit.systems^
 ||pusch.systems^
 ||qatarpost.systems^
-||quantron.systems^
 ||rancher.systems^
 ||reisadv.systems^
 ||remotework.systems^
@@ -284,12 +278,12 @@
 ||rodela.systems^
 ||rs-mounting.systems^
 ||rsic.systems^
+||sanda-digital.systems^
 ||saudiaramco.systems^
 ||scanner.systems^
 ||securenet.systems^
 ||selfhealing.systems^
 ||shadowbytes.systems^
-||shft.systems^
 ||shitposting.systems^
 ||shoppy.systems^
 ||skill.systems^
@@ -297,6 +291,7 @@
 ||smartbuilding.systems^
 ||softeye.systems^
 ||solarswift.systems^
+||spacecow.systems^
 ||speculative.systems^
 ||splunkcloudblue.systems^
 ||starboy.systems^
@@ -323,7 +318,6 @@
 ||toxic.systems^
 ||tp88.systems^
 ||trace.systems^
-||transmit.systems^
 ||trill.systems^
 ||troth.systems^
 ||truma.systems^
@@ -346,6 +340,7 @@
 ||wassersleben.systems^
 ||weee.systems^
 ||wide.systems^
+||wlec.systems^
 ||wpos.systems^
 ||wrkdev.systems^
 ||wrkprod.systems^
@@ -357,4 +352,6 @@
 ||yep.systems^
 ||zerodawn.systems^
 ||zeus.systems^
+||zkcloud.systems^
+||zkml.systems^
 ||zula.systems^

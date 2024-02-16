@@ -4,7 +4,6 @@
 ||3302.sh^
 ||331.sh^
 ||350.sh^
-||508.sh^
 ||517.sh^
 ||524.sh^
 ||530.sh^
@@ -58,6 +57,7 @@
 ||bal.sh^
 ||bckd.sh^
 ||bins.sh^
+||blackcat.sh^
 ||boardi.sh^
 ||brc.sh^
 ||build-rpm.sh^
@@ -91,7 +91,6 @@
 ||faka.sh^
 ||frc.sh^
 ||frontier.sh^
-||fzf.sh^
 ||gain.sh^
 ||ghazal.sh^
 ||gosu.sh^
@@ -109,8 +108,10 @@
 ||jdhp.sh^
 ||jetstream.sh^
 ||kartik.sh^
+||kcm.sh^
 ||kdbh.sh^
 ||keyboard.sh^
+||khanh.sh^
 ||klein.sh^
 ||kloud.sh^
 ||koin99.sh^
@@ -131,7 +132,6 @@
 ||notifications.sh^
 ||nugget.sh^
 ||ogo.sh^
-||omy.sh^
 ||oneda.sh^
 ||onlineantrag.sh^
 ||orbitron.sh^
@@ -165,6 +165,7 @@
 ||severus.sh^
 ||sheee.sh^
 ||shepherdsbu.sh^
+||sidechain.sh^
 ||sledgehammer.sh^
 ||solary.sh^
 ||sparkshell.sh^
