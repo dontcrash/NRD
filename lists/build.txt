@@ -2,7 +2,9 @@
 ||abngroup.build^
 ||alpen.build^
 ||arkham.build^
+||arodnap.build^
 ||bertrand.build^
+||brickware.build^
 ||brut.build^
 ||capsule.build^
 ||celoptics.build^
@@ -26,6 +28,7 @@
 ||fga.build^
 ||gemini.build^
 ||genesis-runes.build^
+||get-pandora.build^
 ||goldleaf.build^
 ||grails.build^
 ||hatch.build^
@@ -47,14 +50,18 @@
 ||maxi.build^
 ||maxpro.build^
 ||microsaas.build^
+||miner2.build^
+||minerercx.build^
 ||mothership.build^
 ||multicall.build^
 ||mydailydriver.build^
 ||myth.build^
 ||nelsondesign.build^
 ||nhacaiuytin.build^
+||osiris.build^
 ||panda.build^
 ||pandlora.build^
+||patterns.build^
 ||payments.build^
 ||peach.build^
 ||plankton.build^
@@ -73,6 +80,7 @@
 ||signup-pandora.build^
 ||signups-pandora.build^
 ||soap2day.build^
+||staker.build^
 ||steamworld.build^
 ||streamingcommunity.build^
 ||subscribe.build^

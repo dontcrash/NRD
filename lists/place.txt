@@ -1,4 +1,5 @@
 ||acorn.place^
+||agathering.place^
 ||alt.place^
 ||app-market.place^
 ||astromint.place^
@@ -13,6 +14,7 @@
 ||canuck.place^
 ||cattale.place^
 ||climbing.place^
+||codi.place^
 ||common.place^
 ||conf.place^
 ||cro.place^
@@ -26,9 +28,9 @@
 ||dunk.place^
 ||dust.place^
 ||enz.place^
+||fery.place^
 ||getpaid.place^
 ||giant.place^
-||gloucester.place^
 ||gossweiler.place^
 ||great.place^
 ||happis.place^
@@ -49,8 +51,7 @@
 ||mik.place^
 ||mnt.place^
 ||mog.place^
-||moment.place^
-||myoasis.place^
+||mybooking.place^
 ||nadia.place^
 ||op.place^
 ||organizer.place^
@@ -58,17 +59,22 @@
 ||ourgathering.place^
 ||ownyourtoday.place^
 ||palworld.place^
+||phygi.place^
 ||piet.place^
 ||placelist.place^
 ||planets.place^
 ||pobretv.place^
+||polari.place^
 ||popupparty.place^
 ||privacy.place^
 ||puppy.place^
+||pvp.place^
 ||renderly.place^
 ||robotics.place^
+||scape.place^
 ||scroll.place^
 ||shanks.place^
+||sicily.place^
 ||sins.place^
 ||sunshine.place^
 ||supra.place^
@@ -78,6 +84,7 @@
 ||thedance.place^
 ||thedrinking.place^
 ||thegadget.place^
+||thehangout.place^
 ||thehealthybar.place^
 ||thekids.place^
 ||theplayground.place^
@@ -89,5 +96,4 @@
 ||vanity.place^
 ||vosges.place^
 ||voya.place^
-||waw.place^
 ||xchange.place^

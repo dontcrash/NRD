@@ -1,4 +1,5 @@
 ||100.recipes^
+||allmy.recipes^
 ||allprintheads.recipes^
 ||ames.recipes^
 ||ap-styling.recipes^
@@ -22,9 +23,9 @@
 ||freshbaked.recipes^
 ||friends.recipes^
 ||genai.recipes^
+||generativeai.recipes^
 ||gf.recipes^
 ||granny.recipes^
-||grillandburger.recipes^
 ||guessworkkitchen.recipes^
 ||gymrats.recipes^
 ||hemp.recipes^
@@ -35,7 +36,6 @@
 ||local.recipes^
 ||lovehemp.recipes^
 ||manifest.recipes^
-||math.recipes^
 ||matrix.recipes^
 ||milky.recipes^
 ||mixitup.recipes^
@@ -44,12 +44,13 @@
 ||myles.recipes^
 ||nature.recipes^
 ||nz.recipes^
-||organicorgasm.recipes^
 ||perfectlyroasted.recipes^
 ||popupparty.recipes^
 ||relationship.recipes^
 ||rum.recipes^
 ||sandwiches.recipes^
+||scoresby.recipes^
+||snacktime.recipes^
 ||spritz.recipes^
 ||superhand.recipes^
 ||sweet.recipes^

@@ -1,6 +1,7 @@
 ||accommodation.broker^
 ||arabicspeaking.broker^
 ||ark.broker^
+||asigurari.broker^
 ||atvshipping.broker^
 ||avalanche.broker^
 ||aylmer.broker^
@@ -12,7 +13,6 @@
 ||cover.broker^
 ||coverall.broker^
 ||darknet.broker^
-||digitalrealestate.broker^
 ||drug.broker^
 ||e-pharmacy.broker^
 ||employeebenefitsnj.broker^
@@ -37,6 +37,10 @@
 ||maga.broker^
 ||me.broker^
 ||multi.broker^
+||mybroker.broker^
+||mydray.broker^
+||myfreight.broker^
+||myshipper.broker^
 ||namefi.broker^
 ||news.broker^
 ||oanda.broker^
@@ -63,7 +67,6 @@
 ||tradestation.broker^
 ||trustedpf.broker^
 ||ukrainianspeaking.broker^
-||virtualrealestate.broker^
 ||vmc.broker^
 ||walbi.broker^
 ||xtb.broker^
