@@ -22,6 +22,8 @@
 ||common.report^
 ||credibility.report^
 ||cuisine.report^
+||cupmen.report^
+||cupramen.report^
 ||d4.report^
 ||dappradar.report^
 ||datacrunch.report^
@@ -36,7 +38,6 @@
 ||elmarhvac.report^
 ||ensign.report^
 ||esgo.report^
-||events.report^
 ||eweb.report^
 ||excavation.report^
 ||excavations.report^
@@ -44,7 +45,6 @@
 ||fetch.report^
 ||forenpsych.report^
 ||forensicpsych.report^
-||furlongs.report^
 ||futureseries.report^
 ||getinspection.report^
 ||getmyaccident.report^
@@ -53,7 +53,6 @@
 ||gusd.report^
 ||hei.report^
 ||housingmarket.report^
-||howmany.report^
 ||id-anpost.report^
 ||ilove.report^
 ||infra.report^
@@ -64,10 +63,10 @@
 ||labflow.report^
 ||laliga-copyright.report^
 ||lgldv.report^
-||literatur.report^
 ||longcovid.report^
 ||loot.report^
 ||macro.report^
+||manga.report^
 ||mei.report^
 ||metric.report^
 ||mlm.report^

@@ -48,7 +48,6 @@
 ||ctrl.observer^
 ||dcr.observer^
 ||digitalcurrency.observer^
-||dmarc.observer^
 ||dxb.observer^
 ||earn.observer^
 ||earning.observer^
@@ -74,13 +73,11 @@
 ||nocode.observer^
 ||nostr.observer^
 ||object.observer^
-||observing.observer^
 ||onchain.observer^
 ||orangespot.observer^
 ||ordinals.observer^
 ||phygital.observer^
 ||pluton.observer^
-||popoxuan.observer^
 ||quantumawakening.observer^
 ||shitcoins.observer^
 ||sidehustle.observer^

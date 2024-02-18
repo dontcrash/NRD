@@ -12,7 +12,6 @@
 ||ai-opener.tools^
 ||aidevelopers.tools^
 ||aids.tools^
-||aihive.tools^
 ||aiultra.tools^
 ||alba.tools^
 ||albertsons.tools^
@@ -36,18 +35,15 @@
 ||biogpt.tools^
 ||blizzard.tools^
 ||bloombox.tools^
-||bosch-shop.tools^
 ||buildingsupplies.tools^
 ||bundl.tools^
 ||bvr.tools^
 ||cabrera.tools^
-||carrie.tools^
 ||cattale.tools^
 ||ceci.tools^
 ||cel.tools^
 ||checkl.tools^
 ||chiefofstaff.tools^
-||cinema4d.tools^
 ||clipper.tools^
 ||cluster.tools^
 ||collab-land.tools^
@@ -93,7 +89,6 @@
 ||flutterdev.tools^
 ||fn.tools^
 ||fortnite.tools^
-||foundershit.tools^
 ||foundry.tools^
 ||fsr.tools^
 ||gem188.tools^
@@ -111,7 +106,6 @@
 ||gso.tools^
 ||guidance.tools^
 ||guildstone.tools^
-||guitarplayer.tools^
 ||gulf.tools^
 ||hackquire.tools^
 ||haystack.tools^
@@ -137,7 +131,6 @@
 ||joao.tools^
 ||journoresearch.tools^
 ||jumpseat.tools^
-||kcb.tools^
 ||killer.tools^
 ||kits.tools^
 ||koexygen.tools^
@@ -149,9 +142,7 @@
 ||lipid.tools^
 ||lovely.tools^
 ||lrn.tools^
-||mardeus.tools^
 ||matchbook.tools^
-||mathematical.tools^
 ||mce.tools^
 ||metatools.tools^
 ||midu.tools^
@@ -164,8 +155,6 @@
 ||monero.tools^
 ||msart.tools^
 ||msat.tools^
-||mvp.tools^
-||mybosch.tools^
 ||mycreative.tools^
 ||myhuman.tools^
 ||mytesla.tools^
@@ -234,7 +223,6 @@
 ||serverlessdev.tools^
 ||shield.tools^
 ||shopapp.tools^
-||sick.tools^
 ||silkroad.tools^
 ||simp3.tools^
 ||sino.tools^
@@ -249,7 +237,6 @@
 ||starboy.tools^
 ||starko.tools^
 ||statement-maker.tools^
-||strawberry.tools^
 ||superdisco.tools^
 ||supplychain.tools^
 ||swanstrom.tools^
@@ -301,4 +288,3 @@
 ||writerbuddy.tools^
 ||xtra.tools^
 ||youtubeseo.tools^
-||zim.tools^
