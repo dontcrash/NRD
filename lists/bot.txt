@@ -31,6 +31,7 @@
 ||artenika.bot^
 ||ascii.bot^
 ||aseabrownboveri.bot^
+||asimov.bot^
 ||askalex.bot^
 ||askaway.bot^
 ||askbuddy.bot^
@@ -39,11 +40,9 @@
 ||assistantcoach.bot^
 ||atoz.bot^
 ||augie.bot^
-||automate4success.bot^
 ||autonaut.bot^
 ||avvo.bot^
 ||b2bsales.bot^
-||babelfish.bot^
 ||balancer.bot^
 ||bancadoithuong.bot^
 ||bannertech.bot^
@@ -54,6 +53,7 @@
 ||biased.bot^
 ||bilibili.bot^
 ||bitbyte.bot^
+||bliz.bot^
 ||bonduel.bot^
 ||bonduele.bot^
 ||bonduell.bot^
@@ -69,6 +69,7 @@
 ||bpo.bot^
 ||bryte.bot^
 ||budy.bot^
+||bun.bot^
 ||bye.bot^
 ||bytes.bot^
 ||caio.bot^
@@ -80,7 +81,6 @@
 ||celestia.bot^
 ||chanel.bot^
 ||chatz.bot^
-||checkmyip.bot^
 ||chimi.bot^
 ||ciso.bot^
 ||citibank.bot^
@@ -91,11 +91,11 @@
 ||commander.bot^
 ||common-sense.bot^
 ||compadre.bot^
-||confident.bot^
 ||coolcarlaw.bot^
 ||corbin.bot^
 ||corvus.bot^
 ||cosmetics.bot^
+||coworker.bot^
 ||cre.bot^
 ||cyberbuddy.bot^
 ||cyera.bot^
@@ -104,7 +104,6 @@
 ||defcon.bot^
 ||defensive.bot^
 ||defy.bot^
-||dexterous.bot^
 ||dice.bot^
 ||diner.bot^
 ||dragunova.bot^
@@ -164,13 +163,14 @@
 ||greenbritain.bot^
 ||guac.bot^
 ||guardianai.bot^
+||hackernews.bot^
 ||hamzah.bot^
 ||haptik.bot^
 ||haunt.bot^
 ||hawkandrobin.bot^
 ||hikma.bot^
 ||hiphop.bot^
-||homeoutletdirect.bot^
+||honored.bot^
 ||hosted.bot^
 ||hpn.bot^
 ||hubcap.bot^
@@ -189,7 +189,10 @@
 ||investicni.bot^
 ||iqmarkets.bot^
 ||isai.bot^
+||isambard.bot^
+||isombard.bot^
 ||jat.bot^
+||jetton.bot^
 ||jio.bot^
 ||joiner.bot^
 ||jun88.bot^
@@ -227,7 +230,6 @@
 ||mi.bot^
 ||milestone.bot^
 ||mintix.bot^
-||misei.bot^
 ||mkspamp.bot^
 ||moai.bot^
 ||mobile2b.bot^
@@ -241,6 +243,7 @@
 ||moogardens.bot^
 ||mossai.bot^
 ||mpesa.bot^
+||mt.bot^
 ||mushroom.bot^
 ||mushrooms.bot^
 ||myalgo.bot^
@@ -360,7 +363,6 @@
 ||tcg.bot^
 ||teachgpt.bot^
 ||technew.bot^
-||teleop.bot^
 ||telligent.bot^
 ||tenga.bot^
 ||tgpad.bot^
@@ -388,7 +390,6 @@
 ||unitedhealthcare.bot^
 ||v7go.bot^
 ||valo.bot^
-||vape.bot^
 ||vavada.bot^
 ||vcfirm.bot^
 ||vercel.bot^
@@ -416,7 +417,6 @@
 ||your.bot^
 ||zak.bot^
 ||zakmorris.bot^
-||zapi.bot^
 ||zappy.bot^
 ||zasilkovna.bot^
 ||zed.bot^

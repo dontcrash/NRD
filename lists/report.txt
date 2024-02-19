@@ -9,7 +9,6 @@
 ||algonquinpark.report^
 ||all.report^
 ||assurance.report^
-||balady.report^
 ||balogun.report^
 ||better.report^
 ||bigfoot.report^
@@ -34,15 +33,16 @@
 ||drip.report^
 ||dynamics.report^
 ||easyad.report^
-||ecaeurope.report^
 ||elmarhvac.report^
 ||ensign.report^
 ||esgo.report^
 ||eweb.report^
 ||excavation.report^
 ||excavations.report^
+||fasttrack.report^
 ||fervent.report^
 ||fetch.report^
+||fincenboi.report^
 ||forenpsych.report^
 ||forensicpsych.report^
 ||futureseries.report^
@@ -51,12 +51,14 @@
 ||gracechurch.report^
 ||grey.report^
 ||gusd.report^
+||gva.report^
 ||hei.report^
 ||housingmarket.report^
 ||id-anpost.report^
 ||ilove.report^
 ||infra.report^
 ||iweb.report^
+||jobtrend.report^
 ||kfccu.report^
 ||kubet.report^
 ||kwizz.report^
@@ -67,6 +69,7 @@
 ||loot.report^
 ||macro.report^
 ||manga.report^
+||mediatruth.report^
 ||mei.report^
 ||metric.report^
 ||mlm.report^
@@ -123,7 +126,6 @@
 ||vortechs.report^
 ||vulnerable.report^
 ||webguard.report^
-||websites.report^
 ||woman.report^
 ||yangaal.report^
 ||yeti.report^

@@ -49,8 +49,10 @@
 ||gaming.management^
 ||gbp.management^
 ||getrefunds.management^
+||gocane.management^
 ||grady.management^
 ||haverhill.management^
+||hologram.management^
 ||holon.management^
 ||holonglobal.management^
 ||hostpro.management^
@@ -61,18 +63,17 @@
 ||indopride.management^
 ||inka.management^
 ||intern.management^
-||internetbusiness.management^
 ||kiaraofficial.management^
-||kings.management^
 ||lavicon.management^
+||leftright.management^
 ||light.management^
+||lnlogistics.management^
 ||loopia.management^
 ||los14.management^
 ||lyka.management^
 ||macleod.management^
 ||mail-delivery-protection-mimemcast-outlook.management^
 ||mail-internet-protections-actions-forwarding.management^
-||majorincident.management^
 ||maki.management^
 ||margorejo.management^
 ||massmedia.management^
@@ -99,7 +100,6 @@
 ||protokol.management^
 ||publication.management^
 ||recruitment-faith-health-employment-applications.management^
-||redlight.management^
 ||sandersonbusinessservices.management^
 ||scenic.management^
 ||securities.management^
@@ -108,7 +108,6 @@
 ||society.management^
 ||southernenergy.management^
 ||stag.management^
-||starmedia.management^
 ||storm.management^
 ||sts.management^
 ||superai.management^
