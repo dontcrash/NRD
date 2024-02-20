@@ -31,11 +31,11 @@
 ||birdeye.exchange^
 ||bitflo.exchange^
 ||bitmore.exchange^
+||blockgain.exchange^
 ||bridge-jumper.exchange^
 ||btcq.exchange^
 ||bufulo.exchange^
 ||bulk.exchange^
-||bullachain.exchange^
 ||bunni.exchange^
 ||bur.exchange^
 ||burngee.exchange^
@@ -56,9 +56,9 @@
 ||coinpal.exchange^
 ||coinpaymaster.exchange^
 ||confidentialasset.exchange^
+||copay.exchange^
 ||coqswap.exchange^
 ||corn.exchange^
-||cranium.exchange^
 ||crydex.exchange^
 ||cryptal.exchange^
 ||cryptohub.exchange^
@@ -70,13 +70,12 @@
 ||datasets.exchange^
 ||de1ta.exchange^
 ||deita.exchange^
-||depins.exchange^
 ||dgg.exchange^
 ||didi.exchange^
 ||diversitybusinessdevelopment.exchange^
+||dmg.exchange^
 ||dmnd.exchange^
 ||dogemap.exchange^
-||doxflowlegal.exchange^
 ||dragonbyte.exchange^
 ||dymension.exchange^
 ||e-crime.exchange^
@@ -141,7 +140,6 @@
 ||metacypher.exchange^
 ||metapro.exchange^
 ||mindset.exchange^
-||mmj.exchange^
 ||moneyball.exchange^
 ||monument.exchange^
 ||mta.exchange^
@@ -156,6 +154,7 @@
 ||node.exchange^
 ||nosara.exchange^
 ||nuri.exchange^
+||nz.exchange^
 ||o-mfa.exchange^
 ||off-road.exchange^
 ||omaya.exchange^
@@ -202,6 +201,7 @@
 ||smut.exchange^
 ||solarswap.exchange^
 ||sonicboom.exchange^
+||sorawood.exchange^
 ||spinner.exchange^
 ||spotprompts.exchange^
 ||spotworkai.exchange^
@@ -218,7 +218,7 @@
 ||theport.exchange^
 ||thewhisky.exchange^
 ||tier1.exchange^
-||topcash.exchange^
+||tnt.exchange^
 ||transparency.exchange^
 ||truistwallet.exchange^
 ||truthex.exchange^
@@ -237,8 +237,10 @@
 ||vsv-asg.exchange^
 ||wen.exchange^
 ||western24.exchange^
+||what.exchange^
 ||wsb.exchange^
 ||wwwdelta.exchange^
 ||xmr.exchange^
+||xn--uniswp-mta.exchange^
 ||zelio.exchange^
 ||zeus24.exchange^

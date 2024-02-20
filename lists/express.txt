@@ -27,7 +27,6 @@
 ||automarket.express^
 ||bali.express^
 ||baza.express^
-||birdie.express^
 ||bloc.express^
 ||boisefood.express^
 ||bonga.express^
@@ -55,6 +54,8 @@
 ||farmfresh.express^
 ||flygo.express^
 ||frucht.express^
+||gamble.express^
+||gambler.express^
 ||globalcar.express^
 ||glowup.express^
 ||gol.express^
@@ -80,7 +81,6 @@
 ||lider.express^
 ||lili.express^
 ||lingerie.express^
-||mails.express^
 ||mailyourprospect.express^
 ||management.express^
 ||marketer.express^
@@ -96,7 +96,6 @@
 ||neutropics.express^
 ||nextlevelcarwash.express^
 ||ngc-hosting.express^
-||nivis.express^
 ||nl-ups.express^
 ||oceanbond.express^
 ||operator.express^
@@ -118,7 +117,6 @@
 ||reis.express^
 ||russia2china.express^
 ||sellswipe.express^
-||serve3.express^
 ||serves3.express^
 ||serves4.express^
 ||servesq.express^
@@ -148,3 +146,4 @@
 ||will.express^
 ||wings.express^
 ||winter.express^
+||zed.express^

@@ -25,6 +25,7 @@
 ||badi.coffee^
 ||bakeryone.coffee^
 ||barista-usa.coffee^
+||baristaclub.coffee^
 ||baristaservice.coffee^
 ||beanscout.coffee^
 ||beauxglow.coffee^
@@ -33,6 +34,7 @@
 ||bettercoffee.coffee^
 ||bhuba.coffee^
 ||biscotti.coffee^
+||blackwine.coffee^
 ||bluedoor.coffee^
 ||bonecutter.coffee^
 ||boson.coffee^
@@ -88,7 +90,6 @@
 ||duet.coffee^
 ||durar.coffee^
 ||ecommerce.coffee^
-||ecworkspace.coffee^
 ||emptychair.coffee^
 ||epicbeans.coffee^
 ||epicsbean.coffee^
@@ -110,7 +111,6 @@
 ||frugal.coffee^
 ||galago.coffee^
 ||gay.coffee^
-||genre.coffee^
 ||getyourmug.coffee^
 ||ginkgo.coffee^
 ||glenn.coffee^
@@ -146,6 +146,7 @@
 ||joshy.coffee^
 ||kahrab.coffee^
 ||kahve.coffee^
+||kaifi.coffee^
 ||kalbon.coffee^
 ||kaldicoin.coffee^
 ||karabu.coffee^
@@ -153,7 +154,6 @@
 ||keagans.coffee^
 ||kibco.coffee^
 ||kindlymade.coffee^
-||kingscup.coffee^
 ||koganenoyu.coffee^
 ||konacoffee.coffee^
 ||koncold.coffee^
@@ -200,6 +200,7 @@
 ||nfproasters.coffee^
 ||noma.coffee^
 ||nusantaraspecialty.coffee^
+||olli.coffee^
 ||oro.coffee^
 ||oxboneramen-wlv.coffee^
 ||pablito.coffee^
@@ -223,6 +224,7 @@
 ||raku.coffee^
 ||raptor.coffee^
 ||redhot.coffee^
+||redstar.coffee^
 ||redvolution.coffee^
 ||requiringfewerwarm.coffee^
 ||ridgebrew.coffee^
@@ -231,7 +233,6 @@
 ||rox.coffee^
 ||rsvp.coffee^
 ||ruffgrounds.coffee^
-||safebrew.coffee^
 ||saigonoctane.coffee^
 ||scaperu.coffee^
 ||schmaeh.coffee^
@@ -249,10 +250,12 @@
 ||smallgrainsintheearly.coffee^
 ||snova.coffee^
 ||soap2day.coffee^
+||socrates.coffee^
 ||stallion.coffee^
 ||start.coffee^
 ||stefans.coffee^
 ||sumatraman.coffee^
+||sumba.coffee^
 ||sumit.coffee^
 ||superhand.coffee^
 ||suvorova.coffee^
@@ -260,7 +263,7 @@
 ||sweetbean.coffee^
 ||teatime.coffee^
 ||teefan.coffee^
-||thehyper.coffee^
+||thecommonground.coffee^
 ||theqahwa.coffee^
 ||thinkorganic.coffee^
 ||tisane.coffee^
@@ -271,7 +274,6 @@
 ||tripped.coffee^
 ||troffee.coffee^
 ||trouble.coffee^
-||tsr.coffee^
 ||uci.coffee^
 ||ujamaa.coffee^
 ||umber.coffee^

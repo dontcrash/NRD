@@ -13,11 +13,13 @@
 ||brokenphone.repair^
 ||brothersglass.repair^
 ||builder.repair^
+||call.repair^
 ||cartilage.repair^
 ||center.repair^
 ||chipappliance.repair^
 ||clickoncredit.repair^
 ||clockwork.repair^
+||cmauto.repair^
 ||countertops.repair^
 ||creator.repair^
 ||crefix.repair^
@@ -45,9 +47,9 @@
 ||moauto.repair^
 ||mobi.repair^
 ||mpauto.repair^
+||mps.repair^
 ||mpyer.repair^
 ||off-road.repair^
-||parkhill.repair^
 ||picayunepc.repair^
 ||planit.repair^
 ||preferredappliance.repair^
@@ -57,7 +59,6 @@
 ||repair-appliance.repair^
 ||riffrescue.repair^
 ||set.repair^
-||smartappliance.repair^
 ||snoco.repair^
 ||soulsurvivor.repair^
 ||speedercat.repair^
@@ -66,6 +67,7 @@
 ||successful.repair^
 ||suffolkroofers.repair^
 ||surfacefix.repair^
+||techexperts.repair^
 ||texashome.repair^
 ||thediamond.repair^
 ||thermador-range.repair^

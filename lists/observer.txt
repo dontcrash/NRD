@@ -54,6 +54,7 @@
 ||earning.observer^
 ||ecorp.observer^
 ||electoral.observer^
+||emeraldcity.observer^
 ||fahrzeugmarkt.observer^
 ||fpga.observer^
 ||globalnews.observer^
@@ -67,7 +68,6 @@
 ||laws.observer^
 ||lgbt.observer^
 ||liber.observer^
-||manta-network.observer^
 ||mediatruth.observer^
 ||middleeast.observer^
 ||naturalscience.observer^
@@ -81,6 +81,7 @@
 ||phygital.observer^
 ||pluton.observer^
 ||quantumawakening.observer^
+||shiftleft.observer^
 ||shitcoins.observer^
 ||sidehustle.observer^
 ||singlepointoftruth.observer^

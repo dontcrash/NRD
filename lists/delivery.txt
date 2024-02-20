@@ -45,6 +45,7 @@
 ||alternative.delivery^
 ||appia.delivery^
 ||application-setup.delivery^
+||australiapost.delivery^
 ||auth-dhlsupport.delivery^
 ||avcare.delivery^
 ||awesome.delivery^
@@ -88,8 +89,6 @@
 ||easyexpress.delivery^
 ||eco-friendly.delivery^
 ||enobox.delivery^
-||exnesshipping.delivery^
-||express-deutschepost.delivery^
 ||expresscourier.delivery^
 ||fastcourier.delivery^
 ||fastdrop.delivery^
@@ -120,12 +119,12 @@
 ||maga.delivery^
 ||mailyourprospect.delivery^
 ||marccony.delivery^
-||merkato.delivery^
 ||mermaid.delivery^
 ||millisecond.delivery^
 ||milliseconds.delivery^
 ||mining.delivery^
 ||movex.delivery^
+||myprofilecanadapost.delivery^
 ||nasledujdhl.delivery^
 ||nat.delivery^
 ||neededbakery.delivery^
@@ -151,6 +150,7 @@
 ||rad.delivery^
 ||redapplevip.delivery^
 ||rehltak.delivery^
+||riverdale.delivery^
 ||roboti.delivery^
 ||rv.delivery^
 ||satchel.delivery^
