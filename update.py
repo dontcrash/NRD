@@ -2,7 +2,9 @@ import requests
 import os
 
 # URL to fetch the list of newly registered domains
-url = "https://dl.nrd-list.com/1/nrd-list-32-days.txt"
+# It appears virtual fabric no longer offer a list?
+#url = "https://dl.nrd-list.com/1/nrd-list-32-days.txt"
+url = "https://raw.githubusercontent.com/SystemJargon/nrd-lists/main/nrd-1m-hosts.txt"
 directory = "lists"
 
 # Function to extract TLD from a domain line
