@@ -24,6 +24,7 @@
 ||cs2.markets^
 ||cypherpunk.markets^
 ||dapp.markets^
+||dcaze.markets^
 ||delivery.markets^
 ||domainsales.markets^
 ||drug.markets^
@@ -40,8 +41,6 @@
 ||indosultan88.markets^
 ||jupiterai.markets^
 ||kamino.markets^
-||kanfoudlix.markets^
-||kiloex.markets^
 ||kraken.markets^
 ||lakegeneva.markets^
 ||leaderboard-zeta.markets^
@@ -49,6 +48,7 @@
 ||lowcost.markets^
 ||lowcosts.markets^
 ||lowprice.markets^
+||lxq.markets^
 ||mangonft.markets^
 ||maxi.markets^
 ||mind.markets^
@@ -68,13 +68,14 @@
 ||premarket.markets^
 ||psilocybin.markets^
 ||reflect.markets^
-||robotics.markets^
 ||sare.markets^
+||secondhand.markets^
 ||seeds.markets^
 ||sindalah.markets^
 ||special.markets^
 ||spring.markets^
 ||starswap.markets^
+||step2growth.markets^
 ||surmountable.markets^
 ||tongyi.markets^
 ||tordarknet.markets^
@@ -89,6 +90,10 @@
 ||whale.markets^
 ||whatsgood.markets^
 ||worldwood.markets^
+||xs-en.markets^
 ||yes.markets^
 ||yourwood.markets^
 ||zzeta.markets^
+||bitcoinindex.markets^
+||btcindex.markets^
+||intertech.markets^
