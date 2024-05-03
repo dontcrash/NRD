@@ -1,7 +1,10 @@
 ||aryon.security^
+||atlas.security^
 ||bold.security^
 ||bowtie.security^
 ||continuous.security^
+||infrafabric.security^
 ||nagomi.security^
 ||ordr.security^
 ||torch.security^
+||ciandt.security^
