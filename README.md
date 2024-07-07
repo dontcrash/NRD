@@ -1,5 +1,5 @@
 ## NRD Blocklist Splitter
-This script automates the update process for a blocklist of newly registered domains from [https://github.com/SystemJargon/filters]([https://github.com/SystemJargon/filterss/])
+This script automates the update process for a blocklist of newly registered domains from [https://github.com/SystemJargon/filters](https://github.com/SystemJargon/filterss/)
 
 
 The original list contains every single TLD in one file, which leads to long update times, by breaking the list apart, it allows the end user to select what newly registered domains they want to block based on TLD.
