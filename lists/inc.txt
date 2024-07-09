@@ -24,7 +24,6 @@
 ||datamarshall.inc^
 ||delimiter.inc^
 ||dobet.inc^
-||endesign.inc^
 ||fitel.inc^
 ||fp.inc^
 ||fukurou.inc^
@@ -58,6 +57,7 @@
 ||logic.inc^
 ||lykeion-data.inc^
 ||lykeion.inc^
+||mealsonwheels.inc^
 ||mechacomi.inc^
 ||memes.inc^
 ||metaverse.inc^
@@ -100,6 +100,7 @@
 ||theprintfactory.inc^
 ||toroproductions.inc^
 ||typo.inc^
+||uvx.inc^
 ||valor.inc^
 ||visional-partners.inc^
 ||world.inc^
