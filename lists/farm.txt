@@ -5,6 +5,7 @@
 ||agi.farm^
 ||agri24.farm^
 ||agrifarmer.farm^
+||agrifleet.farm^
 ||agrigen.farm^
 ||agripreservestorage.farm^
 ||agrogate.farm^
@@ -23,7 +24,6 @@
 ||arab.farm^
 ||arcticvaultstorage.farm^
 ||ari.farm^
-||asia.farm^
 ||asimov.farm^
 ||barley.farm^
 ||baronsmicrogreens.farm^
@@ -60,6 +60,7 @@
 ||cross.farm^
 ||dark.farm^
 ||dash.farm^
+||datasgp.farm^
 ||deltagric.farm^
 ||dgagro.farm^
 ||dinner.farm^
@@ -70,8 +71,8 @@
 ||ecf.farm^
 ||ecodrone.farm^
 ||ecofama.farm^
-||ecofresh.farm^
 ||ecotone.farm^
+||edyanis.farm^
 ||ema.farm^
 ||enderslea.farm^
 ||erreti.farm^
@@ -93,6 +94,7 @@
 ||fixer.farm^
 ||florautie.farm^
 ||fortitude.farm^
+||freelove.farm^
 ||freshplus.farm^
 ||freshpluss.farm^
 ||fromthe.farm^
@@ -102,10 +104,12 @@
 ||greenvista.farm^
 ||grin.farm^
 ||gx.farm^
+||h5n1.farm^
 ||haeckseln.farm^
 ||happyhooves.farm^
 ||harrycattle.farm^
 ||healthyfamilyorganics.farm^
+||heap.farm^
 ||herbamour.farm^
 ||herbs-terps.farm^
 ||herbsher.farm^
@@ -120,7 +124,6 @@
 ||ifarmny.farm^
 ||imogens.farm^
 ||inlandocean.farm^
-||intern.farm^
 ||iowapasturepork.farm^
 ||isham.farm^
 ||iwa.farm^
@@ -146,6 +149,7 @@
 ||layerzero.farm^
 ||libertyeagle.farm^
 ||liminal.farm^
+||liquid.farm^
 ||litehash.farm^
 ||liveearth.farm^
 ||locl.farm^
@@ -158,10 +162,10 @@
 ||maga-hat.farm^
 ||magic.farm^
 ||maishaeckseln.farm^
-||mangweru.farm^
 ||mattingly.farm^
 ||mavela.farm^
 ||mehranova.farm^
+||mercymeadows.farm^
 ||mevbots.farm^
 ||millers.farm^
 ||millersorganic.farm^
@@ -169,6 +173,8 @@
 ||mishra.farm^
 ||mkt.farm^
 ||mmj.farm^
+||moisture.farm^
+||monks.farm^
 ||moonducks.farm^
 ||moremoney4barndo.farm^
 ||moriai.farm^
@@ -187,6 +193,7 @@
 ||oakmoon.farm^
 ||oami.farm^
 ||onmaxyield.farm^
+||ooboor.farm^
 ||oqio.farm^
 ||oursimplehomestead.farm^
 ||pamp.farm^
@@ -216,18 +223,19 @@
 ||sayuri.farm^
 ||seedbank.farm^
 ||sky365.farm^
+||smokecrew.farm^
 ||soco.farm^
 ||software.farm^
 ||soilytics.farm^
 ||soulgreens.farm^
 ||southernserenity.farm^
 ||spr2out.farm^
-||springcreekholly.farm^
 ||sproutly.farm^
 ||stoicpines.farm^
 ||strawberrymoon.farm^
 ||survival.farm^
 ||sutherland.farm^
+||symbiosisbeef.farm^
 ||tcb.farm^
 ||tcc.farm^
 ||techto.farm^
@@ -262,6 +270,7 @@
 ||vibes.farm^
 ||vida.farm^
 ||vitality.farm^
+||vogelgrippe.farm^
 ||wai.farm^
 ||wain.farm^
 ||want.farm^
@@ -279,3 +288,5 @@
 ||yomovies.farm^
 ||yonik.farm^
 ||yourfarmer.farm^
+||yunnancoffee.farm^
+||zenacres.farm^
