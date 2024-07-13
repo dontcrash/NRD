@@ -1,3 +1,4 @@
+||tonic.build^
 ||123b.build^
 ||188bet.build^
 ||33win.build^
@@ -41,13 +42,11 @@
 ||julie.build^
 ||katalyst.build^
 ||lemme.build^
-||luminode.build^
 ||m-plus.build^
 ||mark1.build^
 ||melbournebuildexpo.build^
 ||mir.build^
 ||mitosis.build^
-||nebius.build^
 ||npub.build^
 ||onepulse.build^
 ||pendle.build^
@@ -76,8 +75,6 @@
 ||symbiotic.build^
 ||tee.build^
 ||tep.build^
-||token8.build^
-||tonic.build^
 ||tpaas.build^
 ||trouver.build^
 ||u888.build^
