@@ -1,4 +1,3 @@
-||tonic.build^
 ||123b.build^
 ||188bet.build^
 ||33win.build^
@@ -12,6 +11,7 @@
 ||bet88.build^
 ||beyond.build^
 ||bushandbeach.build^
+||chci.build^
 ||console.build^
 ||cosmic.build^
 ||costport.build^
@@ -21,7 +21,6 @@
 ||etherfl.build^
 ||eutelsat.build^
 ||exponential.build^
-||finesse.build^
 ||formative.build^
 ||galxe.build^
 ||gameplan.build^
@@ -31,6 +30,7 @@
 ||greenservice.build^
 ||grippr.build^
 ||hancockdesign.build^
+||hbj.build^
 ||hemp2.build^
 ||hueman.build^
 ||hyperflux.build^
@@ -41,9 +41,11 @@
 ||jamesdawson.build^
 ||julie.build^
 ||katalyst.build^
+||kconstruction.build^
 ||lemme.build^
 ||m-plus.build^
 ||mark1.build^
+||mash.build^
 ||melbournebuildexpo.build^
 ||mir.build^
 ||mitosis.build^
@@ -62,7 +64,6 @@
 ||remy.build^
 ||renzoprotocol.build^
 ||repro.build^
-||resicorp.build^
 ||riseup.build^
 ||robogarage.build^
 ||sense.build^
@@ -75,6 +76,7 @@
 ||symbiotic.build^
 ||tee.build^
 ||tep.build^
+||tonic.build^
 ||tpaas.build^
 ||trouver.build^
 ||u888.build^

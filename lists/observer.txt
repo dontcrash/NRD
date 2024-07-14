@@ -3,6 +3,7 @@
 ||activitypub.observer^
 ||anom.observer^
 ||antiscam.observer^
+||bench.observer^
 ||bom29toto.observer^
 ||cereijinha.observer^
 ||cheddar.observer^
@@ -28,7 +29,6 @@
 ||spin.observer^
 ||stake.observer^
 ||stfu.observer^
-||technology.observer^
 ||unobserved.observer^
 ||uptime.observer^
 ||utxo.observer^
