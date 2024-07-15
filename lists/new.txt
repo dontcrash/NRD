@@ -2,6 +2,7 @@
 ||account.new^
 ||advisor.new^
 ||appdirect.new^
+||axure.new^
 ||bolt.new^
 ||chain.new^
 ||chapter.new^
@@ -18,6 +19,10 @@
 ||omegle.new^
 ||phylax.new^
 ||postgres.new^
+||prototype.new^
+||prototypes.new^
 ||rollup.new^
+||sims.new^
+||specs.new^
 ||sqlite.new^
 ||wineskins.new^

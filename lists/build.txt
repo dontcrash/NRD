@@ -17,6 +17,7 @@
 ||costport.build^
 ||crema.build^
 ||dead.build^
+||elinor.build^
 ||elsa.build^
 ||etherfl.build^
 ||eutelsat.build^
@@ -32,16 +33,17 @@
 ||hancockdesign.build^
 ||hbj.build^
 ||hemp2.build^
-||hueman.build^
 ||hyperflux.build^
 ||ica.build^
 ||inpublic.build^
 ||instatec.build^
+||instatiq.build^
 ||ironclad.build^
 ||jamesdawson.build^
 ||julie.build^
 ||katalyst.build^
 ||kconstruction.build^
+||lasereyes.build^
 ||lemme.build^
 ||m-plus.build^
 ||mark1.build^
@@ -71,6 +73,7 @@
 ||skip.build^
 ||smarthomedesign.build^
 ||snow.build^
+||solido.build^
 ||soulverse.build^
 ||swap.build^
 ||symbiotic.build^

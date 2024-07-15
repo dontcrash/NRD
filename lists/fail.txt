@@ -1,5 +1,6 @@
 ||123b.fail^
 ||502.fail^
+||admin.fail^
 ||block.fail^
 ||boats.fail^
 ||bts.fail^
@@ -19,11 +20,11 @@
 ||map.fail^
 ||onibuilds.fail^
 ||partial.fail^
+||paturnpike.fail^
 ||pendolare.fail^
 ||rayner.fail^
 ||schuldenbremse.fail^
 ||supremecourt.fail^
-||temporary.fail^
 ||tom.fail^
 ||tomtugendhat.fail^
 ||wagmi.fail^
