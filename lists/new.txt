@@ -5,18 +5,14 @@
 ||axure.new^
 ||bolt.new^
 ||chain.new^
-||chapter.new^
 ||commerce.new^
 ||e2.new^
 ||flides.new^
 ||hyp.new^
 ||hyper.new^
 ||just.new^
-||kino.new^
 ||marketplace.new^
-||nb.new^
 ||nx.new^
-||omegle.new^
 ||phylax.new^
 ||postgres.new^
 ||prototype.new^
@@ -25,4 +21,5 @@
 ||sims.new^
 ||specs.new^
 ||sqlite.new^
+||up.new^
 ||wineskins.new^

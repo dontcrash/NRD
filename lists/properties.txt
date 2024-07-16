@@ -1,8 +1,9 @@
-||xasteria.properties^
+||pangea.properties^
 ||1418coffee.properties^
 ||188bet.properties^
 ||789bet.properties^
 ||971.properties^
+||aar.properties^
 ||accesshomes.properties^
 ||accessible.properties^
 ||adclick.properties^
@@ -21,12 +22,11 @@
 ||ayana-sobha.properties^
 ||ayanasobha.properties^
 ||bick.properties^
-||bnp.properties^
 ||brickhaven.properties^
+||builditron.properties^
 ||buysellrent.properties^
 ||casagrand.properties^
 ||centuryinc.properties^
-||cfp.properties^
 ||collect.properties^
 ||constantinoubros.properties^
 ||creekside.properties^
@@ -48,6 +48,7 @@
 ||estateagents.properties^
 ||estateconnect.properties^
 ||everhope.properties^
+||farmland.properties^
 ||fiable.properties^
 ||gables.properties^
 ||gauteng.properties^
@@ -63,7 +64,6 @@
 ||home123.properties^
 ||homeinkefalonia.properties^
 ||homiland.properties^
-||hoshi.properties^
 ||id-0998715.properties^
 ||inhouse.properties^
 ||instep.properties^
@@ -73,6 +73,7 @@
 ||johannesburg.properties^
 ||john.properties^
 ||junto.properties^
+||justcare.properties^
 ||k2.properties^
 ||kassia-condo.properties^
 ||kathy.properties^
@@ -87,6 +88,7 @@
 ||leadbox.properties^
 ||littlelodge.properties^
 ||livingstone.properties^
+||lkvrealty.properties^
 ||m3m.properties^
 ||madina.properties^
 ||madinah.properties^
@@ -102,14 +104,15 @@
 ||munichprime.properties^
 ||myempire.properties^
 ||mypocket.properties^
+||nashvilletn.properties^
 ||novus.properties^
 ||oceanblue.properties^
 ||odisha.properties^
 ||oliveleaf.properties^
 ||onisiwo.properties^
 ||ooboor.properties^
+||operations.properties^
 ||pahrump.properties^
-||pangea.properties^
 ||partnerrealestate.properties^
 ||payingcashfor.properties^
 ||payperclick.properties^
@@ -139,6 +142,7 @@
 ||shader.properties^
 ||shely.properties^
 ||sherm.properties^
+||shisharea.properties^
 ||signgreen.properties^
 ||sjsmithestateagents.properties^
 ||smarthome.properties^
@@ -163,6 +167,7 @@
 ||swiss-asia.properties^
 ||sys.properties^
 ||teamv.properties^
+||tessier.properties^
 ||texasstar.properties^
 ||the-sobha-ayana.properties^
 ||the-sobhaayana.properties^
