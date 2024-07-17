@@ -5,6 +5,7 @@
 ||adfs-drw.trading^
 ||adfs-drwholdings.trading^
 ||ads.trading^
+||agentic.trading^
 ||agisos.trading^
 ||alan.trading^
 ||alphabot.trading^
@@ -20,7 +21,6 @@
 ||builditron.trading^
 ||bytebank.trading^
 ||cadenza.trading^
-||chromia.trading^
 ||coinswap.trading^
 ||conversational.trading^
 ||crypto-futures.trading^
@@ -65,7 +65,6 @@
 ||oneup.trading^
 ||onfin.trading^
 ||oqio.trading^
-||original.trading^
 ||oro.trading^
 ||pay.trading^
 ||profile.trading^
@@ -73,6 +72,7 @@
 ||revel.trading^
 ||roger.trading^
 ||rome.trading^
+||s7u.trading^
 ||scam.trading^
 ||skip.trading^
 ||spatial.trading^
@@ -86,13 +86,11 @@
 ||tessera.trading^
 ||thomas-wabnig.trading^
 ||thomaswabnig.trading^
-||tiny.trading^
 ||toptraders.trading^
 ||tpaas.trading^
 ||tria.trading^
 ||txse.trading^
 ||ultratimes.trading^
-||uplevel.trading^
 ||vandal.trading^
 ||voronoi.trading^
 ||wallex.trading^

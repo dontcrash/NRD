@@ -1,4 +1,3 @@
-||pangea.properties^
 ||1418coffee.properties^
 ||188bet.properties^
 ||789bet.properties^
@@ -54,6 +53,7 @@
 ||gauteng.properties^
 ||glam.properties^
 ||good.properties^
+||goodjuju.properties^
 ||greatbritish.properties^
 ||gulfbay.properties^
 ||havenhouse.properties^
@@ -82,6 +82,7 @@
 ||kellyenterprise.properties^
 ||kellyholdings.properties^
 ||keysteam.properties^
+||kingfisher.properties^
 ||kwest.properties^
 ||lagoon-views.properties^
 ||lakeview.properties^
@@ -89,11 +90,13 @@
 ||littlelodge.properties^
 ||livingstone.properties^
 ||lkvrealty.properties^
+||loquel.properties^
 ||m3m.properties^
 ||madina.properties^
 ||madinah.properties^
 ||magnacumlaude.properties^
 ||makkah.properties^
+||manifest.properties^
 ||marquis.properties^
 ||mcdowell.properties^
 ||mkf.properties^
@@ -113,6 +116,7 @@
 ||ooboor.properties^
 ||operations.properties^
 ||pahrump.properties^
+||pangea.properties^
 ||partnerrealestate.properties^
 ||payingcashfor.properties^
 ||payperclick.properties^
@@ -138,6 +142,7 @@
 ||rsearcy.properties^
 ||rushmore.properties^
 ||scribe.properties^
+||selling.properties^
 ||sett.properties^
 ||shader.properties^
 ||shely.properties^
@@ -158,7 +163,6 @@
 ||sobhaayanaresidency.properties^
 ||sobhaayanaresidentialplot.properties^
 ||sophie.properties^
-||sora-condo.properties^
 ||stayweird.properties^
 ||steur.properties^
 ||streamrealty.properties^

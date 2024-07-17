@@ -2,7 +2,6 @@
 ||17.delivery^
 ||22.delivery^
 ||56.delivery^
-||789bet.delivery^
 ||aerocargoshipping.delivery^
 ||agent.delivery^
 ||aha.delivery^
@@ -19,13 +18,15 @@
 ||bet88.delivery^
 ||bitcoins.delivery^
 ||bk8.delivery^
+||bongs.delivery^
+||bongsondemand.delivery^
 ||bravos.delivery^
+||byob.delivery^
 ||bypost.delivery^
 ||cabura.delivery^
 ||calibueno.delivery^
 ||canada-post.delivery^
 ||cast.delivery^
-||checkt.delivery^
 ||cleip.delivery^
 ||clientaddress.delivery^
 ||clientupdate.delivery^
@@ -120,7 +121,9 @@
 ||pandaexpress.delivery^
 ||paradise.delivery^
 ||parker.delivery^
+||pedeaqui.delivery^
 ||personalised.delivery^
+||petfood.delivery^
 ||photo.delivery^
 ||pitchdeck.delivery^
 ||pizzacut.delivery^
@@ -141,6 +144,7 @@
 ||rushit.delivery^
 ||sabji.delivery^
 ||sectech.delivery^
+||selfdriving.delivery^
 ||seuze.delivery^
 ||shippingsa.delivery^
 ||shroom.delivery^
@@ -162,6 +166,7 @@
 ||ufa.delivery^
 ||ups-packaging.delivery^
 ||uscs.delivery^
+||vaide.delivery^
 ||veggies.delivery^
 ||veo.delivery^
 ||volpi.delivery^
@@ -169,7 +174,6 @@
 ||well.delivery^
 ||whitelabel.delivery^
 ||wi-pie.delivery^
-||wildflower.delivery^
 ||wipi.delivery^
 ||worldautoshipping.delivery^
 ||xn--zgb9af.delivery^

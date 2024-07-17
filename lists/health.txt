@@ -1,4 +1,3 @@
-||gourmetweightloss.health^
 ||0712test.health^
 ||23.health^
 ||7step.health^
@@ -16,6 +15,7 @@
 ||advancedfoot.health^
 ||aeris.health^
 ||afterglow.health^
+||aiforgood.health^
 ||aim4.health^
 ||aionic.health^
 ||aiyurvedic.health^
@@ -29,9 +29,9 @@
 ||amplified.health^
 ||annual.health^
 ||aonic.health^
+||aosg.health^
 ||apexintegrative.health^
 ||aplus.health^
-||apothecaryiv.health^
 ||arcaya.health^
 ||arcticslope.health^
 ||artisanal.health^
@@ -53,6 +53,7 @@
 ||balancedbrain.health^
 ||beautita.health^
 ||beautywellnesswithin.health^
+||bepuro.health^
 ||beyondtherapy.health^
 ||biddoc.health^
 ||bioceutics.health^
@@ -62,10 +63,8 @@
 ||bioskinluxe.health^
 ||biotechs.health^
 ||birdwing.health^
-||blueevolution.health^
 ||bluelotus108.health^
 ||bluezones.health^
-||blut.health^
 ||bodysmart.health^
 ||brainenergy.health^
 ||brainlight.health^
@@ -74,7 +73,6 @@
 ||brmc.health^
 ||businesspsychology.health^
 ||cadencecode.health^
-||californiamental.health^
 ||canadacloud.health^
 ||cancersymptoms.health^
 ||cannapharm.health^
@@ -153,10 +151,10 @@
 ||esycare.health^
 ||eudaimonia.health^
 ||eunicare.health^
+||familychoice.health^
 ||farmer.health^
 ||fastingretreat.health^
 ||feelgreat.health^
-||fertiva.health^
 ||finestra.health^
 ||firefitness.health^
 ||flora.health^
@@ -194,6 +192,7 @@
 ||green-leaf.health^
 ||greensignals.health^
 ||grounding.health^
+||harmonyhealing.health^
 ||healingharmony.health^
 ||health-embassy.health^
 ||healthcheck.health^
@@ -202,9 +201,12 @@
 ||healtinnitus.health^
 ||heartmind.health^
 ||heartsurgeon.health^
+||hedamo.health^
+||hedge.health^
 ||helpalert.health^
 ||helpup.health^
 ||helvetia.health^
+||hemato.health^
 ||herbify.health^
 ||higherlevelholistic.health^
 ||hikigai.health^
@@ -220,6 +222,7 @@
 ||hubpass.health^
 ||humanoid.health^
 ||humata.health^
+||humptydumpty.health^
 ||hyperfluid.health^
 ||icarus.health^
 ||icontrol.health^
@@ -258,7 +261,6 @@
 ||leaffilter.health^
 ||legacylife.health^
 ||letyourlightshine.health^
-||leva.health^
 ||levanto.health^
 ||lies.health^
 ||liferx.health^
@@ -309,6 +311,7 @@
 ||moonducks.health^
 ||movefor.health^
 ||moynaa.health^
+||musclemax.health^
 ||mybestfriend.health^
 ||mycalm.health^
 ||myday.health^
@@ -400,7 +403,6 @@
 ||prtl.health^
 ||psychedelictherapyoregon.health^
 ||puravive.health^
-||qote.health^
 ||quantumcare.health^
 ||rainbowcare.health^
 ||ranfort.health^
@@ -420,6 +422,7 @@
 ||restoreyour.health^
 ||rexicon.health^
 ||royalwellness.health^
+||sageleaf.health^
 ||salura.health^
 ||salusintegrative.health^
 ||sandomierz.health^
@@ -436,11 +439,13 @@
 ||shoply.health^
 ||siemens-healthineer.health^
 ||sinfonia.health^
+||sirrah.health^
 ||skiller.health^
 ||smartclamp.health^
 ||smartea.health^
 ||smartmeter.health^
 ||sober.health^
+||solveforward.health^
 ||sophi-med.health^
 ||sorven.health^
 ||soulhaven.health^
@@ -472,6 +477,7 @@
 ||tetrapy.health^
 ||thebiohacker.health^
 ||thecenter.health^
+||thegoodnews.health^
 ||thehealingheroes.health^
 ||themeaningfullifecompany.health^
 ||thementaljourney.health^
@@ -486,6 +492,7 @@
 ||thriv.health^
 ||tier1medical.health^
 ||tile.health^
+||tinyshealthhub.health^
 ||touch.health^
 ||transformative.health^
 ||trility.health^
@@ -502,8 +509,8 @@
 ||umbratherapy.health^
 ||ummu.health^
 ||unit.health^
-||unsilo.health^
 ||unvaxxedbloodbank.health^
+||vacunas.health^
 ||vaginalrejuvenation.health^
 ||valuestrategies.health^
 ||ventricle.health^

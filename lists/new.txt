@@ -1,17 +1,15 @@
 ||0.new^
 ||account.new^
-||advisor.new^
-||appdirect.new^
 ||axure.new^
 ||bolt.new^
 ||chain.new^
-||commerce.new^
 ||e2.new^
+||federation.new^
+||finance.new^
 ||flides.new^
 ||hyp.new^
 ||hyper.new^
 ||just.new^
-||marketplace.new^
 ||nx.new^
 ||phylax.new^
 ||postgres.new^
@@ -23,3 +21,4 @@
 ||sqlite.new^
 ||up.new^
 ||wineskins.new^
+||zamp.new^
