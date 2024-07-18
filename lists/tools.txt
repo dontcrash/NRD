@@ -1,5 +1,5 @@
-||pulver.tools^
-||seobuddy.tools^
+||gadfly.tools^
+||paxdei.tools^
 ||10top.tools^
 ||1schema.tools^
 ||250.tools^
@@ -24,6 +24,7 @@
 ||appsscript.tools^
 ||arco.tools^
 ||ari.tools^
+||artifacts.tools^
 ||as25855.tools^
 ||ask.tools^
 ||aso.tools^
@@ -40,6 +41,7 @@
 ||betsaya.tools^
 ||betvisa.tools^
 ||bili.tools^
+||bioelectric.tools^
 ||bismarck.tools^
 ||blakbox.tools^
 ||blur.tools^
@@ -56,7 +58,6 @@
 ||cloudstream.tools^
 ||colab.tools^
 ||collaboratory.tools^
-||commonpraxis.tools^
 ||compute.tools^
 ||computer-vision.tools^
 ||conduit.tools^
@@ -107,8 +108,6 @@
 ||freecredit.tools^
 ||freeonline.tools^
 ||fruitcat.tools^
-||futureai.tools^
-||gadfly.tools^
 ||gazebo.tools^
 ||gdmedia.tools^
 ||generativedesign.tools^
@@ -143,6 +142,7 @@
 ||ishgardian.tools^
 ||iwin68.tools^
 ||jaagou.tools^
+||jap.tools^
 ||jobrouter.tools^
 ||julien.tools^
 ||justnice.tools^
@@ -182,6 +182,7 @@
 ||nsfwaichat.tools^
 ||numerologytoolbox.tools^
 ||ocl.tools^
+||ocr.tools^
 ||ok9.tools^
 ||onlinevpn.tools^
 ||onpageseo.tools^
@@ -202,6 +203,7 @@
 ||pmf.tools^
 ||pornai.tools^
 ||powerlink.tools^
+||powersite.tools^
 ||ppg.tools^
 ||professions.tools^
 ||proofs.tools^
@@ -227,6 +229,7 @@
 ||roland.tools^
 ||safeai.tools^
 ||savefrom.tools^
+||scada.tools^
 ||scanx.tools^
 ||scrapetxt.tools^
 ||secureauth.tools^
@@ -258,12 +261,13 @@
 ||sweetspot.tools^
 ||tagmanager.tools^
 ||tales.tools^
+||tally.tools^
 ||teachings.tools^
+||team-x.tools^
 ||teambluelight.tools^
 ||technicalanalysis.tools^
 ||teestack.tools^
 ||tela.tools^
-||tenet.tools^
 ||tep.tools^
 ||theatre.tools^
 ||themakerof.tools^
@@ -295,6 +299,7 @@
 ||warpcast.tools^
 ||watchmovies.tools^
 ||we188.tools^
+||webpad.tools^
 ||webseo.tools^
 ||websurvival.tools^
 ||wendigo.tools^

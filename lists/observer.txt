@@ -21,8 +21,6 @@
 ||k8s.observer^
 ||konpaku.observer^
 ||language.observer^
-||maga.observer^
-||procurement.observer^
 ||rabbithole.observer^
 ||rfc.observer^
 ||ruminations.observer^
@@ -32,5 +30,5 @@
 ||stfu.observer^
 ||unobserved.observer^
 ||uptime.observer^
-||utxo.observer^
 ||wellness.observer^
+||yard.observer^

@@ -1,7 +1,10 @@
 ||aave.builders^
+||about.builders^
+||agenticai.builders^
 ||aohomeimprovements.builders^
 ||appointment.builders^
 ||bizbot.builders^
+||boss.builders^
 ||box.builders^
 ||brandt.builders^
 ||builder.builders^
@@ -13,6 +16,7 @@
 ||chennai.builders^
 ||claim.builders^
 ||clearstory.builders^
+||consciousnessai.builders^
 ||cro.builders^
 ||cv.builders^
 ||dao-puffer.builders^
@@ -24,6 +28,7 @@
 ||envisioned.builders^
 ||etherfi.builders^
 ||etherfl.builders^
+||evans.builders^
 ||fair.builders^
 ||fapello.builders^
 ||film.builders^
@@ -31,6 +36,7 @@
 ||formative.builders^
 ||futureproofing.builders^
 ||gamee.builders^
+||generativeai.builders^
 ||gomile.builders^
 ||gorples.builders^
 ||granola.builders^
@@ -41,6 +47,7 @@
 ||jkdesigndevelopment.builders^
 ||jsmpays.builders^
 ||knightconstruction.builders^
+||logo.builders^
 ||mall.builders^
 ||masterprofessional.builders^
 ||mitosis.builders^
@@ -65,13 +72,11 @@
 ||skull.builders^
 ||spankbang.builders^
 ||suaves.builders^
-||supplychain.builders^
 ||symbiotic.builders^
 ||threshold.builders^
 ||tinyhouse.builders^
 ||tnaflix.builders^
 ||tradies.builders^
-||united.builders^
 ||upgradehome.builders^
 ||vpn.builders^
 ||weaver.builders^
