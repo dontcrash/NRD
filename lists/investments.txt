@@ -43,6 +43,7 @@
 ||dapradar.investments^
 ||edge.investments^
 ||elevated.investments^
+||ether.investments^
 ||faia.investments^
 ||fgtc.investments^
 ||fingo.investments^
@@ -64,6 +65,7 @@
 ||inno.investments^
 ||jmvinfra.investments^
 ||justmove.investments^
+||kava.investments^
 ||kk.investments^
 ||lead.investments^
 ||loquel.investments^
@@ -91,6 +93,7 @@
 ||posthuman.investments^
 ||primexbt.investments^
 ||prive.investments^
+||proaurum.investments^
 ||psy-2.investments^
 ||psyex-3.investments^
 ||qian.investments^
@@ -99,6 +102,7 @@
 ||regal.investments^
 ||regular.investments^
 ||rtb.investments^
+||samenergy.investments^
 ||schrodersplc.investments^
 ||sci.investments^
 ||shihon.investments^
@@ -124,7 +128,6 @@
 ||united.investments^
 ||unitedrealty.investments^
 ||varnm.investments^
-||vectorized.investments^
 ||village.investments^
 ||windler.investments^
 ||wingspan.investments^

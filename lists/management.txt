@@ -18,7 +18,6 @@
 ||capitalvacations.management^
 ||cash.management^
 ||castanea.management^
-||cenk.management^
 ||cheddar.management^
 ||coastline.management^
 ||cyberrisk.management^
@@ -34,6 +33,8 @@
 ||dominium.management^
 ||dsa.management^
 ||dsg.management^
+||dsr.management^
+||ecom.management^
 ||enclave.management^
 ||enhance.management^
 ||epro.management^
@@ -44,11 +45,14 @@
 ||flagship.management^
 ||fmp.management^
 ||fulcrum.management^
+||gcredit-appclaim.management^
+||gcredit-redeem.management^
 ||generic.management^
 ||gfc.management^
 ||gitm.management^
 ||glencoe.management^
 ||goon.management^
+||gorges.management^
 ||gracieb.management^
 ||greenway.management^
 ||harrington.management^
@@ -71,7 +75,6 @@
 ||lajoiebusiness.management^
 ||lenox.management^
 ||lightning.management^
-||limbic.management^
 ||litvinov.management^
 ||loquel.management^
 ||mail-system-inbounds-outlook.management^
@@ -86,9 +89,11 @@
 ||mushroomconnect.management^
 ||mylife.management^
 ||nextlevelsports.management^
+||notes.management^
 ||offer.management^
 ||onlinereview.management^
 ||orgonize.management^
+||page.management^
 ||perpetual.management^
 ||pipeline.management^
 ||pornhub.management^
@@ -100,8 +105,10 @@
 ||randstad.management^
 ||registry.management^
 ||rize.management^
+||rob.management^
 ||scaling.management^
 ||schreiber.management^
+||securities.management^
 ||send-via-mail-proctection-adobe.management^
 ||sequ.management^
 ||shihon.management^
@@ -128,7 +135,7 @@
 ||variable.management^
 ||venn.management^
 ||verify.management^
+||webdesign.management^
 ||weitblick.management^
 ||wizardry.management^
 ||wolter.management^
-||xen.management^
