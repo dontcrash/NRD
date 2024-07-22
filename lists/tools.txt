@@ -1,7 +1,5 @@
 ||qui.tools^
-||locagame.tools^
-||loeihard.tools^
-||ger.tools^
+||qom.tools^
 ||1schema.tools^
 ||250.tools^
 ||9xmovies.tools^
@@ -20,7 +18,6 @@
 ||alxndr.tools^
 ||and.tools^
 ||antirug.tools^
-||app-labs.tools^
 ||appsscript.tools^
 ||arco.tools^
 ||ari.tools^
@@ -81,7 +78,6 @@
 ||dotgit.tools^
 ||draken.tools^
 ||dranbleiben.tools^
-||dreamachine.tools^
 ||dreammaker.tools^
 ||e-com.tools^
 ||e2c.tools^
@@ -153,6 +149,7 @@
 ||learnings.tools^
 ||lev.tools^
 ||libertylab.tools^
+||loeihard.tools^
 ||lsm99.tools^
 ||lstahl.tools^
 ||madmobile.tools^
@@ -241,7 +238,6 @@
 ||spool.tools^
 ||spurt.tools^
 ||stepup.tools^
-||stinkrank.tools^
 ||sunshine.tools^
 ||sustainability.tools^
 ||sweetspot.tools^

@@ -5,16 +5,18 @@
 ||bolt.new^
 ||castle.new^
 ||chain.new^
+||ddraw.new^
+||dpages.new^
 ||e2.new^
 ||federation.new^
 ||finance.new^
 ||flides.new^
-||hyp.new^
 ||hyper.new^
 ||integration.new^
 ||just.new^
 ||nx.new^
 ||oh.new^
+||onlyfiles.new^
 ||phylax.new^
 ||postgres.new^
 ||prototype.new^
@@ -26,6 +28,5 @@
 ||up.new^
 ||view.new^
 ||widget.new^
-||wineskins.new^
 ||workspace.new^
 ||zamp.new^
