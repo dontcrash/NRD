@@ -1,4 +1,5 @@
-||healthinsurance.bot^
+||jackie.bot^
+||delegation.bot^
 ||100x.bot^
 ||18.bot^
 ||2060.bot^
@@ -17,8 +18,6 @@
 ||affiliatelink.bot^
 ||affiliatewatch.bot^
 ||aglaia.bot^
-||ai-essay-writer.bot^
-||ai-r.bot^
 ||aiaas.bot^
 ||aiagency.bot^
 ||aiautomation.bot^
@@ -35,6 +34,7 @@
 ||amaia.bot^
 ||ambototo.bot^
 ||ambsand.bot^
+||amlofficer.bot^
 ||anakin.bot^
 ||ancestor.bot^
 ||antegenai.bot^
@@ -48,6 +48,7 @@
 ||askswamiji.bot^
 ||assistingeinstein.bot^
 ||atro.bot^
+||atticus.bot^
 ||automator.bot^
 ||auv.bot^
 ||avenger.bot^
@@ -67,6 +68,7 @@
 ||bites.bot^
 ||bitgain.bot^
 ||bitminer.bot^
+||bitrotap.bot^
 ||bittys.bot^
 ||bizbuzz.bot^
 ||bize.bot^
@@ -93,7 +95,7 @@
 ||bust.bot^
 ||busty.bot^
 ||buyerassist.bot^
-||buylowsellhigh.bot^
+||buytools.bot^
 ||buzzy.bot^
 ||bxi.bot^
 ||cabal.bot^
@@ -149,6 +151,7 @@
 ||crashino.bot^
 ||creoplay.bot^
 ||crosslink.bot^
+||crowdstrike.bot^
 ||cruiser.bot^
 ||cubmaster.bot^
 ||cum.bot^
@@ -160,7 +163,6 @@
 ||dealflow.bot^
 ||deepthink.bot^
 ||deeptrust.bot^
-||delegation.bot^
 ||dexnova.bot^
 ||dgen.bot^
 ||diagram.bot^
@@ -178,6 +180,7 @@
 ||domainassist.bot^
 ||dominator.bot^
 ||druidic.bot^
+||drupal.bot^
 ||drycargo.bot^
 ||dub.bot^
 ||duco.bot^
@@ -194,6 +197,7 @@
 ||emoney.bot^
 ||emperor.bot^
 ||employplan.bot^
+||enliven.bot^
 ||ennea.bot^
 ||epa.bot^
 ||epson.bot^
@@ -217,6 +221,7 @@
 ||festo.bot^
 ||finals.bot^
 ||findassist.bot^
+||flashcards.bot^
 ||flomad.bot^
 ||flood.bot^
 ||flush.bot^
@@ -255,6 +260,7 @@
 ||gogolf.bot^
 ||golfswing.bot^
 ||goodkind.bot^
+||goose.bot^
 ||goshawk.bot^
 ||govt.bot^
 ||graphdex.bot^
@@ -342,12 +348,14 @@
 ||kryptos.bot^
 ||kuavo.bot^
 ||kylin.bot^
+||l1.bot^
 ||landscape.bot^
 ||lanner.bot^
 ||lanneret.bot^
 ||le.bot^
 ||leadflow.bot^
 ||leadify.bot^
+||legalease.bot^
 ||legenddad.bot^
 ||leju.bot^
 ||lele.bot^
@@ -358,6 +366,7 @@
 ||limbic.bot^
 ||limx.bot^
 ||livescore.bot^
+||localmarketing.bot^
 ||locks.bot^
 ||lookout.bot^
 ||loong.bot^
@@ -374,6 +383,7 @@
 ||malhabidas.bot^
 ||manychat.bot^
 ||marketmaking.bot^
+||markov.bot^
 ||marmot.bot^
 ||marqit.bot^
 ||massagebot.bot^
@@ -408,6 +418,7 @@
 ||molsoncoors.bot^
 ||momenta.bot^
 ||mondoir.bot^
+||mooney.bot^
 ||moonshots.bot^
 ||mora.bot^
 ||moshi.bot^
@@ -478,7 +489,6 @@
 ||pirbx.bot^
 ||platypus.bot^
 ||plot.bot^
-||plusplus.bot^
 ||pok.bot^
 ||pokr.bot^
 ||polisitogel.bot^
@@ -506,6 +516,7 @@
 ||pusher.bot^
 ||qclick.bot^
 ||qinglong.bot^
+||quadrature.bot^
 ||quadruped.bot^
 ||quotable.bot^
 ||raas.bot^
@@ -517,6 +528,7 @@
 ||ray.bot^
 ||realmessenger.bot^
 ||realmessengers.bot^
+||realtyassistant.bot^
 ||reba.bot^
 ||recaptcha.bot^
 ||recursion.bot^
@@ -657,6 +669,7 @@
 ||tonscan.bot^
 ||tonvpn.bot^
 ||toot.bot^
+||topcoin.bot^
 ||torero.bot^
 ||toshiba.bot^
 ||travelinsurance.bot^
@@ -694,6 +707,7 @@
 ||vesper.bot^
 ||vesseltracking.bot^
 ||veto.bot^
+||viaja.bot^
 ||viewa.bot^
 ||vigil.bot^
 ||vihero.bot^
@@ -720,6 +734,7 @@
 ||weekend.bot^
 ||westwood.bot^
 ||whaticket.bot^
+||whatsflow.bot^
 ||wickedape.bot^
 ||wingmate.bot^
 ||wiper.bot^
@@ -729,7 +744,6 @@
 ||wombo.bot^
 ||wonderland.bot^
 ||woool.bot^
-||writemyessay.bot^
 ||wut.bot^
 ||wynn.bot^
 ||wyse.bot^

@@ -26,6 +26,7 @@
 ||chatgpt.cards^
 ||choicecard.cards^
 ||client.cards^
+||clients.cards^
 ||clover.cards^
 ||colors.cards^
 ||contested.cards^
@@ -45,6 +46,7 @@
 ||discountbank.cards^
 ||divis.cards^
 ||dmi.cards^
+||dns.cards^
 ||domnia.cards^
 ||drapples.cards^
 ||e2.cards^
@@ -60,6 +62,7 @@
 ||hk01.cards^
 ||iben.cards^
 ||ids.cards^
+||impensa.cards^
 ||insta-grade.cards^
 ||interledger.cards^
 ||invitationcard.cards^
@@ -85,7 +88,7 @@
 ||ok.cards^
 ||okay.cards^
 ||okquiz.cards^
-||ontology.cards^
+||ono.cards^
 ||optcg.cards^
 ||outbloom.cards^
 ||p2p.cards^
@@ -93,14 +96,17 @@
 ||partner.cards^
 ||peloton.cards^
 ||persona.cards^
+||pkg.cards^
 ||poste.cards^
 ||pumpkin.cards^
 ||qards.cards^
 ||raw.cards^
 ||reach.cards^
 ||resiliency.cards^
+||rta.cards^
 ||rzx.cards^
 ||soulbound.cards^
+||stampede.cards^
 ||steel.cards^
 ||sticky.cards^
 ||stl.cards^
@@ -124,6 +130,7 @@
 ||unconditionallove.cards^
 ||unsecuredcredit.cards^
 ||vanquis.cards^
+||vend.cards^
 ||venepago.cards^
 ||vgx.cards^
 ||voyager.cards^

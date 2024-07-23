@@ -1,3 +1,4 @@
+||ns3.fix.trading^
 ||21x.trading^
 ||33.trading^
 ||4bot.trading^
@@ -11,6 +12,7 @@
 ||alphabot.trading^
 ||alumco.trading^
 ||anis.trading^
+||anon.trading^
 ||antares.trading^
 ||aom.trading^
 ||apollo.trading^
@@ -53,7 +55,6 @@
 ||jap.trading^
 ||journals.trading^
 ||juno.trading^
-||lakshmi.trading^
 ||lightwave.trading^
 ||marketedge.trading^
 ||mc2.trading^
@@ -74,9 +75,9 @@
 ||pornhub.trading^
 ||poseidon.trading^
 ||precision.trading^
-||profile.trading^
 ||prosper.trading^
 ||quantumai.trading^
+||qubitcoin.trading^
 ||revel.trading^
 ||revolut-app.trading^
 ||roger.trading^
@@ -84,6 +85,7 @@
 ||rosa.trading^
 ||s7u.trading^
 ||scam.trading^
+||scan.trading^
 ||sirdal.trading^
 ||skip.trading^
 ||spatial.trading^
@@ -105,8 +107,10 @@
 ||ultratimes.trading^
 ||vandal.trading^
 ||voronoi.trading^
+||waas.trading^
 ||wallex.trading^
 ||web5.trading^
+||wen.trading^
 ||world-trade.trading^
 ||wrthy.trading^
 ||xau.trading^

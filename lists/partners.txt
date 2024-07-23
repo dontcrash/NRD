@@ -14,10 +14,10 @@
 ||aml.partners^
 ||antura.partners^
 ||apac.partners^
+||apparel.partners^
 ||apricus.partners^
 ||arena.partners^
 ||arts.partners^
-||asand.partners^
 ||ashwood.partners^
 ||atlas.partners^
 ||backend.partners^
@@ -38,7 +38,9 @@
 ||brightspeed.partners^
 ||btob.partners^
 ||bula.partners^
+||bullion.partners^
 ||businessthriver.partners^
+||bytebank.partners^
 ||cantela.partners^
 ||cantella.partners^
 ||capitel.partners^
@@ -50,7 +52,6 @@
 ||coats.partners^
 ||contador.partners^
 ||coredge.partners^
-||csplay.partners^
 ||debtadvisory.partners^
 ||deel.partners^
 ||deka.partners^
@@ -59,6 +60,7 @@
 ||dopamine.partners^
 ||drk-hausruf.partners^
 ||drk.partners^
+||dvc.partners^
 ||e2.partners^
 ||e28.partners^
 ||eclipsebrand.partners^
@@ -68,6 +70,7 @@
 ||elinor.partners^
 ||eqity.partners^
 ||equity.partners^
+||ergo.partners^
 ||essentialhealth.partners^
 ||everviewcap.partners^
 ||everviewglobal.partners^
@@ -86,13 +89,11 @@
 ||gameday.partners^
 ||goldeneggs.partners^
 ||gvm.partners^
-||hawksight.partners^
 ||hb88.partners^
 ||hdh.partners^
 ||heinichen.partners^
 ||holtzbrinck.partners^
 ||hudsonavenue.partners^
-||hypr.partners^
 ||ibo.partners^
 ||idbox.partners^
 ||ideal.partners^
@@ -120,6 +121,7 @@
 ||luckycircus.partners^
 ||lukkly.partners^
 ||mercurialone.partners^
+||mesa.partners^
 ||mettl.partners^
 ||mimo.partners^
 ||moneyminds.partners^
@@ -150,6 +152,7 @@
 ||project596.partners^
 ||propel.partners^
 ||protierra.partners^
+||proud.partners^
 ||provein.partners^
 ||puff.partners^
 ||pushme.partners^
@@ -162,7 +165,6 @@
 ||roberthalf.partners^
 ||rock.partners^
 ||rockstars.partners^
-||rrdv.partners^
 ||scalify.partners^
 ||sgwealth.partners^
 ||shuttle.partners^
@@ -176,6 +178,7 @@
 ||streamrealty.partners^
 ||supervision.partners^
 ||supporting.partners^
+||t2.partners^
 ||taimas.partners^
 ||tecnuity.partners^
 ||telegram.partners^
@@ -184,11 +187,13 @@
 ||tokenization.partners^
 ||tridentgeneration.partners^
 ||trilight.partners^
+||trump.partners^
 ||twobears.partners^
 ||uff.partners^
 ||uh.partners^
 ||underdog.partners^
 ||unionsquare.partners^
+||uno.partners^
 ||upshift.partners^
 ||versa.partners^
 ||veya.partners^
@@ -207,4 +212,3 @@
 ||xvideos.partners^
 ||xxx.partners^
 ||z47.partners^
-||zld.partners^
