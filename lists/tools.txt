@@ -1,3 +1,4 @@
+||tep.tools^
 ||1schema.tools^
 ||250.tools^
 ||9xmovies.tools^
@@ -48,7 +49,6 @@
 ||cdl.tools^
 ||cdns.tools^
 ||churn.tools^
-||cloudstream.tools^
 ||colab.tools^
 ||collaboratory.tools^
 ||compute.tools^
@@ -59,7 +59,6 @@
 ||convertmim.tools^
 ||coparenting.tools^
 ||coverletter.tools^
-||csvtojson.tools^
 ||customllm.tools^
 ||cxa.tools^
 ||dakota.tools^
@@ -93,7 +92,6 @@
 ||freecredit.tools^
 ||freeonline.tools^
 ||fruitcat.tools^
-||gadfly.tools^
 ||gazebo.tools^
 ||generativedesign.tools^
 ||genia.tools^
@@ -169,7 +167,6 @@
 ||petr.tools^
 ||pharos.tools^
 ||pitchdeck.tools^
-||plm.tools^
 ||pmf.tools^
 ||pornai.tools^
 ||powerlink.tools^
@@ -183,7 +180,6 @@
 ||rac.tools^
 ||rafel.tools^
 ||rceve.tools^
-||rearden.tools^
 ||redpanda.tools^
 ||reminipro.tools^
 ||remove.tools^
@@ -229,8 +225,6 @@
 ||teambluelight.tools^
 ||technicalanalysis.tools^
 ||teestack.tools^
-||tela.tools^
-||tep.tools^
 ||theatre.tools^
 ||themakerof.tools^
 ||thena.tools^
@@ -241,7 +235,6 @@
 ||tmd.tools^
 ||tmp.tools^
 ||to2.tools^
-||training.tools^
 ||transformation.tools^
 ||treasures.tools^
 ||tryseo.tools^

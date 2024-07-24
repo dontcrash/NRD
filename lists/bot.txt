@@ -1,5 +1,5 @@
-||jackie.bot^
-||delegation.bot^
+||hrhero.bot^
+||qclick.bot^
 ||100x.bot^
 ||18.bot^
 ||2060.bot^
@@ -30,6 +30,7 @@
 ||alfagame.bot^
 ||allchain.bot^
 ||allchains.bot^
+||alli.bot^
 ||alpine.bot^
 ||amaia.bot^
 ||ambototo.bot^
@@ -70,7 +71,6 @@
 ||bitminer.bot^
 ||bitrotap.bot^
 ||bittys.bot^
-||bizbuzz.bot^
 ||bize.bot^
 ||blackcard.bot^
 ||blacklane.bot^
@@ -124,8 +124,6 @@
 ||cheating.bot^
 ||chessio.bot^
 ||chn.bot^
-||choam.bot^
-||chun.bot^
 ||circleback.bot^
 ||civet.bot^
 ||clair.bot^
@@ -192,6 +190,8 @@
 ||efficiencyboss.bot^
 ||ehs.bot^
 ||ei.bot^
+||elektrisch.bot^
+||elektrische.bot^
 ||else.bot^
 ||emergence.bot^
 ||emoney.bot^
@@ -199,6 +199,7 @@
 ||employplan.bot^
 ||enliven.bot^
 ||ennea.bot^
+||ensemble.bot^
 ||epa.bot^
 ||epson.bot^
 ||equus.bot^
@@ -212,11 +213,11 @@
 ||evolver.bot^
 ||ewallet.bot^
 ||expedition.bot^
-||explainingeinstein.bot^
 ||fanaticsolutions.bot^
 ||fanuc.bot^
 ||fanz.bot^
 ||fart.bot^
+||fearless.bot^
 ||fertiliser.bot^
 ||festo.bot^
 ||finals.bot^
@@ -232,7 +233,6 @@
 ||fucks.bot^
 ||funnelboost.bot^
 ||gafs.bot^
-||gal.bot^
 ||gasoil.bot^
 ||gassy.bot^
 ||gauge.bot^
@@ -252,9 +252,11 @@
 ||getit.bot^
 ||getiton.bot^
 ||getoff.bot^
+||gi.bot^
 ||gift.bot^
 ||giftassist.bot^
 ||ginai.bot^
+||gir.bot^
 ||globalsearch.bot^
 ||goalbook.bot^
 ||gogolf.bot^
@@ -263,6 +265,7 @@
 ||goose.bot^
 ||goshawk.bot^
 ||govt.bot^
+||grams.bot^
 ||graphdex.bot^
 ||greenbelt.bot^
 ||greenpump.bot^
@@ -286,7 +289,6 @@
 ||homo.bot^
 ||hosky.bot^
 ||hrairan.bot^
-||hrhero.bot^
 ||huanmeng.bot^
 ||hub.bot^
 ||hugs.bot^
@@ -316,6 +318,7 @@
 ||intelli.bot^
 ||intelligenceartificial.bot^
 ||intento.bot^
+||interactivity.bot^
 ||ipsec.bot^
 ||ironman.bot^
 ||islet.bot^
@@ -329,6 +332,7 @@
 ||jennyai.bot^
 ||jewelery.bot^
 ||jina.bot^
+||jobi.bot^
 ||jodell.bot^
 ||joelle.bot^
 ||jokes.bot^
@@ -412,12 +416,12 @@
 ||mimr.bot^
 ||minter.bot^
 ||miracle.bot^
+||miraos.bot^
 ||modelo.bot^
 ||mohit.bot^
 ||molecule.bot^
 ||molsoncoors.bot^
 ||momenta.bot^
-||mondoir.bot^
 ||mooney.bot^
 ||moonshots.bot^
 ||mora.bot^
@@ -456,6 +460,7 @@
 ||nu.bot^
 ||nucar.bot^
 ||num.bot^
+||nursing.bot^
 ||octobits.bot^
 ||ogo.bot^
 ||open-gpu.bot^
@@ -469,11 +474,13 @@
 ||oskar.bot^
 ||outdoor.bot^
 ||outdoors.bot^
+||outrun.bot^
 ||owlet.bot^
 ||p4s4.bot^
 ||p777.bot^
 ||paas.bot^
 ||pacifico.bot^
+||palma-forum.bot^
 ||pangolin.bot^
 ||parkinglot.bot^
 ||passenger.bot^
@@ -500,9 +507,9 @@
 ||primo.bot^
 ||privatejet.bot^
 ||processautonomy.bot^
+||programmatic.bot^
 ||promptchat.bot^
 ||prop.bot^
-||prophetic.bot^
 ||protection.bot^
 ||protrader.bot^
 ||psg.bot^
@@ -514,7 +521,6 @@
 ||punkcity.bot^
 ||purchaseassist.bot^
 ||pusher.bot^
-||qclick.bot^
 ||qinglong.bot^
 ||quadrature.bot^
 ||quadruped.bot^
@@ -546,6 +552,7 @@
 ||riga247.bot^
 ||riga365.bot^
 ||riskassessment.bot^
+||rng.bot^
 ||roban.bot^
 ||ruler.bot^
 ||runelite.bot^
@@ -606,6 +613,7 @@
 ||spencermarcu.bot^
 ||spots.bot^
 ||spro.bot^
+||ssdc.bot^
 ||ssps.bot^
 ||stadtwerke.bot^
 ||stakeindia.bot^
@@ -617,6 +625,7 @@
 ||strawberry.bot^
 ||streamcord.bot^
 ||stroller.bot^
+||strom.bot^
 ||stuart.bot^
 ||stuntronic.bot^
 ||suave.bot^
@@ -633,6 +642,7 @@
 ||synthient.bot^
 ||tables.bot^
 ||taboo.bot^
+||talkative.bot^
 ||tally.bot^
 ||tankers.bot^
 ||tapai.bot^
@@ -658,6 +668,7 @@
 ||tiangong.bot^
 ||tiktokpro.bot^
 ||tilt.bot^
+||times.bot^
 ||titties.bot^
 ||titty.bot^
 ||tli.bot^
@@ -708,7 +719,7 @@
 ||vesseltracking.bot^
 ||veto.bot^
 ||viaja.bot^
-||viewa.bot^
+||viddy.bot^
 ||vigil.bot^
 ||vihero.bot^
 ||vio.bot^
@@ -716,6 +727,7 @@
 ||virtualnurse.bot^
 ||virtus.bot^
 ||visi.bot^
+||vogel.bot^
 ||vpns.bot^
 ||vvvwin.bot^
 ||waiter.bot^
@@ -747,6 +759,7 @@
 ||wut.bot^
 ||wynn.bot^
 ||wyse.bot^
+||xano.bot^
 ||xara.bot^
 ||xeppa.bot^
 ||xspace.bot^

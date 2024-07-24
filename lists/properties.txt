@@ -1,5 +1,8 @@
+||sett.properties^
+||marblehead.properties^
 ||1418coffee.properties^
 ||188bet.properties^
+||3pm.properties^
 ||971.properties^
 ||aar.properties^
 ||accesshomes.properties^
@@ -18,9 +21,12 @@
 ||avant.properties^
 ||ayana-sobha.properties^
 ||ayanasobha.properties^
+||blackwell.properties^
 ||brickhaven.properties^
+||btc.properties^
 ||builditron.properties^
 ||buysellrent.properties^
+||canna.properties^
 ||centuryinc.properties^
 ||collect.properties^
 ||constantinoubros.properties^
@@ -32,7 +38,6 @@
 ||durham.properties^
 ||durhamcommercial.properties^
 ||eightseasons.properties^
-||emea.properties^
 ||emrookecapital.properties^
 ||es76652.properties^
 ||estateagent.properties^
@@ -46,6 +51,7 @@
 ||good.properties^
 ||goodjuju.properties^
 ||greatbritish.properties^
+||grow.properties^
 ||gulfbay.properties^
 ||havenhouse.properties^
 ||hiddengems.properties^
@@ -66,6 +72,7 @@
 ||kellycapital.properties^
 ||kellyenterprise.properties^
 ||kellyholdings.properties^
+||kennedy.properties^
 ||keysteam.properties^
 ||kingfisher.properties^
 ||kwest.properties^
@@ -88,14 +95,13 @@
 ||morus.properties^
 ||muizenberg.properties^
 ||munichluxuryapartment.properties^
-||munichprime.properties^
 ||myempire.properties^
 ||mypocket.properties^
 ||nashvilletn.properties^
 ||novus.properties^
 ||oceanblue.properties^
 ||odisha.properties^
-||onisiwo.properties^
+||ogs.properties^
 ||ooboor.properties^
 ||operations.properties^
 ||partnerrealestate.properties^
@@ -114,6 +120,7 @@
 ||randazzo.properties^
 ||ranger.properties^
 ||rcl.properties^
+||realcity.properties^
 ||renstar.properties^
 ||residence.properties^
 ||riyadhcity.properties^
@@ -123,7 +130,6 @@
 ||scribe.properties^
 ||selling.properties^
 ||services.properties^
-||sett.properties^
 ||shader.properties^
 ||shely.properties^
 ||shisharea.properties^

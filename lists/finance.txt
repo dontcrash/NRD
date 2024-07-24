@@ -1,7 +1,5 @@
-||novin.finance^
-||celsius.finance^
-||investmentq.finance^
-||viktress.finance^
+||bills.finance^
+||trade-markets.finance^
 ||0xboost.finance^
 ||1031.finance^
 ||123swap.finance^
@@ -103,7 +101,6 @@
 ||attend.finance^
 ||augmented.finance^
 ||autobuddy.finance^
-||automart.finance^
 ||avaone.finance^
 ||ave.finance^
 ||aven.finance^
@@ -118,6 +115,7 @@
 ||bakstag.finance^
 ||balio.finance^
 ||bankofblockchain.finance^
+||basebi.finance^
 ||baseswap.finance^
 ||batu.finance^
 ||bct.finance^
@@ -130,11 +128,10 @@
 ||berries.finance^
 ||betterwith.finance^
 ||bfg.finance^
+||bfx.finance^
 ||biebieerc.finance^
 ||bin.finance^
 ||binosaur.finance^
-||bitmatrix.finance^
-||bitmore.finance^
 ||blackpepe.finance^
 ||blacksandlitigations.finance^
 ||blakbox.finance^
@@ -151,6 +148,7 @@
 ||bona.finance^
 ||bonus-clearpool.finance^
 ||bookkeeping.finance^
+||boomswap.finance^
 ||bors.finance^
 ||bot.finance^
 ||bottomline.finance^
@@ -169,6 +167,7 @@
 ||busy.finance^
 ||bux.finance^
 ||buxx.finance^
+||bybitpool.finance^
 ||cablecar.finance^
 ||caddy.finance^
 ||caduceus.finance^
@@ -191,7 +190,6 @@
 ||ccpb.finance^
 ||cells.finance^
 ||char.finance^
-||cheapsale.finance^
 ||checkbookira.finance^
 ||chimera.finance^
 ||chirp.finance^
@@ -273,7 +271,6 @@
 ||debrudge.finance^
 ||debtidge.finance^
 ||debug.finance^
-||deed.finance^
 ||deepearning.finance^
 ||defidi.finance^
 ||degenpepe.finance^
@@ -366,6 +363,7 @@
 ||firstapex.finance^
 ||fiveminutes.finance^
 ||fixed.finance^
+||fjordfoundry.finance^
 ||fleming.finance^
 ||flexrange.finance^
 ||floorprice.finance^
@@ -392,6 +390,7 @@
 ||galaxypay.finance^
 ||gatekeeper.finance^
 ||gdoge.finance^
+||generate.finance^
 ||genexapp.finance^
 ||genieon.finance^
 ||genmedia.finance^
@@ -405,7 +404,6 @@
 ||gk.finance^
 ||glean.finance^
 ||glen.finance^
-||globalstock.finance^
 ||gmpi.finance^
 ||godel.finance^
 ||gombayex.finance^
@@ -429,6 +427,7 @@
 ||havana.finance^
 ||haven.finance^
 ||hawktuah.finance^
+||haystack.finance^
 ||hendotech.finance^
 ||hivemind.finance^
 ||holycat.finance^
@@ -485,7 +484,6 @@
 ||kaspanet.finance^
 ||kek.finance^
 ||keller.finance^
-||kengo.finance^
 ||kevlar.finance^
 ||kiddo.finance^
 ||kindling.finance^
@@ -494,8 +492,7 @@
 ||klein.finance^
 ||klyma.finance^
 ||kmino.finance^
-||kmu.finance^
-||koala.finance^
+||knightswap.finance^
 ||krk.finance^
 ||kstocks.finance^
 ||kuunda.finance^
@@ -548,7 +545,6 @@
 ||lp1.finance^
 ||lst.finance^
 ||lsx.finance^
-||lucymoney.finance^
 ||lume.finance^
 ||lyaerbank.finance^
 ||lyerbank.finance^
@@ -561,7 +557,6 @@
 ||manso.finance^
 ||maps.finance^
 ||marketsand.finance^
-||mavx.finance^
 ||mazda.finance^
 ||mccarthy.finance^
 ||mcmswap.finance^
@@ -607,7 +602,7 @@
 ||movingon.finance^
 ||mtgox.finance^
 ||mts.finance^
-||mtx.finance^
+||multiply.finance^
 ||mumucoin.finance^
 ||murabaha.finance^
 ||muses.finance^
@@ -623,6 +618,7 @@
 ||nexara.finance^
 ||nido.finance^
 ||nika.finance^
+||nitrous.finance^
 ||notbank.finance^
 ||novated.finance^
 ||novel.finance^
@@ -630,6 +626,7 @@
 ||nsfwgames.finance^
 ||oanda.finance^
 ||oasix.finance^
+||obiter.finance^
 ||oceanft.finance^
 ||ocp.finance^
 ||oct.finance^
@@ -655,20 +652,26 @@
 ||orbbiter.finance^
 ||orbiteer.finance^
 ||orbiternation.finance^
+||orbiters.finance^
 ||orcae.finance^
 ||organic.finance^
 ||orgiter.finance^
 ||origin.finance^
+||ornbiter.finance^
+||orrbiter.finance^
 ||oscorp.finance^
 ||otam.finance^
 ||otso.finance^
 ||otterly.finance^
 ||overnightpay.finance^
 ||oyster.finance^
+||ozon.finance^
 ||p4y.finance^
 ||paddle.finance^
 ||paleblue.finance^
+||palmyra.finance^
 ||pamcekeswap.finance^
+||pandasale.finance^
 ||panner.finance^
 ||pappy.finance^
 ||paradox.finance^
@@ -680,15 +683,19 @@
 ||pattern.finance^
 ||paylance.finance^
 ||pedia.finance^
+||pendiee.finance^
 ||pendies.finance^
+||pendiie.finance^
 ||pendle-app.finance^
 ||pendleapp.finance^
 ||pendlef.finance^
 ||pendlei.finance^
+||pendleintern.finance^
 ||pendlet.finance^
 ||pendletokens.finance^
 ||pendlies.finance^
 ||pendlles.finance^
+||pens.finance^
 ||penta.finance^
 ||pepecasino.finance^
 ||pepechain.finance^
@@ -733,6 +740,7 @@
 ||pluz.finance^
 ||polyena.finance^
 ||polyyield.finance^
+||pons.finance^
 ||pools-curve.finance^
 ||posts.finance^
 ||poutine.finance^
@@ -780,19 +788,21 @@
 ||raku.finance^
 ||raw.finance^
 ||realview.finance^
+||rebound.finance^
 ||recap.finance^
 ||receive-puffer.finance^
 ||recurring.finance^
 ||reflex.finance^
-||regeneration.finance^
 ||register-kaskade.finance^
 ||register-lombard.finance^
 ||renswap.finance^
 ||rep.finance^
+||reputation.finance^
 ||retrograde.finance^
 ||revoke-pendle.finance^
 ||revolutsupport.finance^
 ||revolve.finance^
+||reward-orbiter.finance^
 ||richmind.finance^
 ||risingsun.finance^
 ||robofi.finance^
@@ -810,6 +820,7 @@
 ||sauce.finance^
 ||savvy.finance^
 ||sblox.finance^
+||sbz.finance^
 ||scene.finance^
 ||sciencebased.finance^
 ||scitech.finance^
@@ -853,6 +864,7 @@
 ||sommellier.finance^
 ||sortmy.finance^
 ||sown.finance^
+||sphrere.finance^
 ||spillway.finance^
 ||splits.finance^
 ||squid-swap.finance^
@@ -880,6 +892,7 @@
 ||stremaflow.finance^
 ||stton.finance^
 ||success26inv.finance^
+||sucre.finance^
 ||sunpump.finance^
 ||super-fest.finance^
 ||superfest.finance^
@@ -906,7 +919,6 @@
 ||symibosis.finance^
 ||symiosis.finance^
 ||symlbiosis.finance^
-||synbiotic.finance^
 ||tagada.finance^
 ||take.finance^
 ||tapstarter.finance^
@@ -935,13 +947,13 @@
 ||titus.finance^
 ||tnrusler.finance^
 ||toad.finance^
+||tokenix.finance^
 ||tombskull.finance^
 ||tonkeeper.finance^
 ||torch.finance^
 ||tortoise.finance^
 ||totell.finance^
 ||towel.finance^
-||trade-markets.finance^
 ||tradelab.finance^
 ||tradenow.finance^
 ||tradeweb.finance^
@@ -996,8 +1008,6 @@
 ||velodrcme.finance^
 ||velodreme.finance^
 ||velodromeswap.finance^
-||velodromne.finance^
-||velordomne.finance^
 ||vergecurrency.finance^
 ||vestor.finance^
 ||vibrome.finance^
@@ -1025,6 +1035,7 @@
 ||wiccoin.finance^
 ||willows.finance^
 ||wine.finance^
+||woof.finance^
 ||workharder.finance^
 ||wrthy.finance^
 ||ww3token.finance^
@@ -1046,6 +1057,7 @@
 ||zaim.finance^
 ||zed.finance^
 ||zekmed.finance^
+||zeno.finance^
 ||zeropoint.finance^
 ||zeusnode.finance^
 ||zhome.finance^

@@ -4,6 +4,7 @@
 ||anom.observer^
 ||antiscam.observer^
 ||bench.observer^
+||bitcoinprice.observer^
 ||bom29toto.observer^
 ||chains.observer^
 ||cheddar.observer^
@@ -16,10 +17,10 @@
 ||geostationary.observer^
 ||gimmaru.observer^
 ||goatparty.observer^
+||issues.observer^
 ||k8s.observer^
 ||konpaku.observer^
 ||language.observer^
-||rfc.observer^
 ||ruminations.observer^
 ||saas.observer^
 ||spin.observer^
