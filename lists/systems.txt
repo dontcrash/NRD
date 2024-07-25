@@ -1,5 +1,3 @@
-||faj.systems^
-||corner.systems^
 ||1111.systems^
 ||3pm.systems^
 ||a24.systems^
@@ -19,6 +17,8 @@
 ||am.systems^
 ||amis.systems^
 ||anthro.systems^
+||anthropo-logic.systems^
+||anthropo-logique.systems^
 ||anticheat.systems^
 ||appliedquantum.systems^
 ||aqc.systems^
@@ -26,6 +26,7 @@
 ||arcadia.systems^
 ||arch.systems^
 ||archtech.systems^
+||arctic.systems^
 ||armitage.systems^
 ||artral.systems^
 ||arx.systems^
@@ -53,7 +54,6 @@
 ||blessed.systems^
 ||brainvex.systems^
 ||brandidentity.systems^
-||brightbox.systems^
 ||britto.systems^
 ||broadcasts.systems^
 ||bsp.systems^
@@ -61,7 +61,6 @@
 ||builditron.systems^
 ||businessinfo.systems^
 ||bytebank.systems^
-||cafee.systems^
 ||capri.systems^
 ||careers.systems^
 ||case.systems^
@@ -81,6 +80,7 @@
 ||cleanex.systems^
 ||cli.systems^
 ||clickdisini.systems^
+||clin.systems^
 ||clodura.systems^
 ||closed.systems^
 ||cloud-9.systems^
@@ -107,6 +107,7 @@
 ||darker.systems^
 ||datacare.systems^
 ||datagang.systems^
+||datasci.systems^
 ||datasolutions.systems^
 ||dbs.systems^
 ||dcg.systems^
@@ -143,6 +144,7 @@
 ||epick.systems^
 ||erebor.systems^
 ||esport.systems^
+||essence.systems^
 ||excalibur.systems^
 ||exitplan.systems^
 ||fade.systems^
@@ -154,6 +156,7 @@
 ||fight.systems^
 ||filtration.systems^
 ||firealarm.systems^
+||flexshopper.systems^
 ||flowenergy.systems^
 ||fnord.systems^
 ||fourxheavy.systems^
@@ -180,7 +183,6 @@
 ||grapes.systems^
 ||greenenergy.systems^
 ||greenfield.systems^
-||gritsoft.systems^
 ||gta.systems^
 ||guilherme.systems^
 ||h-isac.systems^
@@ -192,6 +194,7 @@
 ||hemanth.systems^
 ||highfive.systems^
 ||highperformancehbk.systems^
+||hight.systems^
 ||hitam.systems^
 ||hjonk.systems^
 ||hosted.systems^
@@ -199,7 +202,6 @@
 ||huw.systems^
 ||iapetus.systems^
 ||ihm.systems^
-||iii.systems^
 ||iintelwave.systems^
 ||ili.systems^
 ||illumi.systems^
@@ -209,7 +211,6 @@
 ||industrialcontrol.systems^
 ||industryall.systems^
 ||infomail.systems^
-||infranetix.systems^
 ||inspire.systems^
 ||inspyre-protected.systems^
 ||intrabank.systems^
@@ -237,6 +238,7 @@
 ||leah.systems^
 ||learningbridge.systems^
 ||legaleasy.systems^
+||legendair.systems^
 ||levitate.systems^
 ||limit.systems^
 ||lines360.systems^
@@ -282,8 +284,10 @@
 ||myattendance.systems^
 ||mybank.systems^
 ||myhealth.systems^
+||mypayment.systems^
 ||nanfung.systems^
 ||nannmonai.systems^
+||nat.systems^
 ||naura.systems^
 ||neapovil.systems^
 ||newcogniscience.systems^
@@ -311,12 +315,14 @@
 ||ousia.systems^
 ||overthrow.systems^
 ||pagan.systems^
+||painfree.systems^
 ||palladium.systems^
 ||patient.systems^
 ||pavilionaudio.systems^
 ||payten.systems^
 ||peakperformance.systems^
 ||pedagogue.systems^
+||peek.systems^
 ||perseid.systems^
 ||pesenergy.systems^
 ||plana.systems^
@@ -334,6 +340,7 @@
 ||proposal.systems^
 ||prynt.systems^
 ||psaas.systems^
+||ptt.systems^
 ||punk.systems^
 ||pura.systems^
 ||pushkar.systems^
@@ -347,6 +354,7 @@
 ||recycall.systems^
 ||redivivus.systems^
 ||redkey.systems^
+||redmiong.systems^
 ||reel.systems^
 ||reffect.systems^
 ||register-megaeth.systems^
@@ -408,15 +416,16 @@
 ||stone.systems^
 ||strangermarket.systems^
 ||stratacore.systems^
+||striking.systems^
 ||stronger.systems^
 ||sunray.systems^
 ||sunraycoin.systems^
 ||sunrise.systems^
 ||superhuman.systems^
 ||synapta.systems^
-||synchroniz.systems^
 ||tabby.systems^
 ||telemachine.systems^
+||terrors.systems^
 ||test-dev.systems^
 ||thomas.systems^
 ||thoughtleader.systems^
@@ -427,7 +436,6 @@
 ||towel.systems^
 ||trailing.systems^
 ||trexarmied.systems^
-||tropical.systems^
 ||tutor.systems^
 ||tvcwwtp.systems^
 ||types.systems^
@@ -440,7 +448,6 @@
 ||venueera.systems^
 ||versus.systems^
 ||vicefast.systems^
-||vicnoder.systems^
 ||virtuosity.systems^
 ||visualidentity.systems^
 ||voicesecurity.systems^
@@ -456,6 +463,7 @@
 ||willmott.systems^
 ||wimark.systems^
 ||window.systems^
+||woikanet.systems^
 ||wombo.systems^
 ||xch.systems^
 ||xep.systems^

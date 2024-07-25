@@ -1,6 +1,6 @@
-||app-rango.exchange^
-||assetfinance.exchange^
+||floki.exchange^
 ||0365.exchange^
+||100x.exchange^
 ||123movies.exchange^
 ||1688forex.exchange^
 ||77win.exchange^
@@ -13,6 +13,7 @@
 ||acoin.exchange^
 ||advertise.exchange^
 ||afcom.exchange^
+||agni.exchange^
 ||algotrade.exchange^
 ||alphanaut.exchange^
 ||ango.exchange^
@@ -37,7 +38,6 @@
 ||bdag.exchange^
 ||beat.exchange^
 ||bellum.exchange^
-||bemo.exchange^
 ||bewex.exchange^
 ||bitb.exchange^
 ||bitcash.exchange^
@@ -58,11 +58,13 @@
 ||bursa.exchange^
 ||buybit.exchange^
 ||bvbx.exchange^
+||bxt.exchange^
 ||bybitpool.exchange^
 ||bybitpools.exchange^
 ||bytebank.exchange^
 ||c-currency.exchange^
 ||caanary.exchange^
+||capella.exchange^
 ||capitaldesignweb.exchange^
 ||carnelot.exchange^
 ||cashify.exchange^
@@ -90,9 +92,10 @@
 ||cryptoetf.exchange^
 ||cryptokglobal.exchange^
 ||cryptorus.exchange^
+||csquared.exchange^
 ||cwallet.exchange^
+||cyfer.exchange^
 ||dailytrade.exchange^
-||dapp-ring.exchange^
 ||ddydx.exchange^
 ||ddyx.exchange^
 ||dera.exchange^
@@ -105,6 +108,7 @@
 ||doge-x.exchange^
 ||domo.exchange^
 ||donate.exchange^
+||doodle.exchange^
 ||dooh.exchange^
 ||drexcoin.exchange^
 ||dtcc.exchange^
@@ -126,7 +130,6 @@
 ||etherium.exchange^
 ||exemptliquiditymarket.exchange^
 ||expibot.exchange^
-||express.exchange^
 ||fabs.exchange^
 ||fatf.exchange^
 ||femboys.exchange^
@@ -177,6 +180,7 @@
 ||junction.exchange^
 ||juno.exchange^
 ||kavan.exchange^
+||keyper.exchange^
 ||kibbles.exchange^
 ||kickswap.exchange^
 ||kite.exchange^
@@ -205,7 +209,8 @@
 ||mechanism.exchange^
 ||medicalimaging.exchange^
 ||merchantile.exchange^
-||mft.exchange^
+||migraterocketx.exchange^
+||migrationrocketx.exchange^
 ||mindful.exchange^
 ||mitosis.exchange^
 ||mnee.exchange^
@@ -215,6 +220,7 @@
 ||ms.exchange^
 ||mut.exchange^
 ||mvr.exchange^
+||myholidayhome.exchange^
 ||myr.exchange^
 ||nakamoto-ai.exchange^
 ||nbx.exchange^
@@ -239,6 +245,7 @@
 ||pars.exchange^
 ||peeps.exchange^
 ||pendulum.exchange^
+||pension.exchange^
 ||pepecoineth.exchange^
 ||pera.exchange^
 ||personal-loans.exchange^
@@ -294,7 +301,6 @@
 ||rrango.exchange^
 ||rtpinfowinslots8.exchange^
 ||rune.exchange^
-||rwanet.exchange^
 ||sahara.exchange^
 ||sarafchi.exchange^
 ||sarasotacoin.exchange^
@@ -307,6 +313,8 @@
 ||shadowex.exchange^
 ||shard.exchange^
 ||shibainuclaim.exchange^
+||smarttoken.exchange^
+||smarttokens.exchange^
 ||soap2day.exchange^
 ||socket.exchange^
 ||softskill.exchange^
@@ -330,8 +338,10 @@
 ||superfest-jumper.exchange^
 ||sustainable.exchange^
 ||symmetric.exchange^
+||take.exchange^
 ||tape.exchange^
 ||tartarus.exchange^
+||tdr.exchange^
 ||tenx.exchange^
 ||thebitok.exchange^
 ||thecollective.exchange^
@@ -343,9 +353,11 @@
 ||tokenrealty.exchange^
 ||toman.exchange^
 ||tonkeeper.exchange^
+||tonswap.exchange^
 ||topeak.exchange^
 ||towel.exchange^
 ||treasuries.exchange^
+||tuplan50.exchange^
 ||twtmarket.exchange^
 ||txs.exchange^
 ||typhu88.exchange^
@@ -376,6 +388,7 @@
 ||whitelist-multibit.exchange^
 ||wild-west.exchange^
 ||win55.exchange^
+||woikanet.exchange^
 ||wrthy.exchange^
 ||wwwrango.exchange^
 ||wwwrocketx.exchange^
@@ -385,6 +398,7 @@
 ||xstable.exchange^
 ||yddx.exchange^
 ||ydx.exchange^
+||yogurt.exchange^
 ||ysk.exchange^
 ||ysm.exchange^
 ||zap.exchange^

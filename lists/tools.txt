@@ -1,9 +1,11 @@
-||tep.tools^
+||aipodcast.tools^
+||robotic.tools^
 ||1schema.tools^
 ||250.tools^
 ||9xmovies.tools^
 ||acima.tools^
 ||adclic.tools^
+||aether.tools^
 ||agapantha.tools^
 ||ai2.tools^
 ||ai3.tools^
@@ -48,6 +50,7 @@
 ||cascadia.tools^
 ||cdl.tools^
 ||cdns.tools^
+||chatbot.tools^
 ||churn.tools^
 ||colab.tools^
 ||collaboratory.tools^
@@ -83,7 +86,6 @@
 ||ethical.tools^
 ||f.tools^
 ||fetch.tools^
-||fileview.tools^
 ||filmmakers.tools^
 ||findauto.tools^
 ||firmus.tools^
@@ -106,7 +108,6 @@
 ||grow.tools^
 ||hatsu.tools^
 ||hay88.tools^
-||helix.tools^
 ||hi.tools^
 ||hire.tools^
 ||hobby.tools^
@@ -123,6 +124,7 @@
 ||julien.tools^
 ||kaspian.tools^
 ||kata.tools^
+||kink.tools^
 ||ko-fi.tools^
 ||kolor.tools^
 ||labb.tools^
@@ -131,7 +133,6 @@
 ||leadlegend.tools^
 ||learning.tools^
 ||learnings.tools^
-||lev.tools^
 ||libertylab.tools^
 ||lstahl.tools^
 ||madmobile.tools^
@@ -148,6 +149,7 @@
 ||mypricing.tools^
 ||mywork.tools^
 ||myzen.tools^
+||nrz.tools^
 ||nsa.tools^
 ||numerologytoolbox.tools^
 ||ocl.tools^
@@ -164,7 +166,6 @@
 ||patent.tools^
 ||payments.tools^
 ||peppermint.tools^
-||petr.tools^
 ||pharos.tools^
 ||pitchdeck.tools^
 ||pmf.tools^
@@ -187,7 +188,6 @@
 ||rileys.tools^
 ||rising.tools^
 ||rmq.tools^
-||robotic.tools^
 ||rockforce.tools^
 ||roke.tools^
 ||roland.tools^
@@ -235,6 +235,7 @@
 ||tmd.tools^
 ||tmp.tools^
 ||to2.tools^
+||toptech.tools^
 ||transformation.tools^
 ||treasures.tools^
 ||tryseo.tools^
@@ -246,7 +247,6 @@
 ||untung33.tools^
 ||vention.tools^
 ||vertical-leap.tools^
-||view.tools^
 ||vndal.tools^
 ||vracer.tools^
 ||wallex.tools^
@@ -262,6 +262,7 @@
 ||wildfire.tools^
 ||will.tools^
 ||working.tools^
+||worth.tools^
 ||ww88.tools^
 ||xbt.tools^
 ||xiaobot.tools^
