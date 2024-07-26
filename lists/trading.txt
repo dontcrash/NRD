@@ -37,7 +37,6 @@
 ||dapradar.trading^
 ||deals.trading^
 ||deepspace.trading^
-||digitalasset.trading^
 ||eigenlayer.trading^
 ||events.trading^
 ||fee.trading^
@@ -53,17 +52,13 @@
 ||hinam.trading^
 ||hkqms.trading^
 ||hlpzg.trading^
-||iconic.trading^
 ||ifthen.trading^
 ||iljeb.trading^
 ||ingenuity.trading^
 ||ironfx.trading^
 ||j88.trading^
-||jap.trading^
-||journals.trading^
 ||juno.trading^
 ||lightwave.trading^
-||marketedge.trading^
 ||mc2.trading^
 ||mnee.trading^
 ||mono.trading^
@@ -89,7 +84,6 @@
 ||revel.trading^
 ||revolut-app.trading^
 ||roger.trading^
-||rome.trading^
 ||rosa.trading^
 ||s7u.trading^
 ||scam.trading^
@@ -108,7 +102,6 @@
 ||thomas-wabnig.trading^
 ||thomaswabnig.trading^
 ||toptraders.trading^
-||tpaas.trading^
 ||tria.trading^
 ||trpqn.trading^
 ||trump.trading^
