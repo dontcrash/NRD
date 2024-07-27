@@ -4,7 +4,6 @@
 ||33win.bot^
 ||5min.bot^
 ||88clb.bot^
-||8k.bot^
 ||a101.bot^
 ||a2a.bot^
 ||act.bot^
@@ -14,8 +13,6 @@
 ||ae789.bot^
 ||aella.bot^
 ||aelos.bot^
-||affiliatelink.bot^
-||affiliatewatch.bot^
 ||aglaia.bot^
 ||aiaas.bot^
 ||aiagency.bot^
@@ -25,6 +22,7 @@
 ||aipatentarts.bot^
 ||aiseo.bot^
 ||aisports.bot^
+||akiv.bot^
 ||akses.bot^
 ||alfagame.bot^
 ||allchain.bot^
@@ -38,6 +36,7 @@
 ||ampelos.bot^
 ||anakin.bot^
 ||ancestor.bot^
+||angeliccreations.bot^
 ||animum.bot^
 ||antegenai.bot^
 ||apache.bot^
@@ -49,9 +48,11 @@
 ||arbiter.bot^
 ||askswamiji.bot^
 ||assistingeinstein.bot^
+||astrolive.bot^
 ||atenda.bot^
 ||atro.bot^
 ||atticus.bot^
+||autoblogger.bot^
 ||automator.bot^
 ||auv.bot^
 ||avenger.bot^
@@ -59,7 +60,6 @@
 ||bagoodex.bot^
 ||bakkt.bot^
 ||basebooster.bot^
-||basil.bot^
 ||belisama.bot^
 ||bhm.bot^
 ||bia.bot^
@@ -128,6 +128,7 @@
 ||cloudchat.bot^
 ||cloudia.bot^
 ||cn.bot^
+||coconut.bot^
 ||cognitiveanalytics.bot^
 ||cointap.bot^
 ||cola.bot^
@@ -158,7 +159,6 @@
 ||deepthink.bot^
 ||deeptrust.bot^
 ||dexnova.bot^
-||dgen.bot^
 ||diagram.bot^
 ||dictate.bot^
 ||dictator.bot^
@@ -178,7 +178,6 @@
 ||drycargo.bot^
 ||duco.bot^
 ||duelist.bot^
-||dwvgaming.bot^
 ||ebiz.bot^
 ||edifier.bot^
 ||edoctor.bot^
@@ -228,6 +227,7 @@
 ||gassy.bot^
 ||gauge.bot^
 ||gazelle.bot^
+||geekswap.bot^
 ||gelato.bot^
 ||geneva.bot^
 ||gennai.bot^
@@ -257,7 +257,6 @@
 ||goshawk.bot^
 ||govt.bot^
 ||grams.bot^
-||graphdex.bot^
 ||greenbelt.bot^
 ||greenpump.bot^
 ||gtrag.bot^
@@ -272,6 +271,7 @@
 ||hik.bot^
 ||hitachi.bot^
 ||hk.bot^
+||hkbooking.bot^
 ||hmi.bot^
 ||hml.bot^
 ||holatravel.bot^
@@ -316,7 +316,6 @@
 ||isoft.bot^
 ||jaka.bot^
 ||janestreet.bot^
-||jeansalata.bot^
 ||jedai.bot^
 ||jedd.bot^
 ||jenai.bot^
@@ -338,7 +337,7 @@
 ||kirin.bot^
 ||klik.bot^
 ||knows.bot^
-||knox.bot^
+||kosher.bot^
 ||kryptos.bot^
 ||kuavo.bot^
 ||kylin.bot^
@@ -385,8 +384,6 @@
 ||meditativemind.bot^
 ||medium.bot^
 ||mega.bot^
-||melanesalata.bot^
-||melaniemunyenpong.bot^
 ||memebot.bot^
 ||menus.bot^
 ||metav.bot^
@@ -401,10 +398,12 @@
 ||minter.bot^
 ||miracle.bot^
 ||miraos.bot^
+||mitra.bot^
 ||mmf.bot^
 ||modelo.bot^
 ||mohit.bot^
 ||molecule.bot^
+||mollow.bot^
 ||molsoncoors.bot^
 ||momenta.bot^
 ||mooney.bot^
@@ -426,9 +425,9 @@
 ||nemesis.bot^
 ||neoai.bot^
 ||net88.bot^
+||netshow.bot^
 ||newthread.bot^
 ||nextgweb3.bot^
-||nftai.bot^
 ||ni.bot^
 ||nidec.bot^
 ||nigel.bot^
@@ -440,12 +439,15 @@
 ||noai.bot^
 ||nomoplus.bot^
 ||noodle.bot^
+||nox.bot^
 ||nu.bot^
 ||nucar.bot^
 ||num.bot^
 ||nursing.bot^
+||nyx.bot^
 ||octobits.bot^
 ||ogo.bot^
+||oh-my.bot^
 ||open-gpu.bot^
 ||openloong.bot^
 ||oribeanexuspulse.bot^
@@ -486,8 +488,10 @@
 ||polisitogel.bot^
 ||polyglot.bot^
 ||pond.bot^
+||ponk.bot^
 ||porcupine.bot^
 ||potty.bot^
+||present.bot^
 ||prey.bot^
 ||primo.bot^
 ||privatejet.bot^
@@ -497,7 +501,6 @@
 ||prop.bot^
 ||protection.bot^
 ||protrader.bot^
-||psg.bot^
 ||puffer.bot^
 ||puffin.bot^
 ||puller.bot^
@@ -538,6 +541,7 @@
 ||riga365.bot^
 ||riskassessment.bot^
 ||rng.bot^
+||roastme.bot^
 ||roban.bot^
 ||ruler.bot^
 ||runelite.bot^
@@ -587,7 +591,6 @@
 ||softbank.bot^
 ||soicau2023.bot^
 ||solbooster.bot^
-||solfarmer.bot^
 ||solgen.bot^
 ||southwest.bot^
 ||spareparts.bot^
@@ -597,6 +600,7 @@
 ||sports.bot^
 ||spots.bot^
 ||spro.bot^
+||spyder.bot^
 ||ssdc.bot^
 ||ssps.bot^
 ||stadtwerke.bot^
@@ -605,6 +609,7 @@
 ||steadyguard.bot^
 ||steamer.bot^
 ||stool.bot^
+||storytime.bot^
 ||stps.bot^
 ||strawberry.bot^
 ||streamcord.bot^
@@ -652,6 +657,8 @@
 ||titties.bot^
 ||titty.bot^
 ||tli.bot^
+||tmi.bot^
+||tokensoar.bot^
 ||tomocat.bot^
 ||tonbooster.bot^
 ||tongame.bot^
@@ -663,12 +670,13 @@
 ||topcoin.bot^
 ||torero.bot^
 ||toshiba.bot^
+||toystory.bot^
 ||travelinsurance.bot^
+||trend.bot^
 ||troop.bot^
 ||trumpforceusa.bot^
 ||trumpsear.bot^
 ||trumpvance.bot^
-||tshop.bot^
 ||tt.bot^
 ||tvai.bot^
 ||tvbot.bot^
@@ -684,6 +692,7 @@
 ||unspokenstudios.bot^
 ||uoni.bot^
 ||uplevel.bot^
+||upngo.bot^
 ||urbn.bot^
 ||userr.bot^
 ||uxer.bot^
@@ -717,6 +726,7 @@
 ||watchman.bot^
 ||watts.bot^
 ||weasel.bot^
+||weatherman.bot^
 ||webpros.bot^
 ||webtech.bot^
 ||webtree.bot^

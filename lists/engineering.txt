@@ -4,7 +4,6 @@
 ||aidata.engineering^
 ||aiengineering.engineering^
 ||airspeed.engineering^
-||an.engineering^
 ||analog.engineering^
 ||anthropo-logic.engineering^
 ||anthropo-logique.engineering^
@@ -18,6 +17,7 @@
 ||azureai.engineering^
 ||babylist.engineering^
 ||bb.engineering^
+||beans.engineering^
 ||beta.engineering^
 ||bifrost.engineering^
 ||bomb.engineering^
@@ -46,6 +46,7 @@
 ||dickerson.engineering^
 ||doculife.engineering^
 ||dunedin.engineering^
+||dupertuis.engineering^
 ||ecovision.engineering^
 ||eerie.engineering^
 ||ei.engineering^
@@ -54,6 +55,7 @@
 ||feistmantl.engineering^
 ||fizzy.engineering^
 ||flowtech.engineering^
+||fri.engineering^
 ||fvl.engineering^
 ||garlic.engineering^
 ||gemini.engineering^
@@ -61,6 +63,7 @@
 ||geslub.engineering^
 ||gisborne.engineering^
 ||godel.engineering^
+||gpt.engineering^
 ||grand.engineering^
 ||grandst.engineering^
 ||gravitas.engineering^
@@ -84,6 +87,8 @@
 ||luma.engineering^
 ||mafika.engineering^
 ||mahouk.engineering^
+||marketing.engineering^
+||masterful.engineering^
 ||mcknight.engineering^
 ||me-inc.engineering^
 ||metalock.engineering^
@@ -102,7 +107,6 @@
 ||palmerstonnorth.engineering^
 ||paloalto.engineering^
 ||pathway.engineering^
-||pcb.engineering^
 ||philo.engineering^
 ||pingu.engineering^
 ||pitt.engineering^
@@ -113,12 +117,9 @@
 ||rainbow.engineering^
 ||realityfit.engineering^
 ||redpanda.engineering^
-||reynolds.engineering^
 ||rfx.engineering^
 ||ripe.engineering^
-||rsi.engineering^
 ||russ.engineering^
-||satellite.engineering^
 ||securities.engineering^
 ||shoreline.engineering^
 ||sk.engineering^

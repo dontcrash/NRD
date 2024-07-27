@@ -15,11 +15,10 @@
 ||agrousd.exchange^
 ||algotrade.exchange^
 ||alphanaut.exchange^
+||angelvest.exchange^
 ||ango.exchange^
 ||aom.exchange^
-||app-catalyst.exchange^
 ||app-jojo.exchange^
-||appcatalyst.exchange^
 ||appjojo.exchange^
 ||arbx.exchange^
 ||arcus.exchange^
@@ -35,6 +34,7 @@
 ||bali.exchange^
 ||bare.exchange^
 ||base-backpack.exchange^
+||baseswap.exchange^
 ||bcglobal.exchange^
 ||bdag.exchange^
 ||beat.exchange^
@@ -48,7 +48,6 @@
 ||bli.exchange^
 ||blockchainoffice.exchange^
 ||blockchair.exchange^
-||blockdag.exchange^
 ||bobba.exchange^
 ||brc.exchange^
 ||breakthechain.exchange^
@@ -72,7 +71,6 @@
 ||cashify.exchange^
 ||catdogbsc.exchange^
 ||cdz.exchange^
-||chatgptfinancial.exchange^
 ||cherrybomb.exchange^
 ||chipats.exchange^
 ||chiral.exchange^
@@ -94,9 +92,11 @@
 ||cryptobay.exchange^
 ||cryptobuy.exchange^
 ||cryptoetf.exchange^
+||cryptogpt.exchange^
 ||cryptokglobal.exchange^
 ||cryptoqs.exchange^
 ||cryptorus.exchange^
+||cryptxpay.exchange^
 ||csquared.exchange^
 ||cwallet.exchange^
 ||cyfer.exchange^
@@ -114,6 +114,7 @@
 ||doge-x.exchange^
 ||domo.exchange^
 ||donate.exchange^
+||dontgetrekt.exchange^
 ||doodle.exchange^
 ||dooh.exchange^
 ||drexcoin.exchange^
@@ -135,6 +136,7 @@
 ||esx.exchange^
 ||etherium.exchange^
 ||exemptliquiditymarket.exchange^
+||exwhite.exchange^
 ||fabs.exchange^
 ||fatf.exchange^
 ||femboys.exchange^
@@ -148,6 +150,7 @@
 ||gen.exchange^
 ||generate.exchange^
 ||gfdscazb-cloud.exchange^
+||gigabit.exchange^
 ||giveaway.exchange^
 ||global-crypto.exchange^
 ||goatm.exchange^
@@ -156,7 +159,6 @@
 ||goltoken.exchange^
 ||governance-multibit.exchange^
 ||gpt.exchange^
-||gptfinancial.exchange^
 ||grogucoin.exchange^
 ||gswap.exchange^
 ||h2green.exchange^
@@ -168,12 +170,14 @@
 ||helloworld.exchange^
 ||herald.exchange^
 ||hestia.exchange^
+||hh.exchange^
 ||hobba.exchange^
 ||hourly.exchange^
 ||hydrogengreen.exchange^
 ||igamble247zonavip.exchange^
 ||immutable.exchange^
 ||infinitely.exchange^
+||infinityworldtechnology.exchange^
 ||io-connect-wallet.exchange^
 ||ippica.exchange^
 ||izi.exchange^
@@ -209,9 +213,9 @@
 ||mansion.exchange^
 ||mantra.exchange^
 ||maximus.exchange^
+||mcurrency.exchange^
 ||mcw.exchange^
 ||mechanism.exchange^
-||medicalimaging.exchange^
 ||merchantile.exchange^
 ||migraterocketx.exchange^
 ||migrationrocketx.exchange^
@@ -220,9 +224,7 @@
 ||mnee.exchange^
 ||momento.exchange^
 ||moonkey.exchange^
-||mot.exchange^
 ||mql5.exchange^
-||ms.exchange^
 ||mumu.exchange^
 ||mut.exchange^
 ||mvr.exchange^
@@ -258,6 +260,7 @@
 ||pera.exchange^
 ||piastrex.exchange^
 ||pinetwork.exchange^
+||pit.exchange^
 ||pixelverse.exchange^
 ||pornhub.exchange^
 ||premarketlisting.exchange^
@@ -267,7 +270,6 @@
 ||pro-apex.exchange^
 ||proposal.exchange^
 ||protonswap.exchange^
-||pxp.exchange^
 ||pyramid.exchange^
 ||qkd.exchange^
 ||qood.exchange^
@@ -292,7 +294,6 @@
 ||rcmses.exchange^
 ||rcoketx.exchange^
 ||realwin.exchange^
-||reinsurance.exchange^
 ||richmind.exchange^
 ||rmib.exchange^
 ||rnago.exchange^
@@ -309,10 +310,8 @@
 ||rune.exchange^
 ||sahara.exchange^
 ||sarafchi.exchange^
-||sarasotacoin.exchange^
 ||satoshivm.exchange^
 ||sblox.exchange^
-||sbp.exchange^
 ||scitech.exchange^
 ||scitechcapital.exchange^
 ||services.exchange^
@@ -351,12 +350,12 @@
 ||tdr.exchange^
 ||tenex.exchange^
 ||tenx.exchange^
+||test-cryptxpay.exchange^
 ||thebitok.exchange^
 ||thecollective.exchange^
 ||theinstant.exchange^
 ||theoverflow.exchange^
 ||thestocksite.exchange^
-||titan.exchange^
 ||tokenrealty.exchange^
 ||toman.exchange^
 ||tonkeeper.exchange^
@@ -395,7 +394,6 @@
 ||wfi.exchange^
 ||whitelist-multibit.exchange^
 ||wif.exchange^
-||wild-west.exchange^
 ||win55.exchange^
 ||woikanet.exchange^
 ||wrthy.exchange^

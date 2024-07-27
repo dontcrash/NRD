@@ -25,7 +25,6 @@
 ||automations.tools^
 ||awry.tools^
 ||azame.tools^
-||backgroundremover.tools^
 ||backlog.tools^
 ||bahn.tools^
 ||balance.tools^
@@ -57,7 +56,6 @@
 ||contacts.tools^
 ||converter.tools^
 ||convertmim.tools^
-||coverletter.tools^
 ||customllm.tools^
 ||cxa.tools^
 ||dakota.tools^
@@ -80,7 +78,6 @@
 ||etable.tools^
 ||eternal.tools^
 ||ethical.tools^
-||f.tools^
 ||fetch.tools^
 ||filmmakers.tools^
 ||firmus.tools^
@@ -95,7 +92,6 @@
 ||gitdot.tools^
 ||gleap.tools^
 ||goodboy.tools^
-||govind.tools^
 ||graphic.tools^
 ||grow.tools^
 ||hatsu.tools^
@@ -138,7 +134,6 @@
 ||myagent.tools^
 ||mypay.tools^
 ||mypricing.tools^
-||mywork.tools^
 ||myzen.tools^
 ||nrz.tools^
 ||nsa.tools^
@@ -160,14 +155,12 @@
 ||pharos.tools^
 ||pitchdeck.tools^
 ||pmf.tools^
-||pornai.tools^
 ||powerlink.tools^
 ||powersite.tools^
 ||ppg.tools^
 ||professions.tools^
 ||proofs.tools^
 ||puma.tools^
-||qqcuan.tools^
 ||questionai.tools^
 ||rac.tools^
 ||rafel.tools^
@@ -177,12 +170,9 @@
 ||remove.tools^
 ||rentacenter.tools^
 ||rileys.tools^
-||rising.tools^
 ||rmq.tools^
-||rockforce.tools^
 ||roke.tools^
 ||roland.tools^
-||savefrom.tools^
 ||scada.tools^
 ||scanx.tools^
 ||scrapetxt.tools^
@@ -204,7 +194,6 @@
 ||spool.tools^
 ||spurt.tools^
 ||stepup.tools^
-||sunshine.tools^
 ||sustainability.tools^
 ||sweetspot.tools^
 ||tagmanager.tools^
@@ -226,7 +215,6 @@
 ||treasures.tools^
 ||tryseo.tools^
 ||ttt.tools^
-||tun.tools^
 ||twcv.tools^
 ||typeflowai.tools^
 ||uksg.tools^
@@ -254,7 +242,6 @@
 ||xlayer.tools^
 ||xtep.tools^
 ||yieldfarm.tools^
-||yixian.tools^
 ||yiyi.tools^
 ||youtubehashtaggenerator.tools^
 ||zapdev.tools^

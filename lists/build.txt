@@ -7,7 +7,9 @@
 ||aerodrome.build^
 ||ai.build^
 ||aiio.build^
+||allio.build^
 ||altadefinizione.build^
+||alyante.build^
 ||arbitrado.build^
 ||archistruct.build^
 ||ascent.build^
@@ -17,6 +19,7 @@
 ||builditron.build^
 ||cabicad.build^
 ||carterconstruction.build^
+||centraloregon.build^
 ||chats.build^
 ||chci.build^
 ||cherry.build^
@@ -48,6 +51,7 @@
 ||gaurav.build^
 ||getnewfloors.build^
 ||goldenoak.build^
+||grannyflats.build^
 ||grippr.build^
 ||hbj.build^
 ||hemp2.build^
@@ -78,6 +82,7 @@
 ||operations.build^
 ||parallax.build^
 ||pickard.build^
+||pinwheel.build^
 ||poppins.build^
 ||pornhub.build^
 ||projectpro.build^
@@ -95,6 +100,7 @@
 ||riseup.build^
 ||robogarage.build^
 ||sense.build^
+||shellprotocol.build^
 ||siteimprove.build^
 ||skip.build^
 ||smarthomedesign.build^
@@ -107,7 +113,7 @@
 ||symbiotic.build^
 ||tactical.build^
 ||tee.build^
-||tep.build^
+||terrastrada.build^
 ||theshop.build^
 ||trouver.build^
 ||turnkey3d.build^
@@ -119,6 +125,7 @@
 ||uniquil.build^
 ||urbe.build^
 ||velodrome.build^
+||visionary.build^
 ||voloco.build^
 ||voron.build^
 ||watsonx.build^
