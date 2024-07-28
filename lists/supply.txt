@@ -22,10 +22,12 @@
 ||cobra.supply^
 ||coins.supply^
 ||components.supply^
+||designers.supply^
 ||dimensions.supply^
 ||ditched.supply^
 ||driftwood.supply^
 ||ecoh.supply^
+||fairbank.supply^
 ||fb88.supply^
 ||foamboard.supply^
 ||framerkit.supply^
@@ -83,6 +85,7 @@
 ||scl.supply^
 ||search.supply^
 ||sgl.supply^
+||sheer.supply^
 ||shipchandler.supply^
 ||shortcut.supply^
 ||skyhigh.supply^

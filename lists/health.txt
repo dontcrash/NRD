@@ -17,7 +17,6 @@
 ||adopt.health^
 ||advancedfoot.health^
 ||aerisairway.health^
-||afterglow.health^
 ||aiforgood.health^
 ||aim4.health^
 ||aionic.health^
@@ -35,7 +34,6 @@
 ||aonic.health^
 ||aosg.health^
 ||apexintegrative.health^
-||arcaya.health^
 ||arcticslope.health^
 ||artisanal.health^
 ||asthmafit.health^
@@ -54,6 +52,7 @@
 ||ayurvedic-intelligence.health^
 ||ayurvedicintelligence.health^
 ||b-online.health^
+||bainmed.health^
 ||bairn.health^
 ||bajaj.health^
 ||balancedbrain.health^
@@ -102,6 +101,7 @@
 ||clearmedixpharmacy.health^
 ||clinica.health^
 ||cliniscan.health^
+||coachjacquie.health^
 ||coachkathryn.health^
 ||coffee-burn.health^
 ||coffeeburn.health^
@@ -114,10 +114,11 @@
 ||crimson.health^
 ||curaparc.health^
 ||curapersonalis.health^
-||curesta.health^
+||dancingwithdestiny.health^
 ||darna.health^
 ||dashs.health^
 ||dataforgood.health^
+||datashare.health^
 ||davon.health^
 ||decentral.health^
 ||delve.health^
@@ -130,7 +131,6 @@
 ||docsaab.health^
 ||doctorderm.health^
 ||doctorjonesbignaturals.health^
-||doctort.health^
 ||doctortalks.health^
 ||doctortransitions.health^
 ||docus.health^
@@ -140,6 +140,7 @@
 ||drjonesbignaturals.health^
 ||drjonesnaturals.health^
 ||droptheweight.health^
+||dryaskin.health^
 ||dumbo.health^
 ||dwoh.health^
 ||dynamis.health^
@@ -180,6 +181,7 @@
 ||foodandgutbugs.health^
 ||foodbioheal.health^
 ||forbidden.health^
+||foreman.health^
 ||forests.health^
 ||forwardpsychology.health^
 ||founding.health^
@@ -187,7 +189,6 @@
 ||freedoctor.health^
 ||freshahead.health^
 ||frimpomaa.health^
-||fuelyourlife.health^
 ||fulcrum.health^
 ||funbreak.health^
 ||functionalmedicinemckinney.health^
@@ -202,15 +203,17 @@
 ||glowswiss.health^
 ||gobi.health^
 ||goldentherapy.health^
-||goodbetter.health^
 ||goodly.health^
+||goodoctors.health^
 ||gosmart.health^
 ||grandjunction.health^
 ||gratitudesummit.health^
 ||gravity.health^
 ||greensignals.health^
+||groundbreakertherapy.health^
 ||grounding.health^
 ||h-2.health^
+||habwell.health^
 ||harmonyhealing.health^
 ||healingharmony.health^
 ||health-embassy.health^
@@ -254,6 +257,7 @@
 ||infostride.health^
 ||infusmart.health^
 ||innerbalancepsychotherapy.health^
+||innovation360.health^
 ||integraphysicaltherapy.health^
 ||integrativeskin.health^
 ||interpersonal.health^
@@ -267,27 +271,30 @@
 ||iqon.health^
 ||itsupport.health^
 ||ituahospital.health^
+||jailbreak.health^
 ||jointgenesis.health^
 ||jolly.health^
 ||journa.health^
-||journey2.health^
 ||journeywell.health^
 ||kaigerbe.health^
 ||kamla.health^
 ||kenya-hie.health^
 ||kenz.health^
 ||keyper.health^
+||kindwater.health^
 ||kingpinconsulting.health^
 ||kirra.health^
 ||knose.health^
 ||knowme.health^
 ||lagreen.health^
+||languagehub.health^
 ||laurajane.health^
 ||lausd.health^
 ||lavender.health^
 ||lead.health^
 ||leadersin.health^
 ||leaffilter.health^
+||leanlife.health^
 ||legacylife.health^
 ||letyourlightshine.health^
 ||lies.health^
@@ -300,6 +307,7 @@
 ||lohman.health^
 ||lolo.health^
 ||longevityclinic.health^
+||longevitypeptides.health^
 ||lotetreecommunity.health^
 ||lymediseaseinterventioncentersofamerica.health^
 ||lymediseasetreatmentcentersofamerica.health^
@@ -320,6 +328,7 @@
 ||medgevity.health^
 ||medicalcare.health^
 ||medicinecabinet.health^
+||mediclinic.health^
 ||medinvent.health^
 ||mediway.health^
 ||medrank.health^
@@ -332,6 +341,7 @@
 ||memy.health^
 ||menofit.health^
 ||merit.health^
+||messiah.health^
 ||meter.health^
 ||mightyminds.health^
 ||misfit.health^
@@ -355,6 +365,7 @@
 ||mysacredspace.health^
 ||mytrt.health^
 ||mywellnesslink.health^
+||naext.health^
 ||nakedground.health^
 ||nama.health^
 ||naru.health^
@@ -378,6 +389,7 @@
 ||nextdigital.health^
 ||nexuswoundconsultants.health^
 ||niceguy.health^
+||niki.health^
 ||noosi.health^
 ||nu-u.health^
 ||nursingaidservices.health^
@@ -413,6 +425,7 @@
 ||ooboor.health^
 ||opening.health^
 ||ophtha.health^
+||optimiseyou.health^
 ||oqio.health^
 ||orova.health^
 ||orthochiro.health^
@@ -426,7 +439,6 @@
 ||peaceful.health^
 ||perfectposture.health^
 ||perimeter.health^
-||perpetua.health^
 ||pharmacloud-rx.health^
 ||pharmaplug.health^
 ||pland.health^
@@ -445,7 +457,6 @@
 ||punto.health^
 ||puravive.health^
 ||purform.health^
-||quantumcare.health^
 ||rada.health^
 ||rainbowcare.health^
 ||ranfort.health^
@@ -458,6 +469,7 @@
 ||reimaginingglobal.health^
 ||releaf.health^
 ||relearn.health^
+||relievia.health^
 ||remain.health^
 ||resole.health^
 ||resonancewaves.health^
@@ -504,6 +516,7 @@
 ||sproutergy.health^
 ||st-camillus.health^
 ||starbucksnutritioncalculator.health^
+||stlawrence.health^
 ||strongward.health^
 ||suade.health^
 ||success.health^
@@ -575,13 +588,15 @@
 ||vrtherapy.health^
 ||vuna.health^
 ||vvgo.health^
+||warrencityhospital.health^
 ||wellhealthpremium.health^
 ||wellnessportraits.health^
 ||wellpremiumbenefits.health^
 ||wellpremiummedical.health^
+||welmonde.health^
+||welovefoot.health^
 ||whitelotuswellness.health^
 ||wholeness.health^
-||wholeself.health^
 ||wiregrass.health^
 ||woods.health^
 ||worldmind.health^
@@ -593,7 +608,6 @@
 ||yolisticmedicine.health^
 ||yoniverse.health^
 ||yourbeauty.health^
-||youvii.health^
 ||yume.health^
 ||zahra.health^
 ||zanskar.health^

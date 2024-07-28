@@ -27,13 +27,13 @@
 ||cardmitment.cards^
 ||chatgpt.cards^
 ||choicecard.cards^
-||client.cards^
 ||clients.cards^
 ||clover.cards^
 ||colors.cards^
 ||contested.cards^
 ||cosmic.cards^
 ||creatornetwork.cards^
+||creditdebt.cards^
 ||crowd.cards^
 ||cryptocurrencygift.cards^
 ||dark.cards^
@@ -44,9 +44,9 @@
 ||depot.cards^
 ||discountbank.cards^
 ||divis.cards^
-||dmi.cards^
 ||dns.cards^
 ||domnia.cards^
+||donaldtrump.cards^
 ||drapples.cards^
 ||e2.cards^
 ||eftposcard.cards^
@@ -55,8 +55,8 @@
 ||feedbet.cards^
 ||fehu.cards^
 ||fleur.cards^
-||funding.cards^
 ||gene.cards^
+||getkamala.cards^
 ||ghesta.cards^
 ||gifft.cards^
 ||giftus.cards^
@@ -64,6 +64,7 @@
 ||goodjuju.cards^
 ||gpt.cards^
 ||hamsterkombat.cards^
+||hello88.cards^
 ||hk01.cards^
 ||iben.cards^
 ||ids.cards^
@@ -84,7 +85,6 @@
 ||limbo.cards^
 ||lnk.cards^
 ||lollypop.cards^
-||longtail.cards^
 ||loot.cards^
 ||luxury.cards^
 ||maga.cards^
@@ -110,11 +110,11 @@
 ||qards.cards^
 ||rail.cards^
 ||raise.cards^
+||rank.cards^
 ||raw.cards^
 ||reach.cards^
 ||resiliency.cards^
 ||rta.cards^
-||rzx.cards^
 ||sandwich.cards^
 ||soulbound.cards^
 ||springvalley.cards^
@@ -137,10 +137,8 @@
 ||traveller.cards^
 ||travelwallet.cards^
 ||treet.cards^
-||trek.cards^
 ||trykeep.cards^
 ||ufa.cards^
-||ulp.cards^
 ||unconditionallove.cards^
 ||ungame.cards^
 ||vanquis.cards^

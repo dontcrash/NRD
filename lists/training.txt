@@ -17,7 +17,9 @@
 ||aiquest.training^
 ||air-dds.training^
 ||amr.training^
+||amrap.training^
 ||apeirogon.training^
+||aplus.training^
 ||appliedquantum.training^
 ||aqr8.training^
 ||arba.training^
@@ -41,6 +43,7 @@
 ||bluetick.training^
 ||blutick.training^
 ||bridgefit.training^
+||brightmind.training^
 ||brodies.training^
 ||builditron.training^
 ||businesscoaching.training^
@@ -48,6 +51,7 @@
 ||cannserve.training^
 ||changeperspectiveyoga.training^
 ||chess.training^
+||chtc.training^
 ||clientflow.training^
 ||cloudcertification.training^
 ||coast.training^
@@ -77,6 +81,7 @@
 ||driverhire.training^
 ||eagle.training^
 ||egtc.training^
+||ela.training^
 ||elucidate.training^
 ||energia.training^
 ||energyfit.training^
@@ -187,6 +192,7 @@
 ||orbisconnect.training^
 ||outcomecampusconnect.training^
 ||outcomeconnect.training^
+||pacer.training^
 ||passpmp.training^
 ||pawsitivedog.training^
 ||permit.training^
@@ -198,7 +204,9 @@
 ||projectmanagercert.training^
 ||promaster.training^
 ||promasterev.training^
+||proshot.training^
 ||proxmox.training^
+||psychologicalsafety.training^
 ||quicksales.training^
 ||quintet.training^
 ||raincityathletics.training^
