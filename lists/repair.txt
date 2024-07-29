@@ -14,7 +14,6 @@
 ||commercialheating.repair^
 ||commercialroof.repair^
 ||computerledger.repair^
-||database.repair^
 ||datacenter.repair^
 ||easyphone.repair^
 ||ee88.repair^
@@ -34,7 +33,6 @@
 ||hart.repair^
 ||hightechappliance.repair^
 ||iceriver.repair^
-||industrial.repair^
 ||industrialmachine.repair^
 ||industrialmachinery.repair^
 ||issaquah.repair^
@@ -69,14 +67,11 @@
 ||sarasotagaragedoor.repair^
 ||secure.repair^
 ||spatialmemory.repair^
-||st.repair^
 ||stpaulgaragedoor.repair^
 ||stpaulroof.repair^
 ||teko.repair^
 ||thrivecredit.repair^
-||tp88.repair^
 ||turnkeyauto.repair^
-||usgaragedoor.repair^
 ||vote.repair^
 ||wego2u.repair^
 ||winecooler.repair^
