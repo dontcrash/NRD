@@ -40,10 +40,13 @@
 ||binancesupport.exchange^
 ||bitb.exchange^
 ||bitcash.exchange^
+||bitiqs.exchange^
 ||bitoqs.exchange^
 ||blackrockinu.exchange^
+||blackx.exchange^
 ||bladeswap.exchange^
 ||blakbox.exchange^
+||blerb.exchange^
 ||bli.exchange^
 ||blockchainoffice.exchange^
 ||blockchair.exchange^
@@ -57,6 +60,7 @@
 ||bursa.exchange^
 ||buybit.exchange^
 ||bvbx.exchange^
+||bxi.exchange^
 ||bxt.exchange^
 ||bybitpool.exchange^
 ||bybitpools.exchange^
@@ -68,6 +72,7 @@
 ||carnelot.exchange^
 ||cashify.exchange^
 ||catdogbsc.exchange^
+||catswap.exchange^
 ||cdz.exchange^
 ||cherrybomb.exchange^
 ||chipats.exchange^
@@ -89,6 +94,7 @@
 ||crownbullion.exchange^
 ||cryptobay.exchange^
 ||cryptobuy.exchange^
+||cryptocom.exchange^
 ||cryptoetf.exchange^
 ||cryptogpt.exchange^
 ||cryptokglobal.exchange^
@@ -155,6 +161,7 @@
 ||freeriver.exchange^
 ||fuclaude.exchange^
 ||fuji.exchange^
+||fum.exchange^
 ||gamersx.exchange^
 ||gen.exchange^
 ||generate.exchange^
@@ -168,7 +175,6 @@
 ||goltoken.exchange^
 ||governance-multibit.exchange^
 ||gpt.exchange^
-||grogucoin.exchange^
 ||gswap.exchange^
 ||h2green.exchange^
 ||hamster-kombat.exchange^
@@ -192,6 +198,7 @@
 ||io-connect-wallet.exchange^
 ||ippica.exchange^
 ||izi.exchange^
+||iziswap.exchange^
 ||jebi.exchange^
 ||jumprer.exchange^
 ||junction.exchange^
@@ -205,9 +212,9 @@
 ||ku11.exchange^
 ||kubank.exchange^
 ||kubet77.exchange^
+||kuru.exchange^
 ||launch.exchange^
 ||laundry.exchange^
-||liqio.exchange^
 ||localstellar.exchange^
 ||loki.exchange^
 ||lombard.exchange^
@@ -215,7 +222,6 @@
 ||luckywin.exchange^
 ||lumos.exchange^
 ||luunar.exchange^
-||lvr.exchange^
 ||lyra.exchange^
 ||macquarie.exchange^
 ||mansion.exchange^
@@ -250,6 +256,7 @@
 ||octo.exchange^
 ||ok9.exchange^
 ||omni-apex.exchange^
+||omnicoin.exchange^
 ||onemarket.exchange^
 ||oneswipe.exchange^
 ||openbook.exchange^
@@ -262,6 +269,8 @@
 ||paidwalletethereum.exchange^
 ||parabolic.exchange^
 ||pars.exchange^
+||paul.exchange^
+||payfi.exchange^
 ||pendulum.exchange^
 ||pension.exchange^
 ||pepecoineth.exchange^
@@ -312,7 +321,6 @@
 ||scitechcapital.exchange^
 ||services.exchange^
 ||shadowex.exchange^
-||shard.exchange^
 ||shibainuclaim.exchange^
 ||shui.exchange^
 ||smarttoken.exchange^
@@ -343,6 +351,7 @@
 ||tape.exchange^
 ||tartarus.exchange^
 ||tdr.exchange^
+||teamsupport.exchange^
 ||tenex.exchange^
 ||tenx.exchange^
 ||test-cryptxpay.exchange^
@@ -369,6 +378,7 @@
 ||untitled.exchange^
 ||urbaninnovation.exchange^
 ||ushome.exchange^
+||utahstock.exchange^
 ||valu.exchange^
 ||vanso.exchange^
 ||vaporents.exchange^
@@ -387,6 +397,7 @@
 ||watsonx.exchange^
 ||web-base-bridge.exchange^
 ||web-defillama.exchange^
+||web4.exchange^
 ||web6.exchange^
 ||webdevelopers.exchange^
 ||wfi.exchange^
@@ -394,6 +405,7 @@
 ||wif.exchange^
 ||win55.exchange^
 ||woikanet.exchange^
+||world-coin.exchange^
 ||wrthy.exchange^
 ||wwwrocketx.exchange^
 ||xarnft.exchange^

@@ -13,6 +13,8 @@
 ||call.voyage^
 ||campaign.voyage^
 ||clip.voyage^
+||destinationdjerba.voyage^
+||destinationjerba.voyage^
 ||don.voyage^
 ||drive.voyage^
 ||files.voyage^
@@ -24,6 +26,7 @@
 ||holidays.voyage^
 ||icons.voyage^
 ||islands.voyage^
+||jerba.voyage^
 ||kosher.voyage^
 ||log.voyage^
 ||login.voyage^
@@ -48,6 +51,8 @@
 ||stake.voyage^
 ||start.voyage^
 ||sup.voyage^
+||superyacht.voyage^
+||superyachts.voyage^
 ||support.voyage^
 ||table.voyage^
 ||tas.voyage^
