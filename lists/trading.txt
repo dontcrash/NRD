@@ -31,6 +31,7 @@
 ||eigenlayer.trading^
 ||events.trading^
 ||fee.trading^
+||firedex.trading^
 ||fomo.trading^
 ||fuel.trading^
 ||fumlp.trading^
@@ -48,10 +49,12 @@
 ||iljeb.trading^
 ||ironfx.trading^
 ||j88.trading^
+||justmarkets.trading^
 ||lightwave.trading^
 ||mai.trading^
 ||mc2.trading^
 ||mnee.trading^
+||monki.trading^
 ||mono.trading^
 ||mpec.trading^
 ||mql5.trading^
