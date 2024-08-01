@@ -27,6 +27,7 @@
 ||bj88.broker^
 ||bk8.broker^
 ||blacksburg.broker^
+||blockteller.broker^
 ||blowingrock.broker^
 ||boone.broker^
 ||brownstone.broker^
@@ -55,6 +56,7 @@
 ||desmoines.broker^
 ||digitalasset.broker^
 ||dogex.broker^
+||doom.broker^
 ||dubbo.broker^
 ||edmonton.broker^
 ||emerald.broker^
@@ -140,7 +142,6 @@
 ||putnam.broker^
 ||residence.broker^
 ||roanoke.broker^
-||robin.broker^
 ||rockhill.broker^
 ||rockville.broker^
 ||rtp.broker^
@@ -155,7 +156,6 @@
 ||shreveport.broker^
 ||siliconvalley.broker^
 ||socal.broker^
-||soil.broker^
 ||song.broker^
 ||southcharleston.broker^
 ||spartanburg.broker^

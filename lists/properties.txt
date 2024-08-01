@@ -4,7 +4,6 @@
 ||accesshomes.properties^
 ||accessible.properties^
 ||adclick.properties^
-||advantive.properties^
 ||agri.properties^
 ||ajsellspa.properties^
 ||alexander.properties^
@@ -15,6 +14,7 @@
 ||avant.properties^
 ||ayana-sobha.properties^
 ||ayanasobha.properties^
+||bardsley.properties^
 ||beardedbros.properties^
 ||blackwell.properties^
 ||brickhaven.properties^
@@ -23,9 +23,9 @@
 ||buysellrent.properties^
 ||canna.properties^
 ||catalys.properties^
+||clematis.properties^
 ||collect.properties^
 ||constantinoubros.properties^
-||daisy.properties^
 ||decorum.properties^
 ||deslynspremier.properties^
 ||dubaicrypto.properties^
@@ -45,10 +45,9 @@
 ||good.properties^
 ||goodjuju.properties^
 ||greatbritish.properties^
+||greenhouse.properties^
 ||grow.properties^
-||gulfbay.properties^
 ||haus.properties^
-||hiddengems.properties^
 ||hirmer.properties^
 ||homeinkefalonia.properties^
 ||homiland.properties^
@@ -85,12 +84,10 @@
 ||mcdowell.properties^
 ||merces.properties^
 ||mkf.properties^
-||mltn.properties^
 ||morus.properties^
 ||moses.properties^
 ||muizenberg.properties^
 ||munichluxuryapartment.properties^
-||myempire.properties^
 ||mypocket.properties^
 ||nashvilletn.properties^
 ||novus.properties^
@@ -112,10 +109,8 @@
 ||prestigi.properties^
 ||propertymanage.properties^
 ||protectyour.properties^
-||quintessence.properties^
 ||radiant.properties^
 ||ragnar.properties^
-||rainwood.properties^
 ||randazzo.properties^
 ||ranger.properties^
 ||rcl.properties^
@@ -161,7 +156,6 @@
 ||tokenize.properties^
 ||torontocommercial.properties^
 ||upham.properties^
-||upwind.properties^
 ||valuable.properties^
 ||vampiretwinks.properties^
 ||wagtail.properties^

@@ -51,6 +51,7 @@
 ||aohomeimprovements.directory^
 ||applies.directory^
 ||archiveofourown.directory^
+||artbook.directory^
 ||artifact.directory^
 ||artifacts.directory^
 ||asianbookie.directory^
@@ -89,6 +90,7 @@
 ||bongacams.directory^
 ||brokers.directory^
 ||businessbook.directory^
+||businesseducation.directory^
 ||businessideas.directory^
 ||butterfly.directory^
 ||bylocals.directory^
@@ -136,6 +138,7 @@
 ||culture.directory^
 ||curated.directory^
 ||dachi.directory^
+||dapp.directory^
 ||datasolutions.directory^
 ||dayad.directory^
 ||dcinside.directory^
@@ -173,7 +176,6 @@
 ||eroterest.directory^
 ||ethlink.directory^
 ||eventtech.directory^
-||ewebsiteurl.directory^
 ||exit.directory^
 ||expenses.directory^
 ||fandom.directory^
@@ -202,7 +204,6 @@
 ||functionals.directory^
 ||fyi.directory^
 ||globo.directory^
-||golfschools.directory^
 ||goon.directory^
 ||gpt.directory^
 ||grammars.directory^
@@ -260,7 +261,6 @@
 ||joblinker.directory^
 ||jobtomic.directory^
 ||jobtorch.directory^
-||joya.directory^
 ||joyclub.directory^
 ||jutang.directory^
 ||juvo.directory^
@@ -276,6 +276,7 @@
 ||language.directory^
 ||languages.directory^
 ||lawyer.directory^
+||leadgen.directory^
 ||ledgers.directory^
 ||lewis.directory^
 ||liabilities.directory^
@@ -291,7 +292,6 @@
 ||logs.directory^
 ||los-angeles.directory^
 ||loto60.directory^
-||lotto60.directory^
 ||loyalrealestate.directory^
 ||lpg.directory^
 ||machines.directory^
@@ -450,7 +450,6 @@
 ||swissmade.directory^
 ||syntheses.directory^
 ||talent.directory^
-||taper.directory^
 ||tapps.directory^
 ||tarkov.directory^
 ||tas.directory^
@@ -463,7 +462,6 @@
 ||thenetnaija.directory^
 ||thenonprofit.directory^
 ||thestrategypitch.directory^
-||thewanders.directory^
 ||theweb.directory^
 ||thewellness.directory^
 ||threadiverse.directory^
@@ -475,6 +473,8 @@
 ||tisza.directory^
 ||tnaflix.directory^
 ||top100.directory^
+||top10business.directory^
+||top10service.directory^
 ||topcashback.directory^
 ||topics.directory^
 ||topten.directory^
@@ -521,7 +521,6 @@
 ||wholefoodsmarket.directory^
 ||wildberries.directory^
 ||williamhill.directory^
-||wizard.directory^
 ||wolf.directory^
 ||woodbury.directory^
 ||working.directory^

@@ -1,6 +1,7 @@
 ||0712test.health^
 ||32d.health^
 ||32dcbd.health^
+||33win.health^
 ||7step.health^
 ||7stepcare.health^
 ||7stepsystem.health^
@@ -14,7 +15,6 @@
 ||acta.health^
 ||actinbalance.health^
 ||activecare.health^
-||acumd.health^
 ||addnectarhealthcare.health^
 ||adopt.health^
 ||advancedfoot.health^
@@ -26,6 +26,7 @@
 ||aionic.health^
 ||airobotics.health^
 ||akomi.health^
+||akua.health^
 ||aldora.health^
 ||allinathletes.health^
 ||allow.health^
@@ -98,6 +99,7 @@
 ||care-ring.health^
 ||carecompare.health^
 ||careunlimited.health^
+||castinewellness.health^
 ||cedarview.health^
 ||cehas.health^
 ||celerity.health^
@@ -167,9 +169,9 @@
 ||dwoh.health^
 ||dynamis.health^
 ||easy-care.health^
-||ecoloradogumcare.health^
 ||educateyourmindprotectyourbody.health^
 ||elait.health^
+||elasticity.health^
 ||elitemobile.health^
 ||elysian.health^
 ||emac.health^
@@ -178,7 +180,6 @@
 ||empowering.health^
 ||emsee.health^
 ||entrust.health^
-||epigenetics.health^
 ||equiti.health^
 ||essentialoil.health^
 ||esycare.health^
@@ -192,7 +193,6 @@
 ||feelngrounded.health^
 ||feelnstrong.health^
 ||finecure.health^
-||finestra.health^
 ||fitspresso.health^
 ||fivepoint.health^
 ||floramist.health^
@@ -200,7 +200,6 @@
 ||fluint.health^
 ||fmsc.health^
 ||foodandgutbugs.health^
-||foodbioheal.health^
 ||foodisfunction.health^
 ||forbidden.health^
 ||foreman.health^
@@ -222,12 +221,13 @@
 ||getcentered.health^
 ||gimme.health^
 ||globalhealthsouth.health^
+||glowsuisse.health^
 ||glowswiss.health^
+||glp1weightloss.health^
 ||gobi.health^
 ||goldentherapy.health^
 ||goodly.health^
 ||goodoctors.health^
-||gosmart.health^
 ||grandjunction.health^
 ||gratitudesummit.health^
 ||gravity.health^
@@ -251,11 +251,12 @@
 ||heartsurgeon.health^
 ||hedamo.health^
 ||hedge.health^
+||hekisa.health^
 ||helpmyheart.health^
 ||helpup.health^
-||helvetia.health^
 ||hemato.health^
 ||herbify.health^
+||herchoice.health^
 ||higherlevelholistic.health^
 ||hikigai.health^
 ||history.health^
@@ -263,8 +264,6 @@
 ||hlthcoin.health^
 ||hlthtoken.health^
 ||hoff.health^
-||hogan.health^
-||hoganlifestyle.health^
 ||holistics.health^
 ||homeheart.health^
 ||homesteader.health^
@@ -304,6 +303,7 @@
 ||ituahospital.health^
 ||ivita.health^
 ||jailbreak.health^
+||janarogya.health^
 ||jellymed.health^
 ||jointgenesis.health^
 ||jolly.health^
@@ -332,6 +332,7 @@
 ||legacylife.health^
 ||letyourlightshine.health^
 ||lies.health^
+||lifenity.health^
 ||liferx.health^
 ||lightcircle.health^
 ||liom.health^
@@ -354,7 +355,6 @@
 ||makethatchange.health^
 ||marselebeautypalaceandspa.health^
 ||maslow.health^
-||massagetherapy.health^
 ||mccurdys.health^
 ||mdbehavioral.health^
 ||mdclear.health^
@@ -367,6 +367,7 @@
 ||medhub.health^
 ||medicalcare.health^
 ||medicalresearch.health^
+||medicalresearchintl.health^
 ||medicinecabinet.health^
 ||mediclinic.health^
 ||medinvent.health^
@@ -395,13 +396,13 @@
 ||mohsrecovery.health^
 ||monai.health^
 ||monzer.health^
-||movefor.health^
 ||movv.health^
 ||moynaa.health^
 ||musclemax.health^
 ||myantea.health^
 ||mybelle.health^
 ||mycalm.health^
+||mycommunity.health^
 ||myday.health^
 ||myhealthplan.health^
 ||mykin.health^
@@ -440,7 +441,6 @@
 ||nu-u.health^
 ||nursingaidservices.health^
 ||nuyou.health^
-||nyurveda.health^
 ||obiba.health^
 ||okmedicine.health^
 ||olex.health^
@@ -481,10 +481,8 @@
 ||orthosteo.health^
 ||osanka.health^
 ||osteophysio.health^
-||ouraring.health^
 ||ourelite.health^
-||p3holistic.health^
-||patrium.health^
+||payback.health^
 ||peaceful.health^
 ||perfectposture.health^
 ||perimeter.health^
@@ -510,6 +508,7 @@
 ||prodromic.health^
 ||projectwellness.health^
 ||prosper3.health^
+||provenhealthcare.health^
 ||prtl.health^
 ||psychedelictherapyoregon.health^
 ||psychotherapy.health^
@@ -531,7 +530,6 @@
 ||releaf.health^
 ||relearn.health^
 ||relievia.health^
-||remain.health^
 ||reshapeyourfuture.health^
 ||resole.health^
 ||resonancewaves.health^
@@ -578,7 +576,6 @@
 ||spinehospital.health^
 ||spinesurgeon.health^
 ||spiritualblossom.health^
-||sporo.health^
 ||sportify.health^
 ||sproutergy.health^
 ||st-camillus.health^
@@ -607,6 +604,7 @@
 ||teaburn.health^
 ||technoquest.health^
 ||templecare.health^
+||tensor.health^
 ||tetrapy.health^
 ||thebiohacker.health^
 ||thegoodnews.health^
@@ -624,6 +622,7 @@
 ||three60you.health^
 ||tile.health^
 ||tinyshealthhub.health^
+||tirana.health^
 ||topsaudehub.health^
 ||touch.health^
 ||transformative.health^
@@ -631,9 +630,7 @@
 ||trility.health^
 ||triunity.health^
 ||troupe.health^
-||truai.health^
 ||trunorthtru.health^
-||truvault.health^
 ||truvian.health^
 ||trydifferent.health^
 ||trygg.health^
@@ -654,13 +651,17 @@
 ||vdoc.health^
 ||ventricle.health^
 ||verb.health^
+||victorious.health^
 ||virtruvianholistic.health^
 ||virtuwell.health^
 ||virty.health^
 ||vistalabs.health^
 ||vital-it.health^
 ||vitalic.health^
+||vitalics.health^
+||vitalio.health^
 ||vitalium.health^
+||vitalix.health^
 ||vitaprime.health^
 ||vitaveda.health^
 ||vitruvianholistic.health^
@@ -669,6 +670,7 @@
 ||warrencityhospital.health^
 ||wellhealthpremium.health^
 ||wellnessportraits.health^
+||wellnessvoyages.health^
 ||wellody.health^
 ||wellpremiumbenefits.health^
 ||wellpremiummedical.health^
@@ -685,10 +687,10 @@
 ||xlr8.health^
 ||yadayada.health^
 ||yanna.health^
-||yodha.health^
 ||yolisticmedicine.health^
 ||yoniverse.health^
 ||yourbeauty.health^
+||yourpause.health^
 ||yume.health^
 ||zahra.health^
 ||zanskar.health^

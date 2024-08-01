@@ -5,6 +5,7 @@
 ||8kbet.delivery^
 ||acl.delivery^
 ||aclogistics.delivery^
+||address.delivery^
 ||advogados.delivery^
 ||aerocargoshipping.delivery^
 ||agent.delivery^
@@ -23,6 +24,7 @@
 ||bareeq.delivery^
 ||beijing.delivery^
 ||bet88.delivery^
+||beverages.delivery^
 ||bitcoins.delivery^
 ||blazzeburger.delivery^
 ||blob.delivery^
@@ -49,12 +51,14 @@
 ||com-track.delivery^
 ||consultoriaadministrativa.delivery^
 ||correo.delivery^
+||couriernetwork.delivery^
 ||creme.delivery^
 ||cse.delivery^
 ||ct.delivery^
 ||ddl.delivery^
 ||directmail.delivery^
 ||disneypinnacle.delivery^
+||dispatch.delivery^
 ||distribution.delivery^
 ||dominos-pizza.delivery^
 ||don.delivery^
@@ -72,9 +76,9 @@
 ||espetosdojoao.delivery^
 ||euroexpress.delivery^
 ||evolutionfastlogistics.delivery^
+||executivedeliveryservice.delivery^
 ||fastbig.delivery^
 ||fastfast.delivery^
-||fasttrack.delivery^
 ||fdic.delivery^
 ||feastables.delivery^
 ||fiou.delivery^
@@ -95,7 +99,6 @@
 ||hat.delivery^
 ||haze.delivery^
 ||hk01.delivery^
-||hockinghills.delivery^
 ||hotpot.delivery^
 ||ia.delivery^
 ||ibizaflowers.delivery^
@@ -103,7 +106,6 @@
 ||ind.delivery^
 ||inquire-info.delivery^
 ||j88.delivery^
-||jiffyjack.delivery^
 ||job.delivery^
 ||k6.delivery^
 ||khana.delivery^
@@ -121,7 +123,6 @@
 ||loki.delivery^
 ||lunch.delivery^
 ||magicshroom.delivery^
-||manager.delivery^
 ||mcw77.delivery^
 ||mejor.delivery^
 ||mels.delivery^
@@ -151,7 +152,6 @@
 ||nonstop.delivery^
 ||nossocardapio.delivery^
 ||offer.delivery^
-||onthe.delivery^
 ||onyx.delivery^
 ||organica.delivery^
 ||organics.delivery^
@@ -196,9 +196,9 @@
 ||shoplocal.delivery^
 ||shroom.delivery^
 ||simenang1.delivery^
-||smartphone.delivery^
 ||smartship.delivery^
 ||speedplus.delivery^
+||spirits.delivery^
 ||store.delivery^
 ||sugarleafchurch.delivery^
 ||supervisaoderecursos.delivery^
@@ -213,7 +213,6 @@
 ||thes.delivery^
 ||threads.delivery^
 ||torontoflowers.delivery^
-||transgobal.delivery^
 ||tristate.delivery^
 ||trustship.delivery^
 ||turk.delivery^
@@ -229,6 +228,7 @@
 ||veo.delivery^
 ||vintservice.delivery^
 ||vt.delivery^
+||wasel.delivery^
 ||watami.delivery^
 ||well.delivery^
 ||whitelabel.delivery^

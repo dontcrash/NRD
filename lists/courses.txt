@@ -2,6 +2,7 @@
 ||abs.courses^
 ||accessible.courses^
 ||air-dds.courses^
+||airbnb.courses^
 ||airdds.courses^
 ||angular.courses^
 ||beam.courses^
@@ -13,12 +14,14 @@
 ||businessanalyst.courses^
 ||combatnocontact.courses^
 ||cosmetology.courses^
+||cybersecurity.courses^
 ||debateasaweapon.courses^
 ||defiflow.courses^
 ||digitalliteracy.courses^
 ||digitalmarketingnashik.courses^
 ||divingexplorers.courses^
 ||etsy-academy.courses^
+||experience.courses^
 ||fathom.courses^
 ||field.courses^
 ||genkit.courses^
@@ -35,7 +38,6 @@
 ||mm.courses^
 ||moda.courses^
 ||mql5.courses^
-||mrcs.courses^
 ||myphotography.courses^
 ||ollieducate.courses^
 ||onboarding.courses^

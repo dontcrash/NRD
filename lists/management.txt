@@ -6,7 +6,6 @@
 ||8ball.management^
 ||aedge.management^
 ||aeprojects.management^
-||allround.management^
 ||angara.management^
 ||antfarm.management^
 ||arccapital.management^
@@ -26,12 +25,10 @@
 ||coastline.management^
 ||coefficient.management^
 ||cyberrisk.management^
-||dap.management^
 ||deals.management^
 ||deel.management^
 ||defence.management^
 ||defense.management^
-||did.management^
 ||digitalroadmap.management^
 ||dispute.management^
 ||dominium.management^
@@ -49,7 +46,6 @@
 ||gcredit-appclaim.management^
 ||gcredit-redeem.management^
 ||generic.management^
-||gfc.management^
 ||gitm.management^
 ||glencoe.management^
 ||goon.management^
@@ -84,7 +80,6 @@
 ||mail-system-inbounds-outlook.management^
 ||malonesgeesedeer.management^
 ||marbletilerestorations.management^
-||marcom.management^
 ||melt.management^
 ||mindfuel.management^
 ||mission.management^
@@ -106,20 +101,18 @@
 ||pornhub.management^
 ||predict.management^
 ||priority.management^
+||promote.management^
 ||proplink.management^
 ||prospective.management^
 ||pryzym.management^
 ||push-via-mail-workforce-netsuite.management^
 ||qian.management^
 ||randstad.management^
-||registry.management^
 ||rob.management^
 ||scaling.management^
-||schreiber.management^
 ||scorpius.management^
 ||securities.management^
 ||send-via-mail-proctection-adobe.management^
-||sequ.management^
 ||shihon.management^
 ||socialskills.management^
 ||solstice.management^
@@ -131,7 +124,6 @@
 ||stoic.management^
 ||suite.management^
 ||system-mail-secure-outlook.management^
-||terra.management^
 ||theartofliving.management^
 ||thebook.management^
 ||thn.management^
@@ -140,6 +132,7 @@
 ||tokenization.management^
 ||toptal.management^
 ||totalscope.management^
+||tower.management^
 ||trader.management^
 ||truliant.management^
 ||upperleft.management^
