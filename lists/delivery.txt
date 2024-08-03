@@ -6,8 +6,8 @@
 ||acl.delivery^
 ||aclogistics.delivery^
 ||address.delivery^
+||adp-internal.delivery^
 ||advogados.delivery^
-||aerocargoshipping.delivery^
 ||agent.delivery^
 ||agora.delivery^
 ||aha.delivery^
@@ -24,6 +24,7 @@
 ||bali.delivery^
 ||bareeq.delivery^
 ||beijing.delivery^
+||best-price.delivery^
 ||bet88.delivery^
 ||beverages.delivery^
 ||bitcoins.delivery^
@@ -44,8 +45,6 @@
 ||cheff.delivery^
 ||cheguei.delivery^
 ||cleip.delivery^
-||clientaddress.delivery^
-||clientupdate.delivery^
 ||coastline.delivery^
 ||cohesive.delivery^
 ||com-payment.delivery^
@@ -57,6 +56,7 @@
 ||cse.delivery^
 ||ct.delivery^
 ||ddl.delivery^
+||delos.delivery^
 ||directmail.delivery^
 ||disneypinnacle.delivery^
 ||dispatch.delivery^
@@ -64,6 +64,7 @@
 ||don.delivery^
 ||donutdreams.delivery^
 ||dooh.delivery^
+||dots.delivery^
 ||drinksandfoodottawa.delivery^
 ||dron.delivery^
 ||dvf.delivery^
@@ -90,7 +91,6 @@
 ||fun88.delivery^
 ||geta.delivery^
 ||getir.delivery^
-||global-express.delivery^
 ||globalexpresscourier.delivery^
 ||globbo.delivery^
 ||godspeed.delivery^
@@ -105,7 +105,6 @@
 ||ia.delivery^
 ||ibizaflowers.delivery^
 ||ifoundyou.delivery^
-||ind.delivery^
 ||inquire-info.delivery^
 ||j88.delivery^
 ||job.delivery^
@@ -119,6 +118,7 @@
 ||latte.delivery^
 ||laxairport.delivery^
 ||lezo.delivery^
+||libre.delivery^
 ||linq.delivery^
 ||liquorstore.delivery^
 ||localmail.delivery^
@@ -130,7 +130,6 @@
 ||mejor.delivery^
 ||mels.delivery^
 ||menuzap.delivery^
-||mitzgat.delivery^
 ||modify-info.delivery^
 ||modify-information.delivery^
 ||modifyinfo.delivery^
@@ -156,6 +155,7 @@
 ||nossocardapio.delivery^
 ||organica.delivery^
 ||organics.delivery^
+||packet-anpost.delivery^
 ||pandaexpress.delivery^
 ||parfum.delivery^
 ||pattayaflowers.delivery^
@@ -170,17 +170,16 @@
 ||pornhub.delivery^
 ||porno365.delivery^
 ||post-tracking.delivery^
-||postalus.delivery^
 ||prod.delivery^
 ||production.delivery^
 ||pu.delivery^
 ||qh88.delivery^
+||qq.delivery^
 ||rabbit.delivery^
 ||rabot.delivery^
 ||rapid.delivery^
 ||redi.delivery^
 ||registrar.delivery^
-||reviews.delivery^
 ||rhonda.delivery^
 ||rpg.delivery^
 ||rushit.delivery^
@@ -220,7 +219,6 @@
 ||turk.delivery^
 ||tutto.delivery^
 ||udn.delivery^
-||ufa.delivery^
 ||unchi.delivery^
 ||urbanhaul.delivery^
 ||uscs.delivery^
@@ -236,6 +234,7 @@
 ||well.delivery^
 ||whitelabel.delivery^
 ||whiz.delivery^
+||whizz.delivery^
 ||wi-pie.delivery^
 ||wipi.delivery^
 ||worldautoshipping.delivery^

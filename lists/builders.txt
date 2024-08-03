@@ -22,7 +22,6 @@
 ||etherfl.builders^
 ||evans.builders^
 ||exam.builders^
-||fair.builders^
 ||fapello.builders^
 ||film.builders^
 ||formative.builders^
@@ -48,16 +47,13 @@
 ||northstar.builders^
 ||nuevaluna.builders^
 ||parity.builders^
-||play4.builders^
 ||print.builders^
 ||pufferfinance.builders^
 ||realtor.builders^
 ||renzoprotocol.builders^
 ||reputation.builders^
 ||sage.builders^
-||signature.builders^
 ||spankbang.builders^
-||symbiotic.builders^
 ||tinyhouse.builders^
 ||tnaflix.builders^
 ||tradies.builders^

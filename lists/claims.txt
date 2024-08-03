@@ -64,7 +64,6 @@
 ||flux.claims^
 ||freespins.claims^
 ||fwx.claims^
-||fxpro.claims^
 ||gaa.claims^
 ||garena.claims^
 ||gemesis.claims^
@@ -80,6 +79,7 @@
 ||hb88.claims^
 ||hca.claims^
 ||hello88.claims^
+||hk01.claims^
 ||hurricanealberto.claims^
 ||hurricaneberyl.claims^
 ||hurricanechris.claims^
@@ -110,6 +110,7 @@
 ||jab.claims^
 ||kendu.claims^
 ||kick.claims^
+||l-galxe.claims^
 ||lawx.claims^
 ||liquity.claims^
 ||maga-hat.claims^
@@ -133,11 +134,13 @@
 ||ondos.claims^
 ||openledger.claims^
 ||opsec.claims^
+||optim.claims^
 ||optimism.claims^
 ||pei-pei.claims^
 ||peipei.claims^
 ||pepe.claims^
 ||pepe2.claims^
+||pepe20vip.claims^
 ||pepes.claims^
 ||plumenetwork.claims^
 ||plumnetwork.claims^
@@ -192,6 +195,7 @@
 ||witness.claims^
 ||workcover.claims^
 ||xvideos.claims^
+||xxx.claims^
 ||yct.claims^
 ||yearn.claims^
 ||yges.claims^
@@ -205,3 +209,4 @@
 ||zircuitpoints.claims^
 ||zk-link.claims^
 ||zklink.claims^
+||zone.claims^

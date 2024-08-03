@@ -37,9 +37,9 @@
 ||fairfee.financial^
 ||fold.financial^
 ||folio.financial^
+||foliogroup.financial^
 ||fusion.financial^
 ||gearbox.financial^
-||generative.financial^
 ||github.financial^
 ||greatwaters.financial^
 ||gulf.financial^
@@ -47,6 +47,7 @@
 ||hamsterswap.financial^
 ||harborage.financial^
 ||hike.financial^
+||hk01.financial^
 ||hrc.financial^
 ||hsi.financial^
 ||ifa.financial^
@@ -57,7 +58,6 @@
 ||kyrm.financial^
 ||lark.financial^
 ||lei.financial^
-||lifenotes.financial^
 ||lmtls.financial^
 ||lockpay.financial^
 ||maffei.financial^
@@ -66,6 +66,7 @@
 ||mars.financial^
 ||mav.financial^
 ||mitosis.financial^
+||monee.financial^
 ||mono.financial^
 ||neuro.financial^
 ||octo.financial^
@@ -74,7 +75,6 @@
 ||otp.financial^
 ||overtime.financial^
 ||palmyra.financial^
-||parcl.financial^
 ||pendulum.financial^
 ||pgv.financial^
 ||poolz.financial^
@@ -103,15 +103,14 @@
 ||stonefi.financial^
 ||styx.financial^
 ||sunrise.financial^
-||supercharged.financial^
 ||swapp.financial^
 ||symlbiotic.financial^
 ||titan.financial^
 ||topkey.financial^
 ||truhomefinance.financial^
 ||trykeep.financial^
-||txse.financial^
 ||unitiv.financial^
+||ursa.financial^
 ||usdt.financial^
 ||velocity.financial^
 ||vie.financial^

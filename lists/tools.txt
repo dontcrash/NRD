@@ -10,7 +10,6 @@
 ||allagan.tools^
 ||alxndr.tools^
 ||and.tools^
-||appsscript.tools^
 ||arco.tools^
 ||ari.tools^
 ||artifacts.tools^
@@ -19,7 +18,6 @@
 ||automations.tools^
 ||awry.tools^
 ||azame.tools^
-||backlog.tools^
 ||bahn.tools^
 ||banhang.tools^
 ||benchmark.tools^
@@ -42,7 +40,6 @@
 ||conduit.tools^
 ||contacts.tools^
 ||converter.tools^
-||customllm.tools^
 ||cxa.tools^
 ||dbc.tools^
 ||dingo.tools^
@@ -57,17 +54,14 @@
 ||e2c.tools^
 ||e2cmarketing.tools^
 ||ecotec.tools^
-||eman.tools^
 ||empathetic.tools^
 ||fetch.tools^
 ||filmmakers.tools^
 ||firmus.tools^
-||flexnet.tools^
 ||freeonline.tools^
 ||fruitcat.tools^
 ||generativedesign.tools^
 ||gitdo.tools^
-||gleap.tools^
 ||gmixer.tools^
 ||graphic.tools^
 ||grow.tools^
@@ -79,7 +73,6 @@
 ||influent.tools^
 ||instabug.tools^
 ||intellimorph.tools^
-||intuitive.tools^
 ||jap.tools^
 ||jobrouter.tools^
 ||kaspian.tools^
@@ -102,7 +95,6 @@
 ||moni.tools^
 ||moped.tools^
 ||myagent.tools^
-||mypay.tools^
 ||mypricing.tools^
 ||myzen.tools^
 ||nola.tools^
@@ -114,10 +106,8 @@
 ||onpageseo.tools^
 ||opallabs.tools^
 ||operations.tools^
-||original.tools^
 ||osd.tools^
 ||payback.tools^
-||payments.tools^
 ||peppermint.tools^
 ||polymorph.tools^
 ||powerlink.tools^
@@ -148,7 +138,6 @@
 ||sixsigma.tools^
 ||smartagent.tools^
 ||snapvid.tools^
-||soai.tools^
 ||softwaredefined.tools^
 ||spice.tools^
 ||spool.tools^
@@ -156,7 +145,6 @@
 ||supervpn.tools^
 ||sustainability.tools^
 ||tagmanager.tools^
-||tales.tools^
 ||tally.tools^
 ||teachings.tools^
 ||team-x.tools^
@@ -179,7 +167,6 @@
 ||vndal.tools^
 ||vuu.tools^
 ||wallex.tools^
-||warpcast.tools^
 ||watchmovies.tools^
 ||webpad.tools^
 ||webseo.tools^

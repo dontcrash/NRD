@@ -15,7 +15,6 @@
 ||adaptive.press^
 ||adastra.press^
 ||adhoc.press^
-||adsx.press^
 ||adts.press^
 ||advokat.press^
 ||aeon.press^
@@ -25,6 +24,7 @@
 ||aibizguru.press^
 ||airia.press^
 ||aktuell.press^
+||albert.press^
 ||alexey.press^
 ||alfastrah.press^
 ||algorithms.press^
@@ -67,6 +67,7 @@
 ||batdongsan.press^
 ||beachhousedevon.press^
 ||beaconpublishing.press^
+||beck.press^
 ||belson.press^
 ||bending.press^
 ||benny.press^
@@ -77,6 +78,7 @@
 ||bigfoot.press^
 ||bison.press^
 ||bit-by-bit.press^
+||blackcat.press^
 ||blackcatpublishing.press^
 ||blacksheep.press^
 ||blacksprut.press^
@@ -92,11 +94,13 @@
 ||bryansk.press^
 ||buddho.press^
 ||bunaken.press^
+||burn.press^
 ||businessmagazine.press^
 ||caffeineforthesoul.press^
 ||californiajournal.press^
 ||californiatimes.press^
 ||canary.press^
+||cancerfund.press^
 ||carpediem.press^
 ||casinoamp1.press^
 ||casinoamp2.press^
@@ -146,11 +150,10 @@
 ||doska.press^
 ||dreamland.press^
 ||dron.press^
+||dsnews.press^
 ||dvfu.press^
 ||dzen24.press^
-||e-mag.press^
 ||eadoma.press^
-||eapjg.press^
 ||eaqxs.press^
 ||earthling.press^
 ||ease.press^
@@ -168,7 +171,6 @@
 ||empty.press^
 ||endless.press^
 ||enso.press^
-||enva.press^
 ||equilibrium.press^
 ||equinox.press^
 ||escape.press^
@@ -217,6 +219,7 @@
 ||greenlight.press^
 ||grip.press^
 ||grit.press^
+||guidinglight.press^
 ||halcyon.press^
 ||hallo.press^
 ||handyman.press^
@@ -269,7 +272,6 @@
 ||iphonesru.press^
 ||ivoirediaspo.press^
 ||ivplumbingandheating.press^
-||jagran.press^
 ||jamesonstamp.press^
 ||jess.press^
 ||jolly.press^
@@ -283,6 +285,7 @@
 ||kairos.press^
 ||kalam.press^
 ||kami.press^
+||kaspersky-labs.press^
 ||kaspersky.press^
 ||kekx.press^
 ||kent-casino.press^
@@ -309,6 +312,7 @@
 ||le-continent.press^
 ||legion.press^
 ||lido.press^
+||lighthouse.press^
 ||lightworks.press^
 ||limitless.press^
 ||linea.press^
@@ -328,7 +332,6 @@
 ||mach.press^
 ||magi.press^
 ||magnum.press^
-||magra.press^
 ||maks.press^
 ||marktplaats.press^
 ||massive.press^
@@ -342,6 +345,7 @@
 ||medicina.press^
 ||medien.press^
 ||medx.press^
+||meister.press^
 ||memento.press^
 ||memetic.press^
 ||meraki.press^
@@ -379,6 +383,7 @@
 ||nash.press^
 ||nashi.press^
 ||natamedia.press^
+||naver.press^
 ||navi.press^
 ||near.press^
 ||negocio.press^
@@ -386,7 +391,6 @@
 ||neuralnet.press^
 ||neuron.press^
 ||newlife.press^
-||newsinshort.press^
 ||newstime.press^
 ||newsvista.press^
 ||nexgen.press^
@@ -418,8 +422,9 @@
 ||pagurek.press^
 ||pangea.press^
 ||papersweet.press^
+||parcel.press^
 ||paveldavydov.press^
-||pawto.press^
+||pencethoki.press^
 ||penumbra.press^
 ||petra.press^
 ||phantom.press^
@@ -433,6 +438,7 @@
 ||playclicktopia.press^
 ||plex.press^
 ||poiesis.press^
+||polaris.press^
 ||politis.press^
 ||polska24.press^
 ||poptab.press^
@@ -459,6 +465,7 @@
 ||quant.press^
 ||quran.press^
 ||r10.press^
+||rabona.press^
 ||radarbhineka.press^
 ||rbpropertymaintenance.press^
 ||rcentr.press^
@@ -506,12 +513,13 @@
 ||singh.press^
 ||sitepro.press^
 ||siyam.press^
+||skyradio.press^
 ||slotgacor.press^
 ||slotwin68.press^
-||smarty.press^
 ||smmpanel.press^
 ||snowballtest.press^
 ||sokasport.press^
+||solaris.press^
 ||solis.press^
 ||spbisz.press^
 ||spectator.press^
@@ -520,11 +528,11 @@
 ||stable.press^
 ||stakeholdermediasupplychain.press^
 ||staking.press^
+||stark.press^
 ||stash.press^
 ||stefan.press^
 ||stella.press^
 ||stellare.press^
-||stickman.press^
 ||ston.press^
 ||stor.press^
 ||streamingcommunity.press^
@@ -536,6 +544,7 @@
 ||supra.press^
 ||sure.press^
 ||surge.press^
+||swansea.press^
 ||swarm.press^
 ||sweetlight.press^
 ||synth.press^
@@ -550,16 +559,17 @@
 ||technews.press^
 ||tedandjeff.press^
 ||teddy.press^
+||teleport.press^
 ||terekhov.press^
 ||tetra.press^
 ||tgbot.press^
 ||theeditordigest.press^
-||thefrench.press^
 ||thenewsstand.press^
 ||thenewstandard.press^
 ||theta.press^
 ||thinkapp.press^
 ||thor.press^
+||throughmyeyes.press^
 ||tide.press^
 ||toast.press^
 ||todays-topic24.press^
@@ -580,6 +590,7 @@
 ||valhalla.press^
 ||valimax.press^
 ||valor.press^
+||vast.press^
 ||vavada-days.press^
 ||vavada-florale.press^
 ||vavada-ga-1.press^
