@@ -54,7 +54,6 @@
 ||hyperbloom.healthcare^
 ||hyve.healthcare^
 ||inherit.healthcare^
-||invita.healthcare^
 ||isla.healthcare^
 ||kms.healthcare^
 ||leadership.healthcare^
@@ -70,6 +69,8 @@
 ||mentalivation.healthcare^
 ||mentorme.healthcare^
 ||messenger.healthcare^
+||mfi.healthcare^
+||mimosadiagnostics.healthcare^
 ||mlee.healthcare^
 ||momentum.healthcare^
 ||myother.healthcare^
@@ -81,10 +82,9 @@
 ||northjerseymental.healthcare^
 ||ohcti.healthcare^
 ||onto.healthcare^
-||oqio.healthcare^
 ||osm.healthcare^
 ||palmyra.healthcare^
-||plaza.healthcare^
+||pharmacotherapy.healthcare^
 ||pmg.healthcare^
 ||polycube.healthcare^
 ||raphael.healthcare^
@@ -96,10 +96,10 @@
 ||secure.healthcare^
 ||seniorinsurance.healthcare^
 ||signin.healthcare^
+||stayhealthy.healthcare^
 ||syntony.healthcare^
 ||tec.healthcare^
 ||tendermaker.healthcare^
-||tetrapy.healthcare^
 ||the-group.healthcare^
 ||three60.healthcare^
 ||three60you.healthcare^
@@ -111,6 +111,7 @@
 ||vghip.healthcare^
 ||visante.healthcare^
 ||vyb.healthcare^
+||we-care.healthcare^
 ||wellmed.healthcare^
 ||wildwoodintegrative.healthcare^
 ||writer.healthcare^

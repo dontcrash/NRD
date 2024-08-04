@@ -38,7 +38,6 @@
 ||colin.build^
 ||communitypower.build^
 ||costport.build^
-||crema.build^
 ||cristobal.build^
 ||dead.build^
 ||debug.build^
@@ -52,14 +51,12 @@
 ||eliteexterior.build^
 ||eliteexteriors.build^
 ||endgame.build^
-||etherfl.build^
 ||etherscan.build^
 ||eutelsat.build^
 ||flossy.build^
 ||formative.build^
 ||fortress.build^
 ||freshie.build^
-||galxe.build^
 ||gaurav.build^
 ||ghirardi.build^
 ||goldenoak.build^
@@ -72,7 +69,6 @@
 ||instatiq.build^
 ||ironclad.build^
 ||json.build^
-||katalyst.build^
 ||kconstruction.build^
 ||lasereyes.build^
 ||lemme.build^
@@ -105,8 +101,6 @@
 ||raksha.build^
 ||reevesyoung.build^
 ||register-venn.build^
-||remy.build^
-||renzoprotocol.build^
 ||riseup.build^
 ||robogarage.build^
 ||sense.build^
@@ -116,9 +110,7 @@
 ||soulverse.build^
 ||subseq.build^
 ||sucasa.build^
-||swap.build^
 ||tactical.build^
-||tee.build^
 ||terrastrada.build^
 ||theshop.build^
 ||trouver.build^
