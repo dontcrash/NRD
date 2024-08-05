@@ -6,7 +6,6 @@
 ||agora.shopping^
 ||allinonestore.shopping^
 ||americanmagastore.shopping^
-||app.shopping^
 ||arthub.shopping^
 ||babyboss.shopping^
 ||babylist.shopping^
@@ -26,8 +25,10 @@
 ||compras.shopping^
 ||convenience.shopping^
 ||cozybear.shopping^
+||dahlia.shopping^
 ||daring.shopping^
 ||dashabi.shopping^
+||deli-fope.shopping^
 ||disney-princess.shopping^
 ||disneyprincess.shopping^
 ||disrupt.shopping^
@@ -36,17 +37,18 @@
 ||dobhaifootwear.shopping^
 ||dongfu.shopping^
 ||dzair.shopping^
-||easycomfort.shopping^
 ||england.shopping^
 ||ephemeral.shopping^
+||esc.shopping^
 ||esurf.shopping^
 ||fadaalmanzah-l6.shopping^
-||fairy.shopping^
 ||fastpass.shopping^
 ||fla.shopping^
 ||flyingunicorn.shopping^
 ||flyy.shopping^
+||fpv.shopping^
 ||friend.shopping^
+||fsdf.shopping^
 ||funtime.shopping^
 ||galeria.shopping^
 ||gemstone.shopping^
@@ -58,7 +60,6 @@
 ||haicang.shopping^
 ||hates.shopping^
 ||haustier.shopping^
-||hexaflyingcar.shopping^
 ||hk01.shopping^
 ||horze.shopping^
 ||hq.shopping^
@@ -90,7 +91,6 @@
 ||mykoolcups.shopping^
 ||mzb.shopping^
 ||naeemstore0786.shopping^
-||nexus.shopping^
 ||ninja.shopping^
 ||novanexus.shopping^
 ||nvidia.shopping^
@@ -101,6 +101,7 @@
 ||ouroboros.shopping^
 ||outletstore.shopping^
 ||papi.shopping^
+||payback.shopping^
 ||paygoogle.shopping^
 ||peep.shopping^
 ||petex.shopping^
@@ -108,6 +109,7 @@
 ||podfine.shopping^
 ||polandezltda.shopping^
 ||pornhub.shopping^
+||pov.shopping^
 ||power-tool-batteries-tools-parts.shopping^
 ||primo.shopping^
 ||prince.shopping^
@@ -115,6 +117,7 @@
 ||quickdrop.shopping^
 ||releep.shopping^
 ||romanbathbody.shopping^
+||rushtube.shopping^
 ||saboramexico.shopping^
 ||saffa-swag.shopping^
 ||sante.shopping^
@@ -134,13 +137,11 @@
 ||supermoodfood.shopping^
 ||supermoodfoods.shopping^
 ||szjiangxi.shopping^
-||techdeal.shopping^
 ||technest.shopping^
 ||techoasis.shopping^
 ||thedreamerchandni.shopping^
 ||thirdhandstore.shopping^
 ||tika.shopping^
-||trendmart.shopping^
 ||trendtrove.shopping^
 ||truebeauty.shopping^
 ||ubmgsmfclwpkee.shopping^
@@ -153,9 +154,11 @@
 ||vancouver.shopping^
 ||vanda.shopping^
 ||vetemen.shopping^
+||vibevault.shopping^
 ||vibrantvitality.shopping^
 ||videoblogstore.shopping^
 ||vipsavingsclub.shopping^
+||vued.shopping^
 ||wagmi.shopping^
 ||wethepeople.shopping^
 ||whale.shopping^
