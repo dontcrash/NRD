@@ -28,14 +28,12 @@
 ||edgey.holdings^
 ||enclave.holdings^
 ||farmland.holdings^
-||fcc.holdings^
 ||festival.holdings^
 ||finance-contact.holdings^
 ||giro.holdings^
 ||good.holdings^
 ||gossip.holdings^
 ||group14.holdings^
-||hackett.holdings^
 ||halsallfamily.holdings^
 ||henhouse.holdings^
 ||holodeck.holdings^
@@ -60,10 +58,8 @@
 ||parry-hall.holdings^
 ||payback.holdings^
 ||periop.holdings^
-||pioneerglobal.holdings^
 ||pornhub.holdings^
 ||privatejet.holdings^
-||radiant.holdings^
 ||rap.holdings^
 ||renaizen.holdings^
 ||reve.holdings^
@@ -74,7 +70,6 @@
 ||sentinel.holdings^
 ||sgqsa.holdings^
 ||silkway.holdings^
-||solum.holdings^
 ||spacetime.holdings^
 ||tag.holdings^
 ||thornisland.holdings^
@@ -86,7 +81,6 @@
 ||uonearth.holdings^
 ||vitaal.holdings^
 ||vogue.holdings^
-||wildthing.holdings^
 ||wyld.holdings^
 ||xenpact.holdings^
 ||xeta.holdings^

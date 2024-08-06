@@ -1,3 +1,4 @@
+||0010.pink^
 ||00376.pink^
 ||00530.pink^
 ||00617.pink^
@@ -9,7 +10,6 @@
 ||01299.pink^
 ||01362.pink^
 ||01860.pink^
-||01919.pink^
 ||02033.pink^
 ||02341.pink^
 ||02347.pink^
@@ -31,7 +31,6 @@
 ||04346.pink^
 ||04585.pink^
 ||04684.pink^
-||04811.pink^
 ||05016.pink^
 ||05167.pink^
 ||05251.pink^
@@ -39,10 +38,12 @@
 ||05616.pink^
 ||05764.pink^
 ||06014.pink^
+||061495.pink^
 ||06371.pink^
 ||06423.pink^
 ||06445.pink^
 ||06655.pink^
+||066775.pink^
 ||06705.pink^
 ||06772.pink^
 ||06827.pink^
@@ -76,6 +77,7 @@
 ||103795.pink^
 ||103796.pink^
 ||103797.pink^
+||10495.pink^
 ||10571.pink^
 ||10731.pink^
 ||10823.pink^
@@ -130,6 +132,7 @@
 ||16260.pink^
 ||16362.pink^
 ||16391.pink^
+||16404.pink^
 ||16539.pink^
 ||166719.pink^
 ||16723.pink^
@@ -249,7 +252,6 @@
 ||21724.pink^
 ||21746.pink^
 ||21766.pink^
-||21934.pink^
 ||220522.pink^
 ||22060.pink^
 ||22161.pink^
@@ -268,7 +270,6 @@
 ||23484.pink^
 ||23669.pink^
 ||23797.pink^
-||23883.pink^
 ||23898.pink^
 ||23988.pink^
 ||23win.pink^
@@ -283,6 +284,7 @@
 ||25063.pink^
 ||25178.pink^
 ||25270.pink^
+||25557.pink^
 ||25613.pink^
 ||25654.pink^
 ||257882.pink^
@@ -304,7 +306,6 @@
 ||27514.pink^
 ||27638.pink^
 ||27721.pink^
-||27759.pink^
 ||27837.pink^
 ||27871.pink^
 ||28113.pink^
@@ -386,6 +387,7 @@
 ||327205.pink^
 ||32841.pink^
 ||328616.pink^
+||32991.pink^
 ||33477.pink^
 ||33560.pink^
 ||338346.pink^
@@ -428,6 +430,7 @@
 ||371485.pink^
 ||37187.pink^
 ||3733.pink^
+||373502.pink^
 ||374487.pink^
 ||37459.pink^
 ||375476.pink^
@@ -444,11 +447,9 @@
 ||38261.pink^
 ||38428.pink^
 ||385158.pink^
-||38647.pink^
 ||38655.pink^
 ||38671.pink^
 ||386778.pink^
-||38861.pink^
 ||3888.pink^
 ||38880.pink^
 ||38958.pink^
@@ -472,6 +473,7 @@
 ||40286.pink^
 ||40304.pink^
 ||40349.pink^
+||40476.pink^
 ||40485.pink^
 ||40527.pink^
 ||40613.pink^
@@ -536,6 +538,7 @@
 ||446453.pink^
 ||44690.pink^
 ||44771.pink^
+||448980.pink^
 ||44901.pink^
 ||45001.pink^
 ||450720.pink^
@@ -556,7 +559,6 @@
 ||45877.pink^
 ||45882.pink^
 ||45920.pink^
-||45935.pink^
 ||45952.pink^
 ||459599.pink^
 ||45988.pink^
@@ -630,14 +632,12 @@
 ||49392.pink^
 ||49437.pink^
 ||49453.pink^
-||49552.pink^
 ||49616.pink^
 ||49717.pink^
 ||49745.pink^
 ||49778.pink^
 ||49804.pink^
 ||49845.pink^
-||49912.pink^
 ||49918.pink^
 ||501723.pink^
 ||501724.pink^
@@ -736,7 +736,6 @@
 ||54167.pink^
 ||541846.pink^
 ||54218.pink^
-||54255.pink^
 ||543120.pink^
 ||543121.pink^
 ||543122.pink^
@@ -748,6 +747,7 @@
 ||546050.pink^
 ||548874.pink^
 ||54950.pink^
+||54952.pink^
 ||54961.pink^
 ||55015.pink^
 ||55050.pink^
@@ -934,7 +934,6 @@
 ||63511.pink^
 ||63545.pink^
 ||63616.pink^
-||63703.pink^
 ||63890.pink^
 ||63951.pink^
 ||63956.pink^
@@ -1051,6 +1050,7 @@
 ||69302.pink^
 ||69303.pink^
 ||69323.pink^
+||69333.pink^
 ||69356.pink^
 ||69358.pink^
 ||69571.pink^
@@ -1079,6 +1079,7 @@
 ||70767.pink^
 ||707826.pink^
 ||70846.pink^
+||71115.pink^
 ||71157.pink^
 ||71281.pink^
 ||712846.pink^
@@ -1089,7 +1090,6 @@
 ||71648.pink^
 ||71649.pink^
 ||71650.pink^
-||71823.pink^
 ||718235.pink^
 ||718236.pink^
 ||71824.pink^
@@ -1106,6 +1106,7 @@
 ||721684.pink^
 ||721730.pink^
 ||72298.pink^
+||72303.pink^
 ||72507.pink^
 ||725814.pink^
 ||72654.pink^
@@ -1125,7 +1126,6 @@
 ||734457.pink^
 ||73510.pink^
 ||73573.pink^
-||73622.pink^
 ||73709.pink^
 ||73720.pink^
 ||738567.pink^
@@ -1156,7 +1156,6 @@
 ||751482.pink^
 ||75194.pink^
 ||75209.pink^
-||75322.pink^
 ||75517.pink^
 ||75518.pink^
 ||75564.pink^
@@ -1199,6 +1198,7 @@
 ||77597.pink^
 ||776577.pink^
 ||77691.pink^
+||77717.pink^
 ||77746.pink^
 ||777721.pink^
 ||777885.pink^
@@ -1213,6 +1213,7 @@
 ||78673.pink^
 ||786957.pink^
 ||787649.pink^
+||78889.pink^
 ||78919.pink^
 ||789377.pink^
 ||789948.pink^
@@ -1296,7 +1297,6 @@
 ||82138.pink^
 ||821561.pink^
 ||821562.pink^
-||82173.pink^
 ||821737.pink^
 ||821738.pink^
 ||821760.pink^
@@ -1332,7 +1332,6 @@
 ||829038.pink^
 ||829412.pink^
 ||82953.pink^
-||83066.pink^
 ||83092.pink^
 ||83176.pink^
 ||831797.pink^
@@ -1417,7 +1416,6 @@
 ||86962.pink^
 ||87013.pink^
 ||87192.pink^
-||87284.pink^
 ||873448.pink^
 ||876433.pink^
 ||87691.pink^
@@ -1438,7 +1436,6 @@
 ||888385.pink^
 ||88855.pink^
 ||89065.pink^
-||89127.pink^
 ||89168.pink^
 ||89196.pink^
 ||89345.pink^
@@ -1501,13 +1498,10 @@
 ||92076.pink^
 ||92081.pink^
 ||921038.pink^
-||92128.pink^
 ||92133.pink^
 ||92172.pink^
-||92201.pink^
 ||92295.pink^
 ||92322.pink^
-||92373.pink^
 ||92528.pink^
 ||92607.pink^
 ||92657.pink^
@@ -1542,16 +1536,13 @@
 ||94187.pink^
 ||94228.pink^
 ||94341.pink^
-||94456.pink^
 ||94466.pink^
 ||94580.pink^
 ||946328.pink^
 ||94634.pink^
-||94718.pink^
 ||94776.pink^
 ||950137.pink^
 ||950138.pink^
-||95035.pink^
 ||950941.pink^
 ||951307.pink^
 ||95137.pink^
@@ -1629,7 +1620,7 @@
 ||986379.pink^
 ||98642.pink^
 ||986821.pink^
-||98784.pink^
+||98888.pink^
 ||98890.pink^
 ||989173.pink^
 ||989174.pink^
@@ -1647,12 +1638,14 @@
 ||99772.pink^
 ||998768.pink^
 ||99889.pink^
+||9995.pink^
 ||99969.pink^
 ||999985.pink^
 ||a88.pink^
 ||abo.pink^
 ||aboek.pink^
 ||aborcja.pink^
+||africa.pink^
 ||afswg.pink^
 ||ahaidashabi.pink^
 ||atm.pink^
@@ -1678,7 +1671,6 @@
 ||cara.pink^
 ||carth.pink^
 ||casino.pink^
-||cewekpoker.pink^
 ||cewekslot.pink^
 ||choangclub.pink^
 ||cityheaven.pink^
@@ -1693,6 +1685,7 @@
 ||daga.pink^
 ||dcubm.pink^
 ||ddvqv.pink^
+||dear.pink^
 ||dlsite.pink^
 ||dmm.pink^
 ||doge.pink^
@@ -1852,7 +1845,6 @@
 ||qhybs.pink^
 ||qkhjv.pink^
 ||qpcou.pink^
-||qrcode.pink^
 ||quant.pink^
 ||qwbqq.pink^
 ||rcfjc.pink^
@@ -1879,6 +1871,7 @@
 ||tauslot88.pink^
 ||tcauz.pink^
 ||tdtc.pink^
+||terminal.pink^
 ||thenet.pink^
 ||three.pink^
 ||tinder.pink^
@@ -1922,7 +1915,6 @@
 ||xxtjs.pink^
 ||ydbfh.pink^
 ||youporn.pink^
-||ysg.pink^
 ||yun.pink^
 ||yyvpr.pink^
 ||zero.pink^
