@@ -23,7 +23,6 @@
 ||app-jojo.exchange^
 ||appjojo.exchange^
 ||appvela.exchange^
-||arbx.exchange^
 ||arcus.exchange^
 ||areip.exchange^
 ||asialive88zonavip.exchange^
@@ -32,6 +31,7 @@
 ||ava.exchange^
 ||avail.exchange^
 ||axis.exchange^
+||bando.exchange^
 ||bare.exchange^
 ||baseswap.exchange^
 ||bcgame.exchange^
@@ -125,6 +125,7 @@
 ||dailytrade.exchange^
 ||dappadar.exchange^
 ||dapradar.exchange^
+||dayjob.exchange^
 ||ddydx.exchange^
 ||ddyx.exchange^
 ||deai.exchange^
@@ -132,6 +133,7 @@
 ||deepai.exchange^
 ||defix.exchange^
 ||dejungle.exchange^
+||deren.exchange^
 ||dewacasinozonavip.exchange^
 ||dewavegaszonavip.exchange^
 ||dex-bungee.exchange^
@@ -191,6 +193,7 @@
 ||fum.exchange^
 ||funding.exchange^
 ||gamersx.exchange^
+||garex.exchange^
 ||gen.exchange^
 ||generate.exchange^
 ||gfdscazb-cloud.exchange^
@@ -216,7 +219,6 @@
 ||hello88.exchange^
 ||helloworld.exchange^
 ||helpsec.exchange^
-||hestia.exchange^
 ||hh.exchange^
 ||hk01.exchange^
 ||hns.exchange^
@@ -225,6 +227,7 @@
 ||hourly.exchange^
 ||humanoid.exchange^
 ||hydrogengreen.exchange^
+||hyperdata.exchange^
 ||igamble247zonavip.exchange^
 ||immutable.exchange^
 ||in-dex.exchange^
@@ -239,7 +242,6 @@
 ||jumprer.exchange^
 ||justazc.exchange^
 ||justmarkets.exchange^
-||kavan.exchange^
 ||kavian.exchange^
 ||kcex.exchange^
 ||kcrypto.exchange^
@@ -284,6 +286,7 @@
 ||mumu.exchange^
 ||musicrights.exchange^
 ||mvr.exchange^
+||mxnb.exchange^
 ||mycrypto.exchange^
 ||myholidayhome.exchange^
 ||nakamoto-ai.exchange^
@@ -295,7 +298,6 @@
 ||notar.exchange^
 ||nudes.exchange^
 ||obsidian.exchange^
-||ocketx.exchange^
 ||octo.exchange^
 ||oi-online.exchange^
 ||omni-apex.exchange^
@@ -306,9 +308,9 @@
 ||openrightsdata.exchange^
 ||orc.exchange^
 ||orca.exchange^
-||orcketx.exchange^
 ||org-connect.exchange^
 ||org-online.exchange^
+||origins.exchange^
 ||orionomega.exchange^
 ||outright.exchange^
 ||paidwalletethereum.exchange^
@@ -341,8 +343,6 @@
 ||ram-ses.exchange^
 ||ramsesv2.exchange^
 ||ramsis.exchange^
-||rcketx.exchange^
-||rcoketx.exchange^
 ||realestatesecurities.exchange^
 ||realestatetoken.exchange^
 ||realwin.exchange^
@@ -352,18 +352,12 @@
 ||rightsmusic.exchange^
 ||rin.exchange^
 ||rmib.exchange^
+||rna.exchange^
 ||rnc.exchange^
-||rocektx.exchange^
-||rocetx.exchange^
-||rockex.exchange^
-||rockext.exchange^
-||rocktex.exchange^
-||rocktx.exchange^
 ||rune.exchange^
 ||sahara.exchange^
 ||sapnextgen.exchange^
 ||satoshiai.exchange^
-||sblox.exchange^
 ||scitech.exchange^
 ||scitechcapital.exchange^
 ||seaports.exchange^
@@ -387,7 +381,6 @@
 ||sonicprompts.exchange^
 ||soundtrack.exchange^
 ||sprayfoam.exchange^
-||sso.exchange^
 ||stableswap.exchange^
 ||star5.exchange^
 ||starling.exchange^
@@ -458,7 +451,6 @@
 ||world-coin.exchange^
 ||wrthy.exchange^
 ||ww88.exchange^
-||wwwrocketx.exchange^
 ||xnxx.exchange^
 ||xrpgrow.exchange^
 ||yddx.exchange^
@@ -468,5 +460,6 @@
 ||ysk.exchange^
 ||zap.exchange^
 ||zei.exchange^
+||zeroslippage.exchange^
 ||zig-zag.exchange^
 ||zver.exchange^
