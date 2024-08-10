@@ -5,7 +5,6 @@
 ||and.tools^
 ||ari.tools^
 ||artifacts.tools^
-||bahn.tools^
 ||beautiful.tools^
 ||benchmark.tools^
 ||betsaya.tools^
@@ -18,8 +17,6 @@
 ||colab.tools^
 ||collaboratory.tools^
 ||compress.tools^
-||compute.tools^
-||contacts.tools^
 ||datecoach.tools^
 ||dbc.tools^
 ||discoclub.tools^
@@ -40,7 +37,6 @@
 ||grow.tools^
 ||hatsu.tools^
 ||head.tools^
-||hire.tools^
 ||hyfun.tools^
 ||influent.tools^
 ||jap.tools^
@@ -52,8 +48,6 @@
 ||kolor.tools^
 ||lavender.tools^
 ||leadlegend.tools^
-||learning.tools^
-||learnings.tools^
 ||lstahl.tools^
 ||marketingblocksai.tools^
 ||mgstm.tools^
@@ -86,13 +80,11 @@
 ||secureauth.tools^
 ||seo-studio.tools^
 ||shack.tools^
-||spice.tools^
 ||spotifypremium.tools^
 ||startupkit.tools^
 ||supervpn.tools^
 ||sustainability.tools^
 ||tally.tools^
-||teachings.tools^
 ||team-x.tools^
 ||teambluelight.tools^
 ||technicalanalysis.tools^
@@ -105,7 +97,6 @@
 ||vertical-leap.tools^
 ||vndal.tools^
 ||vuu.tools^
-||wallex.tools^
 ||webpad.tools^
 ||webseo.tools^
 ||whatsappp.tools^
