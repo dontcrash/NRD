@@ -10,10 +10,12 @@
 ||cartographer.new^
 ||castle.new^
 ||coop.new^
+||corporation.new^
 ||crociera.new^
 ||cryptocasino.new^
 ||ddraw.new^
 ||dpages.new^
+||entity.new^
 ||federation.new^
 ||finance.new^
 ||flashcards.new^
@@ -23,10 +25,12 @@
 ||integration.new^
 ||journey.new^
 ||labtest.new^
+||manifest.new^
 ||oh.new^
 ||onlyfiles.new^
 ||patient.new^
 ||pet.new^
+||privacy.new^
 ||prototype.new^
 ||prototypes.new^
 ||qrcode.new^
