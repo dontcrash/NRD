@@ -13,6 +13,7 @@
 ||agni.exchange^
 ||agrocrypto.exchange^
 ||agrousd.exchange^
+||akt.exchange^
 ||amber.exchange^
 ||ambient.exchange^
 ||americanparagon.exchange^
@@ -33,8 +34,8 @@
 ||areip.exchange^
 ||arise.exchange^
 ||asialive88zonavip.exchange^
-||atlantis.exchange^
 ||ava.exchange^
+||avaswap.exchange^
 ||axis.exchange^
 ||bando.exchange^
 ||bare.exchange^
@@ -42,7 +43,6 @@
 ||bcgame.exchange^
 ||bcglobal.exchange^
 ||bdag.exchange^
-||bellum.exchange^
 ||bet88vn.exchange^
 ||billion.exchange^
 ||binancesupport.exchange^
@@ -59,12 +59,12 @@
 ||blender.exchange^
 ||blerb.exchange^
 ||bliss.exchange^
-||blockchainoffice.exchange^
 ||blockchains.exchange^
 ||blockchair.exchange^
 ||blokpoints.exchange^
 ||bobr.exchange^
 ||bonetti.exchange^
+||borsch.exchange^
 ||brc.exchange^
 ||breakthechain.exchange^
 ||brick.exchange^
@@ -82,12 +82,10 @@
 ||caffeine.exchange^
 ||calidad.exchange^
 ||capella.exchange^
-||capitaldesignweb.exchange^
 ||carnelot.exchange^
 ||cashusdt.exchange^
 ||cashyou.exchange^
 ||catswap.exchange^
-||cdz.exchange^
 ||chai.exchange^
 ||chit.exchange^
 ||chopper.exchange^
@@ -96,13 +94,11 @@
 ||coinbase-ireland.exchange^
 ||coinflow.exchange^
 ||coinjar.exchange^
-||coinmarket.exchange^
 ||coinsec.exchange^
 ||com-app.exchange^
 ||com-online-wallet.exchange^
 ||com-online.exchange^
 ||com-wallet-connect.exchange^
-||commonground.exchange^
 ||compa.exchange^
 ||contextual.exchange^
 ||cookie3.exchange^
@@ -114,6 +110,7 @@
 ||cryp.exchange^
 ||cryptobuy.exchange^
 ||cryptocom.exchange^
+||cryptofiats.exchange^
 ||cryptofin.exchange^
 ||cryptogpt.exchange^
 ||cryptokglobal.exchange^
@@ -165,6 +162,7 @@
 ||esx.exchange^
 ||etherium.exchange^
 ||eu-web-bungee.exchange^
+||eventhorizon.exchange^
 ||exch.exchange^
 ||exemptliquiditymarket.exchange^
 ||exposetoken.exchange^
@@ -180,6 +178,7 @@
 ||finance-app.exchange^
 ||finance-dex.exchange^
 ||finance-online.exchange^
+||finance-v4.exchange^
 ||finance-wallet.exchange^
 ||finance.exchange^
 ||finchain.exchange^
@@ -251,7 +250,6 @@
 ||kite.exchange^
 ||kong.exchange^
 ||kopio.exchange^
-||kriptonyx.exchange^
 ||kubett.exchange^
 ||kuru.exchange^
 ||kyton.exchange^
@@ -330,6 +328,7 @@
 ||org-connect.exchange^
 ||org-online.exchange^
 ||org-v3.exchange^
+||org-v4.exchange^
 ||org-wallet-app.exchange^
 ||origin.exchange^
 ||origins.exchange^
@@ -342,7 +341,6 @@
 ||payouts.exchange^
 ||pendulum.exchange^
 ||pension.exchange^
-||pera.exchange^
 ||picnic.exchange^
 ||pim.exchange^
 ||pit.exchange^
@@ -356,13 +354,13 @@
 ||privateplacement.exchange^
 ||pro-apex.exchange^
 ||prodigy.exchange^
+||protox.exchange^
 ||pyramid.exchange^
 ||pyro.exchange^
 ||qood.exchange^
 ||quantx.exchange^
 ||radiant.exchange^
 ||radius.exchange^
-||ram-ces.exchange^
 ||ramsesv2.exchange^
 ||ramsis.exchange^
 ||realestatesecurities.exchange^
@@ -382,11 +380,13 @@
 ||rnc.exchange^
 ||robuxstock.exchange^
 ||rune.exchange^
+||sandboxnft.exchange^
 ||sapnextgen.exchange^
 ||satoshiai.exchange^
 ||scitech.exchange^
 ||scitechcapital.exchange^
 ||seaports.exchange^
+||seats.exchange^
 ||securitiestoken.exchange^
 ||serenity.exchange^
 ||settlorgold.exchange^
@@ -402,12 +402,10 @@
 ||snake.exchange^
 ||softskill.exchange^
 ||softskills.exchange^
-||solarsystem.exchange^
 ||sole.exchange^
 ||solnom.exchange^
 ||solver.exchange^
 ||something.exchange^
-||soundtrack.exchange^
 ||souq.exchange^
 ||sprayfoam.exchange^
 ||stableswap.exchange^
@@ -415,7 +413,6 @@
 ||starling.exchange^
 ||stblty.exchange^
 ||superai.exchange^
-||sustainable.exchange^
 ||swap-line.exchange^
 ||swapex.exchange^
 ||swissblock.exchange^
@@ -441,6 +438,7 @@
 ||towel.exchange^
 ||traveltoken.exchange^
 ||treasuries.exchange^
+||tridium.exchange^
 ||tuplan50.exchange^
 ||turnkey.exchange^
 ||tvltoken.exchange^
@@ -453,6 +451,7 @@
 ||use.exchange^
 ||ushome.exchange^
 ||utahstock.exchange^
+||v3-camelot.exchange^
 ||valve.exchange^
 ||vaporents.exchange^
 ||vaulted.exchange^
@@ -464,6 +463,7 @@
 ||vertex.exchange^
 ||vertofx.exchange^
 ||vessel.exchange^
+||visionpro.exchange^
 ||vn88.exchange^
 ||voex.exchange^
 ||vox.exchange^

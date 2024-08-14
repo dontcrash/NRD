@@ -5,7 +5,6 @@
 ||aislides.new^
 ||all.new^
 ||automation.new^
-||axure.new^
 ||cartographer.new^
 ||castle.new^
 ||coop.new^
@@ -30,15 +29,11 @@
 ||patient.new^
 ||pet.new^
 ||privacy.new^
-||prototype.new^
-||prototypes.new^
 ||qrcode.new^
 ||re.new^
 ||reactnative.new^
 ||runreal.new^
-||sims.new^
 ||slidesai.new^
-||specs.new^
 ||study.new^
 ||theydo.new^
 ||up.new^
@@ -47,4 +42,5 @@
 ||view.new^
 ||widget.new^
 ||workspace.new^
+||world.new^
 ||zamp.new^
