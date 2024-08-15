@@ -37,7 +37,7 @@
 ||dsr.management^
 ||ecom.management^
 ||eevoke.management^
-||enhance.management^
+||environment.management^
 ||epro.management^
 ||exchanges.management^
 ||galaxy.management^
@@ -50,6 +50,7 @@
 ||host.management^
 ||hund-im-buero.management^
 ||incomeproperty.management^
+||inference.management^
 ||intrig.management^
 ||investment.management^
 ||jawis-sicherheit.management^
@@ -98,8 +99,6 @@
 ||priority.management^
 ||prm.management^
 ||promote.management^
-||proplink.management^
-||prospective.management^
 ||push-via-mail-workforce-netsuite.management^
 ||responsibleai.management^
 ||rob.management^
@@ -118,7 +117,7 @@
 ||stalius.management^
 ||steel.management^
 ||stoic.management^
-||theartofliving.management^
+||story.management^
 ||thetrans.management^
 ||thevice.management^
 ||thewellnesscompany.management^
@@ -130,6 +129,7 @@
 ||truliant.management^
 ||twist.management^
 ||udn.management^
+||unikat.management^
 ||upperleft.management^
 ||upperleftproperty.management^
 ||usecase.management^

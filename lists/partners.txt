@@ -21,6 +21,7 @@
 ||apparel.partners^
 ||appliance.partners^
 ||artisan.partners^
+||asm.partners^
 ||avocasino.partners^
 ||backend.partners^
 ||bcgame.partners^
@@ -67,6 +68,7 @@
 ||crasher.partners^
 ||cryptocity.partners^
 ||curated.partners^
+||curiosity.partners^
 ||deel.partners^
 ||deltawallet.partners^
 ||dopamine.partners^
@@ -79,8 +81,6 @@
 ||eolas.partners^
 ||equus.partners^
 ||ergo.partners^
-||everviewcap.partners^
-||everviewglobal.partners^
 ||fastforward.partners^
 ||fbspl.partners^
 ||fellini.partners^
@@ -88,7 +88,6 @@
 ||fiscozen.partners^
 ||flatzone.partners^
 ||fml.partners^
-||fruttibet.partners^
 ||fssolar.partners^
 ||fxg.partners^
 ||gammacapital.partners^
@@ -110,7 +109,6 @@
 ||hk01.partners^
 ||homelending.partners^
 ||honcho.partners^
-||hudsonavenue.partners^
 ||idbox.partners^
 ||inicio.partners^
 ||intermission.partners^
@@ -139,7 +137,6 @@
 ||morrow.partners^
 ||mortgagecompany.partners^
 ||mortgagelending.partners^
-||most.partners^
 ||movingcompany.partners^
 ||mspexit.partners^
 ||mundial.partners^
@@ -150,7 +147,6 @@
 ||neuro.partners^
 ||northup.partners^
 ||notbet.partners^
-||nrg.partners^
 ||oakwood.partners^
 ||oceanpeak.partners^
 ||odds.partners^
@@ -179,7 +175,6 @@
 ||python.partners^
 ||reach.partners^
 ||redcandy.partners^
-||redpill.partners^
 ||regeneron.partners^
 ||ringwald.partners^
 ||riversides.partners^
@@ -201,6 +196,7 @@
 ||slot.partners^
 ||slotcoin.partners^
 ||solventer.partners^
+||sos.partners^
 ||sourcing.partners^
 ||sreinvestment.partners^
 ||stakeindia.partners^
@@ -238,7 +234,6 @@
 ||voltron.partners^
 ||wam.partners^
 ||warwickconsulting.partners^
-||wincasino.partners^
 ||wktk.partners^
 ||wwg.partners^
 ||xai.partners^

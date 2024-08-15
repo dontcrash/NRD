@@ -65,7 +65,6 @@
 ||couriernetwork.delivery^
 ||creme.delivery^
 ||cse.delivery^
-||ct.delivery^
 ||custom.delivery^
 ||dataleak.delivery^
 ||daum.delivery^
@@ -77,7 +76,6 @@
 ||desenrola.delivery^
 ||devtestaug08.delivery^
 ||directmail.delivery^
-||disneypinnacle.delivery^
 ||dispatch.delivery^
 ||donutdreams.delivery^
 ||dots.delivery^
@@ -113,6 +111,7 @@
 ||globalexpresscourier.delivery^
 ||gofur.delivery^
 ||goldstarcollectiveshowroom.delivery^
+||goloco.delivery^
 ||gpt.delivery^
 ||grecco.delivery^
 ||greenwayexpress.delivery^
@@ -126,7 +125,6 @@
 ||hsypo.delivery^
 ||hurriyet.delivery^
 ||i9bet.delivery^
-||ia.delivery^
 ||ibizaflowers.delivery^
 ||iddaa.delivery^
 ||ifoundyou.delivery^
@@ -141,7 +139,6 @@
 ||kavena.delivery^
 ||khana.delivery^
 ||kidocura.delivery^
-||ks.delivery^
 ||kzcja.delivery^
 ||lacarnita.delivery^
 ||larissa.delivery^
@@ -222,11 +219,9 @@
 ||re-book.delivery^
 ||re-update.delivery^
 ||rebook.delivery^
-||redi.delivery^
 ||rhonda.delivery^
 ||river.delivery^
 ||rpg.delivery^
-||rushit.delivery^
 ||rwb.delivery^
 ||rxhome.delivery^
 ||ryda.delivery^
@@ -243,6 +238,7 @@
 ||simenang1.delivery^
 ||sina.delivery^
 ||singularity.delivery^
+||sku.delivery^
 ||skyletshippingcompany.delivery^
 ||slotgacor.delivery^
 ||smartship.delivery^
@@ -264,7 +260,6 @@
 ||taiwanlottery.delivery^
 ||takeback.delivery^
 ||talk.delivery^
-||tdtcbet.delivery^
 ||tenki.delivery^
 ||teriyaki.delivery^
 ||tff.delivery^
@@ -282,6 +277,7 @@
 ||udn.delivery^
 ||unchi.delivery^
 ||unibet.delivery^
+||ups-chf.delivery^
 ||ups-tracking-id03561.delivery^
 ||ups-tracking-id03624.delivery^
 ||ups-tracking-id04576.delivery^
@@ -330,7 +326,6 @@
 ||ve3.delivery^
 ||vintservice.delivery^
 ||vnexpress.delivery^
-||vt.delivery^
 ||wasel.delivery^
 ||watami.delivery^
 ||whiz.delivery^
