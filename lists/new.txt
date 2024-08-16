@@ -14,8 +14,6 @@
 ||ddraw.new^
 ||dpages.new^
 ||entity.new^
-||federation.new^
-||finance.new^
 ||flashcards.new^
 ||god.new^
 ||gov.new^
@@ -30,6 +28,7 @@
 ||pet.new^
 ||privacy.new^
 ||qrcode.new^
+||queue.new^
 ||re.new^
 ||reactnative.new^
 ||runreal.new^
@@ -42,4 +41,3 @@
 ||widget.new^
 ||workspace.new^
 ||world.new^
-||zamp.new^

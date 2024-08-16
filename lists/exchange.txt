@@ -25,6 +25,7 @@
 ||anycrypto.exchange^
 ||anywho.exchange^
 ||aori.exchange^
+||aperture.exchange^
 ||apes.exchange^
 ||apeswap.exchange^
 ||apm.exchange^
@@ -40,6 +41,7 @@
 ||axis.exchange^
 ||azki.exchange^
 ||backcom.exchange^
+||baltic.exchange^
 ||bando.exchange^
 ||bare.exchange^
 ||baseswap.exchange^
@@ -67,13 +69,11 @@
 ||bobr.exchange^
 ||bonetti.exchange^
 ||borsch.exchange^
-||brc.exchange^
 ||breakthechain.exchange^
-||brick.exchange^
 ||browser.exchange^
 ||bugs.exchange^
-||builditron.exchange^
 ||bulldogeinu.exchange^
+||buqx.exchange^
 ||bvbx.exchange^
 ||bxc.exchange^
 ||bxi.exchange^
@@ -89,6 +89,7 @@
 ||cashyou.exchange^
 ||catswap.exchange^
 ||chai.exchange^
+||chartobserver.exchange^
 ||chit.exchange^
 ||clone.exchange^
 ||coin-base.exchange^
@@ -167,6 +168,7 @@
 ||eu-web-bungee.exchange^
 ||eventhorizon.exchange^
 ||exch.exchange^
+||exchangeramses.exchange^
 ||exemptliquiditymarket.exchange^
 ||exposetoken.exchange^
 ||exwhite.exchange^
@@ -177,7 +179,9 @@
 ||ffc.exchange^
 ||fiber.exchange^
 ||fidex.exchange^
+||figment.exchange^
 ||finance-app.exchange^
+||finance-dex-app.exchange^
 ||finance-dex.exchange^
 ||finance-online.exchange^
 ||finance-v3-app.exchange^
@@ -191,6 +195,7 @@
 ||fluxbit.exchange^
 ||forbit.exchange^
 ||freeriver.exchange^
+||fry.exchange^
 ||fuclaude.exchange^
 ||fum.exchange^
 ||funding.exchange^
@@ -199,17 +204,14 @@
 ||gbg.exchange^
 ||gibcoin.exchange^
 ||gigabit.exchange^
-||giveaway.exchange^
 ||gnomix.exchange^
 ||godel.exchange^
-||gold-coin.exchange^
 ||goldempire.exchange^
 ||gpt.exchange^
 ||grail.exchange^
 ||grapevine.exchange^
 ||guild.exchange^
 ||gummy.exchange^
-||hamster-kombat.exchange^
 ||hangaw.exchange^
 ||hathor.exchange^
 ||haystack.exchange^
@@ -224,7 +226,6 @@
 ||hobba.exchange^
 ||hofo.exchange^
 ||hongkongblock.exchange^
-||hourly.exchange^
 ||humanoid.exchange^
 ||hustle.exchange^
 ||hyperdata.exchange^
@@ -258,6 +259,7 @@
 ||landmark.exchange^
 ||laser.exchange^
 ||laundry.exchange^
+||lava.exchange^
 ||lbx.exchange^
 ||legends.exchange^
 ||lemacauzonavip.exchange^
@@ -271,7 +273,6 @@
 ||longabit.exchange^
 ||ltaf.exchange^
 ||lubuktogel8.exchange^
-||lyra.exchange^
 ||macquarie.exchange^
 ||mafia.exchange^
 ||maklik.exchange^
@@ -298,7 +299,6 @@
 ||mycrypto.exchange^
 ||myholidayhome.exchange^
 ||myonline.exchange^
-||nakamoto-ai.exchange^
 ||naut.exchange^
 ||nautt.exchange^
 ||nbx.exchange^
@@ -438,6 +438,7 @@
 ||traveltoken.exchange^
 ||treasuries.exchange^
 ||tridium.exchange^
+||trigger.exchange^
 ||tuplan50.exchange^
 ||turnkey.exchange^
 ||tvltoken.exchange^
@@ -456,7 +457,6 @@
 ||ve3.exchange^
 ||vegamovies.exchange^
 ||vegas88zonavip.exchange^
-||vella.exchange^
 ||venkate.exchange^
 ||vertex.exchange^
 ||vertofx.exchange^
@@ -466,11 +466,11 @@
 ||voex.exchange^
 ||vox.exchange^
 ||w888.exchange^
-||wall.exchange^
 ||wander.exchange^
 ||watsonx.exchange^
 ||web-base-bridge.exchange^
 ||web-defillama.exchange^
+||web-jumper.exchange^
 ||web4.exchange^
 ||web6.exchange^
 ||wewe.exchange^
