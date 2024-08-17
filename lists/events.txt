@@ -31,6 +31,7 @@
 ||aieo.events^
 ||airain.events^
 ||aja.events^
+||akola.events^
 ||alaq.events^
 ||alavie.events^
 ||alia.events^
@@ -41,13 +42,13 @@
 ||altern8.events^
 ||altum.events^
 ||amani.events^
-||amazonlive.events^
 ||ampm.events^
 ||amv.events^
 ||analisamarie.events^
 ||ancient8.events^
 ||animalkingdom.events^
 ||anonymous.events^
+||anthroevents.events^
 ||apistamp.events^
 ||app-cookie3.events^
 ||app-drift.events^
@@ -60,7 +61,6 @@
 ||artoftouch.events^
 ||askedna.events^
 ||asyouwish.events^
-||athene.events^
 ||atoll.events^
 ||atoz.events^
 ||audiotech.events^
@@ -128,6 +128,7 @@
 ||bxcb2.events^
 ||caixa.events^
 ||cakeworthy.events^
+||canlidoviz.events^
 ||cannonball.events^
 ||cassino.events^
 ||casting.events^
@@ -145,7 +146,9 @@
 ||cherrydesigns.events^
 ||chi.events^
 ||chigisoft.events^
+||chinatimes.events^
 ||christinalwoods.events^
+||chumakov.events^
 ||cin.events^
 ||clairdelune.events^
 ||cloud10.events^
@@ -173,7 +176,7 @@
 ||cryptocity.events^
 ||cryptography.events^
 ||csl.events^
-||cupcake.events^
+||ctc.events^
 ||cxobuyer.events^
 ||cxw.events^
 ||cyber909.events^
@@ -188,6 +191,7 @@
 ||decordreams.events^
 ||deeptech.events^
 ||degens.events^
+||detik.events^
 ||devilcorp.events^
 ||digital4imm.events^
 ||dione.events^
@@ -214,7 +218,6 @@
 ||echtzeit.events^
 ||eclub.events^
 ||economictimes.events^
-||edalsa.events^
 ||egen.events^
 ||egs.events^
 ||eightstar.events^
@@ -233,9 +236,9 @@
 ||eufonia.events^
 ||event-snap.events^
 ||eventcompany.events^
-||eventlab.events^
 ||eventlocation.events^
 ||exam.events^
+||excellency.events^
 ||exlantix.events^
 ||f8bet.events^
 ||fair.events^
@@ -269,6 +272,7 @@
 ||foodloop.events^
 ||foodrescue.events^
 ||forebet.events^
+||forevermoore.events^
 ||fraternity.events^
 ||funcard.events^
 ||funtastic.events^
@@ -304,8 +308,10 @@
 ||harris2024.events^
 ||hashtagrisk.events^
 ||hce.events^
+||hdfcbank.events^
 ||hdhub4u.events^
 ||heartbeatsbrasil.events^
+||heartbeatz.events^
 ||hetsieraad.events^
 ||hitomi.events^
 ||hk01.events^
@@ -342,7 +348,6 @@
 ||ivolunteer.events^
 ||jagen.events^
 ||jam.events^
-||jashan.events^
 ||jaspa.events^
 ||jav.events^
 ||jco.events^
@@ -357,6 +362,7 @@
 ||journalism.events^
 ||journalistik.events^
 ||joyclub.events^
+||joyeux.events^
 ||joystick.events^
 ||jpclark.events^
 ||jpstreeteats.events^
@@ -377,6 +383,7 @@
 ||kl710.events^
 ||ko66vip.events^
 ||koelnmesse.events^
+||kompas.events^
 ||kore.events^
 ||ku11.events^
 ||kubet77.events^
@@ -426,6 +433,7 @@
 ||mafate.events^
 ||magas.events^
 ||mainnet-monad.events^
+||makadu.events^
 ||makeitreal.events^
 ||marktgilde.events^
 ||martechweek.events^
@@ -439,6 +447,7 @@
 ||michael-saylor.events^
 ||micro3.events^
 ||millipiyangoonline.events^
+||milliyet.events^
 ||milovonaperitivo.events^
 ||ministryofnature.events^
 ||mir-i-am.events^
@@ -450,16 +459,18 @@
 ||mogs.events^
 ||monadxyz.events^
 ||moneyback-ltd.events^
-||moniswap.events^
+||moneycontrol.events^
 ||moontropica.events^
 ||movementlabs.events^
 ||movementsiabs.events^
 ||movingtouae.events^
 ||ms24.events^
 ||mss.events^
+||mt-music.events^
 ||my-gallery.events^
 ||mysmile.events^
 ||mytunisia.events^
+||myzeller.events^
 ||nachtschwimmer.events^
 ||naiv.events^
 ||namu.events^
@@ -478,12 +489,13 @@
 ||nicks.events^
 ||nohu90.events^
 ||nonplayable.events^
-||normie.events^
 ||normiecoin.events^
 ||normies.events^
 ||norsk-tipping.events^
 ||novicell.events^
 ||nxs.events^
+||nycjewishsocial.events^
+||octavia.events^
 ||ofterra.events^
 ||oktoberfest.events^
 ||oldtimerbus-mieten.events^
@@ -496,7 +508,6 @@
 ||oono.events^
 ||opea.events^
 ||openair.events^
-||openhousemusic.events^
 ||opepen.events^
 ||orchis.events^
 ||ormies.events^
@@ -506,6 +517,7 @@
 ||paintedporch.events^
 ||pantip.events^
 ||parisplanner.events^
+||pasadena.events^
 ||past.events^
 ||pavilion360.events^
 ||payback-ltd.events^
@@ -529,8 +541,6 @@
 ||polyhedra.events^
 ||pontem.events^
 ||pop-up.events^
-||portal17.events^
-||pot.events^
 ||powerbox.events^
 ||preciousmemories.events^
 ||prideful.events^
@@ -552,7 +562,6 @@
 ||redlinevideo.events^
 ||registroenlinea.events^
 ||religious.events^
-||rennauto.events^
 ||resolute.events^
 ||results.events^
 ||rfw.events^
@@ -562,12 +571,13 @@
 ||roadcrew.events^
 ||robskwartier.events^
 ||rocklinmedia.events^
-||rooh.events^
+||rohlik.events^
 ||roots.events^
 ||rt-25.events^
 ||rucola.events^
 ||s1-wormhole.events^
 ||sabah.events^
+||sabo.events^
 ||sace90.events^
 ||safespace.events^
 ||safetyatsea.events^
@@ -587,6 +597,7 @@
 ||season1-wormhole.events^
 ||seek.events^
 ||seminars.events^
+||sfw.events^
 ||shadi.events^
 ||shai.events^
 ||shajan.events^
@@ -600,7 +611,6 @@
 ||signup-lava.events^
 ||similar.events^
 ||simonscat.events^
-||simplyplanned.events^
 ||sitemap.events^
 ||sitka.events^
 ||slot.events^
@@ -615,6 +625,7 @@
 ||soul-summit.events^
 ||soundwavves.events^
 ||speaking.events^
+||speed-dating.events^
 ||sportsbook.events^
 ||sportshof.events^
 ||sporttery.events^
@@ -634,8 +645,10 @@
 ||storytellers.events^
 ||strange.events^
 ||streamshare.events^
+||streiter.events^
 ||studio74.events^
 ||studiov.events^
+||suddenlysingle.events^
 ||suggested.events^
 ||sunset-to-sunrise.events^
 ||superlative.events^
@@ -644,6 +657,7 @@
 ||svenskaspel.events^
 ||synerjazz.events^
 ||syosetu.events^
+||syrakus.events^
 ||tabinet.events^
 ||taikofinance.events^
 ||tailor-made.events^
@@ -672,7 +686,6 @@
 ||thewellnesscompany.events^
 ||thiranottam.events^
 ||thoughtleaders.events^
-||threatint.events^
 ||tik8.events^
 ||tinycon.events^
 ||tinyhome.events^
@@ -713,6 +726,7 @@
 ||veranstaltungstechnik-mieten.events^
 ||vibee.events^
 ||victorious.events^
+||videowestinc.events^
 ||virtualunited.events^
 ||virtuosa.events^
 ||vjav.events^
@@ -747,9 +761,13 @@
 ||x3.events^
 ||xosodaiphat.events^
 ||xskt.events^
+||xueqiu.events^
 ||yerevan.events^
+||yle.events^
+||ymca.events^
 ||zenodro.events^
 ||zignaly.events^
+||zingnews.events^
 ||zizic.events^
 ||zklink.events^
 ||zoleh.events^
