@@ -23,8 +23,8 @@
 ||brownstone.broker^
 ||businessdirectory.broker^
 ||buyer.broker^
-||chats.broker^
 ||coins.broker^
+||commit.broker^
 ||consultant.broker^
 ||copilot.broker^
 ||csb.broker^
@@ -34,6 +34,7 @@
 ||doom.broker^
 ||dustin.broker^
 ||ee88.broker^
+||embark.broker^
 ||emerald.broker^
 ||exolink.broker^
 ||exoticcar.broker^
@@ -84,12 +85,10 @@
 ||nohu90.broker^
 ||officespace.broker^
 ||p0wer.broker^
-||paid.broker^
 ||panda.broker^
 ||pension.broker^
 ||plasticsurgery.broker^
 ||policy.broker^
-||pornhub.broker^
 ||porno365.broker^
 ||portfolio.broker^
 ||poweryacht.broker^
@@ -104,6 +103,7 @@
 ||spot.broker^
 ||staking.broker^
 ||stars.broker^
+||stellar.broker^
 ||sv388.broker^
 ||t2.broker^
 ||tax.broker^

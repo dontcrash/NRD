@@ -13,8 +13,11 @@
 ||clematis.properties^
 ||csc-internationalegypt.properties^
 ||davisrental.properties^
+||ddd.properties^
+||denovo.properties^
 ||destinationparadise.properties^
 ||estartit.properties^
+||forge.properties^
 ||frontporch.properties^
 ||grandvista.properties^
 ||greenhouse.properties^
@@ -31,6 +34,7 @@
 ||libra.properties^
 ||mahouk.properties^
 ||manage.properties^
+||marxguiraud.properties^
 ||mauiliferealty.properties^
 ||montanasky.properties^
 ||moreways.properties^
@@ -43,6 +47,7 @@
 ||pavet-venture.properties^
 ||peron-primary.properties^
 ||premierportfolio.properties^
+||premiumhvac.properties^
 ||prestigi.properties^
 ||privat.properties^
 ||realcity.properties^
@@ -53,6 +58,7 @@
 ||springhollow.properties^
 ||tarponpoint-ambergriscay.properties^
 ||temuli.properties^
+||thedream.properties^
 ||third.properties^
 ||topnyc.properties^
 ||wheaton.properties^

@@ -1,9 +1,7 @@
 ||100x.exchange^
-||123movies.exchange^
 ||255bet.exchange^
 ||33win.exchange^
 ||777.exchange^
-||77win.exchange^
 ||abc8.exchange^
 ||abudhabi.exchange^
 ||acc.exchange^
@@ -24,6 +22,7 @@
 ||amkan.exchange^
 ||amplifide.exchange^
 ||angelvest.exchange^
+||angkor.exchange^
 ||anycrypto.exchange^
 ||anywho.exchange^
 ||aori.exchange^
@@ -47,6 +46,7 @@
 ||baseswap.exchange^
 ||bcgame.exchange^
 ||bet88vn.exchange^
+||bigger.exchange^
 ||billion.exchange^
 ||binancesupport.exchange^
 ||birdie.exchange^
@@ -72,6 +72,7 @@
 ||bonetti.exchange^
 ||borsch.exchange^
 ||breakthechain.exchange^
+||bron.exchange^
 ||browser.exchange^
 ||bugs.exchange^
 ||bulldogeinu.exchange^
@@ -89,7 +90,6 @@
 ||capella.exchange^
 ||capitals.exchange^
 ||capitaltech.exchange^
-||carnelot.exchange^
 ||cashusdt.exchange^
 ||cashyou.exchange^
 ||catswap.exchange^
@@ -161,6 +161,8 @@
 ||effortcurrency.exchange^
 ||egg.exchange^
 ||ekantiksoftware.exchange^
+||en-hop.exchange^
+||en-qulcksvvap.exchange^
 ||en-web-aevo.exchange^
 ||en-web-basebridge.exchange^
 ||en-web-bungee.exchange^
@@ -180,6 +182,7 @@
 ||fabco.exchange^
 ||fabe.exchange^
 ||fabr.exchange^
+||factorial.exchange^
 ||ffc.exchange^
 ||fiber.exchange^
 ||figment.exchange^
@@ -197,7 +200,6 @@
 ||flnance-on-dex.exchange^
 ||fluxbit.exchange^
 ||forbit.exchange^
-||freeriver.exchange^
 ||fry.exchange^
 ||fuclaude.exchange^
 ||fum.exchange^
@@ -208,7 +210,7 @@
 ||gigabit.exchange^
 ||gnomix.exchange^
 ||goldempire.exchange^
-||gpt.exchange^
+||gotrade.exchange^
 ||grail.exchange^
 ||grapevine.exchange^
 ||guild.exchange^
@@ -231,8 +233,10 @@
 ||hustle.exchange^
 ||hyperdata.exchange^
 ||ignition.exchange^
+||ikey.exchange^
 ||immutable.exchange^
 ||in-dex.exchange^
+||indacrypto.exchange^
 ||infinityworldtechnology.exchange^
 ||influence.exchange^
 ||integer.exchange^
@@ -261,7 +265,6 @@
 ||ladybug.exchange^
 ||landmark.exchange^
 ||laser.exchange^
-||laundry.exchange^
 ||lava.exchange^
 ||lbx.exchange^
 ||legends.exchange^
@@ -281,20 +284,20 @@
 ||maklik.exchange^
 ||manifold.exchange^
 ||mar-swap.exchange^
-||maximus.exchange^
 ||mcurrency.exchange^
 ||mex.exchange^
+||mexas.exchange^
 ||migraterocketx.exchange^
 ||migrationrocketx.exchange^
 ||milky-way.exchange^
 ||mindful.exchange^
 ||miracle.exchange^
-||mitosis.exchange^
 ||monad.exchange^
 ||moneyback.exchange^
 ||moonkey.exchange^
 ||mpm.exchange^
 ||mrbeanzcoin.exchange^
+||multicall.exchange^
 ||mumu.exchange^
 ||musicrights.exchange^
 ||mxnb.exchange^
@@ -324,12 +327,14 @@
 ||oooo.exchange^
 ||openbook.exchange^
 ||openrightsdata.exchange^
+||openstock.exchange^
 ||orasa.exchange^
 ||orc.exchange^
 ||orca.exchange^
 ||orderbook.exchange^
 ||orderflow.exchange^
 ||org-app-v3.exchange^
+||org-app-v4.exchange^
 ||org-app.exchange^
 ||org-connect.exchange^
 ||org-online.exchange^
@@ -355,17 +360,14 @@
 ||pixelverse.exchange^
 ||polylion.exchange^
 ||poolgram.exchange^
-||pornhub.exchange^
 ||porno365.exchange^
 ||powerincome.exchange^
 ||ppm.exchange^
 ||pppprotocol.exchange^
 ||premier.exchange^
-||privateplacement.exchange^
 ||pro-apex.exchange^
 ||prodigy.exchange^
 ||protox.exchange^
-||pyramid.exchange^
 ||pyro.exchange^
 ||qood.exchange^
 ||quantx.exchange^
@@ -413,7 +415,7 @@
 ||solver.exchange^
 ||souq.exchange^
 ||stableswap.exchange^
-||star5.exchange^
+||stacks.exchange^
 ||stblty.exchange^
 ||superai.exchange^
 ||swap-line.exchange^
@@ -441,7 +443,6 @@
 ||tonswap.exchange^
 ||toot.exchange^
 ||topex.exchange^
-||towel.exchange^
 ||traveltoken.exchange^
 ||tridium.exchange^
 ||trigger.exchange^
@@ -455,6 +456,7 @@
 ||univers.exchange^
 ||unovegaszonavip.exchange^
 ||urus.exchange^
+||us-bungee.exchange^
 ||usdtcash.exchange^
 ||use.exchange^
 ||ushome.exchange^
@@ -475,6 +477,7 @@
 ||wander.exchange^
 ||web-base-bridge.exchange^
 ||web-defillama.exchange^
+||web-hope.exchange^
 ||web-jumper.exchange^
 ||web4.exchange^
 ||wewe.exchange^
@@ -492,6 +495,5 @@
 ||xrpgrow.exchange^
 ||yerevan.exchange^
 ||yogurt.exchange^
-||ysk.exchange^
 ||zeroslippage.exchange^
 ||zver.exchange^

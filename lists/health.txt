@@ -5,11 +5,13 @@
 ||32d.health^
 ||32dcbd.health^
 ||33win.health^
+||aamedical.health^
 ||accessonline.health^
 ||acel.health^
 ||aceshightherapy.health^
 ||activeaging.health^
 ||activecare.health^
+||addictiontreatments.health^
 ||adopt.health^
 ||advnt.health^
 ||aerisairway.health^
@@ -21,6 +23,7 @@
 ||akua.health^
 ||allscope.health^
 ||allstat.health^
+||americaschoiceplan.health^
 ||amplifycare.health^
 ||antiage.health^
 ||apoorvhospital.health^
@@ -60,12 +63,14 @@
 ||biopharm.health^
 ||biopharma.health^
 ||bioregulator.health^
+||biotrack.health^
 ||bluebiotech.health^
 ||bluepharma.health^
 ||bluesphere.health^
 ||bmai.health^
 ||bodydata.health^
 ||bodymindsoul.health^
+||bookend.health^
 ||boss.health^
 ||bouncebackboss.health^
 ||breakinggroundtherapy.health^
@@ -98,6 +103,7 @@
 ||coffeeburn.health^
 ||colchicum.health^
 ||comforthomecare.health^
+||complex.health^
 ||conceptual.health^
 ||concerted.health^
 ||consumerjourney.health^
@@ -108,6 +114,7 @@
 ||cronoclock.health^
 ||curanet.health^
 ||curatel.health^
+||curemyallergy.health^
 ||dahlia.health^
 ||dancingwithdestiny.health^
 ||dare.health^
@@ -118,6 +125,7 @@
 ||deus.health^
 ||dewi.health^
 ||dhspay.health^
+||dichro.health^
 ||difenda.health^
 ||digitalempowerment.health^
 ||digitalfuture.health^
@@ -131,6 +139,7 @@
 ||dolcevita.health^
 ||drcompton.health^
 ||drsharonmoayeri.health^
+||drugaddiction.health^
 ||dryaskin.health^
 ||dukemed.health^
 ||easy-care.health^
@@ -143,6 +152,7 @@
 ||entyrecare.health^
 ||equiti.health^
 ||eselm.health^
+||everything.health^
 ||exhale.health^
 ||exit.health^
 ||faithishealthmedicalcenter.health^
@@ -164,6 +174,7 @@
 ||foryourbetter.health^
 ||fosterinnovations.health^
 ||fulcrum.health^
+||genera.health^
 ||gent.health^
 ||getwellpharma.health^
 ||glowsuisse.health^
@@ -194,6 +205,7 @@
 ||hekisa.health^
 ||helpmyheart.health^
 ||herchoice.health^
+||heromind.health^
 ||highperformance.health^
 ||history.health^
 ||hlthcoin.health^
@@ -244,6 +256,7 @@
 ||kingpinconsulting.health^
 ||klima.health^
 ||koki.health^
+||ladiestalk.health^
 ||landmark.health^
 ||languagehub.health^
 ||lausd.health^
@@ -274,11 +287,13 @@
 ||mandm.health^
 ||mantra.health^
 ||markus.health^
+||marz.health^
 ||masculine.health^
 ||maslow.health^
 ||mcclurgadvisors.health^
 ||mccurdys.health^
 ||medbank.health^
+||medfin.health^
 ||medhub.health^
 ||medicalresearch.health^
 ||medicalresearchintl.health^
@@ -289,6 +304,7 @@
 ||medregistry.health^
 ||meltoff.health^
 ||menopausehub.health^
+||mentily.health^
 ||messiah.health^
 ||metamed.health^
 ||metromed.health^
@@ -303,10 +319,13 @@
 ||monk.health^
 ||monzer.health^
 ||mosaichealth.health^
+||motility.health^
 ||movv.health^
 ||movy.health^
+||mpox.health^
 ||mrpharma.health^
 ||muqasa.health^
+||myallergycure.health^
 ||myantea.health^
 ||mybelle.health^
 ||mycommunity.health^
@@ -315,6 +334,7 @@
 ||mylink.health^
 ||myscore.health^
 ||naext.health^
+||namaha.health^
 ||naomi.health^
 ||nari.health^
 ||nationaltherapyphysics.health^
@@ -323,6 +343,7 @@
 ||naturesradiance.health^
 ||navicare.health^
 ||nchcares.health^
+||necksercise.health^
 ||neighbuddy.health^
 ||nell.health^
 ||nelson-plus.health^
@@ -343,13 +364,16 @@
 ||nursedaisy.health^
 ||nursejess.health^
 ||nurtured.health^
+||nutriwork.health^
 ||nuttyfor.health^
 ||nuture.health^
 ||nuyou.health^
 ||occupationaltherapy.health^
 ||okmedicine.health^
+||oncologyx.health^
 ||onelifemomentum.health^
 ||onenumber.health^
+||oomph.health^
 ||openedc.health^
 ||optimiseyou.health^
 ||oraclex.health^
@@ -370,6 +394,7 @@
 ||playday.health^
 ||pomafirma.health^
 ||pomi.health^
+||pornaddiction.health^
 ||porno365.health^
 ||powerup.health^
 ||pragma.health^
@@ -484,6 +509,7 @@
 ||thermalbalance.health^
 ||theyogayurt.health^
 ||thischangeseverything.health^
+||thrivetribe.health^
 ||tiki.health^
 ||tiktok.health^
 ||tirana.health^
@@ -498,6 +524,7 @@
 ||truststack.health^
 ||truvian.health^
 ||trydifferent.health^
+||trysynergy.health^
 ||tshn.health^
 ||tute.health^
 ||tzla.health^
@@ -519,6 +546,9 @@
 ||viveo.health^
 ||walker.health^
 ||warrencityhospital.health^
+||wayfinding.health^
+||welcomeback.health^
+||wellcomeback.health^
 ||wellhealthpremium.health^
 ||wellnessportraits.health^
 ||wellnessvoyages.health^
@@ -533,6 +563,7 @@
 ||wildheart.health^
 ||windpoint.health^
 ||windriver.health^
+||workloop.health^
 ||xanthomyst.health^
 ||yadayada.health^
 ||yanna.health^
