@@ -3,10 +3,8 @@
 ||33win.exchange^
 ||777.exchange^
 ||abc8.exchange^
-||abudhabi.exchange^
 ||acc.exchange^
 ||adscoin.exchange^
-||afcom.exchange^
 ||ag-connect.exchange^
 ||ag-online.exchange^
 ||ag-v3.exchange^
@@ -55,6 +53,7 @@
 ||biteqs.exchange^
 ||bitfi.exchange^
 ||bithaven.exchange^
+||bithive.exchange^
 ||bitify.exchange^
 ||bitiqs.exchange^
 ||bitkam.exchange^
@@ -78,7 +77,6 @@
 ||bulldogeinu.exchange^
 ||buqx.exchange^
 ||burn.exchange^
-||bvbx.exchange^
 ||bxc.exchange^
 ||bxi.exchange^
 ||bxt.exchange^
@@ -97,10 +95,12 @@
 ||chartobserver.exchange^
 ||chit.exchange^
 ||clone.exchange^
+||coach.exchange^
 ||coin-base.exchange^
 ||coinbase-ireland.exchange^
 ||coinflow.exchange^
 ||coinjar.exchange^
+||coinmarketcap.exchange^
 ||coinsec.exchange^
 ||com-app.exchange^
 ||com-online-wallet.exchange^
@@ -153,7 +153,6 @@
 ||dfagency.exchange^
 ||dirt.exchange^
 ||disco.exchange^
-||domo.exchange^
 ||donotgetrekt.exchange^
 ||dontgetrekt.exchange^
 ||doodle.exchange^
@@ -169,6 +168,8 @@
 ||en-web-debridge.exchange^
 ||en-web-defillama.exchange^
 ||en-web-orbiter.exchange^
+||eng-bungee.exchange^
+||eng-jumper.exchange^
 ||escortescrow.exchange^
 ||eu-web-bungee.exchange^
 ||eventhorizon.exchange^
@@ -201,7 +202,6 @@
 ||fluxbit.exchange^
 ||forbit.exchange^
 ||fry.exchange^
-||fuclaude.exchange^
 ||fum.exchange^
 ||funding.exchange^
 ||garex.exchange^
@@ -219,8 +219,8 @@
 ||hathor.exchange^
 ||haystack.exchange^
 ||hb88.exchange^
-||hdhub4u.exchange^
 ||headpat.exchange^
+||hedg.exchange^
 ||hello88.exchange^
 ||helm.exchange^
 ||helpsec.exchange^
@@ -276,6 +276,7 @@
 ||logical.exchange^
 ||loki.exchange^
 ||londonblock.exchange^
+||lop.exchange^
 ||ltaf.exchange^
 ||lubuktogel8.exchange^
 ||macquarie.exchange^
@@ -290,7 +291,6 @@
 ||migraterocketx.exchange^
 ||migrationrocketx.exchange^
 ||milky-way.exchange^
-||mindful.exchange^
 ||miracle.exchange^
 ||monad.exchange^
 ||moneyback.exchange^
@@ -344,6 +344,7 @@
 ||origin.exchange^
 ||origins.exchange^
 ||orionomega.exchange^
+||ouija.exchange^
 ||paidwalletethereum.exchange^
 ||palm.exchange^
 ||pantheonventures.exchange^
@@ -357,7 +358,6 @@
 ||pim.exchange^
 ||pins.exchange^
 ||pit.exchange^
-||pixelverse.exchange^
 ||polylion.exchange^
 ||poolgram.exchange^
 ||porno365.exchange^
@@ -380,6 +380,7 @@
 ||reflex.exchange^
 ||reintoken.exchange^
 ||relx.exchange^
+||revenue-share-tokens.exchange^
 ||revival.exchange^
 ||revoke-dydx.exchange^
 ||rice.exchange^
@@ -390,6 +391,7 @@
 ||rna.exchange^
 ||rnc.exchange^
 ||robuxstock.exchange^
+||salimi.exchange^
 ||sandboxnft.exchange^
 ||sapnextgen.exchange^
 ||satoshiai.exchange^
@@ -422,6 +424,7 @@
 ||swapex.exchange^
 ||swissblock.exchange^
 ||syncrights.exchange^
+||szse.exchange^
 ||take.exchange^
 ||tau.exchange^
 ||tdr.exchange^
@@ -431,7 +434,7 @@
 ||test-cryptxpay.exchange^
 ||tgold.exchange^
 ||thebiz.exchange^
-||thecollective.exchange^
+||theleadership.exchange^
 ||theoverflow.exchange^
 ||thewarsaw.exchange^
 ||throne.exchange^
@@ -454,9 +457,11 @@
 ||ubit.exchange^
 ||udn.exchange^
 ||univers.exchange^
+||unl-3svvapp.exchange^
 ||unovegaszonavip.exchange^
 ||urus.exchange^
 ||us-bungee.exchange^
+||us-jumper.exchange^
 ||usdtcash.exchange^
 ||use.exchange^
 ||ushome.exchange^
@@ -465,7 +470,6 @@
 ||valve.exchange^
 ||vaulted.exchange^
 ||ve3.exchange^
-||vegamovies.exchange^
 ||vegas88zonavip.exchange^
 ||vertex.exchange^
 ||vertofx.exchange^

@@ -2,7 +2,6 @@
 ||account-fidelity.financial^
 ||alfa.financial^
 ||algominds.financial^
-||americanwealth.financial^
 ||app-aerodrome.financial^
 ||ascend.financial^
 ||aspire.financial^
@@ -26,11 +25,11 @@
 ||cefi.financial^
 ||celebration.financial^
 ||center.financial^
-||chicken.financial^
 ||chronos.financial^
 ||clearjunction.financial^
 ||commodities.financial^
 ||conscious.financial^
+||cooper.financial^
 ||corevalues.financial^
 ||couch.financial^
 ||daydream.financial^
@@ -41,7 +40,7 @@
 ||domain.financial^
 ||doodleit.financial^
 ||eba.financial^
-||enclave.financial^
+||eigenlayer.financial^
 ||encompass.financial^
 ||eqfinance.financial^
 ||eqfinancie.financial^
@@ -62,6 +61,7 @@
 ||hansa.financial^
 ||harmony.financial^
 ||hk01.financial^
+||hof.financial^
 ||hoomans.financial^
 ||hrc.financial^
 ||hsi.financial^
@@ -98,11 +98,11 @@
 ||pinkney.financial^
 ||polymarket.financial^
 ||poolz.financial^
-||probate.financial^
 ||pump.financial^
 ||pure.financial^
 ||qiskit.financial^
 ||quantum-system.financial^
+||ration.financial^
 ||reclaimscammedcoins.financial^
 ||redbox.financial^
 ||regen.financial^
@@ -110,7 +110,6 @@
 ||rise.financial^
 ||riseup.financial^
 ||rl.financial^
-||safeguard.financial^
 ||saturn.financial^
 ||savie.financial^
 ||scitech.financial^
@@ -122,6 +121,7 @@
 ||simpleswap.financial^
 ||stargale.financial^
 ||stargate.financial^
+||starlight.financial^
 ||starttoday.financial^
 ||strike.financial^
 ||styx.financial^
