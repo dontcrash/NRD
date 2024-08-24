@@ -6,7 +6,6 @@
 ||agentic.build^
 ||aiautomation.build^
 ||aidea.build^
-||aiio.build^
 ||aitool.build^
 ||allio.build^
 ||alyante.build^
@@ -29,20 +28,17 @@
 ||centraloregon.build^
 ||cerlos.build^
 ||chandlercasita.build^
-||cherry.build^
 ||cnm.build^
 ||coreuk.build^
 ||cristobal.build^
 ||cwin.build^
 ||datalayer.build^
 ||debijenkorf.build^
-||debug.build^
 ||deeprootedhomes.build^
 ||din.build^
 ||ecosol.build^
 ||edenicenergy.build^
 ||edera.build^
-||eigenlayer.build^
 ||etherscan.build^
 ||express.build^
 ||fabricfirst.build^
@@ -79,7 +75,6 @@
 ||northstars.build^
 ||nous.build^
 ||ocean.build^
-||onlyvans.build^
 ||onvoice.build^
 ||packsmith.build^
 ||pakt.build^

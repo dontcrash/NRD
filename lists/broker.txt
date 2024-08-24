@@ -7,6 +7,7 @@
 ||agi.broker^
 ||agra.broker^
 ||alternatives.broker^
+||asc.broker^
 ||ascend.broker^
 ||aura.broker^
 ||avalon.broker^
@@ -20,16 +21,17 @@
 ||coins.broker^
 ||commit.broker^
 ||copilot.broker^
+||cry.broker^
 ||csb.broker^
 ||dash.broker^
 ||decent.broker^
 ||deepmarket.broker^
-||dogex.broker^
 ||domen.broker^
 ||doom.broker^
 ||dustin.broker^
 ||ee88.broker^
 ||embark.broker^
+||erv.broker^
 ||exolink.broker^
 ||exoticcar.broker^
 ||exoticcars.broker^
@@ -43,6 +45,7 @@
 ||go99.broker^
 ||good88.broker^
 ||gpu.broker^
+||grit.broker^
 ||hb88.broker^
 ||hedgefunds.broker^
 ||hipotecainversa.broker^
@@ -50,8 +53,8 @@
 ||hk01.broker^
 ||i9bet.broker^
 ||inference.broker^
+||inv.broker^
 ||investor.broker^
-||iq777.broker^
 ||iqcent.broker^
 ||itk.broker^
 ||iwin68.broker^
@@ -68,7 +71,6 @@
 ||marketdepth.broker^
 ||mortgages.broker^
 ||move.broker^
-||ms.broker^
 ||mu88.broker^
 ||mycookie.broker^
 ||mymortgage.broker^
@@ -76,8 +78,6 @@
 ||nohu90.broker^
 ||p0wer.broker^
 ||panda.broker^
-||pension.broker^
-||plasticsurgery.broker^
 ||policy.broker^
 ||porno365.broker^
 ||portfolio.broker^
@@ -104,7 +104,6 @@
 ||volt.broker^
 ||wagyubeef.broker^
 ||warehousing.broker^
-||water.broker^
 ||websiteanddomain.broker^
 ||worldlife.broker^
 ||xin88.broker^
