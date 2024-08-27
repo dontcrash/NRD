@@ -104,7 +104,6 @@
 ||bingoplus.events^
 ||biome.events^
 ||birdseye.events^
-||bitcoin2024.events^
 ||blaq.events^
 ||bleane.events^
 ||blissful.events^
@@ -112,6 +111,7 @@
 ||blynk.events^
 ||bnf.events^
 ||bobusha.events^
+||bola.events^
 ||bolapro.events^
 ||bookitnow.events^
 ||boorloo.events^
@@ -127,7 +127,7 @@
 ||businessclass.events^
 ||bxcb2.events^
 ||caixa.events^
-||cakeworthy.events^
+||calex.events^
 ||canlidoviz.events^
 ||cannonball.events^
 ||carriagerides.events^
@@ -153,7 +153,6 @@
 ||coc.events^
 ||codispotigroup.events^
 ||coeur.events^
-||collectmate.events^
 ||common-sense.events^
 ||communionoflight.events^
 ||confettipanda.events^
@@ -163,6 +162,7 @@
 ||conviva.events^
 ||coqnet.events^
 ||corrupt.events^
+||countryhouse.events^
 ||cowintheroom.events^
 ||crewcial.events^
 ||crow.events^
@@ -198,7 +198,6 @@
 ||djd.events^
 ||dobet.events^
 ||doko.events^
-||donald-trump.events^
 ||dot.events^
 ||doublebarrel.events^
 ||douyin.events^
@@ -231,7 +230,6 @@
 ||ethio.events^
 ||eufonia.events^
 ||event-snap.events^
-||eventcompany.events^
 ||eventlocation.events^
 ||excellency.events^
 ||exec.events^
@@ -299,6 +297,7 @@
 ||hamhub.events^
 ||happyhour.events^
 ||hashtagrisk.events^
+||hbc.events^
 ||hdfcbank.events^
 ||hdhub4u.events^
 ||heartbeatsbrasil.events^
@@ -307,6 +306,7 @@
 ||higherthinking.events^
 ||hitomi.events^
 ||hockinghills.events^
+||hoffnungsschimmer.events^
 ||holychildrye.events^
 ||homecoming.events^
 ||honest.events^
@@ -337,7 +337,6 @@
 ||infobae.events^
 ||informa.events^
 ||inspiringquran.events^
-||intelligent.events^
 ||internal.events^
 ||internationaldance.events^
 ||intu.events^
@@ -360,6 +359,7 @@
 ||jpclark.events^
 ||jpstreeteats.events^
 ||kai-ken.events^
+||kailzie.events^
 ||kapook.events^
 ||katespadeny.events^
 ||kave.events^
@@ -399,8 +399,10 @@
 ||lotto60.events^
 ||lovefaithdance.events^
 ||loveletters.events^
+||lucent.events^
 ||lulu.events^
 ||lumia.events^
+||lusail.events^
 ||luxperience.events^
 ||lycan.events^
 ||lyos.events^
@@ -411,6 +413,7 @@
 ||makadu.events^
 ||makeen.events^
 ||makeitreal.events^
+||makeroom.events^
 ||mal.events^
 ||manifestdiscovery.events^
 ||manifestour.events^
@@ -443,13 +446,11 @@
 ||moneycontrol.events^
 ||montageeventcmplex.events^
 ||moo.events^
-||moontropica.events^
 ||mountainhouse.events^
 ||movingtouae.events^
 ||ms24.events^
 ||mt-music.events^
 ||mvmt.events^
-||my-gallery.events^
 ||mynet.events^
 ||myshoots.events^
 ||mytunisia.events^
@@ -495,7 +496,6 @@
 ||ooak.events^
 ||oono.events^
 ||opea.events^
-||openair.events^
 ||opepen.events^
 ||opportunity.events^
 ||optmedia.events^
@@ -512,10 +512,10 @@
 ||pantip.events^
 ||pasadena.events^
 ||past.events^
+||pastimes.events^
 ||pavilion360.events^
 ||payback-ltd.events^
 ||peakeventplanners.events^
-||pearland.events^
 ||peipeis.events^
 ||peipeitoken.events^
 ||people.events^
@@ -524,14 +524,13 @@
 ||pikabu.events^
 ||pixbet.events^
 ||pixiv.events^
+||pki777.events^
 ||planara.events^
 ||planningmode.events^
 ||play-all-day.events^
 ||plot.events^
 ||pokervilla.events^
 ||polaris.events^
-||polarisdawn.events^
-||polosopuestos.events^
 ||potasticeventsuk.events^
 ||preciousmemories.events^
 ||price.events^
@@ -542,6 +541,7 @@
 ||pushka.events^
 ||qariah.events^
 ||ql48.events^
+||quflojoy.events^
 ||rad.events^
 ||rajaku.events^
 ||rambler.events^
@@ -592,16 +592,17 @@
 ||snapchat.events^
 ||snproductions.events^
 ||sohu.events^
-||sommeronthecoast.events^
 ||songster.events^
 ||soundwavves.events^
 ||sozcu.events^
+||sp8.events^
 ||speed-dating.events^
 ||spgeek.events^
 ||sportsbook.events^
 ||sportshof.events^
 ||sporttery.events^
 ||sportybet.events^
+||sprucecreative.events^
 ||ssa.events^
 ||stacked.events^
 ||stackedevents.events^
@@ -609,6 +610,7 @@
 ||stardustmusic.events^
 ||starlink.events^
 ||stars.events^
+||startup.events^
 ||stifterverband.events^
 ||stix.events^
 ||stoloto.events^
@@ -637,6 +639,7 @@
 ||tallant.events^
 ||tantra.events^
 ||tbconnect.events^
+||teamhouse.events^
 ||techbees.events^
 ||tem.events^
 ||temperamental.events^
@@ -661,7 +664,7 @@
 ||tinycon.events^
 ||tinyhome.events^
 ||tmw.events^
-||tomato.events^
+||tona.events^
 ||toohot.events^
 ||toshi.events^
 ||tradingview.events^
@@ -694,7 +697,6 @@
 ||velodromefi.events^
 ||venko.events^
 ||vibee.events^
-||victorious.events^
 ||videogamerave.events^
 ||videowestinc.events^
 ||viewsofia.events^
@@ -702,6 +704,7 @@
 ||virtualrift.events^
 ||virtualunited.events^
 ||virtuosa.events^
+||vivento.events^
 ||vnexpress.events^
 ||volt.events^
 ||vz99.events^
@@ -710,7 +713,6 @@
 ||walz.events^
 ||wasf.events^
 ||wassup.events^
-||wbm.events^
 ||we-talk-business.events^
 ||wealthfront.events^
 ||weaver.events^
@@ -730,7 +732,6 @@
 ||withintelligence.events^
 ||wlb.events^
 ||wlualumni.events^
-||wm2026.events^
 ||workspaceshow.events^
 ||worldticket.events^
 ||x-health.events^

@@ -16,12 +16,15 @@
 ||jumpseats.flights^
 ||layover.flights^
 ||linq.flights^
-||luxuryjet.flights^
 ||new.flights^
 ||overhead.flights^
+||privatejets.flights^
+||privatjets.flights^
+||sebs.flights^
 ||sql.flights^
 ||stopover.flights^
 ||the.flights^
 ||ucas.flights^
+||unlimited.flights^
 ||visionpro.flights^
 ||vtol.flights^

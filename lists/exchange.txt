@@ -19,12 +19,12 @@
 ||ai-trade.exchange^
 ||akt.exchange^
 ||amber.exchange^
-||ambient.exchange^
 ||americanparagon.exchange^
 ||americas.exchange^
 ||amkan.exchange^
 ||amplifide.exchange^
 ||angkor.exchange^
+||angstrom.exchange^
 ||anycrypto.exchange^
 ||anywho.exchange^
 ||aori.exchange^
@@ -48,6 +48,7 @@
 ||bcc.exchange^
 ||bcgame.exchange^
 ||bet88vn.exchange^
+||bet88vn2.exchange^
 ||betano.exchange^
 ||bgamebaidoithuong.exchange^
 ||bidiamonds.exchange^
@@ -99,6 +100,7 @@
 ||chit.exchange^
 ||coach.exchange^
 ||coin-base.exchange^
+||coin-marketcap.exchange^
 ||coinbase-ireland.exchange^
 ||coindrop.exchange^
 ||coinflow.exchange^
@@ -115,6 +117,7 @@
 ||compa.exchange^
 ||connext.exchange^
 ||contextual.exchange^
+||continentall.exchange^
 ||cookie3.exchange^
 ||corvette.exchange^
 ||creditcoin.exchange^
@@ -132,6 +135,7 @@
 ||cryptowallet.exchange^
 ||cryt.exchange^
 ||cskh.exchange^
+||currency-control.exchange^
 ||cyberia.exchange^
 ||cypbit.exchange^
 ||cyrus.exchange^
@@ -145,7 +149,6 @@
 ||deepai.exchange^
 ||defix.exchange^
 ||defor.exchange^
-||dejungle.exchange^
 ||deren.exchange^
 ||derive.exchange^
 ||deutschebank.exchange^
@@ -153,6 +156,7 @@
 ||dex-bungee.exchange^
 ||dexcrypto.exchange^
 ||dfagency.exchange^
+||diamondtrust.exchange^
 ||digitalf.exchange^
 ||dirt.exchange^
 ||disco.exchange^
@@ -175,6 +179,7 @@
 ||eng-bungee.exchange^
 ||eng-jumper.exchange^
 ||envirotoken.exchange^
+||epos.exchange^
 ||escortescrow.exchange^
 ||ethio.exchange^
 ||eu-web-bungee.exchange^
@@ -184,7 +189,6 @@
 ||exino.exchange^
 ||expertcryptotrader.exchange^
 ||exposetoken.exchange^
-||fa.exchange^
 ||fabco.exchange^
 ||fabe.exchange^
 ||fabr.exchange^
@@ -210,6 +214,7 @@
 ||flnance-on-dex.exchange^
 ||fluxbit.exchange^
 ||forbit.exchange^
+||forever.exchange^
 ||four.exchange^
 ||franklincryptoindexetf.exchange^
 ||fry.exchange^
@@ -217,6 +222,7 @@
 ||funding.exchange^
 ||fuse.exchange^
 ||garex.exchange^
+||gaskeunbetzonavip.exchange^
 ||gbg.exchange^
 ||geu.exchange^
 ||gibcoin.exchange^
@@ -234,16 +240,17 @@
 ||hacash.exchange^
 ||hangaw.exchange^
 ||hathor.exchange^
-||hb88.exchange^
 ||headpat.exchange^
 ||hedg.exchange^
-||hello88.exchange^
 ||helm.exchange^
 ||helpsec.exchange^
 ||hk01.exchange^
 ||hns.exchange^
 ||hofo.exchange^
 ||hongkongblock.exchange^
+||hopdata.exchange^
+||hopers.exchange^
+||hopevm.exchange^
 ||humanoid.exchange^
 ||hustle.exchange^
 ||hyperdata.exchange^
@@ -331,6 +338,7 @@
 ||naut.exchange^
 ||nautt.exchange^
 ||neac.exchange^
+||neb.exchange^
 ||neiro.exchange^
 ||net-v3.exchange^
 ||netcoin.exchange^
@@ -354,7 +362,6 @@
 ||openstock.exchange^
 ||orasa.exchange^
 ||orbiter.exchange^
-||orc.exchange^
 ||orca.exchange^
 ||orderbook.exchange^
 ||orderflow.exchange^
@@ -392,6 +399,7 @@
 ||ppm.exchange^
 ||pppprotocol.exchange^
 ||prodigy.exchange^
+||prosto.exchange^
 ||protox.exchange^
 ||pyro.exchange^
 ||quantai.exchange^
@@ -409,7 +417,6 @@
 ||reserva.exchange^
 ||revenue-share-tokens.exchange^
 ||revival.exchange^
-||revoke-dydx.exchange^
 ||rice.exchange^
 ||rightsdata.exchange^
 ||rightsmusic.exchange^
@@ -417,6 +424,7 @@
 ||rna.exchange^
 ||rnc.exchange^
 ||robuxstock.exchange^
+||rule34.exchange^
 ||rwb.exchange^
 ||salimi.exchange^
 ||sandboxnft.exchange^
@@ -442,8 +450,11 @@
 ||snake.exchange^
 ||sole.exchange^
 ||solver.exchange^
+||soneium.exchange^
 ||souq.exchange^
 ||spacecoin.exchange^
+||specs.exchange^
+||stablecrypto.exchange^
 ||stableswap.exchange^
 ||stacks.exchange^
 ||starswap.exchange^
@@ -467,17 +478,14 @@
 ||throne.exchange^
 ||thrunt.exchange^
 ||ticker.exchange^
-||ticketsmarche.exchange^
 ||tiki.exchange^
 ||timeless.exchange^
 ||toot.exchange^
 ||topex.exchange^
-||traveltoken.exchange^
 ||tridium.exchange^
 ||trigger.exchange^
 ||trustdefi.exchange^
 ||turnkey.exchange^
-||tvltoken.exchange^
 ||twallet.exchange^
 ||twse.exchange^
 ||ubit.exchange^
@@ -502,7 +510,6 @@
 ||vessel.exchange^
 ||visionpro.exchange^
 ||vn88.exchange^
-||voex.exchange^
 ||voteme.exchange^
 ||w888.exchange^
 ||wealthfront.exchange^
@@ -512,6 +519,7 @@
 ||web-jumper.exchange^
 ||web4.exchange^
 ||weddingvow.exchange^
+||weibo.exchange^
 ||wewe.exchange^
 ||wink.exchange^
 ||wld.exchange^
