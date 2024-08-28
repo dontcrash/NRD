@@ -9,10 +9,8 @@
 ||database.flights^
 ||devon.flights^
 ||elastic.flights^
-||evtol.flights^
 ||flyblue.flights^
 ||hnd-airport.flights^
-||jethub.flights^
 ||jumpseats.flights^
 ||layover.flights^
 ||linq.flights^
@@ -24,7 +22,5 @@
 ||sql.flights^
 ||stopover.flights^
 ||the.flights^
-||ucas.flights^
 ||unlimited.flights^
 ||visionpro.flights^
-||vtol.flights^

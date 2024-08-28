@@ -30,7 +30,6 @@
 ||aori.exchange^
 ||aperture.exchange^
 ||apes.exchange^
-||apeswap.exchange^
 ||apm.exchange^
 ||appvela.exchange^
 ||apr.exchange^
@@ -53,7 +52,6 @@
 ||bgamebaidoithuong.exchange^
 ||bidiamonds.exchange^
 ||bigger.exchange^
-||binancesupport.exchange^
 ||binancewallet.exchange^
 ||biomethane.exchange^
 ||birdie.exchange^
@@ -68,7 +66,6 @@
 ||bitiqs.exchange^
 ||bitkam.exchange^
 ||blackx.exchange^
-||bladeswap.exchange^
 ||blender.exchange^
 ||blerb.exchange^
 ||bliss.exchange^
@@ -99,9 +96,7 @@
 ||chartobserver.exchange^
 ||chit.exchange^
 ||coach.exchange^
-||coin-base.exchange^
 ||coin-marketcap.exchange^
-||coinbase-ireland.exchange^
 ||coindrop.exchange^
 ||coinflow.exchange^
 ||coinmarketcap.exchange^
@@ -116,7 +111,6 @@
 ||community.exchange^
 ||compa.exchange^
 ||connext.exchange^
-||contextual.exchange^
 ||continentall.exchange^
 ||cookie3.exchange^
 ||corvette.exchange^
@@ -144,7 +138,6 @@
 ||dapradar.exchange^
 ||dayjob.exchange^
 ||de4.exchange^
-||deai.exchange^
 ||declarative.exchange^
 ||deepai.exchange^
 ||defix.exchange^
@@ -170,19 +163,12 @@
 ||en-hop.exchange^
 ||en-jumper.exchange^
 ||en-qulcksvvap.exchange^
-||en-web-aevo.exchange^
-||en-web-basebridge.exchange^
-||en-web-bungee.exchange^
-||en-web-debridge.exchange^
-||en-web-defillama.exchange^
-||en-web-orbiter.exchange^
 ||eng-bungee.exchange^
 ||eng-jumper.exchange^
 ||envirotoken.exchange^
 ||epos.exchange^
 ||escortescrow.exchange^
 ||ethio.exchange^
-||eu-web-bungee.exchange^
 ||eventhorizon.exchange^
 ||exch.exchange^
 ||exchangeramses.exchange^
@@ -213,7 +199,6 @@
 ||flame.exchange^
 ||flnance-on-dex.exchange^
 ||fluxbit.exchange^
-||forbit.exchange^
 ||forever.exchange^
 ||four.exchange^
 ||franklincryptoindexetf.exchange^
@@ -251,7 +236,6 @@
 ||hopdata.exchange^
 ||hopers.exchange^
 ||hopevm.exchange^
-||humanoid.exchange^
 ||hustle.exchange^
 ||hyperdata.exchange^
 ||ignition.exchange^
@@ -357,12 +341,9 @@
 ||omp.exchange^
 ||oncomms.exchange^
 ||oooo.exchange^
-||openbook.exchange^
-||openrightsdata.exchange^
 ||openstock.exchange^
 ||orasa.exchange^
 ||orbiter.exchange^
-||orca.exchange^
 ||orderbook.exchange^
 ||orderflow.exchange^
 ||org-app-v3.exchange^
@@ -376,7 +357,6 @@
 ||org-wallet-app.exchange^
 ||origin.exchange^
 ||origins.exchange^
-||orionomega.exchange^
 ||ouija.exchange^
 ||pahlacesvvp.exchange^
 ||palm.exchange^
@@ -486,7 +466,6 @@
 ||trigger.exchange^
 ||trustdefi.exchange^
 ||turnkey.exchange^
-||twallet.exchange^
 ||twse.exchange^
 ||ubit.exchange^
 ||udn.exchange^
@@ -506,15 +485,12 @@
 ||vcomex.exchange^
 ||vegas88zonavip.exchange^
 ||vertex.exchange^
-||vertofx.exchange^
 ||vessel.exchange^
 ||visionpro.exchange^
 ||vn88.exchange^
 ||voteme.exchange^
 ||w888.exchange^
 ||wealthfront.exchange^
-||web-base-bridge.exchange^
-||web-defillama.exchange^
 ||web-hope.exchange^
 ||web-jumper.exchange^
 ||web4.exchange^
@@ -532,4 +508,3 @@
 ||xrpgrow.exchange^
 ||yerevan.exchange^
 ||zeroslippage.exchange^
-||zver.exchange^
