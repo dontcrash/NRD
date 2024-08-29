@@ -14,7 +14,7 @@
 ||ag-connect.exchange^
 ||ag-online.exchange^
 ||ag-v3.exchange^
-||agni.exchange^
+||ag-v4.exchange^
 ||agrocrypto.exchange^
 ||ai-trade.exchange^
 ||akt.exchange^
@@ -36,6 +36,7 @@
 ||areip.exchange^
 ||arise.exchange^
 ||ark.exchange^
+||arunabetzonavip.exchange^
 ||asrp.exchange^
 ||aurumnexus.exchange^
 ||avaswap.exchange^
@@ -57,6 +58,7 @@
 ||birdie.exchange^
 ||birr.exchange^
 ||birrrates.exchange^
+||bitbat.exchange^
 ||bitbullion.exchange^
 ||biteqs.exchange^
 ||bitfi.exchange^
@@ -65,9 +67,7 @@
 ||bitify.exchange^
 ||bitiqs.exchange^
 ||bitkam.exchange^
-||blackx.exchange^
 ||blender.exchange^
-||blerb.exchange^
 ||bliss.exchange^
 ||blockchains.exchange^
 ||blokpoints.exchange^
@@ -84,14 +84,15 @@
 ||burn.exchange^
 ||buy-sell.exchange^
 ||bxc.exchange^
-||bxi.exchange^
 ||caffeine.exchange^
 ||calidad.exchange^
 ||capitals.exchange^
 ||capitaltech.exchange^
+||caring.exchange^
 ||cashusdt.exchange^
 ||cashyou.exchange^
-||catswap.exchange^
+||celsius.exchange^
+||cerulean.exchange^
 ||chai.exchange^
 ||chartobserver.exchange^
 ||chit.exchange^
@@ -120,11 +121,11 @@
 ||crops.exchange^
 ||cross.exchange^
 ||cryp.exchange^
-||cryptocom.exchange^
 ||cryptofiats.exchange^
 ||cryptofin.exchange^
 ||cryptomancer.exchange^
 ||cryptomarketbee.exchange^
+||cryptopets.exchange^
 ||cryptoreportclub.exchange^
 ||cryptowallet.exchange^
 ||cryt.exchange^
@@ -136,6 +137,7 @@
 ||daazzle.exchange^
 ||dappadar.exchange^
 ||dapradar.exchange^
+||dataops.exchange^
 ||dayjob.exchange^
 ||de4.exchange^
 ||declarative.exchange^
@@ -155,6 +157,7 @@
 ||disco.exchange^
 ||donotgetrekt.exchange^
 ||dubaiblock.exchange^
+||e-security.exchange^
 ||effortcurrency.exchange^
 ||egg.exchange^
 ||eka.exchange^
@@ -202,8 +205,8 @@
 ||forever.exchange^
 ||four.exchange^
 ||franklincryptoindexetf.exchange^
+||froth.exchange^
 ||fry.exchange^
-||fum.exchange^
 ||funding.exchange^
 ||fuse.exchange^
 ||garex.exchange^
@@ -251,7 +254,6 @@
 ||io-v4-app.exchange^
 ||io-wallet.exchange^
 ||iot.exchange^
-||iziswap.exchange^
 ||jaypto.exchange^
 ||jemper.exchange^
 ||jpc.exchange^
@@ -267,7 +269,6 @@
 ||kopio.exchange^
 ||ksc.exchange^
 ||kubett.exchange^
-||kuru.exchange^
 ||kyle.exchange^
 ||kyton.exchange^
 ||ladybug.exchange^
@@ -303,6 +304,7 @@
 ||meta.exchange^
 ||mex.exchange^
 ||mexas.exchange^
+||midnightminer.exchange^
 ||milky-way.exchange^
 ||miracle.exchange^
 ||monad.exchange^
@@ -336,7 +338,6 @@
 ||ocn.exchange^
 ||ocrypto.exchange^
 ||oi-online.exchange^
-||omnicoin.exchange^
 ||omnix.exchange^
 ||omp.exchange^
 ||oncomms.exchange^
@@ -354,6 +355,7 @@
 ||org-v3.exchange^
 ||org-v4-app.exchange^
 ||org-v4.exchange^
+||org-v5.exchange^
 ||org-wallet-app.exchange^
 ||origin.exchange^
 ||origins.exchange^
@@ -362,9 +364,7 @@
 ||palm.exchange^
 ||pantheonventures.exchange^
 ||pantrade.exchange^
-||paul.exchange^
 ||payback.exchange^
-||payfi.exchange^
 ||payouts.exchange^
 ||phinix.exchange^
 ||picasso.exchange^
@@ -384,6 +384,7 @@
 ||pyro.exchange^
 ||quantai.exchange^
 ||quantx.exchange^
+||qulckswap.exchange^
 ||radius.exchange^
 ||realestatesecurities.exchange^
 ||realestatetoken.exchange^
@@ -431,6 +432,7 @@
 ||sole.exchange^
 ||solver.exchange^
 ||soneium.exchange^
+||sonic.exchange^
 ||souq.exchange^
 ||spacecoin.exchange^
 ||specs.exchange^
@@ -447,7 +449,6 @@
 ||t.exchange^
 ||tango.exchange^
 ||tau.exchange^
-||teamsupport.exchange^
 ||telephone.exchange^
 ||tgold.exchange^
 ||thebiz.exchange^
@@ -460,6 +461,7 @@
 ||ticker.exchange^
 ||tiki.exchange^
 ||timeless.exchange^
+||tiny.exchange^
 ||toot.exchange^
 ||topex.exchange^
 ||tridium.exchange^
@@ -479,7 +481,6 @@
 ||usdtcash.exchange^
 ||use.exchange^
 ||usedsports.exchange^
-||utahstock.exchange^
 ||v3-camelot.exchange^
 ||valve.exchange^
 ||vcomex.exchange^
@@ -493,18 +494,18 @@
 ||wealthfront.exchange^
 ||web-hope.exchange^
 ||web-jumper.exchange^
-||web4.exchange^
+||webtraffic.exchange^
 ||weddingvow.exchange^
 ||weibo.exchange^
 ||wewe.exchange^
 ||wink.exchange^
 ||wld.exchange^
 ||woofi.exchange^
-||world-coin.exchange^
 ||worldliberty.exchange^
 ||ww88.exchange^
 ||xarasset.exchange^
 ||xegara.exchange^
 ||xrpgrow.exchange^
 ||yerevan.exchange^
+||zcforex.exchange^
 ||zeroslippage.exchange^

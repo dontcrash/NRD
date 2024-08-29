@@ -30,6 +30,7 @@
 ||celebration.financial^
 ||center.financial^
 ||chronos.financial^
+||cim.financial^
 ||clearjunction.financial^
 ||commodities.financial^
 ||conscious.financial^
@@ -37,8 +38,8 @@
 ||cooper.financial^
 ||corevalues.financial^
 ||couch.financial^
+||cred.financial^
 ||cro.financial^
-||daydream.financial^
 ||debrigde.financial^
 ||debtadvice.financial^
 ||desoc.financial^
@@ -60,7 +61,10 @@
 ||flagstone.financial^
 ||fms.financial^
 ||foliogroup.financial^
+||freedomfamily.financial^
 ||fxpesa.financial^
+||game.financial^
+||gamer.financial^
 ||gcelis.financial^
 ||glitch.financial^
 ||goldcar.financial^
@@ -74,14 +78,15 @@
 ||ihr-tan.financial^
 ||inefi.financial^
 ||islandseast.financial^
-||iure.financial^
 ||jaxx.financial^
 ||jetton.financial^
 ||laing.financial^
+||lancelott.financial^
 ||level.financial^
 ||llama.financial^
 ||lmtls.financial^
 ||long.financial^
+||mail.financial^
 ||medicobank.financial^
 ||medicomutualbank.financial^
 ||melllow.financial^
@@ -94,7 +99,6 @@
 ||noupia.financial^
 ||oath.financial^
 ||orange.financial^
-||overtime.financial^
 ||overwatch.financial^
 ||owlgo.financial^
 ||panthera.financial^
@@ -118,10 +122,10 @@
 ||rl.financial^
 ||rule34.financial^
 ||saturn.financial^
-||savie.financial^
 ||sec.financial^
 ||shib.financial^
 ||simpleswap.financial^
+||soft.financial^
 ||stargale.financial^
 ||stargate.financial^
 ||starlight.financial^
@@ -140,9 +144,11 @@
 ||urban.financial^
 ||ursa.financial^
 ||utxo.financial^
+||validity.financial^
 ||velvet.financial^
 ||wealthwave.financial^
 ||wellnessbitcoin.financial^
 ||wisdom.financial^
 ||worldcoin.financial^
 ||worldliberty.financial^
+||worldlibertyfinancial.financial^
