@@ -67,6 +67,7 @@
 ||atum.energy^
 ||auditpro.energy^
 ||aureumterra.energy^
+||avco.energy^
 ||avenafuels.energy^
 ||aviator.energy^
 ||axiosus.energy^
@@ -92,6 +93,7 @@
 ||bleu.energy^
 ||bnp.energy^
 ||boiler.energy^
+||boston.energy^
 ||bowen.energy^
 ||bpcgen.energy^
 ||bram.energy^
@@ -135,7 +137,7 @@
 ||colony.energy^
 ||combustion.energy^
 ||confidence.energy^
-||copropriete.energy^
+||connectioncommunication.energy^
 ||cordyreps.energy^
 ||coversols.energy^
 ||crashout.energy^
@@ -173,6 +175,7 @@
 ||e-station.energy^
 ||e-station4ev.energy^
 ||earth.energy^
+||easy2save.energy^
 ||ebus.energy^
 ||eco-nexus.energy^
 ||ecofusion.energy^
@@ -196,9 +199,9 @@
 ||empathmedical.energy^
 ||endow.energy^
 ||enercity.energy^
+||enerdesk.energy^
 ||energea.energy^
 ||energgy.energy^
-||energies.energy^
 ||energiewende.energy^
 ||energydistributiongroup.energy^
 ||energyforyou.energy^
@@ -210,8 +213,7 @@
 ||epp.energy^
 ||equitable.energy^
 ||eraenergydrink.energy^
-||eshmun.energy^
-||eshmunai.energy^
+||estuary.energy^
 ||ethereal.energy^
 ||euphoric.energy^
 ||evargreen.energy^
@@ -231,13 +233,11 @@
 ||flw.energy^
 ||formula.energy^
 ||forward-power.energy^
-||foxtrot-yankee.energy^
 ||framework.energy^
 ||freqme.energy^
 ||fuelsaver.energy^
 ||futures.energy^
 ||gammagrid.energy^
-||gasandelectricfinder.energy^
 ||gather.energy^
 ||gazelle.energy^
 ||geab.energy^
@@ -292,6 +292,7 @@
 ||heizwende.energy^
 ||helm.energy^
 ||highlandsmountain.energy^
+||highline.energy^
 ||hita.energy^
 ||hk01.energy^
 ||homes.energy^
@@ -300,6 +301,7 @@
 ||hui.energy^
 ||hyperdope.energy^
 ||i9bet.energy^
+||iamai.energy^
 ||iconelectrical.energy^
 ||iesolar.energy^
 ||ilol.energy^
@@ -308,6 +310,7 @@
 ||infinito.energy^
 ||infinitysolar.energy^
 ||infrastructureless.energy^
+||ingro.energy^
 ||innio.energy^
 ||innovating.energy^
 ||integritysolar.energy^
@@ -345,7 +348,6 @@
 ||led.energy^
 ||leen.energy^
 ||leg.energy^
-||legionsoflove.energy^
 ||leogen.energy^
 ||lets.energy^
 ||lordfilm.energy^
@@ -379,6 +381,7 @@
 ||molecule.energy^
 ||moonshot.energy^
 ||motus-ems.energy^
+||mov.energy^
 ||mpro.energy^
 ||mrkeepit100.energy^
 ||mtg.energy^
@@ -415,6 +418,7 @@
 ||nxgen.energy^
 ||nxtlevel.energy^
 ||nxxt.energy^
+||octops.energy^
 ||ogu.energy^
 ||olivine.energy^
 ||olo.energy^
@@ -439,6 +443,7 @@
 ||pef.energy^
 ||pepe.energy^
 ||perovskite.energy^
+||petrochem.energy^
 ||phone.energy^
 ||phyco.energy^
 ||picsglobal.energy^
@@ -478,6 +483,7 @@
 ||reality.energy^
 ||rectitude.energy^
 ||redbridge.energy^
+||redclayrenewables.energy^
 ||redpower.energy^
 ||redstart.energy^
 ||reichl.energy^
@@ -500,7 +506,6 @@
 ||s.energy^
 ||saas.energy^
 ||saintjohnenergy-kraken.energy^
-||sanaterra.energy^
 ||sass.energy^
 ||sbs.energy^
 ||scalarwaves.energy^
@@ -546,6 +551,7 @@
 ||starglow.energy^
 ||startups.energy^
 ||stb.energy^
+||steambioafrica.energy^
 ||strauss.energy^
 ||sunkofa.energy^
 ||sunmasters.energy^
@@ -583,7 +589,7 @@
 ||trinami.energy^
 ||tronscan.energy^
 ||trueclean.energy^
-||ttitgzin.energy^
+||tryone.energy^
 ||tukan.energy^
 ||turntup.energy^
 ||txu.energy^
@@ -596,6 +602,7 @@
 ||uncap.energy^
 ||unigreen.energy^
 ||unipack.energy^
+||unlimitedpower.energy^
 ||unplugged.energy^
 ||unstoppable.energy^
 ||uraniumstockstobuy.energy^
@@ -612,7 +619,6 @@
 ||vida.energy^
 ||vigil.energy^
 ||vin777.energy^
-||viollet.energy^
 ||viral.energy^
 ||visible.energy^
 ||visionpro.energy^
@@ -631,7 +637,6 @@
 ||wind2.energy^
 ||windgo.energy^
 ||wine.energy^
-||winter.energy^
 ||wize.energy^
 ||wpbscalar.energy^
 ||wrath.energy^
@@ -646,5 +651,6 @@
 ||yesil.energy^
 ||yield.energy^
 ||ypsos.energy^
+||zhihu.energy^
 ||zola.energy^
 ||zor.energy^
