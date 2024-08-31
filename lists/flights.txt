@@ -10,7 +10,6 @@
 ||elastic.flights^
 ||hnd-airport.flights^
 ||jumpseats.flights^
-||layover.flights^
 ||linq.flights^
 ||new.flights^
 ||overhead.flights^
@@ -18,7 +17,6 @@
 ||privatjets.flights^
 ||sebs.flights^
 ||sql.flights^
-||stopover.flights^
 ||the.flights^
 ||unlimited.flights^
 ||visionpro.flights^

@@ -5,6 +5,7 @@
 ||chain.lease^
 ||container.lease^
 ||eli.lease^
+||energy.lease^
 ||extension.lease^
 ||file.lease^
 ||halton.lease^
@@ -13,6 +14,7 @@
 ||index.lease^
 ||j88.lease^
 ||krystalcar.lease^
+||leasecure.lease^
 ||med.lease^
 ||milton.lease^
 ||mississauga.lease^
@@ -32,3 +34,4 @@
 ||warehouses4.lease^
 ||wealthfront.lease^
 ||weibo.lease^
+||zhihu.lease^
