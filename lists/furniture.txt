@@ -55,13 +55,11 @@
 ||genai.furniture^
 ||glow.furniture^
 ||goldking.furniture^
-||gpt.furniture^
 ||grounded.furniture^
 ||haberturk.furniture^
 ||hdfcbank.furniture^
 ||health.furniture^
 ||hitomi.furniture^
-||hk01.furniture^
 ||homecare.furniture^
 ||honor.furniture^
 ||hurriyet.furniture^
@@ -85,6 +83,7 @@
 ||minka.furniture^
 ||moderna.furniture^
 ||moneycontrol.furniture^
+||movila.furniture^
 ||mynet.furniture^
 ||namu.furniture^
 ||nate.furniture^
@@ -105,6 +104,7 @@
 ||pikabu.furniture^
 ||pixbet.furniture^
 ||pixiv.furniture^
+||plug.furniture^
 ||porno.furniture^
 ||pride.furniture^
 ||rambler.furniture^
@@ -132,6 +132,7 @@
 ||tradingview.furniture^
 ||tribunnews.furniture^
 ||tuuci.furniture^
+||upper.furniture^
 ||vance.furniture^
 ||vnexpress.furniture^
 ||weibo.furniture^

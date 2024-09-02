@@ -21,6 +21,7 @@
 ||betano.broker^
 ||betvisa.broker^
 ||binarycent.broker^
+||bridge.broker^
 ||businessdirectory.broker^
 ||camwhores.broker^
 ||century21.broker^
@@ -34,6 +35,8 @@
 ||dash.broker^
 ||decent.broker^
 ||deepmarket.broker^
+||defi.broker^
+||deriv.broker^
 ||dex.broker^
 ||domen.broker^
 ||downtown.broker^
@@ -59,14 +62,12 @@
 ||hedgefunds.broker^
 ||hipotecainversa.broker^
 ||hipotecas.broker^
-||hk01.broker^
 ||i9bet.broker^
 ||inference.broker^
 ||inv.broker^
 ||investor.broker^
 ||iqcent.broker^
 ||itk.broker^
-||iwin68.broker^
 ||jisax.broker^
 ||jodi.broker^
 ||king.broker^
@@ -85,6 +86,7 @@
 ||nagad88.broker^
 ||nanduq.broker^
 ||neighborhood.broker^
+||neom.broker^
 ||nohu90.broker^
 ||nohu90a.broker^
 ||oceanfront.broker^
