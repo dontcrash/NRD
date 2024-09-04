@@ -11,7 +11,6 @@
 ||aajtak.delivery^
 ||abcd.delivery^
 ||airobot.delivery^
-||airwingscourierlogistics.delivery^
 ||albreeqshipping.delivery^
 ||allday.delivery^
 ||ameblo.delivery^
@@ -37,6 +36,7 @@
 ||bingoplus.delivery^
 ||bistro.delivery^
 ||bj88.delivery^
+||black.delivery^
 ||bluedart.delivery^
 ||bola.delivery^
 ||bong88.delivery^
@@ -52,6 +52,7 @@
 ||can-post-reschedule.delivery^
 ||canlidoviz.delivery^
 ||cannabisclub.delivery^
+||cannabliss.delivery^
 ||carryout.delivery^
 ||cassino.delivery^
 ||cbc.delivery^
@@ -74,7 +75,6 @@
 ||deakin.delivery^
 ||delayed.delivery^
 ||delhivery.delivery^
-||desenrola.delivery^
 ||detik.delivery^
 ||devtestaug08.delivery^
 ||dialabottleedmonton.delivery^
@@ -148,7 +148,6 @@
 ||int.delivery^
 ||jable.delivery^
 ||jegea.delivery^
-||jerseymikes.delivery^
 ||joaozinho.delivery^
 ||jollytree.delivery^
 ||kapook.delivery^
@@ -160,7 +159,6 @@
 ||latiacarmen.delivery^
 ||laundry.delivery^
 ||ldaep.delivery^
-||licor.delivery^
 ||liquorhouse.delivery^
 ||logistcistrackships.delivery^
 ||lotto.delivery^
@@ -186,6 +184,7 @@
 ||mushroom.delivery^
 ||myeasy.delivery^
 ||mynet.delivery^
+||myorganic.delivery^
 ||mypizza.delivery^
 ||myzeller.delivery^
 ||namu.delivery^
@@ -197,6 +196,7 @@
 ||nipponcourier.delivery^
 ||noodlemagazine.delivery^
 ||norsk-tipping.delivery^
+||nude.delivery^
 ||nuevafecha.delivery^
 ||omeu.delivery^
 ||omeupedido.delivery^
@@ -230,7 +230,6 @@
 ||rebook.delivery^
 ||release.delivery^
 ||rice.delivery^
-||river.delivery^
 ||rocket.delivery^
 ||rongbachkim.delivery^
 ||roundtheclock.delivery^
@@ -255,7 +254,6 @@
 ||sina.delivery^
 ||singularity.delivery^
 ||sku.delivery^
-||slotgacor.delivery^
 ||smarthome.delivery^
 ||sohu.delivery^
 ||sozcu.delivery^
@@ -265,6 +263,7 @@
 ||sportsbook.delivery^
 ||sporttery.delivery^
 ||sportybet.delivery^
+||spunk.delivery^
 ||src.delivery^
 ||station43.delivery^
 ||stoloto.delivery^
@@ -289,36 +288,28 @@
 ||trackyourparcel.delivery^
 ||tradingview.delivery^
 ||tribunnews.delivery^
-||tsarcaviar.delivery^
 ||uau.delivery^
 ||ubereats.delivery^
 ||unibet.delivery^
 ||ups-chf.delivery^
 ||ups-parcel.delivery^
 ||ups-tracking-id03561.delivery^
-||ups-tracking-id03624.delivery^
 ||ups-tracking-id04576.delivery^
 ||ups-tracking-id09456.delivery^
 ||ups-tracking-id09573.delivery^
 ||ups-tracking-id13245.delivery^
 ||ups-tracking-id13534.delivery^
 ||ups-tracking-id13543.delivery^
-||ups-tracking-id14090.delivery^
-||ups-tracking-id16345.delivery^
 ||ups-tracking-id23521.delivery^
 ||ups-tracking-id32523.delivery^
 ||ups-tracking-id34632.delivery^
 ||ups-tracking-id46734.delivery^
 ||ups-tracking-id52342.delivery^
-||ups-tracking-id56962.delivery^
-||ups-tracking-id58967.delivery^
 ||ups-tracking-id62345.delivery^
 ||ups-tracking-id63452.delivery^
 ||ups-tracking-id64355.delivery^
-||ups-tracking-id67689.delivery^
 ||ups-tracking-id73234.delivery^
 ||ups-tracking-id73543.delivery^
-||ups-tracking-id75808.delivery^
 ||ups-tracking-id82344.delivery^
 ||ups-tracking-id82643.delivery^
 ||ups-tracking-id82745.delivery^
@@ -333,7 +324,6 @@
 ||ups-tracking-id95632.delivery^
 ||ups-tracking-id956764.delivery^
 ||ups-tracking-id97753.delivery^
-||ups-tracking-id97906.delivery^
 ||ups-tracking-id98456.delivery^
 ||ups-tracking-id98465.delivery^
 ||verifyshipment.delivery^
