@@ -13,6 +13,7 @@
 ||c3c.build^
 ||cands.build^
 ||cerlos.build^
+||ciphomes.build^
 ||coreuk.build^
 ||cwin.build^
 ||dangond.build^
@@ -32,6 +33,7 @@
 ||hb88.build^
 ||herd.build^
 ||httpswebfour.build^
+||joyce.build^
 ||kana.build^
 ||karan.build^
 ||kenshi.build^
@@ -56,6 +58,7 @@
 ||mythos.build^
 ||nameslinea.build^
 ||ncdesign.build^
+||noel.build^
 ||nomadic.build^
 ||noodle.build^
 ||nopal.build^
@@ -70,6 +73,7 @@
 ||renovive.build^
 ||retrospec.build^
 ||riviera.build^
+||rust.build^
 ||s6pack.build^
 ||sandris.build^
 ||sensus.build^
@@ -83,6 +87,7 @@
 ||storytime.build^
 ||strongberg.build^
 ||synergyconstructionllc.build^
+||tessler.build^
 ||treasurehomes.build^
 ||turing.build^
 ||upgen.build^

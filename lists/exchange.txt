@@ -9,7 +9,6 @@
 ||abel.exchange^
 ||acc.exchange^
 ||adscoin.exchange^
-||ag-connect.exchange^
 ||ag-dex-v4.exchange^
 ||ag-v3-dex.exchange^
 ||ag-v3.exchange^
@@ -57,13 +56,12 @@
 ||bitbat.exchange^
 ||bitbullion.exchange^
 ||bitbuy.exchange^
-||biteqs.exchange^
 ||bitfi.exchange^
-||bithaven.exchange^
 ||bithive.exchange^
 ||bitify.exchange^
 ||bitiqs.exchange^
 ||bitkam.exchange^
+||bitt.exchange^
 ||blender.exchange^
 ||bliss.exchange^
 ||bogi.exchange^
@@ -118,6 +116,7 @@
 ||cryptofiats.exchange^
 ||cryptomancer.exchange^
 ||cryptopets.exchange^
+||cryptorium.exchange^
 ||cryptowallet.exchange^
 ||cryt.exchange^
 ||currency-control.exchange^
@@ -132,7 +131,6 @@
 ||deren.exchange^
 ||derive.exchange^
 ||deutschebank.exchange^
-||dex-bungee.exchange^
 ||diamondtrust.exchange^
 ||difi.exchange^
 ||digitalf.exchange^
@@ -143,7 +141,6 @@
 ||dx24.exchange^
 ||e-security.exchange^
 ||earlybirdticket.exchange^
-||effortcurrency.exchange^
 ||egg.exchange^
 ||eka.exchange^
 ||en-bungee.exchange^
@@ -185,9 +182,7 @@
 ||finance-v4-app.exchange^
 ||finance-v4-dex.exchange^
 ||finance-v4.exchange^
-||finance-wallet.exchange^
 ||flame.exchange^
-||fluxbit.exchange^
 ||forever.exchange^
 ||formfree.exchange^
 ||four.exchange^
@@ -197,6 +192,7 @@
 ||fuse.exchange^
 ||futbol.exchange^
 ||fyp138.exchange^
+||gai.exchange^
 ||garex.exchange^
 ||gaskeunbetzonavip.exchange^
 ||gbg.exchange^
@@ -226,6 +222,7 @@
 ||hustle.exchange^
 ||hyperdata.exchange^
 ||ignition.exchange^
+||igtc.exchange^
 ||ikey.exchange^
 ||indacrypto.exchange^
 ||indexdigitalmedia.exchange^
@@ -274,6 +271,7 @@
 ||loco.exchange^
 ||logical.exchange^
 ||lop.exchange^
+||loto188.exchange^
 ||ltaf.exchange^
 ||lubuktogel8.exchange^
 ||lumatrade.exchange^
@@ -300,14 +298,12 @@
 ||multicall.exchange^
 ||mune.exchange^
 ||mxnb.exchange^
-||mycrypto.exchange^
 ||myinvest.exchange^
 ||myonline.exchange^
 ||myzeller.exchange^
 ||nanu.exchange^
 ||naut.exchange^
 ||nautt.exchange^
-||neac.exchange^
 ||neb.exchange^
 ||neiro.exchange^
 ||net-v3.exchange^
@@ -318,6 +314,8 @@
 ||nomads.exchange^
 ||north.exchange^
 ||norx.exchange^
+||nostalgia.exchange^
+||notify.exchange^
 ||numex.exchange^
 ||nurl.exchange^
 ||oceanspace.exchange^
@@ -336,8 +334,8 @@
 ||org-app-v3.exchange^
 ||org-app-v4.exchange^
 ||org-app.exchange^
-||org-connect.exchange^
 ||org-dex-v4.exchange^
+||org-v3-app.exchange^
 ||org-v3-dex.exchange^
 ||org-v3.exchange^
 ||org-v4-app.exchange^
@@ -348,8 +346,8 @@
 ||origins.exchange^
 ||ouija.exchange^
 ||pahlacesvvp.exchange^
+||palermo.exchange^
 ||palm.exchange^
-||pantheonventures.exchange^
 ||pantrade.exchange^
 ||pawotc.exchange^
 ||paypulse.exchange^
@@ -385,7 +383,6 @@
 ||reau.exchange^
 ||rebatecom.exchange^
 ||reflex.exchange^
-||reintoken.exchange^
 ||relx.exchange^
 ||remmy.exchange^
 ||reserva.exchange^
@@ -399,6 +396,7 @@
 ||robuxstock.exchange^
 ||rule34.exchange^
 ||rwb.exchange^
+||sag.exchange^
 ||salimi.exchange^
 ||sandboxnft.exchange^
 ||satoshi-ai.exchange^
@@ -426,6 +424,7 @@
 ||stablecrypto.exchange^
 ||stableswap.exchange^
 ||stacks.exchange^
+||staking.exchange^
 ||stargate.exchange^
 ||starswap.exchange^
 ||stblty.exchange^
@@ -438,7 +437,6 @@
 ||taxes.exchange^
 ||telephone.exchange^
 ||tgold.exchange^
-||thebiz.exchange^
 ||thedefiantones.exchange^
 ||theleadership.exchange^
 ||thewarsaw.exchange^
@@ -446,12 +444,11 @@
 ||throne.exchange^
 ||thrunt.exchange^
 ||ticker.exchange^
-||tiki.exchange^
 ||timeless.exchange^
 ||tiny.exchange^
 ||toot.exchange^
 ||topcrypto.exchange^
-||topex.exchange^
+||tradehub.exchange^
 ||tridium.exchange^
 ||trigger.exchange^
 ||trustdefi.exchange^
