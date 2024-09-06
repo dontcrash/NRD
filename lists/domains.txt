@@ -7,12 +7,10 @@
 ||access.domains^
 ||accessible.domains^
 ||amed.domains^
-||auth.domains^
 ||bbs.domains^
 ||betano.domains^
 ||biblio.domains^
 ||blackieops.domains^
-||blinks.domains^
 ||boxing.domains^
 ||brics.domains^
 ||ccplumbing.domains^
@@ -20,6 +18,7 @@
 ||cheep.domains^
 ||clean.domains^
 ||clever.domains^
+||composer.domains^
 ||cryptos.domains^
 ||cryptowallet.domains^
 ||cybercom.domains^
@@ -29,6 +28,7 @@
 ||digitalmind.domains^
 ||dive.domains^
 ||djs.domains^
+||dncalculator.domains^
 ||dotcity.domains^
 ||dotmebaby.domains^
 ||dweb3.domains^
@@ -45,10 +45,11 @@
 ||hanashi.domains^
 ||handshake.domains^
 ||helloworld.domains^
+||higher.domains^
 ||hq.domains^
-||identity.domains^
 ||ina.domains^
 ||incorporated.domains^
+||ineed.domains^
 ||integration.domains^
 ||iota.domains^
 ||ip.domains^
@@ -61,6 +62,7 @@
 ||korea.domains^
 ||kubet88.domains^
 ||leasely.domains^
+||levelupmy.domains^
 ||lk.domains^
 ||llm.domains^
 ||loud.domains^
@@ -86,6 +88,7 @@
 ||orc.domains^
 ||pkt.domains^
 ||porno365.domains^
+||privacy.domains^
 ||probe.domains^
 ||prostreammusic.domains^
 ||protectyour.domains^
@@ -98,7 +101,6 @@
 ||reserved.domains^
 ||revolution.domains^
 ||rhodium.domains^
-||roast.domains^
 ||rule34.domains^
 ||scout.domains^
 ||scouter.domains^
@@ -130,8 +132,10 @@
 ||wb3.domains^
 ||web4.domains^
 ||worth.domains^
+||xhamster.domains^
 ||xpired.domains^
 ||yellow.domains^
 ||yellowpages.domains^
+||youporn.domains^
 ||zap.domains^
 ||zhihu.domains^

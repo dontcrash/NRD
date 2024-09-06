@@ -10,6 +10,7 @@
 ||avalaunch.build^
 ||barneselectrical.build^
 ||blocklabs.build^
+||buildthedifference.build^
 ||c3c.build^
 ||cands.build^
 ||cerlos.build^
@@ -18,8 +19,8 @@
 ||cwin.build^
 ||dangond.build^
 ||datalayer.build^
+||deadlock.build^
 ||debijenkorf.build^
-||deeprootedhomes.build^
 ||din.build^
 ||directory.build^
 ||ecosol.build^
@@ -27,7 +28,6 @@
 ||express.build^
 ||fabricfirst.build^
 ||flask.build^
-||flipsidecrypto.build^
 ||geotech.build^
 ||gogold.build^
 ||hb88.build^
@@ -35,7 +35,6 @@
 ||httpswebfour.build^
 ||joyce.build^
 ||kana.build^
-||karan.build^
 ||kenshi.build^
 ||keystoadvertising.build^
 ||kinogo.build^
@@ -67,7 +66,7 @@
 ||one90.build^
 ||peddle.build^
 ||pivotal.build^
-||pls.build^
+||playbook.build^
 ||raum.build^
 ||remarcable.build^
 ||renovive.build^
@@ -79,6 +78,7 @@
 ||sensus.build^
 ||sharpes.build^
 ||shc-group.build^
+||simulator.build^
 ||skip-internal.build^
 ||soneium.build^
 ||sonieum.build^
@@ -99,6 +99,7 @@
 ||vn88.build^
 ||vycer.build^
 ||warrenmoses.build^
+||weird.build^
 ||whatto.build^
 ||willco.build^
 ||www-linea.build^
