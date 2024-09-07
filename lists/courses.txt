@@ -19,6 +19,7 @@
 ||canadapt.courses^
 ||catalyst-admissions.courses^
 ||cheetahlearningpm.courses^
+||condensed.courses^
 ||cryptofeel.courses^
 ||cursor.courses^
 ||cyberguardian.courses^
@@ -35,7 +36,6 @@
 ||hk01.courses^
 ||hrbox.courses^
 ||humaniti.courses^
-||humanoptimization.courses^
 ||iberica.courses^
 ||identity.courses^
 ||illini.courses^
@@ -55,6 +55,10 @@
 ||leadership-online.courses^
 ||legal.courses^
 ||lime.courses^
+||london-petro-academy.courses^
+||london-petroacademy.courses^
+||londonpetro-academy.courses^
+||londonpetroacademy.courses^
 ||luis.courses^
 ||miamicatholicuniversity.courses^
 ||moja-academy.courses^
@@ -80,6 +84,7 @@
 ||thelocksmith.courses^
 ||theonenessmovement.courses^
 ||thesocialacademy.courses^
+||tradercryptology.courses^
 ||upscale.courses^
 ||valemee.courses^
 ||wealthfront.courses^
