@@ -40,7 +40,6 @@
 ||azki.exchange^
 ||backcom.exchange^
 ||baltic.exchange^
-||bando.exchange^
 ||baro.exchange^
 ||bcc.exchange^
 ||bestcrypto.exchange^
@@ -56,6 +55,7 @@
 ||bitbat.exchange^
 ||bitbullion.exchange^
 ||bitbuy.exchange^
+||bitcrypto.exchange^
 ||bitfi.exchange^
 ||bithive.exchange^
 ||bitify.exchange^
@@ -76,6 +76,7 @@
 ||buqx.exchange^
 ||burn.exchange^
 ||buy-sell.exchange^
+||buycoins.exchange^
 ||caffeine.exchange^
 ||capitals.exchange^
 ||capitaltech.exchange^
@@ -94,6 +95,7 @@
 ||coindrop.exchange^
 ||coinmarketcap.exchange^
 ||coinsec.exchange^
+||coinspe.exchange^
 ||coinveil.exchange^
 ||colors.exchange^
 ||com-app.exchange^
@@ -127,13 +129,11 @@
 ||cyberia.exchange^
 ||daazzle.exchange^
 ||dataops.exchange^
-||dayjob.exchange^
 ||de4.exchange^
 ||declarative.exchange^
 ||defor.exchange^
 ||degens.exchange^
 ||denim.exchange^
-||deren.exchange^
 ||derive.exchange^
 ||deutschebank.exchange^
 ||dgen.exchange^
@@ -143,6 +143,7 @@
 ||digitalisland.exchange^
 ||dirt.exchange^
 ||disco.exchange^
+||doctor.exchange^
 ||drothler.exchange^
 ||dx24.exchange^
 ||dyndns.exchange^
@@ -169,6 +170,7 @@
 ||exino.exchange^
 ||expertcryptotrader.exchange^
 ||exportroyal.exchange^
+||f24crypto.exchange^
 ||fabco.exchange^
 ||fabe.exchange^
 ||fabr.exchange^
@@ -193,6 +195,7 @@
 ||finance-v4-dex.exchange^
 ||finance-v4.exchange^
 ||flame.exchange^
+||fncd.exchange^
 ||forever.exchange^
 ||formfree.exchange^
 ||four.exchange^
@@ -205,7 +208,6 @@
 ||fyp138.exchange^
 ||gai.exchange^
 ||ganesh.exchange^
-||garex.exchange^
 ||gaskeunbetzonavip.exchange^
 ||gbg.exchange^
 ||geu.exchange^
@@ -215,9 +217,11 @@
 ||grace.exchange^
 ||grail.exchange^
 ||grapevine.exchange^
+||gu.exchange^
 ||guild.exchange^
 ||gunthy.exchange^
 ||hacash.exchange^
+||halalcoin.exchange^
 ||hathor.exchange^
 ||headpat.exchange^
 ||hedg.exchange^
@@ -233,7 +237,6 @@
 ||human.exchange^
 ||hummer.exchange^
 ||hustle.exchange^
-||hyperdata.exchange^
 ||iconnect.exchange^
 ||ignition.exchange^
 ||igtc.exchange^
@@ -242,6 +245,7 @@
 ||indexdigitalmedia.exchange^
 ||indiacrypto.exchange^
 ||influence.exchange^
+||initia.exchange^
 ||insurances.exchange^
 ||io-dex-v3.exchange^
 ||io-dex-v4.exchange^
@@ -287,7 +291,9 @@
 ||logical.exchange^
 ||lop.exchange^
 ||loto188.exchange^
+||luckybet.exchange^
 ||lumatrade.exchange^
+||lumen.exchange^
 ||lybra-fi.exchange^
 ||lydia.exchange^
 ||m1-20a-o0safellink.exchange^
@@ -297,6 +303,7 @@
 ||maklik.exchange^
 ||manifold.exchange^
 ||maxipay.exchange^
+||megaeth.exchange^
 ||meta.exchange^
 ||mex.exchange^
 ||mexas.exchange^
@@ -313,7 +320,6 @@
 ||multicall.exchange^
 ||mune.exchange^
 ||musiktheorie.exchange^
-||mxnb.exchange^
 ||myinvest.exchange^
 ||myonline.exchange^
 ||myzeller.exchange^
@@ -364,7 +370,6 @@
 ||org-v5.exchange^
 ||org-wallet-app.exchange^
 ||origin.exchange^
-||origins.exchange^
 ||ouija.exchange^
 ||padigital.exchange^
 ||pahlacesvvp.exchange^
@@ -401,6 +406,7 @@
 ||quickperps.exchange^
 ||qulckswap.exchange^
 ||radius.exchange^
+||rainmaker.exchange^
 ||realiste.exchange^
 ||realtytoken.exchange^
 ||reau.exchange^
@@ -416,7 +422,6 @@
 ||rewards-catalyst.exchange^
 ||rewards-catalystlab.exchange^
 ||rice.exchange^
-||rna.exchange^
 ||robuxstock.exchange^
 ||rule34.exchange^
 ||rwb.exchange^
@@ -453,6 +458,7 @@
 ||starswap.exchange^
 ||stblty.exchange^
 ||stratton.exchange^
+||streamflow.exchange^
 ||studios.exchange^
 ||sunpump.exchange^
 ||swap-line.exchange^
@@ -526,6 +532,5 @@
 ||yasuke.exchange^
 ||youporn.exchange^
 ||zcforex.exchange^
-||zeroslippage.exchange^
 ||zhihu.exchange^
 ||zzazz.exchange^

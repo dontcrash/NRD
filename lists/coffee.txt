@@ -18,6 +18,7 @@
 ||altbenestar.coffee^
 ||amibarbara.coffee^
 ||amoremio.coffee^
+||amuni.coffee^
 ||andino.coffee^
 ||animaldominion.coffee^
 ||aquebogue.coffee^
@@ -81,6 +82,7 @@
 ||buymesome.coffee^
 ||buythedrip.coffee^
 ||bwembo.coffee^
+||cafani.coffee^
 ||cafef.coffee^
 ||cafeleblanc.coffee^
 ||cafezin.coffee^
@@ -123,7 +125,6 @@
 ||comfycat.coffee^
 ||commonthriving.coffee^
 ||conda.coffee^
-||conecta.coffee^
 ||congensis.coffee^
 ||coolbuzz.coffee^
 ||coordination.coffee^
@@ -139,6 +140,7 @@
 ||cupofbean.coffee^
 ||daddio.coffee^
 ||dailyart.coffee^
+||dara.coffee^
 ||deadoralive.coffee^
 ||decaffeine.coffee^
 ||december.coffee^
@@ -162,7 +164,6 @@
 ||egkmu.coffee^
 ||eleven34.coffee^
 ||eltigre.coffee^
-||emergency.coffee^
 ||entre.coffee^
 ||entrebrewneur.coffee^
 ||eskur.coffee^
@@ -176,7 +177,6 @@
 ||eztiger.coffee^
 ||fabo.coffee^
 ||fairbeans.coffee^
-||falcafe.coffee^
 ||fantasy.coffee^
 ||fearlessunderground.coffee^
 ||feelthebeans.coffee^
@@ -184,6 +184,7 @@
 ||fetanjobs.coffee^
 ||ffansi.coffee^
 ||ficusbotanics.coffee^
+||fill.coffee^
 ||fireandrain.coffee^
 ||firewall.coffee^
 ||flask.coffee^
@@ -224,7 +225,7 @@
 ||hardluck.coffee^
 ||havelock.coffee^
 ||headcount.coffee^
-||hearsay.coffee^
+||helmetinhand.coffee^
 ||heritagereserve.coffee^
 ||higherground.coffee^
 ||highspirits.coffee^
@@ -232,12 +233,13 @@
 ||holdfast.coffee^
 ||homeroasted.coffee^
 ||houseblend.coffee^
+||hungryghost.coffee^
 ||icgte.coffee^
 ||ilovecofee.coffee^
 ||infinitecreatives.coffee^
 ||infrared.coffee^
+||instenta.coffee^
 ||ipath.coffee^
-||isca.coffee^
 ||ivdrip.coffee^
 ||jab.coffee^
 ||jad.coffee^
@@ -265,13 +267,13 @@
 ||kenyan.coffee^
 ||kfdng.coffee^
 ||kiik.coffee^
-||kil.coffee^
 ||knhts.coffee^
 ||koalatea.coffee^
 ||koinonia.coffee^
 ||kraven.coffee^
 ||krb.coffee^
 ||kream.coffee^
+||kribi.coffee^
 ||kubwa.coffee^
 ||kulczycki.coffee^
 ||kvm.coffee^
@@ -287,10 +289,10 @@
 ||letter.coffee^
 ||levitate.coffee^
 ||lezyj.coffee^
-||lf.coffee^
 ||liberari.coffee^
 ||life.coffee^
 ||lightboks.coffee^
+||lightspeed.coffee^
 ||lionsgate.coffee^
 ||littlepop.coffee^
 ||lmaei.coffee^
@@ -321,6 +323,7 @@
 ||melissis.coffee^
 ||menaone.coffee^
 ||merlin.coffee^
+||mermaid.coffee^
 ||mgsop.coffee^
 ||miamor.coffee^
 ||middlekid.coffee^
@@ -343,8 +346,6 @@
 ||my-favourite.coffee^
 ||mybest.coffee^
 ||mybestfriend.coffee^
-||myfavcup.coffee^
-||myfavcup33.coffee^
 ||mykal.coffee^
 ||myzeller.coffee^
 ||n2.coffee^
@@ -372,9 +373,7 @@
 ||onlybeans.coffee^
 ||onlyspecialty.coffee^
 ||openmocha.coffee^
-||opium.coffee^
 ||optical.coffee^
-||origin.coffee^
 ||originafrica.coffee^
 ||oriol.coffee^
 ||orso.coffee^
@@ -385,7 +384,6 @@
 ||pal.coffee^
 ||papercup.coffee^
 ||paranoid.coffee^
-||pcc1962.coffee^
 ||pe.coffee^
 ||peace.coffee^
 ||pecan.coffee^
@@ -401,7 +399,6 @@
 ||proxy.coffee^
 ||puddlejumper.coffee^
 ||qatestnfdp03.coffee^
-||quo.coffee^
 ||redcherry.coffee^
 ||redcorral.coffee^
 ||reina.coffee^
@@ -411,6 +408,7 @@
 ||restaurants.coffee^
 ||restore.coffee^
 ||riddimblue.coffee^
+||riffs.coffee^
 ||ro3st.coffee^
 ||roastkraft.coffee^
 ||roastsociety.coffee^
@@ -424,6 +422,7 @@
 ||rzilient.coffee^
 ||sabroso.coffee^
 ||samuh.coffee^
+||santorini.coffee^
 ||saturdays.coffee^
 ||saujana.coffee^
 ||savemyseat.coffee^
@@ -441,6 +440,7 @@
 ||simonsays.coffee^
 ||sipstruck.coffee^
 ||sirbeans.coffee^
+||slothee.coffee^
 ||slush.coffee^
 ||slushie.coffee^
 ||slushy.coffee^
@@ -470,7 +470,6 @@
 ||tahitianislands.coffee^
 ||taro.coffee^
 ||tertulia.coffee^
-||thebrewchapter.coffee^
 ||thebrewcorner.coffee^
 ||theclean.coffee^
 ||thecoffeereview.coffee^
@@ -500,6 +499,7 @@
 ||udderchaos.coffee^
 ||ugh.coffee^
 ||uhdbf.coffee^
+||ukama.coffee^
 ||ume.coffee^
 ||umi.coffee^
 ||undergroundcollective23.coffee^
@@ -511,6 +511,7 @@
 ||valorgrounds.coffee^
 ||vanista.coffee^
 ||varka.coffee^
+||verse.coffee^
 ||vice.coffee^
 ||vigor.coffee^
 ||vintagesun.coffee^
@@ -521,6 +522,7 @@
 ||wah.coffee^
 ||wakeandbake.coffee^
 ||watermill.coffee^
+||weho.coffee^
 ||weibo.coffee^
 ||welldone.coffee^
 ||welovexmas.coffee^
@@ -547,6 +549,7 @@
 ||yoursanctuary.coffee^
 ||zanzu.coffee^
 ||zay.coffee^
+||zeazeo.coffee^
 ||zebra.coffee^
 ||zeller.coffee^
 ||zelus.coffee^
