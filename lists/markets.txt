@@ -25,6 +25,7 @@
 ||asrp.markets^
 ||ass.markets^
 ||astorg.markets^
+||astron.markets^
 ||auone.markets^
 ||automatic.markets^
 ||avito.markets^
@@ -33,7 +34,6 @@
 ||bazaar.markets^
 ||bells.markets^
 ||betaku.markets^
-||betano.markets^
 ||betking.markets^
 ||betobet.markets^
 ||bets.markets^
@@ -57,12 +57,12 @@
 ||cashflow.markets^
 ||cassino.markets^
 ||catalyst.markets^
+||cfg.markets^
 ||chance.markets^
 ||chaos.markets^
 ||chinatimes.markets^
 ||coal.markets^
 ||coinex.markets^
-||comfy.markets^
 ||cove.markets^
 ||cowboy.markets^
 ||crowdpharma.markets^
@@ -109,7 +109,6 @@
 ||greencarbon.markets^
 ||haberturk.markets^
 ||hacker.markets^
-||happyhome.markets^
 ||hb88.markets^
 ||hdfcbank.markets^
 ||hiku.markets^
@@ -143,13 +142,13 @@
 ||kubet1.markets^
 ||kubet77.markets^
 ||lil.markets^
-||listing.markets^
 ||logical.markets^
 ||maker.markets^
 ||manager.markets^
 ||massive.markets^
 ||mdksecurities.markets^
 ||me.markets^
+||mediatororlando.markets^
 ||meet.markets^
 ||memecoin.markets^
 ||millipiyangoonline.markets^
@@ -171,6 +170,7 @@
 ||news18.markets^
 ||news24.markets^
 ||nftexchange.markets^
+||nightwhisper.markets^
 ||nke.markets^
 ||norsk-tipping.markets^
 ||o2c.markets^
@@ -178,15 +178,16 @@
 ||official.markets^
 ||oldtimer.markets^
 ||onedio.markets^
+||onfi.markets^
 ||onitsha.markets^
 ||orderbook.markets^
 ||orderflow.markets^
+||otm.markets^
 ||paddypower.markets^
 ||pantip.markets^
 ||parimatch.markets^
 ||phuket.markets^
 ||pikabu.markets^
-||pixbet.markets^
 ||pixiv.markets^
 ||pkt.markets^
 ||plain.markets^
@@ -213,6 +214,7 @@
 ||shein.markets^
 ||shopee.markets^
 ||shorter.markets^
+||slots.markets^
 ||snapchat.markets^
 ||sohu.markets^
 ||solver.markets^
@@ -232,10 +234,9 @@
 ||syosetu.markets^
 ||taiwanlottery.markets^
 ||tami.markets^
-||tapsi.markets^
 ||tenki.markets^
 ||tenx.markets^
-||thebitcoin.markets^
+||thislink.markets^
 ||thislinks.markets^
 ||tjk.markets^
 ||toolshare.markets^
@@ -244,8 +245,8 @@
 ||travelinglaw.markets^
 ||tribunnews.markets^
 ||tron.markets^
-||turkishart.markets^
 ||ug555.markets^
+||unifydynamic.markets^
 ||united.markets^
 ||usdt.markets^
 ||usual.markets^
@@ -266,6 +267,8 @@
 ||win55b.markets^
 ||win55c.markets^
 ||wise.markets^
+||wood.markets^
+||wowhandicrafts.markets^
 ||wtb.markets^
 ||xoso.markets^
 ||xosodaiphat.markets^
@@ -275,7 +278,6 @@
 ||xwind.markets^
 ||yallstreet.markets^
 ||yougot.markets^
-||yuliverse.markets^
 ||zen.markets^
 ||zhihu.markets^
 ||zingnews.markets^
