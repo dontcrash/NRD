@@ -4,6 +4,7 @@
 ||acomanagement.management^
 ||advisor.management^
 ||agro.management^
+||alcoholresponsibility.management^
 ||ambulanciastvr.management^
 ||archos.management^
 ||atbdjn.management^
@@ -18,6 +19,7 @@
 ||cia.management^
 ||colossus.management^
 ||control.management^
+||cps.management^
 ||criticalmiss.management^
 ||crowdforce.management^
 ||crsmotorsports.management^
@@ -39,9 +41,12 @@
 ||estia.management^
 ||evolve.management^
 ||excellence.management^
+||facility.management^
+||familien.management^
 ||fintech.management^
 ||fksoyb.management^
 ||flyt.management^
+||forbes.management^
 ||framework.management^
 ||futura.management^
 ||galaxy.management^
@@ -58,12 +63,14 @@
 ||ijrbic.management^
 ||inbox.management^
 ||inference.management^
+||infocomm.management^
 ||invisionx.management^
 ||jav.management^
 ||jessica.management^
 ||jtukto.management^
 ||lemonfield.management^
 ||leonidas.management^
+||liquidityrisk.management^
 ||liverpool.management^
 ||lombardodier.management^
 ||lynchburgproperty.management^
@@ -73,7 +80,9 @@
 ||mayakplus.management^
 ||mcizc.management^
 ||mega.management^
+||mercurial.management^
 ||mfp.management^
+||mgm.management^
 ||mkenterprises.management^
 ||mobs.management^
 ||moda.management^
@@ -109,6 +118,7 @@
 ||revops.management^
 ||rice.management^
 ||riser.management^
+||risk.management^
 ||rogers.management^
 ||saintagency.management^
 ||salt.management^
@@ -138,6 +148,7 @@
 ||vibe.management^
 ||viper.management^
 ||wctyi.management^
+||wealth.management^
 ||weibo.management^
 ||wellnesscompany.management^
 ||whiterabbit.management^

@@ -15,6 +15,7 @@
 ||allen.bot^
 ||allow2auth.bot^
 ||ambience.bot^
+||analytics.bot^
 ||anki.bot^
 ||arbininja.bot^
 ||armaxu.bot^
@@ -98,6 +99,7 @@
 ||eroticchat.bot^
 ||eula.bot^
 ||exchanger.bot^
+||experimental.bot^
 ||fabulist.bot^
 ||facialrecognition.bot^
 ||fate.bot^
@@ -145,13 +147,16 @@
 ||kaji.bot^
 ||kaos.bot^
 ||kirami.bot^
+||kissmy.bot^
 ||la28.bot^
 ||lce.bot^
 ||leadsystem.bot^
 ||letaidoitforyou.bot^
+||lmao.bot^
 ||loanshark.bot^
 ||loomi.bot^
 ||luckycircus.bot^
+||lune.bot^
 ||marketdata.bot^
 ||max88.bot^
 ||mayday.bot^
@@ -185,6 +190,7 @@
 ||paitoangkanet.bot^
 ||parallel.bot^
 ||pbipilot.bot^
+||penbot.bot^
 ||perk.bot^
 ||pg88.bot^
 ||pigvest.bot^
@@ -240,6 +246,7 @@
 ||swrm.bot^
 ||tabletalk.bot^
 ||task.bot^
+||tbh.bot^
 ||throne.bot^
 ||thyroid.bot^
 ||tokeno.bot^
@@ -247,12 +254,14 @@
 ||touchdown.bot^
 ||tradelogic.bot^
 ||treo.bot^
+||tringo.bot^
 ||trippy.bot^
 ||tronbullet.bot^
 ||trontrading.bot^
 ||trowel.bot^
 ||tux.bot^
 ||uncensored.bot^
+||unsub.bot^
 ||vc77.bot^
 ||venta.bot^
 ||venues.bot^
