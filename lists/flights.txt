@@ -10,6 +10,7 @@
 ||cryptocity.flights^
 ||database.flights^
 ||dwc.flights^
+||echohunt.flights^
 ||field.flights^
 ||flit.flights^
 ||hnd-airport.flights^
@@ -23,6 +24,7 @@
 ||privatejets.flights^
 ||privatjets.flights^
 ||sebs.flights^
+||sonder.flights^
 ||sql.flights^
 ||the.flights^
 ||tripias.flights^

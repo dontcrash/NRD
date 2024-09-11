@@ -24,7 +24,6 @@
 ||beaconppf.study^
 ||braincards.study^
 ||caixa.study^
-||cassino.study^
 ||cgpa-percentage.study^
 ||circular.study^
 ||codealert.study^
@@ -48,12 +47,12 @@
 ||eikatsu.study^
 ||elective.study^
 ||eporner.study^
-||eppr.study^
 ||faphouse.study^
 ||fasttrack.study^
 ||flash.study^
 ||flashcards.study^
 ||flashscore.study^
+||fluent.study^
 ||foxnews.study^
 ||guideme.study^
 ||haberturk.study^
@@ -85,8 +84,6 @@
 ||lesha.study^
 ||leva.study^
 ||linko.study^
-||lotto.study^
-||lotto60.study^
 ||luna.study^
 ||medbookplus.study^
 ||medquizz.study^
@@ -111,6 +108,7 @@
 ||orangehealth.study^
 ||pantip.study^
 ||pelvic.study^
+||pianotutor.study^
 ||picsglobal.study^
 ||pikabu.study^
 ||pixiv.study^
@@ -139,7 +137,6 @@
 ||stuckness.study^
 ||suwbgh819.study^
 ||syosetu.study^
-||taiwanlottery.study^
 ||tale.study^
 ||tech-dev.study^
 ||tenki.study^

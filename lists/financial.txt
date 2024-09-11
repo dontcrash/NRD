@@ -17,7 +17,6 @@
 ||atmos.financial^
 ||aurra.financial^
 ||bakken.financial^
-||base.financial^
 ||bcg.financial^
 ||beaumont.financial^
 ||betano.financial^
@@ -36,13 +35,13 @@
 ||chronos.financial^
 ||cim.financial^
 ||clearjunction.financial^
-||conscious.financial^
 ||consortium.financial^
 ||construction.financial^
 ||conway.financial^
 ||cooper.financial^
 ||corevalues.financial^
 ||cred.financial^
+||creditcards.financial^
 ||creditrepair.financial^
 ||cro.financial^
 ||cw.financial^
@@ -54,7 +53,6 @@
 ||diversum.financial^
 ||dnscha.financial^
 ||dreamcap.financial^
-||eba.financial^
 ||egan.financial^
 ||eigenlayer.financial^
 ||eleva.financial^
@@ -82,7 +80,6 @@
 ||greengage.financial^
 ||guidinglight.financial^
 ||halloffame.financial^
-||hansa.financial^
 ||heal.financial^
 ||health.financial^
 ||healthy.financial^
@@ -111,8 +108,6 @@
 ||moongate.financial^
 ||motherhen.financial^
 ||mutual.financial^
-||navigator.financial^
-||neptune.financial^
 ||newstandard.financial^
 ||nft.financial^
 ||nfuse.financial^
@@ -147,7 +142,6 @@
 ||rule34.financial^
 ||safepal.financial^
 ||sandwich.financial^
-||saturn.financial^
 ||sec.financial^
 ||selfmade.financial^
 ||soft.financial^
@@ -177,6 +171,7 @@
 ||wealthwave.financial^
 ||wisdom.financial^
 ||wiseman.financial^
+||wit.financial^
 ||wl.financial^
 ||wonn.financial^
 ||world-liberty.financial^
