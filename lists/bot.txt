@@ -17,6 +17,8 @@
 ||ambience.bot^
 ||analytics.bot^
 ||anki.bot^
+||app-captcha.bot^
+||aquila.bot^
 ||arbininja.bot^
 ||armaxu.bot^
 ||artha.bot^
@@ -53,9 +55,12 @@
 ||catholic.bot^
 ||centaur.bot^
 ||cf789.bot^
+||chane.bot^
 ||chore.bot^
+||chronical.bot^
 ||cidr.bot^
 ||city99.bot^
+||clickhub.bot^
 ||clinica.bot^
 ||closed.bot^
 ||cloudai.bot^
@@ -64,14 +69,17 @@
 ||cogsworth.bot^
 ||commentresponder.bot^
 ||communic8.bot^
+||computing.bot^
 ||conect.bot^
 ||conflict.bot^
+||connect.bot^
 ||conscientia.bot^
 ||cookbook.bot^
 ||coost.bot^
 ||copyrocket.bot^
 ||cora.bot^
 ||cryptoninja.bot^
+||csuite.bot^
 ||cuevana.bot^
 ||cura.bot^
 ||dab.bot^
@@ -107,6 +115,7 @@
 ||fence.bot^
 ||ferment.bot^
 ||fibonacci.bot^
+||firestarter.bot^
 ||fism.bot^
 ||floorplan.bot^
 ||flowpilot.bot^
@@ -114,6 +123,7 @@
 ||forextrade.bot^
 ||freq.bot^
 ||frontend.bot^
+||frontier.bot^
 ||frontpage.bot^
 ||frontro.bot^
 ||frontrow.bot^
@@ -148,6 +158,7 @@
 ||kaos.bot^
 ||kirami.bot^
 ||kissmy.bot^
+||kronicle.bot^
 ||la28.bot^
 ||lce.bot^
 ||leadsystem.bot^
@@ -168,6 +179,7 @@
 ||mend.bot^
 ||mentat.bot^
 ||miona.bot^
+||moderate.bot^
 ||monica.bot^
 ||mscoin.bot^
 ||my-ai.bot^
@@ -177,6 +189,8 @@
 ||namero.bot^
 ||nanny.bot^
 ||notepad.bot^
+||notetaker.bot^
+||notetakerai.bot^
 ||novus.bot^
 ||nuskin.bot^
 ||obscure.bot^
@@ -189,6 +203,7 @@
 ||pagewatch.bot^
 ||paitoangkanet.bot^
 ||parallel.bot^
+||paymentiq.bot^
 ||pbipilot.bot^
 ||penbot.bot^
 ||perk.bot^
@@ -197,10 +212,12 @@
 ||pilotacademy.bot^
 ||pivotalbuild.bot^
 ||plan.bot^
+||polli.bot^
 ||pollie.bot^
 ||popolni.bot^
 ||poppa.bot^
 ||postel.bot^
+||postman.bot^
 ||powerai.bot^
 ||ppt.bot^
 ||preguntas.bot^
@@ -208,6 +225,7 @@
 ||profitsystem.bot^
 ||programmaticseo.bot^
 ||prothean.bot^
+||pullable.bot^
 ||purpleai.bot^
 ||qls.bot^
 ||qvac.bot^
@@ -274,6 +292,7 @@
 ||voicemail.bot^
 ||vps.bot^
 ||webagent.bot^
+||webapp.bot^
 ||whole.bot^
 ||wik.bot^
 ||wlfi.bot^

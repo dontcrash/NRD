@@ -12,6 +12,7 @@
 ||conversation.new^
 ||cs.new^
 ||dalle.new^
+||devsecops.new^
 ||dragonwin.new^
 ||energy.new^
 ||feed.new^
@@ -29,6 +30,7 @@
 ||listen.new^
 ||loom.new^
 ||metadata.new^
+||metric.new^
 ||mock.new^
 ||mysql.new^
 ||package.new^
@@ -39,6 +41,7 @@
 ||realtime.new^
 ||receipt.new^
 ||response.new^
+||robots.new^
 ||routine.new^
 ||rug.new^
 ||scribe.new^
@@ -55,7 +58,9 @@
 ||surveys.new^
 ||swoogo.new^
 ||table.new^
+||threatmodel.new^
 ||trial.new^
+||trust.new^
 ||tts.new^
 ||vectorstore.new^
 ||webflow.new^

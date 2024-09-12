@@ -13,6 +13,7 @@
 ||echohunt.flights^
 ||field.flights^
 ||flit.flights^
+||flycharter.flights^
 ||hnd-airport.flights^
 ||in-flight.flights^
 ||juba.flights^
@@ -21,6 +22,7 @@
 ||maltepedersaneleri.flights^
 ||nebula.flights^
 ||patriot.flights^
+||ppg.flights^
 ||privatejets.flights^
 ||privatjets.flights^
 ||sebs.flights^
@@ -32,3 +34,4 @@
 ||unlimited.flights^
 ||visionpro.flights^
 ||wing138.flights^
+||yepk.flights^

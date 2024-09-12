@@ -20,11 +20,9 @@
 ||clean.investments^
 ||code.investments^
 ||content.investments^
-||copilot.investments^
 ||dash.investments^
 ||degen.investments^
 ||digital-real-estate.investments^
-||dot.investments^
 ||drex.investments^
 ||eaac.investments^
 ||elon.investments^
@@ -35,6 +33,7 @@
 ||fixedfloat.investments^
 ||fm.investments^
 ||forbes.investments^
+||forsale.investments^
 ||frontier.investments^
 ||gamechanger.investments^
 ||gazellelion.investments^
@@ -52,6 +51,7 @@
 ||investcent.investments^
 ||investment-group.investments^
 ||keystone.investments^
+||kleinfamily.investments^
 ||lbx.investments^
 ||lusail.investments^
 ||lyon.investments^
@@ -97,14 +97,13 @@
 ||stewrd.investments^
 ||stonebrick.investments^
 ||story.investments^
+||sunwest.investments^
 ||system.investments^
 ||thehive.investments^
-||thomasthomas.investments^
 ||twy.investments^
 ||unique.investments^
 ||vivid.investments^
 ||well.investments^
-||wise.investments^
 ||wolf.investments^
 ||wonn.investments^
 ||wood.investments^

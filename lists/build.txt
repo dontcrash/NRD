@@ -10,13 +10,12 @@
 ||airbn.build^
 ||aitool.build^
 ||apexdesign.build^
-||appetite.build^
+||attic.build^
 ||automaton.build^
 ||barneselectrical.build^
 ||blocklabs.build^
 ||buildthedifference.build^
 ||c3c.build^
-||cerlos.build^
 ||ciphomes.build^
 ||coreuk.build^
 ||dangond.build^
@@ -59,12 +58,9 @@
 ||mavericks.build^
 ||mhm.build^
 ||mintuk.build^
-||moxyoid.build^
 ||mythos.build^
-||ncdesign.build^
 ||noel.build^
 ||nomadic.build^
-||noodle.build^
 ||nopal.build^
 ||ocean.build^
 ||one90.build^
@@ -101,7 +97,9 @@
 ||teq.build^
 ||tessler.build^
 ||thine.build^
+||topology.build^
 ||treasurehomes.build^
+||tributary.build^
 ||turing.build^
 ||upgen.build^
 ||utxo.build^
@@ -116,6 +114,7 @@
 ||willco.build^
 ||www-linea.build^
 ||xlr8.build^
+||xoso66.build^
 ||yellowpages.build^
 ||yeoman.build^
 ||zemba.build^
