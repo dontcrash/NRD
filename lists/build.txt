@@ -3,8 +3,8 @@
 ||68gamebai.build^
 ||69vn.build^
 ||abc8.build^
-||acerola.build^
 ||actualize.build^
+||adventurelab.build^
 ||aecore.build^
 ||aiautomation.build^
 ||airbn.build^
@@ -12,10 +12,10 @@
 ||apexdesign.build^
 ||attic.build^
 ||automaton.build^
+||ballast.build^
 ||barneselectrical.build^
 ||blocklabs.build^
 ||buildthedifference.build^
-||c3c.build^
 ||ciphomes.build^
 ||coreuk.build^
 ||dangond.build^
@@ -46,13 +46,13 @@
 ||joyce.build^
 ||kana.build^
 ||kenshi.build^
-||kinogo.build^
 ||lienea.build^
 ||lineapad.build^
 ||lineaplorer.build^
 ||liniea.build^
 ||lovetto.build^
 ||luconcivils.build^
+||makedo.build^
 ||makeitso.build^
 ||marcomelectrical.build^
 ||mavericks.build^
@@ -65,6 +65,7 @@
 ||ocean.build^
 ||one90.build^
 ||openhouse.build^
+||oriol.build^
 ||param.build^
 ||patchwork.build^
 ||peddle.build^
@@ -74,6 +75,7 @@
 ||radian.build^
 ||raketa.build^
 ||raum.build^
+||renata.build^
 ||renovive.build^
 ||renu.build^
 ||reviteer.build^
@@ -84,10 +86,12 @@
 ||sharpes.build^
 ||shc-group.build^
 ||simulator.build^
+||skimmerpools.build^
 ||skip-internal.build^
 ||slim.build^
 ||soneium.build^
 ||sonieum.build^
+||splinterwoodworks.build^
 ||spruce.build^
 ||stet.build^
 ||storytime.build^
@@ -100,7 +104,10 @@
 ||topology.build^
 ||treasurehomes.build^
 ||tributary.build^
+||trutiny.build^
 ||turing.build^
+||turnkeyconstructors.build^
+||uniqube.build^
 ||upgen.build^
 ||utxo.build^
 ||v0.build^
@@ -113,8 +120,8 @@
 ||whatto.build^
 ||willco.build^
 ||www-linea.build^
+||xativa.build^
 ||xlr8.build^
 ||xoso66.build^
-||yellowpages.build^
 ||yeoman.build^
 ||zemba.build^

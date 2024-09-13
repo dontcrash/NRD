@@ -18,7 +18,7 @@
 ||ag-v4.exchange^
 ||ag-v5-dex.exchange^
 ||ai-trade.exchange^
-||akt.exchange^
+||alansari.exchange^
 ||alchemist.exchange^
 ||amara.exchange^
 ||amelie.exchange^
@@ -35,7 +35,6 @@
 ||aurra.exchange^
 ||aurumnexus.exchange^
 ||auth.exchange^
-||avaswap.exchange^
 ||azki.exchange^
 ||backcom.exchange^
 ||baltic.exchange^
@@ -63,7 +62,6 @@
 ||blackbeard.exchange^
 ||blockcrypto.exchange^
 ||bogi.exchange^
-||borsch.exchange^
 ||bricks.exchange^
 ||brid.exchange^
 ||bristol.exchange^
@@ -117,7 +115,6 @@
 ||cry-pto.exchange^
 ||cryptocraft.exchange^
 ||cryptocurrencycoin.exchange^
-||cryptofiats.exchange^
 ||cryptomarketing.exchange^
 ||cryptopets.exchange^
 ||cryptorium.exchange^
@@ -159,7 +156,6 @@
 ||esxi.exchange^
 ||etcetera.exchange^
 ||ethio.exchange^
-||eventhorizon.exchange^
 ||excessmaterials.exchange^
 ||exchange-mail.exchange^
 ||exchangeramses.exchange^
@@ -185,7 +181,6 @@
 ||finance-v3app.exchange^
 ||finance-v4-app.exchange^
 ||finance-v4-dex.exchange^
-||finance-v4.exchange^
 ||finance-v5-app.exchange^
 ||finance-v5.exchange^
 ||flame.exchange^
@@ -292,12 +287,14 @@
 ||maxipay.exchange^
 ||mecury.exchange^
 ||megaeth.exchange^
+||mejahokizonavip.exchange^
 ||meta.exchange^
 ||mexas.exchange^
 ||midnightminer.exchange^
 ||monday.exchange^
 ||moneytop.exchange^
 ||morethanenough.exchange^
+||most.exchange^
 ||movement.exchange^
 ||mstgroup.exchange^
 ||multibagger.exchange^
@@ -336,7 +333,6 @@
 ||org-v3-app.exchange^
 ||org-v3-dex.exchange^
 ||org-v4-app.exchange^
-||org-v4.exchange^
 ||org-v5-app.exchange^
 ||org-v5-apper.exchange^
 ||org-v5-dex.exchange^
@@ -361,11 +357,11 @@
 ||pppprotocol.exchange^
 ||pretio.exchange^
 ||propertydeal.exchange^
+||propertyparts.exchange^
 ||props.exchange^
 ||prosperity.exchange^
 ||prosto.exchange^
 ||proton.exchange^
-||protox.exchange^
 ||purity.exchange^
 ||qh88.exchange^
 ||qommo.exchange^
@@ -392,13 +388,11 @@
 ||rwb.exchange^
 ||sag.exchange^
 ||salimi.exchange^
-||sandboxnft.exchange^
 ||satin.exchange^
 ||satoshi-ai.exchange^
 ||scr.exchange^
 ||screens.exchange^
 ||seasonalchangesinc.exchange^
-||seats.exchange^
 ||secured.exchange^
 ||self.exchange^
 ||shinto.exchange^
@@ -419,6 +413,7 @@
 ||starswap.exchange^
 ||stratton.exchange^
 ||streamflow.exchange^
+||streamingcommunity.exchange^
 ||studios.exchange^
 ||sunpump.exchange^
 ||symbiotic.exchange^
@@ -433,6 +428,7 @@
 ||theleadership.exchange^
 ||theprosperity.exchange^
 ||thewolfpack.exchange^
+||thienngaden.exchange^
 ||thor.exchange^
 ||thrunt.exchange^
 ||timeless.exchange^
@@ -443,7 +439,6 @@
 ||trad.exchange^
 ||tradehub.exchange^
 ||tradias.exchange^
-||tridium.exchange^
 ||trigger.exchange^
 ||trustdefi.exchange^
 ||tuzo.exchange^
@@ -457,12 +452,10 @@
 ||us-jumper.exchange^
 ||usedsports.exchange^
 ||usual.exchange^
-||v3-camelot.exchange^
 ||valkyrie.exchange^
 ||vcomex.exchange^
 ||vendito.exchange^
 ||vine.exchange^
-||visionpro.exchange^
 ||vital.exchange^
 ||vivawest.exchange^
 ||vote-me.exchange^
@@ -480,6 +473,7 @@
 ||wse.exchange^
 ||xhamster.exchange^
 ||yasuke.exchange^
+||ynot.exchange^
 ||youporn.exchange^
 ||zcforex.exchange^
 ||zhihu.exchange^

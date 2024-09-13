@@ -7,9 +7,11 @@
 ||accessible.domains^
 ||atomic.domains^
 ||bbs.domains^
+||believer1.domains^
 ||betano.domains^
 ||biblio.domains^
 ||blackieops.domains^
+||boost.domains^
 ||boxing.domains^
 ||brics.domains^
 ||buddy.domains^
@@ -17,7 +19,6 @@
 ||chaos.domains^
 ||cheep.domains^
 ||clean.domains^
-||clever.domains^
 ||composer.domains^
 ||cryptos.domains^
 ||ctrl.domains^
@@ -38,6 +39,7 @@
 ||eurovision.domains^
 ||eval.domains^
 ||event.domains^
+||expiringdomaindonstreejc.domains^
 ||favicon.domains^
 ||flatfee.domains^
 ||flexmy.domains^
@@ -71,7 +73,6 @@
 ||libsolutions.domains^
 ||lk.domains^
 ||llm.domains^
-||loud.domains^
 ||lume.domains^
 ||luo.domains^
 ||maitreya.domains^
@@ -85,7 +86,6 @@
 ||nestegg.domains^
 ||netlogic.domains^
 ||neutral.domains^
-||nfts.domains^
 ||niche-web.domains^
 ||nigger.domains^
 ||nmap.domains^
@@ -97,7 +97,6 @@
 ||otherworldly.domains^
 ||parasolcaravan.domains^
 ||pkt.domains^
-||porno365.domains^
 ||privacy.domains^
 ||probe.domains^
 ||prostreammusic.domains^
@@ -122,7 +121,6 @@
 ||son.domains^
 ||sone.domains^
 ||soneium.domains^
-||spark.domains^
 ||src.domains^
 ||supa.domains^
 ||sysmetix.domains^
@@ -130,6 +128,8 @@
 ||tccm.domains^
 ||teen.domains^
 ||thanhga.domains^
+||thesaurus.domains^
+||threads.domains^
 ||three.domains^
 ||tlds.domains^
 ||truelogian.domains^
@@ -142,7 +142,6 @@
 ||xhamster.domains^
 ||xpired.domains^
 ||yellow.domains^
-||yellowpages.domains^
 ||youporn.domains^
 ||zactest.domains^
 ||zhihu.domains^
