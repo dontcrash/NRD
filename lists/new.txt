@@ -30,13 +30,17 @@
 ||listen.new^
 ||loom.new^
 ||metadata.new^
+||metaview.new^
 ||metric.new^
 ||mock.new^
 ||mysql.new^
+||name.new^
 ||package.new^
 ||paradigm.new^
 ||pcb.new^
 ||poc.new^
+||practice.new^
+||qr.new^
 ||queue.new^
 ||realtime.new^
 ||receipt.new^

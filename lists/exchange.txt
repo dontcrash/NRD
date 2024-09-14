@@ -1,6 +1,5 @@
 ||1035.exchange^
 ||122bet.exchange^
-||255bet.exchange^
 ||277bet.exchange^
 ||299bet.exchange^
 ||399bet.exchange^
@@ -35,8 +34,6 @@
 ||aurra.exchange^
 ||aurumnexus.exchange^
 ||auth.exchange^
-||azki.exchange^
-||backcom.exchange^
 ||baltic.exchange^
 ||baro.exchange^
 ||bcc.exchange^
@@ -99,9 +96,9 @@
 ||com-dex-v3.exchange^
 ||com-dex-v4.exchange^
 ||com-dex.exchange^
-||com-v2.exchange^
 ||com-v3-dex.exchange^
 ||com-v3app.exchange^
+||com-v4-app.exchange^
 ||com-v4-dex.exchange^
 ||com-v4app.exchange^
 ||community.exchange^
@@ -115,12 +112,12 @@
 ||cry-pto.exchange^
 ||cryptocraft.exchange^
 ||cryptocurrencycoin.exchange^
+||cryptoexchange.exchange^
 ||cryptomarketing.exchange^
 ||cryptopets.exchange^
 ||cryptorium.exchange^
 ||cryptozar.exchange^
 ||cryptradex.exchange^
-||cryt.exchange^
 ||currency-control.exchange^
 ||cyberia.exchange^
 ||daazzle.exchange^
@@ -133,6 +130,7 @@
 ||dgen.exchange^
 ||diamondtrust.exchange^
 ||difi.exchange^
+||digiquid.exchange^
 ||digitalf.exchange^
 ||digitalisland.exchange^
 ||doctor.exchange^
@@ -140,9 +138,13 @@
 ||dx24.exchange^
 ||dyndns.exchange^
 ||e-security.exchange^
+||e28cricket.exchange^
+||e2cricket.exchange^
 ||earlybirdticket.exchange^
 ||edpcialishop.exchange^
 ||eka.exchange^
+||emusic.exchange^
+||emusicrights.exchange^
 ||en-bungee.exchange^
 ||en-hop.exchange^
 ||en-jumper.exchange^
@@ -152,7 +154,6 @@
 ||envirotoken.exchange^
 ||epos.exchange^
 ||epyk.exchange^
-||escortescrow.exchange^
 ||esxi.exchange^
 ||etcetera.exchange^
 ||ethio.exchange^
@@ -176,7 +177,6 @@
 ||finance-dex-v5.exchange^
 ||finance-v2-dex.exchange^
 ||finance-v2.exchange^
-||finance-v3-app.exchange^
 ||finance-v3.exchange^
 ||finance-v3app.exchange^
 ||finance-v4-app.exchange^
@@ -215,6 +215,7 @@
 ||headpat.exchange^
 ||hedg.exchange^
 ||hockinghills.exchange^
+||homex.exchange^
 ||hopdata.exchange^
 ||hopers.exchange^
 ||hopevm.exchange^
@@ -222,6 +223,7 @@
 ||hr.exchange^
 ||hulkswap.exchange^
 ||human.exchange^
+||humankind.exchange^
 ||hummer.exchange^
 ||hyperweb.exchange^
 ||iconnect.exchange^
@@ -255,6 +257,7 @@
 ||jpc.exchange^
 ||jrswap.exchange^
 ||jumoer.exchange^
+||jumpeer.exchange^
 ||kampungselir.exchange^
 ||keyrails.exchange^
 ||kiara.exchange^
@@ -349,11 +352,9 @@
 ||paypulsebarter.exchange^
 ||phinix.exchange^
 ||picasso.exchange^
-||pins.exchange^
 ||plank.exchange^
 ||poap.exchange^
 ||positions.exchange^
-||powerincome.exchange^
 ||pppprotocol.exchange^
 ||pretio.exchange^
 ||propertydeal.exchange^
@@ -373,7 +374,6 @@
 ||rayswap.exchange^
 ||realtytoken.exchange^
 ||reau.exchange^
-||rebatecom.exchange^
 ||redacted.exchange^
 ||remmy.exchange^
 ||reserva.exchange^
@@ -397,6 +397,8 @@
 ||self.exchange^
 ||shinto.exchange^
 ||shoeswap.exchange^
+||slotgacor.exchange^
+||slotgacorhariini.exchange^
 ||slots.exchange^
 ||sola.exchange^
 ||solactive.exchange^
