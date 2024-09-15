@@ -1,5 +1,4 @@
 ||0.build^
-||5d-design.build^
 ||68gamebai.build^
 ||69vn.build^
 ||abc8.build^
@@ -28,10 +27,10 @@
 ||empire.build^
 ||enchantingdesign.build^
 ||express.build^
-||fabricfirst.build^
 ||fce.build^
 ||flask.build^
 ||futr.build^
+||gale.build^
 ||geotech.build^
 ||gogold.build^
 ||grid.build^
@@ -61,16 +60,17 @@
 ||noel.build^
 ||nomadic.build^
 ||nopal.build^
-||ocean.build^
 ||one90.build^
 ||openhouse.build^
 ||oriol.build^
+||pagebin.build^
 ||param.build^
 ||patchwork.build^
 ||peddle.build^
 ||pivotal.build^
 ||playbook.build^
 ||pobretv.build^
+||pryme.build^
 ||radian.build^
 ||raketa.build^
 ||raum.build^
@@ -111,9 +111,7 @@
 ||utxo.build^
 ||v0.build^
 ||vc77.build^
-||venturecraft.build^
 ||vn88.build^
-||vycer.build^
 ||warrenmoses.build^
 ||weird.build^
 ||whatto.build^
