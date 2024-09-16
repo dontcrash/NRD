@@ -13,20 +13,16 @@
 ||automaton.build^
 ||ballast.build^
 ||barneselectrical.build^
-||blocklabs.build^
 ||buildthedifference.build^
 ||ciphomes.build^
 ||coreuk.build^
 ||dangond.build^
 ||deadlock.build^
-||debijenkorf.build^
-||din.build^
 ||directory.build^
 ||earnai.build^
 ||ecosol.build^
 ||empire.build^
 ||enchantingdesign.build^
-||express.build^
 ||fce.build^
 ||flask.build^
 ||futr.build^
@@ -35,7 +31,6 @@
 ||gogold.build^
 ||grid.build^
 ||haus.build^
-||hb88.build^
 ||herd.build^
 ||holmes.build^
 ||httpswebfour.build^
@@ -59,7 +54,6 @@
 ||mythos.build^
 ||noel.build^
 ||nomadic.build^
-||nopal.build^
 ||one90.build^
 ||openhouse.build^
 ||oriol.build^
@@ -81,7 +75,6 @@
 ||riviera.build^
 ||rust.build^
 ||sappy.build^
-||sensus.build^
 ||sharpes.build^
 ||shc-group.build^
 ||simulator.build^
@@ -107,7 +100,6 @@
 ||turing.build^
 ||turnkeyconstructors.build^
 ||uniqube.build^
-||upgen.build^
 ||utxo.build^
 ||v0.build^
 ||vc77.build^
@@ -120,5 +112,4 @@
 ||xativa.build^
 ||xlr8.build^
 ||xoso66.build^
-||yeoman.build^
 ||zemba.build^
