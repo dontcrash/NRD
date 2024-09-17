@@ -1,7 +1,6 @@
 ||1xbet.new^
 ||4.new^
 ||409a.new^
-||addison.new^
 ||atomtickets.new^
 ||audio.new^
 ||batch.new^
@@ -20,7 +19,6 @@
 ||ft.new^
 ||games.new^
 ||hudl.new^
-||in.new^
 ||inspect.new^
 ||kanvas.new^
 ||kolo.new^
@@ -29,13 +27,13 @@
 ||limitless.new^
 ||listen.new^
 ||loom.new^
+||macro.new^
+||memecoin.new^
 ||metadata.new^
 ||metaview.new^
 ||metric.new^
 ||mock.new^
-||mysql.new^
 ||name.new^
-||package.new^
 ||paradigm.new^
 ||pcb.new^
 ||poc.new^
@@ -46,7 +44,6 @@
 ||response.new^
 ||robots.new^
 ||routine.new^
-||rug.new^
 ||scribe.new^
 ||segura.new^
 ||send.new^
@@ -55,11 +52,7 @@
 ||sog.new^
 ||sport.new^
 ||ss.new^
-||ssh.new^
-||sum.new^
 ||summarize.new^
-||surveys.new^
-||swoogo.new^
 ||table.new^
 ||threatmodel.new^
 ||trial.new^

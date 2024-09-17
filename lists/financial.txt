@@ -25,6 +25,7 @@
 ||breathe.financial^
 ||bruce.financial^
 ||bscscan.financial^
+||cake-pancakeswap.financial^
 ||carfinance.financial^
 ||cex.financial^
 ||chryma.financial^
@@ -82,13 +83,12 @@
 ||investing.financial^
 ||invoice.financial^
 ||islandseast.financial^
-||jetton.financial^
 ||kaz.financial^
 ||kinnect.financial^
 ||konect.financial^
 ||lancelott.financial^
+||liquid.financial^
 ||lmc.financial^
-||long.financial^
 ||loyal.financial^
 ||m1chigan.financial^
 ||magnolia.financial^
@@ -119,7 +119,6 @@
 ||payments.financial^
 ||pencakeswap.financial^
 ||permai99.financial^
-||pinkney.financial^
 ||plain.financial^
 ||platform.financial^
 ||plus.financial^
@@ -127,13 +126,13 @@
 ||polynomial.financial^
 ||polzin.financial^
 ||powell.financial^
-||quantum-system.financial^
 ||ration.financial^
 ||reau.financial^
 ||remmy.financial^
 ||roth.financial^
 ||rule34.financial^
 ||safepal.financial^
+||sage.financial^
 ||sandwich.financial^
 ||selfmade.financial^
 ||soft.financial^
@@ -141,10 +140,11 @@
 ||starlight.financial^
 ||stewrd.financial^
 ||streamingcommunity.financial^
-||strike.financial^
 ||superlovestore.financial^
 ||syimbiosis.financial^
 ||thedefiantones.financial^
+||theworldliberty.financial^
+||tinytown.financial^
 ||torino.financial^
 ||tribedosh.financial^
 ||tuzo.financial^
@@ -155,6 +155,8 @@
 ||usual.financial^
 ||utxo.financial^
 ||validity.financial^
+||velobrome.financial^
+||velodnrome.financial^
 ||velvet.financial^
 ||vote-ondo.financial^
 ||vpn.financial^
