@@ -13,12 +13,10 @@
 ||dalle.new^
 ||devsecops.new^
 ||dragonwin.new^
-||energy.new^
 ||feed.new^
 ||flex.new^
 ||ft.new^
 ||games.new^
-||hudl.new^
 ||inspect.new^
 ||kanvas.new^
 ||kolo.new^
@@ -29,13 +27,11 @@
 ||loom.new^
 ||macro.new^
 ||memecoin.new^
-||metadata.new^
 ||metaview.new^
 ||metric.new^
 ||mock.new^
 ||name.new^
-||paradigm.new^
-||pcb.new^
+||php.new^
 ||poc.new^
 ||practice.new^
 ||qr.new^
@@ -47,7 +43,6 @@
 ||scribe.new^
 ||segura.new^
 ||send.new^
-||senhasegura.new^
 ||sk.new^
 ||sog.new^
 ||sport.new^
@@ -55,6 +50,8 @@
 ||summarize.new^
 ||table.new^
 ||threatmodel.new^
+||tree.new^
+||trees.new^
 ||trial.new^
 ||trust.new^
 ||tts.new^

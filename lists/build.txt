@@ -1,10 +1,10 @@
 ||0.build^
 ||68gamebai.build^
 ||69vn.build^
+||abacus.build^
 ||actualize.build^
 ||adventurelab.build^
 ||aecore.build^
-||aiautomation.build^
 ||airbn.build^
 ||aitool.build^
 ||apexdesign.build^
@@ -38,9 +38,9 @@
 ||joyce.build^
 ||kana.build^
 ||kenshi.build^
+||lama.build^
 ||lienea.build^
 ||lineapad.build^
-||lineaplorer.build^
 ||lovetto.build^
 ||luconcivils.build^
 ||makedo.build^
@@ -49,6 +49,7 @@
 ||mavericks.build^
 ||mhm.build^
 ||mintuk.build^
+||motif.build^
 ||mythos.build^
 ||noel.build^
 ||nomadic.build^
@@ -62,6 +63,7 @@
 ||pivotal.build^
 ||playbook.build^
 ||pobretv.build^
+||pretzel.build^
 ||pryme.build^
 ||radian.build^
 ||raketa.build^
@@ -82,6 +84,7 @@
 ||sonieum.build^
 ||splinterwoodworks.build^
 ||stet.build^
+||storybuild.build^
 ||storytime.build^
 ||symmetric.build^
 ||symphony.build^
@@ -102,7 +105,6 @@
 ||warrenmoses.build^
 ||weird.build^
 ||whatto.build^
-||willco.build^
 ||www-linea.build^
 ||xativa.build^
 ||xlr8.build^

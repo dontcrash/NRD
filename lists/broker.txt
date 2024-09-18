@@ -27,7 +27,6 @@
 ||ci.broker^
 ||columbus.broker^
 ||commission.broker^
-||commit.broker^
 ||condo.broker^
 ||condos.broker^
 ||contract.broker^
@@ -46,7 +45,6 @@
 ||dex.broker^
 ||downtown.broker^
 ||elmorshdledwagn.broker^
-||embark.broker^
 ||emo.broker^
 ||erv.broker^
 ||expatcompares.broker^
@@ -96,6 +94,7 @@
 ||pocket-option.broker^
 ||pool.broker^
 ||privateequity.broker^
+||prompt.broker^
 ||pussy.broker^
 ||qh88.broker^
 ||refi.broker^
@@ -111,7 +110,6 @@
 ||sh.broker^
 ||shbet1.broker^
 ||spokane.broker^
-||stellar.broker^
 ||su.broker^
 ||svoi.broker^
 ||svrealestate.broker^
