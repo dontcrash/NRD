@@ -24,15 +24,14 @@
 ||aircooled.supply^
 ||alphahvac.supply^
 ||aluminus.supply^
-||amarillobrewing.supply^
 ||av19.supply^
 ||bailies.supply^
 ||biohacking.supply^
 ||bird.supply^
 ||blue.supply^
 ||bms.supply^
+||btn.supply^
 ||canoe.supply^
-||cards.supply^
 ||carta.supply^
 ||cave.supply^
 ||circle.supply^
@@ -46,6 +45,8 @@
 ||dkremy.supply^
 ||dptorp.supply^
 ||dukduk.supply^
+||dumpling.supply^
+||e-estrateg.supply^
 ||eballbet.supply^
 ||ehrgeb.supply^
 ||expodisplaysug.supply^
@@ -96,7 +97,6 @@
 ||kjabhy.supply^
 ||kraft.supply^
 ||krafted.supply^
-||kral.supply^
 ||l0ke.supply^
 ||labtest.supply^
 ||laine.supply^
@@ -104,6 +104,7 @@
 ||liburankepulauseribu.supply^
 ||liminal.supply^
 ||lndg.supply^
+||lockand.supply^
 ||logico.supply^
 ||longevity.supply^
 ||lookbook.supply^
@@ -111,8 +112,8 @@
 ||marketlab.supply^
 ||matrimony.supply^
 ||mbplc.supply^
-||mechmarket.supply^
 ||moe.supply^
+||mosaique.supply^
 ||mypool.supply^
 ||ndtv.supply^
 ||njtysr.supply^
@@ -124,8 +125,6 @@
 ||p2p.supply^
 ||pachuco.supply^
 ||padel.supply^
-||pages.supply^
-||palm.supply^
 ||papa.supply^
 ||parallelpolis.supply^
 ||petopia.supply^
@@ -143,7 +142,6 @@
 ||ramirh.supply^
 ||rarri.supply^
 ||redbarntimbers.supply^
-||redeye.supply^
 ||rekkta.supply^
 ||royalelectrical.supply^
 ||rule34.supply^
@@ -168,10 +166,8 @@
 ||stayintouch.supply^
 ||stonegate.supply^
 ||store.supply^
-||streamingcommunity.supply^
 ||streamwear.supply^
 ||structure.supply^
-||student.supply^
 ||support10it.supply^
 ||swiftly.supply^
 ||thaimassage.supply^
@@ -181,7 +177,6 @@
 ||transavia.supply^
 ||ukmart.supply^
 ||ultisource.supply^
-||units.supply^
 ||uss.supply^
 ||vfx.supply^
 ||void.supply^
@@ -189,6 +184,7 @@
 ||wines.supply^
 ||winwithbcslots.supply^
 ||wolfxpath.supply^
+||wound.supply^
 ||ww88.supply^
 ||xhamster.supply^
 ||xoso.supply^

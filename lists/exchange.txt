@@ -50,7 +50,6 @@
 ||bitcap.exchange^
 ||bitcrypto.exchange^
 ||bitflick.exchange^
-||bithive.exchange^
 ||bitiqs.exchange^
 ||bitt.exchange^
 ||blackbeard.exchange^
@@ -75,10 +74,9 @@
 ||cerulean.exchange^
 ||claim-quickswap.exchange^
 ||cloudex.exchange^
-||coach.exchange^
 ||coin-marketcap.exchange^
 ||coindrop.exchange^
-||coinmarketcap.exchange^
+||coinpayy.exchange^
 ||coinspe.exchange^
 ||coinveil.exchange^
 ||collective.exchange^
@@ -142,8 +140,6 @@
 ||emusicrights.exchange^
 ||en-bungee.exchange^
 ||en-jumper.exchange^
-||eng-bungee.exchange^
-||eng-jumper.exchange^
 ||envirotoken.exchange^
 ||epos.exchange^
 ||epyk.exchange^
@@ -159,6 +155,7 @@
 ||falkor.exchange^
 ||fastflow.exchange^
 ||fedi.exchange^
+||fehu.exchange^
 ||filmyzilla.exchange^
 ||finance-app-v4.exchange^
 ||finance-dex-v2.exchange^
@@ -172,6 +169,7 @@
 ||finance-v5-app.exchange^
 ||finance-v5.exchange^
 ||flame.exchange^
+||flor.exchange^
 ||fncd.exchange^
 ||forever.exchange^
 ||formfree.exchange^
@@ -201,7 +199,6 @@
 ||gunthy.exchange^
 ||hacash.exchange^
 ||halalcoin.exchange^
-||hedg.exchange^
 ||hob.exchange^
 ||hockinghills.exchange^
 ||homex.exchange^
@@ -246,6 +243,7 @@
 ||join.exchange^
 ||jpc.exchange^
 ||jrswap.exchange^
+||jts.exchange^
 ||juegosdecoser.exchange^
 ||jumeper.exchange^
 ||jumoer.exchange^
@@ -269,7 +267,6 @@
 ||limit.exchange^
 ||liqio.exchange^
 ||loco.exchange^
-||lop.exchange^
 ||loto188.exchange^
 ||luckybet.exchange^
 ||lumatrade.exchange^
@@ -279,6 +276,7 @@
 ||m1-20a-o0safellink.exchange^
 ||m1-m20auth-safelinks.exchange^
 ||makermarket.exchange^
+||matic.exchange^
 ||maxipay.exchange^
 ||mecury.exchange^
 ||megaeth.exchange^
@@ -329,7 +327,6 @@
 ||org-v5-dex.exchange^
 ||org-v5.exchange^
 ||org-v5app.exchange^
-||ouija.exchange^
 ||ouroboros.exchange^
 ||padigital.exchange^
 ||pahlacesvvp.exchange^
@@ -341,6 +338,7 @@
 ||picasso.exchange^
 ||plank.exchange^
 ||poap.exchange^
+||poetry.exchange^
 ||positions.exchange^
 ||pretio.exchange^
 ||propertydeal.exchange^
@@ -366,7 +364,6 @@
 ||remmy.exchange^
 ||reserva.exchange^
 ||rest.exchange^
-||revenue-share-tokens.exchange^
 ||reversepepe.exchange^
 ||rewards-catalyst.exchange^
 ||rewards-catalystlab.exchange^
@@ -380,7 +377,6 @@
 ||sahil.exchange^
 ||sake.exchange^
 ||salandak.exchange^
-||salimi.exchange^
 ||salmonad.exchange^
 ||satin.exchange^
 ||satoshi-ai.exchange^
@@ -412,6 +408,7 @@
 ||staking.exchange^
 ||stargate.exchange^
 ||starswap.exchange^
+||stonkz.exchange^
 ||stratton.exchange^
 ||streamflow.exchange^
 ||streamingcommunity.exchange^
@@ -419,7 +416,6 @@
 ||sunpump.exchange^
 ||swapman.exchange^
 ||symbiotic.exchange^
-||szse.exchange^
 ||t.exchange^
 ||taiko.exchange^
 ||tango.exchange^
@@ -429,8 +425,8 @@
 ||tgx.exchange^
 ||the-prosperity.exchange^
 ||thedefiantones.exchange^
-||theleadership.exchange^
 ||theprosperity.exchange^
+||thestack.exchange^
 ||thewell.exchange^
 ||thewolfpack.exchange^
 ||thief.exchange^
@@ -438,6 +434,7 @@
 ||thor.exchange^
 ||timeless.exchange^
 ||tiny.exchange^
+||tokenone.exchange^
 ||tokentalk.exchange^
 ||topcrypto.exchange^
 ||trad.exchange^
@@ -450,8 +447,6 @@
 ||twse.exchange^
 ||umex.exchange^
 ||unl-3s-vvapp.exchange^
-||unl-3svvapp.exchange^
-||us-jumper.exchange^
 ||usedsports.exchange^
 ||usual.exchange^
 ||valkyrie.exchange^

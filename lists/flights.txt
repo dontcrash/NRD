@@ -2,10 +2,10 @@
 ||ascent.flights^
 ||basudara99.flights^
 ||bigosti.flights^
-||bookflights.flights^
 ||btc.flights^
 ||canadian.flights^
 ||catch.flights^
+||directlift.flights^
 ||dwc.flights^
 ||echohunt.flights^
 ||field.flights^
@@ -16,7 +16,6 @@
 ||in-flight.flights^
 ||juba.flights^
 ||jumpseats.flights^
-||linq.flights^
 ||maltepedersaneleri.flights^
 ||nebula.flights^
 ||pantelleria.flights^
@@ -29,6 +28,7 @@
 ||sebs.flights^
 ||sharq.flights^
 ||sonder.flights^
+||technical.flights^
 ||telegram.flights^
 ||the.flights^
 ||tripias.flights^
