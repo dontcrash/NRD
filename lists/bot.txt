@@ -12,7 +12,7 @@
 ||anki.bot^
 ||app-captcha.bot^
 ||aquila.bot^
-||artha.bot^
+||articulate.bot^
 ||asia.bot^
 ||attendee.bot^
 ||aviatorgame.bot^
@@ -29,6 +29,7 @@
 ||buildclub.bot^
 ||bullrun.bot^
 ||cabinet.bot^
+||cahptcha.bot^
 ||candidate.bot^
 ||candy.bot^
 ||cannabytes.bot^
@@ -39,7 +40,6 @@
 ||chronical.bot^
 ||clickhub.bot^
 ||clinica.bot^
-||closed.bot^
 ||cloudai.bot^
 ||commentresponder.bot^
 ||communic8.bot^
@@ -58,7 +58,6 @@
 ||dc.bot^
 ||debounce.bot^
 ||deepthinking.bot^
-||defiant.bot^
 ||deg.bot^
 ||delbet.bot^
 ||demotivator.bot^
@@ -67,8 +66,8 @@
 ||doges.bot^
 ||domicilio.bot^
 ||downtime.bot^
+||dragonsden.bot^
 ||duckduck.bot^
-||e28.bot^
 ||equal.bot^
 ||exchanger.bot^
 ||experimental.bot^
@@ -112,7 +111,6 @@
 ||lmao.bot^
 ||loanshark.bot^
 ||loomi.bot^
-||luckycircus.bot^
 ||lune.bot^
 ||mada.bot^
 ||medialny.bot^
@@ -122,6 +120,7 @@
 ||mscoin.bot^
 ||n2beyond.bot^
 ||nafo.bot^
+||nodata.bot^
 ||notepad.bot^
 ||notetaker.bot^
 ||notetakerai.bot^
@@ -131,6 +130,7 @@
 ||overpoweredjs.bot^
 ||pagewatch.bot^
 ||paitoangkanet.bot^
+||papagaio.bot^
 ||paymentiq.bot^
 ||penbot.bot^
 ||perk.bot^
@@ -149,10 +149,13 @@
 ||pullable.bot^
 ||purpleai.bot^
 ||qls.bot^
+||qoir.bot^
 ||retardio.bot^
 ||robotfamily.bot^
 ||robotjanet.bot^
+||rochat.bot^
 ||roomie.bot^
+||safenames.bot^
 ||sagar.bot^
 ||sam.bot^
 ||satisfy.bot^
@@ -171,8 +174,6 @@
 ||swipes.bot^
 ||tbh.bot^
 ||throne.bot^
-||touchdown.bot^
-||tradelogic.bot^
 ||tradetitan.bot^
 ||tradetitans.bot^
 ||treo.bot^
@@ -183,7 +184,6 @@
 ||tsunami.bot^
 ||ttn.bot^
 ||tux.bot^
-||uncensored.bot^
 ||unsub.bot^
 ||vc77.bot^
 ||venues.bot^
@@ -197,9 +197,12 @@
 ||webapp.bot^
 ||wik.bot^
 ||wlfi.bot^
+||words.bot^
 ||wpp.bot^
+||writingprompt.bot^
 ||xoilac.bot^
 ||yata.bot^
 ||yushu.bot^
 ||zerone.bot^
 ||zing.bot^
+||zyn.bot^
