@@ -4,8 +4,6 @@
 ||aiagents.healthcare^
 ||aidr.healthcare^
 ||ample.healthcare^
-||ava.healthcare^
-||balto.healthcare^
 ||belleetbienmedical.healthcare^
 ||bettehr.healthcare^
 ||bioheal.healthcare^
@@ -27,6 +25,7 @@
 ||design.healthcare^
 ||dichro.healthcare^
 ||dichroic.healthcare^
+||discharge.healthcare^
 ||donation.healthcare^
 ||drai.healthcare^
 ||e3.healthcare^
@@ -36,7 +35,9 @@
 ||freelancer.healthcare^
 ||gameod.healthcare^
 ||gpt.healthcare^
+||growth.healthcare^
 ||hawk.healthcare^
+||healthops.healthcare^
 ||hed.healthcare^
 ||herd.healthcare^
 ||herehealth.healthcare^
@@ -64,6 +65,8 @@
 ||mlr.healthcare^
 ||monamie.healthcare^
 ||msa.healthcare^
+||mshahzaib.healthcare^
+||mt5waihui.healthcare^
 ||neos.healthcare^
 ||nomedicine.healthcare^
 ||opendoor.healthcare^
@@ -81,6 +84,7 @@
 ||renolit.healthcare^
 ||safespace.healthcare^
 ||sanatuszorggroep.healthcare^
+||sgtushu.healthcare^
 ||shiai.healthcare^
 ||shieldvpn.healthcare^
 ||sphere.healthcare^
@@ -93,7 +97,9 @@
 ||vesta.healthcare^
 ||vip.healthcare^
 ||vivie.healthcare^
+||voltenranger.healthcare^
 ||vox.healthcare^
 ||wch.healthcare^
 ||wondrhealth.healthcare^
 ||yai.healthcare^
+||zoto.healthcare^

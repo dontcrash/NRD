@@ -8,6 +8,7 @@
 ||bets.new^
 ||chatcompletion.new^
 ||chess.new^
+||class.new^
 ||completion.new^
 ||conversation.new^
 ||dalle.new^
@@ -18,6 +19,7 @@
 ||ft.new^
 ||games.new^
 ||genio.new^
+||grid.new^
 ||kanvas.new^
 ||kolo.new^
 ||lecture.new^
@@ -35,6 +37,8 @@
 ||poc.new^
 ||practice.new^
 ||qr.new^
+||quadratic.new^
+||readsomething.new^
 ||realtime.new^
 ||receipt.new^
 ||response.new^
