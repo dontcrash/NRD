@@ -17,6 +17,7 @@
 ||blaste.claims^
 ||blocknetwork.claims^
 ||blossom.claims^
+||blst.claims^
 ||bookofeth.claims^
 ||bruh.claims^
 ||bsquared.claims^
@@ -33,8 +34,6 @@
 ||daikinamerica.claims^
 ||daikinamericas.claims^
 ||daikinnortheast.claims^
-||de-fi.claims^
-||debridges.claims^
 ||delivery-anpost.claims^
 ||donate.claims^
 ||dotcoin.claims^
@@ -47,6 +46,7 @@
 ||etheism.claims^
 ||ether.claims^
 ||ethervista.claims^
+||externalconflict.claims^
 ||faire.claims^
 ||firefly.claims^
 ||fofar.claims^
@@ -87,9 +87,9 @@
 ||lottery.claims^
 ||lounge.claims^
 ||lui.claims^
+||lyerzero.claims^
 ||magamemcoin.claims^
 ||magamemecoin.claims^
-||maker.claims^
 ||medicalwatchdog.claims^
 ||mellow.claims^
 ||memecoins.claims^
@@ -103,22 +103,20 @@
 ||nexo.claims^
 ||nextera.claims^
 ||nhacaiuytin.claims^
+||niliion.claims^
 ||omikami.claims^
 ||onchain.claims^
-||onlyverse.claims^
 ||pancakeswap.claims^
 ||paws-babydoge.claims^
 ||pay-anpost.claims^
 ||petrolemission.claims^
 ||petrolemissions.claims^
 ||petrolgate.claims^
-||pets.claims^
 ||pixels.claims^
 ||popia.claims^
 ||psyop.claims^
 ||pulse.claims^
 ||pussy.claims^
-||quantumstellar.claims^
 ||radiantcapital.claims^
 ||ralexm.claims^
 ||rebate.claims^
@@ -131,7 +129,6 @@
 ||rivalz.claims^
 ||rock.claims^
 ||rule34.claims^
-||saga.claims^
 ||secret-commissions.claims^
 ||sharpe.claims^
 ||sharpes.claims^
@@ -171,7 +168,6 @@
 ||tips.claims^
 ||topcat.claims^
 ||treesonhouses.claims^
-||trustwallet.claims^
 ||unpump.claims^
 ||v2k.claims^
 ||v4-uniswap.claims^
