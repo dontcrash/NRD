@@ -19,6 +19,7 @@
 ||buildpass.build^
 ||buildthedifference.build^
 ||ciphomes.build^
+||clone.build^
 ||covert.build^
 ||dangond.build^
 ||deadlock.build^
@@ -36,7 +37,6 @@
 ||grid.build^
 ||gucci.build^
 ||haus.build^
-||herd.build^
 ||holmes.build^
 ||homebase.build^
 ||httpswebfour.build^
@@ -57,6 +57,7 @@
 ||marcomelectrical.build^
 ||master.build^
 ||mddesign.build^
+||megaproject.build^
 ||mhm.build^
 ||mintuk.build^
 ||momentum.build^
@@ -65,15 +66,16 @@
 ||nccg.build^
 ||noel.build^
 ||nomadic.build^
+||olf.build^
 ||openhouse.build^
 ||optimize.build^
+||organizedchaos.build^
 ||oriol.build^
 ||pagebin.build^
 ||param.build^
 ||patchwork.build^
 ||peddle.build^
 ||pedestal.build^
-||pivotal.build^
 ||playbook.build^
 ||pobretv.build^
 ||ponzi.build^
@@ -97,6 +99,7 @@
 ||siso.build^
 ||skimmerpools.build^
 ||skip-internal.build^
+||sknow.build^
 ||slim.build^
 ||soneium.build^
 ||sonieum.build^
@@ -126,6 +129,7 @@
 ||versions.build^
 ||vnbet.build^
 ||warrenmoses.build^
+||webby.build^
 ||weird.build^
 ||whatto.build^
 ||xativa.build^
