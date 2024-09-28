@@ -4,7 +4,6 @@
 ||admaker.bot^
 ||ai4.bot^
 ||ainano.bot^
-||aininja.bot^
 ||aircraft.bot^
 ||alyx.bot^
 ||analytics.bot^
@@ -38,13 +37,11 @@
 ||chronical.bot^
 ||clickhub.bot^
 ||clinica.bot^
-||communic8.bot^
 ||component.bot^
 ||computing.bot^
 ||conflict.bot^
 ||connect.bot^
 ||conscientia.bot^
-||cookbook.bot^
 ||coost.bot^
 ||crawlspace.bot^
 ||crops.bot^
@@ -77,9 +74,7 @@
 ||floorplan.bot^
 ||flowpilot.bot^
 ||fmt.bot^
-||forextrade.bot^
 ||form.bot^
-||freq.bot^
 ||frontend.bot^
 ||frontier.bot^
 ||frontro.bot^
@@ -91,11 +86,9 @@
 ||growthpulse.bot^
 ||hades.bot^
 ||hostpal.bot^
-||howdo.bot^
 ||humbot.bot^
 ||inci.bot^
 ||innovator.bot^
-||inwi.bot^
 ||jotter.bot^
 ||kaji.bot^
 ||kissmy.bot^
@@ -139,7 +132,6 @@
 ||programmaticseo.bot^
 ||pudu.bot^
 ||pullable.bot^
-||qls.bot^
 ||qoir.bot^
 ||richburke.bot^
 ||roboducky.bot^
@@ -148,7 +140,6 @@
 ||rochat.bot^
 ||roomie.bot^
 ||safenames.bot^
-||sagar.bot^
 ||sam.bot^
 ||satisfy.bot^
 ||scrutiny.bot^
@@ -157,7 +148,6 @@
 ||sendy.bot^
 ||sentient.bot^
 ||sharks.bot^
-||shibaibo.bot^
 ||shoplocal.bot^
 ||simplero.bot^
 ||simplflo.bot^
@@ -183,15 +173,11 @@
 ||unisniper.bot^
 ||unsub.bot^
 ||va.bot^
-||vc77.bot^
 ||venues.bot^
 ||versa.bot^
 ||vinted.bot^
-||voicemail.bot^
-||vps.bot^
 ||webapp.bot^
 ||wik.bot^
-||wlfi.bot^
 ||words.bot^
 ||writingprompt.bot^
 ||x10.bot^

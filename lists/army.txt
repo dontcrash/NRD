@@ -4,7 +4,6 @@
 ||00282.army^
 ||003.army^
 ||003376.army^
-||00491.army^
 ||00898.army^
 ||01195.army^
 ||01480.army^
@@ -54,6 +53,7 @@
 ||107.army^
 ||10822.army^
 ||10894.army^
+||10starhd.army^
 ||11323.army^
 ||115.army^
 ||116.army^
@@ -66,7 +66,6 @@
 ||12120.army^
 ||12165.army^
 ||12175.army^
-||12224.army^
 ||122769.army^
 ||123657.army^
 ||12366.army^
@@ -105,7 +104,6 @@
 ||13372.army^
 ||13421.army^
 ||13442.army^
-||13457.army^
 ||13464.army^
 ||13465.army^
 ||13475.army^
@@ -128,7 +126,6 @@
 ||13946.army^
 ||13974.army^
 ||14089.army^
-||14167.army^
 ||14207.army^
 ||14208.army^
 ||14237.army^
@@ -173,7 +170,6 @@
 ||15428.army^
 ||15436.army^
 ||155.army^
-||15607.army^
 ||15687.army^
 ||15721.army^
 ||15776.army^
@@ -231,7 +227,6 @@
 ||175837.army^
 ||17593.army^
 ||17642.army^
-||17903.army^
 ||17908.army^
 ||17964.army^
 ||17980.army^
@@ -259,7 +254,6 @@
 ||18732.army^
 ||18734.army^
 ||18749.army^
-||18753.army^
 ||18935.army^
 ||18936.army^
 ||18937.army^
@@ -279,7 +273,6 @@
 ||19437.army^
 ||194647.army^
 ||195106.army^
-||19572.army^
 ||19586.army^
 ||19629.army^
 ||197.army^
@@ -304,7 +297,6 @@
 ||203158.army^
 ||20332.army^
 ||203436.army^
-||20456.army^
 ||20495.army^
 ||20591.army^
 ||20624.army^
@@ -348,12 +340,10 @@
 ||21879.army^
 ||219357.army^
 ||219583.army^
-||21967.army^
 ||220503.army^
 ||22090.army^
 ||222.army^
 ||222308.army^
-||22275.army^
 ||223.army^
 ||22492.army^
 ||22538.army^
@@ -451,7 +441,6 @@
 ||25552.army^
 ||25599.army^
 ||25615.army^
-||25619.army^
 ||25638.army^
 ||25672.army^
 ||25692.army^
@@ -462,10 +451,8 @@
 ||257816.army^
 ||258269.army^
 ||25849.army^
-||25851.army^
 ||25893.army^
 ||25915.army^
-||25937.army^
 ||25965.army^
 ||25987.army^
 ||26035.army^
@@ -476,7 +463,6 @@
 ||26173.army^
 ||26193.army^
 ||26228.army^
-||26289.army^
 ||26310.army^
 ||26315.army^
 ||26319.army^
@@ -527,10 +513,8 @@
 ||26744.army^
 ||26752.army^
 ||267599.army^
-||26780.army^
 ||26805.army^
 ||26822.army^
-||26845.army^
 ||26847.army^
 ||268519.army^
 ||26873.army^
@@ -552,12 +536,10 @@
 ||273858.army^
 ||273986.army^
 ||27410.army^
-||27495.army^
 ||27505.army^
 ||275682.army^
 ||27569.army^
 ||27584.army^
-||27587.army^
 ||27749.army^
 ||277939.army^
 ||27810.army^
@@ -597,13 +579,11 @@
 ||288.army^
 ||28845.army^
 ||28863.army^
-||28880.army^
 ||28923.army^
 ||28946.army^
 ||28984.army^
 ||291857.army^
 ||29263.army^
-||29317.army^
 ||293289.army^
 ||293516.army^
 ||29403.army^
@@ -633,6 +613,7 @@
 ||29869.army^
 ||29892.army^
 ||299.army^
+||3-92.army^
 ||30083.army^
 ||30146.army^
 ||30152.army^
@@ -648,20 +629,15 @@
 ||30665.army^
 ||30723.army^
 ||30733.army^
-||30748.army^
-||30752.army^
-||30758.army^
 ||308.army^
 ||30801.army^
 ||308174.army^
 ||30875.army^
-||30951.army^
 ||30971.army^
 ||310137.army^
 ||31048.army^
 ||31113.army^
 ||31148.army^
-||31153.army^
 ||31155.army^
 ||31247.army^
 ||31296.army^
@@ -818,8 +794,6 @@
 ||32314.army^
 ||32415.army^
 ||32465.army^
-||32519.army^
-||32571.army^
 ||32598.army^
 ||32605.army^
 ||326372.army^
@@ -836,7 +810,6 @@
 ||32964.army^
 ||32981.army^
 ||33059.army^
-||33134.army^
 ||333856.army^
 ||335.army^
 ||336.army^
@@ -894,7 +867,6 @@
 ||35145.army^
 ||35165.army^
 ||351872.army^
-||35217.army^
 ||352176.army^
 ||352506.army^
 ||35282.army^
@@ -907,7 +879,6 @@
 ||35555.army^
 ||35565.army^
 ||35582.army^
-||35601.army^
 ||356424.army^
 ||35647.army^
 ||35648.army^
@@ -935,8 +906,6 @@
 ||35709.army^
 ||35730.army^
 ||35747.army^
-||35749.army^
-||35750.army^
 ||35770.army^
 ||35782.army^
 ||35795.army^
@@ -957,10 +926,8 @@
 ||36247.army^
 ||36248.army^
 ||36251.army^
-||36259.army^
 ||362815.army^
 ||363.army^
-||36344.army^
 ||36418.army^
 ||36460.army^
 ||36498.army^
@@ -1023,8 +990,6 @@
 ||37869.army^
 ||37946.army^
 ||37951.army^
-||37952.army^
-||37957.army^
 ||380147.army^
 ||38152.army^
 ||381572.army^
@@ -1060,7 +1025,6 @@
 ||39416.army^
 ||39465.army^
 ||39514.army^
-||39517.army^
 ||39562.army^
 ||39568.army^
 ||39591.army^
@@ -1078,7 +1042,6 @@
 ||40273.army^
 ||40309.army^
 ||40319.army^
-||404.army^
 ||40549.army^
 ||40676.army^
 ||40827.army^
@@ -1088,7 +1051,6 @@
 ||41037.army^
 ||41058.army^
 ||411.army^
-||41119.army^
 ||41142.army^
 ||41144.army^
 ||411761.army^
@@ -1100,7 +1062,6 @@
 ||41821.army^
 ||41848.army^
 ||41879.army^
-||41890.army^
 ||41909.army^
 ||41930.army^
 ||41938.army^
@@ -1111,11 +1072,11 @@
 ||42249.army^
 ||42252.army^
 ||42269.army^
-||42320.army^
 ||423522.army^
 ||42374.army^
 ||423946.army^
 ||424.army^
+||424bat.army^
 ||42535.army^
 ||42550.army^
 ||42564.army^
@@ -1128,7 +1089,6 @@
 ||42806.army^
 ||42854.army^
 ||429.army^
-||42917.army^
 ||42958.army^
 ||43157.army^
 ||43275.army^
@@ -1140,7 +1100,6 @@
 ||435375.army^
 ||43539.army^
 ||43541.army^
-||43561.army^
 ||43602.army^
 ||43621.army^
 ||43645.army^
@@ -1148,11 +1107,9 @@
 ||43652.army^
 ||43678.army^
 ||43681.army^
-||43694.army^
 ||43729.army^
 ||43758.army^
 ||43796.army^
-||43826.army^
 ||43915.army^
 ||43951.army^
 ||43968.army^
@@ -1179,14 +1136,7 @@
 ||45074.army^
 ||45129.army^
 ||451312.army^
-||45210.army^
-||45213.army^
 ||45227.army^
-||45230.army^
-||45260.army^
-||45270.army^
-||45280.army^
-||45290.army^
 ||45452.army^
 ||45479.army^
 ||455.army^
@@ -1211,14 +1161,11 @@
 ||45790.army^
 ||45791.army^
 ||45792.army^
-||45810.army^
 ||45826.army^
 ||458783.army^
 ||458784.army^
 ||458785.army^
 ||458786.army^
-||45890.army^
-||45910.army^
 ||45923.army^
 ||45cal.army^
 ||45colt.army^
@@ -1325,7 +1272,6 @@
 ||49752.army^
 ||49753.army^
 ||49754.army^
-||49810.army^
 ||49856.army^
 ||50000.army^
 ||50002.army^
@@ -1352,7 +1298,6 @@
 ||51111.army^
 ||512.army^
 ||51269.army^
-||51327.army^
 ||5134.army^
 ||51382.army^
 ||515.army^
@@ -1363,11 +1308,9 @@
 ||51698.army^
 ||51750.army^
 ||517928.army^
-||51793.army^
 ||51820.army^
 ||51823.army^
 ||51867.army^
-||51879.army^
 ||51897.army^
 ||51963.army^
 ||51972.army^
@@ -1428,7 +1371,6 @@
 ||52879.army^
 ||52894.army^
 ||529183.army^
-||52946.army^
 ||529971.army^
 ||530000.army^
 ||531.army^
@@ -1507,36 +1449,6 @@
 ||53319.army^
 ||53320.army^
 ||53321.army^
-||53322.army^
-||53323.army^
-||53324.army^
-||53325.army^
-||53326.army^
-||53327.army^
-||53328.army^
-||53329.army^
-||53330.army^
-||53331.army^
-||53332.army^
-||53333.army^
-||53334.army^
-||53335.army^
-||53336.army^
-||53337.army^
-||53338.army^
-||53339.army^
-||53340.army^
-||53341.army^
-||53343.army^
-||53344.army^
-||53345.army^
-||53346.army^
-||53350.army^
-||53351.army^
-||53352.army^
-||53353.army^
-||53354.army^
-||53355.army^
 ||53395.army^
 ||53396.army^
 ||53397.army^
@@ -1615,11 +1527,9 @@
 ||53888.army^
 ||53916.army^
 ||539182.army^
-||53927.army^
 ||53981.army^
 ||54089.army^
 ||54123.army^
-||54154.army^
 ||54179.army^
 ||54206.army^
 ||54219.army^
@@ -1628,7 +1538,6 @@
 ||54271.army^
 ||542968.army^
 ||54336.army^
-||54381.army^
 ||54540.army^
 ||54610.army^
 ||54621.army^
@@ -1656,7 +1565,6 @@
 ||557184.army^
 ||55761.army^
 ||558.army^
-||55895.army^
 ||559.army^
 ||55937.army^
 ||55950.army^
@@ -1665,7 +1573,6 @@
 ||56190.army^
 ||56230.army^
 ||56238.army^
-||56243.army^
 ||562635.army^
 ||56289.army^
 ||563456.army^
@@ -1683,9 +1590,7 @@
 ||56580.army^
 ||56590.army^
 ||566.army^
-||56619.army^
 ||56650.army^
-||56704.army^
 ||56712.army^
 ||56741.army^
 ||56742.army^
@@ -1810,7 +1715,6 @@
 ||597231.army^
 ||59735.army^
 ||59736.army^
-||59778.army^
 ||59816.army^
 ||59823.army^
 ||59876.army^
@@ -1839,6 +1743,7 @@
 ||60955.army^
 ||60986.army^
 ||609935.army^
+||60ombr.army^
 ||61032.army^
 ||61064.army^
 ||61142.army^
@@ -1948,11 +1853,9 @@
 ||633866.army^
 ||63391.army^
 ||634.army^
-||63421.army^
 ||634748.army^
 ||63517.army^
 ||63540.army^
-||63541.army^
 ||63546.army^
 ||63572.army^
 ||63581.army^
@@ -1971,7 +1874,6 @@
 ||639278.army^
 ||63935.army^
 ||639416.army^
-||63952.army^
 ||639817.army^
 ||63985.army^
 ||640.army^
@@ -2000,7 +1902,6 @@
 ||64829.army^
 ||64879.army^
 ||648868.army^
-||64896.army^
 ||64950.army^
 ||649529.army^
 ||651.army^
@@ -2140,14 +2041,12 @@
 ||684.army^
 ||68421.army^
 ||68441.army^
-||68573.army^
 ||686.army^
 ||68611.army^
 ||686734.army^
 ||68680.army^
 ||68700.army^
 ||68716.army^
-||68735.army^
 ||68809.army^
 ||68904.army^
 ||68930.army^
@@ -2164,7 +2063,6 @@
 ||69354.army^
 ||69431.army^
 ||69435.army^
-||69454.army^
 ||69458.army^
 ||69459.army^
 ||69460.army^
@@ -2194,9 +2092,7 @@
 ||70341.army^
 ||70342.army^
 ||70458.army^
-||70489.army^
 ||70490.army^
-||70653.army^
 ||70832.army^
 ||70854.army^
 ||70964.army^
@@ -2245,7 +2141,6 @@
 ||725391.army^
 ||72555.army^
 ||725619.army^
-||72593.army^
 ||72652.army^
 ||72683.army^
 ||726839.army^
@@ -2268,7 +2163,6 @@
 ||73254.army^
 ||73270.army^
 ||73320.army^
-||73338.army^
 ||734.army^
 ||73415.army^
 ||73439.army^
@@ -2334,8 +2228,6 @@
 ||75577.army^
 ||75613.army^
 ||756219.army^
-||75631.army^
-||75632.army^
 ||75697.army^
 ||75743.army^
 ||75765.army^
@@ -2348,7 +2240,6 @@
 ||759485.army^
 ||75982.army^
 ||76010.army^
-||76028.army^
 ||76134.army^
 ||762.army^
 ||762198.army^
@@ -2382,7 +2273,6 @@
 ||76872.army^
 ||76874.army^
 ||76893.army^
-||76938.army^
 ||76951.army^
 ||77069.army^
 ||77215.army^
@@ -2518,7 +2408,6 @@
 ||79782.army^
 ||798009.army^
 ||79817.army^
-||79821.army^
 ||79904.army^
 ||79918.army^
 ||79928.army^
@@ -2534,7 +2423,6 @@
 ||80546.army^
 ||806119.army^
 ||80631.army^
-||80639.army^
 ||80684.army^
 ||807461.army^
 ||80806.army^
@@ -2543,7 +2431,6 @@
 ||80929.army^
 ||810017.army^
 ||81054.army^
-||81061.army^
 ||81122.army^
 ||812206.army^
 ||81252.army^
@@ -2556,7 +2443,6 @@
 ||81738.army^
 ||81746.army^
 ||81906.army^
-||81978.army^
 ||82036.army^
 ||821575.army^
 ||82206.army^
@@ -2574,7 +2460,6 @@
 ||82379.army^
 ||82399.army^
 ||82401.army^
-||82463.army^
 ||82509.army^
 ||82513.army^
 ||825136.army^
@@ -2604,7 +2489,6 @@
 ||83333.army^
 ||83338.army^
 ||83416.army^
-||83502.army^
 ||835127.army^
 ||83530.army^
 ||83549.army^
@@ -2635,7 +2519,6 @@
 ||84958.army^
 ||850.army^
 ||85063.army^
-||85120.army^
 ||85123.army^
 ||85169.army^
 ||85174.army^
@@ -2653,11 +2536,9 @@
 ||85374.army^
 ||85420.army^
 ||85426.army^
-||85432.army^
 ||85443.army^
 ||855.army^
 ||85500.army^
-||85528.army^
 ||855287.army^
 ||85597.army^
 ||85606.army^
@@ -2725,7 +2606,6 @@
 ||87423.army^
 ||87424.army^
 ||87425.army^
-||87442.army^
 ||87456.army^
 ||874838.army^
 ||87506.army^
@@ -2777,13 +2657,11 @@
 ||89343.army^
 ||89363.army^
 ||89421.army^
-||89431.army^
 ||89451.army^
 ||89452.army^
 ||89453.army^
 ||89454.army^
 ||89504.army^
-||89561.army^
 ||89562.army^
 ||89565.army^
 ||89610.army^
@@ -2796,7 +2674,6 @@
 ||89999.army^
 ||90037.army^
 ||90125.army^
-||90132.army^
 ||90145.army^
 ||90241.army^
 ||90281.army^
@@ -2824,7 +2701,6 @@
 ||91526.army^
 ||91563.army^
 ||91567.army^
-||91572.army^
 ||91601.army^
 ||91629.army^
 ||91657.army^
@@ -2855,7 +2731,6 @@
 ||92314.army^
 ||92315.army^
 ||92345.army^
-||92355.army^
 ||92358.army^
 ||92366.army^
 ||92371.army^
@@ -2881,7 +2756,6 @@
 ||92840.army^
 ||928476.army^
 ||928540.army^
-||92857.army^
 ||92867.army^
 ||92874.army^
 ||92905.army^
@@ -2891,7 +2765,6 @@
 ||929764.army^
 ||9299.army^
 ||930326.army^
-||93167.army^
 ||93182.army^
 ||93187.army^
 ||93257.army^
@@ -2917,7 +2790,6 @@
 ||93937.army^
 ||93941.army^
 ||94065.army^
-||94123.army^
 ||94130.army^
 ||94160.army^
 ||94163.army^
@@ -2956,8 +2828,6 @@
 ||95268.army^
 ||952801.army^
 ||95281.army^
-||95287.army^
-||95320.army^
 ||95321.army^
 ||95341.army^
 ||95371.army^
@@ -2977,7 +2847,6 @@
 ||957311.army^
 ||957312.army^
 ||95786.army^
-||95816.army^
 ||958216.army^
 ||95834.army^
 ||959155.army^
@@ -2990,7 +2859,6 @@
 ||96146.army^
 ||96153.army^
 ||96154.army^
-||96209.army^
 ||96253.army^
 ||96254.army^
 ||963024.army^
@@ -3024,7 +2892,6 @@
 ||96851.army^
 ||96861.army^
 ||96888.army^
-||96904.army^
 ||96968.army^
 ||96994.army^
 ||97094.army^
@@ -3039,14 +2906,12 @@
 ||97381.army^
 ||974.army^
 ||97423.army^
-||97482.army^
 ||975.army^
 ||97506.army^
 ||97523.army^
 ||97586.army^
 ||976.army^
 ||97618.army^
-||97625.army^
 ||97686.army^
 ||97763.army^
 ||97777.army^
@@ -3095,7 +2960,6 @@
 ||98761.army^
 ||98762.army^
 ||98772.army^
-||98831.army^
 ||98980.army^
 ||98win.army^
 ||99143.army^
@@ -3105,7 +2969,6 @@
 ||99397.army^
 ||996.army^
 ||99733.army^
-||99763.army^
 ||998.army^
 ||99806.army^
 ||99882.army^
@@ -3143,7 +3006,6 @@
 ||aquamarine.army^
 ||ar-15.army^
 ||archery.army^
-||arey.army^
 ||arthistory.army^
 ||arthistoryclass.army^
 ||askfirst.army^
@@ -3185,7 +3047,6 @@
 ||breads.army^
 ||breakfastshow.army^
 ||builtf.army^
-||bujsz.army^
 ||bulletproofvest.army^
 ||bushclan.army^
 ||buyammo.army^
@@ -3249,10 +3110,8 @@
 ||desktopcompany.army^
 ||devrandom.army^
 ||dfqgj.army^
-||dghaz.army^
 ||dgnmy.army^
 ||dgpcab.army^
-||dhgacp.army^
 ||dictatorclan.army^
 ||dis.army^
 ||divinealignment.army^
@@ -3264,7 +3123,6 @@
 ||doxx.army^
 ||dropzone.army^
 ||drugs.army^
-||dthok.army^
 ||dtopkl.army^
 ||earths.army^
 ||economy.army^
@@ -3334,7 +3192,6 @@
 ||getbetter.army^
 ||gethelp.army^
 ||gfesb.army^
-||gfxel.army^
 ||gfxeqj.army^
 ||glam.army^
 ||glizzy.army^
@@ -3359,7 +3216,6 @@
 ||heli.army^
 ||helicopter.army^
 ||hemp.army^
-||hgapbc.army^
 ||hgapcb.army^
 ||hi.army^
 ||hkdmuy.army^
@@ -3377,6 +3233,7 @@
 ||ijkak.army^
 ||influence.army^
 ||infuencer.army^
+||inlovewithwomen.army^
 ||innotex.army^
 ||install.army^
 ||ipps-a.army^
@@ -3396,7 +3253,6 @@
 ||karate.army^
 ||kcnuhf.army^
 ||kdhotf.army^
-||kdmco.army^
 ||keonhacai.army^
 ||kferkj.army^
 ||khinyd.army^
@@ -3406,12 +3262,11 @@
 ||kiscwz.army^
 ||kit.army^
 ||kkkclan.army^
-||kkscy.army^
 ||kmawcz.army^
 ||knight.army^
 ||knights.army^
 ||ko66.army^
-||kosyej.army^
+||kobieta.army^
 ||ksoe.army^
 ||ksoi.army^
 ||ksoq.army^
@@ -3422,16 +3277,17 @@
 ||leveltree.army^
 ||lil.army^
 ||lite.army^
-||lkofo.army^
 ||llama.army^
 ||localcustoms.army^
 ||lolicon.army^
 ||lovett.army^
 ||lpgstn.army^
+||lpo188.army^
 ||lpufdf.army^
 ||m4.army^
 ||magazines.army^
 ||malcovich.army^
+||mario.army^
 ||marriageexit.army^
 ||martialarts.army^
 ||max.army^
@@ -3442,6 +3298,7 @@
 ||mediacenter.army^
 ||mercedesbenz.army^
 ||miacfk.army^
+||midas.army^
 ||miracle.army^
 ||moderator.army^
 ||moleit.army^
@@ -3483,6 +3340,7 @@
 ||partying.army^
 ||patches.army^
 ||pavan.army^
+||pawscoin.army^
 ||peacemaker.army^
 ||penandpaper.army^
 ||pfpjeo.army^
@@ -3506,7 +3364,6 @@
 ||prison.army^
 ||products.army^
 ||prqzd.army^
-||psfbv.army^
 ||psychic.army^
 ||psychicarmy.army^
 ||psychics.army^
@@ -3514,8 +3371,6 @@
 ||punkd.army^
 ||punked.army^
 ||putinclan.army^
-||pybmr.army^
-||pyxzv.army^
 ||qexhfg.army^
 ||qpske.army^
 ||quantumentanglement.army^
@@ -3580,7 +3435,6 @@
 ||sovereignsky.army^
 ||spacemining.army^
 ||spacewarsimulation.army^
-||spacex.army^
 ||sports.army^
 ||squash.army^
 ||ssn.army^
@@ -3607,7 +3461,6 @@
 ||takeaway.army^
 ||taskforceyodel.army^
 ||tdy.army^
-||tesla.army^
 ||teslaarmy.army^
 ||teslainc.army^
 ||theater.army^
@@ -3650,13 +3503,12 @@
 ||ucn.army^
 ||ukzqd.army^
 ||ums.army^
+||url.army^
 ||urlag.army^
 ||usaaf.army^
 ||used.army^
 ||usedtextbook.army^
 ||usfbr.army^
-||vc77.army^
-||vkuxf.army^
 ||vocalforsoldiers.army^
 ||volkswagen.army^
 ||volkswagengroup.army^
@@ -3673,8 +3525,9 @@
 ||woika.army^
 ||woman.army^
 ||womans.army^
+||women.army^
+||womens.army^
 ||wormhole.army^
-||wuejz.army^
 ||x.army^
 ||x99coin.army^
 ||xhamster.army^
@@ -3682,7 +3535,6 @@
 ||xmkwb.army^
 ||xoso66.army^
 ||xptree.army^
-||yiqgo.army^
 ||yjstjg.army^
 ||ymshq.army^
 ||yolk.army^
@@ -3694,5 +3546,4 @@
 ||zenveterans.army^
 ||zhsgdz.army^
 ||zjoury.army^
-||zmbdv.army^
 ||zyaqe.army^
