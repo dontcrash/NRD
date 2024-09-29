@@ -17,6 +17,8 @@
 ||accounts.directory^
 ||acme.directory^
 ||activation-discovecard.directory^
+||activations.directory^
+||activators.directory^
 ||adminassistant.directory^
 ||africarefills.directory^
 ||agingpages.directory^
@@ -45,8 +47,6 @@
 ||artisans.directory^
 ||artists.directory^
 ||asiktogelku.directory^
-||automated.directory^
-||autopase-cl.directory^
 ||av19.directory^
 ||babe.directory^
 ||benjamin.directory^
@@ -82,6 +82,7 @@
 ||cde.directory^
 ||ceos.directory^
 ||certified.directory^
+||cfos.directory^
 ||champjkp.directory^
 ||charger.directory^
 ||cheyennewybusiness.directory^
@@ -89,6 +90,7 @@
 ||cio.directory^
 ||cios.directory^
 ||climate-id.directory^
+||cmos.directory^
 ||codeploy.directory^
 ||codeployed.directory^
 ||cohost.directory^
@@ -100,15 +102,16 @@
 ||confidence.directory^
 ||cookies.directory^
 ||cooperators.directory^
+||cores.directory^
 ||correos.directory^
 ||cpr.directory^
 ||cre.directory^
 ||creators.directory^
 ||cricbuzz.directory^
+||cros.directory^
 ||cryptic.directory^
 ||csv.directory^
 ||ctos.directory^
-||ctr.directory^
 ||cunt.directory^
 ||cursorprompts.directory^
 ||cursorrules.directory^
@@ -124,6 +127,7 @@
 ||defi.directory^
 ||designjobs.directory^
 ||desiremedia.directory^
+||developer.directory^
 ||developers.directory^
 ||devour-domain.directory^
 ||devrel.directory^
@@ -153,6 +157,7 @@
 ||englandpropertycareexperts.directory^
 ||epyk.directory^
 ||esxi.directory^
+||execs.directory^
 ||executives.directory^
 ||experiential.directory^
 ||ezadei.directory^
@@ -214,7 +219,9 @@
 ||helvetica.directory^
 ||holycow.directory^
 ||homeowners.directory^
+||homeschool.directory^
 ||hotstar.directory^
+||hotwife.directory^
 ||housy.directory^
 ||hszrht.directory^
 ||hvacrepair.directory^
@@ -225,6 +232,9 @@
 ||immoweb.directory^
 ||inbox.directory^
 ||income.directory^
+||indexes.directory^
+||indications.directory^
+||indicators.directory^
 ||indie.directory^
 ||indiehacker.directory^
 ||indiehackers.directory^
@@ -254,10 +264,11 @@
 ||localconstruction.directory^
 ||localcontentregistersr.directory^
 ||luxi.directory^
+||machineshop.directory^
 ||macs.directory^
 ||madeinromania.directory^
 ||mails.directory^
-||mamaaroha.directory^
+||managers.directory^
 ||maquila.directory^
 ||maxis.directory^
 ||medias.directory^
@@ -311,8 +322,12 @@
 ||orthokeratology.directory^
 ||ouid.directory^
 ||outdoors.directory^
+||owners.directory^
 ||parody.directory^
 ||participants.directory^
+||participations.directory^
+||particulars.directory^
+||parties.directory^
 ||pasta.directory^
 ||pathfinder.directory^
 ||perfume.directory^
@@ -321,6 +336,8 @@
 ||plan.directory^
 ||playwin.directory^
 ||podcasters.directory^
+||podz.directory^
+||pointers.directory^
 ||pokerceme.directory^
 ||pornvideo.directory^
 ||post-zip.directory^
@@ -374,6 +391,7 @@
 ||roladex.directory^
 ||rosetta.directory^
 ||run.directory^
+||runs.directory^
 ||rvrepair.directory^
 ||ryztcj.directory^
 ||saasproduct.directory^
@@ -417,6 +435,7 @@
 ||tamilnadubusiness.directory^
 ||tara.directory^
 ||tattooshops.directory^
+||teslagroup.directory^
 ||testgbapp.directory^
 ||testmobilebrowserapp.directory^
 ||thefapfolder.directory^
@@ -454,6 +473,8 @@
 ||travelagent.directory^
 ||trent.directory^
 ||triskele.directory^
+||trustedservice.directory^
+||trustedservices.directory^
 ||ug555.directory^
 ||ukcreatives.directory^
 ||unholysyndicate.directory^

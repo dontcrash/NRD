@@ -23,7 +23,6 @@
 ||axes.financial^
 ||bayberry.financial^
 ||beaumont.financial^
-||betfin.financial^
 ||bitex.financial^
 ||blockrock.financial^
 ||borden.financial^
@@ -39,7 +38,6 @@
 ||cleo.financial^
 ||commercialcleaningjacksonville.financial^
 ||consortium.financial^
-||conway.financial^
 ||creditcards.financial^
 ||creditrepair.financial^
 ||crypt2call.financial^
@@ -84,7 +82,9 @@
 ||healthy.financial^
 ||hodl.financial^
 ||huma.financial^
+||hyperliquid.financial^
 ||i9bet.financial^
+||ing.financial^
 ||innosight.financial^
 ||investing.financial^
 ||invoice.financial^
@@ -102,6 +102,7 @@
 ||m1chigan.financial^
 ||machi.financial^
 ||magnolia.financial^
+||meritcircle.financial^
 ||midmarclp.financial^
 ||mlmid.financial^
 ||mobility.financial^
@@ -109,11 +110,11 @@
 ||mother.financial^
 ||mutual.financial^
 ||myweeklastweek.financial^
-||newstandard.financial^
 ||nexo.financial^
 ||nfinity.financial^
 ||nft.financial^
 ||nfuse.financial^
+||nobel.financial^
 ||non.financial^
 ||nyxus.financial^
 ||odeai.financial^
@@ -122,6 +123,7 @@
 ||olivebranch.financial^
 ||ondos.financial^
 ||openpaydmalta.financial^
+||optimus.financial^
 ||origin.financial^
 ||otakubaka.financial^
 ||pafihq.financial^
@@ -130,8 +132,8 @@
 ||pancake.financial^
 ||pancekeswap.financial^
 ||payments.financial^
+||peipei.financial^
 ||pencakeswap.financial^
-||permai99.financial^
 ||plain.financial^
 ||platform.financial^
 ||polygon.financial^
@@ -145,13 +147,13 @@
 ||restvod.financial^
 ||reynolds.financial^
 ||rivoli.financial^
-||roth.financial^
 ||safepal.financial^
 ||sage.financial^
 ||sandwich.financial^
 ||selfmade.financial^
 ||sept15test.financial^
 ||smartbox.financial^
+||soniclabs.financial^
 ||squared.financial^
 ||stewrd.financial^
 ||stoic.financial^
@@ -174,6 +176,7 @@
 ||tuzo.financial^
 ||udon.financial^
 ||unicap.financial^
+||unlock.financial^
 ||update.financial^
 ||usds.financial^
 ||usual.financial^
@@ -184,6 +187,7 @@
 ||vpn.financial^
 ||want.financial^
 ||way2advertise.financial^
+||wealth-city.financial^
 ||winds.financial^
 ||wiseman.financial^
 ||wit.financial^
@@ -195,4 +199,3 @@
 ||xrya.financial^
 ||xryma.financial^
 ||xy.financial^
-||zhihu.financial^
