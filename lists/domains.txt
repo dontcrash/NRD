@@ -46,6 +46,7 @@
 ||directs.domains^
 ||djs.domains^
 ||dmax.domains^
+||dmaxapp.domains^
 ||dmaxdns.domains^
 ||dncalculator.domains^
 ||doppelganger.domains^
@@ -55,8 +56,9 @@
 ||enduser.domains^
 ||envelopes.domains^
 ||es.domains^
-||event.domains^
 ||expiringdomaindonstreejc.domains^
+||fastsale.domains^
+||fave.domains^
 ||finbogo.domains^
 ||flatfee.domains^
 ||flexmy.domains^
@@ -69,7 +71,6 @@
 ||hq.domains^
 ||ina.domains^
 ||ineed.domains^
-||ip.domains^
 ||itechnobuzz.domains^
 ||ixios.domains^
 ||jump.domains^
@@ -109,7 +110,6 @@
 ||places.domains^
 ||pointers.domains^
 ||privacy.domains^
-||probe.domains^
 ||pros.domains^
 ||prostreammusic.domains^
 ||punchy.domains^
@@ -133,7 +133,6 @@
 ||stake.domains^
 ||states.domains^
 ||sup.domains^
-||supa.domains^
 ||sv368.domains^
 ||synex.domains^
 ||tabithas.domains^

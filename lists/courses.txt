@@ -5,7 +5,6 @@
 ||aiagents.courses^
 ||aigc.courses^
 ||ailiteracy.courses^
-||aimarketing.courses^
 ||aiready.courses^
 ||anywhere.courses^
 ||asma.courses^
@@ -13,7 +12,6 @@
 ||automee.courses^
 ||bioclear.courses^
 ||bnbacademyht.courses^
-||boiler.courses^
 ||bookmytraining.courses^
 ||canadapt.courses^
 ||careermasterclass.courses^
@@ -36,11 +34,11 @@
 ||generate.courses^
 ||geniuspos.courses^
 ||getmycourse.courses^
+||giggle.courses^
 ||grants.courses^
 ||growthaccelerator.courses^
 ||hiphop.courses^
 ||homerun.courses^
-||infosecinstitute.courses^
 ||interactivedatascience.courses^
 ||ipurpleteam.courses^
 ||iridium.courses^
@@ -50,7 +48,6 @@
 ||justclickhere.courses^
 ||kairos.courses^
 ||kinshipcapitalism.courses^
-||lakhwinder.courses^
 ||london-petro-academy.courses^
 ||london-petroacademy.courses^
 ||londonpetro-academy.courses^
@@ -61,13 +58,15 @@
 ||marriagegreencard.courses^
 ||masterwiz.courses^
 ||mathara.courses^
-||miamicatholicuniversity.courses^
 ||mindwell.courses^
+||mlhgt24.courses^
+||muser.courses^
 ||pixlgenius.courses^
 ||procreatedreams.courses^
 ||prothean.courses^
 ||purpleteam.courses^
 ||redteam.courses^
+||respira.courses^
 ||robo.courses^
 ||rosendopili.courses^
 ||scaleup.courses^
@@ -79,7 +78,6 @@
 ||testudo.courses^
 ||thanhnienmayman.courses^
 ||thekingdomassociates.courses^
-||thelocksmith.courses^
 ||theyolandenorrisclark.courses^
 ||tjai.courses^
 ||tradercryptology.courses^

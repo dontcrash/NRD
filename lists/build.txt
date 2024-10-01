@@ -11,13 +11,12 @@
 ||airbn.build^
 ||airbox.build^
 ||airdrop-rpg.build^
+||anchorpoint.build^
 ||apexdesign.build^
 ||arjan.build^
 ||astronaut.build^
 ||attic.build^
-||automaton.build^
 ||ballast.build^
-||barneselectrical.build^
 ||bauter.build^
 ||bdc.build^
 ||beone.build^
@@ -25,6 +24,9 @@
 ||buildthedifference.build^
 ||ciphomes.build^
 ||clone.build^
+||cohort.build^
+||columnar.build^
+||compaas.build^
 ||covert.build^
 ||crack.build^
 ||dangond.build^
@@ -43,6 +45,7 @@
 ||gale.build^
 ||geotech.build^
 ||grb.build^
+||green.build^
 ||grid.build^
 ||grug.build^
 ||gucci.build^
@@ -60,6 +63,8 @@
 ||kansasscreed.build^
 ||kenshi.build^
 ||lama.build^
+||landbase.build^
+||leinea.build^
 ||leveldesign.build^
 ||lienea.build^
 ||linaeswap.build^
@@ -69,13 +74,12 @@
 ||master.build^
 ||mddesign.build^
 ||megaproject.build^
+||memento.build^
 ||metis.build^
-||mhm.build^
 ||mintuk.build^
 ||momentum.build^
 ||motif.build^
 ||multisportspickleball.build^
-||mythos.build^
 ||nccg.build^
 ||noel.build^
 ||olf.build^
@@ -108,7 +112,6 @@
 ||rpg.build^
 ||rust.build^
 ||sappy.build^
-||sharpes.build^
 ||shiftsummit.build^
 ||simulator.build^
 ||siso.build^
@@ -133,7 +136,6 @@
 ||topology.build^
 ||tributary.build^
 ||trutiny.build^
-||turing.build^
 ||turnkeyconstructors.build^
 ||twentyoneconstruction.build^
 ||types.build^

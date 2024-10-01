@@ -29,6 +29,7 @@
 ||beanpasta.food^
 ||beautiful.food^
 ||bengaluru.food^
+||bestel.food^
 ||bestgourmetdog.food^
 ||bigbasket.food^
 ||birch.food^
@@ -53,6 +54,7 @@
 ||chocobyte.food^
 ||circleclub.food^
 ||citp.food^
+||clmm.food^
 ||cmd368.food^
 ||coastal.food^
 ||coconut.food^
@@ -86,7 +88,6 @@
 ||drivethrufair.food^
 ||dropship.food^
 ||drycat.food^
-||dryland.food^
 ||dubai.food^
 ||dumeal.food^
 ||dunzo.food^
@@ -97,6 +98,7 @@
 ||eatfun.food^
 ||eathappy.food^
 ||eatsandsweets.food^
+||eatsome.food^
 ||eatsy.food^
 ||ecological.food^
 ||edbl.food^
@@ -126,7 +128,6 @@
 ||fresco.food^
 ||freshbite.food^
 ||freshfry.food^
-||fritkot.food^
 ||fruveg.food^
 ||fyp138.food^
 ||ganjagrub.food^
@@ -153,11 +154,11 @@
 ||hanabi188.food^
 ||hanacake.food^
 ||hawasana.food^
-||hbspecialty.food^
 ||hi-q.food^
 ||hilles-finest.food^
 ||hillesfinest.food^
 ||hippytacos.food^
+||hlcy.food^
 ||hoodmeals.food^
 ||hungryjefe.food^
 ||idontknow.food^
@@ -176,16 +177,15 @@
 ||jollibee.food^
 ||joyof.food^
 ||jubilant.food^
-||jun88.food^
 ||kangen.food^
 ||kernel.food^
+||ketokin.food^
 ||khabar.food^
 ||kibs.food^
 ||kingdaddy.food^
 ||kingsgoods.food^
 ||kitpup.food^
 ||kittysuper.food^
-||knowltonaroma.food^
 ||kqinspections.food^
 ||kubett.food^
 ||lacantina.food^
@@ -212,8 +212,10 @@
 ||messer.food^
 ||metabolic.food^
 ||metashop.food^
+||mettleandmerit.food^
 ||mibet.food^
 ||milano.food^
+||mindfuel.food^
 ||minimal.food^
 ||misterdonghua.food^
 ||modintage-viaco.food^
@@ -255,10 +257,10 @@
 ||plantpowered.food^
 ||playstar77.food^
 ||polishstreet.food^
-||popp.food^
 ||poutine.food^
 ||profuel.food^
 ||qh88.food^
+||queercuisine.food^
 ||quickmenu.food^
 ||rangoli.food^
 ||rankstack.food^
@@ -275,7 +277,6 @@
 ||roza.food^
 ||rr88.food^
 ||ruston.food^
-||sacredsoul.food^
 ||saikia.food^
 ||sakim.food^
 ||samskitchen.food^
@@ -293,13 +294,12 @@
 ||snackboxes.food^
 ||snacksmart.food^
 ||snapfit.food^
+||snarkysnacks.food^
 ||soilandsun.food^
 ||somidinla.food^
-||spicebox.food^
 ||spicesandrice.food^
 ||springgarden.food^
 ||streats.food^
-||stuffd.food^
 ||supanatural.food^
 ||superfoods.food^
 ||supplygroup.food^
@@ -313,8 +313,10 @@
 ||terrible.food^
 ||terroir.food^
 ||thatsgoodlivin.food^
+||theatertoolkit.food^
 ||thehonest.food^
 ||theshukranchef.food^
+||thesnackshack.food^
 ||thesuperiordog.food^
 ||tidesandtables.food^
 ||tinythai.food^
