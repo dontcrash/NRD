@@ -7,7 +7,6 @@
 ||absolutewelding.build^
 ||actualize.build^
 ||adventurelab.build^
-||aecore.build^
 ||airbn.build^
 ||airbox.build^
 ||airdrop-rpg.build^
@@ -31,7 +30,6 @@
 ||crack.build^
 ||dangond.build^
 ||deadlock.build^
-||directory.build^
 ||distributed.build^
 ||earnai.build^
 ||einhorn.build^
@@ -43,7 +41,6 @@
 ||fce.build^
 ||futr.build^
 ||gale.build^
-||geotech.build^
 ||grb.build^
 ||green.build^
 ||grid.build^
@@ -79,6 +76,7 @@
 ||mintuk.build^
 ||momentum.build^
 ||motif.build^
+||mrozekdesign.build^
 ||multisportspickleball.build^
 ||nccg.build^
 ||noel.build^
@@ -90,7 +88,6 @@
 ||pagebin.build^
 ||param.build^
 ||patchwork.build^
-||peddle.build^
 ||pedestal.build^
 ||pickleballcourtcontractor.build^
 ||playbook.build^
@@ -130,6 +127,7 @@
 ||tac.build^
 ||talents.build^
 ||teq.build^
+||termforge.build^
 ||tessler.build^
 ||thine.build^
 ||tonari.build^
@@ -145,8 +143,8 @@
 ||warrenmoses.build^
 ||webby.build^
 ||weird.build^
+||wurld.build^
 ||xativa.build^
-||xlr8.build^
 ||xochi.build^
 ||xoso66.build^
 ||zemba.build^

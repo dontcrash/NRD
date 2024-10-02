@@ -7,6 +7,7 @@
 ||audio.new^
 ||batch.new^
 ||bets.new^
+||brex.new^
 ||chatcompletion.new^
 ||chess.new^
 ||class.new^
@@ -15,6 +16,7 @@
 ||conviction.new^
 ||dalle.new^
 ||devsecops.new^
+||euromatch.new^
 ||feed.new^
 ||feel.new^
 ||flex.new^
@@ -23,12 +25,15 @@
 ||genio.new^
 ||grid.new^
 ||human.new^
+||instance.new^
 ||kanvas.new^
 ||kolo.new^
 ||lecture.new^
 ||lectures.new^
 ||limitless.new^
 ||listen.new^
+||log.new^
+||logs.new^
 ||loom.new^
 ||macro.new^
 ||memecoin.new^
@@ -43,6 +48,7 @@
 ||plex.new^
 ||poc.new^
 ||practice.new^
+||prompts.new^
 ||qr.new^
 ||quadratic.new^
 ||readsomething.new^
@@ -55,12 +61,14 @@
 ||segura.new^
 ||send.new^
 ||sk.new^
+||so.new^
 ||sog.new^
 ||sport.new^
 ||ss.new^
 ||summarize.new^
 ||table.new^
 ||threatmodel.new^
+||trace.new^
 ||tree.new^
 ||trees.new^
 ||trial.new^
