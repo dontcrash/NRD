@@ -32,6 +32,8 @@
 ||apps-hop.exchange^
 ||argentinacars.exchange^
 ||arrays.exchange^
+||arthur.exchange^
+||aspects.exchange^
 ||astrox.exchange^
 ||atomic.exchange^
 ||aurra.exchange^
@@ -58,6 +60,7 @@
 ||blockcrypto.exchange^
 ||blockfleet.exchange^
 ||bomnetwork.exchange^
+||bradford.exchange^
 ||bristol.exchange^
 ||bunegee.exchange^
 ||businessemail.exchange^
@@ -93,6 +96,7 @@
 ||compilers.exchange^
 ||concurrencies.exchange^
 ||concurrency.exchange^
+||conditions.exchange^
 ||contrast.exchange^
 ||cooperations.exchange^
 ||cooperators.exchange^
@@ -154,12 +158,10 @@
 ||esxi.exchange^
 ||event-camelot.exchange^
 ||event-vela.exchange^
-||excessmaterials.exchange^
 ||exlibris.exchange^
 ||expansion.exchange^
 ||exportroyal.exchange^
 ||f24crypto.exchange^
-||falkor.exchange^
 ||fastmoney.exchange^
 ||fehu.exchange^
 ||fields.exchange^
@@ -178,12 +180,10 @@
 ||flor.exchange^
 ||fncd.exchange^
 ||foco.exchange^
-||formfree.exchange^
 ||foureggs.exchange^
 ||fucksec.exchange^
 ||functions.exchange^
 ||fuseswap.exchange^
-||futbol.exchange^
 ||fyde.exchange^
 ||gaborone.exchange^
 ||gai.exchange^
@@ -207,10 +207,8 @@
 ||homex.exchange^
 ||hopscotch.exchange^
 ||hotbit.exchange^
-||hulkswap.exchange^
 ||human.exchange^
 ||humankind.exchange^
-||hummer.exchange^
 ||hyperswap.exchange^
 ||hyperweb.exchange^
 ||ibuyer.exchange^
@@ -227,6 +225,7 @@
 ||initia.exchange^
 ||inputs.exchange^
 ||insurances.exchange^
+||intentions.exchange^
 ||interfaces.exchange^
 ||interpretations.exchange^
 ||interpreters.exchange^
@@ -243,12 +242,9 @@
 ||ireland-limited.exchange^
 ||ironlight.exchange^
 ||ivvia.exchange^
-||jimper.exchange^
-||jrswap.exchange^
 ||jts.exchange^
 ||juegosdecoser.exchange^
 ||jumeper.exchange^
-||jumoer.exchange^
 ||jumpeer.exchange^
 ||jumper-eligibility.exchange^
 ||jumpereligibility.exchange^
@@ -256,7 +252,6 @@
 ||keyrails.exchange^
 ||kiara.exchange^
 ||knox.exchange^
-||kripto.exchange^
 ||kuwin.exchange^
 ||labex.exchange^
 ||lagopay.exchange^
@@ -290,6 +285,7 @@
 ||mejahokizonavip.exchange^
 ||mibgas.exchange^
 ||microsoftoffice365.exchange^
+||mjslot777.exchange^
 ||mkh.exchange^
 ||moanimals.exchange^
 ||moki.exchange^
@@ -302,7 +298,6 @@
 ||most.exchange^
 ||movement.exchange^
 ||moviesmod.exchange^
-||mstgroup.exchange^
 ||multibagger.exchange^
 ||musiktheorie.exchange^
 ||mybox.exchange^
@@ -336,6 +331,7 @@
 ||outback.exchange^
 ||outlookoffice365.exchange^
 ||outputs.exchange^
+||ovio.exchange^
 ||owls.exchange^
 ||padigital.exchange^
 ||paiza99zonavip.exchange^
@@ -345,7 +341,7 @@
 ||particulars.exchange^
 ||parties.exchange^
 ||partitions.exchange^
-||pawotc.exchange^
+||paths.exchange^
 ||pif-sa.exchange^
 ||placements.exchange^
 ||places.exchange^
@@ -356,7 +352,6 @@
 ||pointclouds.exchange^
 ||pointers.exchange^
 ||policy.exchange^
-||positions.exchange^
 ||pretio.exchange^
 ||procedures.exchange^
 ||productions.exchange^
@@ -366,10 +361,9 @@
 ||proserv.exchange^
 ||prosperity.exchange^
 ||proton.exchange^
+||purposes.exchange^
 ||qrypto.exchange^
 ||quantumtrade.exchange^
-||quickperp.exchange^
-||quickperps.exchange^
 ||quo.exchange^
 ||rabbitbet.exchange^
 ||rainmaker.exchange^
@@ -380,6 +374,7 @@
 ||redacted.exchange^
 ||redeecash.exchange^
 ||reporters.exchange^
+||representations.exchange^
 ||reservoirs.exchange^
 ||rest.exchange^
 ||reversepepe.exchange^
@@ -404,7 +399,7 @@
 ||salandak.exchange^
 ||salmonad.exchange^
 ||satin.exchange^
-||satoshi-ai.exchange^
+||sbobet.exchange^
 ||schedulers.exchange^
 ||scout.exchange^
 ||seasonalchangesinc.exchange^
@@ -418,6 +413,7 @@
 ||skp.exchange^
 ||slotgacor.exchange^
 ||slotgacorhariini.exchange^
+||smartoptions.exchange^
 ||snazzy.exchange^
 ||socialdevelopment.exchange^
 ||sola.exchange^
@@ -433,7 +429,6 @@
 ||squidrouter.exchange^
 ||stable-crypto.exchange^
 ||staking.exchange^
-||stargate.exchange^
 ||states.exchange^
 ||stonkz.exchange^
 ||stratton.exchange^
@@ -445,6 +440,7 @@
 ||swapman.exchange^
 ||symbiotic.exchange^
 ||symbologies.exchange^
+||systemd.exchange^
 ||systems.exchange^
 ||taxfirm.exchange^
 ||tc.exchange^
@@ -476,6 +472,7 @@
 ||tokentalk.exchange^
 ||tokentitle.exchange^
 ||tokentransfer.exchange^
+||topics.exchange^
 ||topologies.exchange^
 ||trad.exchange^
 ||trade2win.exchange^
@@ -485,8 +482,6 @@
 ||translations.exchange^
 ||tribedosh.exchange^
 ||tronex.exchange^
-||tuzo.exchange^
-||tuzorewards.exchange^
 ||types.exchange^
 ||typologies.exchange^
 ||umex.exchange^
@@ -516,17 +511,19 @@
 ||worldwine.exchange^
 ||woven.exchange^
 ||wrapify.exchange^
-||wse.exchange^
 ||wukong.exchange^
 ||xai.exchange^
 ||xhamster.exchange^
+||xmrglobal.exchange^
 ||xtb.exchange^
+||y.exchange^
 ||yasuke.exchange^
 ||yeezypay.exchange^
 ||ynot.exchange^
 ||yogui.exchange^
 ||youporn.exchange^
 ||ysk.exchange^
+||z.exchange^
 ||zenon.exchange^
 ||zero13.exchange^
 ||zerorisk.exchange^

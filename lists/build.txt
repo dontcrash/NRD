@@ -28,7 +28,6 @@
 ||compaas.build^
 ||covert.build^
 ||crack.build^
-||dangond.build^
 ||deadlock.build^
 ||distributed.build^
 ||earnai.build^
@@ -41,6 +40,7 @@
 ||fce.build^
 ||futr.build^
 ||gale.build^
+||gladi.build^
 ||grb.build^
 ||green.build^
 ||grid.build^
@@ -54,11 +54,11 @@
 ||incept.build^
 ||innofen.build^
 ||inode.build^
+||intentional.build^
 ||jireh.build^
 ||jlee.build^
 ||joyce.build^
 ||kansasscreed.build^
-||kenshi.build^
 ||lama.build^
 ||landbase.build^
 ||leinea.build^
@@ -99,7 +99,6 @@
 ||radian.build^
 ||raketa.build^
 ||rangers.build^
-||raum.build^
 ||renata.build^
 ||renovive.build^
 ||renu.build^
@@ -113,7 +112,6 @@
 ||simulator.build^
 ||siso.build^
 ||skimmerpools.build^
-||skip-internal.build^
 ||sknow.build^
 ||slim.build^
 ||spike.build^
@@ -139,6 +137,7 @@
 ||types.build^
 ||uniqube.build^
 ||versions.build^
+||vivenda.build^
 ||vnbet.build^
 ||warrenmoses.build^
 ||webby.build^
@@ -147,4 +146,3 @@
 ||xativa.build^
 ||xochi.build^
 ||xoso66.build^
-||zemba.build^
