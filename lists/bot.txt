@@ -1,7 +1,7 @@
 ||admaker.bot^
-||ai4.bot^
 ||ainano.bot^
 ||aircraft.bot^
+||allmy.bot^
 ||alphaz.bot^
 ||alyx.bot^
 ||analytics.bot^
@@ -33,7 +33,6 @@
 ||csuite.bot^
 ||d.bot^
 ||datalaw.bot^
-||demotivator.bot^
 ||deployedby.bot^
 ||deploywith.bot^
 ||dexscreenerbot.bot^
@@ -48,7 +47,6 @@
 ||experimental.bot^
 ||filesystem.bot^
 ||firestarter.bot^
-||fmt.bot^
 ||form.bot^
 ||frontier.bot^
 ||frontrunning.bot^
@@ -56,7 +54,6 @@
 ||goinfo.bot^
 ||growthpulse.bot^
 ||humbot.bot^
-||inci.bot^
 ||innovator.bot^
 ||instance.bot^
 ||intrepid.bot^
@@ -65,18 +62,20 @@
 ||kronicle.bot^
 ||lmao.bot^
 ||lowt.bot^
+||lukemarks.bot^
 ||lune.bot^
 ||mada.bot^
 ||madebydeploy.bot^
 ||maison.bot^
 ||mando.bot^
 ||medusa.bot^
+||mic.bot^
 ||migos.bot^
 ||moderate.bot^
 ||moonbix.bot^
 ||mrno.bot^
 ||myskin.bot^
-||nafo.bot^
+||namechain.bot^
 ||nftsniper.bot^
 ||noctua.bot^
 ||nodata.bot^
@@ -89,6 +88,7 @@
 ||papagaio.bot^
 ||paymentiq.bot^
 ||penbot.bot^
+||pinterest.bot^
 ||pod.bot^
 ||polli.bot^
 ||polystar.bot^
@@ -116,9 +116,11 @@
 ||shoplocal.bot^
 ||simplero.bot^
 ||skindex.bot^
+||skype.bot^
 ||solanasniper.bot^
 ||spendit.bot^
 ||stedi.bot^
+||summy.bot^
 ||sunpumptrading.bot^
 ||sv368.bot^
 ||tbh.bot^
@@ -136,6 +138,7 @@
 ||va.bot^
 ||vinted.bot^
 ||webapp.bot^
+||webby.bot^
 ||weirdo.bot^
 ||words.bot^
 ||writingprompt.bot^

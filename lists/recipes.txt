@@ -16,17 +16,15 @@
 ||coin.recipes^
 ||corekeeper.recipes^
 ||couscous.recipes^
-||cssdesign.recipes^
-||culturekits.recipes^
 ||cursor.recipes^
 ||dailybite.recipes^
 ||daintyrecipes.recipes^
+||data.recipes^
 ||declutter.recipes^
 ||digitalfoodie.recipes^
 ||dindin.recipes^
 ||dishes.recipes^
 ||dollar.recipes^
-||easyrecipe.recipes^
 ||eatweet.recipes^
 ||egastronome.recipes^
 ||emoji.recipes^
@@ -50,7 +48,6 @@
 ||homebrewing.recipes^
 ||instafood.recipes^
 ||jainfood.recipes^
-||jerkedchicken.recipes^
 ||king88.recipes^
 ||kittysuperfood.recipes^
 ||kooky.recipes^
@@ -66,9 +63,11 @@
 ||nasigoreng.recipes^
 ||nicebeef.recipes^
 ||nonna.recipes^
+||ogawagaiko.recipes^
 ||orchestrators.recipes^
 ||pakora.recipes^
 ||password.recipes^
+||pastry.recipes^
 ||piopio.recipes^
 ||procedures.recipes^
 ||quickeasyrecipes.recipes^
@@ -76,6 +75,7 @@
 ||radiotvaracoiaba.recipes^
 ||rafik.recipes^
 ||righteous.recipes^
+||sand.recipes^
 ||santa.recipes^
 ||save.recipes^
 ||savorgood.recipes^
@@ -87,7 +87,6 @@
 ||spiceuprecipes.recipes^
 ||starved.recipes^
 ||stash.recipes^
-||store.recipes^
 ||strictly.recipes^
 ||stuff.recipes^
 ||swedish.recipes^

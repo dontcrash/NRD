@@ -22,7 +22,6 @@
 ||bigsky.build^
 ||buildpass.build^
 ||buildthedifference.build^
-||ciphomes.build^
 ||city.build^
 ||clone.build^
 ||cohort.build^
@@ -31,6 +30,7 @@
 ||covert.build^
 ||crack.build^
 ||deadlock.build^
+||dimensionerc.build^
 ||distributed.build^
 ||dmg.build^
 ||earnai.build^
@@ -61,7 +61,6 @@
 ||intentional.build^
 ||jireh.build^
 ||jlee.build^
-||joyce.build^
 ||kansasscreed.build^
 ||lama.build^
 ||landbase.build^
@@ -80,7 +79,6 @@
 ||mrozekdesign.build^
 ||multisportspickleball.build^
 ||nccg.build^
-||noel.build^
 ||olf.build^
 ||openhouse.build^
 ||optimize.build^
@@ -108,7 +106,6 @@
 ||ritualistic.build^
 ||robusta.build^
 ||rpg.build^
-||rust.build^
 ||sappy.build^
 ||shiftsummit.build^
 ||simulator.build^
@@ -116,6 +113,7 @@
 ||skimmerpools.build^
 ||sknow.build^
 ||slim.build^
+||sol.build^
 ||spike.build^
 ||splinterwoodworks.build^
 ||squeeze.build^
@@ -127,7 +125,6 @@
 ||talents.build^
 ||teq.build^
 ||termforge.build^
-||tessler.build^
 ||thine.build^
 ||tonari.build^
 ||tonify.build^

@@ -17,6 +17,7 @@
 ||atlantatalks.food^
 ||atlantisvalley.food^
 ||avf.food^
+||avgr.food^
 ||ayurvedic.food^
 ||azores.food^
 ||b52.food^
@@ -39,7 +40,6 @@
 ||buymy.food^
 ||bytesize.food^
 ||bytesized.food^
-||cakhiatv.food^
 ||caninefelinesuper.food^
 ||caninefelinesuperfoods.food^
 ||cardapio.food^
@@ -118,6 +118,8 @@
 ||flats.food^
 ||for88.food^
 ||forage.food^
+||fractal.food^
+||fractalcookies.food^
 ||freshbite.food^
 ||freshfry.food^
 ||fruveg.food^
@@ -137,13 +139,11 @@
 ||gourmetstudio.food^
 ||greenkytchen.food^
 ||gruhinimitra.food^
-||gsundundmunter.food^
 ||gusta.food^
 ||haccp.food^
 ||halally.food^
 ||hanacake.food^
 ||hanoicuisine.food^
-||hawasana.food^
 ||hi-q.food^
 ||hilles-finest.food^
 ||hillesfinest.food^
@@ -157,6 +157,7 @@
 ||impossible.food^
 ||in-person.food^
 ||indensify.food^
+||inhome.food^
 ||inmy.food^
 ||innova.food^
 ||isit.food^
@@ -164,6 +165,7 @@
 ||itsbbqbaby.food^
 ||jollibee.food^
 ||jubilant.food^
+||kalanamakrice.food^
 ||kangen.food^
 ||kernel.food^
 ||ketokin.food^
@@ -174,6 +176,7 @@
 ||kitpup.food^
 ||kittysuper.food^
 ||kqinspections.food^
+||ksiri.food^
 ||lacantina.food^
 ||lamanne.food^
 ||lapaellavalenciana.food^
@@ -194,7 +197,6 @@
 ||maruf.food^
 ||mealium.food^
 ||medicine.food^
-||menux.food^
 ||meraki.food^
 ||messer.food^
 ||metabolic.food^
@@ -205,8 +207,8 @@
 ||mindfuel.food^
 ||minimal.food^
 ||misterdonghua.food^
-||modintage-viaco.food^
 ||mollyco.food^
+||momspick.food^
 ||mpored.food^
 ||mu88.food^
 ||mydailygreens.food^
@@ -214,6 +216,7 @@
 ||mykitchenherstory.food^
 ||n666.food^
 ||nalli.food^
+||napoli.food^
 ||nepali.food^
 ||newborn.food^
 ||nicoletti.food^
@@ -222,13 +225,14 @@
 ||noods.food^
 ||nurtured.food^
 ||nusa.food^
+||nutrify.food^
+||nwarkansas.food^
 ||oeifoodservice.food^
 ||offpeak.food^
 ||ohlsensmarket.food^
 ||ohlsons.food^
 ||ohlsonsmarket.food^
 ||ohmy.food^
-||omnom.food^
 ||oomph.food^
 ||ouichef.food^
 ||packed.food^
@@ -238,6 +242,7 @@
 ||parkdrive.food^
 ||pastabasta.food^
 ||pastaebasta.food^
+||pastry.food^
 ||patanjali.food^
 ||pedidos.food^
 ||peoplein.food^
@@ -252,6 +257,7 @@
 ||playstar77.food^
 ||polishstreet.food^
 ||profuel.food^
+||qatari.food^
 ||qh88.food^
 ||queercuisine.food^
 ||quickmenu.food^
@@ -296,6 +302,7 @@
 ||spicesandrice.food^
 ||springgarden.food^
 ||streats.food^
+||sunnah.food^
 ||supanatural.food^
 ||superfoods.food^
 ||supplygroup.food^
@@ -313,6 +320,7 @@
 ||thehonest.food^
 ||thesnackshack.food^
 ||thesuperiordog.food^
+||theyard.food^
 ||tidesandtables.food^
 ||tinythai.food^
 ||tomato.food^
@@ -327,8 +335,6 @@
 ||usaklub.food^
 ||utaste.food^
 ||uvibe.food^
-||vasaya.food^
-||vcuisineaz.food^
 ||vegamovies.food^
 ||vegancat.food^
 ||vegandog.food^

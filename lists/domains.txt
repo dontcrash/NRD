@@ -26,7 +26,6 @@
 ||catched.domains^
 ||checkout.domains^
 ||chieftools.domains^
-||clean.domains^
 ||cn.domains^
 ||coldemail.domains^
 ||compleatimage.domains^
@@ -45,7 +44,6 @@
 ||directories.domains^
 ||directs.domains^
 ||display.domains^
-||djs.domains^
 ||dmax.domains^
 ||dmaxapp.domains^
 ||dmaxdisplay.domains^
@@ -55,6 +53,7 @@
 ||dotuk.domains^
 ||dr.domains^
 ||eigen.domains^
+||enc.domains^
 ||enduser.domains^
 ||envelopes.domains^
 ||es.domains^
@@ -64,7 +63,9 @@
 ||fastsale.domains^
 ||fave.domains^
 ||favorite.domains^
+||fb88.domains^
 ||finbogo.domains^
+||flat.domains^
 ||flatfee.domains^
 ||flexmy.domains^
 ||flyingcartraffic.domains^
@@ -74,8 +75,6 @@
 ||higher.domains^
 ||highspeed.domains^
 ||hostbully.domains^
-||hq.domains^
-||ina.domains^
 ||ineed.domains^
 ||interfaces.domains^
 ||itechnobuzz.domains^
@@ -84,9 +83,10 @@
 ||kr.domains^
 ||kyle.domains^
 ||learn.domains^
-||leasely.domains^
 ||legacybias.domains^
 ||levelupmy.domains^
+||lexura.domains^
+||lexurahost.domains^
 ||lfg.domains^
 ||libsolutions.domains^
 ||linera.domains^
@@ -95,7 +95,6 @@
 ||lottery.domains^
 ||lucky.domains^
 ||luo.domains^
-||maitreya.domains^
 ||medias.domains^
 ||mgsilva.domains^
 ||midcity.domains^
@@ -116,6 +115,8 @@
 ||pic.domains^
 ||places.domains^
 ||pointers.domains^
+||port.domains^
+||portable.domains^
 ||practice.domains^
 ||privacy.domains^
 ||pros.domains^
@@ -129,7 +130,6 @@
 ||route.domains^
 ||sans.domains^
 ||shorturl.domains^
-||skye.domains^
 ||soc.domains^
 ||solns.domains^
 ||son.domains^
@@ -145,6 +145,7 @@
 ||systemd.domains^
 ||systems.domains^
 ||tabithas.domains^
+||test-dior-transferin4.domains^
 ||test-test.domains^
 ||thesaurus.domains^
 ||threads.domains^
@@ -152,7 +153,6 @@
 ||timpani.domains^
 ||titan.domains^
 ||tokenizer.domains^
-||truelogian.domains^
 ||types.domains^
 ||unlock.domains^
 ||unreal.domains^
