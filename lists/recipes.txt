@@ -23,8 +23,6 @@
 ||declutter.recipes^
 ||digitalfoodie.recipes^
 ||dindin.recipes^
-||dishes.recipes^
-||dollar.recipes^
 ||eatweet.recipes^
 ||egastronome.recipes^
 ||emoji.recipes^
@@ -35,11 +33,11 @@
 ||fake.recipes^
 ||farmer.recipes^
 ||fave.recipes^
-||fisicaro.recipes^
 ||florida.recipes^
 ||foodi.recipes^
 ||foodings.recipes^
 ||football.recipes^
+||frenchtoast.recipes^
 ||fun88.recipes^
 ||functions.recipes^
 ||gluten.recipes^
@@ -66,7 +64,6 @@
 ||ogawagaiko.recipes^
 ||orchestrators.recipes^
 ||pakora.recipes^
-||password.recipes^
 ||pastry.recipes^
 ||piopio.recipes^
 ||procedures.recipes^
@@ -74,12 +71,15 @@
 ||quickrecipes.recipes^
 ||radiotvaracoiaba.recipes^
 ||rafik.recipes^
+||reallygreat.recipes^
 ||righteous.recipes^
+||rosies.recipes^
 ||sand.recipes^
 ||santa.recipes^
 ||save.recipes^
 ||savorgood.recipes^
 ||savvy.recipes^
+||selected.recipes^
 ||sidedish.recipes^
 ||sidedishes.recipes^
 ||singlepay.recipes^
@@ -96,7 +96,6 @@
 ||thabet.recipes^
 ||thatsavagekitchen.recipes^
 ||thechocolate.recipes^
-||tiny.recipes^
 ||todarecetas.recipes^
 ||unit.recipes^
 ||usayum.recipes^
@@ -111,7 +110,5 @@
 ||workshop.recipes^
 ||xin88.recipes^
 ||yammy.recipes^
-||yorijori.recipes^
-||youporn.recipes^
 ||zelda.recipes^
 ||zesty.recipes^

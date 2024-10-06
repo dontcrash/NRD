@@ -15,6 +15,7 @@
 ||conversation.new^
 ||conviction.new^
 ||dalle.new^
+||databreach.new^
 ||devsecops.new^
 ||euromatch.new^
 ||feed.new^
@@ -58,6 +59,7 @@
 ||robots.new^
 ||routine.new^
 ||scribe.new^
+||sdk.new^
 ||segura.new^
 ||send.new^
 ||sk.new^

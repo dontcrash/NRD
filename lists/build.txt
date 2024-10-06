@@ -10,6 +10,7 @@
 ||airbn.build^
 ||airbox.build^
 ||airdrop-rpg.build^
+||aisd.build^
 ||anchorpoint.build^
 ||apexdesign.build^
 ||arjan.build^
@@ -18,10 +19,11 @@
 ||ballast.build^
 ||bauter.build^
 ||bdc.build^
+||beefy.build^
 ||beone.build^
 ||bigsky.build^
+||bkc.build^
 ||buildpass.build^
-||buildthedifference.build^
 ||city.build^
 ||clone.build^
 ||cohort.build^
@@ -29,10 +31,10 @@
 ||compaas.build^
 ||covert.build^
 ||crack.build^
-||deadlock.build^
 ||dimensionerc.build^
 ||distributed.build^
 ||dmg.build^
+||doma.build^
 ||earnai.build^
 ||einhorn.build^
 ||elysium.build^
@@ -62,8 +64,10 @@
 ||jireh.build^
 ||jlee.build^
 ||kansasscreed.build^
+||keonhacai.build^
 ||lama.build^
 ||landbase.build^
+||lavender.build^
 ||leinea.build^
 ||leveldesign.build^
 ||linaeswap.build^
@@ -90,7 +94,6 @@
 ||pawn.build^
 ||pedestal.build^
 ||pickleballcourtcontractor.build^
-||playbook.build^
 ||pobretv.build^
 ||ponzi.build^
 ||pretzel.build^
@@ -108,7 +111,6 @@
 ||rpg.build^
 ||sappy.build^
 ||shiftsummit.build^
-||simulator.build^
 ||siso.build^
 ||skimmerpools.build^
 ||sknow.build^
@@ -140,7 +142,6 @@
 ||vivenda.build^
 ||vnbet.build^
 ||webby.build^
-||weird.build^
 ||wurld.build^
 ||xativa.build^
 ||xochi.build^
