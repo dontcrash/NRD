@@ -35,11 +35,13 @@
 ||bonus-cliente.charity^
 ||bonuspts.charity^
 ||bradescard.charity^
+||bradescoferias.charity^
 ||braille.charity^
 ||bras.charity^
 ||bridgeofhope.charity^
 ||butterfliesbarnsley.charity^
 ||bzilion.charity^
+||cadastro.charity^
 ||cafe.charity^
 ||cakhiatv.charity^
 ||cancercareministries.charity^
@@ -49,8 +51,6 @@
 ||catrescue.charity^
 ||cfs.charity^
 ||charityapp.charity^
-||christ-character.charity^
-||christcharacter.charity^
 ||circulareconomy.charity^
 ||citizenstoday.charity^
 ||claw.charity^
@@ -88,14 +88,14 @@
 ||flagsforfuture.charity^
 ||flinthouse.charity^
 ||flix.charity^
+||food4good.charity^
 ||football-planet.charity^
 ||footballplanet.charity^
 ||forallwhodream.charity^
 ||furniturereuse.charity^
-||gathr.charity^
-||ghcfoundation.charity^
 ||giftofgiving.charity^
 ||github.charity^
+||givinghope.charity^
 ||givingtree.charity^
 ||god.charity^
 ||godswarriors.charity^
@@ -111,7 +111,6 @@
 ||helpiscoming.charity^
 ||hemplegacyfoundation.charity^
 ||heroesforhumanity.charity^
-||hrystia.charity^
 ||humanup.charity^
 ||iceberg-data.charity^
 ||icebergdata.charity^
@@ -137,6 +136,7 @@
 ||lifebed.charity^
 ||limpa-nome.charity^
 ||lionheart.charity^
+||live-lo.charity^
 ||loto.charity^
 ||loto188.charity^
 ||lovinghearts.charity^
@@ -151,7 +151,7 @@
 ||navodaya.charity^
 ||nebula.charity^
 ||neiro.charity^
-||nighttoremember.charity^
+||nhbcdenver.charity^
 ||oxzy.charity^
 ||pagamentodetaxa.charity^
 ||panduankoinvegasrtp.charity^
@@ -177,6 +177,7 @@
 ||pontos.charity^
 ||pontosresgate.charity^
 ||pontuaiupp30horas.charity^
+||porsche.charity^
 ||powell.charity^
 ||prayernook.charity^
 ||primeferias.charity^
@@ -202,6 +203,7 @@
 ||s666.charity^
 ||saintjudemaronite.charity^
 ||seenheardheart.charity^
+||seg-pontos.charity^
 ||shippersmedical.charity^
 ||shush.charity^
 ||sicredi-pontos.charity^
@@ -213,9 +215,11 @@
 ||sperm-donation.charity^
 ||stageone.charity^
 ||stake.charity^
-||stitchofhope.charity^
 ||subway.charity^
+||superptsbradescard.charity^
 ||superptslivelo.charity^
+||superpttslivelo.charity^
+||techtohelp.charity^
 ||tee.charity^
 ||tehachapicancer.charity^
 ||thehookup.charity^
@@ -227,8 +231,8 @@
 ||trocaone.charity^
 ||unitedsynagogue.charity^
 ||upgrade.charity^
+||v9bet.charity^
 ||valeaux.charity^
-||validarmeuid.charity^
 ||valoresoficial.charity^
 ||vencepts.charity^
 ||vencimento.charity^
