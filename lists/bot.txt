@@ -9,13 +9,16 @@
 ||analytics.bot^
 ||anubis.bot^
 ||app-captcha.bot^
+||apptor.bot^
 ||aquila.bot^
 ||articulate.bot^
 ||asha.bot^
 ||auris.bot^
 ||authentic.bot^
+||autodiscovery.bot^
 ||bambu.bot^
 ||banhammer.bot^
+||bizdev.bot^
 ||bobs.bot^
 ||botsii.bot^
 ||britishknights.bot^
@@ -53,6 +56,7 @@
 ||equaliser.bot^
 ||estateagent.bot^
 ||experimental.bot^
+||extracto.bot^
 ||f168.bot^
 ||fetex.bot^
 ||filesystem.bot^
@@ -64,6 +68,7 @@
 ||goinfo.bot^
 ||growthpulse.bot^
 ||humbot.bot^
+||immigrant.bot^
 ||innovator.bot^
 ||instance.bot^
 ||intrepid.bot^
@@ -78,10 +83,13 @@
 ||mada.bot^
 ||madebydeploy.bot^
 ||maison.bot^
+||mandarina.bot^
 ||mando.bot^
 ||marker.bot^
 ||medusa.bot^
 ||mello.bot^
+||mentalpeaceai.bot^
+||metadados.bot^
 ||mic.bot^
 ||migos.bot^
 ||moderate.bot^
@@ -97,6 +105,7 @@
 ||notetakerai.bot^
 ||notorious.bot^
 ||obedient.bot^
+||ogtbilisi.bot^
 ||oncecoin.bot^
 ||oraculum.bot^
 ||p-ai.bot^
@@ -122,8 +131,10 @@
 ||roboducky.bot^
 ||robogpt.bot^
 ||rochat.bot^
+||ruraltrust.bot^
 ||rzone.bot^
 ||safenames.bot^
+||sakiva.bot^
 ||sam.bot^
 ||scai.bot^
 ||selly.bot^
@@ -142,7 +153,9 @@
 ||sv368.bot^
 ||tabby.bot^
 ||tbh.bot^
+||theorx.bot^
 ||thesentient.bot^
+||tinyharvester.bot^
 ||tradetitan.bot^
 ||tradetitans.bot^
 ||trak.bot^

@@ -5,7 +5,6 @@
 ||aiagents.management^
 ||alcoholresponsibility.management^
 ||allura.management^
-||ambulanciastvr.management^
 ||aoz.management^
 ||apr.management^
 ||aspirationalwealth.management^
@@ -26,23 +25,24 @@
 ||chatbot.management^
 ||cmb.management^
 ||concurrencies.management^
+||confidence.management^
 ||cooperators.management^
 ||cores.management^
 ||cps.management^
 ||credits.management^
 ||crownmoney.management^
-||ddns.management^
 ||deep.management^
 ||developer.management^
 ||dionysus.management^
 ||directs.management^
-||doubled.management^
 ||dvs.management^
+||easygroup.management^
 ||educationfrance.management^
 ||elcapital.management^
 ||envelopes.management^
 ||environments.management^
 ||eporner.management^
+||eshipping.management^
 ||ethos.management^
 ||exchanges.management^
 ||facility.management^
@@ -60,7 +60,6 @@
 ||go2solutions.management^
 ||gog.management^
 ||goyaji.management^
-||grugbrain.management^
 ||guildofguardians.management^
 ||heart.management^
 ||hilderts.management^
@@ -82,6 +81,7 @@
 ||kelena.management^
 ||kmg.management^
 ||kng.management^
+||labor.management^
 ||lankiyshayrisk.management^
 ||liquidityrisk.management^
 ||louisacuna.management^
@@ -90,14 +90,11 @@
 ||maxet.management^
 ||menangmaximal.management^
 ||mercurial.management^
-||mfp.management^
 ||mgm.management^
 ||mi.management^
 ||mim.management^
 ||modelscout.management^
-||myfirm.management^
 ||netwise.management^
-||network.management^
 ||newbridge.management^
 ||night-owl.management^
 ||nokillshelter.management^
@@ -129,7 +126,6 @@
 ||schedulers.management^
 ||schlingel.management^
 ||selfservice.management^
-||send.management^
 ||serenity.management^
 ||soimachouahi.management^
 ||sss.management^
@@ -139,7 +135,6 @@
 ||systemd.management^
 ||tamosan.management^
 ||taxoffice.management^
-||tmkt.management^
 ||too.management^
 ||totalquality.management^
 ||tree.management^
@@ -154,5 +149,4 @@
 ||woika.management^
 ||wolfwagner.management^
 ||xhamster.management^
-||youn.management^
 ||zola.management^

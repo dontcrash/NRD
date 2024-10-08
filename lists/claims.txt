@@ -46,6 +46,7 @@
 ||buildonhybrid.claims^
 ||burn-floki.claims^
 ||c54.claims^
+||calderaxyz.claims^
 ||carinsurance.claims^
 ||cateoneth.claims^
 ||cats.claims^
@@ -63,6 +64,7 @@
 ||cryptodig.claims^
 ||cybro.claims^
 ||deepbook.claims^
+||defisaver.claims^
 ||delivery-anpost.claims^
 ||diamante.claims^
 ||distribution-gmx.claims^
@@ -73,6 +75,7 @@
 ||dunderry.claims^
 ||e-cash.claims^
 ||ears.claims^
+||easyfinance.claims^
 ||ebi.claims^
 ||edoge.claims^
 ||eigenfi.claims^
@@ -105,13 +108,13 @@
 ||go-ifj.claims^
 ||goldfinch.claims^
 ||governance-renzo.claims^
-||grass.claims^
 ||grassfoundation.claims^
 ||guardaserie.claims^
 ||hana.claims^
 ||hashkey.claims^
 ||helene.claims^
 ||helenedamage.claims^
+||helpnc.claims^
 ||hidden-commissions.claims^
 ||hiddencommissions.claims^
 ||hirecar.claims^
@@ -123,6 +126,7 @@
 ||icrestore.claims^
 ||injuryattorney.claims^
 ||internetof.claims^
+||iogx.claims^
 ||jean.claims^
 ||jeanjulian.claims^
 ||jhuta.claims^
@@ -152,11 +156,15 @@
 ||mao.claims^
 ||mars.claims^
 ||marserc.claims^
+||martins.claims^
+||martinsfinance.claims^
 ||medicalwatchdog.claims^
+||megaeth.claims^
 ||melo.claims^
 ||memecoins.claims^
 ||mentoiabs.claims^
 ||mesotheliomalawyers.claims^
+||metasmasks.claims^
 ||mirror.claims^
 ||moonwell.claims^
 ||morse404.claims^
@@ -199,12 +207,18 @@
 ||register-babydoge.claims^
 ||register-bvmnetwork.claims^
 ||register-cowswap.claims^
+||register-immutable.claims^
+||register-lineabuild.claims^
 ||register-manta.claims^
+||register-seedifyfund.claims^
 ||register-tabichain.claims^
+||register-zignaiy.claims^
 ||registration-zignaly.claims^
 ||renzoprocotol.claims^
 ||researchtaxcredit.claims^
 ||restake-pufferfi.claims^
+||rewards-beefyfi.claims^
+||rewards-carv.claims^
 ||rewards-floki.claims^
 ||rewards-mitosis.claims^
 ||rewards-zerolend.claims^
@@ -228,7 +242,7 @@
 ||skymoney.claims^
 ||slink.claims^
 ||slotgacorhariini.claims^
-||smartclinicseg.claims^
+||smartfinance.claims^
 ||snap.claims^
 ||snapshot-beefy.claims^
 ||snapshot-beefyfi.claims^
@@ -236,6 +250,7 @@
 ||snapshot-kasplex.claims^
 ||sonic.claims^
 ||soniclabs.claims^
+||spherelabs.claims^
 ||stake-incept.claims^
 ||stakestone.claims^
 ||staking-tokenfi.claims^
@@ -249,7 +264,6 @@
 ||sunlion.claims^
 ||sunpepe.claims^
 ||sunwukong.claims^
-||supplement.claims^
 ||symbioticfi.claims^
 ||symbioticfinance.claims^
 ||syop.claims^
@@ -296,6 +310,7 @@
 ||ww88.claims^
 ||xyronetwork.claims^
 ||yawnsworld.claims^
+||yourfinance.claims^
 ||zerciend.claims^
 ||zerclend.claims^
 ||zetachain.claims^
