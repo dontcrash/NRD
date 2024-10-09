@@ -18,7 +18,6 @@
 ||alibabaelectriccar.parts^
 ||alibabamotorcycle.parts^
 ||alibabatruck.parts^
-||amtex.parts^
 ||appliancespare.parts^
 ||arithmetics.parts^
 ||arrays.parts^
@@ -29,7 +28,6 @@
 ||autoelectric.parts^
 ||autosa.parts^
 ||axioms.parts^
-||axl.parts^
 ||before.parts^
 ||behhba.parts^
 ||beone.parts^
@@ -44,7 +42,6 @@
 ||buysell.parts^
 ||calculus.parts^
 ||canna.parts^
-||carbikemover.parts^
 ||carlisle.parts^
 ||categories.parts^
 ||chains.parts^
@@ -92,7 +89,9 @@
 ||environments.parts^
 ||eqas.parts^
 ||equivalences.parts^
+||evaftermarket.parts^
 ||evbatterys.parts^
+||evcharger.parts^
 ||expressions.parts^
 ||feto.parts^
 ||fixon.parts^
@@ -103,7 +102,6 @@
 ||graphs.parts^
 ||graveyardcarzand.parts^
 ||greencharge.parts^
-||greenspringtractor.parts^
 ||hart.parts^
 ||haulotte.parts^
 ||hijazshop.parts^
@@ -132,16 +130,15 @@
 ||manifolds.parts^
 ||maps.parts^
 ||maths.parts^
-||mbg.parts^
 ||mech.parts^
 ||meshradios.parts^
 ||metas.parts^
 ||moto-guzzi.parts^
-||moz-safarivacuumsealer.parts^
 ||msf.parts^
 ||neural.parts^
 ||numbers.parts^
 ||objects.parts^
+||ofspeech.parts^
 ||ontologies.parts^
 ||operations.parts^
 ||orchestrations.parts^
@@ -175,10 +172,12 @@
 ||runs.parts^
 ||semitruck.parts^
 ||sentences.parts^
+||shbet.parts^
 ||shopnet.parts^
 ||signals.parts^
 ||signs.parts^
 ||smartdrive.parts^
+||stacka.parts^
 ||states.parts^
 ||stationarities.parts^
 ||strings.parts^

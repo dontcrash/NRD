@@ -56,6 +56,7 @@
 ||graphs.apartments^
 ||happiness.apartments^
 ||health.apartments^
+||ibuyflorida.apartments^
 ||iconographies.apartments^
 ||ids.apartments^
 ||indexers.apartments^
@@ -89,6 +90,7 @@
 ||medellin.apartments^
 ||medias.apartments^
 ||miraloma.apartments^
+||msu.apartments^
 ||myflat.apartments^
 ||networks.apartments^
 ||noticeboard.apartments^
@@ -111,6 +113,7 @@
 ||partitions.apartments^
 ||parts.apartments^
 ||paths.apartments^
+||pch.apartments^
 ||placements.apartments^
 ||places.apartments^
 ||plitvice.apartments^
@@ -149,7 +152,6 @@
 ||talk.apartments^
 ||tests.apartments^
 ||texts.apartments^
-||theapres.apartments^
 ||timelines.apartments^
 ||timers.apartments^
 ||topics.apartments^

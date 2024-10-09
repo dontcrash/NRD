@@ -3,10 +3,10 @@
 ||abc8.recipes^
 ||agent.recipes^
 ||aim.recipes^
-||aimful.recipes^
 ||allglutenfreerecipes.recipes^
 ||balkanfood.recipes^
 ||boomerreciperetro.recipes^
+||bread.recipes^
 ||cannabischef.recipes^
 ||cannachef.recipes^
 ||carsonpeakey.recipes^
@@ -16,15 +16,13 @@
 ||cocktails.recipes^
 ||coin.recipes^
 ||corekeeper.recipes^
-||couscous.recipes^
 ||cursor.recipes^
 ||daintyrecipes.recipes^
 ||data.recipes^
 ||digitalfoodie.recipes^
 ||dindin.recipes^
+||drinkme.recipes^
 ||egastronome.recipes^
-||emoji.recipes^
-||emojis.recipes^
 ||envelopes.recipes^
 ||eth.recipes^
 ||fake.recipes^
@@ -41,10 +39,10 @@
 ||golang.recipes^
 ||homebrewing.recipes^
 ||instafood.recipes^
-||jainfood.recipes^
 ||king88.recipes^
 ||kittysuperfood.recipes^
 ||kooky.recipes^
+||littlemountain.recipes^
 ||luxe.recipes^
 ||mandspharmaceuticals.recipes^
 ||matajiralif.recipes^
@@ -62,7 +60,6 @@
 ||piopio.recipes^
 ||procedures.recipes^
 ||quickeasyrecipes.recipes^
-||radiotvaracoiaba.recipes^
 ||rafik.recipes^
 ||reallygreat.recipes^
 ||righteous.recipes^
@@ -70,7 +67,6 @@
 ||sand.recipes^
 ||santa.recipes^
 ||savorgood.recipes^
-||savvy.recipes^
 ||selected.recipes^
 ||sidedish.recipes^
 ||sidedishes.recipes^
@@ -101,7 +97,7 @@
 ||wiwi.recipes^
 ||workflows.recipes^
 ||workshop.recipes^
-||xin88.recipes^
+||wp2.recipes^
 ||yammy.recipes^
 ||zelda.recipes^
 ||zesty.recipes^

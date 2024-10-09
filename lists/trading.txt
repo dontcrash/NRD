@@ -2,6 +2,8 @@
 ||88clb.trading^
 ||aiagents.trading^
 ||aiiocation-renzoprotocoi.trading^
+||ailocate-renzoprotocol.trading^
+||airdrop-soniclabs.trading^
 ||alacrity.trading^
 ||aliocation-carv.trading^
 ||aliocation-eigeniayer.trading^
@@ -32,11 +34,13 @@
 ||expiry.trading^
 ||fetex.trading^
 ||getalgo.trading^
+||getbasedai.trading^
 ||goldmagnata.trading^
 ||ingame.trading^
 ||ipa.trading^
 ||join-monad.trading^
 ||kittaro.trading^
+||korkmaz.trading^
 ||kyan.trading^
 ||lawn.trading^
 ||logx.trading^
@@ -67,6 +71,7 @@
 ||polymarket.trading^
 ||primacuriolimited.trading^
 ||pstake.trading^
+||punpbitcoin.trading^
 ||recursive.trading^
 ||redstonedefi.trading^
 ||register-lineabuild.trading^
@@ -74,9 +79,12 @@
 ||renko.trading^
 ||rewards-beefyfi.trading^
 ||rewards-carv.trading^
+||rocketpooi.trading^
 ||rocketpool.trading^
 ||rwa-curvefi.trading^
 ||scotland.trading^
+||seinetwork.trading^
+||skyblock.trading^
 ||smartalgo.trading^
 ||soothsayer.trading^
 ||sophon.trading^

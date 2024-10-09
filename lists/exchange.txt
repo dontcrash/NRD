@@ -12,20 +12,18 @@
 ||accesspanel.exchange^
 ||accredits.exchange^
 ||activators.exchange^
-||ag-4-dex.exchange^
 ||ag-v5-dex.exchange^
 ||agroeur.exchange^
 ||ai.exchange^
 ||aiairdropexchanger.exchange^
 ||air-buy.exchange^
+||ais-point.exchange^
+||aiworldhealth.exchange^
 ||ajaibslotszonavip.exchange^
 ||akdenizholding.exchange^
 ||alansari.exchange^
 ||alexavegaszonavip.exchange^
 ||alpinetoken.exchange^
-||amara.exchange^
-||amelie.exchange^
-||annamariagarcia.exchange^
 ||apex-protocol.exchange^
 ||appagent.exchange^
 ||approximations.exchange^
@@ -37,7 +35,6 @@
 ||aspects.exchange^
 ||astrox.exchange^
 ||atomic.exchange^
-||aurra.exchange^
 ||australiandollar.exchange^
 ||authenticators.exchange^
 ||automate.exchange^
@@ -56,6 +53,7 @@
 ||bethechad.exchange^
 ||beton.exchange^
 ||bidiamond.exchange^
+||binancedesks.exchange^
 ||bitcap.exchange^
 ||bitcashcyprus.exchange^
 ||bitcoinbridge.exchange^
@@ -70,7 +68,6 @@
 ||businessemail.exchange^
 ||buyvox.exchange^
 ||bzilion.exchange^
-||c2c.exchange^
 ||camelotdex.exchange^
 ||canniverse.exchange^
 ||canvas.exchange^
@@ -83,13 +80,11 @@
 ||charts.exchange^
 ||choc.exchange^
 ||clarks.exchange^
-||cloudex.exchange^
 ||codebases.exchange^
 ||coinbasefinance.exchange^
 ||coinbridge.exchange^
 ||coinpayy.exchange^
 ||collective.exchange^
-||com-dex-3.exchange^
 ||com-dex-5.exchange^
 ||com-dex-app-v4.exchange^
 ||com-v4-app.exchange^
@@ -104,7 +99,6 @@
 ||cooperators.exchange^
 ||cores.exchange^
 ||cosplay.exchange^
-||cry-pto.exchange^
 ||crypt2call.exchange^
 ||cryptoassist.exchange^
 ||cryptocurrencies.exchange^
@@ -115,7 +109,6 @@
 ||cryptoprotect.exchange^
 ||cryptoswitch.exchange^
 ||cryptozar.exchange^
-||cryptradex.exchange^
 ||cyberrisk.exchange^
 ||daniola.exchange^
 ||darkmeme.exchange^
@@ -154,7 +147,6 @@
 ||envelopes.exchange^
 ||environments.exchange^
 ||ess.exchange^
-||esxi.exchange^
 ||event-camelot.exchange^
 ||event-vela.exchange^
 ||exlibris.exchange^
@@ -164,9 +156,7 @@
 ||fehu.exchange^
 ||fetex.exchange^
 ||fields.exchange^
-||filmyzilla.exchange^
 ||finance-dex-v2.exchange^
-||finance-dex-v5.exchange^
 ||finance-v3-dex.exchange^
 ||finance-v5-app.exchange^
 ||finance-v5.exchange^
@@ -176,6 +166,7 @@
 ||flor.exchange^
 ||fmx24.exchange^
 ||foco.exchange^
+||forouhar.exchange^
 ||foureggs.exchange^
 ||fstswap.exchange^
 ||ftse100.exchange^
@@ -184,7 +175,6 @@
 ||fuseswap.exchange^
 ||fxbtg.exchange^
 ||gaborone.exchange^
-||gcapital.exchange^
 ||gcexperience.exchange^
 ||gemswap.exchange^
 ||generators.exchange^
@@ -221,9 +211,7 @@
 ||interfaces.exchange^
 ||interpretations.exchange^
 ||interpreters.exchange^
-||io-4-dex.exchange^
 ||io-dex-scan.exchange^
-||io-scaner.exchange^
 ||io-v2.exchange^
 ||io-v5-dex.exchange^
 ||iranicard.exchange^
@@ -240,7 +228,6 @@
 ||kampungselir.exchange^
 ||kiara.exchange^
 ||kickstarter.exchange^
-||knox.exchange^
 ||kuromi.exchange^
 ||kuwin.exchange^
 ||labex.exchange^
@@ -248,6 +235,7 @@
 ||languages.exchange^
 ||ledger.exchange^
 ||ledgers.exchange^
+||lenders.exchange^
 ||libertas.exchange^
 ||liberty-mint.exchange^
 ||libertycoin.exchange^
@@ -256,11 +244,9 @@
 ||libertymoney.exchange^
 ||limiltess.exchange^
 ||limitles.exchange^
-||liqio.exchange^
 ||listeners.exchange^
 ||lyqui.exchange^
 ||macros.exchange^
-||makermarket.exchange^
 ||mantle.exchange^
 ||mas.exchange^
 ||maths.exchange^
@@ -303,12 +289,12 @@
 ||oort.exchange^
 ||orchestrations.exchange^
 ||orchestrators.exchange^
-||org-app-online.exchange^
 ||org-v3-dex-app.exchange^
 ||org-v4-dex.exchange^
 ||org-v5-apper.exchange^
 ||org-v5app.exchange^
 ||organizedchaos.exchange^
+||osend.exchange^
 ||ouroboros.exchange^
 ||outback.exchange^
 ||outlookoffice365.exchange^
@@ -383,6 +369,7 @@
 ||sake.exchange^
 ||salandak.exchange^
 ||salmonad.exchange^
+||salt.exchange^
 ||satin.exchange^
 ||sbobet.exchange^
 ||schedulers.exchange^
@@ -461,7 +448,6 @@
 ||topologies.exchange^
 ||trad.exchange^
 ||trade2win.exchange^
-||tradias.exchange^
 ||transformers.exchange^
 ||translations.exchange^
 ||tribedosh.exchange^
@@ -490,11 +476,11 @@
 ||wigo.exchange^
 ||woika.exchange^
 ||wolfgang.exchange^
-||wonn.exchange^
 ||word.exchange^
 ||workflows.exchange^
 ||worldwine.exchange^
 ||woven.exchange^
+||wp2.exchange^
 ||wrapify.exchange^
 ||wukong.exchange^
 ||xai.exchange^
