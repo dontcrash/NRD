@@ -3,10 +3,10 @@
 ||admaker.bot^
 ||ainano.bot^
 ||aircraft.bot^
+||alia.bot^
 ||allmy.bot^
 ||alphaz.bot^
 ||alyx.bot^
-||analytics.bot^
 ||anubis.bot^
 ||app-captcha.bot^
 ||apptor.bot^
@@ -27,6 +27,7 @@
 ||cahptcha.bot^
 ||candidate.bot^
 ||canela.bot^
+||cardealer.bot^
 ||carsinsurance.bot^
 ||cashcow.bot^
 ||chane.bot^
@@ -34,6 +35,7 @@
 ||checkin.bot^
 ||chronical.bot^
 ||clickhub.bot^
+||comicbook.bot^
 ||component.bot^
 ||computing.bot^
 ||connect.bot^
@@ -56,7 +58,7 @@
 ||envoy.bot^
 ||equaliser.bot^
 ||estateagent.bot^
-||experimental.bot^
+||ethno.bot^
 ||extracto.bot^
 ||f168.bot^
 ||fetex.bot^
@@ -75,13 +77,10 @@
 ||instance.bot^
 ||intrepid.bot^
 ||kawaii.bot^
-||kissmy.bot^
 ||kronicle.bot^
-||lmao.bot^
 ||lowt.bot^
 ||ltm.bot^
 ||lukemarks.bot^
-||lune.bot^
 ||mada.bot^
 ||madebydeploy.bot^
 ||maison.bot^
@@ -96,6 +95,7 @@
 ||migos.bot^
 ||moderate.bot^
 ||moonbix.bot^
+||moonrush.bot^
 ||mrno.bot^
 ||myskin.bot^
 ||namechain.bot^
@@ -115,7 +115,6 @@
 ||pancakesniper.bot^
 ||papagaio.bot^
 ||paymentiq.bot^
-||penbot.bot^
 ||pinterest.bot^
 ||pod.bot^
 ||polli.bot^
@@ -156,7 +155,6 @@
 ||sunpumptrading.bot^
 ||sv368.bot^
 ||tabby.bot^
-||tbh.bot^
 ||theorx.bot^
 ||thesentient.bot^
 ||tinyharvester.bot^
@@ -164,14 +162,13 @@
 ||tradetitans.bot^
 ||trak.bot^
 ||traveller.bot^
-||tringo.bot^
 ||trk.bot^
+||trysherpa.bot^
 ||tsunami.bot^
 ||ttn.bot^
 ||twinnerdate.bot^
 ||unisniper.bot^
 ||unravel.bot^
-||unsub.bot^
 ||upwork.bot^
 ||va.bot^
 ||vinted.bot^
@@ -184,6 +181,8 @@
 ||writingprompt.bot^
 ||x10.bot^
 ||xgame.bot^
+||xuxu4dri.bot^
+||xuxu4ri.bot^
 ||yates.bot^
 ||zoe.bot^
 ||zonecog.bot^

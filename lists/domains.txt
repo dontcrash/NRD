@@ -28,6 +28,7 @@
 ||chieftools.domains^
 ||cn.domains^
 ||coldemail.domains^
+||colva.domains^
 ||compleatimage.domains^
 ||computer.domains^
 ||concurrencies.domains^
@@ -50,12 +51,9 @@
 ||dmaxdisplay.domains^
 ||dmaxdns.domains^
 ||doppelganger.domains^
-||dotuk.domains^
 ||eigen.domains^
 ||enc.domains^
-||enduser.domains^
 ||envelopes.domains^
-||es.domains^
 ||etf.domains^
 ||exchanges.domains^
 ||expiringdomaindonstreejc.domains^
@@ -65,11 +63,11 @@
 ||fb88.domains^
 ||finbogo.domains^
 ||flat.domains^
-||flatfee.domains^
 ||flexmy.domains^
 ||flyingcartraffic.domains^
 ||frenchfries.domains^
 ||gnews.domains^
+||helpdesk.domains^
 ||hidden.domains^
 ||highspeed.domains^
 ||interfaces.domains^
@@ -81,7 +79,6 @@
 ||lexura.domains^
 ||lexurahost.domains^
 ||lfg.domains^
-||libsolutions.domains^
 ||linera.domains^
 ||linqto.domains^
 ||linux.domains^
@@ -90,6 +87,7 @@
 ||lucky.domains^
 ||luo.domains^
 ||machbar.domains^
+||maxd.domains^
 ||medias.domains^
 ||mercainmuebles.domains^
 ||mutiny.domains^
@@ -100,9 +98,7 @@
 ||networks.domains^
 ||nexuscloud.domains^
 ||nl.domains^
-||nmap.domains^
 ||nomore.domains^
-||otherworldly.domains^
 ||parkway.domains^
 ||phront.domains^
 ||pic.domains^
@@ -120,7 +116,6 @@
 ||reports.domains^
 ||resale.domains^
 ||roots.domains^
-||route.domains^
 ||sans.domains^
 ||senior.domains^
 ||shorturl.domains^
@@ -162,6 +157,7 @@
 ||webupp.domains^
 ||woika.domains^
 ||word.domains^
+||worktime.domains^
 ||world-wide-web.domains^
 ||worldwideweb.domains^
 ||ww88.domains^

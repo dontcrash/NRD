@@ -5,6 +5,7 @@
 ||abvi.properties^
 ||aspenbyoberoirealty.properties^
 ||authenticators.properties^
+||basiladze.properties^
 ||bet88.properties^
 ||beyondmarketlabs.properties^
 ||carltontower.properties^
@@ -19,6 +20,7 @@
 ||cores.properties^
 ||corners.properties^
 ||crl.properties^
+||cross.properties^
 ||df.properties^
 ||directs.properties^
 ||dubai-island-by-damac.properties^
@@ -37,11 +39,13 @@
 ||goddard.properties^
 ||governments.properties^
 ||gtown.properties^
+||guardian.properties^
 ||gulf.properties^
 ||halliecao.properties^
 ||hb88.properties^
 ||homeworks.properties^
 ||huma.properties^
+||infinite.properties^
 ||inputs.properties^
 ||insider.properties^
 ||ipg.properties^
@@ -62,12 +66,16 @@
 ||mpp.properties^
 ||namespaces.properties^
 ||neoms.properties^
+||nobroker.properties^
 ||noobji.properties^
+||nordic.properties^
 ||orchestrators.properties^
 ||outputs.properties^
+||page.properties^
 ||paphos.properties^
 ||paraisorealtulum.properties^
 ||participants.properties^
+||pennies.properties^
 ||pennington.properties^
 ||pike.properties^
 ||pma.properties^
@@ -76,6 +84,7 @@
 ||redline.properties^
 ||rendr.properties^
 ||reservoirs.properties^
+||saandpropertyoffer.properties^
 ||sandyanderson.properties^
 ||schedulers.properties^
 ||shire.properties^
@@ -89,5 +98,7 @@
 ||vanros.properties^
 ||vin777.properties^
 ||workflows.properties^
+||wp2.properties^
+||yamunaindustrial.properties^
 ||yolo.properties^
 ||zenora.properties^
