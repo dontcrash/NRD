@@ -12,6 +12,7 @@
 ||4all.events^
 ||4thdimension.events^
 ||721656.events^
+||8sportlive.events^
 ||8us.events^
 ||98win.events^
 ||99ok.events^
@@ -42,6 +43,7 @@
 ||ailocation-aethir.events^
 ||ailocation-eigeniayer.events^
 ||ailocation-renzo.events^
+||aipowered.events^
 ||airdrop-carv.events^
 ||airdrop-soniclabs.events^
 ||aisc.events^
@@ -111,6 +113,7 @@
 ||bisboccia.events^
 ||bitbot.events^
 ||bitget.events^
+||bj.events^
 ||blackice.events^
 ||blastfoundation.events^
 ||blinded-by-delight.events^
@@ -152,6 +155,7 @@
 ||cards.events^
 ||carma-sports.events^
 ||carolina.events^
+||carvprotocoi.events^
 ||carvprotocois.events^
 ||caterers.events^
 ||catizenai.events^
@@ -170,6 +174,7 @@
 ||christendom.events^
 ||cincin.events^
 ||cincodmayo.events^
+||citic.events^
 ||cityvibe.events^
 ||claim-babydoge.events^
 ||claim-eigenpoints.events^
@@ -193,9 +198,11 @@
 ||collect.events^
 ||compoundlabs.events^
 ||computers.events^
+||conbas.events^
 ||concurrencies.events^
 ||conditions.events^
 ||connectionscatering.events^
+||connectme.events^
 ||connexroundtable.events^
 ||consensys.events^
 ||contractready.events^
@@ -208,6 +215,7 @@
 ||cpb.events^
 ||creating.events^
 ||creativehealth.events^
+||crescents.events^
 ||cricbuzz.events^
 ||crime-club.events^
 ||crimeclub.events^
@@ -221,6 +229,7 @@
 ||cyberia.events^
 ||cyc.events^
 ||d-five.events^
+||daga.events^
 ||daydream.events^
 ||deadlock.events^
 ||deadlockplay.events^
@@ -229,6 +238,7 @@
 ||debridgefoundation.events^
 ||decrypt.events^
 ||deepbook.events^
+||deepiefun.events^
 ||defunk.events^
 ||demos.events^
 ||demoslot1131.events^
@@ -408,11 +418,10 @@
 ||ids.events^
 ||iiac.events^
 ||iidofi.events^
-||imbizo.events^
-||important.events^
 ||inanna.events^
 ||inbox.events^
 ||incept.events^
+||incomeintelligence.events^
 ||indexes.events^
 ||indications.events^
 ||indicators.events^
@@ -435,6 +444,7 @@
 ||iremi.events^
 ||ispha.events^
 ||iwantme.events^
+||jac.events^
 ||jasmin.events^
 ||javitscenter.events^
 ||jax.events^
@@ -458,7 +468,6 @@
 ||kimanetwork.events^
 ||kinderkarussell.events^
 ||kingdomcreatives.events^
-||kingme.events^
 ||kinky.events^
 ||koaprint.events^
 ||koordinatsya.events^
@@ -479,6 +488,7 @@
 ||libbey.events^
 ||libbeybowl.events^
 ||lifemasters.events^
+||lifewise.events^
 ||liftandthrust.events^
 ||like.events^
 ||linkedup.events^
@@ -513,7 +523,6 @@
 ||marvel.events^
 ||masquerade.events^
 ||mechantmoe.events^
-||media7.events^
 ||medias.events^
 ||medx.events^
 ||meetjesus.events^
@@ -564,6 +573,7 @@
 ||ndtv.events^
 ||neirocoins.events^
 ||neirocoinxyz.events^
+||nemt.events^
 ||neos.events^
 ||nepa.events^
 ||netfair.events^
@@ -627,6 +637,7 @@
 ||pilina.events^
 ||piume.events^
 ||piumnetwork.events^
+||plan4.events^
 ||planetaction.events^
 ||planitgreen.events^
 ||planyourgroup.events^
@@ -638,20 +649,22 @@
 ||popin.events^
 ||potempa.events^
 ||premarket.events^
-||premiersignature.events^
 ||presale-alexbeckercoin.events^
 ||pressconf.events^
 ||prince.events^
+||pringle.events^
 ||print4u.events^
 ||procedures.events^
 ||productions.events^
 ||profitpanda.events^
 ||progression.events^
+||prohodka.events^
 ||projekt-tor.events^
 ||pronovea.events^
 ||protagonist.events^
 ||protectthepursepromotions.events^
 ||proto.events^
+||proweb.events^
 ||publics.events^
 ||puma.events^
 ||purposes.events^
@@ -701,6 +714,7 @@
 ||ritzy.events^
 ||rivusdao.events^
 ||riyadhseason.events^
+||rkls.events^
 ||robinsevrina.events^
 ||roo.events^
 ||roseshorrorhouse.events^
@@ -725,6 +739,7 @@
 ||schumann.events^
 ||scoring.events^
 ||scrollfoundation.events^
+||season2-renzodao.events^
 ||secretsociety.events^
 ||selfiesharer.events^
 ||servernotification.events^
@@ -758,15 +773,16 @@
 ||solvr.events^
 ||somethingpainted.events^
 ||soni.events^
+||soniclab.events^
 ||soniclabs.events^
 ||soulful.events^
-||soundbar.events^
 ||sownd.events^
 ||space3.events^
 ||sparkdex.events^
 ||spbc.events^
 ||speedskating.events^
 ||sporti.events^
+||stablecoin.events^
 ||stadiumdrift.events^
 ||stake-incept.events^
 ||starcity.events^
@@ -783,7 +799,6 @@
 ||suinetwork.events^
 ||suiswap.events^
 ||superpositionso.events^
-||surreal.events^
 ||swanchain.events^
 ||swifttickets.events^
 ||syde.events^
@@ -818,7 +833,6 @@
 ||thebirdhouse.events^
 ||thecelebrity.events^
 ||thefomo.events^
-||thegolden.events^
 ||theplume.events^
 ||thesensation.events^
 ||theventvault.events^
@@ -918,6 +932,8 @@
 ||yhprum.events^
 ||youme.events^
 ||yourperfect.events^
+||zak.events^
+||zeeba.events^
 ||zerclend.events^
 ||zerolendgovernance.events^
 ||zetafoundatlon.events^

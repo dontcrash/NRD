@@ -2,7 +2,6 @@
 ||2i.rent^
 ||599.rent^
 ||7heaven.rent^
-||a5.rent^
 ||abandoned-cars.rent^
 ||abandoned-houses.rent^
 ||aivm.rent^
@@ -29,6 +28,7 @@
 ||bid.rent^
 ||big.rent^
 ||bigbox.rent^
+||bigsamproperties.rent^
 ||bolton.rent^
 ||bone.rent^
 ||borrowingmoney24.rent^
@@ -56,6 +56,7 @@
 ||clind-hotel.rent^
 ||colukid.rent^
 ||commercialproperty.rent^
+||cool.rent^
 ||cotswolds.rent^
 ||csq.rent^
 ||cuarsen.rent^
@@ -68,12 +69,14 @@
 ||duplex.rent^
 ||easi.rent^
 ||enjoyfball.rent^
+||esports.rent^
 ||estatesresortloscabos.rent^
 ||estatesresortneovovallarta.rent^
 ||estatesresortriveriamaya.rent^
 ||even.rent^
 ||faridabad.rent^
 ||fave.rent^
+||foil.rent^
 ||friends.rent^
 ||futar-hotel.rent^
 ||gadgets.rent^
@@ -90,6 +93,7 @@
 ||heat-pump.rent^
 ||homely.rent^
 ||homey.rent^
+||hookah.rent^
 ||hotel-casyno.rent^
 ||hotel-garvund.rent^
 ||hotelgarvund.rent^
@@ -175,13 +179,11 @@
 ||retro.rent^
 ||rexhome.rent^
 ||robin.rent^
-||romeappartments.rent^
 ||roxcelia-hotel.rent^
 ||rubyliving.rent^
 ||sac.rent^
 ||scorefor.rent^
 ||shield.rent^
-||sob.rent^
 ||southbend.rent^
 ||sph.rent^
 ||stay-today.rent^

@@ -12,13 +12,14 @@
 ||check-in.flights^
 ||checkin.flights^
 ||directlift.flights^
-||echohunt.flights^
 ||eticket.flights^
 ||fashowear.flights^
+||flipper.flights^
 ||flycharter.flights^
 ||focus.flights^
 ||francis.flights^
 ||gridnlsde.flights^
+||hypersonicjet.flights^
 ||infoplow.flights^
 ||knight.flights^
 ||lao.flights^
@@ -28,7 +29,9 @@
 ||organ.flights^
 ||pantelleria.flights^
 ||paperless.flights^
+||pennypass.flights^
 ||perplexity.flights^
+||plex.flights^
 ||ppg.flights^
 ||price.flights^
 ||pudo.flights^
@@ -38,7 +41,6 @@
 ||saferflight.flights^
 ||savvy.flights^
 ||sharq.flights^
-||sonder.flights^
 ||surfasone.flights^
 ||taliban.flights^
 ||technical.flights^
