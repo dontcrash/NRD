@@ -20,6 +20,7 @@
 ||00069.miami^
 ||00070.miami^
 ||00071.miami^
+||00083.miami^
 ||00151.miami^
 ||00256.miami^
 ||00497.miami^
@@ -40,7 +41,6 @@
 ||01804.miami^
 ||01889.miami^
 ||01922.miami^
-||01937.miami^
 ||01993.miami^
 ||02053.miami^
 ||02137.miami^
@@ -95,6 +95,7 @@
 ||06329.miami^
 ||06350.miami^
 ||06396.miami^
+||06447.miami^
 ||066218.miami^
 ||06668.miami^
 ||06683.miami^
@@ -106,6 +107,7 @@
 ||07319.miami^
 ||07385.miami^
 ||075073.miami^
+||07536.miami^
 ||07557.miami^
 ||07601.miami^
 ||07925.miami^
@@ -115,7 +117,6 @@
 ||08038.miami^
 ||08291.miami^
 ||08356.miami^
-||08410.miami^
 ||08509.miami^
 ||085364.miami^
 ||08625.miami^
@@ -149,7 +150,6 @@
 ||10591.miami^
 ||10636.miami^
 ||10668.miami^
-||10826.miami^
 ||10833.miami^
 ||10839.miami^
 ||10852.miami^
@@ -160,8 +160,8 @@
 ||11106.miami^
 ||11111.miami^
 ||111217.miami^
+||11221.miami^
 ||11222.miami^
-||11248.miami^
 ||11333.miami^
 ||11432.miami^
 ||11543.miami^
@@ -176,7 +176,6 @@
 ||11888.miami^
 ||119373.miami^
 ||12060.miami^
-||12076.miami^
 ||12138.miami^
 ||12242.miami^
 ||1228893.miami^
@@ -206,7 +205,6 @@
 ||13956.miami^
 ||13982.miami^
 ||14041.miami^
-||14267.miami^
 ||14285.miami^
 ||14481.miami^
 ||14578.miami^
@@ -214,6 +212,7 @@
 ||14693.miami^
 ||14734.miami^
 ||14757.miami^
+||15026.miami^
 ||15188.miami^
 ||15225.miami^
 ||15228.miami^
@@ -254,6 +253,7 @@
 ||16702.miami^
 ||167775.miami^
 ||16839.miami^
+||16842.miami^
 ||16876.miami^
 ||16928.miami^
 ||17031.miami^
@@ -288,6 +288,7 @@
 ||18752.miami^
 ||18818.miami^
 ||18870.miami^
+||18879.miami^
 ||19030.miami^
 ||190532.miami^
 ||19073.miami^
@@ -327,6 +328,7 @@
 ||20541.miami^
 ||20609.miami^
 ||20663.miami^
+||20788.miami^
 ||208355.miami^
 ||20842.miami^
 ||20924.miami^
@@ -334,6 +336,7 @@
 ||21052.miami^
 ||21053.miami^
 ||21055.miami^
+||21130.miami^
 ||21207.miami^
 ||21213.miami^
 ||21709.miami^
@@ -362,7 +365,6 @@
 ||23117.miami^
 ||23133.miami^
 ||23135.miami^
-||23207.miami^
 ||23265.miami^
 ||23268.miami^
 ||23382.miami^
@@ -390,7 +392,6 @@
 ||24525.miami^
 ||24569.miami^
 ||245721.miami^
-||24577.miami^
 ||246849.miami^
 ||24743.miami^
 ||24754.miami^
@@ -407,6 +408,7 @@
 ||25418.miami^
 ||25426.miami^
 ||25488.miami^
+||25493.miami^
 ||25512.miami^
 ||255889.miami^
 ||25658.miami^
@@ -416,6 +418,7 @@
 ||25823.miami^
 ||25845.miami^
 ||25913.miami^
+||26076.miami^
 ||263185.miami^
 ||26391.miami^
 ||264042.miami^
@@ -430,7 +433,9 @@
 ||26718.miami^
 ||26845.miami^
 ||26998.miami^
+||27001.miami^
 ||271722.miami^
+||27194.miami^
 ||27221.miami^
 ||27262.miami^
 ||27319.miami^
@@ -461,11 +466,14 @@
 ||29182.miami^
 ||29204.miami^
 ||29259.miami^
+||29277.miami^
+||29288.miami^
 ||29376.miami^
 ||29384.miami^
 ||29442.miami^
 ||294819.miami^
 ||29486.miami^
+||29536.miami^
 ||295673.miami^
 ||297568.miami^
 ||29872.miami^
@@ -520,6 +528,7 @@
 ||32393.miami^
 ||32436.miami^
 ||32457.miami^
+||32605.miami^
 ||32624.miami^
 ||32685.miami^
 ||32732.miami^
@@ -535,8 +544,6 @@
 ||33468.miami^
 ||33532.miami^
 ||33544.miami^
-||33615.miami^
-||33618.miami^
 ||33620.miami^
 ||33692.miami^
 ||33778.miami^
@@ -551,6 +558,7 @@
 ||34450.miami^
 ||34879.miami^
 ||34915.miami^
+||35029.miami^
 ||35034.miami^
 ||350969.miami^
 ||35127.miami^
@@ -572,10 +580,10 @@
 ||35946.miami^
 ||35973.miami^
 ||35993.miami^
-||36103.miami^
 ||36112.miami^
 ||36152.miami^
 ||361527.miami^
+||36209.miami^
 ||36230.miami^
 ||36257.miami^
 ||36431.miami^
@@ -598,9 +606,11 @@
 ||37192.miami^
 ||372061.miami^
 ||372993.miami^
+||37303.miami^
 ||37405.miami^
 ||37436.miami^
 ||374403.miami^
+||37459.miami^
 ||37462.miami^
 ||37645.miami^
 ||37668.miami^
@@ -613,6 +623,7 @@
 ||38075.miami^
 ||38090.miami^
 ||38160.miami^
+||38255.miami^
 ||38420.miami^
 ||38434.miami^
 ||38507.miami^
@@ -652,7 +663,6 @@
 ||41651.miami^
 ||41693.miami^
 ||41703.miami^
-||41704.miami^
 ||41713.miami^
 ||41727.miami^
 ||41746.miami^
@@ -662,6 +672,7 @@
 ||42238.miami^
 ||42240.miami^
 ||42291.miami^
+||42294.miami^
 ||42298.miami^
 ||423214.miami^
 ||42603.miami^
@@ -704,6 +715,7 @@
 ||45343.miami^
 ||45421.miami^
 ||45423.miami^
+||45429.miami^
 ||45534.miami^
 ||45587.miami^
 ||45593.miami^
@@ -724,6 +736,7 @@
 ||46294.miami^
 ||46349.miami^
 ||46375.miami^
+||46573.miami^
 ||46583.miami^
 ||46621.miami^
 ||46652.miami^
@@ -741,6 +754,7 @@
 ||47228.miami^
 ||47250.miami^
 ||47272.miami^
+||47279.miami^
 ||47502.miami^
 ||47707.miami^
 ||47977.miami^
@@ -753,6 +767,7 @@
 ||48561.miami^
 ||48621.miami^
 ||48674.miami^
+||48703.miami^
 ||487287.miami^
 ||488531.miami^
 ||48872.miami^
@@ -773,7 +788,6 @@
 ||49868.miami^
 ||499534.miami^
 ||49960.miami^
-||49985.miami^
 ||49997.miami^
 ||50115.miami^
 ||50161.miami^
@@ -840,6 +854,7 @@
 ||53644.miami^
 ||53809.miami^
 ||53812.miami^
+||53813.miami^
 ||53821.miami^
 ||53834.miami^
 ||53845.miami^
@@ -875,11 +890,13 @@
 ||55245.miami^
 ||55249.miami^
 ||55295.miami^
+||55316.miami^
 ||55436.miami^
 ||55531.miami^
 ||55555.miami^
 ||55615.miami^
 ||55635.miami^
+||55666.miami^
 ||557149.miami^
 ||55715.miami^
 ||55765.miami^
@@ -914,14 +931,13 @@
 ||56970.miami^
 ||56996.miami^
 ||57093.miami^
-||57136.miami^
+||57158.miami^
 ||57165.miami^
 ||57223.miami^
 ||57240.miami^
 ||57267.miami^
 ||573286.miami^
 ||57330.miami^
-||57355.miami^
 ||57385.miami^
 ||57396.miami^
 ||57422.miami^
@@ -931,6 +947,7 @@
 ||57672.miami^
 ||57701.miami^
 ||57773.miami^
+||57817.miami^
 ||57833.miami^
 ||57837.miami^
 ||579361.miami^
@@ -996,12 +1013,14 @@
 ||58213.miami^
 ||582203.miami^
 ||58300.miami^
+||58385.miami^
 ||58397.miami^
 ||58546.miami^
 ||58612.miami^
 ||58621.miami^
 ||586532.miami^
 ||586874.miami^
+||58727.miami^
 ||58776.miami^
 ||58787.miami^
 ||58843.miami^
@@ -1084,6 +1103,7 @@
 ||61166.miami^
 ||61183.miami^
 ||61203.miami^
+||61229.miami^
 ||61245.miami^
 ||61250.miami^
 ||61359.miami^
@@ -1091,8 +1111,8 @@
 ||61378.miami^
 ||61458.miami^
 ||61640.miami^
-||61641.miami^
 ||61661.miami^
+||61803.miami^
 ||61813.miami^
 ||61848.miami^
 ||61855.miami^
@@ -1140,6 +1160,7 @@
 ||637125.miami^
 ||63736.miami^
 ||63752.miami^
+||63759.miami^
 ||63794.miami^
 ||63795.miami^
 ||63869.miami^
@@ -1176,6 +1197,7 @@
 ||65598.miami^
 ||656398.miami^
 ||66036.miami^
+||66158.miami^
 ||66237.miami^
 ||66269.miami^
 ||66281.miami^
@@ -1198,8 +1220,10 @@
 ||66801.miami^
 ||66813.miami^
 ||66844.miami^
+||66867.miami^
 ||66872.miami^
 ||66876.miami^
+||66885.miami^
 ||66893.miami^
 ||66919.miami^
 ||66933.miami^
@@ -1248,6 +1272,7 @@
 ||67198.miami^
 ||67199.miami^
 ||67258.miami^
+||67292.miami^
 ||67341.miami^
 ||67521.miami^
 ||67533.miami^
@@ -1272,6 +1297,7 @@
 ||68562.miami^
 ||685913.miami^
 ||68643.miami^
+||68657.miami^
 ||68705.miami^
 ||68735.miami^
 ||68774.miami^
@@ -1365,6 +1391,7 @@
 ||69735.miami^
 ||69741.miami^
 ||69834.miami^
+||69858.miami^
 ||69891.miami^
 ||69905.miami^
 ||69909.miami^
@@ -1376,6 +1403,7 @@
 ||70033.miami^
 ||70207.miami^
 ||702343.miami^
+||70373.miami^
 ||70409.miami^
 ||70458.miami^
 ||70606.miami^
@@ -1387,6 +1415,7 @@
 ||70946.miami^
 ||70956.miami^
 ||70984.miami^
+||71022.miami^
 ||71115.miami^
 ||71132.miami^
 ||71177.miami^
@@ -1420,10 +1449,12 @@
 ||72423.miami^
 ||724464.miami^
 ||72516.miami^
+||72550.miami^
 ||72551.miami^
 ||72595.miami^
 ||726839.miami^
 ||72796.miami^
+||72900.miami^
 ||72920.miami^
 ||72990.miami^
 ||73004.miami^
@@ -1438,10 +1469,12 @@
 ||73687.miami^
 ||73706.miami^
 ||73797.miami^
+||73804.miami^
 ||73821.miami^
 ||73855.miami^
 ||73858.miami^
 ||73909.miami^
+||73989.miami^
 ||73998.miami^
 ||74053.miami^
 ||741557.miami^
@@ -1514,11 +1547,11 @@
 ||777631.miami^
 ||77772.miami^
 ||77777.miami^
+||77783.miami^
 ||77845.miami^
 ||77851.miami^
 ||77872.miami^
 ||77884.miami^
-||77937.miami^
 ||77948.miami^
 ||77986.miami^
 ||77989.miami^
@@ -1544,6 +1577,7 @@
 ||78800.miami^
 ||78813.miami^
 ||78820.miami^
+||78903.miami^
 ||78921.miami^
 ||78922.miami^
 ||78956.miami^
@@ -1565,7 +1599,6 @@
 ||79721.miami^
 ||79769.miami^
 ||79804.miami^
-||79839.miami^
 ||79868.miami^
 ||79890.miami^
 ||79940.miami^
@@ -1626,6 +1659,7 @@
 ||82190.miami^
 ||82207.miami^
 ||82211.miami^
+||82224.miami^
 ||82229.miami^
 ||823129.miami^
 ||82353.miami^
@@ -1655,6 +1689,7 @@
 ||83373.miami^
 ||83409.miami^
 ||83425.miami^
+||83658.miami^
 ||83677.miami^
 ||83706.miami^
 ||837592.miami^
@@ -1726,6 +1761,7 @@
 ||86025.miami^
 ||86058.miami^
 ||86092.miami^
+||86129.miami^
 ||86150.miami^
 ||86166.miami^
 ||86220.miami^
@@ -1764,6 +1800,7 @@
 ||87326.miami^
 ||87431.miami^
 ||87434.miami^
+||87509.miami^
 ||87563.miami^
 ||87616.miami^
 ||87663.miami^
@@ -1782,6 +1819,7 @@
 ||88088.miami^
 ||88097.miami^
 ||88122.miami^
+||88272.miami^
 ||88281.miami^
 ||88290.miami^
 ||88295.miami^
@@ -1837,6 +1875,7 @@
 ||89903.miami^
 ||89985.miami^
 ||90019.miami^
+||90036.miami^
 ||90042.miami^
 ||90053.miami^
 ||90080.miami^
@@ -1859,6 +1898,7 @@
 ||90231.miami^
 ||90272.miami^
 ||90361.miami^
+||90383.miami^
 ||90487.miami^
 ||90511.miami^
 ||90531.miami^
@@ -1927,6 +1967,7 @@
 ||92855.miami^
 ||92877.miami^
 ||92913.miami^
+||92923.miami^
 ||92978.miami^
 ||92987.miami^
 ||93063.miami^
@@ -1961,6 +2002,7 @@
 ||941754.miami^
 ||94192.miami^
 ||94203.miami^
+||94209.miami^
 ||942570.miami^
 ||94262.miami^
 ||94296.miami^
@@ -1977,6 +2019,7 @@
 ||94874.miami^
 ||94949.miami^
 ||94961.miami^
+||94981.miami^
 ||95027.miami^
 ||95055.miami^
 ||95074.miami^
@@ -2066,6 +2109,7 @@
 ||96778.miami^
 ||96781.miami^
 ||96783.miami^
+||96793.miami^
 ||96801.miami^
 ||96802.miami^
 ||96803.miami^
@@ -2111,6 +2155,7 @@
 ||978159.miami^
 ||97828.miami^
 ||97857.miami^
+||97865.miami^
 ||97868.miami^
 ||97882.miami^
 ||97967.miami^
@@ -2163,6 +2208,7 @@
 ||99487.miami^
 ||99493.miami^
 ||99541.miami^
+||99544.miami^
 ||99547.miami^
 ||99551.miami^
 ||99588.miami^
@@ -2265,6 +2311,7 @@
 ||goals.miami^
 ||golfclub.miami^
 ||gpglp.miami^
+||hairtransplant.miami^
 ||hbbj.miami^
 ||hgai.miami^
 ||homefragrances.miami^
@@ -2300,6 +2347,7 @@
 ||juancho.miami^
 ||keonhacai.miami^
 ||kikbx.miami^
+||lafloreria.miami^
 ||lagree.miami^
 ||levelsauto.miami^
 ||libramascota.miami^
@@ -2313,13 +2361,14 @@
 ||manhattanfunding.miami^
 ||mapmaker.miami^
 ||mcjdt.miami^
+||mdcs.miami^
 ||mghospitality.miami^
 ||mghospitalitygroups.miami^
 ||miacasahospitality.miami^
 ||miamia.miami^
 ||minisplit.miami^
 ||mlajewelry.miami^
-||mosquitologic.miami^
+||mohs.miami^
 ||motelone.miami^
 ||movingsolutions.miami^
 ||nohu90.miami^
@@ -2330,6 +2379,7 @@
 ||opendoor.miami^
 ||owq2s.miami^
 ||p3x6x.miami^
+||paddock.miami^
 ||paint.miami^
 ||panoramas.miami^
 ||partyin.miami^
@@ -2361,6 +2411,7 @@
 ||septemberin.miami^
 ||septin.miami^
 ||shortterm.miami^
+||skin.miami^
 ||skincare.miami^
 ||skinlab.miami^
 ||slotbom77.miami^
@@ -2378,6 +2429,8 @@
 ||techstart.miami^
 ||test.miami^
 ||theas.miami^
+||thederm.miami^
+||thefloralstudio.miami^
 ||theflowhouse.miami^
 ||thegolfspot.miami^
 ||theivory.miami^

@@ -42,7 +42,6 @@
 ||foods.healthcare^
 ||fyne.healthcare^
 ||gen.healthcare^
-||gpt.healthcare^
 ||greenleaf.healthcare^
 ||growth.healthcare^
 ||gruno.healthcare^
@@ -83,6 +82,7 @@
 ||mt5waihui.healthcare^
 ||music.healthcare^
 ||nearme.healthcare^
+||neurolink.healthcare^
 ||newsofap.healthcare^
 ||nexustech.healthcare^
 ||nutrition.healthcare^
@@ -100,7 +100,6 @@
 ||securitycheck.healthcare^
 ||sgtushu.healthcare^
 ||smartapps.healthcare^
-||start.healthcare^
 ||svp.healthcare^
 ||swixx.healthcare^
 ||that.healthcare^
@@ -110,12 +109,12 @@
 ||thirdeyeimaging.healthcare^
 ||time.healthcare^
 ||tordan.healthcare^
+||trackmysum.healthcare^
 ||triton.healthcare^
 ||turning65.healthcare^
 ||ufabet.healthcare^
 ||vesta.healthcare^
 ||voltenranger.healthcare^
-||vox.healthcare^
 ||webtv.healthcare^
 ||wholespinecare.healthcare^
 ||wma.healthcare^
