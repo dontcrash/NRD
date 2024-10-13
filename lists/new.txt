@@ -12,12 +12,14 @@
 ||human.new^
 ||instance.new^
 ||iq.new^
+||laravel.new^
 ||log.new^
 ||logs.new^
 ||macro.new^
 ||memecoin.new^
 ||metaview.new^
 ||name.new^
+||org.new^
 ||perplex.new^
 ||photoshoot.new^
 ||php.new^
@@ -32,8 +34,10 @@
 ||runnable.new^
 ||sdk.new^
 ||so.new^
+||supa.new^
 ||trace.new^
 ||tree.new^
 ||trees.new^
+||tweet.new^
 ||us.new^
 ||voice.new^
