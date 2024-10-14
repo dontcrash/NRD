@@ -27,6 +27,7 @@
 ||compaas.build^
 ||covert.build^
 ||crack.build^
+||cruxcontrol.build^
 ||dimensionerc.build^
 ||distributed.build^
 ||dmg.build^
@@ -36,6 +37,7 @@
 ||engn.build^
 ||envelopes.build^
 ||fetch.build^
+||fred.build^
 ||gale.build^
 ||gladi.build^
 ||golang.build^
@@ -46,9 +48,11 @@
 ||hitchin.build^
 ||holdfast.build^
 ||homebase.build^
+||hypar.build^
 ||innofen.build^
 ||inode.build^
 ||intentional.build^
+||jem.build^
 ||jireh.build^
 ||jlee.build^
 ||kansasscreed.build^
@@ -91,6 +95,7 @@
 ||ritualistic.build^
 ||robusta.build^
 ||rpg.build^
+||safearbor.build^
 ||shiftsummit.build^
 ||siso.build^
 ||sknow.build^
@@ -101,6 +106,7 @@
 ||storybuild.build^
 ||tac.build^
 ||talents.build^
+||teal.build^
 ||termforge.build^
 ||tonari.build^
 ||tonify.build^

@@ -59,9 +59,11 @@
 ||bitcoinprices.exchange^
 ||bitflick.exchange^
 ||bithub.exchange^
+||bittertrade.exchange^
 ||blockchaincryptosystem.exchange^
 ||blockfleet.exchange^
 ||bloqkchain.exchange^
+||bn.exchange^
 ||bomnetwork.exchange^
 ||bradford.exchange^
 ||btcoin.exchange^
@@ -84,11 +86,11 @@
 ||ciphervault.exchange^
 ||clarks.exchange^
 ||codebases.exchange^
+||coin8.exchange^
 ||coinbasefinance.exchange^
 ||coinbridge.exchange^
 ||coinpayy.exchange^
 ||collective.exchange^
-||com-v4-app.exchange^
 ||comback.exchange^
 ||commex.exchange^
 ||commons.exchange^
@@ -103,7 +105,7 @@
 ||crypt2call.exchange^
 ||cryptoassist.exchange^
 ||cryptocurrencies.exchange^
-||cryptoexchange.exchange^
+||cryptoinvest.exchange^
 ||cryptomarina.exchange^
 ||cryptopesa.exchange^
 ||cryptoprotect.exchange^
@@ -115,12 +117,13 @@
 ||damex.exchange^
 ||daniola.exchange^
 ||darkmeme.exchange^
+||dbg.exchange^
 ||debridge.exchange^
 ||decisions.exchange^
 ||department.exchange^
 ||developments.exchange^
+||dfx.exchange^
 ||dhakastock.exchange^
-||digiquid.exchange^
 ||digitaltrust.exchange^
 ||directories.exchange^
 ||directs.exchange^
@@ -132,8 +135,7 @@
 ||duca.exchange^
 ||ducat.exchange^
 ||dumpster.exchange^
-||e28cricket.exchange^
-||e2cricket.exchange^
+||dxd.exchange^
 ||easycoin.exchange^
 ||ecmas.exchange^
 ||eigen.exchange^
@@ -143,8 +145,6 @@
 ||elit.exchange^
 ||elx4200.exchange^
 ||elysium.exchange^
-||emusic.exchange^
-||emusicrights.exchange^
 ||encryptedcash.exchange^
 ||encyclopedias.exchange^
 ||entra.exchange^
@@ -193,11 +193,9 @@
 ||hkvax.exchange^
 ||hob.exchange^
 ||homeloan.exchange^
-||homex.exchange^
 ||hopscotch.exchange^
 ||hotbit.exchange^
 ||houdini.exchange^
-||humankind.exchange^
 ||hyperswap.exchange^
 ||ibuyer.exchange^
 ||icon.exchange^
@@ -222,7 +220,6 @@
 ||jts.exchange^
 ||juegosdecoser.exchange^
 ||jumeper.exchange^
-||jumpeer.exchange^
 ||jumper-eligibility.exchange^
 ||jumpereligibility.exchange^
 ||kickstarter.exchange^
@@ -279,6 +276,7 @@
 ||nero.exchange^
 ||networks.exchange^
 ||nfb.exchange^
+||note.exchange^
 ||novaflow.exchange^
 ||novin.exchange^
 ||noxium.exchange^
@@ -330,6 +328,7 @@
 ||practice.exchange^
 ||procedures.exchange^
 ||productions.exchange^
+||profi.exchange^
 ||programmers.exchange^
 ||programs.exchange^
 ||propto.exchange^
@@ -390,9 +389,8 @@
 ||signs.exchange^
 ||silhouette.exchange^
 ||skp.exchange^
-||slotgacor.exchange^
-||slotgacorhariini.exchange^
 ||smartoptions.exchange^
+||smt.exchange^
 ||snazzy.exchange^
 ||socialdevelopment.exchange^
 ||solutions.exchange^
@@ -401,6 +399,7 @@
 ||soulverse.exchange^
 ||southern.exchange^
 ||spencermarcu.exchange^
+||sport.exchange^
 ||sportvalue.exchange^
 ||spring.exchange^
 ||squidrouter.exchange^
@@ -477,6 +476,7 @@
 ||vvs.exchange^
 ||walleti.exchange^
 ||webs-hop.exchange^
+||whaledex.exchange^
 ||wigo.exchange^
 ||woika.exchange^
 ||wolfgang.exchange^
