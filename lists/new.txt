@@ -3,6 +3,7 @@
 ||benchmark.new^
 ||bold.new^
 ||brex.new^
+||builder.new^
 ||chart.new^
 ||class.new^
 ||conviction.new^
@@ -32,6 +33,7 @@
 ||runnable.new^
 ||sdk.new^
 ||so.new^
+||spv.new^
 ||supa.new^
 ||trace.new^
 ||tree.new^
