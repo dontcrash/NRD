@@ -5,7 +5,9 @@
 ||abvi.properties^
 ||aspenbyoberoirealty.properties^
 ||authenticators.properties^
+||bako.properties^
 ||basiladze.properties^
+||ben.properties^
 ||bet88.properties^
 ||beyondmarketlabs.properties^
 ||carltontower.properties^
@@ -43,6 +45,7 @@
 ||huma.properties^
 ||infinite.properties^
 ||inputs.properties^
+||inspector.properties^
 ||ipg.properties^
 ||j88.properties^
 ||jardinbyoberoirealty.properties^
@@ -72,6 +75,9 @@
 ||pike.properties^
 ||pma.properties^
 ||rainbow.properties^
+||realestateadvisor.properties^
+||realestateadvisors.properties^
+||realogy.properties^
 ||redline.properties^
 ||rendr.properties^
 ||reservoirs.properties^
@@ -80,6 +86,7 @@
 ||schedulers.properties^
 ||shire.properties^
 ||slatecapital.properties^
+||solomon.properties^
 ||stack.properties^
 ||staffing.properties^
 ||stealth.properties^

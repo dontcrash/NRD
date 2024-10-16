@@ -30,9 +30,8 @@
 ||arrays.exchange^
 ||arthur.exchange^
 ||aspects.exchange^
-||astrox.exchange^
 ||atomic.exchange^
-||australiandollar.exchange^
+||auctionhouse.exchange^
 ||authenticators.exchange^
 ||automate.exchange^
 ||avidtrainings.exchange^
@@ -53,12 +52,10 @@
 ||beton.exchange^
 ||bidiamond.exchange^
 ||binancedesks.exchange^
-||bitcap.exchange^
 ||bitcashcyprus.exchange^
 ||bitcoinbridge.exchange^
 ||bitcoinprice.exchange^
 ||bitcoinprices.exchange^
-||bitflick.exchange^
 ||bithub.exchange^
 ||bittertrade.exchange^
 ||blockchaincryptosystem.exchange^
@@ -72,15 +69,15 @@
 ||businessemail.exchange^
 ||buyvox.exchange^
 ||bzilion.exchange^
-||camelotdex.exchange^
+||cacao.exchange^
 ||canniverse.exchange^
 ||canvas.exchange^
 ||cashfeelings.exchange^
-||cashgo.exchange^
 ||celo.exchange^
 ||cfi.exchange^
 ||charissayang.exchange^
 ||charts.exchange^
+||cheers.exchange^
 ||choc.exchange^
 ||cipherbank.exchange^
 ||ciphervault.exchange^
@@ -90,7 +87,6 @@
 ||coinbasefinance.exchange^
 ||coinbridge.exchange^
 ||coinpayy.exchange^
-||collective.exchange^
 ||collectn.exchange^
 ||comback.exchange^
 ||commex.exchange^
@@ -99,12 +95,14 @@
 ||concurrencies.exchange^
 ||concurrency.exchange^
 ||conditions.exchange^
+||consign.exchange^
 ||cooperations.exchange^
 ||cooperators.exchange^
 ||cores.exchange^
 ||cosplay.exchange^
+||cred.exchange^
 ||crypt2call.exchange^
-||cryptoassist.exchange^
+||cryptoderivatives.exchange^
 ||cryptoinvest.exchange^
 ||cryptomarina.exchange^
 ||cryptopesa.exchange^
@@ -121,6 +119,7 @@
 ||debridge.exchange^
 ||decisions.exchange^
 ||department.exchange^
+||dethmigrate-duo.exchange^
 ||developments.exchange^
 ||dfx.exchange^
 ||dhakastock.exchange^
@@ -131,6 +130,7 @@
 ||doggo.exchange^
 ||dosh.exchange^
 ||dotmovies.exchange^
+||dpx.exchange^
 ||drawbridge.exchange^
 ||duca.exchange^
 ||ducat.exchange^
@@ -178,7 +178,7 @@
 ||functions.exchange^
 ||fuseswap.exchange^
 ||fxbtg.exchange^
-||gcexperience.exchange^
+||gemba.exchange^
 ||gemswap.exchange^
 ||generators.exchange^
 ||globalsignal.exchange^
@@ -197,7 +197,6 @@
 ||houdini.exchange^
 ||humanity.exchange^
 ||hyperswap.exchange^
-||ibuyer.exchange^
 ||icon.exchange^
 ||id.exchange^
 ||ihackedan.exchange^
@@ -219,6 +218,8 @@
 ||juegosdecoser.exchange^
 ||jumeper.exchange^
 ||kickstarter.exchange^
+||korean.exchange^
+||kratos.exchange^
 ||kuromi.exchange^
 ||kuwin.exchange^
 ||labex.exchange^
@@ -268,6 +269,7 @@
 ||myvault.exchange^
 ||namespaces.exchange^
 ||neomarkets.exchange^
+||neonomad.exchange^
 ||nero.exchange^
 ||networks.exchange^
 ||nfb.exchange^
@@ -358,7 +360,6 @@
 ||runs.exchange^
 ||ruraltrust.exchange^
 ||s666.exchange^
-||sahil.exchange^
 ||salandak.exchange^
 ||salmonad.exchange^
 ||salt.exchange^
@@ -367,7 +368,6 @@
 ||scout.exchange^
 ||sds.exchange^
 ||selfhosted.exchange^
-||senton.exchange^
 ||serenity.exchange^
 ||sga.exchange^
 ||shapeshifts.exchange^
@@ -408,12 +408,10 @@
 ||taxfirm.exchange^
 ||tayomoney.exchange^
 ||tc.exchange^
-||tdtc.exchange^
 ||tekfinstablecoin.exchange^
 ||tenx.exchange^
 ||tests.exchange^
 ||texts.exchange^
-||tgx.exchange^
 ||theicon.exchange^
 ||thelibertymint.exchange^
 ||themisconnect.exchange^
@@ -436,6 +434,7 @@
 ||top.exchange^
 ||topics.exchange^
 ||topologies.exchange^
+||tower.exchange^
 ||trade2win.exchange^
 ||tradecompany.exchange^
 ||transformers.exchange^
@@ -451,6 +450,7 @@
 ||usd-jp.exchange^
 ||usdtl.exchange^
 ||ushas-u.exchange^
+||ustradex.exchange^
 ||valencia.exchange^
 ||valuestocks.exchange^
 ||versions.exchange^
@@ -462,8 +462,6 @@
 ||voltbase.exchange^
 ||voltyra.exchange^
 ||vrsc.exchange^
-||vvs.exchange^
-||walleti.exchange^
 ||webs-hop.exchange^
 ||whaledex.exchange^
 ||wigo.exchange^

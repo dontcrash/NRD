@@ -16,10 +16,10 @@
 ||aiweb.markets^
 ||alien.markets^
 ||alphanaut.markets^
+||americanas.markets^
 ||arabs.markets^
 ||argo.markets^
 ||arte.markets^
-||arts.markets^
 ||assets.markets^
 ||aus.markets^
 ||bambu4d.markets^
@@ -46,13 +46,16 @@
 ||cash.markets^
 ||casino.markets^
 ||cekoncom.markets^
+||centralshop.markets^
 ||codes.markets^
+||coinmarketcap.markets^
 ||cooked.markets^
 ||cricbuzz.markets^
 ||cryptotrading.markets^
 ||cryptox.markets^
 ||curated.markets^
 ||darkhorse.markets^
+||dating.markets^
 ||dau.markets^
 ||dbay.markets^
 ||decrypt.markets^
@@ -63,6 +66,7 @@
 ||edx.markets^
 ||eigenlayer.markets^
 ||elbroasterdelchef.markets^
+||element.markets^
 ||elevate.markets^
 ||europa.markets^
 ||evidence.markets^
@@ -79,6 +83,8 @@
 ||fruugo.markets^
 ||fugu.markets^
 ||fun88.markets^
+||futbol.markets^
+||futebol.markets^
 ||futuretrade.markets^
 ||galicia.markets^
 ||gbspickleball.markets^
@@ -87,6 +93,7 @@
 ||gyzr.markets^
 ||hobart.markets^
 ||hotwin888.markets^
+||hub.markets^
 ||humanoid.markets^
 ||hunch.markets^
 ||hyperpet.markets^
@@ -102,11 +109,9 @@
 ||kubet2.markets^
 ||kubet3.markets^
 ||kuttymovies.markets^
-||kuwin.markets^
 ||kyan.markets^
 ||lit.markets^
 ||longfor.markets^
-||maggielake.markets^
 ||magicianey.markets^
 ||magiciany.markets^
 ||make.markets^
@@ -119,9 +124,7 @@
 ||melb.markets^
 ||melbourne.markets^
 ||melbournewest.markets^
-||meow.markets^
 ||miamiflsecurity.markets^
-||milky.markets^
 ||movierulz.markets^
 ||moviesda.markets^
 ||mp4moviez.markets^
@@ -151,10 +154,8 @@
 ||resource.markets^
 ||reveal.markets^
 ||ru.markets^
-||sahil.markets^
 ||scottishfarmers.markets^
 ||securecorners.markets^
-||senton.markets^
 ||slot.markets^
 ||slot888.markets^
 ||snap.markets^
@@ -182,14 +183,12 @@
 ||tradelotai.markets^
 ||tradewins.markets^
 ||turtle.markets^
-||u888.markets^
 ||unk.markets^
 ||ving777.markets^
 ||votix.markets^
 ||ward.markets^
 ||wch.markets^
 ||whiterock.markets^
-||win55d.markets^
 ||win55e.markets^
 ||win55f.markets^
 ||woika.markets^
@@ -199,3 +198,4 @@
 ||yng.markets^
 ||yolo.markets^
 ||zenith.markets^
+||zerodha.markets^
