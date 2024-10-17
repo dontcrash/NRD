@@ -25,6 +25,7 @@
 ||currency.investments^
 ||data.investments^
 ||dhivehi.investments^
+||digitalactions.investments^
 ||dosh.investments^
 ||dsg.investments^
 ||dte.investments^
@@ -41,6 +42,7 @@
 ||flipping.investments^
 ||folkvangr.investments^
 ||fwm.investments^
+||fxtalchemy.investments^
 ||fynbos.investments^
 ||genevaroth.investments^
 ||genopa.investments^
@@ -64,9 +66,11 @@
 ||launchpad.investments^
 ||leapdigital.investments^
 ||ledgercbdc.investments^
+||letsget.investments^
 ||libertas.investments^
 ||lileka.investments^
 ||lionsun.investments^
+||lk.investments^
 ||lux.investments^
 ||maldivian.investments^
 ||malpaux.investments^
@@ -98,6 +102,7 @@
 ||reliant.investments^
 ||returns.investments^
 ||rewind.investments^
+||savage.investments^
 ||senan.investments^
 ||sipp.investments^
 ||sippfund.investments^

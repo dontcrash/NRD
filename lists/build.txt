@@ -12,6 +12,7 @@
 ||alphaconstructions.build^
 ||anchorpoint.build^
 ||arjan.build^
+||artifex.build^
 ||astronaut.build^
 ||bartender.build^
 ||bauter.build^
@@ -39,6 +40,7 @@
 ||distributed.build^
 ||dllseu.build^
 ||dmg.build^
+||dn4d.build^
 ||doma.build^
 ||einhorn.build^
 ||elysium.build^
@@ -47,6 +49,7 @@
 ||envelopes.build^
 ||eporan.build^
 ||ernxcr.build^
+||fensterhaus.build^
 ||fetch.build^
 ||fmrwwz.build^
 ||fqalvk.build^
@@ -146,6 +149,7 @@
 ||plttpr.build^
 ||ponzi.build^
 ||pretzel.build^
+||projectplaybook.build^
 ||prometheus.build^
 ||qjjwtt.build^
 ||quvbiz.build^
@@ -156,6 +160,7 @@
 ||robusta.build^
 ||rpg.build^
 ||rubwmr.build^
+||saddleandspur.build^
 ||safearbor.build^
 ||sanggong.build^
 ||scygwf.build^
@@ -163,7 +168,9 @@
 ||shiftsummit.build^
 ||siso.build^
 ||sknow.build^
+||sns.build^
 ||sol.build^
+||sonr.build^
 ||spike.build^
 ||spindl.build^
 ||squeeze.build^

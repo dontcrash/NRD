@@ -8,6 +8,7 @@
 ||class.new^
 ||conviction.new^
 ||databreach.new^
+||dradis.new^
 ||euromatch.new^
 ||feel.new^
 ||genio.new^
@@ -18,8 +19,6 @@
 ||laravel.new^
 ||log.new^
 ||logs.new^
-||macro.new^
-||memecoin.new^
 ||org.new^
 ||perplex.new^
 ||photoshoot.new^

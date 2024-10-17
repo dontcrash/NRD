@@ -17,6 +17,7 @@
 ||aiprescriptive.health^
 ||aisis.health^
 ||alacare.health^
+||allegiance.health^
 ||allthingsmedical.health^
 ||alphamental.health^
 ||alphavitality.health^
@@ -37,6 +38,7 @@
 ||attaway.health^
 ||attuned-intelligence.health^
 ||aurae.health^
+||ayurway.health^
 ||ayurx.health^
 ||b4ugt.health^
 ||bangocare.health^
@@ -50,6 +52,7 @@
 ||bioarc.health^
 ||bioluma.health^
 ||biospark.health^
+||birdie.health^
 ||blackfriday.health^
 ||bordermedical.health^
 ||bored.health^
@@ -69,6 +72,7 @@
 ||centurion.health^
 ||checkcare.health^
 ||chronos.health^
+||ciervo.health^
 ||circleai.health^
 ||clearcare.health^
 ||clearsight.health^
@@ -93,6 +97,8 @@
 ||deepdive.health^
 ||defect.health^
 ||defyd.health^
+||deli.health^
+||delivery.health^
 ||delphi.health^
 ||deltaops.health^
 ||dendrite.health^
@@ -103,6 +109,7 @@
 ||dish.health^
 ||docd.health^
 ||docnote.health^
+||docology.health^
 ||dodo.health^
 ||dreem.health^
 ||drkogan.health^
@@ -116,6 +123,7 @@
 ||embedded.health^
 ||empyrealholistics.health^
 ||endorphyn.health^
+||enhancedmedicals.health^
 ||enhancinghealth.health^
 ||entwined.health^
 ||eon2life.health^
@@ -131,6 +139,7 @@
 ||extrayears.health^
 ||faithinfertility.health^
 ||familyfirst.health^
+||famplan.health^
 ||fangzi.health^
 ||fasttrax.health^
 ||fb88.health^
@@ -237,9 +246,11 @@
 ||jcdhospitality.health^
 ||journeys.health^
 ||joyride.health^
+||justice.health^
 ||juvmo.health^
 ||juvmohcp.health^
 ||kage.health^
+||karrot.health^
 ||khulehealthcare.health^
 ||kibio.health^
 ||kimwellness.health^
@@ -298,6 +309,7 @@
 ||msq.health^
 ||mybanana.health^
 ||mydiary.health^
+||mydoctormolly.health^
 ||mygardia.health^
 ||myownpharma.health^
 ||myprecious.health^
@@ -317,6 +329,7 @@
 ||nowbook.health^
 ||npl.health^
 ||nurseingcourse.health^
+||nursenoel.health^
 ||nutrilogix.health^
 ||oatmeal.health^
 ||octezy.health^
@@ -325,6 +338,7 @@
 ||ohashi.health^
 ||olife.health^
 ||omnya.health^
+||onlinecouplestherapy.health^
 ||onlinedoctor.health^
 ||onpointcare.health^
 ||onus.health^
@@ -373,6 +387,7 @@
 ||recoverme.health^
 ||refa.health^
 ||referralmd.health^
+||reformhealth.health^
 ||reimbursements.health^
 ||reneu.health^
 ||resilientbeings.health^
@@ -384,6 +399,7 @@
 ||rippleeffect.health^
 ||rmwl.health^
 ||rockstar.health^
+||ropata.health^
 ||s666.health^
 ||sagility.health^
 ||samdsuite.health^
@@ -391,12 +407,14 @@
 ||sarvaa.health^
 ||secp.health^
 ||securitycheck.health^
+||seekgp.health^
 ||selfcheckup.health^
 ||selfservices.health^
 ||selma.health^
 ||sereno.health^
 ||setyoufree.health^
 ||sexercise.health^
+||sexy.health^
 ||simplifyit.health^
 ||sixpack.health^
 ||sleepinmind.health^
@@ -416,6 +434,7 @@
 ||swasthya.health^
 ||symplisept.health^
 ||synoxtherapeutics.health^
+||tarik.health^
 ||tasya.health^
 ||tcconnect.health^
 ||tdm.health^
