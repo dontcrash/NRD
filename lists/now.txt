@@ -185,6 +185,7 @@
 ||attest.now^
 ||attn.now^
 ||attorneys.now^
+||atty.now^
 ||auction.now^
 ||auctions.now^
 ||audible.now^
@@ -223,7 +224,9 @@
 ||baccarat.now^
 ||backgammon.now^
 ||backlinks.now^
+||backorder.now^
 ||backtonature.now^
+||backup.now^
 ||bacon.now^
 ||bag.now^
 ||bail.now^
@@ -290,11 +293,13 @@
 ||biggerpicture.now^
 ||bikeamsterdam.now^
 ||bikepacking.now^
+||bills.now^
 ||bind.now^
 ||binge.now^
 ||bio-co2.now^
 ||bioco2.now^
 ||biome.now^
+||bios.now^
 ||biotics.now^
 ||birthday.now^
 ||bit.now^
@@ -326,23 +331,28 @@
 ||bmi.now^
 ||boats.now^
 ||bold.now^
+||bollywood.now^
 ||bolt.now^
 ||bomb.now^
 ||boner.now^
 ||bonus.now^
 ||boobs.now^
+||bookflight.now^
+||bookhotel.now^
 ||booking.now^
 ||bookings.now^
 ||bookit.now^
 ||bookme.now^
 ||bookmyflight.now^
 ||bookthat.now^
+||booktickets.now^
 ||boost.now^
 ||boostyourbusiness.now^
 ||boostyourcompany.now^
 ||booty.now^
 ||borrow.now^
 ||bot.now^
+||bothsides.now^
 ||bots.now^
 ||box.now^
 ||boycott.now^
@@ -401,6 +411,7 @@
 ||byte.now^
 ||cab.now^
 ||cabo.now^
+||cabs.now^
 ||calculate.now^
 ||calculator.now^
 ||caleb.now^
@@ -587,6 +598,7 @@
 ||copywriting.now^
 ||core.now^
 ||corn.now^
+||cortex.now^
 ||cory.now^
 ||cosimo.now^
 ||counsel.now^
@@ -639,6 +651,7 @@
 ||cubita.now^
 ||cum.now^
 ||curacao.now^
+||curious.now^
 ||curl.now^
 ||currency.now^
 ||curtis.now^
@@ -666,8 +679,10 @@
 ||data.now^
 ||database.now^
 ||datafication.now^
+||dataset.now^
 ||datasphere.now^
 ||date.now^
+||dateme.now^
 ||datingsite.now^
 ||dave.now^
 ||david.now^
@@ -676,6 +691,7 @@
 ||debet.now^
 ||debtfree.now^
 ||debug.now^
+||decipher.now^
 ||deck.now^
 ||deepdive.now^
 ||deeplearning.now^
@@ -696,6 +712,7 @@
 ||deploying.now^
 ||deposit.now^
 ||derek.now^
+||derisk.now^
 ||design.now^
 ||designer.now^
 ||designers.now^
@@ -748,8 +765,10 @@
 ||dock.now^
 ||doctor.now^
 ||doctordoctor.now^
+||doctors.now^
 ||document.now^
 ||doge.now^
+||doha.now^
 ||doing.now^
 ||doit.now^
 ||doitright.now^
@@ -785,6 +804,7 @@
 ||drinktea.now^
 ||drip.now^
 ||drive.now^
+||driveme.now^
 ||drops.now^
 ||dropship.now^
 ||drugs.now^
@@ -848,6 +868,7 @@
 ||empower.now^
 ||emptylegs.now^
 ||enable.now^
+||enchante.now^
 ||encore.now^
 ||encrypt.now^
 ||encryption.now^
@@ -1083,6 +1104,7 @@
 ||gethealthy.now^
 ||gethelp.now^
 ||gethired.now^
+||getinsurance.now^
 ||getit.now^
 ||getitjob.now^
 ||getjob.now^
@@ -1147,6 +1169,7 @@
 ||grid.now^
 ||grind.now^
 ||grip.now^
+||groceries.now^
 ||grok.now^
 ||groove.now^
 ||groups.now^
@@ -1217,12 +1240,14 @@
 ||hive.now^
 ||hodl.now^
 ||holloway.now^
+||hollywood.now^
 ||holsten.now^
 ||home.now^
 ||home2suites.now^
 ||home2suitesbyhilton.now^
 ||homecare.now^
 ||homeloans.now^
+||homes.now^
 ||homewoodsuites.now^
 ||homework.now^
 ||hone.now^
@@ -1431,6 +1456,7 @@
 ||kronenbourg.now^
 ||ksa.now^
 ||kunden.now^
+||lab.now^
 ||labxyz.now^
 ||lafamigliarana.now^
 ||land.now^
@@ -1449,7 +1475,9 @@
 ||law.now^
 ||lawsuit.now^
 ||lawyer.now^
+||lawyernearme.now^
 ||lawyers.now^
+||lawyersnearme.now^
 ||leadership.now^
 ||leads.now^
 ||league.now^
@@ -1463,6 +1491,7 @@
 ||legaladvice.now^
 ||legitimacy.now^
 ||lend.now^
+||lender.now^
 ||lending.now^
 ||lens.now^
 ||letmek.now^
@@ -1566,6 +1595,7 @@
 ||makewaves.now^
 ||making.now^
 ||makingithappen.now^
+||makkah.now^
 ||malin.now^
 ||manage.now^
 ||manga.now^
@@ -1681,6 +1711,7 @@
 ||mroparts.now^
 ||multiply.now^
 ||munich.now^
+||muslim.now^
 ||must.now^
 ||mustsee.now^
 ||mvd.now^
@@ -1689,6 +1720,7 @@
 ||mybill.now^
 ||mychat.now^
 ||mycode.now^
+||mydata.now^
 ||mydoc.now^
 ||myip.now^
 ||mymentalhealth.now^
@@ -1807,10 +1839,12 @@
 ||ondemand.now^
 ||one.now^
 ||onetab.now^
+||online-casino.now^
 ||online.now^
 ||onlinecasino.now^
 ||onlineshop.now^
 ||only.now^
+||ontario.now^
 ||open.now^
 ||openbuilding.now^
 ||openhouse.now^
@@ -1825,6 +1859,7 @@
 ||orchid.now^
 ||order-mrna.now^
 ||order.now^
+||orderfood.now^
 ||ordering.now^
 ||ordinals.now^
 ||organicvitamins.now^
@@ -1833,6 +1868,7 @@
 ||orijenpetfoods.now^
 ||oslo.now^
 ||otaku.now^
+||ottawa.now^
 ||otto.now^
 ||ourfuture.now^
 ||out.now^
@@ -1902,6 +1938,7 @@
 ||php.now^
 ||pic.now^
 ||pickleball.now^
+||picks.now^
 ||pilot.now^
 ||ping.now^
 ||pinnacle.now^
@@ -1935,6 +1972,7 @@
 ||pole.now^
 ||politics.now^
 ||pond.now^
+||pool.now^
 ||poop.now^
 ||popupstop.now^
 ||porn.now^
@@ -2039,6 +2077,7 @@
 ||quote.now^
 ||quran.now^
 ||radar.now^
+||raffle.now^
 ||raid.now^
 ||rain.now^
 ||raisesocial.now^
@@ -2063,6 +2102,7 @@
 ||real.now^
 ||realestate.now^
 ||realnews.now^
+||realtors.now^
 ||rebalance.now^
 ||rebate.now^
 ||rebates.now^
@@ -2182,6 +2222,7 @@
 ||rivieramaya.now^
 ||riyadh.now^
 ||roam.now^
+||roast.now^
 ||rob.now^
 ||robert-j.now^
 ||robertj.now^
@@ -2249,6 +2290,7 @@
 ||screencalls.now^
 ||scribe.now^
 ||scrummaster.now^
+||seam.now^
 ||seats.now^
 ||secure.now^
 ||see.now^
@@ -2300,6 +2342,7 @@
 ||shareit.now^
 ||sharing.now^
 ||shave.now^
+||shbet.now^
 ||sheet.now^
 ||sheetmetalparts.now^
 ||shein.now^
@@ -2520,6 +2563,7 @@
 ||swipe.now^
 ||switch.now^
 ||switchup.now^
+||syft.now^
 ||symetry.now^
 ||symmetry.now^
 ||synbiotics.now^
@@ -2546,6 +2590,7 @@
 ||tax.now^
 ||taxattorney.now^
 ||taxi.now^
+||taxis.now^
 ||taxitaxi.now^
 ||tcgplayer.now^
 ||tdtc.now^
@@ -2584,6 +2629,7 @@
 ||theholywhore.now^
 ||thelighthouse.now^
 ||then.now^
+||thenews.now^
 ||thenightly.now^
 ||thenomadhotel.now^
 ||theorigin.now^
@@ -2633,6 +2679,7 @@
 ||toot.now^
 ||top10.now^
 ||torch.now^
+||toronto.now^
 ||totalfreedom.now^
 ||toto.now^
 ||touch.now^
@@ -2684,6 +2731,7 @@
 ||tuna.now^
 ||tune.now^
 ||turbo.now^
+||turkiye.now^
 ||turnberry.now^
 ||tutor.now^
 ||tweet.now^
@@ -2736,6 +2784,7 @@
 ||v9bet.now^
 ||vaan.now^
 ||validate.now^
+||vancouver.now^
 ||vanity.now^
 ||vape.now^
 ||vaping.now^
@@ -2836,6 +2885,7 @@
 ||wesharewecare.now^
 ||westpac.now^
 ||wethefuture.now^
+||wfh.now^
 ||what.now^
 ||whatismyip.now^
 ||whats-cooking.now^
@@ -2854,6 +2904,7 @@
 ||wilde.now^
 ||will.now^
 ||winbet.now^
+||winbig.now^
 ||wine.now^
 ||wings.now^
 ||winit.now^
@@ -2921,5 +2972,6 @@
 ||zomato.now^
 ||zoom.now^
 ||zorg.now^
+||zurf.now^
 ||zurich.now^
 ||zzz.now^

@@ -13,6 +13,7 @@
 ||131981.news^
 ||163buff.news^
 ||16543.news^
+||16personteam.news^
 ||176455.news^
 ||176595.news^
 ||18705.news^
@@ -62,7 +63,6 @@
 ||461917.news^
 ||489544.news^
 ||494076.news^
-||4989.news^
 ||4dev.news^
 ||4tamil.news^
 ||504964.news^
@@ -74,7 +74,6 @@
 ||559311.news^
 ||578151.news^
 ||592051.news^
-||5minute.news^
 ||611146.news^
 ||635405.news^
 ||63sats.news^
@@ -106,6 +105,7 @@
 ||754862.news^
 ||777629.news^
 ||777rc.news^
+||77fox.news^
 ||79096.news^
 ||79265.news^
 ||792656.news^
@@ -124,8 +124,6 @@
 ||879338.news^
 ||8848.news^
 ||8868.news^
-||894.news^
-||8949.news^
 ||8w.news^
 ||90109.news^
 ||912503.news^
@@ -137,6 +135,7 @@
 ||a16zcrypto-coin.news^
 ||a16zcryptocoin.news^
 ||aaopadhe.news^
+||abab.news^
 ||abco.news^
 ||abitof.news^
 ||absports.news^
@@ -156,14 +155,17 @@
 ||africamirror.news^
 ||africanjournal.news^
 ||africansroots.news^
+||afterhours.news^
 ||agent.news^
 ||agentai.news^
 ||agentsuccess.news^
 ||agnostic.news^
 ||ahr.news^
+||ai-anime.news^
 ||ai-learn.news^
 ||ai-powered.news^
 ||aiclinic.news^
+||aifms.news^
 ||aikumi.news^
 ||ailearn.news^
 ||aio.news^
@@ -173,12 +175,14 @@
 ||aireason.news^
 ||aireasoning.news^
 ||aireport.news^
-||airscape.news^
+||airlinetransport.news^
+||airstrip.news^
+||airworthy.news^
 ||aj.news^
 ||ajkerchattogram.news^
 ||ajkergopalganj.news^
+||aktienrente.news^
 ||aladdin99.news^
-||alaraby.news^
 ||alareen.news^
 ||alcunha.news^
 ||alertdigest.news^
@@ -197,7 +201,6 @@
 ||alrajhibank.news^
 ||alsumaria.news^
 ||alumnigroup.news^
-||amanqqid.news^
 ||amarinnewsclip.news^
 ||amazonq.news^
 ||amazonthings.news^
@@ -216,26 +219,28 @@
 ||apimanufacturers.news^
 ||arabtrand.news^
 ||arajin.news^
-||archivalhistory.news^
 ||arizonatribune.news^
 ||arman.news^
 ||artbeat.news^
 ||arthurleonburnette.news^
 ||article39.news^
+||asaspa.news^
 ||asterisk.news^
 ||asvoria.news^
 ||atext.news^
 ||atlang.news^
 ||attext.news^
+||attheraces.news^
+||audauw.news^
 ||audibel.news^
 ||aufsichtsrat.news^
+||auqaet.news^
 ||autoclub.news^
 ||autofinance.news^
 ||autonews.news^
 ||aviationinsider.news^
 ||avive.news^
 ||axiebet88.news^
-||aydin.news^
 ||azarvatan.news^
 ||azurx.news^
 ||b2bhub.news^
@@ -243,7 +248,6 @@
 ||b2z.news^
 ||babes.news^
 ||backerlog.news^
-||backlotbreakdown.news^
 ||bakhchisaray.news^
 ||banglaedition.news^
 ||banglaonline.news^
@@ -266,7 +270,6 @@
 ||bed.news^
 ||beeftech.news^
 ||beone.news^
-||beraniqqid.news^
 ||bersamabumn.news^
 ||bestonlinecasino.news^
 ||bestreviews.news^
@@ -287,7 +290,6 @@
 ||biopharmamarket.news^
 ||biopulse.news^
 ||birches.news^
-||bitcoinfeed.news^
 ||bizlatino.news^
 ||bizweek.news^
 ||blaster.news^
@@ -299,7 +301,6 @@
 ||blumcrypto.news^
 ||bng55.news^
 ||bno.news^
-||bodenseee.news^
 ||boldinsight.news^
 ||bongotime.news^
 ||bongotv.news^
@@ -312,7 +313,6 @@
 ||braverock.news^
 ||brazzers.news^
 ||breached.news^
-||breakingspot.news^
 ||brics24.news^
 ||briefspot.news^
 ||brightedge.news^
@@ -342,7 +342,6 @@
 ||caloi.news^
 ||camber.news^
 ||caminhodosucessopro.news^
-||canadianstartup.news^
 ||canberradiningcapital.news^
 ||capnhat.news^
 ||capsula.news^
@@ -369,7 +368,6 @@
 ||chessxpanse.news^
 ||chicanofoo.news^
 ||chinarights.news^
-||chinathreat.news^
 ||chittagongtribune.news^
 ||cholesterol.news^
 ||christendom.news^
@@ -389,6 +387,7 @@
 ||climatechanges.news^
 ||climatecorps.news^
 ||climateemergency.news^
+||clrsdq.news^
 ||clubgroup.news^
 ||cmn.news^
 ||cna-24.news^
@@ -399,8 +398,7 @@
 ||coconutlime.news^
 ||codec.news^
 ||coffeejapan.news^
-||coindcx0387.news^
-||coindcx9837.news^
+||collectivemedia.news^
 ||commercenetwork.news^
 ||commons.news^
 ||connexionarino.news^
@@ -441,16 +439,15 @@
 ||currentbeat.news^
 ||currentdigest.news^
 ||cvgig.news^
-||cvoice24.news^
 ||cyberasia.news^
 ||cybercab.news^
 ||dadsales.news^
 ||daikin.news^
 ||daily24.news^
-||dailyabroad.news^
 ||dailydata.news^
 ||dailyphoenix.news^
 ||dailyscope.news^
+||dailytrend.news^
 ||daisynews.news^
 ||dances.news^
 ||dankx.news^
@@ -488,6 +485,7 @@
 ||descisummer.news^
 ||designinsectinbird.news^
 ||detrasdelrumorfg.news^
+||dfjvdj.news^
 ||dgbangla.news^
 ||dhsurgery.news^
 ||dialsalt.news^
@@ -508,6 +506,7 @@
 ||djt-wi.news^
 ||dkdm.news^
 ||dobro.news^
+||doctorlive.news^
 ||dogmorning.news^
 ||dogsavvy.news^
 ||dominioproveedor2.news^
@@ -551,7 +550,6 @@
 ||elhispanoamericano.news^
 ||eliteedgeventures.news^
 ||elixirpad.news^
-||elmedia.news^
 ||elmigrante.news^
 ||elmix.news^
 ||embamex.news^
@@ -590,7 +588,6 @@
 ||exoterica.news^
 ||expect.news^
 ||expreso.news^
-||extortionate.news^
 ||eze.news^
 ||factchecknow.news^
 ||fairgo.news^
@@ -622,11 +619,13 @@
 ||findom.news^
 ||findout.news^
 ||finlaunch.news^
+||firstestate.news^
 ||firstright.news^
 ||fixandflip.news^
 ||fixedmatches.news^
 ||flashback.news^
 ||flashpointnow.news^
+||flexconnection.news^
 ||flipkart.news^
 ||flixtv.news^
 ||fluidfunds.news^
@@ -648,16 +647,17 @@
 ||freedomofthepress.news^
 ||freeme.news^
 ||freizeit.news^
-||freshinsight.news^
 ||freshscope.news^
 ||frontlinereport.news^
 ||fsc.news^
 ||fuckcrypto.news^
 ||futbollibre.news^
 ||futuredriven.news^
+||fuzzy.news^
 ||ga0uhm.news^
 ||gadgets7.news^
 ||gahanna.news^
+||gamenights.news^
 ||gangnam.news^
 ||garmonorganization.news^
 ||geist.news^
@@ -677,7 +677,6 @@
 ||globale.news^
 ||globalindustry.news^
 ||globalmx.news^
-||globalnow.news^
 ||globalpharma.news^
 ||globalpharmamanufacturers.news^
 ||globalwatch.news^
@@ -690,7 +689,6 @@
 ||goldcoastdiningcapital.news^
 ||goldytotoday.news^
 ||golfgears.news^
-||goochland.news^
 ||gooddiet.news^
 ||goodvibe.news^
 ||goodworld.news^
@@ -716,7 +714,6 @@
 ||gurgaon.news^
 ||gustavoheck.news^
 ||gvg.news^
-||gympie.news^
 ||haberler24.news^
 ||hack.news^
 ||hackerx.news^
@@ -738,7 +735,6 @@
 ||hdhub4u.news^
 ||headlinereport.news^
 ||headlinesand.news^
-||health4us.news^
 ||healtham.news^
 ||healthcareplan.news^
 ||healthcareplatform.news^
@@ -750,6 +746,7 @@
 ||hiddenalpha.news^
 ||highlandsoncology.news^
 ||hitl.news^
+||hkjc.news^
 ||hmstr.news^
 ||hobartdiningcapital.news^
 ||hochu.news^
@@ -820,7 +817,6 @@
 ||itc.news^
 ||itna.news^
 ||itpirateship.news^
-||ivtv.news^
 ||ixam.news^
 ||j0831vf.news^
 ||j2.news^
@@ -840,6 +836,7 @@
 ||javitscenter.news^
 ||jawdropper.news^
 ||jclicht.news^
+||jdatnl.news^
 ||jeky.news^
 ||jetbahis.news^
 ||jetblue.news^
@@ -858,6 +855,7 @@
 ||jsrds.news^
 ||jugerbarta.news^
 ||juggler.news^
+||juhayna.news^
 ||july36.news^
 ||justicefacility.news^
 ||jyg.news^
@@ -871,6 +869,7 @@
 ||karenbass.news^
 ||karlonograles.news^
 ||karnatakatoday.news^
+||katseye.news^
 ||kayastha.news^
 ||kelarabad.news^
 ||kell.news^
@@ -883,7 +882,6 @@
 ||khuhaka.news^
 ||kidds.news^
 ||kingkaiser.news^
-||kinimae.news^
 ||kiwibet.news^
 ||klein.news^
 ||kleuet.news^
@@ -900,7 +898,6 @@
 ||kronos27.news^
 ||krtk.news^
 ||krundi.news^
-||kv999.news^
 ||kwik.news^
 ||kxa.news^
 ||l8st.news^
@@ -931,9 +928,10 @@
 ||list.news^
 ||litig8.news^
 ||littlechelseahealthstore.news^
-||livebrief.news^
+||liutaj.news^
 ||livelens.news^
 ||livinghappy.news^
+||liwile.news^
 ||llmops.news^
 ||llpch.news^
 ||lobby.news^
@@ -942,6 +940,7 @@
 ||localsports.news^
 ||lokvichar.news^
 ||lollipop.news^
+||longevityhub.news^
 ||longislandherald.news^
 ||lootlegends.news^
 ||lopes.news^
@@ -961,6 +960,7 @@
 ||luminox.news^
 ||luubox.news^
 ||luxembourg24.news^
+||lvoipu.news^
 ||m8win.news^
 ||macroview.news^
 ||madrastimes.news^
@@ -983,6 +983,7 @@
 ||mando.news^
 ||manzoware.news^
 ||mapa.news^
+||maplesyrup.news^
 ||marienbad.news^
 ||marines.news^
 ||marmite.news^
@@ -996,12 +997,10 @@
 ||medianews.news^
 ||mediasearch.news^
 ||mediaspark.news^
-||medschool.news^
 ||megamillions.news^
 ||melbourneadvertiser.news^
 ||melbournediningcapital.news^
 ||melega.news^
-||melody77.news^
 ||memari.news^
 ||memcoin.news^
 ||memetic.news^
@@ -1011,7 +1010,6 @@
 ||mentaltoughness.news^
 ||merge.news^
 ||meritkingnews.news^
-||meritkings.news^
 ||meritroyal.news^
 ||metaconscious.news^
 ||metadata.news^
@@ -1023,7 +1021,6 @@
 ||mil.news^
 ||mimasu.news^
 ||mindovermedia.news^
-||minutemen.news^
 ||minuter.news^
 ||misfits.news^
 ||missing.news^
@@ -1046,6 +1043,7 @@
 ||mortgagereport.news^
 ||mosjoen.news^
 ||motel.news^
+||moth.news^
 ||motsdemer.news^
 ||moy.news^
 ||msk.news^
@@ -1079,6 +1077,7 @@
 ||naes.news^
 ||naftkhabar.news^
 ||nagorikshikhkha.news^
+||naitazi.news^
 ||nalmowaten.news^
 ||nasad.news^
 ||nash.news^
@@ -1086,6 +1085,7 @@
 ||naukri.news^
 ||navichange.news^
 ||nbet.news^
+||ncjdap.news^
 ||ndis.news^
 ||neospacerace.news^
 ||netfair.news^
@@ -1116,7 +1116,6 @@
 ||nicasenelexterior.news^
 ||nineyards.news^
 ||nnu.news^
-||no1.news^
 ||noagenda.news^
 ||nocap.news^
 ||nofeed.news^
@@ -1148,20 +1147,22 @@
 ||odeum.news^
 ||odonnell.news^
 ||offensive.news^
+||ofujqu.news^
 ||ogre.news^
 ||ok365.news^
 ||ok8.news^
 ||okay.news^
-||okaz.news^
 ||okng.news^
 ||okno.news^
 ||omnis.news^
 ||omundo.news^
 ||oneclub.news^
 ||onegame.news^
+||onepays.news^
 ||onequity.news^
 ||onetech.news^
 ||ong.news^
+||onif.news^
 ||onlinecryptocasino.news^
 ||onlinemarketingplaza.news^
 ||onspotnews.news^
@@ -1173,7 +1174,6 @@
 ||openbusiness.news^
 ||operabola.news^
 ||opportunity.news^
-||opportunityeconomy.news^
 ||options.news^
 ||optiverse.news^
 ||orda.news^
@@ -1216,7 +1216,6 @@
 ||pawtales.news^
 ||pentest.news^
 ||peoplespaper.news^
-||pepvoyage.news^
 ||perabet.news^
 ||perceptive.news^
 ||perla.news^
@@ -1247,12 +1246,14 @@
 ||pnx.news^
 ||poa88.news^
 ||poetry.news^
+||poioer.news^
 ||polarity.news^
 ||policyplatform.news^
 ||polsat.news^
 ||poops.news^
 ||positivenetwork.news^
 ||premarket.news^
+||prep.news^
 ||presell.news^
 ||primal.news^
 ||primebrief.news^
@@ -1261,6 +1262,7 @@
 ||propuesta.news^
 ||proxima.news^
 ||prwire.news^
+||ptrwno.news^
 ||publica.news^
 ||pulsefocus.news^
 ||pulseofafrica.news^
@@ -1272,15 +1274,16 @@
 ||pyramidseeds.news^
 ||q-day.news^
 ||qamat.news^
-||qandilpress.news^
 ||qirimnational.news^
 ||qorvis.news^
+||qotpjo.news^
 ||qsr.news^
 ||qtm.news^
-||qubitmessage.news^
+||quantumtimes.news^
 ||que.news^
 ||quickupdates.news^
 ||qurong.news^
+||radsjv.news^
 ||raheem.news^
 ||raid.news^
 ||railway.news^
@@ -1313,6 +1316,7 @@
 ||righttoknow.news^
 ||ringkasan.news^
 ||ripe.news^
+||rjlnws.news^
 ||roadtrip.news^
 ||roast.news^
 ||robinkemp.news^
@@ -1333,10 +1337,10 @@
 ||rtk.news^
 ||rtr.news^
 ||ruckusmakers.news^
-||rumen.news^
 ||russianwar.news^
 ||russiawar.news^
 ||rworld.news^
+||saasbrief.news^
 ||sacfpw.news^
 ||sachbedhadakdaily.news^
 ||safe.news^
@@ -1348,7 +1352,6 @@
 ||satuberita.news^
 ||saudifootball.news^
 ||saudileague.news^
-||sawan888.news^
 ||sayasat.news^
 ||sayvd.news^
 ||scaling.news^
@@ -1356,6 +1359,7 @@
 ||sciencedaily.news^
 ||sciencepress.news^
 ||scv.news^
+||sdnqdl.news^
 ||seabusiness.news^
 ||seandiddycombs.news^
 ||seek.news^
@@ -1381,7 +1385,6 @@
 ||shrouk.news^
 ||shusayer.news^
 ||sial.news^
-||siap88.news^
 ||silvertimes.news^
 ||singaporefreepress.news^
 ||sipp.news^
@@ -1416,7 +1419,6 @@
 ||sp500.news^
 ||spacetraffic.news^
 ||sparkwire.news^
-||specalnews.news^
 ||speedreport.news^
 ||spickhofen.news^
 ||spinless.news^
@@ -1424,6 +1426,7 @@
 ||sportoto.news^
 ||spreadsheets.news^
 ||sprout.news^
+||srilankantimes.news^
 ||ssd.news^
 ||stacymaria.news^
 ||starkey.news^
@@ -1431,6 +1434,7 @@
 ||state48.news^
 ||steak.news^
 ||steem.news^
+||stepmint.news^
 ||sto.news^
 ||stockknowns.news^
 ||stonfi.news^
@@ -1453,7 +1457,6 @@
 ||supercars.news^
 ||superonline.news^
 ||supertoto.news^
-||superyacht.news^
 ||surfaced.news^
 ||surgicalrobot.news^
 ||svelte.news^
@@ -1470,8 +1473,6 @@
 ||t24.news^
 ||tagme.news^
 ||tahavoleghtesadi.news^
-||tam.news^
-||tambang99.news^
 ||tami.news^
 ||tamiltoday.news^
 ||tan.news^
@@ -1482,7 +1483,6 @@
 ||tavil.news^
 ||tawasul.news^
 ||taxmann.news^
-||tcnews.news^
 ||techbytes.news^
 ||techjournal.news^
 ||technotalk.news^
@@ -1511,9 +1511,9 @@
 ||thecable.news^
 ||thecapital.news^
 ||thechcgriffin.news^
-||thechinathreat.news^
 ||thedaemon.news^
 ||thedailybazrapat.news^
+||thedailyworker.news^
 ||thedatablueprint.news^
 ||thedutch.news^
 ||theeye.news^
@@ -1527,11 +1527,13 @@
 ||theleft.news^
 ||themaldives.news^
 ||thenewspaper.news^
+||thepeninsula.news^
 ||thepharma.news^
 ||theprime.news^
 ||theprogress.news^
 ||therentaldigest.news^
 ||thesarkar.news^
+||thesethings.news^
 ||theukrainianreview.news^
 ||theunbiasedpress.news^
 ||theunplug.news^
@@ -1562,7 +1564,9 @@
 ||tipo.news^
 ||titantraining.news^
 ||tk88vn.news^
+||tnsrav.news^
 ||tobit.news^
+||todaynews.news^
 ||tom.news^
 ||tonaya.news^
 ||tonerdepot.news^
@@ -1591,13 +1595,11 @@
 ||truecoverage.news^
 ||trueelaw.news^
 ||truehorizon.news^
-||trueinsight.news^
 ||truepulse.news^
 ||trumpcampaign.news^
 ||trustnews.news^
 ||truthwave.news^
 ||tumedio.news^
-||turki-alalshikh.news^
 ||turkuaz.news^
 ||turskeserije.news^
 ||tusavaisque.news^
@@ -1605,6 +1607,7 @@
 ||tvnova.news^
 ||tvserial.news^
 ||twitter.news^
+||twvtoa.news^
 ||ufa888.news^
 ||ufo777.news^
 ||ukesports.news^
@@ -1612,6 +1615,7 @@
 ||ukrainianwar.news^
 ||ultramaga.news^
 ||undisputed.news^
+||unhack.news^
 ||unhosted.news^
 ||unicus.news^
 ||untold.news^
@@ -1663,7 +1667,7 @@
 ||voters.news^
 ||voxvestra.news^
 ||vrchat.news^
-||vuejs.news^
+||vwpsvd.news^
 ||w888.news^
 ||wagmi.news^
 ||wajik777.news^
@@ -1688,13 +1692,14 @@
 ||winzap.news^
 ||wisemans.news^
 ||wistjedat.news^
-||woika.news^
 ||womansweekly.news^
 ||workflows.news^
 ||worldbrief.news^
 ||worldcompass.news^
 ||worldinsight.news^
 ||worldlens.news^
+||worldlibertyfinance.news^
+||worldmedia24.news^
 ||worldscoutjamboree.news^
 ||worldvoice.news^
 ||wot.news^
@@ -1702,7 +1707,6 @@
 ||wrban.news^
 ||wuevef.news^
 ||xanuoabvleblan.news^
-||xiaobaotong.news^
 ||xnocneicunvlai.news^
 ||xnow.news^
 ||xpost.news^
@@ -1710,7 +1714,6 @@
 ||yabloko.news^
 ||yachtsman.news^
 ||yahooo.news^
-||yakinqqid.news^
 ||yap.news^
 ||yday.news^
 ||yellowflags.news^
@@ -1726,9 +1729,11 @@
 ||zalaz.news^
 ||zanfor.news^
 ||zantray.news^
+||zebra.news^
 ||zeitzeichen.news^
 ||zellerit.news^
 ||zerodaily.news^
+||zinas.news^
 ||znews.news^
 ||zoomfocus.news^
 ||zoomreport.news^
