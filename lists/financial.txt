@@ -5,7 +5,7 @@
 ||abc8.financial^
 ||abcf.financial^
 ||academic.financial^
-||advisor.financial^
+||advance.financial^
 ||aecoin.financial^
 ||aerodnome.financial^
 ||aerodrame.financial^
@@ -21,7 +21,6 @@
 ||arcane.financial^
 ||archon.financial^
 ||ashai.financial^
-||axes.financial^
 ||backup.financial^
 ||bancable.financial^
 ||based.financial^
@@ -90,10 +89,8 @@
 ||latin.financial^
 ||latrobe.financial^
 ||layerzero.financial^
-||leasing.financial^
 ||letsget.financial^
 ||libertas.financial^
-||libertyworld.financial^
 ||liquifi.financial^
 ||lux.financial^
 ||machi.financial^
@@ -129,12 +126,13 @@
 ||promo-fxpro.financial^
 ||pufferfi.financial^
 ||push.financial^
+||quest.financial^
 ||qwtdbju.financial^
+||radical.financial^
 ||redacted.financial^
 ||regulus.financial^
 ||renzoprotocol.financial^
 ||reside.financial^
-||restvod.financial^
 ||reynolds.financial^
 ||rhea.financial^
 ||rise-up.financial^
@@ -160,6 +158,7 @@
 ||sv368.financial^
 ||synesix.financial^
 ||tamam.financial^
+||tarder-ai.financial^
 ||thala.financial^
 ||tharros.financial^
 ||thema.financial^
@@ -171,6 +170,7 @@
 ||trace.financial^
 ||trezor.financial^
 ||truefreedom.financial^
+||truewealth.financial^
 ||truhome.financial^
 ||truhomefinserv.financial^
 ||trustpoint.financial^
@@ -181,6 +181,8 @@
 ||voixed.financial^
 ||voltyra.financial^
 ||vstaar.financial^
+||wald.financial^
 ||wealth-city.financial^
+||wecap.financial^
 ||winds.financial^
 ||wolfpack.financial^

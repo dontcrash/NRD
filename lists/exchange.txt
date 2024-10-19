@@ -79,14 +79,17 @@
 ||charts.exchange^
 ||cheers.exchange^
 ||choc.exchange^
+||cineproperty.exchange^
 ||cipherbank.exchange^
 ||ciphervault.exchange^
 ||clarks.exchange^
+||cnsv-coin.exchange^
+||cnsv.exchange^
+||cnsvcoin.exchange^
 ||codebases.exchange^
 ||coin8.exchange^
 ||coinbasefinance.exchange^
 ||coinbridge.exchange^
-||coinpayy.exchange^
 ||collectn.exchange^
 ||comback.exchange^
 ||commex.exchange^
@@ -96,6 +99,8 @@
 ||concurrency.exchange^
 ||conditions.exchange^
 ||consciousbusiness.exchange^
+||conserve.exchange^
+||conservecoin.exchange^
 ||consign.exchange^
 ||cooperations.exchange^
 ||cooperators.exchange^
@@ -154,6 +159,7 @@
 ||envelopes.exchange^
 ||environments.exchange^
 ||es-hop.exchange^
+||eti.exchange^
 ||event-camelot.exchange^
 ||event-vela.exchange^
 ||eventum.exchange^
@@ -163,7 +169,6 @@
 ||eztrade.exchange^
 ||fastmoney.exchange^
 ||fasty.exchange^
-||fehu.exchange^
 ||fetex.exchange^
 ||fields.exchange^
 ||finance-v3-dex.exchange^
@@ -171,7 +176,6 @@
 ||fixcoin.exchange^
 ||flipkart.exchange^
 ||floki5g.exchange^
-||flor.exchange^
 ||fmx24.exchange^
 ||foco.exchange^
 ||forouhar.exchange^
@@ -219,7 +223,6 @@
 ||ironlight.exchange^
 ||ivvia.exchange^
 ||jitu.exchange^
-||jts.exchange^
 ||kickstarter.exchange^
 ||korean.exchange^
 ||kratos.exchange^
@@ -247,7 +250,6 @@
 ||marginswap.exchange^
 ||mas.exchange^
 ||maths.exchange^
-||matic.exchange^
 ||medias.exchange^
 ||megaerc20.exchange^
 ||mibgas.exchange^
@@ -270,6 +272,7 @@
 ||nero.exchange^
 ||networks.exchange^
 ||nfb.exchange^
+||nftmall.exchange^
 ||note.exchange^
 ||novaflow.exchange^
 ||noxium.exchange^
@@ -308,12 +311,12 @@
 ||perch.exchange^
 ||pickleball.exchange^
 ||pif-sa.exchange^
+||piswap.exchange^
 ||placements.exchange^
 ||places.exchange^
 ||playapay.exchange^
 ||plywood.exchange^
 ||podz.exchange^
-||poetry.exchange^
 ||pointclouds.exchange^
 ||pointers.exchange^
 ||policy.exchange^
@@ -369,6 +372,7 @@
 ||shawn.exchange^
 ||signs.exchange^
 ||silhouette.exchange^
+||siz.exchange^
 ||skp.exchange^
 ||smartoptions.exchange^
 ||smt.exchange^
@@ -386,7 +390,6 @@
 ||states.exchange^
 ||stockexchange6900.exchange^
 ||stocksstellar.exchange^
-||stonkz.exchange^
 ||subway.exchange^
 ||sucot.exchange^
 ||surveydata.exchange^
@@ -408,7 +411,6 @@
 ||themisconnect.exchange^
 ||thepeoplesauthority.exchange^
 ||theproperty.exchange^
-||thestack.exchange^
 ||theunit.exchange^
 ||thing.exchange^
 ||thisisfine.exchange^
@@ -418,7 +420,6 @@
 ||tko.exchange^
 ||tokenizedtitle.exchange^
 ||tokenizedtransfer.exchange^
-||tokenone.exchange^
 ||tokentitle.exchange^
 ||tokentransfer.exchange^
 ||top.exchange^
@@ -430,6 +431,8 @@
 ||translations.exchange^
 ||triden.exchange^
 ||tronex.exchange^
+||trustcoin.exchange^
+||trustglobal.exchange^
 ||tupismo.exchange^
 ||tylt.exchange^
 ||types.exchange^
@@ -479,3 +482,4 @@
 ||zero13.exchange^
 ||zettos.exchange^
 ||zeus.exchange^
+||zocial.exchange^
