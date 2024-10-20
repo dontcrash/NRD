@@ -25,6 +25,7 @@
 ||a11y.now^
 ||aanzet.now^
 ||aarp.now^
+||abc8.now^
 ||abcd.now^
 ||abet.now^
 ||about.now^
@@ -167,6 +168,7 @@
 ||askai.now^
 ||asked.now^
 ||asking.now^
+||askme.now^
 ||asos.now^
 ||aspire.now^
 ||ass.now^
@@ -320,6 +322,7 @@
 ||blend.now^
 ||blesta.now^
 ||blinkit.now^
+||bliss.now^
 ||block.now^
 ||blockchain.now^
 ||blockme.now^
@@ -346,6 +349,7 @@
 ||bookmyflight.now^
 ||bookthat.now^
 ||booktickets.now^
+||boon.now^
 ||boost.now^
 ||boostyourbusiness.now^
 ||boostyourcompany.now^
@@ -670,7 +674,6 @@
 ||dammage.now^
 ||dan.now^
 ||dance.now^
-||danfoss.now^
 ||daniel.now^
 ||danse.now^
 ||dare.now^
@@ -882,6 +885,7 @@
 ||enroll.now^
 ||enter.now^
 ||entr.now^
+||epay.now^
 ||epic.now^
 ||epos.now^
 ||equip.now^
@@ -1048,6 +1052,9 @@
 ||friends.now^
 ||ftrb.now^
 ||fuck.now^
+||fuckit.now^
+||fuckoff.now^
+||fuckyou.now^
 ||fukuoka.now^
 ||fundmyway.now^
 ||fundraise.now^
@@ -1130,6 +1137,7 @@
 ||globalnews.now^
 ||globalpowergeneration.now^
 ||glue.now^
+||gmfinancial.now^
 ||go2.now^
 ||go2bet.now^
 ||go2varsity.now^
@@ -1174,6 +1182,7 @@
 ||groove.now^
 ||groups.now^
 ||growth.now^
+||grub.now^
 ||gstream.now^
 ||guild.now^
 ||gumtree.now^
@@ -1181,6 +1190,7 @@
 ||hack.now^
 ||hacked.now^
 ||hacking.now^
+||haircut.now^
 ||hamptonbyhilton.now^
 ||handle.now^
 ||handyman.now^
@@ -1216,6 +1226,7 @@
 ||helderwater.now^
 ||hell.now^
 ||hello.now^
+||hellofuture.now^
 ||help.now^
 ||helpme.now^
 ||helpus.now^
@@ -1224,8 +1235,6 @@
 ||here.now^
 ||hereand.now^
 ||hero.now^
-||hewlettpackard.now^
-||hewlettpackardenterprise.now^
 ||hey.now^
 ||hiall.now^
 ||hide.now^
@@ -1272,7 +1281,6 @@
 ||hover.now^
 ||how.now^
 ||howdy.now^
-||hpe.now^
 ||hub.now^
 ||huly.now^
 ||humanaity.now^
@@ -1366,6 +1374,8 @@
 ||invoice.now^
 ||ipaddress.now^
 ||ipap.now^
+||ipay.now^
+||iprepare.now^
 ||iptv.now^
 ||iptvtrends.now^
 ||iptvuk.now^
@@ -1632,6 +1642,7 @@
 ||mediator.now^
 ||medic.now^
 ||medicines.now^
+||medics.now^
 ||meditate.now^
 ||meds.now^
 ||meetnow.now^
@@ -1675,6 +1686,7 @@
 ||mindfulness.now^
 ||mindhack.now^
 ||mindmastering.now^
+||mindset.now^
 ||mine.now^
 ||minecraft.now^
 ||minesweeper.now^
@@ -1683,6 +1695,7 @@
 ||mitarbeiter.now^
 ||mix.now^
 ||mobile.now^
+||mobiles.now^
 ||moderncss.now^
 ||modi.now^
 ||moive.now^
@@ -1922,6 +1935,7 @@
 ||pdf.now^
 ||peace.now^
 ||peak.now^
+||peakperformers.now^
 ||peer.now^
 ||pentest.now^
 ||people.now^
@@ -1932,6 +1946,7 @@
 ||pg88.now^
 ||phil.now^
 ||phone.now^
+||phones.now^
 ||photo.now^
 ||photographer.now^
 ||photography.now^
@@ -1952,8 +1967,10 @@
 ||planning.now^
 ||plants.now^
 ||platform.now^
+||playbet.now^
 ||playcasino.now^
 ||playchess.now^
+||playforpeace.now^
 ||playgames.now^
 ||playgforce.now^
 ||playing.now^
@@ -2049,6 +2066,7 @@
 ||pull.now^
 ||pulse.now^
 ||pump.now^
+||punt.now^
 ||purchase.now^
 ||purecss.now^
 ||purge.now^
@@ -2069,6 +2087,7 @@
 ||quest.now^
 ||question.now^
 ||queue.now^
+||quickcash.now^
 ||quickpay.now^
 ||quiet.now^
 ||quit.now^
@@ -2210,6 +2229,7 @@
 ||rhinoplasty.now^
 ||ribs.now^
 ||ride.now^
+||rider.now^
 ||rideshare.now^
 ||right.now^
 ||righthereright.now^
@@ -2272,6 +2292,7 @@
 ||saturn.now^
 ||saudi.now^
 ||save.now^
+||saved.now^
 ||say.now^
 ||scale.now^
 ||scan.now^
@@ -2538,6 +2559,7 @@
 ||summit.now^
 ||summon.now^
 ||sun.now^
+||sunrisemedical.now^
 ||sunwin.now^
 ||supergreen.now^
 ||superintelligence.now^
@@ -2559,6 +2581,7 @@
 ||swap.now^
 ||sweep.now^
 ||sweet.now^
+||swing.now^
 ||swingers.now^
 ||swipe.now^
 ||switch.now^
@@ -2890,7 +2913,9 @@
 ||whatismyip.now^
 ||whats-cooking.now^
 ||whats.now^
+||whatshot.now^
 ||whatsmyip.now^
+||whattowatch.now^
 ||when.now^
 ||where.now^
 ||whereareyou.now^
