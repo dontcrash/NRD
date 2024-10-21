@@ -28,7 +28,6 @@
 ||bridal.clothing^
 ||business.clothing^
 ||cali.clothing^
-||camp-sys.clothing^
 ||canine.clothing^
 ||carpentry.clothing^
 ||cat.clothing^
@@ -94,8 +93,10 @@
 ||jpadel.clothing^
 ||k-rg.clothing^
 ||kbco.clothing^
+||kemetic.clothing^
 ||keti.clothing^
 ||kontraband.clothing^
+||koslife.clothing^
 ||kuro.clothing^
 ||kyodai.clothing^
 ||lgacy.clothing^
@@ -126,8 +127,10 @@
 ||mutedmen.clothing^
 ||mvm.clothing^
 ||nais.clothing^
+||nan.clothing^
 ||nandesuka.clothing^
 ||neompool.clothing^
+||nevermind.clothing^
 ||newslettersullivan.clothing^
 ||nohu90.clothing^
 ||nokomis.clothing^
@@ -138,6 +141,8 @@
 ||onerup.clothing^
 ||opportunitycost.clothing^
 ||ouzigshop.clothing^
+||passanger.clothing^
+||passenger.clothing^
 ||pavera.clothing^
 ||personal.clothing^
 ||plt.clothing^
@@ -184,7 +189,6 @@
 ||thirtythree.clothing^
 ||threadmill.clothing^
 ||trendytok.clothing^
-||trip.clothing^
 ||trumpstump.clothing^
 ||uns.clothing^
 ||unthink.clothing^
@@ -199,7 +203,6 @@
 ||vnbet.clothing^
 ||voltz.clothing^
 ||vuno.clothing^
-||vyb.clothing^
 ||wearthegospel.clothing^
 ||wellnessvisa.clothing^
 ||whitefox.clothing^

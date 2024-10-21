@@ -24,6 +24,7 @@
 ||aliocate-chaingpt.claims^
 ||allocation-dydxexchange.claims^
 ||allocation-eigeniayer.claims^
+||allocation-rainbowme.claims^
 ||allocation-rcnzoprotocol.claims^
 ||allocation-renzo.claims^
 ||allocation-wormhoie.claims^
@@ -80,7 +81,6 @@
 ||dmkfr.claims^
 ||doggo.claims^
 ||doggos.claims^
-||donate.claims^
 ||dtnadr.claims^
 ||ducmdu.claims^
 ||dunderry.claims^
@@ -111,6 +111,7 @@
 ||finceptor.claims^
 ||find.claims^
 ||fjmuce.claims^
+||flokixcoinmarket.claims^
 ||fmkmaf.claims^
 ||fnhaup.claims^
 ||fnhcfk.claims^
@@ -142,7 +143,6 @@
 ||hypixel.claims^
 ||hyveda.claims^
 ||iamborghini.claims^
-||icrestore.claims^
 ||illumend.claims^
 ||injuryattorney.claims^
 ||investments.claims^
@@ -190,7 +190,6 @@
 ||mcuhpm.claims^
 ||megaeth.claims^
 ||melo.claims^
-||memecoins.claims^
 ||menemd.claims^
 ||mentoiabs.claims^
 ||metasmasks.claims^
@@ -199,10 +198,10 @@
 ||milton.claims^
 ||miltonstorm.claims^
 ||minima.claims^
-||mirror.claims^
 ||mkump.claims^
 ||mogcoin.claims^
 ||moodeng.claims^
+||moongate.claims^
 ||moonwell.claims^
 ||morphoiabs.claims^
 ||morse404.claims^
@@ -225,7 +224,9 @@
 ||onchain.claims^
 ||ondofinance.claims^
 ||orc.claims^
+||ordzaar.claims^
 ||ormies.claims^
+||overland.claims^
 ||overreserved.claims^
 ||paall.claims^
 ||paemca.claims^
@@ -242,6 +243,7 @@
 ||penumbrazone.claims^
 ||pep.claims^
 ||personafi.claims^
+||petrol-emission.claims^
 ||playground-dymension.claims^
 ||pledge-neotokyo.claims^
 ||pmnfje.claims^
@@ -278,11 +280,12 @@
 ||renzoprocotol.claims^
 ||researchtaxcredit.claims^
 ||restake-pufferfi.claims^
+||revoke-radiant.claims^
 ||rewards-beefyfi.claims^
+||rewards-beefyfinance.claims^
 ||rewards-carv.claims^
 ||rewards-floki.claims^
 ||rewards-mitosis.claims^
-||rewards-zerolend.claims^
 ||rewind.claims^
 ||rhomarkets.claims^
 ||rivusdao.claims^
@@ -315,6 +318,7 @@
 ||soniclab.claims^
 ||sonicslabs.claims^
 ||spherelabs.claims^
+||sphynx.claims^
 ||spx6900.claims^
 ||stacksfoundation.claims^
 ||stake-incept.claims^
@@ -324,6 +328,7 @@
 ||stellar-memes.claims^
 ||ston-rewards.claims^
 ||stonfi.claims^
+||stonfinance.claims^
 ||sudjmp.claims^
 ||symbioticfinance.claims^
 ||symbioticnodes.claims^
@@ -351,7 +356,6 @@
 ||vegamovies.claims^
 ||vnbet.claims^
 ||voltrax.claims^
-||vote-aave.claims^
 ||vote-modenetwork.claims^
 ||vote-pendie.claims^
 ||vote-reformdao.claims^
@@ -381,4 +385,3 @@
 ||zerciend.claims^
 ||zerclend.claims^
 ||zetachain.claims^
-||zignaly.claims^
