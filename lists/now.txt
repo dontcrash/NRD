@@ -102,7 +102,6 @@
 ||alert.now^
 ||aletheia.now^
 ||alex.now^
-||alexa.now^
 ||algo.now^
 ||align.now^
 ||alist.now^
@@ -118,7 +117,6 @@
 ||alternatives.now^
 ||amanda.now^
 ||amaze.now^
-||amazon.now^
 ||amelia.now^
 ||amelie.now^
 ||amen.now^
@@ -192,6 +190,7 @@
 ||auctions.now^
 ||audible.now^
 ||audit.now^
+||audition.now^
 ||augment.now^
 ||aura.now^
 ||aus.now^
@@ -254,6 +253,7 @@
 ||bbs.now^
 ||bcgame.now^
 ||beam.now^
+||beastiptv.now^
 ||beatingtheodds.now^
 ||beckers.now^
 ||becloudsmart.now^
@@ -297,6 +297,7 @@
 ||biggerpicture.now^
 ||bikeamsterdam.now^
 ||bikepacking.now^
+||bikes.now^
 ||bills.now^
 ||bind.now^
 ||binge.now^
@@ -342,6 +343,7 @@
 ||boner.now^
 ||bonus.now^
 ||boobs.now^
+||bookcab.now^
 ||bookflight.now^
 ||bookhotel.now^
 ||booking.now^
@@ -349,6 +351,7 @@
 ||bookit.now^
 ||bookme.now^
 ||bookmyflight.now^
+||booktaxi.now^
 ||bookthat.now^
 ||booktickets.now^
 ||boon.now^
@@ -609,6 +612,7 @@
 ||cory.now^
 ||cosimo.now^
 ||counsel.now^
+||counselor.now^
 ||count.now^
 ||coupon.now^
 ||coupons.now^
@@ -787,6 +791,7 @@
 ||done.now^
 ||doner.now^
 ||dorian.now^
+||dosh.now^
 ||dotalk.now^
 ||dotalks.now^
 ||doubletree.now^
@@ -840,7 +845,9 @@
 ||easyslim.now^
 ||eatme.now^
 ||ebike.now^
+||ebikes.now^
 ||ebooking.now^
+||ecar.now^
 ||ecasino.now^
 ||ecology-economy.now^
 ||ecom.now^
@@ -894,6 +901,7 @@
 ||enroll.now^
 ||enter.now^
 ||entr.now^
+||entrepreneurs.now^
 ||epay.now^
 ||epic.now^
 ||epos.now^
@@ -1036,6 +1044,7 @@
 ||forge.now^
 ||fork.now^
 ||form.now^
+||format.now^
 ||forms.now^
 ||fortune.now^
 ||founder.now^
@@ -1085,6 +1094,7 @@
 ||gamble.now^
 ||gambling.now^
 ||game.now^
+||gamebaidoithuong.now^
 ||gameplay.now^
 ||gamification.now^
 ||gamingcity.now^
@@ -1126,6 +1136,7 @@
 ||getinsurance.now^
 ||getit.now^
 ||getitjob.now^
+||getjacked.now^
 ||getjob.now^
 ||getout.now^
 ||getpaid.now^
@@ -1146,6 +1157,9 @@
 ||glam.now^
 ||glide.now^
 ||globalnews.now^
+||glt.now^
+||gltic.now^
+||gltics.now^
 ||glue.now^
 ||gmfinancial.now^
 ||go2.now^
@@ -1154,6 +1168,7 @@
 ||go88.now^
 ||goal.now^
 ||gobet.now^
+||gobitcoin.now^
 ||gocrypto.now^
 ||god.now^
 ||godaddy.now^
@@ -1196,6 +1211,7 @@
 ||gstream.now^
 ||guild.now^
 ||guzman.now^
+||h2o.now^
 ||hack.now^
 ||hacked.now^
 ||hacking.now^
@@ -1248,6 +1264,7 @@
 ||hey.now^
 ||hiall.now^
 ||hide.now^
+||hifi.now^
 ||hiltongardeninn.now^
 ||hint.now^
 ||hire.now^
@@ -1589,6 +1606,7 @@
 ||lstn.now^
 ||luck.now^
 ||lucky.now^
+||luckybet.now^
 ||ludo.now^
 ||luke.now^
 ||lumber.now^
@@ -1630,7 +1648,6 @@
 ||marketingai.now^
 ||marketplace.now^
 ||marketresearch.now^
-||markmonitor.now^
 ||marry.now^
 ||marryme.now^
 ||mars.now^
@@ -1708,6 +1725,7 @@
 ||minting.now^
 ||mitarbeiter.now^
 ||mix.now^
+||mn8.now^
 ||mobile.now^
 ||mobiles.now^
 ||moderncss.now^
@@ -1881,6 +1899,7 @@
 ||opentable.now^
 ||oppo.now^
 ||opportunity.now^
+||optify.now^
 ||optimize.now^
 ||optimus.now^
 ||orchestrate.now^
@@ -2012,10 +2031,12 @@
 ||porno365.now^
 ||pornstream.now^
 ||port.now^
+||portal.now^
 ||pose.now^
 ||posh.now^
 ||poshmark.now^
 ||positiveimpact.now^
+||positivity.now^
 ||post.now^
 ||postbiotics.now^
 ||potential.now^
@@ -2107,10 +2128,12 @@
 ||quiet.now^
 ||quit.now^
 ||quitaddiction.now^
+||quitsmoking.now^
 ||quiz.now^
 ||quote.now^
 ||quran.now^
 ||radar.now^
+||radiance.now^
 ||raffle.now^
 ||raid.now^
 ||rain.now^
@@ -2256,6 +2279,7 @@
 ||rims.now^
 ||riot.now^
 ||rise.now^
+||riseup.now^
 ||rite.now^
 ||rivieramaya.now^
 ||riyadh.now^
@@ -2316,6 +2340,7 @@
 ||saved.now^
 ||say.now^
 ||scale.now^
+||scalesmart.now^
 ||scan.now^
 ||scanme.now^
 ||schedule.now^
@@ -2425,7 +2450,6 @@
 ||skillup.now^
 ||skip.now^
 ||skope.now^
-||sky.now^
 ||skyscanner.now^
 ||slap.now^
 ||slash.now^
@@ -2467,6 +2491,7 @@
 ||sonic.now^
 ||sophia.now^
 ||sos.now^
+||soul.now^
 ||soulleadership.now^
 ||soup.now^
 ||spa.now^
@@ -2513,6 +2538,7 @@
 ||star.now^
 ||stark.now^
 ||starlink.now^
+||start-up.now^
 ||start.now^
 ||started.now^
 ||starthealing.now^
@@ -2520,7 +2546,9 @@
 ||startowning.now^
 ||starts.now^
 ||startup.now^
+||startups.now^
 ||stash.now^
+||stats.now^
 ||staylocal.now^
 ||steak.now^
 ||steal.now^
@@ -2670,6 +2698,7 @@
 ||the.now^
 ||thechangeisgonnacome.now^
 ||thecity.now^
+||theemirates.now^
 ||thefuture.now^
 ||thefutureis.now^
 ||thehelpdesk.now^
@@ -2716,6 +2745,7 @@
 ||today.now^
 ||together.now^
 ||token.now^
+||tokenise.now^
 ||tokenization.now^
 ||tokenize.now^
 ||tokenized.now^
@@ -2758,6 +2788,7 @@
 ||translate.now^
 ||translation.now^
 ||translator.now^
+||transport.now^
 ||travelguide.now^
 ||treatment.now^
 ||trek.now^
@@ -2766,6 +2797,7 @@
 ||trendingnews.now^
 ||trends.now^
 ||trendy.now^
+||tribewerk.now^
 ||trim.now^
 ||trip.now^
 ||tripadvisor.now^
@@ -2909,6 +2941,7 @@
 ||water.now^
 ||wave.now^
 ||wealth.now^
+||wear.now^
 ||wearehumanity.now^
 ||wearelouder.now^
 ||weather.now^
@@ -2975,6 +3008,7 @@
 ||wool.now^
 ||woop.now^
 ||word.now^
+||wordpress.now^
 ||work.now^
 ||workation.now^
 ||workforce.now^

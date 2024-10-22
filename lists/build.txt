@@ -38,11 +38,11 @@
 ||dmg.build^
 ||dn4d.build^
 ||doma.build^
-||einhorn.build^
 ||enodia.build^
 ||envelopes.build^
 ||eporan.build^
 ||ernxcr.build^
+||everybody.build^
 ||fensterhaus.build^
 ||fetch.build^
 ||fmrwwz.build^
@@ -69,6 +69,7 @@
 ||hndsk.build^
 ||hngsd.build^
 ||holdfast.build^
+||hologram.build^
 ||homehero.build^
 ||hpjefk.build^
 ||htkphb.build^
@@ -78,7 +79,6 @@
 ||ijesiv.build^
 ||ileoor.build^
 ||initiafdn.build^
-||innofen.build^
 ||inode.build^
 ||intentional.build^
 ||iprnjo.build^
@@ -86,7 +86,6 @@
 ||jem.build^
 ||jhnds.build^
 ||jili777.build^
-||jireh.build^
 ||jkfsd.build^
 ||jkgcsx.build^
 ||jlee.build^
@@ -98,14 +97,15 @@
 ||kpxytf.build^
 ||ksytax.build^
 ||kxyjzc.build^
+||land.build^
 ||landbase.build^
 ||lavender.build^
 ||leinea.build^
 ||leveldesign.build^
 ||lgrwne.build^
-||linaeswap.build^
 ||lined.build^
 ||linera.build^
+||lkbrothers.build^
 ||lmsytx.build^
 ||lohnunion.build^
 ||lux.build^
@@ -125,6 +125,7 @@
 ||nhdso.build^
 ||nicerockets.build^
 ||nightly.build^
+||nikos.build^
 ||nitro.build^
 ||njbsmo.build^
 ||nrbioc.build^
@@ -147,7 +148,10 @@
 ||qzgtto.build^
 ||rangers.build^
 ||recodeai.build^
-||ritualistic.build^
+||retrofit-scotland.build^
+||retrofitscotland.build^
+||revel.build^
+||rms.build^
 ||robusta.build^
 ||rpg.build^
 ||rubwmr.build^
@@ -179,6 +183,7 @@
 ||tukfpe.build^
 ||txskjl.build^
 ||types.build^
+||typesystem.build^
 ||ufcinc.build^
 ||ujdjs.build^
 ||ujdks.build^
@@ -187,7 +192,6 @@
 ||vfilwo.build^
 ||vivenda.build^
 ||vkdhs.build^
-||vnbet.build^
 ||volknw.build^
 ||wdsmud.build^
 ||webby.build^

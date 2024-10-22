@@ -8,6 +8,7 @@
 ||conviction.new^
 ||databreach.new^
 ||ddn.new^
+||descript.new^
 ||dradis.new^
 ||euromatch.new^
 ||feel.new^
@@ -17,6 +18,7 @@
 ||laravel.new^
 ||log.new^
 ||logs.new^
+||onboarding.new^
 ||orbit.new^
 ||org.new^
 ||perplex.new^
@@ -25,8 +27,7 @@
 ||plex.new^
 ||prompts.new^
 ||property.new^
-||quadratic.new^
-||readsomething.new^
+||rooms.new^
 ||runnable.new^
 ||sdk.new^
 ||so.new^
