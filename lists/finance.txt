@@ -47,6 +47,7 @@
 ||app-debirdge.finance^
 ||app-huma.finance^
 ||app-meso.finance^
+||app-pendle.finance^
 ||app-spark.finance^
 ||app-spectra.finance^
 ||app-treehouse.finance^
@@ -88,6 +89,7 @@
 ||beauty.finance^
 ||beefi.finance^
 ||beefund.finance^
+||beefy-v2.finance^
 ||beetroot.finance^
 ||bent.finance^
 ||beone.finance^
@@ -111,6 +113,7 @@
 ||bourgeois.finance^
 ||brisbanecaveatloans.finance^
 ||btaprotocol.finance^
+||btcbank.finance^
 ||btcpay.finance^
 ||buildonhybrid.finance^
 ||burnt.finance^
@@ -142,6 +145,8 @@
 ||claims-puffer.finance^
 ||claimsether.finance^
 ||clean.finance^
+||cleveragent.finance^
+||cockswap.finance^
 ||coinbot.finance^
 ||coinfireapp.finance^
 ||coinlateral.finance^
@@ -151,13 +156,16 @@
 ||comfort.finance^
 ||concepts.finance^
 ||continue.finance^
+||convex-v2.finance^
 ||cooperandcooper.finance^
 ||costante.finance^
 ||cra.finance^
 ||creditplus.finance^
 ||creditsplus.finance^
 ||crj.finance^
+||croc.finance^
 ||croco.finance^
+||crocswap.finance^
 ||crumb.finance^
 ||cryptocalc.finance^
 ||crystal.finance^
@@ -175,6 +183,7 @@
 ||dbs.finance^
 ||debridge-v2.finance^
 ||decentral-bank.finance^
+||decentralbros.finance^
 ||decore.finance^
 ||defibomb.finance^
 ||degen.finance^
@@ -189,10 +198,12 @@
 ||dian.finance^
 ||digitalnomad.finance^
 ||distinct.finance^
+||diver.finance^
 ||diviner.finance^
 ||dnbg.finance^
 ||dollarpilot.finance^
 ||doradoor.finance^
+||dotminer.finance^
 ||dp.finance^
 ||drain.finance^
 ||dreampoint.finance^
@@ -217,6 +228,7 @@
 ||etfsmexico.finance^
 ||ethcna.finance^
 ||ethena-liquifi.finance^
+||ethena-liquilfi.finance^
 ||ethenaliquifi.finance^
 ||ethera.finance^
 ||etheria.finance^
@@ -311,6 +323,7 @@
 ||insightor.finance^
 ||interest-spark.finance^
 ||interest-stargate.finance^
+||invader.finance^
 ||invoicemate.finance^
 ||invoicing.finance^
 ||iorenzo.finance^
@@ -369,6 +382,7 @@
 ||liquifii.finance^
 ||liquify.finance^
 ||liquifyi.finance^
+||liquilfi.finance^
 ||liuqifi.finance^
 ||living.finance^
 ||lliquifi.finance^
@@ -385,6 +399,7 @@
 ||lunardoge.finance^
 ||lybrafi.finance^
 ||lynq.finance^
+||major.finance^
 ||makina.finance^
 ||manora.finance^
 ||manuscript.finance^
@@ -455,6 +470,7 @@
 ||onit.finance^
 ||opaldefi.finance^
 ||openfy.finance^
+||openocean-v2.finance^
 ||orbiliter.finance^
 ||orbiteter.finance^
 ||orbititer.finance^
@@ -471,6 +487,7 @@
 ||pantos.finance^
 ||papyrus.finance^
 ||particle-network.finance^
+||pass-pendle.finance^
 ||paveway.finance^
 ||paws-coin.finance^
 ||pay-mail.finance^
@@ -488,6 +505,7 @@
 ||perplexity.finance^
 ||philippi.finance^
 ||piinksales.finance^
+||pinksalei.finance^
 ||pinkslae.finance^
 ||pinkslip.finance^
 ||player.finance^
@@ -507,6 +525,7 @@
 ||prove.finance^
 ||publics.finance^
 ||pugs.finance^
+||pujcka.finance^
 ||purp.finance^
 ||purrfect.finance^
 ||qatari.finance^
@@ -578,10 +597,12 @@
 ||saprk.finance^
 ||satin.finance^
 ||sclv.finance^
+||scranton.finance^
 ||season3-ether.finance^
 ||seedswap.finance^
 ||selenium.finance^
 ||sendit.finance^
+||sendmate.finance^
 ||sensible.finance^
 ||sfx.finance^
 ||shah.finance^
@@ -636,6 +657,7 @@
 ||staking-spark.finance^
 ||staking-summer.finance^
 ||staklng-lido.finance^
+||stargate-v2.finance^
 ||stargeta.finance^
 ||starqate.finance^
 ||stellus.finance^
@@ -708,6 +730,7 @@
 ||tux.finance^
 ||tygr.finance^
 ||unagi.finance^
+||uni-swap.finance^
 ||unionbuild.finance^
 ||ural.finance^
 ||uranus.finance^
@@ -744,6 +767,7 @@
 ||vsg.finance^
 ||w3p.finance^
 ||wagyu.finance^
+||waifu.finance^
 ||waiietconnect.finance^
 ||wallstreetcapital.finance^
 ||warmkey.finance^
@@ -756,6 +780,7 @@
 ||wfa.finance^
 ||whistler.finance^
 ||wibes.finance^
+||wilton.finance^
 ||wink.finance^
 ||winter.finance^
 ||wix.finance^
@@ -771,6 +796,7 @@
 ||xerxes.finance^
 ||xiasi.finance^
 ||xrpbank.finance^
+||xsalepad.finance^
 ||xsc.finance^
 ||xswus.finance^
 ||xtrail.finance^

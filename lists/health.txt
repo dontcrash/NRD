@@ -15,6 +15,7 @@
 ||alacare.health^
 ||allegiance.health^
 ||allthingsmedical.health^
+||alphagel.health^
 ||alphamental.health^
 ||alphavitality.health^
 ||amaya.health^
@@ -39,6 +40,7 @@
 ||beaconofhope.health^
 ||beckley.health^
 ||behaviorchanges.health^
+||betagel.health^
 ||bindingminds.health^
 ||bioarc.health^
 ||bioluma.health^
@@ -51,12 +53,14 @@
 ||canceropportunities.health^
 ||careful.health^
 ||careplushome.health^
+||carewise.health^
 ||cash.health^
 ||causality.health^
 ||centurion.health^
 ||chronos.health^
 ||ciervo.health^
 ||clearsight.health^
+||cnn.health^
 ||compasscirclebehavorialhealth.health^
 ||concannabis.health^
 ||cothera.health^
@@ -74,10 +78,13 @@
 ||deltaops.health^
 ||dendrite.health^
 ||derby.health^
+||dermag.health^
 ||docnote.health^
 ||docology.health^
 ||dreem.health^
 ||drkogan.health^
+||drsurance.health^
+||eazysense.health^
 ||ebilling.health^
 ||ecipl.health^
 ||egisept.health^
@@ -116,6 +123,7 @@
 ||functionalbone.health^
 ||futurewellness.health^
 ||gaia.health^
+||gammagel.health^
 ||garmonorganization.health^
 ||getmovin.health^
 ||getwavo.health^
@@ -131,6 +139,7 @@
 ||greenelement.health^
 ||greenlife.health^
 ||guerrilla.health^
+||guidinghands.health^
 ||guudvision.health^
 ||gynger.health^
 ||habitpath.health^
@@ -139,6 +148,7 @@
 ||harmonizeyour.health^
 ||heal4life.health^
 ||healthcarehacks.health^
+||healthcloud.health^
 ||healthcoach.health^
 ||healthebrain.health^
 ||healthvoyage.health^
@@ -184,7 +194,9 @@
 ||ironbound.health^
 ||ironwoman.health^
 ||jcdhospitality.health^
+||jellyfish.health^
 ||journeys.health^
+||jurni.health^
 ||justice.health^
 ||juvmo.health^
 ||juvmohcp.health^
@@ -193,9 +205,11 @@
 ||khulehealthcare.health^
 ||kibio.health^
 ||kimwellness.health^
+||knit.health^
 ||kroniq.health^
 ||la2028.health^
 ||la28.health^
+||labsurance.health^
 ||labyrinth.health^
 ||lafia.health^
 ||lampcare.health^
@@ -211,6 +225,7 @@
 ||longevitystack.health^
 ||lvls.health^
 ||mannacan.health^
+||markone.health^
 ||masapharma.health^
 ||massagett.health^
 ||maximbiomedical.health^
@@ -229,6 +244,7 @@
 ||mindgear.health^
 ||minervalabs.health^
 ||missinglink.health^
+||monarte.health^
 ||moonbeam.health^
 ||moonshots.health^
 ||moose.health^
@@ -262,6 +278,7 @@
 ||oecp.health^
 ||ohashi.health^
 ||omnya.health^
+||onewellness.health^
 ||onlinecouplestherapy.health^
 ||onpointcare.health^
 ||optimizemd.health^
@@ -272,6 +289,7 @@
 ||peptidesforwomen.health^
 ||performwell.health^
 ||pfccolorado.health^
+||pinnaclemale.health^
 ||planfinder.health^
 ||plucky.health^
 ||popdis.health^
@@ -283,6 +301,7 @@
 ||premiermedical.health^
 ||premierpsych.health^
 ||privacysafe.health^
+||prodentim.health^
 ||provingground.health^
 ||proxy.health^
 ||pulso.health^
@@ -309,6 +328,7 @@
 ||rockstar.health^
 ||ropata.health^
 ||s666.health^
+||sade.health^
 ||sagility.health^
 ||samdsuite.health^
 ||sanctum.health^
@@ -324,6 +344,7 @@
 ||sixpack.health^
 ||sleepplus.health^
 ||slowdeath.health^
+||socio.health^
 ||solventum.health^
 ||sonicaura.health^
 ||southernintegrated.health^
@@ -353,6 +374,7 @@
 ||tissuevault.health^
 ||tradefit.health^
 ||transcribe.health^
+||tribes.health^
 ||trussmedical.health^
 ||turneround.health^
 ||universalai.health^
@@ -364,6 +386,7 @@
 ||wavewellness.health^
 ||wecp.health^
 ||wego.health^
+||weight-loss.health^
 ||welll.health^
 ||wholelifechiro.health^
 ||wildbotanix.health^
@@ -372,5 +395,6 @@
 ||xcal.health^
 ||xstream.health^
 ||yourhealthisnow.health^
+||yutai.health^
 ||zenspa.health^
 ||zyra.health^
