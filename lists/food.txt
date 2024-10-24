@@ -7,7 +7,6 @@
 ||aifood.food^
 ||anatolia.food^
 ||andwich.food^
-||apna.food^
 ||appalachian.food^
 ||aroma.food^
 ||avgr.food^
@@ -19,6 +18,7 @@
 ||bankof.food^
 ||bartola.food^
 ||baskingridgecoop.food^
+||becook.food^
 ||bestel.food^
 ||bestofthealps.food^
 ||betterhalf.food^
@@ -45,7 +45,6 @@
 ||catfood03.food^
 ||catfood88.food^
 ||chefburhan.food^
-||chefshome.food^
 ||chenpi.food^
 ||chicksnwings.food^
 ||chirpy.food^
@@ -66,7 +65,6 @@
 ||degusta.food^
 ||dehesa.food^
 ||delali.food^
-||delicity.food^
 ||dialforchef.food^
 ||diaspo.food^
 ||dieta.food^
@@ -77,7 +75,6 @@
 ||divinetime.food^
 ||dlish.food^
 ||downloadhub.food^
-||drhungry.food^
 ||dron.food^
 ||drying.food^
 ||eatable.food^
@@ -120,6 +117,7 @@
 ||freshandhealthy.food^
 ||freshfree.food^
 ||freshgood.food^
+||fridas.food^
 ||fumi.food^
 ||fyp138.food^
 ||garuda.food^
@@ -140,6 +138,7 @@
 ||greenkytchen.food^
 ||growingpeace.food^
 ||gusta.food^
+||h5texasburgerlisbon.food^
 ||hajde.food^
 ||halally.food^
 ||hanoicuisine.food^
@@ -168,7 +167,6 @@
 ||kbbq.food^
 ||ketokin.food^
 ||khoa.food^
-||kibs.food^
 ||knowyour.food^
 ||kosherboca.food^
 ||kqinspections.food^
@@ -185,7 +183,6 @@
 ||leanleap.food^
 ||london69.food^
 ||louf.food^
-||lovegood.food^
 ||lunchcrunch.food^
 ||maaxit.food^
 ||maewan.food^
@@ -202,7 +199,6 @@
 ||mealium.food^
 ||menue.food^
 ||meraki.food^
-||messer.food^
 ||metabolic.food^
 ||metashop.food^
 ||mettleandmerit.food^
@@ -210,9 +206,11 @@
 ||meya.food^
 ||mindfuel.food^
 ||minimal.food^
+||mobileeats.food^
 ||mollyco.food^
 ||momspick.food^
 ||mukbang.food^
+||mychihuahua.food^
 ||mydailygreens.food^
 ||myhealth.food^
 ||myorganic.food^
@@ -230,6 +228,8 @@
 ||nwarkansas.food^
 ||ocharcoal.food^
 ||ohmy.food^
+||okkitchen.food^
+||oldschool.food^
 ||oomph.food^
 ||orderfree.food^
 ||otlob.food^
@@ -253,7 +253,6 @@
 ||pruetts.food^
 ||qatari.food^
 ||queercuisine.food^
-||quickmenu.food^
 ||quickserve.food^
 ||retails.food^
 ||rethinking.food^
@@ -267,6 +266,7 @@
 ||saopaulo.food^
 ||screamtruck.food^
 ||sheauxfresh.food^
+||shinobi.food^
 ||signaturedish.food^
 ||sj-s.food^
 ||skyblock.food^
@@ -275,18 +275,19 @@
 ||smashers.food^
 ||smile.food^
 ||smokeybrothersbbq.food^
-||snackbox.food^
-||snackboxes.food^
 ||snap.food^
 ||snarkysnacks.food^
 ||soupanatural.food^
 ||souq.food^
+||southwestaliefsoul.food^
 ||spork.food^
 ||sskitchens.food^
 ||stochastic.food^
 ||streats.food^
+||strongscoops.food^
 ||sultanplay77.food^
 ||sunnah.food^
+||sunshineveganpyramid.food^
 ||supanatural.food^
 ||superbowlz.food^
 ||swagath.food^
@@ -311,16 +312,15 @@
 ||toukii.food^
 ||tourist.food^
 ||toxic.food^
-||truefood.food^
 ||tudozero.food^
 ||twenty4.food^
 ||twentyfour.food^
 ||umbrella.food^
 ||unavita.food^
-||unshackled.food^
 ||uptownfarms.food^
 ||utaste.food^
 ||uvibe.food^
+||veganissimo.food^
 ||vegannotvegan.food^
 ||vegano.food^
 ||veggiedelight.food^
@@ -334,7 +334,6 @@
 ||winbet788sea.food^
 ||wp2.food^
 ||wtbs.food^
-||yanina.food^
 ||yeastly.food^
 ||yiyicake.food^
 ||your.food^

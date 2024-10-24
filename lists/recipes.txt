@@ -1,5 +1,4 @@
 ||34hemp.recipes^
-||789win.recipes^
 ||abc8.recipes^
 ||agent.recipes^
 ||aim.recipes^
@@ -12,16 +11,15 @@
 ||cellx.recipes^
 ||cheese.recipes^
 ||cnn.recipes^
-||cocktails.recipes^
 ||coin.recipes^
 ||culina.recipes^
 ||data.recipes^
 ||digitalfoodie.recipes^
 ||drinkme.recipes^
 ||envelopes.recipes^
-||eth.recipes^
 ||fam.recipes^
 ||fave.recipes^
+||flood.recipes^
 ||florida.recipes^
 ||foodings.recipes^
 ||foodprep.recipes^
@@ -29,6 +27,7 @@
 ||functions.recipes^
 ||go99.recipes^
 ||golang.recipes^
+||halarecipes.recipes^
 ||indian.recipes^
 ||instafood.recipes^
 ||italian.recipes^
@@ -39,7 +38,6 @@
 ||littlemountain.recipes^
 ||lovers.recipes^
 ||luxe.recipes^
-||mandspharmaceuticals.recipes^
 ||measure.recipes^
 ||media.recipes^
 ||mexican.recipes^
@@ -51,6 +49,7 @@
 ||nottooshabbycooking.recipes^
 ||ogawagaiko.recipes^
 ||orchestrators.recipes^
+||orgasmicchef.recipes^
 ||pakora.recipes^
 ||pastry.recipes^
 ||persian.recipes^
@@ -78,6 +77,7 @@
 ||thabet.recipes^
 ||usayum.recipes^
 ||uvibe.recipes^
+||vegamovies.recipes^
 ||veggies.recipes^
 ||wearelosing.recipes^
 ||weirdoughskitchen.recipes^
