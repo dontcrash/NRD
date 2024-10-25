@@ -9,10 +9,8 @@
 ||anchorpoint.build^
 ||arjan.build^
 ||artifex.build^
-||astronaut.build^
 ||bana.build^
 ||bartender.build^
-||bauter.build^
 ||bdc.build^
 ||beefy.build^
 ||beone.build^
@@ -34,6 +32,7 @@
 ||curiosity.build^
 ||cusaqe.build^
 ||cytqkf.build^
+||dappie.build^
 ||dimensionerc.build^
 ||distributed.build^
 ||dllseu.build^
@@ -64,7 +63,6 @@
 ||green.build^
 ||grizzly.build^
 ||grug.build^
-||gucci.build^
 ||gvvkip.build^
 ||hitchin.build^
 ||hjdsk.build^
@@ -112,6 +110,7 @@
 ||lohnunion.build^
 ||lux.build^
 ||marcclange.build^
+||maverickdesign.build^
 ||megaproject.build^
 ||memento.build^
 ||metis.build^
@@ -158,8 +157,10 @@
 ||saddleandspur.build^
 ||safearbor.build^
 ||sanggong.build^
+||santamonica.build^
 ||scygwf.build^
 ||sdjhk.build^
+||sentry.build^
 ||sevn.build^
 ||simply.build^
 ||sknow.build^
@@ -183,13 +184,12 @@
 ||tqyoch.build^
 ||tukfpe.build^
 ||txskjl.build^
-||types.build^
 ||typesystem.build^
 ||ufcinc.build^
 ||ujdjs.build^
 ||ujdks.build^
+||unext.build^
 ||uvxtbw.build^
-||versions.build^
 ||vfilwo.build^
 ||vivenda.build^
 ||vkdhs.build^
@@ -197,6 +197,8 @@
 ||watchme.build^
 ||wdsmud.build^
 ||webby.build^
+||webfour.build^
+||whitebox.build^
 ||wkxnqs.build^
 ||wurld.build^
 ||xctsgo.build^
