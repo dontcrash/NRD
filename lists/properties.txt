@@ -4,7 +4,6 @@
 ||abvi.properties^
 ||aspenbyoberoirealty.properties^
 ||astrid.properties^
-||authenticators.properties^
 ||bako.properties^
 ||basiladze.properties^
 ||ben.properties^
@@ -15,12 +14,9 @@
 ||cek.properties^
 ||concurrencies.properties^
 ||confidorealty.properties^
-||cores.properties^
-||corners.properties^
 ||crl.properties^
 ||cross.properties^
 ||df.properties^
-||directs.properties^
 ||dreamestate.properties^
 ||edenbyoberoirealty.properties^
 ||edge.properties^
@@ -28,8 +24,6 @@
 ||environments.properties^
 ||espinozaenterprise.properties^
 ||exchanges.properties^
-||flipkart.properties^
-||flowertown.properties^
 ||galisteo.properties^
 ||goddard.properties^
 ||governments.properties^
@@ -67,8 +61,6 @@
 ||outputs.properties^
 ||page.properties^
 ||papyrusnorthkiara.properties^
-||paraisorealtulum.properties^
-||participants.properties^
 ||pennies.properties^
 ||pike.properties^
 ||projecti.properties^
@@ -78,13 +70,9 @@
 ||realestateadvisors.properties^
 ||realogy.properties^
 ||reliant.properties^
-||rendr.properties^
 ||saandpropertyoffer.properties^
-||schedulers.properties^
-||slatecapital.properties^
 ||solomon.properties^
 ||stack.properties^
-||stealth.properties^
 ||systems.properties^
 ||tirestias.properties^
 ||urbanrise.properties^
@@ -92,4 +80,3 @@
 ||wp2.properties^
 ||yamunaindustrial.properties^
 ||yellowpages.properties^
-||zenora.properties^

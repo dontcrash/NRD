@@ -4,7 +4,6 @@
 ||businesstik.builders^
 ||caliente.builders^
 ||commbank.builders^
-||cryptocurrency.builders^
 ||diet.builders^
 ||disneyplus.builders^
 ||elpais.builders^
@@ -15,10 +14,8 @@
 ||hamburg.builders^
 ||hnlcustom.builders^
 ||hollywoodbets.builders^
-||homesrus.builders^
 ||icicibank.builders^
 ||ika.builders^
-||kaspa.builders^
 ||khaleejtimes.builders^
 ||kissasian.builders^
 ||kutz.builders^
