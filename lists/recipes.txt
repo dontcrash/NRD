@@ -1,6 +1,5 @@
 ||34hemp.recipes^
 ||abc8.recipes^
-||agent.recipes^
 ||aim.recipes^
 ||atmosphere.recipes^
 ||bread.recipes^
@@ -11,9 +10,7 @@
 ||cnn.recipes^
 ||culina.recipes^
 ||data.recipes^
-||digitalfoodie.recipes^
 ||drinkme.recipes^
-||envelopes.recipes^
 ||fam.recipes^
 ||flood.recipes^
 ||foodprep.recipes^
@@ -33,7 +30,6 @@
 ||mexican.recipes^
 ||mindfuel.recipes^
 ||minimal.recipes^
-||nasigoreng.recipes^
 ||newtobrewing.recipes^
 ||nonna.recipes^
 ||nottooshabbycooking.recipes^
@@ -59,13 +55,11 @@
 ||systemd.recipes^
 ||tests.recipes^
 ||texas.recipes^
-||thabet.recipes^
 ||usayum.recipes^
 ||uvibe.recipes^
 ||vegamovies.recipes^
 ||veggies.recipes^
 ||wearelosing.recipes^
-||weirdoughskitchen.recipes^
 ||withlove.recipes^
 ||wiwi.recipes^
 ||wp2.recipes^
