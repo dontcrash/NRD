@@ -3,6 +3,7 @@
 ||aim.recipes^
 ||atmosphere.recipes^
 ||bread.recipes^
+||cabbage.recipes^
 ||cannabischef.recipes^
 ||cannachef.recipes^
 ||cavaleiros.recipes^
@@ -16,7 +17,6 @@
 ||foodprep.recipes^
 ||frenchtoast.recipes^
 ||functions.recipes^
-||golang.recipes^
 ||halarecipes.recipes^
 ||indian.recipes^
 ||italian.recipes^
@@ -29,9 +29,8 @@
 ||media.recipes^
 ||mexican.recipes^
 ||mindfuel.recipes^
-||minimal.recipes^
+||muffin.recipes^
 ||newtobrewing.recipes^
-||nonna.recipes^
 ||nottooshabbycooking.recipes^
 ||ogawagaiko.recipes^
 ||orgasmicchef.recipes^
@@ -41,7 +40,6 @@
 ||prep.recipes^
 ||procedures.recipes^
 ||python.recipes^
-||quickeasyrecipes.recipes^
 ||quickfix.recipes^
 ||reallygreat.recipes^
 ||rosies.recipes^
@@ -54,9 +52,7 @@
 ||stirfry.recipes^
 ||systemd.recipes^
 ||tests.recipes^
-||texas.recipes^
 ||usayum.recipes^
-||uvibe.recipes^
 ||vegamovies.recipes^
 ||veggies.recipes^
 ||wearelosing.recipes^
@@ -64,4 +60,3 @@
 ||wiwi.recipes^
 ||wp2.recipes^
 ||zelda.recipes^
-||zesty.recipes^

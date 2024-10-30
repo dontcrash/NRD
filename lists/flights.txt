@@ -3,10 +3,8 @@
 ||airfares.flights^
 ||airshare.flights^
 ||aviationstrategies.flights^
-||avmic.flights^
 ||bangkok.flights^
 ||benefithub.flights^
-||biplace.flights^
 ||bk8.flights^
 ||check-in.flights^
 ||checkin.flights^
@@ -23,10 +21,12 @@
 ||gamespike.flights^
 ||hologram.flights^
 ||hypersonicjet.flights^
+||joseph.flights^
 ||ko66.flights^
 ||lao.flights^
 ||monero.flights^
 ||moonlight.flights^
+||nomadic.flights^
 ||onchain.flights^
 ||organ.flights^
 ||orlando.flights^
@@ -38,6 +38,7 @@
 ||robot.flights^
 ||savvy.flights^
 ||surfasone.flights^
+||trip.flights^
 ||uas.flights^
 ||uglycheap.flights^
 ||wa88-vip.flights^
