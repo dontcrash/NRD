@@ -1,8 +1,10 @@
 ||anya.observer^
 ||blick.observer^
+||cascadia.observer^
 ||cnn.observer^
 ||coin.observer^
 ||coursera.observer^
+||deadlock.observer^
 ||deinos.observer^
 ||depin.observer^
 ||designsystems.observer^
@@ -17,5 +19,6 @@
 ||skyblock.observer^
 ||spec.observer^
 ||streamingcommunity.observer^
+||sudo.observer^
 ||tb.observer^
 ||vox.observer^

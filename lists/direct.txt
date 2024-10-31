@@ -13,7 +13,6 @@
 ||approximations.direct^
 ||approximators.direct^
 ||arena.direct^
-||arrays.direct^
 ||assemble.direct^
 ||astra.direct^
 ||b2u.direct^
@@ -31,7 +30,7 @@
 ||cake.direct^
 ||casibom.direct^
 ||chauffage.direct^
-||cheztoi.direct^
+||cleans.direct^
 ||coach.direct^
 ||code.direct^
 ||codebases.direct^
@@ -81,13 +80,11 @@
 ||hormones.direct^
 ||icici.direct^
 ||idrpoker.direct^
-||integrity.direct^
 ||intelligence.direct^
 ||intentions.direct^
 ||iot.direct^
 ||itraffic.direct^
 ||japa.direct^
-||jason.direct^
 ||joeper.direct^
 ||keendom.direct^
 ||kingsize.direct^
@@ -111,6 +108,7 @@
 ||movers.direct^
 ||mymaterials.direct^
 ||networks.direct^
+||niyoti.direct^
 ||nvl.direct^
 ||onchain.direct^
 ||onlybags.direct^
@@ -124,7 +122,6 @@
 ||perfectskin.direct^
 ||pest.direct^
 ||ploom.direct^
-||pointclouds.direct^
 ||premier.direct^
 ||programming.direct^
 ||puppies.direct^
@@ -132,6 +129,7 @@
 ||qisksports.direct^
 ||quantnu.direct^
 ||rabbit.direct^
+||ray.direct^
 ||razzledazzle.direct^
 ||razzledazzleholidays.direct^
 ||razzledazzlehome.direct^
@@ -147,7 +145,6 @@
 ||representations.direct^
 ||rezerv.direct^
 ||roofmotors.direct^
-||root.direct^
 ||safari.direct^
 ||savannahrent.direct^
 ||savant.direct^
@@ -164,10 +161,8 @@
 ||smashface.direct^
 ||solaire.direct^
 ||southernafrica.direct^
-||spencermarcu.direct^
 ||sportsmegaevents.direct^
 ||staffing.direct^
-||star.direct^
 ||subbies.direct^
 ||suryajayaautopart.direct^
 ||suzuki.direct^
@@ -196,7 +191,6 @@
 ||wade.direct^
 ||wearedavy.direct^
 ||web2roi.direct^
-||webdev.direct^
 ||wehaul.direct^
 ||wishbone.direct^
 ||wishlist.direct^

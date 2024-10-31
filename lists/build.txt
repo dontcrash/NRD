@@ -4,7 +4,6 @@
 ||aisd.build^
 ||alpaca.build^
 ||alphaconstructions.build^
-||anchorpoint.build^
 ||ars.build^
 ||artifex.build^
 ||bana.build^
@@ -18,15 +17,13 @@
 ||cerebrius.build^
 ||city.build^
 ||ckfzst.build^
-||cohort.build^
-||columnar.build^
-||compaas.build^
 ||crqhom.build^
 ||cruxcontrol.build^
 ||curiosity.build^
 ||cusaqe.build^
 ||cytqkf.build^
 ||dappie.build^
+||denis.build^
 ||dimensionerc.build^
 ||dllseu.build^
 ||dmg.build^
@@ -51,7 +48,6 @@
 ||gladi.build^
 ||glnxpy.build^
 ||golang.build^
-||green.build^
 ||grizzly.build^
 ||gust.build^
 ||gvvkip.build^
@@ -90,9 +86,7 @@
 ||kustom.build^
 ||kxyjzc.build^
 ||land.build^
-||landbase.build^
 ||lavender.build^
-||leinea.build^
 ||lgrwne.build^
 ||linera.build^
 ||lkbrothers.build^
@@ -101,7 +95,6 @@
 ||lux.build^
 ||marcclange.build^
 ||maverickdesign.build^
-||memento.build^
 ||mister.build^
 ||mnzdls.build^
 ||mozaik.build^
