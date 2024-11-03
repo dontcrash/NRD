@@ -1,6 +1,8 @@
 ||benchmark.new^
+||bloom.new^
 ||bob.new^
 ||bold.new^
+||brainbox.new^
 ||builder.new^
 ||campus.new^
 ||chamber.new^
@@ -18,7 +20,9 @@
 ||orbit.new^
 ||org.new^
 ||parimatch.new^
+||prompt.new^
 ||property.new^
+||rethink.new^
 ||rooms.new^
 ||runnable.new^
 ||sdk.new^
