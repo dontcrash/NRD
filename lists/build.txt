@@ -4,8 +4,10 @@
 ||aisd.build^
 ||alpaca.build^
 ||alphaconstructions.build^
+||armada.build^
 ||ars.build^
 ||artifex.build^
+||backend.build^
 ||bana.build^
 ||bartender.build^
 ||beefy.build^
@@ -15,6 +17,8 @@
 ||bzdehh.build^
 ||cerebrius.build^
 ||ckfzst.build^
+||commonground.build^
+||consenlabs.build^
 ||crqhom.build^
 ||cruxcontrol.build^
 ||curiosity.build^
@@ -22,10 +26,10 @@
 ||cytqkf.build^
 ||dappie.build^
 ||denis.build^
-||dimensionerc.build^
 ||dllseu.build^
 ||dn4d.build^
 ||doma.build^
+||dps.build^
 ||enodia.build^
 ||eporan.build^
 ||ernxcr.build^
@@ -77,6 +81,7 @@
 ||jyjoep.build^
 ||keonhacai.build^
 ||kingdomrenovation.build^
+||koi.build^
 ||kpxytf.build^
 ||ksytax.build^
 ||kustom.build^
@@ -132,11 +137,11 @@
 ||scygwf.build^
 ||sdjhk.build^
 ||sentry.build^
+||serval.build^
 ||sevn.build^
 ||simply.build^
 ||smol.build^
 ||sns.build^
-||sol.build^
 ||sonr.build^
 ||spindl.build^
 ||steanx.build^
@@ -158,6 +163,7 @@
 ||ujdks.build^
 ||unext.build^
 ||uvxtbw.build^
+||verticaledge.build^
 ||vfilwo.build^
 ||vkdhs.build^
 ||volknw.build^
