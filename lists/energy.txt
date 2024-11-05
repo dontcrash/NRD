@@ -34,7 +34,6 @@
 ||anderson.energy^
 ||ankh.energy^
 ||anti.energy^
-||aquafuelenergydrink.energy^
 ||asia.energy^
 ||asm.energy^
 ||asthemeterturns.energy^
@@ -50,13 +49,10 @@
 ||bipola.energy^
 ||blueheron.energy^
 ||bluesun.energy^
-||boosah.energy^
-||bpoint.energy^
 ||br-erco.energy^
 ||bulk.energy^
 ||burn.energy^
 ||bvgi.energy^
-||cadillac.energy^
 ||caeli-solar.energy^
 ||caelisolar.energy^
 ||cairn.energy^
@@ -68,16 +64,15 @@
 ||caspian.energy^
 ||cassolar.energy^
 ||cba.energy^
-||chaos.energy^
 ||chargeit.energy^
 ||chenxiseo.energy^
-||cineblog01.energy^
 ||cleanpowerpartners.energy^
 ||clevergreen.energy^
 ||cnx.energy^
 ||commercialrate.energy^
 ||company.energy^
 ||condnuctive.energy^
+||conseils.energy^
 ||consults.energy^
 ||coremax.energy^
 ||cornwall.energy^
@@ -133,7 +128,6 @@
 ||elonpowersave.energy^
 ||eltip.energy^
 ||elyos.energy^
-||empire.energy^
 ||empty.energy^
 ||emr.energy^
 ||energetickespolecenstvi.energy^
@@ -150,7 +144,6 @@
 ||entrepreneurs.energy^
 ||enzo.energy^
 ||epcsolaraz.energy^
-||epiq.energy^
 ||eqodrive.energy^
 ||erco-br.energy^
 ||ercos.energy^
@@ -159,7 +152,6 @@
 ||essdata.energy^
 ||eterna.energy^
 ||etron.energy^
-||eugrid.energy^
 ||euroflex.energy^
 ||everon.energy^
 ||eversol.energy^
@@ -182,6 +174,7 @@
 ||flipside.energy^
 ||flock.energy^
 ||floridagreen.energy^
+||forerunner.energy^
 ||fortem.energy^
 ||fortico.energy^
 ||fpbzk.energy^
@@ -196,7 +189,6 @@
 ||gaelexl.energy^
 ||games.energy^
 ||garudapower.energy^
-||geometric.energy^
 ||getelyos.energy^
 ||gherman.energy^
 ||ghost.energy^
@@ -220,13 +212,14 @@
 ||greenkinetic.energy^
 ||greennova.energy^
 ||gridforward.energy^
+||gridwise.energy^
+||grovesfellowship.energy^
 ||gsp.energy^
 ||guatemalasolar.energy^
 ||gzero.energy^
 ||h2revolution.energy^
 ||handson.energy^
 ||harmless.energy^
-||hbhs.energy^
 ||helalixir.energy^
 ||helia.energy^
 ||hellu.energy^
@@ -238,6 +231,7 @@
 ||hlskz.energy^
 ||holo.energy^
 ||homeenergyratingsystem.energy^
+||honeycomb.energy^
 ||hotpot.energy^
 ||houseof.energy^
 ||hukfd.energy^
@@ -246,12 +240,11 @@
 ||hydrogenx.energy^
 ||hydrostore.energy^
 ||hypercharge.energy^
-||hyprotech.energy^
-||ifuel.energy^
 ||ig.energy^
 ||illuminate.energy^
 ||inalp.energy^
 ||indy.energy^
+||inertial.energy^
 ||inesco.energy^
 ||infinity-power.energy^
 ||infisol.energy^
@@ -287,6 +280,7 @@
 ||kylan.energy^
 ||leccy.energy^
 ||leroi.energy^
+||lgfp.energy^
 ||lhkdc.energy^
 ||lhuai.energy^
 ||linksolar.energy^
@@ -313,10 +307,8 @@
 ||mayak.energy^
 ||mbl.energy^
 ||mbr.energy^
-||mcbride.energy^
 ||meg.energy^
 ||mentium.energy^
-||meritadvisors.energy^
 ||met.energy^
 ||metamax.energy^
 ||metis.energy^
@@ -332,6 +324,7 @@
 ||monticello.energy^
 ||mooren.energy^
 ||moova.energy^
+||motion.energy^
 ||movingforward.energy^
 ||mulag.energy^
 ||must.energy^
@@ -347,6 +340,7 @@
 ||nexvia.energy^
 ||nfts.energy^
 ||nico.energy^
+||nimba.energy^
 ||nitrogen.energy^
 ||nkn.energy^
 ||nongravity.energy^
@@ -392,7 +386,9 @@
 ||pickleball.energy^
 ||pipedream.energy^
 ||plen.energy^
+||plugo.energy^
 ||pontus.energy^
+||popal.energy^
 ||popower.energy^
 ||positivezero.energy^
 ||povverupgreen.energy^
@@ -412,7 +408,6 @@
 ||principle.energy^
 ||profuturo.energy^
 ||propowersave.energy^
-||protect.energy^
 ||prsolar.energy^
 ||pumsj.energy^
 ||puregrid.energy^
@@ -420,7 +415,6 @@
 ||puzzle.energy^
 ||qi.energy^
 ||qigong.energy^
-||quality.energy^
 ||quantumguard.energy^
 ||questra.energy^
 ||rainbowsolar.energy^
@@ -430,7 +424,6 @@
 ||re-up.energy^
 ||re360.energy^
 ||recover.energy^
-||redwood.energy^
 ||refreshing.energy^
 ||regenesys.energy^
 ||reinvent.energy^
@@ -442,7 +435,6 @@
 ||rf.energy^
 ||risen.energy^
 ||robotaxi.energy^
-||roughneck.energy^
 ||routine.energy^
 ||rugged.energy^
 ||rzjab.energy^
@@ -476,7 +468,6 @@
 ||solarskinz.energy^
 ||solarvolt.energy^
 ||solarwind.energy^
-||solarxpress.energy^
 ||solary.energy^
 ||solax.energy^
 ||solidaridad.energy^
@@ -520,13 +511,16 @@
 ||third.energy^
 ||thoughtfuel.energy^
 ||thunderbird.energy^
+||tmp.energy^
 ||torann.energy^
 ||toroidal.energy^
 ||touch.energy^
 ||transact.energy^
+||trast.energy^
 ||tripleedge.energy^
 ||tronless.energy^
 ||tupismo.energy^
+||twin.energy^
 ||twotheta.energy^
 ||u888.energy^
 ||uloop.energy^
@@ -540,10 +534,10 @@
 ||urano.energy^
 ||uranouranium.energy^
 ||us-octopus.energy^
+||us1-octopus.energy^
 ||utility4u.energy^
 ||uyfxb.energy^
 ||vacamuerta.energy^
-||verity.energy^
 ||vero-geothermal.energy^
 ||verogeothermal.energy^
 ||visionpower.energy^
@@ -560,6 +554,8 @@
 ||vyom.energy^
 ||waterloop.energy^
 ||wavegen.energy^
+||we-make.energy^
+||wellness4good.energy^
 ||werheid.energy^
 ||wh2.energy^
 ||windfall.energy^

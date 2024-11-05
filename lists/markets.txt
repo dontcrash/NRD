@@ -32,7 +32,6 @@
 ||boots.markets^
 ||bought.markets^
 ||btcs.markets^
-||builder.markets^
 ||buyers.markets^
 ||buyside.markets^
 ||c0m.markets^
@@ -47,13 +46,16 @@
 ||casino.markets^
 ||cbk.markets^
 ||centralshop.markets^
+||cheats.markets^
 ||codes.markets^
 ||coinmarketcap.markets^
 ||commbank.markets^
 ||commit.markets^
 ||cooked.markets^
 ||crack.markets^
+||cryptonews.markets^
 ||cryptos.markets^
+||ctf.markets^
 ||cuevana3.markets^
 ||cum.markets^
 ||curious.markets^
@@ -104,6 +106,7 @@
 ||gmx.markets^
 ||go2.markets^
 ||guardaserie.markets^
+||haraj.markets^
 ||healbro.markets^
 ||helpers.markets^
 ||hkjc.markets^
@@ -160,7 +163,6 @@
 ||movierulz.markets^
 ||moviesda.markets^
 ||mp4moviez.markets^
-||muffin.markets^
 ||mycomms.markets^
 ||national-lottery.markets^
 ||nationallottery.markets^
