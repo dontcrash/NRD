@@ -42,6 +42,7 @@
 ||canadiantire.delivery^
 ||canna-runner.delivery^
 ||card.delivery^
+||careplan.delivery^
 ||cart.delivery^
 ||cartready.delivery^
 ||cbk.delivery^
@@ -92,7 +93,6 @@
 ||fastfit.delivery^
 ||fastforward.delivery^
 ||feedback.delivery^
-||filmyzilla.delivery^
 ||flipkart.delivery^
 ||flor.delivery^
 ||focus.delivery^
@@ -112,15 +112,14 @@
 ||gls-pakete.delivery^
 ||gmx.delivery^
 ||grass.delivery^
+||greenlane.delivery^
 ||greenlife.delivery^
 ||greenmode.delivery^
 ||gut.delivery^
 ||gww.delivery^
 ||hart.delivery^
 ||haulr.delivery^
-||hdhub4u.delivery^
 ||heart.delivery^
-||heaven.delivery^
 ||hello88.delivery^
 ||hh.delivery^
 ||hiphop.delivery^
@@ -151,7 +150,6 @@
 ||kfc-cyprus.delivery^
 ||khaleejtimes.delivery^
 ||kicker.delivery^
-||kingofmarijuana.delivery^
 ||kirana.delivery^
 ||kissasian.delivery^
 ||kleinanzeigen.delivery^
@@ -177,6 +175,7 @@
 ||minecraftgamese.delivery^
 ||missav.delivery^
 ||mission.delivery^
+||movies4u.delivery^
 ||mrroomservice.delivery^
 ||mue.delivery^
 ||multi.delivery^
@@ -211,13 +210,13 @@
 ||pokerstars.delivery^
 ||pow.delivery^
 ||premierleague.delivery^
+||pryvit.delivery^
 ||pumpkins.delivery^
 ||pwp.delivery^
 ||qc.delivery^
 ||qtrpost.delivery^
 ||redbike.delivery^
 ||resultadofacil.delivery^
-||rewards.delivery^
 ||rio.delivery^
 ||robotaxi.delivery^
 ||room.delivery^
@@ -254,7 +253,6 @@
 ||tech.delivery^
 ||theflowerstation.delivery^
 ||tief.delivery^
-||tor.delivery^
 ||trackdrone.delivery^
 ||transnet-parcel.delivery^
 ||transnetparcel.delivery^
