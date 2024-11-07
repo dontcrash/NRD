@@ -4,7 +4,6 @@
 ||7dollar.delivery^
 ||88.delivery^
 ||88clb.delivery^
-||99.delivery^
 ||abc8.delivery^
 ||aerial.delivery^
 ||ai-powered.delivery^
@@ -33,7 +32,7 @@
 ||blackwell.delivery^
 ||blazexpress.delivery^
 ||bmo.delivery^
-||bonbini.delivery^
+||bolakita.delivery^
 ||buffet.delivery^
 ||burger.delivery^
 ||cadiz.delivery^
@@ -83,6 +82,8 @@
 ||ecommerce.delivery^
 ||ee88.delivery^
 ||email.delivery^
+||embalagens.delivery^
+||embalagensmacro.delivery^
 ||empowerfresh.delivery^
 ||england.delivery^
 ||espn.delivery^
@@ -98,16 +99,15 @@
 ||focus.delivery^
 ||freedom.delivery^
 ||freelunch.delivery^
-||frozentreats.delivery^
 ||ft.delivery^
 ||futbol.delivery^
 ||fute.delivery^
 ||futebol.delivery^
 ||g1.delivery^
-||gastroterroir.delivery^
 ||github.delivery^
 ||globalexpress.delivery^
 ||globalguide.delivery^
+||globallink.delivery^
 ||globalnews.delivery^
 ||gls-pakete.delivery^
 ||gmx.delivery^
@@ -155,6 +155,7 @@
 ||kleinanzeigen.delivery^
 ||kpp.delivery^
 ||ku.delivery^
+||kwench.delivery^
 ||lady.delivery^
 ||lapresse.delivery^
 ||lawson.delivery^
@@ -167,7 +168,10 @@
 ||lovecountysunchokes.delivery^
 ||luluhypermarket.delivery^
 ||macarena.delivery^
+||macroatacarejo.delivery^
+||macroembalagens.delivery^
 ||malaga.delivery^
+||managed.delivery^
 ||mbak4d2.delivery^
 ||mbc.delivery^
 ||mempool.delivery^
@@ -200,9 +204,7 @@
 ||owd.delivery^
 ||oxe.delivery^
 ||paella.delivery^
-||pgeon.delivery^
 ||phi.delivery^
-||pho24.delivery^
 ||pinayflix.delivery^
 ||pitstop.delivery^
 ||planted.delivery^
@@ -214,7 +216,6 @@
 ||pumpkins.delivery^
 ||pwp.delivery^
 ||qc.delivery^
-||qtrpost.delivery^
 ||redbike.delivery^
 ||resultadofacil.delivery^
 ||rio.delivery^
@@ -232,7 +233,6 @@
 ||sberbank.delivery^
 ||scotiabank.delivery^
 ||select.delivery^
-||sending.delivery^
 ||seoul.delivery^
 ||serasa.delivery^
 ||sevilla.delivery^
@@ -253,7 +253,7 @@
 ||tech.delivery^
 ||theflowerstation.delivery^
 ||tief.delivery^
-||trackdrone.delivery^
+||toiletpaper.delivery^
 ||transnet-parcel.delivery^
 ||transnetparcel.delivery^
 ||tubesafari.delivery^

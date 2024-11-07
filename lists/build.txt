@@ -1,5 +1,5 @@
-||88clb.build^
 ||ai-powered.build^
+||aidev.build^
 ||alphaconstructions.build^
 ||armada.build^
 ||ars.build^
@@ -13,6 +13,7 @@
 ||ckfzst.build^
 ||commonground.build^
 ||consenlabs.build^
+||cottonwoodconstruction.build^
 ||crqhom.build^
 ||cruxcontrol.build^
 ||curiosity.build^
@@ -51,10 +52,10 @@
 ||hmojgi.build^
 ||hndsk.build^
 ||hngsd.build^
-||holdfast.build^
 ||holo-trip.build^
 ||hologram.build^
 ||homehero.build^
+||horde.build^
 ||hpjefk.build^
 ||htkphb.build^
 ||hxyar.build^
@@ -79,6 +80,7 @@
 ||koi.build^
 ||kpxytf.build^
 ||ksytax.build^
+||kube.build^
 ||kustom.build^
 ||kxyjzc.build^
 ||land.build^
@@ -98,7 +100,6 @@
 ||nexus.build^
 ||nhdso.build^
 ||nicerockets.build^
-||nightly.build^
 ||nikos.build^
 ||nitro.build^
 ||njbsmo.build^
@@ -108,6 +109,7 @@
 ||openlab.build^
 ||ovexwx.build^
 ||pageme.build^
+||pgslot.build^
 ||pkthey.build^
 ||plcdesign.build^
 ||plttpr.build^
@@ -141,7 +143,6 @@
 ||spawn.build^
 ||spindl.build^
 ||steanx.build^
-||steelstructures.build^
 ||surveynaut.build^
 ||tbjbhy.build^
 ||teal.build^
@@ -167,6 +168,7 @@
 ||volknw.build^
 ||watchme.build^
 ||wdsmud.build^
+||webble.build^
 ||webfour.build^
 ||whitebox.build^
 ||wkxnqs.build^
