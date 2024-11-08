@@ -3,7 +3,6 @@
 ||alfabank.builders^
 ||bancoestado.builders^
 ||bmo.builders^
-||businesstik.builders^
 ||caliente.builders^
 ||commbank.builders^
 ||disneyplus.builders^
@@ -15,7 +14,6 @@
 ||fyihomes.builders^
 ||gurugram.builders^
 ||hamburg.builders^
-||hnlcustom.builders^
 ||hollywoodbets.builders^
 ||i9bet.builders^
 ||icicibank.builders^
@@ -25,13 +23,10 @@
 ||kissasian.builders^
 ||kutz.builders^
 ||livedoor.builders^
-||lowrider.builders^
 ||nacho.builders^
 ||noida.builders^
 ||nomad.builders^
-||pristine.builders^
 ||remix.builders^
-||remote.builders^
 ||santander.builders^
 ||sberbank.builders^
 ||serasa.builders^
@@ -39,7 +34,5 @@
 ||svt.builders^
 ||thai.builders^
 ||uol.builders^
-||utahcustomdeck.builders^
-||utahdeck.builders^
 ||youm7.builders^
 ||zdf.builders^
