@@ -19,6 +19,7 @@
 ||airloop.energy^
 ||aktivnizakaznik.energy^
 ||alco.energy^
+||aleo.energy^
 ||alfazalsolar.energy^
 ||allfl.energy^
 ||allflorida.energy^
@@ -33,7 +34,6 @@
 ||ankh.energy^
 ||anti.energy^
 ||asia.energy^
-||asm.energy^
 ||asthemeterturns.energy^
 ||atlantis.energy^
 ||aton.energy^
@@ -45,7 +45,7 @@
 ||bartonknight.energy^
 ||beyfin.energy^
 ||blueheron.energy^
-||br-erco.energy^
+||brandenpower.energy^
 ||bulk.energy^
 ||bvgi.energy^
 ||caeli-solar.energy^
@@ -77,9 +77,11 @@
 ||credits.energy^
 ||creoby.energy^
 ||crisis.energy^
+||cxo.energy^
 ||cybercab.energy^
 ||czystepowietrze.energy^
 ||dabbson.energy^
+||daedalus.energy^
 ||dantian.energy^
 ||datacenterpower.energy^
 ||dateenergy.energy^
@@ -89,6 +91,7 @@
 ||daynight.energy^
 ||derapi.energy^
 ||di.energy^
+||dieselpower.energy^
 ||dihydrogen.energy^
 ||dinergy.energy^
 ||distribution.energy^
@@ -126,8 +129,10 @@
 ||enflec.energy^
 ||enform.energy^
 ||engen.energy^
+||enigmax.energy^
 ||enopty.energy^
 ||entrepreneurs.energy^
+||environmentalcarbonorganisation.energy^
 ||epcsolaraz.energy^
 ||eqodrive.energy^
 ||erco-br.energy^
@@ -144,6 +149,7 @@
 ||evtol.energy^
 ||exanov.energy^
 ||exclusive.energy^
+||fbi.energy^
 ||fiat-lux.energy^
 ||flexex.energy^
 ||flexhome.energy^
@@ -166,6 +172,7 @@
 ||fusionjolt.energy^
 ||fusionworks.energy^
 ||futurax.energy^
+||futurefuel.energy^
 ||gaele-xl.energy^
 ||gaelexl.energy^
 ||games.energy^
@@ -181,7 +188,6 @@
 ||glp1.energy^
 ||go-perpetua.energy^
 ||go-renewable.energy^
-||goodwe.energy^
 ||gpg.energy^
 ||grantstrem.energy^
 ||graphitic.energy^
@@ -197,7 +203,6 @@
 ||gridforward.energy^
 ||gridwise.energy^
 ||grovesfellowship.energy^
-||gsp.energy^
 ||guatemalasolar.energy^
 ||gzero.energy^
 ||h2revolution.energy^
@@ -244,7 +249,6 @@
 ||jtm.energy^
 ||jullix.energy^
 ||jxplx.energy^
-||kalanchak.energy^
 ||kau.energy^
 ||kemet.energy^
 ||kemio.energy^
@@ -261,13 +265,12 @@
 ||kuifc.energy^
 ||kwt.energy^
 ||kylan.energy^
+||layer.energy^
 ||leccy.energy^
 ||leroi.energy^
 ||lgfp.energy^
 ||lhkdc.energy^
 ||lhuai.energy^
-||linksolar.energy^
-||liu.energy^
 ||lkyna.energy^
 ||llama.energy^
 ||lostinthought.energy^
@@ -300,7 +303,6 @@
 ||mikmak24.energy^
 ||milf.energy^
 ||mitos.energy^
-||mnd.energy^
 ||mooren.energy^
 ||moova.energy^
 ||motion.energy^
@@ -314,7 +316,6 @@
 ||netzerodata.energy^
 ||neuquen.energy^
 ||newsunenergy.energy^
-||nexvia.energy^
 ||nimba.energy^
 ||nitrogen.energy^
 ||nkn.energy^
@@ -331,13 +332,15 @@
 ||octopis.energy^
 ||octopuss.energy^
 ||octoupus.energy^
+||odingear.energy^
 ||oleo.energy^
 ||ongrid.energy^
 ||ontap.energy^
 ||onyze.energy^
+||operatingpartner.energy^
+||opsite.energy^
 ||option.energy^
 ||orang.energy^
-||orbit.energy^
 ||ornr.energy^
 ||owex.energy^
 ||ownyourpowur.energy^
@@ -375,7 +378,6 @@
 ||pragma.energy^
 ||pragmarenewable.energy^
 ||principium.energy^
-||principle.energy^
 ||profuturo.energy^
 ||propowersave.energy^
 ||prsolar.energy^
@@ -384,20 +386,23 @@
 ||puzzle.energy^
 ||qi.energy^
 ||qigong.energy^
+||quantumequity.energy^
 ||quantumguard.energy^
 ||questra.energy^
 ||rainbowsolar.energy^
 ||rangkaian.energy^
+||ravigreen.energy^
 ||rdsolar.energy^
 ||re-up.energy^
 ||recover.energy^
-||regenesys.energy^
 ||reinvent.energy^
 ||relaxing.energy^
 ||reliance.energy^
 ||rencon.energy^
 ||renegade.energy^
+||reststrom.energy^
 ||rf.energy^
+||roadline.energy^
 ||robotaxi.energy^
 ||rugged.energy^
 ||rzjab.energy^
@@ -405,6 +410,9 @@
 ||savetheplanet.energy^
 ||say.energy^
 ||schneider.energy^
+||science-foundry.energy^
+||science.energy^
+||sciencefoundry.energy^
 ||scrub.energy^
 ||sealco.energy^
 ||secondhusband.energy^
@@ -432,6 +440,7 @@
 ||solisinverters.energy^
 ||solmates.energy^
 ||solv.energy^
+||sono.energy^
 ||southerncross.energy^
 ||spawn.energy^
 ||specific.energy^
@@ -478,9 +487,7 @@
 ||u888.energy^
 ||uloop.energy^
 ||uluniu.energy^
-||unipereducation.energy^
 ||unlper.energy^
-||unmatched.energy^
 ||up2you.energy^
 ||ur.energy^
 ||urano.energy^
@@ -490,8 +497,10 @@
 ||utility4u.energy^
 ||uyfxb.energy^
 ||vacamuerta.energy^
+||valley.energy^
 ||vero-geothermal.energy^
 ||verogeothermal.energy^
+||versus.energy^
 ||visionpower.energy^
 ||vitaleco.energy^
 ||vitamins.energy^
@@ -513,6 +522,7 @@
 ||wrg.energy^
 ||wundercapital.energy^
 ||wunderpower.energy^
+||x20solar.energy^
 ||xener.energy^
 ||xodlx.energy^
 ||xpsfk.energy^

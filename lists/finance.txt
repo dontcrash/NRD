@@ -16,7 +16,6 @@
 ||alltoall.finance^
 ||alternates.finance^
 ||ambient.finance^
-||aml-bot.finance^
 ||aml.finance^
 ||amn.finance^
 ||ancora.finance^
@@ -29,7 +28,6 @@
 ||app-pendle.finance^
 ||app-penedle.finance^
 ||app-plena.finance^
-||app-spectra.finance^
 ||appkamin.finance^
 ||area.finance^
 ||aries.finance^
@@ -45,7 +43,6 @@
 ||babygoatsol.finance^
 ||balencar.finance^
 ||bancor.finance^
-||bar.finance^
 ||basedai.finance^
 ||basedbrett.finance^
 ||basedmoney.finance^
@@ -54,7 +51,6 @@
 ||bastard.finance^
 ||bbb.finance^
 ||bbbaa.finance^
-||beauty.finance^
 ||bee.finance^
 ||beefy-v2.finance^
 ||beefyy.finance^
@@ -76,13 +72,11 @@
 ||bool.finance^
 ||bots.finance^
 ||bounde.finance^
-||bourgeois.finance^
 ||bowave.finance^
 ||bra.finance^
 ||breakthrough.finance^
 ||breezy.finance^
 ||brewster.finance^
-||brisbanecaveatloans.finance^
 ||btcbank.finance^
 ||btcdirect.finance^
 ||btcpay.finance^
@@ -148,7 +142,6 @@
 ||decomp.finance^
 ||deepmaze.finance^
 ||derivative.finance^
-||deusvult.finance^
 ||deve.finance^
 ||devops.finance^
 ||dexscreener.finance^
@@ -160,7 +153,6 @@
 ||dynastyswap.finance^
 ||eadx.finance^
 ||easycrypto.finance^
-||einvoicing.finance^
 ||eko.finance^
 ||electric.finance^
 ||eligibility-aave.finance^
@@ -169,7 +161,6 @@
 ||embedding.finance^
 ||empero.finance^
 ||empireo.finance^
-||entr.finance^
 ||ethena-liquilfi.finance^
 ||ethena-liqulfi.finance^
 ||ethera.finance^
@@ -232,7 +223,6 @@
 ||invader.finance^
 ||invensa.finance^
 ||investai.finance^
-||invoicing.finance^
 ||inway.finance^
 ||islamiq.finance^
 ||j2.finance^
@@ -266,7 +256,6 @@
 ||linklend.finance^
 ||liquidations-aave.finance^
 ||liquidlayer.finance^
-||liquifyi.finance^
 ||liquilfi.finance^
 ||liquity.finance^
 ||lll.finance^
@@ -281,9 +270,7 @@
 ||manora.finance^
 ||mash.finance^
 ||maxstake.finance^
-||mbl.finance^
 ||medni.finance^
-||melbournecaveatloans.finance^
 ||mematic.finance^
 ||memetica.finance^
 ||memewrap.finance^
@@ -299,7 +286,6 @@
 ||molie.finance^
 ||monark.finance^
 ||montaignepatrimoine.finance^
-||moodeng.finance^
 ||mooncake.finance^
 ||moscar.finance^
 ||mount.finance^
@@ -317,13 +303,11 @@
 ||nodo.finance^
 ||noname.finance^
 ||nrcapital.finance^
-||nswcaveatloans.finance^
 ||nume.finance^
 ||nummus.finance^
 ||obtriter.finance^
 ||offline.finance^
 ||ompound.finance^
-||onedot1.finance^
 ||ontra.finance^
 ||ooc.finance^
 ||op.finance^
@@ -350,7 +334,6 @@
 ||patrimonio.finance^
 ||paul.finance^
 ||payback.finance^
-||paycrypto.finance^
 ||payper.finance^
 ||pebbles.finance^
 ||pendle-lrt.finance^
@@ -371,7 +354,6 @@
 ||primeswap.finance^
 ||profitplus.finance^
 ||profitstation.finance^
-||proposal-velodrome.finance^
 ||prospers.finance^
 ||prudentials.finance^
 ||prune.finance^
@@ -379,7 +361,6 @@
 ||pugs.finance^
 ||pujcka.finance^
 ||qilin.finance^
-||qldcaveatloans.finance^
 ||qqq.finance^
 ||qualitative.finance^
 ||quarry.finance^
@@ -399,8 +380,6 @@
 ||roopyaa.finance^
 ||rosfin.finance^
 ||roundtable.finance^
-||rtc.finance^
-||runes.finance^
 ||ryn.finance^
 ||safu.finance^
 ||salamah.finance^
@@ -461,7 +440,6 @@
 ||swiftly.finance^
 ||swissnordic.finance^
 ||swisssolar.finance^
-||sydneycaveatloans.finance^
 ||symbiiosis.finance^
 ||symbiosiss.finance^
 ||symmbiosis.finance^
@@ -475,11 +453,8 @@
 ||tgscarsales.finance^
 ||thegoblins.finance^
 ||thepac.finance^
-||thershold.finance^
 ||theyfiv.finance^
-||thezenith.finance^
 ||thinkenergy.finance^
-||threshoid.finance^
 ||thrhruster.finance^
 ||thtrturster.finance^
 ||thuglife.finance^
@@ -497,9 +472,7 @@
 ||trending.finance^
 ||trhrhursrter.finance^
 ||trhrurshter.finance^
-||trhrursrter.finance^
 ||trhrurstrer.finance^
-||trhrusrtrer.finance^
 ||trhrutster.finance^
 ||trloop.finance^
 ||tru.finance^
@@ -509,7 +482,6 @@
 ||tst.finance^
 ||tsx.finance^
 ||tubecorps.finance^
-||tux.finance^
 ||tvl-aerodrome.finance^
 ||unami.finance^
 ||unclesam.finance^
@@ -531,7 +503,6 @@
 ||verodrome.finance^
 ||vespa.finance^
 ||vestake.finance^
-||viccaveatloans.finance^
 ||viika.finance^
 ||viola.finance^
 ||vote-aerodromes.finance^
@@ -567,7 +538,6 @@
 ||youngadults.finance^
 ||younotion.finance^
 ||yugo.finance^
-||zenkitchen.finance^
 ||zeronft.finance^
 ||zeros.finance^
 ||zerosnft.finance^
