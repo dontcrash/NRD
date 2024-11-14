@@ -1,6 +1,7 @@
 ||ai-powered.build^
 ||aidev.build^
-||alphaconstructions.build^
+||arcade.build^
+||architech.build^
 ||armada.build^
 ||ars.build^
 ||artifex.build^
@@ -26,7 +27,6 @@
 ||dps.build^
 ||dreamventure.build^
 ||endeavor.build^
-||enodia.build^
 ||eporan.build^
 ||ernxcr.build^
 ||ethlocal.build^
@@ -46,7 +46,6 @@
 ||geofoamamerica.build^
 ||gfciaf.build^
 ||glnxpy.build^
-||grizzly.build^
 ||grok.build^
 ||gust.build^
 ||gvvkip.build^
@@ -57,7 +56,6 @@
 ||hngsd.build^
 ||holo-trip.build^
 ||hologram.build^
-||homehero.build^
 ||horde.build^
 ||hpjefk.build^
 ||htkphb.build^
@@ -101,7 +99,6 @@
 ||mozaik.build^
 ||mzltah.build^
 ||naoltd.build^
-||nexus.build^
 ||nhdso.build^
 ||nicerockets.build^
 ||nikos.build^
@@ -110,7 +107,6 @@
 ||nriewa.build^
 ||oevjoo.build^
 ||ohso.build^
-||openlab.build^
 ||ovexwx.build^
 ||pageme.build^
 ||pgslot.build^
@@ -118,6 +114,7 @@
 ||plcdesign.build^
 ||plttpr.build^
 ||poe2.build^
+||probuild.build^
 ||projectplaybook.build^
 ||pureds.build^
 ||qjjwtt.build^
@@ -130,7 +127,6 @@
 ||rms.build^
 ||rubwmr.build^
 ||saddleandspur.build^
-||sanggong.build^
 ||santamonica.build^
 ||sassr.build^
 ||scallop.build^
@@ -152,7 +148,7 @@
 ||spindl.build^
 ||statehomeservices.build^
 ||steanx.build^
-||surveynaut.build^
+||supa.build^
 ||tally.build^
 ||tbjbhy.build^
 ||tfhmnz.build^

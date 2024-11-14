@@ -35,11 +35,9 @@
 ||automatedcrypto.exchange^
 ||automation.exchange^
 ||avalanchego.exchange^
-||avidtrainings.exchange^
 ||b2m.exchange^
 ||backload.exchange^
 ||barterlink.exchange^
-||bazuka.exchange^
 ||beyond.exchange^
 ||bigbang.exchange^
 ||binanbot.exchange^
@@ -69,6 +67,7 @@
 ||capitalletter.exchange^
 ||car.exchange^
 ||cashcorp.exchange^
+||cbit.exchange^
 ||ccoin.exchange^
 ||chainsync.exchange^
 ||change-now.exchange^
@@ -94,7 +93,7 @@
 ||coinmarketcapproducts.exchange^
 ||cointransfer.exchange^
 ||coinvest.exchange^
-||collectn.exchange^
+||cold.exchange^
 ||commit.exchange^
 ||consciousbusiness.exchange^
 ||conserve.exchange^
@@ -157,6 +156,7 @@
 ||evedex.exchange^
 ||eventum.exchange^
 ||ex3.exchange^
+||fantasy.exchange^
 ||fc.exchange^
 ||fdusd.exchange^
 ||finly.exchange^
@@ -176,6 +176,7 @@
 ||goldeagle.exchange^
 ||goldmine.exchange^
 ||good88.exchange^
+||graco.exchange^
 ||grayscale.exchange^
 ||greengold.exchange^
 ||guac.exchange^
@@ -188,11 +189,11 @@
 ||hits.exchange^
 ||hkdsttd.exchange^
 ||hobb.exchange^
-||humanity.exchange^
 ||hypersonic.exchange^
 ||i-nter.exchange^
 ||iee.exchange^
 ||ikaria.exchange^
+||imperium.exchange^
 ||inc.exchange^
 ||intertrade.exchange^
 ||investors.exchange^
@@ -213,11 +214,15 @@
 ||korean.exchange^
 ||koreancrypto.exchange^
 ||kratos.exchange^
+||kupay.exchange^
 ||kyberswap.exchange^
 ||latamcrypto.exchange^
+||latebloomer.exchange^
+||latebloomers.exchange^
 ||lido-finance.exchange^
 ||listen2music.exchange^
 ||liverpool.exchange^
+||lollipop.exchange^
 ||loonie.exchange^
 ||loverflow-ibx.exchange^
 ||luck8.exchange^
@@ -225,6 +230,7 @@
 ||maaly.exchange^
 ||magamemecoin.exchange^
 ||managersupport.exchange^
+||mellie.exchange^
 ||memenetwork.exchange^
 ||middle.exchange^
 ||miraxcoin.exchange^
@@ -234,8 +240,9 @@
 ||morgandollar.exchange^
 ||morpheus.exchange^
 ||msp.exchange^
-||mu88.exchange^
 ||multicast.exchange^
+||myai.exchange^
+||mystate.exchange^
 ||mythosx.exchange^
 ||mythx.exchange^
 ||nakheel.exchange^
@@ -248,13 +255,13 @@
 ||nfa.exchange^
 ||nftmall.exchange^
 ||nika.exchange^
+||nobos.exchange^
 ||novabit.exchange^
 ||nrx.exchange^
 ||nvstock.exchange^
 ||obmenochka.exchange^
 ||offchain.exchange^
 ||offgrid.exchange^
-||onenetwork.exchange^
 ||onlyfriends.exchange^
 ||onlymemes.exchange^
 ||onmailpro.exchange^
@@ -294,6 +301,7 @@
 ||quikpay.exchange^
 ||quikswap.exchange^
 ||radial.exchange^
+||rampx.exchange^
 ||renovacoin.exchange^
 ||ripple.exchange^
 ||ritcoin.exchange^
@@ -316,6 +324,7 @@
 ||solly.exchange^
 ||sphere.exchange^
 ||sportingtrading.exchange^
+||stakely.exchange^
 ||stellarwallet.exchange^
 ||strategie.exchange^
 ||submission.exchange^
@@ -323,7 +332,6 @@
 ||sushi.exchange^
 ||swapmon.exchange^
 ||syn.exchange^
-||tamam.exchange^
 ||tek.exchange^
 ||terratrade.exchange^
 ||tetherwallet.exchange^
@@ -346,9 +354,7 @@
 ||trustum.exchange^
 ||tupismo.exchange^
 ||uickswap.exchange^
-||ushas-u.exchange^
 ||ustradex.exchange^
-||valencia.exchange^
 ||valhalla.exchange^
 ||valloop.exchange^
 ||vcdao.exchange^
@@ -367,11 +373,11 @@
 ||workspace.exchange^
 ||wrg.exchange^
 ||wwwquickswap.exchange^
-||xcode.exchange^
 ||xgames.exchange^
 ||xin88.exchange^
 ||xrp-price.exchange^
 ||yape.exchange^
 ||ydyx.exchange^
+||yoyo.exchange^
 ||yunnancoffee.exchange^
 ||zocial.exchange^

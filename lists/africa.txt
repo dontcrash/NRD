@@ -1,5 +1,5 @@
 ||00468.africa^
-||03143.africa^
+||0360events.africa^
 ||06592.africa^
 ||10264.africa^
 ||10635.africa^
@@ -24,23 +24,10 @@
 ||135728.africa^
 ||13956.africa^
 ||14031.africa^
-||140572.africa^
-||140576.africa^
 ||14092.africa^
-||142563.africa^
-||142569.africa^
-||143565.africa^
-||143578.africa^
 ||14387.africa^
-||145566.africa^
-||145577.africa^
-||146571.africa^
 ||14682.africa^
-||147567.africa^
-||147573.africa^
-||148575.africa^
 ||14942.africa^
-||149568.africa^
 ||14994.africa^
 ||15075.africa^
 ||15302.africa^
@@ -52,7 +39,6 @@
 ||16253.africa^
 ||16258.africa^
 ||16259.africa^
-||16300.africa^
 ||16529.africa^
 ||16583.africa^
 ||16749.africa^
@@ -87,11 +73,11 @@
 ||22958.africa^
 ||23130.africa^
 ||23196.africa^
+||23285.africa^
 ||23396.africa^
 ||23841.africa^
 ||23872.africa^
 ||23958.africa^
-||24198.africa^
 ||24574.africa^
 ||24981.africa^
 ||25318.africa^
@@ -134,7 +120,6 @@
 ||27491.africa^
 ||27685.africa^
 ||27876.africa^
-||28108.africa^
 ||28521.africa^
 ||28572.africa^
 ||28724.africa^
@@ -182,14 +167,12 @@
 ||3538484.africa^
 ||358721.africa^
 ||36003.africa^
-||361458.africa^
 ||36175.africa^
 ||36267.africa^
 ||36291.africa^
 ||36292.africa^
 ||36293.africa^
 ||36294.africa^
-||366558.africa^
 ||36715.africa^
 ||37025.africa^
 ||37158.africa^
@@ -233,11 +216,9 @@
 ||45167.africa^
 ||45232.africa^
 ||45796.africa^
-||461458.africa^
 ||46235.africa^
 ||46354.africa^
 ||46375.africa^
-||466558.africa^
 ||46716.africa^
 ||48135.africa^
 ||48167.africa^
@@ -252,7 +233,6 @@
 ||50392.africa^
 ||50702.africa^
 ||50793.africa^
-||511458.africa^
 ||51381.africa^
 ||51382.africa^
 ||51383.africa^
@@ -276,8 +256,6 @@
 ||521369.africa^
 ||52137.africa^
 ||52138.africa^
-||521458.africa^
-||52308.africa^
 ||52317.africa^
 ||52382.africa^
 ||52472.africa^
@@ -295,7 +273,6 @@
 ||52876.africa^
 ||52918.africa^
 ||52936.africa^
-||531458.africa^
 ||53146.africa^
 ||53167.africa^
 ||53169.africa^
@@ -304,7 +281,6 @@
 ||53819.africa^
 ||53868.africa^
 ||54062.africa^
-||541458.africa^
 ||5442086.africa^
 ||54458.africa^
 ||54763.africa^
@@ -313,7 +289,6 @@
 ||5555.africa^
 ||55901.africa^
 ||5592650.africa^
-||561458.africa^
 ||56379.africa^
 ||56392.africa^
 ||56393.africa^
@@ -325,7 +300,6 @@
 ||56756.africa^
 ||56825.africa^
 ||56890.africa^
-||571458.africa^
 ||57251.africa^
 ||57305.africa^
 ||57384.africa^
@@ -376,7 +350,6 @@
 ||63158.africa^
 ||63181.africa^
 ||63215.africa^
-||63257.africa^
 ||63279.africa^
 ||63309.africa^
 ||63395.africa^
@@ -387,6 +360,7 @@
 ||63719.africa^
 ||63725.africa^
 ||63782.africa^
+||63784.africa^
 ||63792.africa^
 ||63794.africa^
 ||63925.africa^
@@ -453,6 +427,7 @@
 ||69315.africa^
 ||69327.africa^
 ||69419.africa^
+||69498.africa^
 ||69627.africa^
 ||69639.africa^
 ||69713.africa^
@@ -470,36 +445,6 @@
 ||71360.africa^
 ||71381.africa^
 ||715283.africa^
-||71554.africa^
-||71555.africa^
-||71556.africa^
-||71557.africa^
-||71558.africa^
-||71559.africa^
-||71560.africa^
-||71561.africa^
-||71562.africa^
-||71563.africa^
-||71564.africa^
-||71565.africa^
-||71566.africa^
-||71567.africa^
-||71568.africa^
-||71569.africa^
-||71570.africa^
-||71571.africa^
-||71572.africa^
-||71573.africa^
-||71574.africa^
-||71575.africa^
-||71576.africa^
-||71577.africa^
-||71578.africa^
-||71579.africa^
-||71580.africa^
-||71581.africa^
-||71582.africa^
-||71583.africa^
 ||71654.africa^
 ||71681.africa^
 ||71836.africa^
@@ -524,7 +469,6 @@
 ||73526.africa^
 ||73527.africa^
 ||73528.africa^
-||73529.africa^
 ||73592.africa^
 ||736251.africa^
 ||73794.africa^
@@ -539,15 +483,13 @@
 ||75201.africa^
 ||75214.africa^
 ||75293.africa^
+||75386.africa^
 ||75398.africa^
 ||75631.africa^
-||7580.africa^
-||7581.africa^
 ||75816.africa^
 ||75817.africa^
 ||75818.africa^
 ||75819.africa^
-||7582.africa^
 ||75820.africa^
 ||75821.africa^
 ||75822.africa^
@@ -558,15 +500,8 @@
 ||75827.africa^
 ||75828.africa^
 ||75829.africa^
-||7583.africa^
 ||75830.africa^
 ||75831.africa^
-||7585.africa^
-||7586.africa^
-||7587.africa^
-||7588.africa^
-||7589.africa^
-||7590.africa^
 ||75917.africa^
 ||76159.africa^
 ||76485.africa^
@@ -579,7 +514,6 @@
 ||78436.africa^
 ||78513.africa^
 ||78536.africa^
-||78581.africa^
 ||78631.africa^
 ||78632.africa^
 ||78633.africa^
@@ -639,16 +573,8 @@
 ||84912.africa^
 ||85058.africa^
 ||85263.africa^
-||8560.africa^
-||8561.africa^
 ||85613.africa^
-||8562.africa^
-||8563.africa^
-||8565.africa^
 ||85657.africa^
-||8566.africa^
-||8567.africa^
-||8568.africa^
 ||85761.africa^
 ||86175.africa^
 ||86195.africa^
@@ -680,8 +606,6 @@
 ||8897.africa^
 ||88clb.africa^
 ||89123.africa^
-||89167.africa^
-||89263.africa^
 ||89314.africa^
 ||89325.africa^
 ||89643.africa^
@@ -691,6 +615,7 @@
 ||90050.africa^
 ||90236.africa^
 ||90321.africa^
+||90518.africa^
 ||91256.africa^
 ||91285.africa^
 ||91375.africa^
@@ -724,7 +649,6 @@
 ||95862.africa^
 ||95873.africa^
 ||96015.africa^
-||96094.africa^
 ||96148.africa^
 ||96187.africa^
 ||96256.africa^
@@ -749,7 +673,6 @@
 ||98627.africa^
 ||98639.africa^
 ||98731.africa^
-||99628.africa^
 ||99668.africa^
 ||9999.africa^
 ||a-list.africa^
@@ -801,14 +724,11 @@
 ||aesg.africa^
 ||aesummit.africa^
 ||aetrust.africa^
-||afcfta.africa^
-||afcoc.africa^
 ||affluentafrica.africa^
 ||afma.africa^
 ||afmg.africa^
 ||africaglobalsouthadvisor.africa^
 ||africameetsdiaspora.africa^
-||african-hydrogen.africa^
 ||africanancestry.africa^
 ||africanbankaudaciousrewards.africa^
 ||africanbankbusinesscredit.africa^
@@ -825,8 +745,8 @@
 ||africanglobalbusinesshub.africa^
 ||africanpilot.africa^
 ||africanvibes.africa^
-||africavideocloud.africa^
 ||afriexpress.africa^
+||afrigar.africa^
 ||afrikoop.africa^
 ||afriora.africa^
 ||afriwater-san.africa^
@@ -862,7 +782,6 @@
 ||aircraftdynamics.africa^
 ||airgo.africa^
 ||akgsolutions.africa^
-||alapay.africa^
 ||aldg.africa^
 ||alfakher.africa^
 ||algosoft.africa^
@@ -870,7 +789,6 @@
 ||alignedtoflourish.africa^
 ||aliushka.africa^
 ||alkhor.africa^
-||all4you.africa^
 ||allbet.africa^
 ||allcars.africa^
 ||allinone.africa^
@@ -919,8 +837,8 @@
 ||apng.africa^
 ||apparelconcepts.africa^
 ||apsg.africa^
-||aqaohs.africa^
 ||aquaboreholes.africa^
+||aquagrove.africa^
 ||aqualock.africa^
 ||arcb.africa^
 ||ardilla.africa^
@@ -939,8 +857,8 @@
 ||aspsa.africa^
 ||assetowners.africa^
 ||assets.africa^
-||asterisktech.africa^
 ||astracard.africa^
+||astracove.africa^
 ||astransformation.africa^
 ||astute.africa^
 ||atdg.africa^
@@ -955,6 +873,7 @@
 ||authentique.africa^
 ||authority.africa^
 ||authpay.africa^
+||autismadventures.africa^
 ||autobuy.africa^
 ||autocharge.africa^
 ||autostyle.africa^
@@ -983,9 +902,9 @@
 ||bathugroup.africa^
 ||bayview.africa^
 ||bayviewsecurity.africa^
+||bbcapital.africa^
 ||bbmgroup.africa^
 ||beachfront-luxury.africa^
-||beagile.africa^
 ||beanextremekidsclub.africa^
 ||beautyinyou.africa^
 ||beelovedhoney.africa^
@@ -1004,6 +923,7 @@
 ||bimi.africa^
 ||bine-tech.africa^
 ||bioadditives.africa^
+||biocharsolutions.africa^
 ||bioworks.africa^
 ||biricutico.africa^
 ||birthsafe.africa^
@@ -1012,13 +932,13 @@
 ||bizu.africa^
 ||blackoak.africa^
 ||blackoil.africa^
-||blackpages.africa^
 ||blacksand.africa^
 ||blackwall.africa^
 ||blaqgrid.africa^
 ||blasttv.africa^
 ||blisp.africa^
 ||bln.africa^
+||blockcard.africa^
 ||bloodpoint.africa^
 ||blueseven.africa^
 ||bluestoneretail.africa^
@@ -1029,6 +949,7 @@
 ||bookastay.africa^
 ||boostmy.africa^
 ||bounce.africa^
+||boye.africa^
 ||boysofsoweto.africa^
 ||bpia.africa^
 ||brandandperson.africa^
@@ -1037,6 +958,8 @@
 ||breerivier.africa^
 ||breeriviercouriers.africa^
 ||bricksource.africa^
+||bridgelab.africa^
+||brightbloom.africa^
 ||brucegold.africa^
 ||brummbaer.africa^
 ||burberry.africa^
@@ -1063,8 +986,6 @@
 ||ccawards.africa^
 ||ceciljohnrhodes.africa^
 ||celebrationoflife.africa^
-||cenmass.africa^
-||cenmasselectrical.africa^
 ||centrafix.africa^
 ||centralib.africa^
 ||centrock.africa^
@@ -1074,6 +995,7 @@
 ||challengr.africa^
 ||chardenstrading.africa^
 ||charitylawattorneys.africa^
+||chasingsun.africa^
 ||chomachamp.africa^
 ||chomachamps.africa^
 ||chrisborough.africa^
@@ -1119,7 +1041,6 @@
 ||crazyrdp.africa^
 ||creativationsmedia.africa^
 ||creativebox.africa^
-||creato.africa^
 ||crossborder.africa^
 ||crossborders.africa^
 ||crossbordersupermarkets.africa^
@@ -1133,7 +1054,6 @@
 ||curtains.africa^
 ||customskins.africa^
 ||cyberandtech.africa^
-||cyberlaw.africa^
 ||cyberone.africa^
 ||cyberpedia.africa^
 ||cybersecuritymag.africa^
@@ -1148,7 +1068,6 @@
 ||dataandsoftwaregroup.africa^
 ||dataiq.africa^
 ||datalab.africa^
-||datanerds.africa^
 ||datawiselab.africa^
 ||dave.africa^
 ||dealrs.africa^
@@ -1172,13 +1091,13 @@
 ||digitalgovteck.africa^
 ||digitalhut.africa^
 ||digitalinvoice.africa^
-||digitalpulse.africa^
 ||digitalrevolution.africa^
 ||digitalvision.africa^
 ||digitising.africa^
 ||digitizing.africa^
 ||dini.africa^
 ||ditema.africa^
+||ditrop.africa^
 ||dkmineraltrading.africa^
 ||dm-pay.africa^
 ||dmarc.africa^
@@ -1218,7 +1137,6 @@
 ||easierbetterfaster.africa^
 ||easybiz.africa^
 ||easyhost.africa^
-||easypark.africa^
 ||easyphone.africa^
 ||eatngreet.africa^
 ||ebahlovewolffrealmofthegoddess.africa^
@@ -1239,7 +1157,6 @@
 ||ekipaie.africa^
 ||ekipay.africa^
 ||ekyc.africa^
-||elbrus.africa^
 ||electrictaxi.africa^
 ||electron.africa^
 ||elementalharvesters.africa^
@@ -1256,7 +1173,6 @@
 ||engineeringpro.africa^
 ||enliteafrica.africa^
 ||entrustinitiative.africa^
-||eobraboessesim.africa^
 ||epdb.africa^
 ||epdg.africa^
 ||epictete.africa^
@@ -1295,6 +1211,7 @@
 ||farmark.africa^
 ||farmwise.africa^
 ||faucet.africa^
+||felix.africa^
 ||femmpact.africa^
 ||fest.africa^
 ||fibreinternet.africa^
@@ -1308,7 +1225,6 @@
 ||fintechreview.africa^
 ||firecoat.africa^
 ||fishnet.africa^
-||flashforward.africa^
 ||flexiticket.africa^
 ||floodin.africa^
 ||flotek.africa^
@@ -1332,6 +1248,7 @@
 ||friendlyinteriors.africa^
 ||frlogistics.africa^
 ||fueltank.africa^
+||fuelx.africa^
 ||fundle.africa^
 ||future-cities-south.africa^
 ||fxcareer.africa^
@@ -1391,6 +1308,7 @@
 ||greenfoot.africa^
 ||greeninitiative.africa^
 ||greeninvst.africa^
+||greenpeak.africa^
 ||gs-works.africa^
 ||guard.africa^
 ||guards.africa^
@@ -1406,7 +1324,6 @@
 ||hazy.africa^
 ||hbreport.africa^
 ||healthcap.africa^
-||heaventrip.africa^
 ||hela.africa^
 ||helloafrica.africa^
 ||hellopaisa.africa^
@@ -1474,7 +1391,6 @@
 ||icsolutions.africa^
 ||ictinnovations.africa^
 ||idun.africa^
-||ifoni.africa^
 ||ifula.africa^
 ||igunundu.africa^
 ||ihatepeoplefrom.africa^
@@ -1499,12 +1415,12 @@
 ||inspirewellness.africa^
 ||instabet.africa^
 ||institute4ai.africa^
-||intalks.africa^
 ||internshipnow.africa^
 ||intimacycoach.africa^
 ||inungu.africa^
 ||investorcenter.africa^
 ||investorcentre.africa^
+||invisibleinc.africa^
 ||iolo.africa^
 ||ipfeinvestments.africa^
 ||irc.africa^
@@ -1528,6 +1444,7 @@
 ||joycee.africa^
 ||jsdi.africa^
 ||juno.africa^
+||justmarkets.africa^
 ||juutech.africa^
 ||kabaonline.africa^
 ||kabodgrene.africa^
@@ -1562,7 +1479,6 @@
 ||kool.africa^
 ||koranna.africa^
 ||krishnaimpex.africa^
-||krugerpark.africa^
 ||kuba.africa^
 ||ladx.africa^
 ||lagallery.africa^
@@ -1580,7 +1496,6 @@
 ||legaladvisors.africa^
 ||legalme.africa^
 ||legittv.africa^
-||lekalakala.africa^
 ||lems.africa^
 ||lengo.africa^
 ||leopardking.africa^
@@ -1629,7 +1544,6 @@
 ||madina.africa^
 ||mafokateattorneys.africa^
 ||magicians.africa^
-||magnatech.africa^
 ||maison.africa^
 ||makanye.africa^
 ||makutano.africa^
@@ -1645,6 +1559,7 @@
 ||maroola.africa^
 ||marvin.africa^
 ||marykiige.africa^
+||masifunisane.africa^
 ||matloprop.africa^
 ||matos.africa^
 ||matriny.africa^
@@ -1655,7 +1570,6 @@
 ||mazoe.africa^
 ||mbg.africa^
 ||mcell.africa^
-||mchwa.africa^
 ||mdxplatform.africa^
 ||meddiary.africa^
 ||medfind.africa^
@@ -1679,6 +1593,7 @@
 ||minevest.africa^
 ||mini.africa^
 ||miombodata.africa^
+||mirroreffect.africa^
 ||miti.africa^
 ||mitiexchange.africa^
 ||mkalibalaadventures.africa^
@@ -1701,15 +1616,14 @@
 ||msksolutions.africa^
 ||mspa.africa^
 ||mtakprivate.africa^
+||mtholeni.africa^
 ||mtnyellotv.africa^
 ||mudsreh.africa^
 ||multiply.africa^
-||muna.africa^
 ||mura.africa^
 ||mustiquegroup.africa^
 ||muteki.africa^
 ||mwei.africa^
-||mweke.africa^
 ||my300.africa^
 ||myaza.africa^
 ||mybru.africa^
@@ -1723,6 +1637,7 @@
 ||mysticvalleyguild.africa^
 ||mysticwoodworks.africa^
 ||mystocks.africa^
+||mytherapist.africa^
 ||nadb.africa^
 ||nadg.africa^
 ||namson.africa^
@@ -1735,6 +1650,7 @@
 ||neoacademy.africa^
 ||neosurf.africa^
 ||nerula.africa^
+||nestaura.africa^
 ||netflix.africa^
 ||netx.africa^
 ||neucapital.africa^
@@ -1758,9 +1674,7 @@
 ||njiapay.africa^
 ||nkhgroup.africa^
 ||nkonka.africa^
-||nobleeza.africa^
 ||nohu90.africa^
-||noiseratio.africa^
 ||nomadicechoworks.africa^
 ||nomadicforesttales.africa^
 ||nomadicpathmasters.africa^
@@ -1785,11 +1699,9 @@
 ||numilk.africa^
 ||nutrimia.africa^
 ||nxabalala.africa^
-||nxlb1.africa^
 ||nyco.africa^
 ||nyegenyege.africa^
 ||obta.africa^
-||obtain.africa^
 ||oceancove.africa^
 ||ocmwca.africa^
 ||oddsmaster.africa^
@@ -1804,6 +1716,7 @@
 ||opened.africa^
 ||openinterpreter.africa^
 ||opensourceai.africa^
+||opentender.africa^
 ||openx.africa^
 ||oragroup.africa^
 ||oriontechiot.africa^
@@ -1814,6 +1727,7 @@
 ||ouiperdsuicvsuo.africa^
 ||outfitters.africa^
 ||overcast.africa^
+||overlandinvestments.africa^
 ||oxopodfest.africa^
 ||p4r.africa^
 ||parcelpoint.africa^
@@ -1828,6 +1742,7 @@
 ||payxy.africa^
 ||pedagon.africa^
 ||pembroke.africa^
+||pennyswift.africa^
 ||peoplepro.africa^
 ||pepo.africa^
 ||pepsi.africa^
@@ -1858,10 +1773,8 @@
 ||pluggedin.africa^
 ||pocketag.africa^
 ||poker-university.africa^
-||political.africa^
 ||popupfilmshow.africa^
 ||portia.africa^
-||portpay.africa^
 ||portrait.africa^
 ||postcardsfrom.africa^
 ||potatoman.africa^
@@ -1873,7 +1786,8 @@
 ||primeclean.africa^
 ||primehorizon.africa^
 ||princedabulamanzi.africa^
-||printpro.africa^
+||privacyguide.africa^
+||privateauctions.africa^
 ||proceedgroup.africa^
 ||profinda.africa^
 ||projectwazee.africa^
@@ -1887,6 +1801,7 @@
 ||publicperformance.africa^
 ||pulseiptv.africa^
 ||purceelogistics.africa^
+||pureaura.africa^
 ||purehealth.africa^
 ||purslane.africa^
 ||qala.africa^
@@ -1907,7 +1822,6 @@
 ||raklaw.africa^
 ||rapportech.africa^
 ||rapter.africa^
-||ravenapp.africa^
 ||raveplug.africa^
 ||ravora.africa^
 ||rawsport.africa^
@@ -1935,12 +1849,14 @@
 ||researchwise.africa^
 ||retrofit.africa^
 ||reverb.africa^
+||rhipfactory.africa^
 ||rivertech.africa^
 ||roastergettinhumped.africa^
 ||rohoyaunabii.africa^
 ||rolaguard.africa^
 ||rootsrebornearth.africa^
 ||rotaryregalia.africa^
+||rotisserie.africa^
 ||rovaatlantic.africa^
 ||rugs.africa^
 ||ruka.africa^
@@ -1982,6 +1898,7 @@
 ||salutaris.africa^
 ||salvo-africa.africa^
 ||samokoyo.africa^
+||sandcorporation.africa^
 ||sapci.africa^
 ||sarabi.africa^
 ||sasco.africa^
@@ -1991,6 +1908,7 @@
 ||savannaandsage.africa^
 ||savannagroup.africa^
 ||sbtl.africa^
+||sburrocacando.africa^
 ||scaleups.africa^
 ||scents.africa^
 ||sci.africa^
@@ -2005,7 +1923,6 @@
 ||searchgpt.africa^
 ||searchinform.africa^
 ||sebataluxurycharters.africa^
-||sectionone.africa^
 ||securecount.africa^
 ||securetrade.africa^
 ||sees-store.africa^
@@ -2086,7 +2003,6 @@
 ||spuntino.africa^
 ||ssprotectors.africa^
 ||stanleynaturetrails.africa^
-||starboy.africa^
 ||starlinkinternet.africa^
 ||starsfellows.africa^
 ||startupapp.africa^
@@ -2099,13 +2015,11 @@
 ||stellarsunsettales.africa^
 ||stellarsunsetworks.africa^
 ||stewardship.africa^
-||stilotex.africa^
 ||studioe.africa^
 ||subsidyme.africa^
 ||successwater.africa^
 ||supermine.africa^
 ||supermodel.africa^
-||suporte10.africa^
 ||surfari.africa^
 ||swahiliafrika.africa^
 ||swanki.africa^
@@ -2114,7 +2028,6 @@
 ||sysprocloud.africa^
 ||tabibu.africa^
 ||tadata.africa^
-||tadi.africa^
 ||taleinteriors.africa^
 ||talgenius.africa^
 ||talza-africa.africa^
@@ -2123,10 +2036,8 @@
 ||tco.africa^
 ||tconnect.africa^
 ||techberi.africa^
-||techbiz.africa^
 ||techbusstop.africa^
 ||techco.africa^
-||techcreativepartners.africa^
 ||techfix.africa^
 ||techin.africa^
 ||techinnovation.africa^
@@ -2145,6 +2056,7 @@
 ||telemetry.africa^
 ||teleport.africa^
 ||tents.africa^
+||tenxtrade.africa^
 ||terracruadesign.africa^
 ||terravita.africa^
 ||tgf.africa^
@@ -2158,6 +2070,7 @@
 ||themefoundation.africa^
 ||theperfumeco.africa^
 ||thepropertycollective.africa^
+||therealuniversity.africa^
 ||thesoulzanzibar.africa^
 ||thetechnologist.africa^
 ||thgroup.africa^
@@ -2166,6 +2079,7 @@
 ||thisisdigital.africa^
 ||thisisfootball.africa^
 ||threatintel.africa^
+||thunder-tv.africa^
 ||thunderbird.africa^
 ||ticombo.africa^
 ||tidd.africa^
@@ -2200,7 +2114,6 @@
 ||transcrybemusic.africa^
 ||transfermoney.africa^
 ||translation.africa^
-||travelandtour.africa^
 ||travelnow.africa^
 ||travelspot.africa^
 ||travelwithme.africa^
@@ -2208,6 +2121,7 @@
 ||triift.africa^
 ||trimed.africa^
 ||tripoint.africa^
+||tripplelinks.africa^
 ||trubnb.africa^
 ||trustedaccountants.africa^
 ||trustees.africa^
@@ -2224,10 +2138,10 @@
 ||ukamili.africa^
 ||ukubumba.africa^
 ||ultinet.africa^
+||umel.africa^
 ||unhu.africa^
 ||uniprint.africa^
 ||unitydna.africa^
-||unplugged.africa^
 ||upcycle.africa^
 ||upgrade.africa^
 ||uppcharge.africa^
@@ -2241,6 +2155,7 @@
 ||uva360.africa^
 ||vakinha.africa^
 ||valetparking.africa^
+||valor.africa^
 ||valour.africa^
 ||vanquishmedia.africa^
 ||vaultwarden.africa^
@@ -2274,6 +2189,7 @@
 ||waliana.africa^
 ||walkthewild.africa^
 ||wandeto.africa^
+||wanhua.africa^
 ||wastemanagers.africa^
 ||waverise.africa^
 ||wearebeyond.africa^
@@ -2286,6 +2202,7 @@
 ||westernocean.africa^
 ||wetruck.africa^
 ||wezo.africa^
+||whattodo.africa^
 ||whisperingforestworks.africa^
 ||whisperingtimberlegends.africa^
 ||whizza.africa^
@@ -2317,6 +2234,7 @@
 ||xntv.africa^
 ||xohlabs.africa^
 ||xovp.africa^
+||xvip.africa^
 ||yaraa.africa^
 ||yerlaw.africa^
 ||yewa.africa^
