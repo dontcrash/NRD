@@ -53,7 +53,6 @@
 ||cigarandwhiskey.delivery^
 ||cmoa.delivery^
 ||cocoa.delivery^
-||coinmarketcap.delivery^
 ||commbank.delivery^
 ||compass.delivery^
 ||congress.delivery^
@@ -86,11 +85,9 @@
 ||email.delivery^
 ||embalagens.delivery^
 ||embalagensmacro.delivery^
-||empowerfresh.delivery^
 ||england.delivery^
 ||espn.delivery^
 ||ethos.delivery^
-||etoro.delivery^
 ||falcon.delivery^
 ||fastfit.delivery^
 ||fastforward.delivery^
@@ -106,12 +103,9 @@
 ||freshfleet.delivery^
 ||fsaeligiblefood.delivery^
 ||ft.delivery^
-||futbol.delivery^
 ||fute.delivery^
-||futebol.delivery^
 ||g1.delivery^
 ||gamewith.delivery^
-||github.delivery^
 ||globalexpress.delivery^
 ||globalguide.delivery^
 ||globallink.delivery^
@@ -149,7 +143,6 @@
 ||inlet.delivery^
 ||instantlocal.delivery^
 ||intech.delivery^
-||investing.delivery^
 ||invoice-anpost.delivery^
 ||iol.delivery^
 ||islan.delivery^
@@ -167,12 +160,9 @@
 ||kpp.delivery^
 ||ku.delivery^
 ||kwench.delivery^
-||lady.delivery^
 ||lapresse.delivery^
-||lawson.delivery^
 ||livedoor.delivery^
 ||llc-payment-department.delivery^
-||localtime.delivery^
 ||log.delivery^
 ||lojas.delivery^
 ||loole.delivery^
@@ -278,7 +268,6 @@
 ||tv2.delivery^
 ||twenty4.delivery^
 ||twentyfour.delivery^
-||twincity.delivery^
 ||u888.delivery^
 ||uae.delivery^
 ||unicorn.delivery^
@@ -286,14 +275,12 @@
 ||updates.delivery^
 ||uspslk.delivery^
 ||vancouverflowers.delivery^
-||vancouverweed.delivery^
 ||vango.delivery^
 ||vegabar.delivery^
 ||veggy.delivery^
 ||verified.delivery^
 ||vintedat.delivery^
 ||voll.delivery^
-||vortexflow.delivery^
 ||w3w.delivery^
 ||wecan.delivery^
 ||wecanna.delivery^
@@ -301,7 +288,6 @@
 ||wi.delivery^
 ||wv.delivery^
 ||wy.delivery^
-||xe.delivery^
 ||yazibro.delivery^
 ||youm7.delivery^
 ||yourexpress.delivery^
@@ -311,7 +297,6 @@
 ||zdf.delivery^
 ||zdjkwg.delivery^
 ||zeit.delivery^
-||zerodha.delivery^
 ||zippy.delivery^
 ||zoom.delivery^
 ||zoox.delivery^

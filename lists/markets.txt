@@ -8,7 +8,6 @@
 ||afterhours.markets^
 ||aisoftware.markets^
 ||altseason.markets^
-||americanas.markets^
 ||archive.markets^
 ||arfa.markets^
 ||aries.markets^
@@ -20,6 +19,7 @@
 ||bancochile.markets^
 ||bancoestado.markets^
 ||beeg.markets^
+||bestbet.markets^
 ||bet7k.markets^
 ||betting.markets^
 ||beyondbitcoin.markets^
@@ -37,11 +37,9 @@
 ||capitalexchange.markets^
 ||capy.markets^
 ||cbk.markets^
-||centralshop.markets^
 ||cheats.markets^
 ||cheese.markets^
 ||cmoa.markets^
-||coinmarketcap.markets^
 ||collectibles.markets^
 ||commbank.markets^
 ||commit.markets^
@@ -54,7 +52,6 @@
 ||curious.markets^
 ||curve.markets^
 ||dao.markets^
-||dating.markets^
 ||dcard.markets^
 ||dedicate.markets^
 ||derivative.markets^
@@ -67,7 +64,6 @@
 ||doge.markets^
 ||egy.markets^
 ||eldercare.markets^
-||element.markets^
 ||escort.markets^
 ||espn.markets^
 ||fhe.markets^
@@ -76,9 +72,7 @@
 ||focus.markets^
 ||fomo.markets^
 ||foxes.markets^
-||futbol.markets^
 ||fute.markets^
-||futebol.markets^
 ||g1.markets^
 ||gamer.markets^
 ||gamewith.markets^
@@ -93,6 +87,7 @@
 ||govip.markets^
 ||grey.markets^
 ||guardaserie.markets^
+||handmade.markets^
 ||haraj.markets^
 ||hawaii.markets^
 ||healbro.markets^
@@ -103,11 +98,11 @@
 ||hollywoodbets.markets^
 ||hosting.markets^
 ||huawei.markets^
-||hub.markets^
 ||iltalehti.markets^
 ||imagining.markets^
 ||impress.markets^
 ||index.markets^
+||infi.markets^
 ||info.markets^
 ||informal.markets^
 ||insta.markets^
@@ -206,6 +201,7 @@
 ||storm.markets^
 ||stripe.markets^
 ||sunlife.markets^
+||sunwin.markets^
 ||superchat.markets^
 ||swipe.markets^
 ||tagesschau.markets^
@@ -220,6 +216,7 @@
 ||tradingsecrets.markets^
 ||treasure.markets^
 ||tubesafari.markets^
+||tuhunaer.markets^
 ||tv2.markets^
 ||unit.markets^
 ||uol.markets^
@@ -237,4 +234,3 @@
 ||yts.markets^
 ||zdf.markets^
 ||zeit.markets^
-||zerodha.markets^

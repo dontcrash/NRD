@@ -31,6 +31,7 @@
 ||adultpodcasts.directory^
 ||aerospace.directory^
 ||agencystack.directory^
+||agentforce.directory^
 ||agentsforboomers.directory^
 ||agentsforseniors.directory^
 ||aia.directory^
@@ -44,13 +45,14 @@
 ||aiport.directory^
 ||airlines.directory^
 ||aisafety.directory^
+||aisexchat.directory^
 ||aistack.directory^
+||aitoolsdirectory.directory^
 ||aivoice.directory^
 ||aivoices.directory^
 ||alfabank.directory^
 ||allporncomic.directory^
 ||alphabeta.directory^
-||americanas.directory^
 ||amyloane.directory^
 ||analyticsstack.directory^
 ||aok.directory^
@@ -89,6 +91,7 @@
 ||boyfriendtv.directory^
 ||brazzersnetwork.directory^
 ||bricks.directory^
+||businessalliance.directory^
 ||businesscard.directory^
 ||businesslisting.directory^
 ||businesslistings.directory^
@@ -106,8 +109,6 @@
 ||citylink.directory^
 ||clients.directory^
 ||clomid.directory^
-||closer.directory^
-||coinmarketcap.directory^
 ||cola-tv.directory^
 ||coldfoot.directory^
 ||coloradoparalegal.directory^
@@ -125,13 +126,14 @@
 ||create.directory^
 ||creativestack.directory^
 ||creativitystack.directory^
-||cricket.directory^
 ||cryptoexchange.directory^
+||cryptotradingbots.directory^
 ||cs6thvsvjt.directory^
-||cultcoins.directory^
 ||cuponb2c.directory^
+||custom.directory^
 ||customer.directory^
 ||customers.directory^
+||cville.directory^
 ||d2fq.directory^
 ||darkdata.directory^
 ||data-insights.directory^
@@ -140,6 +142,7 @@
 ||deeplink.directory^
 ||democrat.directory^
 ||democratic.directory^
+||dentistas.directory^
 ||deposit.directory^
 ||deshi.directory^
 ||designstack.directory^
@@ -179,14 +182,12 @@
 ||egc.directory^
 ||ehc4.directory^
 ||electronic.directory^
-||elmaguey.directory^
 ||elpais.directory^
 ||epay.directory^
 ||epsilon.directory^
 ||erickson.directory^
 ||esma.directory^
 ||espn.directory^
-||etoro.directory^
 ||europe.directory^
 ||european.directory^
 ||everythingeastlothian.directory^
@@ -195,6 +196,7 @@
 ||f109sqrbn.directory^
 ||f95zone.directory^
 ||faq.directory^
+||fatakat.directory^
 ||fbi.directory^
 ||felix.directory^
 ||ffc.directory^
@@ -208,7 +210,6 @@
 ||foodwise.directory^
 ||foot.directory^
 ||forpurpose.directory^
-||forumlinks.directory^
 ||foster.directory^
 ||fpo.directory^
 ||fractionalcto.directory^
@@ -218,15 +219,14 @@
 ||fulfillment.directory^
 ||fun88.directory^
 ||fute.directory^
-||futebol.directory^
 ||gaming.directory^
 ||gelbooru.directory^
-||gemajitu.directory^
 ||geospatial.directory^
 ||geospatialdata.directory^
 ||geospatialproviders.directory^
 ||gi.directory^
 ||gig.directory^
+||ginecologos.directory^
 ||globalcontract.directory^
 ||globalnews.directory^
 ||gls-pakete.directory^
@@ -288,6 +288,7 @@
 ||jut.directory^
 ||kelowna.directory^
 ||khaleejtimes.directory^
+||ki.directory^
 ||kicker.directory^
 ||kidney.directory^
 ||kissasian.directory^
@@ -298,6 +299,7 @@
 ||kv999.directory^
 ||lam.directory^
 ||lams.directory^
+||landingpageoptimizationtools.directory^
 ||lapresse.directory^
 ||laserontharen.directory^
 ||learnstack.directory^
@@ -323,12 +325,12 @@
 ||manufacturer.directory^
 ||marketingstack.directory^
 ||marketingto.directory^
-||massage.directory^
 ||massagespa.directory^
 ||mat6tube.directory^
 ||materials.directory^
 ||mbc.directory^
 ||md24i1.directory^
+||medexpertschool.directory^
 ||mediapersons.directory^
 ||mediation.directory^
 ||mediator.directory^
@@ -375,7 +377,6 @@
 ||nocodestack.directory^
 ||nohu90.directory^
 ||noir.directory^
-||noolan.directory^
 ||noprose.directory^
 ||nottingham.directory^
 ||novo.directory^
@@ -386,13 +387,13 @@
 ||ojogodobicho.directory^
 ||ok365.directory^
 ||okanagan.directory^
-||oldhouse.directory^
 ||onchain.directory^
 ||onion.directory^
 ||ouo.directory^
 ||pageeasecms.directory^
 ||paris2024.directory^
 ||peakb2b.directory^
+||pediatras.directory^
 ||personal.directory^
 ||pestcontrol.directory^
 ||petrus.directory^
@@ -406,6 +407,7 @@
 ||porntrex.directory^
 ||pornzog.directory^
 ||portalpillars.directory^
+||ppchub.directory^
 ||premier.directory^
 ||premierleague.directory^
 ||preschool.directory^
@@ -415,7 +417,6 @@
 ||propertyconservation.directory^
 ||propertyrestoration.directory^
 ||psaas.directory^
-||psiquiatras.directory^
 ||psychosplatoon.directory^
 ||puertopenasco.directory^
 ||purelocal.directory^
@@ -451,7 +452,6 @@
 ||rotarybusiness.directory^
 ||roy88.directory^
 ||rp7a.directory^
-||rr88.directory^
 ||rss3.directory^
 ||rubber.directory^
 ||rule34video.directory^
@@ -565,7 +565,6 @@
 ||vernon.directory^
 ||veterans.directory^
 ||view.directory^
-||vilnius.directory^
 ||viper.directory^
 ||vippers.directory^
 ||virtualtravelexpo.directory^
@@ -578,6 +577,7 @@
 ||wellnesswavecraft.directory^
 ||win55.directory^
 ||winery.directory^
+||worldguessr.directory^
 ||worldnews.directory^
 ||worldtravelexpo.directory^
 ||worldwideweb.directory^
@@ -591,5 +591,4 @@
 ||yts.directory^
 ||zdf.directory^
 ||zeit.directory^
-||zerodha.directory^
 ||zonezephyr.directory^
