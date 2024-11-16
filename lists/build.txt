@@ -4,8 +4,8 @@
 ||architech.build^
 ||armada.build^
 ||ars.build^
-||artifex.build^
 ||backend.build^
+||backstory.build^
 ||bana.build^
 ||bet365.build^
 ||cerebrius.build^
@@ -16,7 +16,6 @@
 ||dappie.build^
 ||dataset.build^
 ||denis.build^
-||dn4d.build^
 ||dps.build^
 ||dreamventure.build^
 ||endeavor.build^
@@ -25,7 +24,6 @@
 ||everybody.build^
 ||exaplex.build^
 ||felce.build^
-||fensterhaus.build^
 ||founder.build^
 ||geofoam.build^
 ||geofoamamerica.build^
@@ -54,6 +52,7 @@
 ||marcello.build^
 ||maverickdesign.build^
 ||metamask.build^
+||mi.build^
 ||mozaik.build^
 ||nicerockets.build^
 ||nikos.build^
@@ -62,14 +61,13 @@
 ||plcdesign.build^
 ||poe2.build^
 ||probuild.build^
-||projectplaybook.build^
 ||pureds.build^
+||read.build^
 ||retrofit-scotland.build^
 ||retrofitscotland.build^
 ||revel.build^
 ||reward.build^
 ||rms.build^
-||saddleandspur.build^
 ||santamonica.build^
 ||sassr.build^
 ||scallop.build^
@@ -82,8 +80,6 @@
 ||simply.build^
 ||smartcube.build^
 ||smol.build^
-||sns.build^
-||sonr.build^
 ||sousa.build^
 ||spawn.build^
 ||statehomeservices.build^

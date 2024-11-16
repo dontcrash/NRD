@@ -98,13 +98,16 @@
 ||03378.pet^
 ||03379.pet^
 ||03392.pet^
+||03727.pet^
 ||03801.pet^
 ||03850.pet^
 ||03852.pet^
 ||05029.pet^
 ||05899.pet^
+||06333.pet^
 ||06344.pet^
 ||06491.pet^
+||07047.pet^
 ||08672.pet^
 ||08878.pet^
 ||08948.pet^
@@ -244,6 +247,7 @@
 ||353456.pet^
 ||354033.pet^
 ||35858.pet^
+||35913.pet^
 ||36207.pet^
 ||363497.pet^
 ||36372.pet^
@@ -365,7 +369,6 @@
 ||58092.pet^
 ||58169.pet^
 ||583398.pet^
-||58370.pet^
 ||58531.pet^
 ||58704.pet^
 ||58705.pet^
@@ -384,6 +387,7 @@
 ||596722.pet^
 ||596733.pet^
 ||598204.pet^
+||59917.pet^
 ||60408.pet^
 ||606075.pet^
 ||60625.pet^
@@ -470,7 +474,6 @@
 ||74115.pet^
 ||74325.pet^
 ||752830.pet^
-||75333.pet^
 ||756378.pet^
 ||759806.pet^
 ||76151.pet^
@@ -515,6 +518,7 @@
 ||79939.pet^
 ||802746.pet^
 ||80320.pet^
+||80330.pet^
 ||805932.pet^
 ||80683.pet^
 ||808677.pet^
@@ -561,6 +565,7 @@
 ||87454.pet^
 ||874721.pet^
 ||87677.pet^
+||87842.pet^
 ||88098.pet^
 ||88221.pet^
 ||88389.pet^
@@ -581,7 +586,6 @@
 ||898445.pet^
 ||90467.pet^
 ||90597.pet^
-||90726.pet^
 ||9088889.pet^
 ||9098889.pet^
 ||9108889.pet^
@@ -696,25 +700,22 @@
 ||ahglb.pet^
 ||ahjbl.pet^
 ||ahlmg.pet^
-||aiai.pet^
 ||ailmg.pet^
 ||aimil.pet^
 ||ajcph.pet^
-||alaskanmade.pet^
-||alaskanmadefood.pet^
 ||aliados.pet^
-||alicdn.pet^
 ||aliens.pet^
 ||aljbc.pet^
 ||all4.pet^
 ||alldogsgotoheaven.pet^
 ||almjh.pet^
-||alphapetproducts.pet^
+||ambrosia.pet^
 ||amcbj.pet^
 ||americanmade.pet^
 ||amesv.pet^
 ||amgid.pet^
 ||analuisa.pet^
+||animalink.pet^
 ||animalistiq.pet^
 ||animax.pet^
 ||apdgl.pet^
@@ -727,6 +728,7 @@
 ||aprrx.pet^
 ||aqilp.pet^
 ||arab.pet^
+||archive.pet^
 ||arzsb.pet^
 ||asmxx.pet^
 ||asoqx.pet^
@@ -974,6 +976,7 @@
 ||fvgdg.pet^
 ||fxmlu.pet^
 ||fxqdn.pet^
+||gabrielatoth.pet^
 ||gacjd.pet^
 ||gahdi.pet^
 ||gahjl.pet^
@@ -1163,6 +1166,7 @@
 ||jpmlb.pet^
 ||jtag.pet^
 ||jupiter.pet^
+||jupitercat.pet^
 ||justcatscause.pet^
 ||jzdai.pet^
 ||jzrpj.pet^
@@ -1178,6 +1182,7 @@
 ||kle.pet^
 ||knowyour.pet^
 ||koalaland.pet^
+||kodomochi.pet^
 ||komori.pet^
 ||kpafj.pet^
 ||krmimkvalitne.pet^
@@ -1200,6 +1205,7 @@
 ||lewd.pet^
 ||lexie.pet^
 ||lfjxl.pet^
+||lgbt.pet^
 ||lgmai.pet^
 ||lhacg.pet^
 ||lhbcg.pet^
@@ -1248,7 +1254,6 @@
 ||memorie.pet^
 ||mempool.pet^
 ||meowly.pet^
-||meu.pet^
 ||mgaij.pet^
 ||mgcad.pet^
 ||mgdpj.pet^
@@ -1307,6 +1312,7 @@
 ||moon.pet^
 ||morosina.pet^
 ||motchill.pet^
+||movie4me.pet^
 ||moyat.pet^
 ||mpahi.pet^
 ||musso.pet^
@@ -1347,6 +1353,7 @@
 ||oodbq.pet^
 ||oodles.pet^
 ||oowcw.pet^
+||openchat.pet^
 ||orby.pet^
 ||order.pet^
 ||othlt.pet^
@@ -1369,6 +1376,7 @@
 ||pawluna.pet^
 ||pawrfectplates.pet^
 ||pawsitivelypurrfection.pet^
+||pawsitivepartners.pet^
 ||pawswhiskerswings.pet^
 ||pawzroad.pet^
 ||pbjcl.pet^
@@ -1404,7 +1412,6 @@
 ||plcdq.pet^
 ||plltu.pet^
 ||plush.pet^
-||png.pet^
 ||pnot.pet^
 ||pnut.pet^
 ||pocobull.pet^
@@ -1455,6 +1462,8 @@
 ||reginakernel.pet^
 ||rejuvenation.pet^
 ||remedi.pet^
+||remedy-pharmacy.pet^
+||remedypharmacy.pet^
 ||remind.pet^
 ||renue.pet^
 ||rep.pet^
@@ -1463,6 +1472,7 @@
 ||rggyf.pet^
 ||rmfuz.pet^
 ||roco.pet^
+||rpg.pet^
 ||ruffrunners.pet^
 ||rvxbu.pet^
 ||rwmpf.pet^
@@ -1473,6 +1483,7 @@
 ||sciu.pet^
 ||scooply.pet^
 ||scrap.pet^
+||scritch.pet^
 ||scxme.pet^
 ||seguromascotas.pet^
 ||sekbh.pet^
@@ -1511,6 +1522,7 @@
 ||taminaru.pet^
 ||taya.pet^
 ||teieqram.pet^
+||telegarm.pet^
 ||telepurr.pet^
 ||televet.pet^
 ||terminal.pet^
@@ -1527,6 +1539,7 @@
 ||toyo.pet^
 ||tquuk.pet^
 ||trace.pet^
+||tradekey.pet^
 ||trend.pet^
 ||trusts.pet^
 ||tua.pet^
