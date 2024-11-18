@@ -77,14 +77,10 @@
 ||change-now.exchange^
 ||changelly.exchange^
 ||choice.exchange^
-||cineproperty.exchange^
 ||claude.exchange^
 ||client.exchange^
 ||clipperr.exchange^
 ||cnn.exchange^
-||cnsv-coin.exchange^
-||cnsv.exchange^
-||cnsvcoin.exchange^
 ||co2e.exchange^
 ||cocoacoin.exchange^
 ||codegacor.exchange^
@@ -100,8 +96,6 @@
 ||coinwrap.exchange^
 ||cold.exchange^
 ||commit.exchange^
-||conserve.exchange^
-||conservecoin.exchange^
 ||context.exchange^
 ||coppers.exchange^
 ||coss.exchange^
@@ -158,7 +152,6 @@
 ||esports.exchange^
 ||etfbitcoin.exchange^
 ||eth-price.exchange^
-||eti.exchange^
 ||evedex.exchange^
 ||ex3.exchange^
 ||fairdeal365.exchange^
@@ -266,7 +259,6 @@
 ||nexgencrypto.exchange^
 ||nexustracks.exchange^
 ||nfa.exchange^
-||nftmall.exchange^
 ||nika.exchange^
 ||nobos.exchange^
 ||nokyc.exchange^
@@ -291,7 +283,6 @@
 ||piguetgalland.exchange^
 ||pinky.exchange^
 ||pinto.exchange^
-||piswap.exchange^
 ||platinumeagle.exchange^
 ||polishcrypto.exchange^
 ||popsicle.exchange^
@@ -330,7 +321,6 @@
 ||send.exchange^
 ||serum.exchange^
 ||silvereagle.exchange^
-||siz.exchange^
 ||sky999.exchange^
 ||skysync.exchange^
 ||socialconnection.exchange^
@@ -367,9 +357,7 @@
 ||topslot88.exchange^
 ||toros.exchange^
 ||toshi.exchange^
-||trustcoin.exchange^
 ||trusteddata.exchange^
-||trustglobal.exchange^
 ||trustp2p.exchange^
 ||trustum.exchange^
 ||uickswap.exchange^
@@ -397,4 +385,3 @@
 ||yoyo.exchange^
 ||yunnancoffee.exchange^
 ||zina.exchange^
-||zocial.exchange^

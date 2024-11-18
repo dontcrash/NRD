@@ -19,6 +19,7 @@
 ||datahub.build^
 ||dataset.build^
 ||denis.build^
+||doge.build^
 ||dps.build^
 ||dreamventure.build^
 ||endeavor.build^
@@ -51,11 +52,14 @@
 ||lucidjs.build^
 ||manzanita.build^
 ||marcello.build^
+||marketagents.build^
 ||maverickdesign.build^
 ||metamask.build^
 ||mi.build^
 ||modernfarmhouse.build^
+||naptha.build^
 ||nikos.build^
+||ntc.build^
 ||ohso.build^
 ||pgslot.build^
 ||poe2.build^
@@ -81,12 +85,14 @@
 ||sousa.build^
 ||spawn.build^
 ||statehomeservices.build^
+||sumcheck.build^
 ||supa.build^
 ||tally.build^
 ||tawakkul.build^
 ||timemy.build^
 ||topcontractors.build^
 ||toptieraf.build^
+||tree0.build^
 ||tscc.build^
 ||typesystem.build^
 ||unext.build^
@@ -98,5 +104,6 @@
 ||webflow.build^
 ||webfour.build^
 ||whitebox.build^
+||willowbrooks.build^
 ||xware.build^
 ||zuba.build^
