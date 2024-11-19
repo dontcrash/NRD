@@ -5,10 +5,12 @@
 ||abc8.actor^
 ||aibot.actor^
 ||alphastore.actor^
+||amazoncardredeem.actor^
 ||bootleg.actor^
 ||chicano.actor^
 ||chrisberg.actor^
 ||cnn.actor^
+||cuspre.actor^
 ||dave.actor^
 ||development.actor^
 ||downhillpodcast.actor^
@@ -22,6 +24,7 @@
 ||hologram-sex.actor^
 ||holoporn.actor^
 ||holotv.actor^
+||https.actor^
 ||httpswww.actor^
 ||hyperf.actor^
 ||igrewupinamiddleclassfamily.actor^
@@ -43,6 +46,7 @@
 ||tdtc.actor^
 ||tenderfoot.actor^
 ||thomaswlombard.actor^
+||token.actor^
 ||tomfox.actor^
 ||tomlombard.actor^
 ||toys.actor^

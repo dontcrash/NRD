@@ -8,6 +8,8 @@
 ||backstory.build^
 ||bana.build^
 ||benchmarkagency.build^
+||bristlecone.build^
+||capx.build^
 ||cerebrius.build^
 ||commonground.build^
 ||consenlabs.build^
@@ -29,6 +31,7 @@
 ||exaplex.build^
 ||felce.build^
 ||founder.build^
+||fulgora.build^
 ||geofoam.build^
 ||grok.build^
 ||gsl.build^
@@ -39,6 +42,7 @@
 ||hologram.build^
 ||horde.build^
 ||immersive.build^
+||ingress.build^
 ||j-2.build^
 ||johndoe.build^
 ||kingdomrenovation.build^
@@ -87,6 +91,7 @@
 ||statehomeservices.build^
 ||sumcheck.build^
 ||supa.build^
+||swiftconstruction.build^
 ||tally.build^
 ||tawakkul.build^
 ||timemy.build^

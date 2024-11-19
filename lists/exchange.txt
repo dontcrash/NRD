@@ -18,6 +18,7 @@
 ||alltoall.exchange^
 ||alo789.exchange^
 ||aloha.exchange^
+||alot.exchange^
 ||amexa.exchange^
 ||aniseed.exchange^
 ||anne.exchange^
@@ -48,23 +49,21 @@
 ||binanceweb3.exchange^
 ||bitcoinethereum.exchange^
 ||bitfury.exchange^
-||bitfuse.exchange^
-||bitsector.exchange^
+||bittop.exchange^
 ||bityaris.exchange^
 ||blairwolfera.exchange^
 ||blastdex.exchange^
 ||blizz.exchange^
-||blockchaingroup.exchange^
 ||bluetrade.exchange^
 ||bob.exchange^
 ||bogema.exchange^
 ||box.exchange^
 ||btc-fi.exchange^
+||btcusd.exchange^
 ||buff.exchange^
 ||buffalo.exchange^
 ||bybit-com.exchange^
 ||bypass.exchange^
-||c0m.exchange^
 ||cacaocoin.exchange^
 ||canadiancrypto.exchange^
 ||capitall.exchange^
@@ -80,6 +79,7 @@
 ||claude.exchange^
 ||client.exchange^
 ||clipperr.exchange^
+||cmmc.exchange^
 ||cnn.exchange^
 ||co2e.exchange^
 ||cocoacoin.exchange^
@@ -89,7 +89,6 @@
 ||coinhub.exchange^
 ||coinmarketcapcentral.exchange^
 ||coinmarketcaphub.exchange^
-||coinmarketcapproducts.exchange^
 ||coinspace.exchange^
 ||cointransfer.exchange^
 ||coinvest.exchange^
@@ -97,7 +96,6 @@
 ||cold.exchange^
 ||commit.exchange^
 ||context.exchange^
-||coppers.exchange^
 ||coss.exchange^
 ||courier.exchange^
 ||creativ.exchange^
@@ -116,10 +114,8 @@
 ||cryptonetwork.exchange^
 ||cryptonews.exchange^
 ||cryptonft.exchange^
-||cryptonito.exchange^
 ||cryptopia.exchange^
 ||cryptosmemes.exchange^
-||cryptotech.exchange^
 ||cryptovault.exchange^
 ||dawg.exchange^
 ||dda.exchange^
@@ -132,7 +128,6 @@
 ||dexch.exchange^
 ||diceswap.exchange^
 ||digitalartifact.exchange^
-||dmac.exchange^
 ||doginalnonkyc.exchange^
 ||dope.exchange^
 ||doxxed.exchange^
@@ -151,8 +146,6 @@
 ||erium.exchange^
 ||esports.exchange^
 ||etfbitcoin.exchange^
-||eth-price.exchange^
-||evedex.exchange^
 ||ex3.exchange^
 ||fairdeal365.exchange^
 ||fantasy.exchange^
@@ -162,7 +155,6 @@
 ||finly.exchange^
 ||flippers.exchange^
 ||fomox.exchange^
-||fora.exchange^
 ||forexmartweb3.exchange^
 ||forextrader.exchange^
 ||futarchy.exchange^
@@ -187,10 +179,10 @@
 ||happy-end.exchange^
 ||hashrate.exchange^
 ||heartwood.exchange^
-||hela.exchange^
 ||hidden.exchange^
 ||hits.exchange^
 ||hkdsttd.exchange^
+||hltbtc.exchange^
 ||hypersonic.exchange^
 ||i-nter.exchange^
 ||iee.exchange^
@@ -205,6 +197,7 @@
 ||jarnex.exchange^
 ||javaslot88.exchange^
 ||jellyfish.exchange^
+||jensen.exchange^
 ||jewel.exchange^
 ||jiring.exchange^
 ||jpx.exchange^
@@ -221,7 +214,10 @@
 ||latamcrypto.exchange^
 ||latebloomer.exchange^
 ||latebloomers.exchange^
+||latte.exchange^
 ||lido-finance.exchange^
+||lightning-stock.exchange^
+||lightningstock.exchange^
 ||listen2music.exchange^
 ||liverpool.exchange^
 ||localbitcoins.exchange^
@@ -237,7 +233,6 @@
 ||mellie.exchange^
 ||memenetwork.exchange^
 ||middle.exchange^
-||miraxcoin.exchange^
 ||monease.exchange^
 ||monee.exchange^
 ||moneys.exchange^
@@ -246,8 +241,8 @@
 ||morpheus.exchange^
 ||movo.exchange^
 ||msp.exchange^
-||multicast.exchange^
 ||myai.exchange^
+||mydata.exchange^
 ||mystate.exchange^
 ||mythosx.exchange^
 ||mythx.exchange^
@@ -276,7 +271,6 @@
 ||paddle.exchange^
 ||paix.exchange^
 ||pangol1n.exchange^
-||panhai.exchange^
 ||paris123.exchange^
 ||peacedollar.exchange^
 ||pentaswap.exchange^
@@ -285,11 +279,12 @@
 ||pinto.exchange^
 ||platinumeagle.exchange^
 ||polishcrypto.exchange^
+||pool-0x0.exchange^
+||pools-0x0.exchange^
 ||popsicle.exchange^
 ||predicted.exchange^
 ||prediction.exchange^
 ||premiumcash.exchange^
-||pricelessplanet.exchange^
 ||privatemarket.exchange^
 ||profit.exchange^
 ||puppys.exchange^
@@ -309,12 +304,13 @@
 ||radial.exchange^
 ||rampx.exchange^
 ||renovacoin.exchange^
-||ripple.exchange^
 ||ritcoin.exchange^
 ||robust.exchange^
 ||robux.exchange^
+||roll.exchange^
 ||rydexcoin.exchange^
 ||saka.exchange^
+||samideal.exchange^
 ||sayler.exchange^
 ||seal.exchange^
 ||selfdriven.exchange^
@@ -348,6 +344,7 @@
 ||tfh.exchange^
 ||theaccuracy.exchange^
 ||thebackload.exchange^
+||theexperience.exchange^
 ||thehack.exchange^
 ||thehackexchange.exchange^
 ||thelogistics.exchange^
@@ -357,6 +354,8 @@
 ||topslot88.exchange^
 ||toros.exchange^
 ||toshi.exchange^
+||treasurypool-0x0.exchange^
+||tree.exchange^
 ||trusteddata.exchange^
 ||trustp2p.exchange^
 ||trustum.exchange^
@@ -380,7 +379,6 @@
 ||wwwquickswap.exchange^
 ||xgames.exchange^
 ||xin88.exchange^
-||xrp-price.exchange^
 ||ydyx.exchange^
 ||yoyo.exchange^
 ||yunnancoffee.exchange^

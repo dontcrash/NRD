@@ -67,7 +67,6 @@
 ||bet7k.events^
 ||bewunder.events^
 ||biel.events^
-||bigsky.events^
 ||blackborn.events^
 ||blackout.events^
 ||blc.events^
@@ -94,7 +93,6 @@
 ||cabo.events^
 ||cafirst.events^
 ||calvaryeagles.events^
-||canvasback.events^
 ||capsule-ticketing.events^
 ||cardcollector2.events^
 ||cargo.events^
@@ -123,6 +121,7 @@
 ||classofevents.events^
 ||clipper.events^
 ||clk.events^
+||clubhaus.events^
 ||clubs.events^
 ||cluster.events^
 ||cmoa.events^
@@ -171,7 +170,6 @@
 ||divorzio.events^
 ||diwali.events^
 ||djalien.events^
-||djricochet.events^
 ||docs.events^
 ||dol.events^
 ||downtownskokie.events^
@@ -203,7 +201,6 @@
 ||erplus.events^
 ||escorts.events^
 ||espn.events^
-||estateplanning.events^
 ||esthetic.events^
 ||ethervistadex.events^
 ||etlegacy.events^
@@ -222,8 +219,6 @@
 ||fastride.events^
 ||fcs.events^
 ||fedrok.events^
-||feierlaune.events^
-||fel.events^
 ||fernhaus.events^
 ||fest-vergeben.events^
 ||feverdream.events^
@@ -249,7 +244,6 @@
 ||furniturefor.events^
 ||fusionlab.events^
 ||fute.events^
-||futuremobilitymedia.events^
 ||g.events^
 ||gacor.events^
 ||galactica.events^
@@ -272,9 +266,12 @@
 ||glowvibe.events^
 ||gmedia.events^
 ||gnexus.events^
+||golden-night.events^
 ||golong.events^
 ||goscarlett.events^
 ||goslo.events^
+||gottardo-arena.events^
+||gottardoarena.events^
 ||greekchick.events^
 ||greeknights.events^
 ||griffeth.events^
@@ -285,6 +282,8 @@
 ||gyofuture.events^
 ||hamas.events^
 ||hand-off.events^
+||happytime.events^
+||hastalavista.events^
 ||hatch.events^
 ||heavenculture.events^
 ||helion.events^
@@ -298,6 +297,7 @@
 ||hsm.events^
 ||huawei.events^
 ||huddler.events^
+||humanriskmanagement.events^
 ||humtum.events^
 ||iconicframes.events^
 ||ide.events^
@@ -323,6 +323,7 @@
 ||integro.events^
 ||intentional.events^
 ||intmedia.events^
+||intothelight.events^
 ||intranet.events^
 ||iow.events^
 ||istra.events^
@@ -331,6 +332,7 @@
 ||jackwalker.events^
 ||jago.events^
 ||jagomuseum.events^
+||jail.events^
 ||jantech.events^
 ||javan.events^
 ||jaybird.events^
@@ -341,7 +343,6 @@
 ||joodoo.events^
 ||joya.events^
 ||jsp.events^
-||junglefever.events^
 ||juniperridge.events^
 ||justlunch.events^
 ||kad.events^
@@ -354,9 +355,9 @@
 ||ktvtogel.events^
 ||kubet11.events^
 ||kuwin.events^
+||labellefrance.events^
 ||labs-claim.events^
 ||labs-claims.events^
-||lagoon.events^
 ||landmarkventures.events^
 ||lapa.events^
 ||laperlaequus.events^
@@ -381,6 +382,7 @@
 ||lostandfound.events^
 ||love.events^
 ||lovebird.events^
+||loves.events^
 ||lovi.events^
 ||loyg.events^
 ||lstm.events^
@@ -396,10 +398,11 @@
 ||mavericklive.events^
 ||maxpert.events^
 ||maxxx.events^
+||mckevents.events^
 ||meerkat.events^
+||megsquisite.events^
 ||mehrnazazami.events^
 ||melodycatering.events^
-||mempool.events^
 ||mentalhealth.events^
 ||metamask-2fa.events^
 ||metamorphedu.events^
@@ -419,7 +422,6 @@
 ||mitherz.events^
 ||mnss.events^
 ||momentum.events^
-||momentz.events^
 ||monad-madness.events^
 ||monster-hunter-wilds.events^
 ||monster-hunter.events^
@@ -428,12 +430,12 @@
 ||monsterhunterplaytest.events^
 ||monsterhunterwildsbeta.events^
 ||monumental.events^
+||mor.events^
 ||mosaiic.events^
 ||moscowosu.events^
 ||motion.events^
 ||mountainmoonabq.events^
 ||movali.events^
-||mozayk.events^
 ||msk.events^
 ||mstr2100.events^
 ||muecke.events^
@@ -457,14 +459,11 @@
 ||needleworks.events^
 ||negroni.events^
 ||neverforget.events^
-||neworleansblackpride.events^
 ||nextlvl.events^
 ||nextplaylive.events^
 ||nightclubs.events^
 ||nirvanavintage.events^
-||nixsolutions.events^
 ||nlights.events^
-||noah.events^
 ||noblelight.events^
 ||noha.events^
 ||norm.events^
@@ -489,6 +488,7 @@
 ||opulent.events^
 ||orb.events^
 ||orthodox.events^
+||otherwise.events^
 ||paradisefound.events^
 ||parentx.events^
 ||partyhub.events^
@@ -513,13 +513,12 @@
 ||playaland.events^
 ||playhouse.events^
 ||playmonsterhunterwilds.events^
-||playrix-20-almaty.events^
-||playrix-20-belgrade.events^
 ||playtestinvites.events^
 ||plori.events^
 ||poaps-boredapeyachtclub.events^
 ||polleosport.events^
 ||pordigious.events^
+||posts.events^
 ||precisionplanning.events^
 ||predict.events^
 ||premierleague.events^
@@ -529,6 +528,7 @@
 ||privacysafe.events^
 ||prodg.events^
 ||provinggrounds.events^
+||puls.events^
 ||pump.events^
 ||pumpfun.events^
 ||purplecork.events^
@@ -541,7 +541,6 @@
 ||rebills.events^
 ||recap.events^
 ||recf.events^
-||reddig.events^
 ||register-merlinchain.events^
 ||register-soneium.events^
 ||registration-hyperlane.events^
@@ -559,13 +558,14 @@
 ||retailtherapy.events^
 ||reward-floki.events^
 ||rise.events^
+||riverspring.events^
 ||roarsome.events^
 ||robotaxi.events^
-||roby.events^
 ||rootsofalbania.events^
 ||rouge-emoi.events^
 ||roundtop.events^
 ||rummycircle.events^
+||rusticyard.events^
 ||ryd.events^
 ||saigon.events^
 ||sampradaya.events^
@@ -596,7 +596,7 @@
 ||signme.events^
 ||signup-hyperlane.events^
 ||signup-zignaly.events^
-||six8.events^
+||site.events^
 ||skokiethursdaynight.events^
 ||skokiethursdaynights.events^
 ||smefusion.events^
@@ -610,7 +610,6 @@
 ||soundtrack.events^
 ||southpoint.events^
 ||spacetraveler.events^
-||spacie.events^
 ||sparkle.events^
 ||sparkling.events^
 ||splashdown.events^
@@ -624,6 +623,7 @@
 ||steamplay.events^
 ||steps.events^
 ||storytime.events^
+||streetparade.events^
 ||stripper.events^
 ||stylus.events^
 ||subterra.events^
@@ -662,6 +662,7 @@
 ||thegoodlife.events^
 ||thekeep.events^
 ||thekeysofeden.events^
+||themonarch.events^
 ||thesunshineconference.events^
 ||thetides.events^
 ||theupgrade.events^
@@ -697,16 +698,16 @@
 ||venue98.events^
 ||vibetype.events^
 ||viby.events^
+||vicinova.events^
 ||villasilvana.events^
 ||vingesus.events^
 ||vissa.events^
 ||volunteerfiredepartment.events^
+||votenix.events^
 ||votex.events^
 ||votifix.events^
 ||votify.events^
 ||votinex.events^
-||votix.events^
-||voxoffice.events^
 ||vpd.events^
 ||walletconnect.events^
 ||wave.events^
@@ -716,7 +717,6 @@
 ||weddingday.events^
 ||weddingwhispers.events^
 ||weinamrhein.events^
-||whitefoxboutique.events^
 ||whitepalm.events^
 ||whosup.events^
 ||wicked.events^
@@ -740,6 +740,7 @@
 ||yuru.events^
 ||zdf.events^
 ||zefiro.events^
+||zensoren.events^
 ||zerafina.events^
 ||zhongxindao.events^
 ||zhyshy.events^

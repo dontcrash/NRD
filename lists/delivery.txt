@@ -34,6 +34,7 @@
 ||btc.delivery^
 ||buffet.delivery^
 ||burger.delivery^
+||cab.delivery^
 ||cabernetsauvignon.delivery^
 ||caliente.delivery^
 ||canadapost-postescanada.delivery^
@@ -54,7 +55,6 @@
 ||cheetah.delivery^
 ||cheninblanc.delivery^
 ||chopchop.delivery^
-||chow.delivery^
 ||cigarandwhiskey.delivery^
 ||cmoa.delivery^
 ||cocoa.delivery^
@@ -62,11 +62,11 @@
 ||congress.delivery^
 ||cornermarket.delivery^
 ||corporatehospitality.delivery^
+||cryptgem.delivery^
 ||cryptocurrency.delivery^
 ||dabba.delivery^
 ||dashflow.delivery^
 ||dcard.delivery^
-||delicacy.delivery^
 ||digi.delivery^
 ||disneyplus.delivery^
 ||disruptive.delivery^
@@ -105,6 +105,7 @@
 ||fute.delivery^
 ||g1.delivery^
 ||gamewith.delivery^
+||gasd.delivery^
 ||gewurztraminer.delivery^
 ||globalexpress.delivery^
 ||globalguide.delivery^
@@ -141,7 +142,6 @@
 ||iltalehti.delivery^
 ||impress.delivery^
 ||indie.delivery^
-||influencer.delivery^
 ||instantlocal.delivery^
 ||intech.delivery^
 ||invoice-anpost.delivery^
@@ -177,12 +177,12 @@
 ||mbc.delivery^
 ||mega-sena.delivery^
 ||melanotan.delivery^
-||mempool.delivery^
 ||menu.delivery^
 ||merlot.delivery^
 ||miltonkeynes.delivery^
 ||missav.delivery^
 ||mission.delivery^
+||movement.delivery^
 ||movies4u.delivery^
 ||mrroomservice.delivery^
 ||mue.delivery^
@@ -214,6 +214,7 @@
 ||oxe.delivery^
 ||p2p.delivery^
 ||paella.delivery^
+||pangea.delivery^
 ||pie.delivery^
 ||pinayflix.delivery^
 ||pinotgrigio.delivery^
@@ -221,6 +222,7 @@
 ||pinotnoir.delivery^
 ||planted.delivery^
 ||play.delivery^
+||plex.delivery^
 ||pokerstars.delivery^
 ||potstash.delivery^
 ||premierleague.delivery^
@@ -233,6 +235,7 @@
 ||redesimplificada.delivery^
 ||refah-kar.delivery^
 ||resultadofacil.delivery^
+||rez.delivery^
 ||riesling.delivery^
 ||rio.delivery^
 ||romanswqa.delivery^
@@ -253,15 +256,16 @@
 ||sex-studentki.delivery^
 ||sexvid.delivery^
 ||sf-international.delivery^
+||shabeb.delivery^
 ||shashlik-house.delivery^
 ||shiraz.delivery^
 ||skinbetter.delivery^
+||smoothpath.delivery^
 ||solar.delivery^
 ||solucaoformal.delivery^
 ||sos.delivery^
 ||soup.delivery^
 ||spaghetti.delivery^
-||summit.delivery^
 ||super.delivery^
 ||superchat.delivery^
 ||syrah.delivery^
@@ -272,12 +276,9 @@
 ||tief.delivery^
 ||tkjwjb.delivery^
 ||toiletpaper.delivery^
-||transnet-parcel.delivery^
-||transnetparcel.delivery^
 ||tubesafari.delivery^
 ||turbo.delivery^
 ||tv2.delivery^
-||twenty4.delivery^
 ||u888.delivery^
 ||uae.delivery^
 ||unicorn.delivery^
