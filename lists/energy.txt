@@ -1,5 +1,4 @@
 ||1330.energy^
-||2theta.energy^
 ||41.energy^
 ||8inch.energy^
 ||aaron.energy^
@@ -55,13 +54,11 @@
 ||bvgi.energy^
 ||byera.energy^
 ||c60.energy^
-||caeli-solar.energy^
-||caelisolar.energy^
 ||caineco.energy^
 ||cairn.energy^
 ||cake.energy^
 ||camva.energy^
-||carbon3.energy^
+||carbonledger.energy^
 ||cargu.energy^
 ||caspian.energy^
 ||cassolar.energy^
@@ -108,6 +105,7 @@
 ||dynamic-contracts.energy^
 ||dynamicprices.energy^
 ||dynamictariffs.energy^
+||earendel.energy^
 ||eb.energy^
 ||ecotek.energy^
 ||edrink.energy^
@@ -126,7 +124,6 @@
 ||energiesofservice.energy^
 ||energyhealing.energy^
 ||energyonsite.energy^
-||energyproeg.energy^
 ||enflec.energy^
 ||enform.energy^
 ||engen.energy^
@@ -145,6 +142,7 @@
 ||estec-kraken.energy^
 ||everfuel.energy^
 ||everon.energy^
+||evl.energy^
 ||evpowa.energy^
 ||evpower.energy^
 ||evtol.energy^
@@ -160,8 +158,6 @@
 ||flexlink.energy^
 ||flexplore.energy^
 ||flextrack.energy^
-||flipside.energy^
-||floridagreen.energy^
 ||forerunner.energy^
 ||fortem.energy^
 ||fortico.energy^
@@ -180,8 +176,6 @@
 ||glasspoint.energy^
 ||globalx.energy^
 ||glp1.energy^
-||go-perpetua.energy^
-||go-renewable.energy^
 ||goldbull.energy^
 ||grantstrem.energy^
 ||greenacre.energy^
@@ -286,6 +280,7 @@
 ||morocco-germany.energy^
 ||motion.energy^
 ||mulag.energy^
+||multivolt.energy^
 ||muskheater.energy^
 ||must.energy^
 ||mypope.energy^
@@ -303,25 +298,24 @@
 ||novel.energy^
 ||nuai.energy^
 ||nudge.energy^
-||nuke.energy^
 ||nusantara.energy^
 ||oasey.energy^
 ||odingear.energy^
 ||oeg.energy^
 ||oleo.energy^
 ||oln.energy^
+||onel.energy^
 ||ongrid.energy^
 ||ontap.energy^
 ||op-bot.energy^
 ||opbot.energy^
 ||operatingpartner.energy^
 ||opsite.energy^
-||orang.energy^
-||ornr.energy^
 ||oselp.energy^
 ||owex.energy^
 ||ownyourpowur.energy^
 ||p4u.energy^
+||pacerbattery.energy^
 ||passive.energy^
 ||peggy.energy^
 ||pete.energy^
@@ -339,10 +333,10 @@
 ||power2go.energy^
 ||powerchord.energy^
 ||powercord.energy^
+||poweredbymeta.energy^
 ||poweredbyosmosis.energy^
 ||powerhub.energy^
 ||powernow.energy^
-||powersphere.energy^
 ||powrsmart.energy^
 ||practiceprovidesproof.energy^
 ||principium.energy^
@@ -359,7 +353,6 @@
 ||reachsolar.energy^
 ||reafuel.energy^
 ||recover.energy^
-||reinvent.energy^
 ||relaxing.energy^
 ||reliance.energy^
 ||renewabletech.energy^
@@ -369,7 +362,6 @@
 ||rf.energy^
 ||roadline.energy^
 ||rockvillesolar.energy^
-||rugged.energy^
 ||rzjab.energy^
 ||s-f.energy^
 ||savetheplanet.energy^
@@ -388,7 +380,7 @@
 ||snowy.energy^
 ||socialx.energy^
 ||solar-electric.energy^
-||solarhydrogen.energy^
+||solarbot.energy^
 ||solarpowerpanel.energy^
 ||solarside.energy^
 ||solarwind.energy^
@@ -399,6 +391,7 @@
 ||soltec.energy^
 ||solv.energy^
 ||sono.energy^
+||sourceresonance.energy^
 ||spawn.energy^
 ||specific.energy^
 ||spirithallow.energy^
@@ -434,12 +427,10 @@
 ||trast.energy^
 ||tri-point.energy^
 ||tri.energy^
-||tripleedge.energy^
 ||trump.energy^
 ||trumpmusk.energy^
 ||ttl.energy^
 ||twin.energy^
-||twotheta.energy^
 ||u888.energy^
 ||ukgas.energy^
 ||uluniu.energy^
@@ -458,7 +449,6 @@
 ||vistamar.energy^
 ||vitaleco.energy^
 ||vitalife.energy^
-||vitamins.energy^
 ||voltaqua.energy^
 ||voltexa.energy^
 ||vorsprung.energy^
