@@ -9,6 +9,7 @@
 ||aibot.exchange^
 ||aita.exchange^
 ||algo.exchange^
+||allco.exchange^
 ||allindian.exchange^
 ||alljobfinder.exchange^
 ||allpanelexch.exchange^
@@ -38,7 +39,6 @@
 ||avalanchego.exchange^
 ||b2m.exchange^
 ||backload.exchange^
-||barterlink.exchange^
 ||beyond.exchange^
 ||bigbang.exchange^
 ||binanbot.exchange^
@@ -48,10 +48,8 @@
 ||bitfury.exchange^
 ||bittop.exchange^
 ||blairwolfera.exchange^
-||blastdex.exchange^
 ||blizz.exchange^
 ||bluetrade.exchange^
-||bob.exchange^
 ||bogema.exchange^
 ||box.exchange^
 ||btc-fi.exchange^
@@ -60,7 +58,6 @@
 ||buffalo.exchange^
 ||bybit-com.exchange^
 ||bypass.exchange^
-||cacaocoin.exchange^
 ||canadiancrypto.exchange^
 ||capitall.exchange^
 ||capitalletter.exchange^
@@ -77,13 +74,10 @@
 ||cmmc.exchange^
 ||cnn.exchange^
 ||co2e.exchange^
-||cocoacoin.exchange^
 ||codegacor.exchange^
 ||coincapwallet.exchange^
 ||coiner.exchange^
 ||coinhub.exchange^
-||coinmarketcapcentral.exchange^
-||coinmarketcaphub.exchange^
 ||coinspace.exchange^
 ||cointransfer.exchange^
 ||coinvest.exchange^
@@ -100,6 +94,7 @@
 ||cryptoairdrop.exchange^
 ||cryptoarchivio.exchange^
 ||cryptoclearing.exchange^
+||cryptogame.exchange^
 ||cryptohaven.exchange^
 ||cryptomarkt.exchange^
 ||cryptomemes.exchange^
@@ -144,6 +139,7 @@
 ||ex3.exchange^
 ||fairdeal365.exchange^
 ||fantasy.exchange^
+||fasc.exchange^
 ||fastswap.exchange^
 ||fc.exchange^
 ||fdusd.exchange^
@@ -238,7 +234,6 @@
 ||mystate.exchange^
 ||mythosx.exchange^
 ||mythx.exchange^
-||nakheel.exchange^
 ||nautilus.exchange^
 ||neby.exchange^
 ||neutrino.exchange^
@@ -291,11 +286,10 @@
 ||quickwp.exchange^
 ||quicswap.exchange^
 ||quiet.exchange^
-||quikpay.exchange^
 ||quikswap.exchange^
-||radial.exchange^
 ||rampx.exchange^
 ||renovacoin.exchange^
+||retoswap.exchange^
 ||ritcoin.exchange^
 ||robust.exchange^
 ||robux.exchange^
@@ -317,12 +311,13 @@
 ||soless.exchange^
 ||solly.exchange^
 ||solsocks.exchange^
+||solvance.exchange^
+||sona.exchange^
 ||spacemixer.exchange^
 ||spankbang.exchange^
 ||sphere.exchange^
 ||sportingtrading.exchange^
 ||stakely.exchange^
-||stellarwallet.exchange^
 ||storagessl.exchange^
 ||strategie.exchange^
 ||submission.exchange^
@@ -349,7 +344,8 @@
 ||trusteddata.exchange^
 ||trustum.exchange^
 ||uickswap.exchange^
-||valhalla.exchange^
+||v2-apex.exchange^
+||v2-rango.exchange^
 ||valloop.exchange^
 ||velodrome.exchange^
 ||voltrade.exchange^
@@ -362,6 +358,7 @@
 ||web5.exchange^
 ||woods.exchange^
 ||workspace.exchange^
+||worldlibertyfinancial.exchange^
 ||wrg.exchange^
 ||wwwquickswap.exchange^
 ||xgames.exchange^
@@ -369,4 +366,5 @@
 ||ydyx.exchange^
 ||yoyo.exchange^
 ||yunnancoffee.exchange^
+||zaim.exchange^
 ||zina.exchange^

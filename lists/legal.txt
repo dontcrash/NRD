@@ -10,6 +10,11 @@
 ||03168.legal^
 ||03188.legal^
 ||0330331.legal^
+||0330332.legal^
+||0330333.legal^
+||0330334.legal^
+||0330335.legal^
+||0330336.legal^
 ||03662.legal^
 ||04457.legal^
 ||048101.legal^
@@ -54,6 +59,7 @@
 ||12535.legal^
 ||12586.legal^
 ||12597.legal^
+||126143.legal^
 ||126896.legal^
 ||12784.legal^
 ||12873.legal^
@@ -85,10 +91,6 @@
 ||159443.legal^
 ||15953.legal^
 ||161484.legal^
-||162310.legal^
-||162311.legal^
-||162312.legal^
-||162313.legal^
 ||162316.legal^
 ||162317.legal^
 ||162318.legal^
@@ -102,7 +104,6 @@
 ||162966.legal^
 ||16304.legal^
 ||164124.legal^
-||164870.legal^
 ||16539.legal^
 ||16587.legal^
 ||16727.legal^
@@ -112,6 +113,7 @@
 ||17414.legal^
 ||17699.legal^
 ||17886.legal^
+||17910.legal^
 ||18167.legal^
 ||1820.legal^
 ||183789.legal^
@@ -170,6 +172,7 @@
 ||23547.legal^
 ||23581.legal^
 ||23587.legal^
+||236359.legal^
 ||23690.legal^
 ||23951.legal^
 ||24198.legal^
@@ -177,6 +180,7 @@
 ||24892.legal^
 ||24961.legal^
 ||25697.legal^
+||258147.legal^
 ||25831.legal^
 ||258674.legal^
 ||26040.legal^
@@ -241,7 +245,6 @@
 ||34126.legal^
 ||342682.legal^
 ||34328.legal^
-||347001.legal^
 ||34834.legal^
 ||35024.legal^
 ||35071.legal^
@@ -253,10 +256,12 @@
 ||35808.legal^
 ||360803.legal^
 ||36209.legal^
+||362345.legal^
 ||36257.legal^
 ||36356.legal^
 ||36459.legal^
 ||36509.legal^
+||36531.legal^
 ||36587.legal^
 ||36715.legal^
 ||37045.legal^
@@ -265,6 +270,7 @@
 ||376416.legal^
 ||37669.legal^
 ||37704.legal^
+||37706.legal^
 ||378066.legal^
 ||37821.legal^
 ||38237.legal^
@@ -425,6 +431,8 @@
 ||540717.legal^
 ||54289.legal^
 ||546372.legal^
+||546401.legal^
+||54770.legal^
 ||54776.legal^
 ||548845.legal^
 ||55.legal^
@@ -461,19 +469,16 @@
 ||56367.legal^
 ||56368.legal^
 ||56369.legal^
-||564270.legal^
+||56370.legal^
+||56371.legal^
+||56372.legal^
+||56373.legal^
 ||56430.legal^
-||564710.legal^
-||564810.legal^
-||564870.legal^
-||564872.legal^
-||564873.legal^
 ||56563.legal^
 ||56836.legal^
 ||568742.legal^
 ||56982.legal^
 ||56984.legal^
-||569870.legal^
 ||57.legal^
 ||57102.legal^
 ||57118.legal^
@@ -505,6 +510,7 @@
 ||61460.legal^
 ||614850.legal^
 ||61487.legal^
+||61555.legal^
 ||61603.legal^
 ||61715.legal^
 ||61716.legal^
@@ -529,6 +535,7 @@
 ||63092.legal^
 ||63128.legal^
 ||63178.legal^
+||63218.legal^
 ||63343.legal^
 ||63479.legal^
 ||63503.legal^
@@ -539,7 +546,6 @@
 ||63882.legal^
 ||63983.legal^
 ||64152.legal^
-||64180.legal^
 ||64282.legal^
 ||64379.legal^
 ||64462.legal^
@@ -547,11 +553,11 @@
 ||64722.legal^
 ||64745.legal^
 ||64800.legal^
+||64867.legal^
 ||64917.legal^
 ||649327.legal^
 ||65.legal^
 ||65273.legal^
-||654673.legal^
 ||65622.legal^
 ||65624.legal^
 ||65626.legal^
@@ -689,6 +695,7 @@
 ||76926.legal^
 ||77.legal^
 ||77122.legal^
+||77338.legal^
 ||77585.legal^
 ||77668.legal^
 ||77866.legal^
@@ -723,11 +730,12 @@
 ||79481.legal^
 ||79546.legal^
 ||79614.legal^
-||79814.legal^
 ||79843.legal^
 ||79856.legal^
 ||79967.legal^
 ||80.legal^
+||80043.legal^
+||80073.legal^
 ||80336.legal^
 ||804637.legal^
 ||804639.legal^
@@ -754,6 +762,7 @@
 ||80709.legal^
 ||80744.legal^
 ||80760.legal^
+||80782.legal^
 ||80827.legal^
 ||80835.legal^
 ||80919.legal^
@@ -762,6 +771,7 @@
 ||81141.legal^
 ||81406.legal^
 ||81440.legal^
+||814532.legal^
 ||81542.legal^
 ||81545.legal^
 ||815473.legal^
@@ -806,6 +816,7 @@
 ||85211.legal^
 ||85300.legal^
 ||853703.legal^
+||85423.legal^
 ||85431.legal^
 ||854506.legal^
 ||85538.legal^
@@ -814,6 +825,7 @@
 ||85568.legal^
 ||85604.legal^
 ||85679.legal^
+||85681.legal^
 ||85694.legal^
 ||85697.legal^
 ||85820.legal^
@@ -834,11 +846,6 @@
 ||86587.legal^
 ||86663.legal^
 ||86926.legal^
-||86963.legal^
-||86964.legal^
-||86965.legal^
-||86966.legal^
-||86967.legal^
 ||86982.legal^
 ||87.legal^
 ||870464.legal^
@@ -864,7 +871,9 @@
 ||89439.legal^
 ||89512.legal^
 ||89556.legal^
+||89568.legal^
 ||89602.legal^
+||89606.legal^
 ||89653.legal^
 ||897976.legal^
 ||89837.legal^
@@ -1000,9 +1009,9 @@
 ||anita.legal^
 ||annarizzo.legal^
 ||arlo.legal^
-||arrows.legal^
 ||asana.legal^
 ||atipic.legal^
+||aula.legal^
 ||axen.legal^
 ||bancochile.legal^
 ||bancoestado.legal^
@@ -1026,6 +1035,7 @@
 ||bmo.legal^
 ||boc.legal^
 ||bongacams.legal^
+||borgonovo.legal^
 ||boyfriendtv.legal^
 ||brand.legal^
 ||brazzersnetwork.legal^
@@ -1043,6 +1053,8 @@
 ||ccw.legal^
 ||chaturbate.legal^
 ||cheeley.legal^
+||chicana.legal^
+||chicano.legal^
 ||chill.legal^
 ||cityheaven.legal^
 ||civita.legal^
@@ -1055,7 +1067,6 @@
 ||county.legal^
 ||cuestion.legal^
 ||customercare.legal^
-||darink.legal^
 ||darwin.legal^
 ||databreach.legal^
 ||debiturapk.legal^
@@ -1099,7 +1110,6 @@
 ||golan.legal^
 ||good88.legal^
 ||goodmanspring.legal^
-||greenline.legal^
 ||harrier.legal^
 ||harrison-heron.legal^
 ||hathaway.legal^
@@ -1107,7 +1117,6 @@
 ||hdfcbank.legal^
 ||hermestx.legal^
 ||hjbro.legal^
-||howard.legal^
 ||hqporner.legal^
 ||hvkrb.legal^
 ||immigrationlawyer.legal^
@@ -1141,7 +1150,6 @@
 ||ljb.legal^
 ||llglobal.legal^
 ||log.legal^
-||lts.legal^
 ||lunadev2.legal^
 ||luzern.legal^
 ||maluch.legal^
@@ -1183,6 +1191,7 @@
 ||play.legal^
 ||pornpics.legal^
 ||pornzog.legal^
+||pump.legal^
 ||qaas.legal^
 ||qjjik.legal^
 ||qorno.legal^
@@ -1209,6 +1218,7 @@
 ||sergiogarza.legal^
 ||servicio.legal^
 ||sexvid.legal^
+||sexy.legal^
 ||sharepoint.legal^
 ||simpcity.legal^
 ||simplybusinesslaw.legal^

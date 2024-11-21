@@ -33,6 +33,7 @@
 ||bitcoinply.cards^
 ||bricspay.cards^
 ||buckit.cards^
+||bump.cards^
 ||bushiroad.cards^
 ||butterfield.cards^
 ||bwb.cards^
@@ -77,6 +78,7 @@
 ||eventspay.cards^
 ||festival.cards^
 ||file.cards^
+||finalscore.cards^
 ||fineart.cards^
 ||flashy.cards^
 ||flutter.cards^
@@ -94,6 +96,7 @@
 ||highspeedrail.cards^
 ||hishtag.cards^
 ||homepro.cards^
+||hussy.cards^
 ||idxline.cards^
 ||igniter.cards^
 ||iloveu.cards^
@@ -134,12 +137,10 @@
 ||merge.cards^
 ||metastore.cards^
 ||mijn.cards^
-||miracleword.cards^
 ||mrproxy.cards^
 ||mymedi.cards^
 ||mystatus.cards^
 ||mystery.cards^
-||navigator.cards^
 ||nawadi.cards^
 ||nfcchip.cards^
 ||nok.cards^
@@ -162,6 +163,7 @@
 ||prompts.cards^
 ||ptcg.cards^
 ||pvcclear.cards^
+||pxyz.cards^
 ||qiandao.cards^
 ||quin.cards^
 ||rakhoitv.cards^
@@ -174,12 +176,12 @@
 ||ridapest.cards^
 ||rockjock.cards^
 ||sari-sari.cards^
-||sheet.cards^
 ||sigma.cards^
 ||singaasia.cards^
 ||smn.cards^
 ||soulscript.cards^
 ||spankbang.cards^
+||sportsnft.cards^
 ||ssr.cards^
 ||stadsie.cards^
 ||strelka.cards^
@@ -193,7 +195,6 @@
 ||thetower.cards^
 ||thinker.cards^
 ||thinking.cards^
-||todo.cards^
 ||togelhok.cards^
 ||ttm.cards^
 ||unitednetwork.cards^
@@ -216,4 +217,5 @@
 ||xt.cards^
 ||yahooecommerce.cards^
 ||yay.cards^
+||yoyo.cards^
 ||zao.cards^
