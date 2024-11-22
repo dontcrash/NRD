@@ -25,7 +25,6 @@
 ||apechain.exchange^
 ||apex-app.exchange^
 ||apex-bridge.exchange^
-||apexlucrum.exchange^
 ||api-trading.exchange^
 ||apostolic.exchange^
 ||appsatoshiprotocol.exchange^
@@ -40,12 +39,12 @@
 ||b2m.exchange^
 ||backload.exchange^
 ||beyond.exchange^
-||bigbang.exchange^
 ||binanbot.exchange^
 ||binancefraud.exchange^
 ||binanceweb3.exchange^
 ||bitcoinethereum.exchange^
 ||bitfury.exchange^
+||bitpay.exchange^
 ||bittop.exchange^
 ||blairwolfera.exchange^
 ||blizz.exchange^
@@ -71,8 +70,8 @@
 ||choice.exchange^
 ||claude.exchange^
 ||clipperr.exchange^
+||clown.exchange^
 ||cmmc.exchange^
-||cnn.exchange^
 ||co2e.exchange^
 ||codegacor.exchange^
 ||coincapwallet.exchange^
@@ -84,6 +83,7 @@
 ||coinwrap.exchange^
 ||cold.exchange^
 ||commit.exchange^
+||connext.exchange^
 ||context.exchange^
 ||coss.exchange^
 ||courier.exchange^
@@ -114,6 +114,7 @@
 ||deficlearing.exchange^
 ||definetwork.exchange^
 ||delta9.exchange^
+||devrev.exchange^
 ||dewa123.exchange^
 ||dexch.exchange^
 ||diceswap.exchange^
@@ -121,6 +122,7 @@
 ||doginalnonkyc.exchange^
 ||dope.exchange^
 ||doxxed.exchange^
+||dsa.exchange^
 ||dtdx.exchange^
 ||dubadu.exchange^
 ||dutchcrypto.exchange^
@@ -145,6 +147,7 @@
 ||fdusd.exchange^
 ||finly.exchange^
 ||flippers.exchange^
+||fmxfutures.exchange^
 ||fomox.exchange^
 ||forexmartweb3.exchange^
 ||forextrader.exchange^
@@ -171,12 +174,10 @@
 ||hashrate.exchange^
 ||heartwood.exchange^
 ||hidden.exchange^
-||hits.exchange^
 ||hkdsttd.exchange^
 ||hltbtc.exchange^
 ||hypersonic.exchange^
 ||i-nter.exchange^
-||iee.exchange^
 ||ikaria.exchange^
 ||imperium.exchange^
 ||inc.exchange^
@@ -185,7 +186,6 @@
 ||iptv.exchange^
 ||itcoin.exchange^
 ||jarnex.exchange^
-||javaslot88.exchange^
 ||jellyfish.exchange^
 ||jensen.exchange^
 ||jewel.exchange^
@@ -215,7 +215,6 @@
 ||loonie.exchange^
 ||lynxbit.exchange^
 ||maaly.exchange^
-||magamemecoin.exchange^
 ||managersupport.exchange^
 ||mantiqueira.exchange^
 ||mellie.exchange^
@@ -224,7 +223,6 @@
 ||monease.exchange^
 ||monee.exchange^
 ||moneys.exchange^
-||mood.exchange^
 ||morgandollar.exchange^
 ||morpheus.exchange^
 ||movo.exchange^
@@ -246,19 +244,18 @@
 ||nokyc.exchange^
 ||novabit.exchange^
 ||nrx.exchange^
+||nrxglobal.exchange^
 ||nvstock.exchange^
 ||obmenochka.exchange^
 ||offchain.exchange^
-||offgrid.exchange^
 ||onlyfriends.exchange^
 ||onlymemes.exchange^
-||onmailpro.exchange^
 ||openfx.exchange^
 ||optimus.exchange^
+||orbiter.exchange^
 ||paddle.exchange^
 ||paix.exchange^
 ||pangol1n.exchange^
-||paris123.exchange^
 ||peacedollar.exchange^
 ||pentaswap.exchange^
 ||piguetgalland.exchange^
@@ -270,7 +267,6 @@
 ||pools-0x0.exchange^
 ||popsicle.exchange^
 ||predicted.exchange^
-||prediction.exchange^
 ||premiumcash.exchange^
 ||privatemarket.exchange^
 ||profit.exchange^
@@ -290,8 +286,6 @@
 ||rampx.exchange^
 ||renovacoin.exchange^
 ||retoswap.exchange^
-||ritcoin.exchange^
-||robust.exchange^
 ||robux.exchange^
 ||roll.exchange^
 ||rydexcoin.exchange^
@@ -302,6 +296,7 @@
 ||selfdriven.exchange^
 ||send.exchange^
 ||serum.exchange^
+||shikoku.exchange^
 ||silvereagle.exchange^
 ||sky999.exchange^
 ||skysync.exchange^
@@ -326,6 +321,7 @@
 ||swapmon.exchange^
 ||syn.exchange^
 ||tek.exchange^
+||teren.exchange^
 ||terratrade.exchange^
 ||textile.exchange^
 ||theaccuracy.exchange^
@@ -334,6 +330,8 @@
 ||thehack.exchange^
 ||thehackexchange.exchange^
 ||thelogistics.exchange^
+||titantrade.exchange^
+||tokentide.exchange^
 ||tomslot88.exchange^
 ||toolbox.exchange^
 ||topslot88.exchange^
@@ -348,6 +346,7 @@
 ||v2-rango.exchange^
 ||valloop.exchange^
 ||velodrome.exchange^
+||vexity.exchange^
 ||voltrade.exchange^
 ||votex.exchange^
 ||votify.exchange^
