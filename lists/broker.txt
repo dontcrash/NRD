@@ -11,6 +11,7 @@
 ||apache.broker^
 ||apacheboats.broker^
 ||assistedliving.broker^
+||auc.broker^
 ||babu88-bd.broker^
 ||babu88-official.broker^
 ||babu888.broker^
@@ -92,6 +93,7 @@
 ||hugo.broker^
 ||iam.broker^
 ||infi.broker^
+||infy.broker^
 ||ipaddress.broker^
 ||jaya-9.broker^
 ||jaya9-bd.broker^
@@ -104,10 +106,8 @@
 ||learning.broker^
 ||lodging.broker^
 ||logistics.broker^
-||mahadevbook.broker^
 ||marvelbet.broker^
 ||marvelbet1.broker^
-||megapari.broker^
 ||mir.broker^
 ||mksports.broker^
 ||monopoly.broker^
@@ -115,18 +115,17 @@
 ||petrol.broker^
 ||petroleum.broker^
 ||play-corex.broker^
-||profit.broker^
 ||pump.broker^
 ||rajabaji.broker^
 ||rebate.broker^
 ||rebyjc.broker^
-||reddyanna.broker^
 ||regulation.broker^
 ||repower.broker^
 ||rodneyyoungenergy.broker^
 ||safecooltekniik.broker^
 ||sample.broker^
 ||sba.broker^
+||school.broker^
 ||sell.broker^
 ||servers.broker^
 ||solarpower.broker^
@@ -141,7 +140,6 @@
 ||tezosmobile.broker^
 ||thefuel.broker^
 ||tk88.broker^
-||traderviet.broker^
 ||valuable.broker^
 ||van.broker^
 ||vegamovies.broker^
@@ -151,7 +149,6 @@
 ||vipwin.broker^
 ||water.broker^
 ||wcp.broker^
-||winbuzz.broker^
 ||witkowska.broker^
 ||workflow.broker^
 ||wpcuinc.broker^
