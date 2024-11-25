@@ -9,6 +9,7 @@
 ||ardesign.build^
 ||armada.build^
 ||ars.build^
+||auto.build^
 ||backend.build^
 ||backstory.build^
 ||benchmarkagency.build^
@@ -26,6 +27,7 @@
 ||dataset.build^
 ||denis.build^
 ||doge.build^
+||dpmconstruction.build^
 ||dps.build^
 ||dreamventure.build^
 ||endeavor.build^
@@ -55,6 +57,7 @@
 ||leagueai.build^
 ||loopwork.build^
 ||lucidjs.build^
+||mallardhomes.build^
 ||manzanita.build^
 ||marcello.build^
 ||marketagents.build^
@@ -74,6 +77,7 @@
 ||publicgoods.build^
 ||rainedesign.build^
 ||read.build^
+||replicator.build^
 ||reward.build^
 ||robco.build^
 ||sassr.build^
@@ -108,4 +112,5 @@
 ||webflow.build^
 ||willowbrooks.build^
 ||xware.build^
+||zeus.build^
 ||zuba.build^
