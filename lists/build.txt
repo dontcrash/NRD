@@ -17,6 +17,7 @@
 ||capx.build^
 ||cerebrius.build^
 ||chipper.build^
+||chirper.build^
 ||commonground.build^
 ||compositions.build^
 ||consenlabs.build^
@@ -55,6 +56,7 @@
 ||kustom.build^
 ||lastbyte.build^
 ||leagueai.build^
+||lineo.build^
 ||loopwork.build^
 ||lucidjs.build^
 ||mallardhomes.build^
@@ -88,6 +90,7 @@
 ||semaphore.build^
 ||sentinel.build^
 ||serval.build^
+||silva.build^
 ||skool.build^
 ||smartcube.build^
 ||sousa.build^
@@ -95,6 +98,7 @@
 ||statehomeservices.build^
 ||sumcheck.build^
 ||supa.build^
+||swfl.build^
 ||swiftconstruction.build^
 ||tally.build^
 ||tawakkul.build^
