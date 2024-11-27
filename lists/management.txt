@@ -27,6 +27,7 @@
 ||ecap.management^
 ||engage.management^
 ||fireflyjustice.management^
+||flex.management^
 ||foodsafety.management^
 ||getfuel.management^
 ||healthcareinformation.management^
@@ -46,6 +47,8 @@
 ||kilian-asset.management^
 ||km88.management^
 ||kosmos.management^
+||krise.management^
+||krisen.management^
 ||liquidity.management^
 ||logical.management^
 ||lovedbyall.management^
@@ -63,12 +66,15 @@
 ||netwerx.management^
 ||office-microsoft365.management^
 ||outage.management^
+||pact.management^
 ||pets.management^
 ||privacy.management^
+||productivity.management^
 ||psycho.management^
 ||qorno.management^
 ||racingdriver.management^
 ||rack48.management^
+||racks.management^
 ||reyes.management^
 ||riversidebookkeeping.management^
 ||saints.management^
@@ -85,4 +91,5 @@
 ||ultimate.management^
 ||visit.management^
 ||vosa.management^
+||wp2.management^
 ||wzrd.management^
