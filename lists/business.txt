@@ -296,7 +296,6 @@
 ||appdevsolutions.business^
 ||appinobright.business^
 ||appkularinfra.business^
-||applianceservice.business^
 ||appmakr.business^
 ||appmakrai.business^
 ||appmakrapps.business^
@@ -321,7 +320,6 @@
 ||atkickstartkular.business^
 ||atkularbeginning.business^
 ||atkularinfra.business^
-||atnetworkkular.business^
 ||atomy.business^
 ||atsquadkular.business^
 ||atwarren.business^
@@ -399,6 +397,7 @@
 ||businesslistings.business^
 ||buyback.business^
 ||buybuildsell.business^
+||buyme.business^
 ||bx.business^
 ||by3d.business^
 ||c3.business^
@@ -406,7 +405,6 @@
 ||carcare.business^
 ||carrefour-banque.business^
 ||ccb.business^
-||ccouplestore.business^
 ||centered.business^
 ||centritius.business^
 ||cfoformybusinessbd.business^
@@ -427,6 +425,7 @@
 ||client-area.business^
 ||cmoa.business^
 ||collab.business^
+||collectivereserve.business^
 ||colounge.business^
 ||commercentric.business^
 ||communityexchange.business^
@@ -445,7 +444,6 @@
 ||contactform.business^
 ||copilot.business^
 ||cosmic.business^
-||cpa.business^
 ||craval.business^
 ||cre8te.business^
 ||crochet.business^
@@ -484,6 +482,7 @@
 ||dixiebusinessconsulting.business^
 ||dlabs.business^
 ||dokan.business^
+||dome.business^
 ||dong18.business^
 ||doorblog.business^
 ||dovetail.business^
@@ -503,6 +502,7 @@
 ||ejobs-uk.business^
 ||ejobs.business^
 ||elan.business^
+||elit.business^
 ||eliteminds.business^
 ||elitetcusa.business^
 ||emarati.business^
@@ -525,7 +525,6 @@
 ||exploreconsultationservice.business^
 ||explorekularinfra.business^
 ||exploretouchstonelaw.business^
-||exploreviakularcore.business^
 ||explorewarren.business^
 ||eyes.business^
 ||ezlegaltint.business^
@@ -559,6 +558,7 @@
 ||flexgames.business^
 ||flexio.business^
 ||float.business^
+||foresight.business^
 ||forevermore.business^
 ||forgestrategypartners.business^
 ||fortis.business^
@@ -579,6 +579,7 @@
 ||gari.business^
 ||gasaid.business^
 ||gavinrarana.business^
+||gbplocal.business^
 ||gelbooru.business^
 ||gestio.business^
 ||get4itech.business^
@@ -744,9 +745,11 @@
 ||gokularnews.business^
 ||gokularteam.business^
 ||goldendigitalitservices.business^
+||goldenvista.business^
 ||goledgerfi.business^
 ||goliath.business^
 ||goneurologik.business^
+||goodgoods.business^
 ||gopandroutsourcing.business^
 ||goro.business^
 ||goslasinfo.business^
@@ -846,8 +849,10 @@
 ||jgjadvisory.business^
 ||jianzhan.business^
 ||jios.business^
+||job-uk.business^
 ||jobs-uk.business^
 ||jobster-uk.business^
+||jobuk.business^
 ||join4itech.business^
 ||joinbandapixels.business^
 ||joinbuildbraand.business^
@@ -922,12 +927,14 @@
 ||kuwin.business^
 ||lacon.business^
 ||ladefense.business^
+||lalashop.business^
 ||lansmithit.business^
 ||lao.business^
 ||lazarus.business^
 ||learnkio.business^
 ||ledger.business^
 ||ledgerfi.business^
+||ledgerlive.business^
 ||leilanibloomquist.business^
 ||lekido.business^
 ||lendpay.business^
@@ -956,6 +963,7 @@
 ||lueders.business^
 ||luxhomes.business^
 ||mabuktogel.business^
+||mahalaxmitraders.business^
 ||maidennewton.business^
 ||managua.business^
 ||maneki-neko.business^
@@ -999,6 +1007,7 @@
 ||moneybetx.business^
 ||moneymaking.business^
 ||monkee.business^
+||montecristo.business^
 ||moonchildsoulcoach.business^
 ||motherless.business^
 ||movavi.business^
@@ -1044,6 +1053,7 @@
 ||mywithkularhub.business^
 ||mywithsalesperformanceteam.business^
 ||myworldover.business^
+||name-generator.business^
 ||nanoimages.business^
 ||nb2n.business^
 ||nbdmcs.business^
@@ -1057,6 +1067,7 @@
 ||nextbestmove.business^
 ||nextgen.business^
 ||nexton.business^
+||nexusone.business^
 ||nezu.business^
 ||nicetower.business^
 ||nicovideo.business^
@@ -1072,6 +1083,7 @@
 ||nowviakularcore.business^
 ||nowwithkularconvo.business^
 ||npccasino.business^
+||nunc.business^
 ||nurse.business^
 ||nuvra.business^
 ||offmarketconnect.business^
@@ -1141,6 +1153,7 @@
 ||preston.business^
 ||procard.business^
 ||profitgateway.business^
+||profitgeeks.business^
 ||projectfusion.business^
 ||prophetic.business^
 ||prosperoholdings.business^
@@ -1160,6 +1173,7 @@
 ||ranchodopescador.business^
 ||rapido5.business^
 ||raya.business^
+||reagan.business^
 ||redgifs.business^
 ||redi.business^
 ||refined.business^
@@ -1197,6 +1211,7 @@
 ||scalewithkula.business^
 ||scalewithkular.business^
 ||scalewithkularinfra.business^
+||scope3.business^
 ||sebastian.business^
 ||secondlife.business^
 ||secure-login.business^
@@ -1213,6 +1228,7 @@
 ||simpcity.business^
 ||simplife.business^
 ||sinaty.business^
+||siterino.business^
 ||skills.business^
 ||skyer.business^
 ||smart-login.business^
@@ -1220,12 +1236,14 @@
 ||smartcloud.business^
 ||smartfuture.business^
 ||smartrcodeai.business^
+||smartsolutions.business^
 ||smartstock.business^
 ||smartwater.business^
 ||snacks4us.business^
 ||snep.business^
 ||socialberry.business^
 ||socialmediagirls.business^
+||softwareshop.business^
 ||solaris.business^
 ||solutionist.business^
 ||sonia.business^
@@ -1439,6 +1457,7 @@
 ||workkularinfra.business^
 ||worknetworkkular.business^
 ||workout.business^
+||wp2.business^
 ||wpgconsultants.business^
 ||xbt.business^
 ||xfantazy.business^

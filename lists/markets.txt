@@ -15,6 +15,7 @@
 ||atlas.markets^
 ||automatedinvesting.markets^
 ||backtest.markets^
+||baked.markets^
 ||bakkal.markets^
 ||best-jobs.markets^
 ||bestbet.markets^
@@ -27,6 +28,7 @@
 ||bitcoinmining.markets^
 ||brain.markets^
 ||brij.markets^
+||bs2best.markets^
 ||bsky.markets^
 ||californiapersonalinjuryfirm.markets^
 ||canopy.markets^
@@ -60,6 +62,7 @@
 ||gamewith.markets^
 ||glia.markets^
 ||globo.markets^
+||godel.markets^
 ||gomovies.markets^
 ||goo.markets^
 ||govip.markets^
@@ -75,12 +78,14 @@
 ||index.markets^
 ||infi.markets^
 ||informal.markets^
-||iqcent.markets^
 ||iw168.markets^
 ||jav.markets^
+||job-uk.markets^
 ||jobs-uk.markets^
 ||jobsuk.markets^
+||jobuk.markets^
 ||jrscdn.markets^
+||kiwi.markets^
 ||labdiamond.markets^
 ||layerzero.markets^
 ||liberal.markets^
@@ -89,6 +94,7 @@
 ||malls.markets^
 ||manager.markets^
 ||manipulation.markets^
+||mansa.markets^
 ||marketagents.markets^
 ||media.markets^
 ||mediasocialtech.markets^
@@ -107,6 +113,7 @@
 ||nevua.markets^
 ||nexis.markets^
 ||nuoren.markets^
+||nxt.markets^
 ||ogm.markets^
 ||ola.markets^
 ||onchain.markets^
@@ -115,6 +122,7 @@
 ||parlay.markets^
 ||pg88.markets^
 ||phantom.markets^
+||phoenicia.markets^
 ||photon.markets^
 ||play.markets^
 ||pure.markets^
@@ -161,5 +169,5 @@
 ||webapp.markets^
 ||websites.markets^
 ||wisevas.markets^
-||with.markets^
+||wp2.markets^
 ||xch.markets^

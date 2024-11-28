@@ -4,6 +4,7 @@
 ||affinityconst.build^
 ||aidev.build^
 ||americancraftsman.build^
+||anka.build^
 ||arcade.build^
 ||architech.build^
 ||ardesign.build^
@@ -13,6 +14,7 @@
 ||backstory.build^
 ||basalto.build^
 ||benchmarkagency.build^
+||bent.build^
 ||bristlecone.build^
 ||capx.build^
 ||chipper.build^
@@ -45,7 +47,6 @@
 ||geofoam.build^
 ||grok.build^
 ||gsl.build^
-||gust.build^
 ||hackers.build^
 ||hctn.build^
 ||holo-trip.build^
@@ -69,6 +70,7 @@
 ||marcello.build^
 ||marketagents.build^
 ||masheto.build^
+||mermaid.build^
 ||metamask.build^
 ||mi.build^
 ||modernfarmhouse.build^
@@ -86,9 +88,10 @@
 ||rainedesign.build^
 ||read.build^
 ||replicator.build^
+||reusable.build^
 ||reward.build^
 ||robco.build^
-||sassr.build^
+||roomplan.build^
 ||scallop.build^
 ||scidesign.build^
 ||scuffle.build^
@@ -100,6 +103,7 @@
 ||smartcube.build^
 ||sousa.build^
 ||spawn.build^
+||stablecoin.build^
 ||statehomeservices.build^
 ||stripchat.build^
 ||sumcheck.build^
@@ -111,7 +115,6 @@
 ||tcco.build^
 ||tilde.build^
 ||timemy.build^
-||topcontractors.build^
 ||toptieraf.build^
 ||tradesite.build^
 ||tree0.build^
