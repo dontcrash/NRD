@@ -9,12 +9,14 @@
 ||architech.build^
 ||ardesign.build^
 ||armada.build^
+||augment.build^
 ||auto.build^
 ||backend.build^
 ||backstory.build^
 ||basalto.build^
 ||benchmarkagency.build^
 ||bent.build^
+||brainrot.build^
 ||bristlecone.build^
 ||capx.build^
 ||chipper.build^
@@ -49,7 +51,6 @@
 ||gsl.build^
 ||hackers.build^
 ||hctn.build^
-||holo-trip.build^
 ||horde.build^
 ||immersive.build^
 ||ingress.build^
@@ -59,7 +60,6 @@
 ||koi.build^
 ||kratoswall.build^
 ||kube.build^
-||kustom.build^
 ||lastbyte.build^
 ||leagueai.build^
 ||lineo.build^
@@ -77,8 +77,12 @@
 ||my3.build^
 ||naptha.build^
 ||netfx.build^
+||nfa.build^
+||noralta.build^
 ||ntc.build^
+||nterface.build^
 ||ohso.build^
+||opti.build^
 ||pchnv.build^
 ||pgslot.build^
 ||poe2.build^
@@ -88,12 +92,12 @@
 ||rainedesign.build^
 ||read.build^
 ||replicator.build^
+||retrust.build^
 ||reusable.build^
 ||reward.build^
 ||robco.build^
 ||roomplan.build^
 ||scallop.build^
-||scidesign.build^
 ||scuffle.build^
 ||semaphore.build^
 ||sentinel.build^
@@ -124,6 +128,7 @@
 ||weave.build^
 ||webble.build^
 ||webflow.build^
+||wildrift.build^
 ||willowbrooks.build^
 ||xhamster.build^
 ||xware.build^

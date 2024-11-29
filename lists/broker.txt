@@ -5,6 +5,7 @@
 ||aezatrade.broker^
 ||aiagents.broker^
 ||airplanemode.broker^
+||algo.broker^
 ||allskywealth.broker^
 ||allstock.broker^
 ||aloha.broker^
@@ -114,7 +115,6 @@
 ||rebate.broker^
 ||rebyjc.broker^
 ||regulation.broker^
-||repower.broker^
 ||rodneyyoungenergy.broker^
 ||roof.broker^
 ||safecooltekniik.broker^

@@ -8,6 +8,7 @@
 ||artsduke.courses^
 ||atechcom.courses^
 ||bass.courses^
+||be-ba.courses^
 ||bibliabilingue.courses^
 ||bigz.courses^
 ||businesssimples.courses^
@@ -46,7 +47,6 @@
 ||javascriptforall.courses^
 ||learngit.courses^
 ||lingual.courses^
-||localgolf.courses^
 ||lottery.courses^
 ||lucidmaths.courses^
 ||makeitmakecents.courses^
@@ -66,13 +66,13 @@
 ||pets.courses^
 ||piggybank.courses^
 ||plan-it.courses^
+||playbridge.courses^
 ||primarycare.courses^
 ||prodactivity.courses^
 ||projectslaural.courses^
 ||proxmox.courses^
 ||pump.courses^
 ||ratetrent.courses^
-||regen.courses^
 ||resell.courses^
 ||shopify-development.courses^
 ||skibidi.courses^
@@ -94,7 +94,6 @@
 ||theempathymoment.courses^
 ||theprivateschool.courses^
 ||theprofitpathway.courses^
-||think.courses^
 ||uiux.courses^
 ||unilearn.courses^
 ||upgrade.courses^
