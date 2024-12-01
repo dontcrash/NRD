@@ -23,6 +23,7 @@
 ||anne.exchange^
 ||anonymouscrypto.exchange^
 ||aotearoa.exchange^
+||apecoin.exchange^
 ||apex-app.exchange^
 ||apex-bridge.exchange^
 ||api-trading.exchange^
@@ -34,12 +35,17 @@
 ||athens.exchange^
 ||augmented.exchange^
 ||australiacrypto.exchange^
+||australianfp.exchange^
+||australiannft.exchange^
+||australianrwa.exchange^
 ||australiantoken.exchange^
 ||automatedcrypto.exchange^
 ||automation.exchange^
 ||avalpardakht.exchange^
 ||b0t.exchange^
+||baba.exchange^
 ||backload.exchange^
+||banc.exchange^
 ||binanbot.exchange^
 ||binancefraud.exchange^
 ||bitbit.exchange^
@@ -78,6 +84,7 @@
 ||co2e.exchange^
 ||co2market.exchange^
 ||coin-market-cap.exchange^
+||coinbasenft.exchange^
 ||coincapwallet.exchange^
 ||coinhub.exchange^
 ||coinspace.exchange^
@@ -117,6 +124,7 @@
 ||debans.exchange^
 ||deficlearing.exchange^
 ||definetwork.exchange^
+||degencoin.exchange^
 ||delta9.exchange^
 ||dentalcoverage.exchange^
 ||devrev.exchange^
@@ -137,10 +145,12 @@
 ||easy.exchange^
 ||easyrehaf.exchange^
 ||echelongrowth.exchange^
+||eigenlayer.exchange^
 ||env.exchange^
 ||erium.exchange^
 ||ethnicity.exchange^
 ||ex3.exchange^
+||ezpay.exchange^
 ||fairdeal365.exchange^
 ||fantasy.exchange^
 ||fasc.exchange^
@@ -191,8 +201,10 @@
 ||jarnex.exchange^
 ||jellyfish.exchange^
 ||jensen.exchange^
+||jesus.exchange^
 ||jewel.exchange^
 ||jiring.exchange^
+||jobby.exchange^
 ||jpx.exchange^
 ||jumpers.exchange^
 ||keonhacai.exchange^
@@ -219,6 +231,7 @@
 ||localbitcoins.exchange^
 ||lollipop.exchange^
 ||loonie.exchange^
+||lotus-365.exchange^
 ||lynxbit.exchange^
 ||maaly.exchange^
 ||mantiqueira.exchange^
@@ -227,6 +240,7 @@
 ||mellie.exchange^
 ||memenetwork.exchange^
 ||middle.exchange^
+||mimi.exchange^
 ||mobius.exchange^
 ||monease.exchange^
 ||monee.exchange^
@@ -239,6 +253,7 @@
 ||nautilus.exchange^
 ||neby.exchange^
 ||nemukaeth.exchange^
+||neuron.exchange^
 ||neutrino.exchange^
 ||nexgencrypto.exchange^
 ||nexustracks.exchange^
@@ -257,11 +272,16 @@
 ||onlyfriends.exchange^
 ||openfx.exchange^
 ||orbiter.exchange^
+||ourbit.exchange^
 ||paddle.exchange^
 ||pandpay.exchange^
 ||pangol1n.exchange^
+||patent.exchange^
+||pegax.exchange^
 ||pentaswap.exchange^
+||pfx.exchange^
 ||pinky.exchange^
+||planb.exchange^
 ||plutox.exchange^
 ||polary.exchange^
 ||polishcrypto.exchange^
@@ -274,6 +294,7 @@
 ||pro.exchange^
 ||profit.exchange^
 ||pupcoin.exchange^
+||pyrex.exchange^
 ||qickswap.exchange^
 ||qiuckswap.exchange^
 ||qq88.exchange^
@@ -288,6 +309,7 @@
 ||quiet.exchange^
 ||quikswap.exchange^
 ||rampx.exchange^
+||ranqo.exchange^
 ||redrix.exchange^
 ||renovacoin.exchange^
 ||retoswap.exchange^
@@ -296,6 +318,7 @@
 ||robux.exchange^
 ||rochetx.exchange^
 ||roll.exchange^
+||rublc.exchange^
 ||rumble.exchange^
 ||rydexcoin.exchange^
 ||safetrade.exchange^
@@ -349,6 +372,7 @@
 ||toolbox.exchange^
 ||topex.exchange^
 ||toros.exchange^
+||transferhub.exchange^
 ||treasurypool-0x0.exchange^
 ||tree.exchange^
 ||trusteddata.exchange^
@@ -374,6 +398,7 @@
 ||workspace.exchange^
 ||worldlibertyfinancial.exchange^
 ||wwwquickswap.exchange^
+||xm.exchange^
 ||xndx.exchange^
 ||ydyx.exchange^
 ||yep.exchange^
