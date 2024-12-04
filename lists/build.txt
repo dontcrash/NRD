@@ -11,11 +11,9 @@
 ||arcade.build^
 ||architech.build^
 ||ardesign.build^
-||armada.build^
 ||augment.build^
 ||auto.build^
 ||autonomer.build^
-||backend.build^
 ||backstory.build^
 ||basalto.build^
 ||benchmarkagency.build^
@@ -28,9 +26,7 @@
 ||chipper.build^
 ||chirper.build^
 ||cloudspin.build^
-||commonground.build^
 ||compositions.build^
-||consenlabs.build^
 ||cottonwoodconstruction.build^
 ||craftsmanhome.build^
 ||craftsmanhouse.build^
@@ -41,7 +37,6 @@
 ||doge.build^
 ||dogecast.build^
 ||dpmconstruction.build^
-||dps.build^
 ||dreamventure.build^
 ||dwellix.build^
 ||dynamite.build^
@@ -67,7 +62,6 @@
 ||jefflee.build^
 ||jupyter.build^
 ||ko66.build^
-||koi.build^
 ||kratoswall.build^
 ||kube.build^
 ||lastbyte.build^
@@ -119,7 +113,6 @@
 ||scuffle.build^
 ||semaphore.build^
 ||sentinel.build^
-||serval.build^
 ||silva.build^
 ||skool.build^
 ||smartcube.build^
@@ -144,7 +137,6 @@
 ||tree0.build^
 ||tscc.build^
 ||unfold.build^
-||verticaledge.build^
 ||weave.build^
 ||webble.build^
 ||webflow.build^
