@@ -3,7 +3,6 @@
 ||27893.build^
 ||acolad.build^
 ||affinityconst.build^
-||aidev.build^
 ||aladdin.build^
 ||alexi.build^
 ||americancraftsman.build^
@@ -27,7 +26,6 @@
 ||chirper.build^
 ||cloudspin.build^
 ||compositions.build^
-||cottonwoodconstruction.build^
 ||craftsmanhome.build^
 ||craftsmanhouse.build^
 ||datahub.build^
@@ -53,14 +51,12 @@
 ||gsl.build^
 ||hackers.build^
 ||hctn.build^
-||horde.build^
 ||immersive.build^
 ||ingress.build^
 ||jefflee.build^
 ||jupyter.build^
 ||ko66.build^
 ||kratoswall.build^
-||kube.build^
 ||lastbyte.build^
 ||lav.build^
 ||leagueai.build^
@@ -87,7 +83,6 @@
 ||opti.build^
 ||pchnv.build^
 ||peripherie.build^
-||pgslot.build^
 ||phantom.build^
 ||poe2.build^
 ||probuild.build^
@@ -132,7 +127,6 @@
 ||tscc.build^
 ||tyson.build^
 ||weave.build^
-||webble.build^
 ||webflow.build^
 ||wildrift.build^
 ||willowbrooks.build^
