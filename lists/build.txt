@@ -38,7 +38,6 @@
 ||dsign.build^
 ||dwellix.build^
 ||dynamite.build^
-||endeavor.build^
 ||ethlocal.build^
 ||farcaster.build^
 ||fiverivers.build^
@@ -78,13 +77,11 @@
 ||noralta.build^
 ||ntc.build^
 ||nterface.build^
-||ohso.build^
 ||open7.build^
 ||opti.build^
 ||pchnv.build^
 ||peripherie.build^
 ||phantom.build^
-||poe2.build^
 ||probuild.build^
 ||prosa.build^
 ||publicgoods.build^
@@ -124,7 +121,6 @@
 ||tilde.build^
 ||tradesite.build^
 ||tree0.build^
-||tscc.build^
 ||tyson.build^
 ||weave.build^
 ||webflow.build^
