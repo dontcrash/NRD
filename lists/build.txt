@@ -28,6 +28,7 @@
 ||compositions.build^
 ||craftsmanhome.build^
 ||craftsmanhouse.build^
+||dano.build^
 ||datahub.build^
 ||dataset.build^
 ||designsystem.build^
@@ -46,6 +47,7 @@
 ||founder.build^
 ||fulgora.build^
 ||futureofwork.build^
+||gandb.build^
 ||grok.build^
 ||gsl.build^
 ||hackers.build^
@@ -78,6 +80,7 @@
 ||ntc.build^
 ||nterface.build^
 ||open7.build^
+||opensource.build^
 ||opti.build^
 ||pchnv.build^
 ||peripherie.build^
@@ -86,8 +89,10 @@
 ||prosa.build^
 ||publicgoods.build^
 ||pura.build^
+||qstar.build^
 ||rails.build^
 ||rainedesign.build^
+||rattler.build^
 ||read.build^
 ||reha.build^
 ||replicator.build^
@@ -114,11 +119,13 @@
 ||swfl.build^
 ||swiftconstruction.build^
 ||synaptic.build^
+||taco.build^
 ||taisunwin.build^
 ||tally.build^
 ||tawakkul.build^
 ||tcco.build^
 ||tilde.build^
+||toil.build^
 ||tradesite.build^
 ||tree0.build^
 ||tyson.build^
@@ -129,4 +136,5 @@
 ||xhamster.build^
 ||xware.build^
 ||zeus.build^
+||zoho.build^
 ||zuba.build^
