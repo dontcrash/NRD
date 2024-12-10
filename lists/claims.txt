@@ -23,8 +23,10 @@
 ||domains.claims^
 ||eclipse.claims^
 ||electiveoption.claims^
+||empireoftheturtle.claims^
 ||fidelidade.claims^
 ||flpersonalinjury.claims^
+||forge.claims^
 ||fortuna.claims^
 ||friend-tech.claims^
 ||get-grass.claims^
@@ -32,6 +34,7 @@
 ||homerogomes.claims^
 ||hype-foundation.claims^
 ||insurancediscovery.claims^
+||iou.claims^
 ||keonhacai.claims^
 ||leaseholdcommission.claims^
 ||liabilitylimits.claims^
@@ -69,15 +72,16 @@
 ||solanare.claims^
 ||sonic-labs.claims^
 ||soniciab.claims^
+||sonics.claims^
 ||sonicsiab.claims^
 ||sonicsiabs.claims^
 ||stake2.claims^
 ||staking.claims^
-||storms.claims^
 ||stripchat.claims^
 ||sunwin.claims^
 ||supra.claims^
 ||taisunwin.claims^
+||transparency.claims^
 ||true.claims^
 ||trust.claims^
 ||ukdiesel.claims^
