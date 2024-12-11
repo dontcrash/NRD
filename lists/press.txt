@@ -29,7 +29,6 @@
 ||agency02.press^
 ||aidea.press^
 ||aktamar.press^
-||al-azhar-advanced.press^
 ||albrazilnews.press^
 ||aliberatedlife.press^
 ||alicdn.press^
@@ -49,7 +48,6 @@
 ||anix.press^
 ||anomalous.press^
 ||arabamericantv.press^
-||arcadia.press^
 ||archaea.press^
 ||arkada.press^
 ||arman.press^
@@ -58,13 +56,13 @@
 ||atlastoday.press^
 ||atwood.press^
 ||auwy2.press^
-||b2bwave.press^
 ||babok.press^
 ||baddiehub.press^
 ||baked.press^
 ||bambi.press^
 ||bancochile.press^
 ||bancoestado.press^
+||banda.press^
 ||banoba.press^
 ||barefoot.press^
 ||becauseracecargirl.press^
@@ -73,7 +71,6 @@
 ||belka.press^
 ||bench.press^
 ||bestjobs.press^
-||bestoffer.press^
 ||bestoffers.press^
 ||bet7k.press^
 ||bet9ja.press^
@@ -116,7 +113,6 @@
 ||castiron.press^
 ||causal.press^
 ||cbdc.press^
-||cbpp.press^
 ||celsius.press^
 ||celticmarkets.press^
 ||centermag.press^
@@ -138,6 +134,7 @@
 ||clinicalmind.press^
 ||clown.press^
 ||cnbc.press^
+||coasttech.press^
 ||cocogifts.press^
 ||codemaster.press^
 ||complex.press^
@@ -151,12 +148,10 @@
 ||cottage.press^
 ||cozybay.press^
 ||cpip.press^
-||crea.press^
 ||criminal.press^
 ||cringe.press^
 ||crw0q.press^
 ||cryptocity.press^
-||cryptonick.press^
 ||cryptowhale.press^
 ||csdn.press^
 ||cultura.press^
@@ -164,7 +159,7 @@
 ||curato.press^
 ||curtisclinesmith.press^
 ||cyberbooks.press^
-||daikin.press^
+||cyberpunk.press^
 ||dailyplanet.press^
 ||daniellas.press^
 ||daum.press^
@@ -177,6 +172,7 @@
 ||defi.press^
 ||desjardins.press^
 ||devrev.press^
+||dissociated.press^
 ||dlsite.press^
 ||docomo.press^
 ||draintheswamp.press^
@@ -189,6 +185,7 @@
 ||eepbt.press^
 ||egtsady.press^
 ||eidos.press^
+||ejourney.press^
 ||elsemap.press^
 ||emberkeep.press^
 ||endtimes.press^
@@ -218,10 +215,10 @@
 ||forebet.press^
 ||foundermode.press^
 ||foxiz.press^
-||free-lance.press^
 ||freelea.press^
 ||freespiritpublishing.press^
 ||freshstartwellness.press^
+||futuretech.press^
 ||g428n.press^
 ||gacor.press^
 ||geotics.press^
@@ -229,6 +226,9 @@
 ||gezmeninbizcesi.press^
 ||giovanna-rocca-simmonds.press^
 ||gistlogger.press^
+||gizbo-1.press^
+||gizbo-7.press^
+||gizbo-zero.press^
 ||gobet.press^
 ||goblintreasure.press^
 ||goldmanmccormick.press^
@@ -269,7 +269,6 @@
 ||imonthelist.press^
 ||imperio.press^
 ||in-byshaninyelle.press^
-||inertia.press^
 ||infi.press^
 ||infoedge.press^
 ||inland.press^
@@ -287,10 +286,10 @@
 ||iwasthere.press^
 ||ixxx.press^
 ||izew5.press^
+||jandaia.press^
+||javhd.press^
 ||jddmag.press^
-||jddstar.press^
 ||jdmag.press^
-||jdstar.press^
 ||jerkmate.press^
 ||job-uk.press^
 ||jobs-uk.press^
@@ -308,13 +307,13 @@
 ||krak.press^
 ||krakpay.press^
 ||krasiviy.press^
+||kuehn.press^
 ||lehnert.press^
 ||lejddmag.press^
-||lejddstar.press^
 ||lejdmag.press^
-||lejdstar.press^
 ||lenspunk.press^
 ||lettersofwit.press^
+||liarscorner.press^
 ||lightoftheworld.press^
 ||lightward.press^
 ||lines.press^
@@ -345,7 +344,6 @@
 ||memorywork.press^
 ||metanoia.press^
 ||metropolitanusa.press^
-||mieles.press^
 ||mindthetransitions.press^
 ||minhngoc.press^
 ||minneshore.press^
@@ -366,6 +364,7 @@
 ||national-lottery.press^
 ||naturevital.press^
 ||navi-gate.press^
+||navigator63.press^
 ||negativemass.press^
 ||nepozdno.press^
 ||netkeiba.press^
@@ -390,16 +389,15 @@
 ||oddhaus.press^
 ||ofertazone.press^
 ||officialus.press^
-||offthegrid.press^
 ||ogura.press^
 ||ojogodobicho.press^
 ||ok365.press^
 ||oles.press^
 ||olxpay.press^
+||oneclick.press^
 ||ontheweb.press^
 ||onward.press^
 ||openchat.press^
-||optitech.press^
 ||oqaab.press^
 ||orthodoxii.press^
 ||oshkosh.press^
@@ -454,7 +452,6 @@
 ||redtube.press^
 ||repetitor.press^
 ||republican.press^
-||revolut.press^
 ||revox.press^
 ||rework.press^
 ||rightclick.press^
@@ -462,12 +459,16 @@
 ||rld7f.press^
 ||roadshow.press^
 ||rossiya.press^
+||runet.press^
 ||rushbet.press^
+||rusmol.press^
 ||ryanair.press^
 ||ryugaku.press^
 ||safeword.press^
 ||saibamais.press^
 ||salutetoamerica250.press^
+||samara-navigator.press^
+||samaranavigator.press^
 ||samcoates.press^
 ||sarahkimchi.press^
 ||saver.press^
@@ -475,7 +476,6 @@
 ||selfpublishing.press^
 ||senna.press^
 ||sephardic.press^
-||september.press^
 ||serasa.press^
 ||severkavkaz.press^
 ||sewkg.press^
@@ -488,6 +488,7 @@
 ||shiryaev.press^
 ||shopeasy.press^
 ||shoppingonline.press^
+||shopsphere.press^
 ||sigmaprinting.press^
 ||silvano.press^
 ||simpcity.press^
@@ -497,6 +498,7 @@
 ||skysports.press^
 ||smartchoice.press^
 ||smarthub.press^
+||smarttech.press^
 ||smokenvape.press^
 ||sna.press^
 ||solidarity.press^
@@ -505,7 +507,6 @@
 ||solshash.press^
 ||songa.press^
 ||songbird.press^
-||soulisfree.press^
 ||soulverse.press^
 ||soundprogression.press^
 ||space-base.press^
@@ -520,7 +521,6 @@
 ||strava.press^
 ||stripchat.press^
 ||studioimmagineartdesign.press^
-||suaraalam.press^
 ||suckhoedoisong24.press^
 ||sun24.press^
 ||sv368cpc1.press^
@@ -529,7 +529,6 @@
 ||sxyprn.press^
 ||sylhet-post.press^
 ||tabassumart.press^
-||techfanatic.press^
 ||techlab.press^
 ||teemo.press^
 ||telagrem.press^
@@ -538,7 +537,6 @@
 ||tessr.press^
 ||tgtxinc.press^
 ||thairath.press^
-||thaka.press^
 ||the24.press^
 ||theangryarab.press^
 ||theasian.press^
@@ -554,6 +552,7 @@
 ||themis.press^
 ||thenewstogether.press^
 ||theporndude.press^
+||thesdvoice.press^
 ||thetrend.press^
 ||thrivedaily.press^
 ||thrivelifebalance.press^
@@ -597,7 +596,6 @@
 ||vavadacasino.press^
 ||vegetablechopper.press^
 ||vendaonline.press^
-||veracity.press^
 ||verderomania.press^
 ||veronicamedda.press^
 ||vida.press^
@@ -610,6 +608,7 @@
 ||w2o4i.press^
 ||warlock.press^
 ||wealthybabies.press^
+||webtube.press^
 ||wellnessroots.press^
 ||wellnesssprout.press^
 ||wilby.press^

@@ -10,7 +10,6 @@
 ||atlas.domains^
 ||atproto.domains^
 ||backup-ens.domains^
-||banksia.domains^
 ||basens.domains^
 ||beadhd.domains^
 ||bergenstrahle.domains^
@@ -21,14 +20,12 @@
 ||bootstrap.domains^
 ||brokerage.domains^
 ||btab.domains^
-||burlesque.domains^
 ||buycheap.domains^
 ||cctld.domains^
 ||chatto.domains^
 ||cleva.domains^
 ||clipxxvip.domains^
 ||contact.domains^
-||copper.domains^
 ||cricbet99.domains^
 ||cryptic.domains^
 ||cybertech.domains^
@@ -39,15 +36,9 @@
 ||dncore.domains^
 ||does.domains^
 ||dotifi.domains^
-||dotonline.domains^
 ||dotx.domains^
 ||eriks.domains^
-||essencialweb.domains^
 ||eternal.domains^
-||etnima.domains^
-||eureka.domains^
-||evolyx.domains^
-||ezealon.domains^
 ||ezid.domains^
 ||ezr.domains^
 ||fairplay.domains^
@@ -73,7 +64,6 @@
 ||hostingelshafei.domains^
 ||hosty.domains^
 ||hotchilli.domains^
-||incognitox.domains^
 ||internetstewards.domains^
 ||jayswan.domains^
 ||jobby.domains^
@@ -82,7 +72,6 @@
 ||justexpired.domains^
 ||kamehacloud.domains^
 ||king-networks.domains^
-||kittencloud.domains^
 ||kuvamedia.domains^
 ||levelup.domains^
 ||lexicon.domains^
@@ -99,6 +88,8 @@
 ||mql.domains^
 ||mrblueeyes.domains^
 ||netfy.domains^
+||neverlaunched.domains^
+||nomad.domains^
 ||notsin.domains^
 ||ntld.domains^
 ||numinous.domains^
@@ -106,8 +97,6 @@
 ||og1o.domains^
 ||ogawagaiko.domains^
 ||okbns.domains^
-||oonu.domains^
-||os9.domains^
 ||parnet.domains^
 ||phoenix.domains^
 ||planetarium.domains^
@@ -115,6 +104,7 @@
 ||printingsf.domains^
 ||projtool.domains^
 ||proto.domains^
+||psi.domains^
 ||qns.domains^
 ||quic.domains^
 ||raven.domains^
@@ -125,10 +115,8 @@
 ||reframe.domains^
 ||renews-ens.domains^
 ||rock.domains^
-||sentient.domains^
 ||servers.domains^
 ||services.domains^
-||spacenetworks.domains^
 ||spankbang.domains^
 ||spb.domains^
 ||squeetee.domains^
@@ -143,9 +131,7 @@
 ||texort.domains^
 ||text.domains^
 ||thelaughingman.domains^
-||theweb.domains^
 ||tiny.domains^
-||tmg.domains^
 ||traders.domains^
 ||ui.domains^
 ||unstoppables.domains^
@@ -166,9 +152,7 @@
 ||wrld.domains^
 ||x1.domains^
 ||x1ns.domains^
-||xarranicloud.domains^
 ||xoox.domains^
 ||yae.domains^
 ||zen.domains^
 ||zenogram.domains^
-||zii.domains^

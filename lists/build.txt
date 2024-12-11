@@ -39,7 +39,6 @@
 ||dsign.build^
 ||dwellix.build^
 ||dynamite.build^
-||ethlocal.build^
 ||farcaster.build^
 ||fiverivers.build^
 ||floridasteel.build^
@@ -52,7 +51,6 @@
 ||gsl.build^
 ||hackers.build^
 ||hctn.build^
-||immersive.build^
 ||ingress.build^
 ||jefflee.build^
 ||jupyter.build^
@@ -64,8 +62,6 @@
 ||lineo.build^
 ||loopwork.build^
 ||mallardhomes.build^
-||manzanita.build^
-||marcello.build^
 ||marketagents.build^
 ||masheto.build^
 ||mermaid.build^
@@ -75,6 +71,7 @@
 ||my3.build^
 ||naptha.build^
 ||netfx.build^
+||neuroverse.build^
 ||nfa.build^
 ||noralta.build^
 ||ntc.build^
@@ -105,11 +102,9 @@
 ||runy.build^
 ||scallop.build^
 ||scuffle.build^
-||semaphore.build^
 ||sentinel.build^
 ||silva.build^
 ||skool.build^
-||sousa.build^
 ||stablecoin.build^
 ||stables.build^
 ||statehomeservices.build^
@@ -129,6 +124,7 @@
 ||tradesite.build^
 ||tree0.build^
 ||tyson.build^
+||us4.build^
 ||weave.build^
 ||webflow.build^
 ||wildrift.build^
@@ -137,4 +133,3 @@
 ||xware.build^
 ||zeus.build^
 ||zoho.build^
-||zuba.build^
