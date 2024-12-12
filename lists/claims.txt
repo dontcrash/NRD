@@ -1,6 +1,7 @@
 ||0gfoundation.claims^
 ||23win.claims^
 ||account.claims^
+||addiction.claims^
 ||aeolus.claims^
 ||alyce.claims^
 ||anvil.claims^
@@ -8,7 +9,6 @@
 ||arbitrum.claims^
 ||asdf.claims^
 ||autonomous.claims^
-||base.claims^
 ||bibeautiful.claims^
 ||bicycle.claims^
 ||bodilyinjury.claims^
@@ -23,6 +23,7 @@
 ||day.claims^
 ||denied.claims^
 ||domains.claims^
+||drugs.claims^
 ||eclipse.claims^
 ||electiveoption.claims^
 ||empireoftheturtle.claims^
@@ -32,11 +33,15 @@
 ||fortuna.claims^
 ||friend-tech.claims^
 ||ftm-sonic.claims^
+||gaming.claims^
+||gamingdisorder.claims^
 ||holoworld.claims^
 ||homerogomes.claims^
 ||hype-foundation.claims^
+||igd.claims^
 ||insurancediscovery.claims^
 ||iou.claims^
+||iraqwar.claims^
 ||keonhacai.claims^
 ||leaseholdcommission.claims^
 ||liabilitylimits.claims^
@@ -71,6 +76,7 @@
 ||shop.claims^
 ||skvmoney.claims^
 ||sky.claims^
+||socialmedia.claims^
 ||sol.claims^
 ||solanare.claims^
 ||sonic-labs.claims^
@@ -91,8 +97,11 @@
 ||ukemissions.claims^
 ||ukpetrol.claims^
 ||umbrella.claims^
+||uncc.claims^
 ||vehicle-pcp.claims^
 ||velodrome.claims^
+||vga.claims^
+||videogame.claims^
 ||westpalmbeach.claims^
 ||wrongfulinjury.claims^
 ||xlmeme.claims^

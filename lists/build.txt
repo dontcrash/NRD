@@ -3,6 +3,7 @@
 ||27893.build^
 ||acolad.build^
 ||affinityconst.build^
+||aikyas.build^
 ||aladdin.build^
 ||alexi.build^
 ||americancraftsman.build^
@@ -47,9 +48,7 @@
 ||fulgora.build^
 ||futureofwork.build^
 ||gandb.build^
-||grok.build^
 ||gsl.build^
-||hackers.build^
 ||hctn.build^
 ||ingress.build^
 ||jefflee.build^
@@ -60,7 +59,6 @@
 ||lav.build^
 ||leagueai.build^
 ||lineo.build^
-||loopwork.build^
 ||mallardhomes.build^
 ||marketagents.build^
 ||masheto.build^
@@ -68,6 +66,7 @@
 ||metamask.build^
 ||mi.build^
 ||modernfarmhouse.build^
+||multiplayer.build^
 ||my3.build^
 ||naptha.build^
 ||netfx.build^
@@ -100,9 +99,9 @@
 ||rohrluther.build^
 ||roomplan.build^
 ||runy.build^
-||scallop.build^
 ||scuffle.build^
 ||sentinel.build^
+||sidekick.build^
 ||silva.build^
 ||skool.build^
 ||stablecoin.build^
@@ -116,7 +115,6 @@
 ||synaptic.build^
 ||taco.build^
 ||taisunwin.build^
-||tally.build^
 ||tawakkul.build^
 ||tcco.build^
 ||tilde.build^
