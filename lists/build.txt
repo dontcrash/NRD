@@ -18,9 +18,12 @@
 ||basalto.build^
 ||benchmarkagency.build^
 ||bent.build^
+||blog.build^
 ||body.build^
 ||brainrot.build^
 ||bristlecone.build^
+||buidl.build^
+||buildcode.build^
 ||capx.build^
 ||chatbot.build^
 ||chipper.build^
@@ -31,7 +34,6 @@
 ||craftsmanhouse.build^
 ||dano.build^
 ||datahub.build^
-||dataset.build^
 ||designsystem.build^
 ||distinctivedesign.build^
 ||doge.build^
@@ -44,7 +46,6 @@
 ||fiverivers.build^
 ||floridasteel.build^
 ||fluent.build^
-||founder.build^
 ||fulgora.build^
 ||futureofwork.build^
 ||gandb.build^
@@ -55,7 +56,6 @@
 ||jupyter.build^
 ||ko66.build^
 ||kratoswall.build^
-||lastbyte.build^
 ||lav.build^
 ||leagueai.build^
 ||lineo.build^
@@ -94,7 +94,6 @@
 ||replicator.build^
 ||retrust.build^
 ||reusable.build^
-||reward.build^
 ||robco.build^
 ||rohrluther.build^
 ||roomplan.build^
@@ -106,7 +105,6 @@
 ||skool.build^
 ||stablecoin.build^
 ||stables.build^
-||statehomeservices.build^
 ||stripchat.build^
 ||sumcheck.build^
 ||supa.build^
@@ -121,6 +119,7 @@
 ||toil.build^
 ||tradesite.build^
 ||tree0.build^
+||trigger.build^
 ||tyson.build^
 ||us4.build^
 ||weave.build^

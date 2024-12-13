@@ -6,9 +6,11 @@
 ||aiz.domains^
 ||alliance.domains^
 ||anonymous.domains^
+||another.domains^
 ||ap2t.domains^
 ||approved.domains^
 ||arabia.domains^
+||artanddesign.domains^
 ||atlas.domains^
 ||atproto.domains^
 ||backup-ens.domains^
@@ -27,14 +29,14 @@
 ||chatto.domains^
 ||cleva.domains^
 ||clipxxvip.domains^
-||contact.domains^
+||collegeapplications.domains^
 ||cricbet99.domains^
 ||cryptic.domains^
 ||cybertech.domains^
 ||damms.domains^
 ||death.domains^
 ||defendersoflife.domains^
-||dn.domains^
+||digitalart.domains^
 ||dncore.domains^
 ||does.domains^
 ||dotifi.domains^
@@ -55,6 +57,7 @@
 ||gaianet.domains^
 ||garden.domains^
 ||geodomain.domains^
+||globalnews.domains^
 ||gotta.domains^
 ||gpts.domains^
 ||group.domains^
@@ -62,9 +65,7 @@
 ||handle.domains^
 ||handles.domains^
 ||harmless.domains^
-||hirschmugl.domains^
 ||hostingelshafei.domains^
-||hosty.domains^
 ||hotchilli.domains^
 ||internetstewards.domains^
 ||jayswan.domains^
@@ -74,7 +75,6 @@
 ||justexpired.domains^
 ||kamehacloud.domains^
 ||king-networks.domains^
-||kuvamedia.domains^
 ||levelup.domains^
 ||lexicon.domains^
 ||lifecansuckless.domains^
@@ -98,8 +98,10 @@
 ||og1o.domains^
 ||ogawagaiko.domains^
 ||okbns.domains^
+||opusdns.domains^
 ||parnet.domains^
 ||phoenix.domains^
+||photographyportfolio.domains^
 ||planetarium.domains^
 ||plural.domains^
 ||printingsf.domains^
@@ -107,7 +109,6 @@
 ||psi.domains^
 ||qns.domains^
 ||quic.domains^
-||raven.domains^
 ||reactivate-ens.domains^
 ||reasondigital.domains^
 ||red.domains^
@@ -137,12 +138,14 @@
 ||unstoppables.domains^
 ||update-ens.domains^
 ||utopia.domains^
+||vsf.domains^
 ||wanted.domains^
 ||watertable.domains^
 ||weact.domains^
 ||web3domain.domains^
 ||web4.domains^
 ||wecare.domains^
+||wedos.domains^
 ||weiwei168.domains^
 ||whatchumean.domains^
 ||wisconsinweddingvenue.domains^
@@ -154,3 +157,4 @@
 ||yae.domains^
 ||zen.domains^
 ||zenogram.domains^
+||zigum.domains^
