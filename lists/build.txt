@@ -8,8 +8,6 @@
 ||alexi.build^
 ||americancraftsman.build^
 ||anka.build^
-||arcade.build^
-||architech.build^
 ||ardesign.build^
 ||augment.build^
 ||auto.build^
@@ -36,12 +34,14 @@
 ||datahub.build^
 ||designsystem.build^
 ||distinctivedesign.build^
+||dliub.build^
 ||doge.build^
 ||dogecast.build^
 ||dpmconstruction.build^
 ||dsign.build^
 ||dwellix.build^
 ||dynamite.build^
+||elsegundo.build^
 ||farcaster.build^
 ||fiverivers.build^
 ||floridasteel.build^
@@ -78,10 +78,10 @@
 ||open7.build^
 ||opensource.build^
 ||opti.build^
+||ordi.build^
 ||pchnv.build^
 ||peripherie.build^
 ||phantom.build^
-||probuild.build^
 ||prosa.build^
 ||publicgoods.build^
 ||pura.build^
@@ -107,7 +107,6 @@
 ||stables.build^
 ||stripchat.build^
 ||sumcheck.build^
-||supa.build^
 ||swfl.build^
 ||swiftconstruction.build^
 ||synaptic.build^

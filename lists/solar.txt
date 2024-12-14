@@ -11,7 +11,6 @@
 ||aim.solar^
 ||ampliphi.solar^
 ||angel.solar^
-||arise.solar^
 ||arkan.solar^
 ||atlasglobal.solar^
 ||atlasstrategic.solar^
@@ -52,6 +51,9 @@
 ||endee.solar^
 ||endlesspower.solar^
 ||enduralast.solar^
+||envitec-wind.solar^
+||envitec.solar^
+||envitecwind.solar^
 ||eos.solar^
 ||euro.solar^
 ||evpower.solar^
@@ -70,7 +72,7 @@
 ||gridpower.solar^
 ||grok.solar^
 ||gsi.solar^
-||hexagone.solar^
+||heritageenergysystems.solar^
 ||hochuzamuzh.solar^
 ||hohenberger.solar^
 ||iam.solar^
@@ -82,9 +84,7 @@
 ||kasyno.solar^
 ||kineticlight.solar^
 ||kis.solar^
-||km88.solar^
 ||kt.solar^
-||kuehl.solar^
 ||lagos.solar^
 ||lasolar.solar^
 ||leaseplus.solar^
@@ -152,6 +152,7 @@
 ||training.solar^
 ||transect.solar^
 ||trunkey.solar^
+||ttr.solar^
 ||v0.solar^
 ||vi.solar^
 ||westernsolar.solar^
