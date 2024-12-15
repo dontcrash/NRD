@@ -14,7 +14,6 @@
 ||aeolus.claims^
 ||alyce.claims^
 ||anvil.claims^
-||arbitrum.claims^
 ||asdf.claims^
 ||autonomous.claims^
 ||bibeautiful.claims^
@@ -65,8 +64,10 @@
 ||mypersonalinjury.claims^
 ||mystake.claims^
 ||near.claims^
+||nexpump.claims^
 ||nodepay.claims^
 ||nycpersonalinjury.claims^
+||opsec-v3.claims^
 ||opsecv2.claims^
 ||orangecounty.claims^
 ||pacific.claims^
@@ -84,9 +85,12 @@
 ||reality.claims^
 ||retail.claims^
 ||ringbalin-riverstories.claims^
+||safeguardinsurance.claims^
 ||sand.claims^
+||send.claims^
 ||serendipity.claims^
 ||shop.claims^
+||sixtit.claims^
 ||skvmoney.claims^
 ||socialmedia.claims^
 ||sol.claims^
@@ -99,7 +103,7 @@
 ||stake2.claims^
 ||staking.claims^
 ||stripchat.claims^
-||sunwin.claims^
+||sunlife.claims^
 ||supra.claims^
 ||taisunwin.claims^
 ||transparency.claims^
@@ -110,6 +114,7 @@
 ||ukpetrol.claims^
 ||umbrella.claims^
 ||uncc.claims^
+||v3-opsec.claims^
 ||vehicle-pcp.claims^
 ||velodrome.claims^
 ||vga.claims^
