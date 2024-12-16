@@ -39,11 +39,9 @@
 ||bazaar.food^
 ||bbqribs.food^
 ||beefstew.food^
-||benchmark.food^
 ||best-jobs.food^
 ||bestfast.food^
 ||bestjobs.food^
-||bestofthewest.food^
 ||bet888.food^
 ||bewilder.food^
 ||bhoomi.food^
@@ -68,7 +66,6 @@
 ||carolinaswine.food^
 ||caspian.food^
 ||chamorro.food^
-||chana.food^
 ||checkthe.food^
 ||cheeseburgers.food^
 ||chefai.food^
@@ -86,7 +83,6 @@
 ||claude.food^
 ||conlemani.food^
 ||cookify.food^
-||cookinglessons.food^
 ||cookingoil.food^
 ||copyright.food^
 ||countrymeatsdirect.food^
@@ -102,7 +98,6 @@
 ||dessertbites.food^
 ||dimsum.food^
 ||dinnerclub.food^
-||dogs1st.food^
 ||dokan.food^
 ||doods.food^
 ||douzragore.food^
@@ -177,7 +172,6 @@
 ||hungie.food^
 ||hungrybelly.food^
 ||hungryeyes.food^
-||ikaria.food^
 ||ilnido.food^
 ||indigrill.food^
 ||indisattva.food^
@@ -198,7 +192,6 @@
 ||joyboy.food^
 ||julia.food^
 ||karahi.food^
-||kayas.food^
 ||ketocookbook.food^
 ||kitch.food^
 ||knowledge.food^
@@ -209,7 +202,6 @@
 ||lagringa.food^
 ||lakeorion.food^
 ||laotian.food^
-||leopard.food^
 ||lethimcook.food^
 ||letscook.food^
 ||lifebonus.food^
@@ -223,13 +215,10 @@
 ||loveatfirstbite.food^
 ||lovemyfamily.food^
 ||luckydawg.food^
-||lyon.food^
 ||madewithluv.food^
 ||magicbag.food^
 ||magicchocolate.food^
 ||mago.food^
-||mail.food^
-||majdi.food^
 ||malik.food^
 ||mamayoya.food^
 ||mamayoyas.food^
@@ -240,7 +229,6 @@
 ||may88.food^
 ||meal2u.food^
 ||medic.food^
-||megamart.food^
 ||melssupperclub.food^
 ||melting.food^
 ||member.food^
@@ -265,9 +253,7 @@
 ||near-me.food^
 ||neighborhoodchef.food^
 ||neutral.food^
-||nicoya.food^
 ||nihari.food^
-||noithairestaurant.food^
 ||nomads.food^
 ||nookie.food^
 ||noosh.food^
@@ -280,7 +266,6 @@
 ||oceanrestaurant.food^
 ||odd.food^
 ||ok365.food^
-||okinawa.food^
 ||omotenashi.food^
 ||onceinliferestaurant.food^
 ||onelastword.food^
@@ -308,7 +293,6 @@
 ||pickabowl.food^
 ||platefuls.food^
 ||plateperfect.food^
-||platepos.food^
 ||poczta.food^
 ||pokebowl.food^
 ||poki.food^
@@ -330,7 +314,6 @@
 ||ridgewayplaza.food^
 ||robal.food^
 ||robals.food^
-||ronagh.food^
 ||runner.food^
 ||sabio.food^
 ||saboragape.food^
@@ -352,7 +335,6 @@
 ||sixoaks.food^
 ||skin.food^
 ||skool.food^
-||slices.food^
 ||slowcook.food^
 ||smileyfast.food^
 ||snacko.food^
@@ -363,7 +345,6 @@
 ||soulfeel.food^
 ||spaghetti.food^
 ||spiceandseason.food^
-||spicysalsafest.food^
 ||sprowstonfishbar.food^
 ||start-up.food^
 ||stoked.food^
@@ -405,15 +386,12 @@
 ||topten.food^
 ||tostadas.food^
 ||travel4.food^
-||trella.food^
 ||trendingnow.food^
 ||truckfinder.food^
-||trumpflation.food^
 ||twiddles.food^
 ||twisted.food^
 ||uncooked.food^
 ||uneedachef.food^
-||unitedfamily.food^
 ||unitymenu.food^
 ||usahealthymushrooms.food^
 ||veganoo.food^
@@ -449,9 +427,6 @@
 ||yozshucage.food^
 ||yucatanhoney.food^
 ||yumcurries.food^
-||zamzam.food^
 ||zauce.food^
 ||ze-delivery.food^
 ||zephyrmaine.food^
-||zero-g.food^
-||zimba.food^

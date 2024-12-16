@@ -16,6 +16,7 @@
 ||anvil.claims^
 ||asdf.claims^
 ||autonomous.claims^
+||betscheme.claims^
 ||bibeautiful.claims^
 ||bicycle.claims^
 ||bodilyinjury.claims^
@@ -24,7 +25,8 @@
 ||click.claims^
 ||coinmarketcap.claims^
 ||coinomi.claims^
-||construction.claims^
+||cwin.claims^
+||dappsradar.claims^
 ||dapsradar.claims^
 ||das.claims^
 ||dataleak.claims^
@@ -36,6 +38,7 @@
 ||electiveoption.claims^
 ||empireoftheturtle.claims^
 ||factor.claims^
+||factoring.claims^
 ||fidelidade.claims^
 ||flpersonalinjury.claims^
 ||forge.claims^
@@ -80,6 +83,7 @@
 ||prom.claims^
 ||property.claims^
 ||pudgypenguins.claims^
+||puffer-fi.claims^
 ||pump.claims^
 ||pumpfun.claims^
 ||reality.claims^
@@ -100,6 +104,7 @@
 ||sonics.claims^
 ||sonicsiab.claims^
 ||sonicsiabs.claims^
+||sred.claims^
 ||stake2.claims^
 ||staking.claims^
 ||stripchat.claims^
@@ -107,8 +112,10 @@
 ||supra.claims^
 ||taisunwin.claims^
 ||transparency.claims^
+||tre3ury.claims^
 ||true.claims^
 ||trust.claims^
+||trustgrid.claims^
 ||ukdiesel.claims^
 ||ukemissions.claims^
 ||ukpetrol.claims^
