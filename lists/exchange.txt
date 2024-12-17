@@ -24,8 +24,6 @@
 ||andx.exchange^
 ||antique.exchange^
 ||apecoin.exchange^
-||apex-app.exchange^
-||apex-bridge.exchange^
 ||app-0x0.exchange^
 ||appliedprob.exchange^
 ||arabit.exchange^
@@ -50,7 +48,6 @@
 ||binance-us.exchange^
 ||birdex.exchange^
 ||bitbit.exchange^
-||bitcoinethereum.exchange^
 ||bitcoinqueen.exchange^
 ||bithunter.exchange^
 ||bitpay.exchange^
@@ -112,11 +109,9 @@
 ||coinbasenft.exchange^
 ||coinfutures.exchange^
 ||coinmaker.exchange^
-||coinwrap.exchange^
 ||connext.exchange^
 ||consensys.exchange^
 ||copybara.exchange^
-||coss.exchange^
 ||criptify.exchange^
 ||crossdex.exchange^
 ||crptomarkte.exchange^
@@ -129,14 +124,11 @@
 ||cryptofuture.exchange^
 ||cryptofutures.exchange^
 ||cryptogame.exchange^
-||cryptohaven.exchange^
-||cryptomemes.exchange^
 ||cryptomine.exchange^
 ||cryptomus.exchange^
 ||cryptonote.exchange^
 ||cryptosetf.exchange^
 ||cryptosfutures.exchange^
-||cryptosmemes.exchange^
 ||cto.exchange^
 ||ctr.exchange^
 ||currencies.exchange^
@@ -148,7 +140,6 @@
 ||degencoin.exchange^
 ||dentalcoverage.exchange^
 ||devrev.exchange^
-||dexch.exchange^
 ||diamondexchange.exchange^
 ||digitalcommodities.exchange^
 ||dltx.exchange^
@@ -170,7 +161,6 @@
 ||exodrium.exchange^
 ||extended.exchange^
 ||ezpay.exchange^
-||fairdeal365.exchange^
 ||farmland.exchange^
 ||fasc.exchange^
 ||figaroai.exchange^
@@ -179,7 +169,6 @@
 ||fmxfutures.exchange^
 ||footy.exchange^
 ||forevers.exchange^
-||forexmartweb3.exchange^
 ||frogeworld.exchange^
 ||fstr.exchange^
 ||garage.exchange^
@@ -190,10 +179,8 @@
 ||gojiswap.exchange^
 ||goldenway.exchange^
 ||goldforum.exchange^
-||goldhandel.exchange^
 ||gpw.exchange^
 ||grange.exchange^
-||gwei.exchange^
 ||hanza.exchange^
 ||hbm.exchange^
 ||headpunk.exchange^
@@ -226,7 +213,6 @@
 ||keonhacai.exchange^
 ||kidcoin.exchange^
 ||king33.exchange^
-||kold.exchange^
 ||krystal.exchange^
 ||lace.exchange^
 ||lacex.exchange^
@@ -246,7 +232,6 @@
 ||lotus-365.exchange^
 ||lquid.exchange^
 ||magical.exchange^
-||mantiqueira.exchange^
 ||mantrachain.exchange^
 ||marble.exchange^
 ||marketpulse.exchange^
@@ -287,7 +272,6 @@
 ||orbiter.exchange^
 ||ourbit.exchange^
 ||outpost.exchange^
-||paddle.exchange^
 ||pandpay.exchange^
 ||panorama.exchange^
 ||patent.exchange^
@@ -353,13 +337,10 @@
 ||solvance.exchange^
 ||sona.exchange^
 ||soph.exchange^
-||spacemixer.exchange^
-||spankbang.exchange^
 ||sparrow.exchange^
 ||stakeland.exchange^
 ||statra.exchange^
 ||stima.exchange^
-||storagessl.exchange^
 ||stripchat.exchange^
 ||substrate.exchange^
 ||sunlife.exchange^
@@ -418,11 +399,9 @@
 ||voxpop.exchange^
 ||vvip.exchange^
 ||walknut.exchange^
-||wallet-app.exchange^
 ||warsaw.exchange^
 ||warsawstock.exchange^
 ||wasabifusionrestaurant.exchange^
-||web-hosting.exchange^
 ||web3binance.exchange^
 ||webtres.exchange^
 ||wfrp.exchange^
