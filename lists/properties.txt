@@ -1,3 +1,4 @@
+||ade.properties^
 ||ait.properties^
 ||akima.properties^
 ||atlanticnest.properties^
@@ -7,11 +8,14 @@
 ||dvc.properties^
 ||eliterealestate.properties^
 ||everland.properties^
+||fastcash.properties^
+||galaxys25manual.properties^
 ||godrejkokapet.properties^
 ||holdthai.properties^
 ||hookedup.properties^
 ||idealhomeinspections.properties^
 ||lapartament.properties^
+||log4testng.properties^
 ||loterie.properties^
 ||luxzre-waterfront.properties^
 ||mainecoastalvacations.properties^
@@ -22,12 +26,16 @@
 ||plus1.properties^
 ||plusone.properties^
 ||property.properties^
+||pwc.properties^
+||realestatedubai.properties^
 ||realm.properties^
 ||rently.properties^
 ||scotsirish.properties^
 ||silverfox.properties^
 ||stellar-uaeproperty.properties^
+||texasinvestment.properties^
 ||tiberis.properties^
+||totalpackage.properties^
 ||vacationinmaine.properties^
 ||veronicamedda.properties^
 ||zionsville.properties^

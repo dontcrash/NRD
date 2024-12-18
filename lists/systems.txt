@@ -11,7 +11,6 @@
 ||agi.systems^
 ||agro.systems^
 ||ai-lab.systems^
-||aimbots.systems^
 ||aiops.systems^
 ||aiprofit.systems^
 ||aive.systems^
@@ -25,7 +24,6 @@
 ||anwb-krakenflow.systems^
 ||any.systems^
 ||aom.systems^
-||arculus.systems^
 ||armed.systems^
 ||artech.systems^
 ||articulate.systems^
@@ -42,7 +40,6 @@
 ||bart.systems^
 ||bench.systems^
 ||benjaminedwardwebb.systems^
-||bespoke.systems^
 ||betano.systems^
 ||betterorganising.systems^
 ||bezz.systems^
@@ -81,7 +78,6 @@
 ||coretech.systems^
 ||covenant.systems^
 ||cryptotrading.systems^
-||csmith.systems^
 ||csr.systems^
 ||ctrl-z.systems^
 ||cuckoogb-krakenflow.systems^
@@ -92,10 +88,9 @@
 ||cyberstorm.systems^
 ||darkwebai.systems^
 ||dars.systems^
-||dart.systems^
+||deferred.systems^
 ||define.systems^
 ||denovo.systems^
-||developertest.systems^
 ||devindynamic.systems^
 ||devoops.systems^
 ||did.systems^
@@ -144,7 +139,6 @@
 ||gael.systems^
 ||galerie.systems^
 ||gedsihubpup.systems^
-||gen.systems^
 ||geofront.systems^
 ||globalinvesting.systems^
 ||gmails.systems^
@@ -152,16 +146,15 @@
 ||good-krakenflow.systems^
 ||goodjob.systems^
 ||greenlink.systems^
-||grinder.systems^
 ||growe.systems^
 ||grr.systems^
 ||hank.systems^
 ||hans-freitag.systems^
+||healthdefender.systems^
 ||herringelectrical.systems^
 ||highway.systems^
 ||history.systems^
 ||hoch.systems^
-||holdfast.systems^
 ||homealarm.systems^
 ||homelabs.systems^
 ||horde.systems^
@@ -183,9 +176,7 @@
 ||integratedconcrete.systems^
 ||integretis.systems^
 ||intronic-scale.systems^
-||jacobs.systems^
 ||jensen.systems^
-||jobs-uk.systems^
 ||js2.systems^
 ||jtm.systems^
 ||judicial.systems^
@@ -199,7 +190,6 @@
 ||kiefer.systems^
 ||kimbodo.systems^
 ||kongou.systems^
-||kryptodyne.systems^
 ||kwikreg.systems^
 ||lachesis.systems^
 ||lajoie.systems^
@@ -212,6 +202,7 @@
 ||lepton.systems^
 ||lety.systems^
 ||lifelog.systems^
+||ling-pedia.systems^
 ||lisbon.systems^
 ||load.systems^
 ||loadstar.systems^
@@ -227,7 +218,6 @@
 ||magnum.systems^
 ||mainlend.systems^
 ||mapwrap.systems^
-||marketagents.systems^
 ||marketmuse.systems^
 ||mastertech.systems^
 ||mattullman1-krakenflow.systems^
@@ -239,7 +229,6 @@
 ||medtech.systems^
 ||meow.systems^
 ||metacircular.systems^
-||metareflective.systems^
 ||metnee.systems^
 ||mews.systems^
 ||mfe.systems^
@@ -259,7 +248,6 @@
 ||morgana.systems^
 ||motortech.systems^
 ||mts.systems^
-||musi.systems^
 ||my-panel.systems^
 ||nanovision.systems^
 ||nectr-krakenflow.systems^
@@ -269,8 +257,6 @@
 ||netvalidx.systems^
 ||neu-space.systems^
 ||neuroease.systems^
-||newleap.systems^
-||nexe.systems^
 ||nexembed.systems^
 ||nextiva.systems^
 ||nofrills.systems^
@@ -280,7 +266,6 @@
 ||novanet.systems^
 ||nscope.systems^
 ||nudify.systems^
-||o-coin.systems^
 ||obliterate.systems^
 ||ocentic.systems^
 ||oees-krakenflow.systems^
@@ -295,7 +280,6 @@
 ||ogawagaiko.systems^
 ||ogtech.systems^
 ||okza.systems^
-||omfs.systems^
 ||onemail.systems^
 ||open7.systems^
 ||openintel.systems^
@@ -323,7 +307,6 @@
 ||plenitudefr-krakenflow.systems^
 ||policyregistration-secure.systems^
 ||poolcover.systems^
-||prado.systems^
 ||praetor.systems^
 ||primal.systems^
 ||primordial.systems^
@@ -334,7 +317,6 @@
 ||promfasad.systems^
 ||propics.systems^
 ||protolab.systems^
-||proving.systems^
 ||puffin.systems^
 ||pulsecore.systems^
 ||pwl-krakenflow.systems^
@@ -343,19 +325,20 @@
 ||raon.systems^
 ||reformuk.systems^
 ||regulatory-payout.systems^
-||reinwald.systems^
 ||renov8interior.systems^
 ||repel.systems^
 ||requisite.systems^
+||rhizomatic.systems^
+||rigotech.systems^
 ||road.systems^
 ||rock.systems^
-||roofs.systems^
 ||rossdev.systems^
 ||rubek.systems^
+||rulzcloud.systems^
 ||saasbaas.systems^
 ||saintjohnenergy-krakenflow.systems^
-||saugus.systems^
 ||sauron.systems^
+||schirmer-it.systems^
 ||security-patches.systems^
 ||semantic.systems^
 ||sha.systems^
@@ -368,7 +351,6 @@
 ||slivamotors.systems^
 ||smallbiz.systems^
 ||smartsecurity.systems^
-||smnr.systems^
 ||soar.systems^
 ||softmind.systems^
 ||solaaris.systems^
@@ -396,13 +378,12 @@
 ||taro.systems^
 ||taskeasyinternal.systems^
 ||tatari.systems^
+||tater.systems^
 ||tatu.systems^
 ||teamsky.systems^
 ||teamvoid.systems^
-||techforgrowth.systems^
 ||technicaldesign.systems^
 ||testit.systems^
-||tfg.systems^
 ||tgz.systems^
 ||thedallassecurity.systems^
 ||thimble.systems^
@@ -423,7 +404,6 @@
 ||uniq.systems^
 ||unkludge.systems^
 ||valuebasedcare.systems^
-||vasut.systems^
 ||vib.systems^
 ||viner.systems^
 ||vintech.systems^
@@ -431,6 +411,7 @@
 ||vitra.systems^
 ||vix.systems^
 ||vortexial.systems^
+||vrl.systems^
 ||waterleaf.systems^
 ||wendy.systems^
 ||weso.systems^
@@ -438,5 +419,4 @@
 ||xerodyne.systems^
 ||xiangpeng.systems^
 ||zang.systems^
-||zinois.systems^
 ||zionwithin.systems^
