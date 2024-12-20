@@ -89,6 +89,7 @@
 ||cache-secureapp.directory^
 ||canadabusiness.directory^
 ||casinoplus.directory^
+||cbdc.directory^
 ||cebu.directory^
 ||ceregelv.directory^
 ||certified.directory^
@@ -131,6 +132,7 @@
 ||debet.directory^
 ||deeptoken.directory^
 ||demo.directory^
+||dentalagents.directory^
 ||designprompt.directory^
 ||desjardins.directory^
 ||devhub.directory^
@@ -139,6 +141,7 @@
 ||did-activity.directory^
 ||did-category.directory^
 ||did-culture.directory^
+||did-didly.directory^
 ||did-events.directory^
 ||did-geography.directory^
 ||did-health.directory^
@@ -170,6 +173,7 @@
 ||dubaisocialmedia.directory^
 ||ecology.directory^
 ||ecomshubcatalog.directory^
+||edutainment.directory^
 ||ei.directory^
 ||ejobs.directory^
 ||eligo.directory^
@@ -188,12 +192,14 @@
 ||fed360.directory^
 ||feeds.directory^
 ||feishu.directory^
+||finalexpenseagents.directory^
 ||finder.directory^
 ||firstnation.directory^
 ||flytap.directory^
 ||fordevs.directory^
 ||free.directory^
 ||freee.directory^
+||freesocial.directory^
 ||fremen.directory^
 ||gacor4d.directory^
 ||gangnam.directory^
@@ -295,6 +301,7 @@
 ||membersecure.directory^
 ||messenger.directory^
 ||minfin.directory^
+||modelcontextprotocol.directory^
 ||monday.directory^
 ||moss.directory^
 ||motels.directory^
@@ -322,14 +329,17 @@
 ||oasis.directory^
 ||ocanada.directory^
 ||offline.directory^
+||one.directory^
 ||open-source.directory^
 ||open7.directory^
 ||openmarket.directory^
 ||orbit.directory^
+||orchestration.directory^
 ||origen.directory^
 ||osmirror.directory^
 ||ouroboros.directory^
 ||paid.directory^
+||pale.directory^
 ||paley.directory^
 ||pangerantoto3.directory^
 ||pangerantoto4.directory^
@@ -344,6 +354,8 @@
 ||paywithstablecoins.directory^
 ||pdxfilm.directory^
 ||pearl.directory^
+||pedal.directory^
+||pep.directory^
 ||perimenopause.directory^
 ||persianbusinessesvancouver.directory^
 ||pex.directory^
@@ -373,6 +385,7 @@
 ||recording.directory^
 ||redlink.directory^
 ||reference.directory^
+||registration.directory^
 ||repeaters.directory^
 ||rico.directory^
 ||ripple.directory^
@@ -407,13 +420,17 @@
 ||snuis.directory^
 ||softwarehunt.directory^
 ||some.directory^
+||sorcery.directory^
+||soulverse.directory^
 ||sp8.directory^
 ||spacetourism.directory^
 ||spooniverse.directory^
+||spreadsheets.directory^
 ||stackoverflow.directory^
 ||startupdesign.directory^
 ||sternwing.directory^
 ||stroch.directory^
+||studios.directory^
 ||sunlife.directory^
 ||sup.directory^
 ||superpower.directory^
@@ -422,6 +439,7 @@
 ||sustainableshop.directory^
 ||swordwood.directory^
 ||sylph.directory^
+||t65agents.directory^
 ||tantra.directory^
 ||tapismart.directory^
 ||taxus.directory^
@@ -430,6 +448,7 @@
 ||telegram.directory^
 ||terraphim.directory^
 ||teststore.directory^
+||thbd.directory^
 ||theaigroup.directory^
 ||theark.directory^
 ||thebigblue.directory^
@@ -490,6 +509,7 @@
 ||wplay.directory^
 ||xdewa.directory^
 ||xiaohongshu.directory^
+||xmail.directory^
 ||xrp.directory^
 ||xvidoes.directory^
 ||xxxvids.directory^

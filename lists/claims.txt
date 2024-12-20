@@ -55,6 +55,7 @@
 ||insurancediscovery.claims^
 ||iou.claims^
 ||iraqwar.claims^
+||jabs.claims^
 ||keonhacai.claims^
 ||leaseholdcommission.claims^
 ||liabilitylimits.claims^
@@ -70,6 +71,7 @@
 ||mystake.claims^
 ||near.claims^
 ||nexpump.claims^
+||niftyisland.claims^
 ||nodepay.claims^
 ||nycpersonalinjury.claims^
 ||opsec-v3.claims^
@@ -102,6 +104,7 @@
 ||socialmedia.claims^
 ||sol.claims^
 ||solanare.claims^
+||solv-finance.claims^
 ||sonic-labs.claims^
 ||soniciab.claims^
 ||sonics.claims^
@@ -110,9 +113,11 @@
 ||sred.claims^
 ||stake2.claims^
 ||staking.claims^
+||strawberryai.claims^
 ||stripchat.claims^
 ||sunlife.claims^
 ||supra.claims^
+||sylph.claims^
 ||taisunwin.claims^
 ||transparency.claims^
 ||tre3ury.claims^
@@ -124,6 +129,8 @@
 ||ukpetrol.claims^
 ||umbrella.claims^
 ||uncc.claims^
+||uni.claims^
+||uptime.claims^
 ||v3-opsec.claims^
 ||vehicle-pcp.claims^
 ||velodrome.claims^

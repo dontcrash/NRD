@@ -1,8 +1,8 @@
 ||1099.coach^
 ||15powers.coach^
 ||1688.coach^
-||1cbdsource.coach^
 ||1win.coach^
+||2c.coach^
 ||516leader.coach^
 ||5555.coach^
 ||60minuteceo.coach^
@@ -17,6 +17,7 @@
 ||agileflow.coach^
 ||ai-product.coach^
 ||aicertified.coach^
+||aichallenger.coach^
 ||airborne.coach^
 ||airsoft.coach^
 ||aita.coach^
@@ -38,11 +39,9 @@
 ||ascendleadershipsolutions.coach^
 ||assessment.coach^
 ||assessments.coach^
-||athletehealth.coach^
 ||athletes.coach^
 ||authenticleaders.coach^
 ||autisticyouth.coach^
-||ava.coach^
 ||avocado.coach^
 ||ayshacoachbellamy.coach^
 ||back2life.coach^
@@ -50,6 +49,7 @@
 ||bav.coach^
 ||becomewhoyouare.coach^
 ||behle-triathlon.coach^
+||belger.coach^
 ||bemy.coach^
 ||betransformed.coach^
 ||betterthantherapy.coach^
@@ -88,7 +88,6 @@
 ||catalystcoaching.coach^
 ||cbo.coach^
 ||celebraterecovery.coach^
-||ceolife.coach^
 ||chapot.coach^
 ||charlie.coach^
 ||cherryward.coach^
@@ -96,7 +95,6 @@
 ||chihuahua.coach^
 ||choise.coach^
 ||christianlifecoaching.coach^
-||christianwimmer.coach^
 ||clairecurran.coach^
 ||clap.coach^
 ||claudialaempe.coach^
@@ -105,7 +103,6 @@
 ||cloud-academy.coach^
 ||cloud-campus.coach^
 ||cnn.coach^
-||coach2.coach^
 ||coachat.coach^
 ||coachjoey.coach^
 ||coachjustinbullock.coach^
@@ -113,7 +110,6 @@
 ||coachtamekia.coach^
 ||collegeinterviews.coach^
 ||collegerecommendations.coach^
-||como.coach^
 ||conecta.coach^
 ||consciouswellness.coach^
 ||contact.coach^
@@ -126,13 +122,13 @@
 ||csdn.coach^
 ||csuiteinabox.coach^
 ||danbeverly.coach^
-||danielholbach.coach^
 ||daringfutures.coach^
 ||dayone.coach^
 ||deliberategrowthforleaders.coach^
 ||dharma.coach^
 ||dibs.coach^
 ||didierperez.coach^
+||dolphins.coach^
 ||dragonflyrevolution.coach^
 ||drtoniawalker.coach^
 ||drumlessonsplus.coach^
@@ -166,12 +162,13 @@
 ||fly.coach^
 ||fog.coach^
 ||foreclosureprevention.coach^
+||foryoursoul.coach^
 ||franksewert.coach^
 ||friedemann.coach^
 ||fuelin.coach^
 ||fulfilled.coach^
-||fullyalive.coach^
 ||gagner.coach^
+||ganz-gesund.coach^
 ||gautier.coach^
 ||gcaa.coach^
 ||geanella.coach^
@@ -183,7 +180,7 @@
 ||ghislainelabelle.coach^
 ||ginavanzzini.coach^
 ||glimmerzcrm.coach^
-||godatwork.coach^
+||glowfit.coach^
 ||gooneup.coach^
 ||gooneupnow.coach^
 ||griefrelief.coach^
@@ -194,6 +191,7 @@
 ||handsome.coach^
 ||happyplace.coach^
 ||headless-torso.coach^
+||heart-mind.coach^
 ||help4.coach^
 ||helpers.coach^
 ||hendling.coach^
@@ -209,7 +207,6 @@
 ||ingame.coach^
 ||innerrest.coach^
 ||intervista.coach^
-||inventory.coach^
 ||inviziquill.coach^
 ||ironmind.coach^
 ||iskorka.coach^
@@ -240,12 +237,13 @@
 ||lifeness.coach^
 ||lifereimagined.coach^
 ||lightupyourlife.coach^
+||lionspt.coach^
 ||losalcazares.coach^
 ||loterie.coach^
 ||luminarynexus.coach^
+||lupus.coach^
 ||maha.coach^
 ||make.coach^
-||makesense.coach^
 ||marcedwards.coach^
 ||marcinkot.coach^
 ||mariobernal.coach^
@@ -276,11 +274,9 @@
 ||mosy.coach^
 ||mybrilliance.coach^
 ||myinterview.coach^
-||mykaizen.coach^
 ||myleadershipcareer.coach^
 ||mystics.coach^
 ||mysuccess.coach^
-||myswimming.coach^
 ||nahelehiiaka.coach^
 ||naomigrace.coach^
 ||neo.coach^
@@ -296,6 +292,7 @@
 ||nodeo.coach^
 ||now-here.coach^
 ||nurseauntyo.coach^
+||nya.coach^
 ||oaccandidate.coach^
 ||olsson.coach^
 ||onelifemindsetcoaching.coach^
@@ -317,6 +314,7 @@
 ||pilot-deines-lebens.coach^
 ||plantforward.coach^
 ||pmr.coach^
+||podium.coach^
 ||pose.coach^
 ||positivepatterns.coach^
 ||powertogrow.coach^
@@ -333,6 +331,7 @@
 ||pureradiancerx.coach^
 ||purevitality.coach^
 ||pv.coach^
+||q2.coach^
 ||qstar.coach^
 ||quant.coach^
 ||quest.coach^
@@ -353,9 +352,7 @@
 ||richard.coach^
 ||rodrigo.coach^
 ||roth.coach^
-||royyamada.coach^
 ||rucinski.coach^
-||runninghealth.coach^
 ||ryanhoward.coach^
 ||ryanrhodes.coach^
 ||s9dd.coach^
@@ -374,11 +371,14 @@
 ||selfrelationship.coach^
 ||sephardic.coach^
 ||serdar.coach^
+||serenityandsuccess.coach^
+||serieusement.coach^
 ||sevencycle.coach^
 ||sierra-echo-xray.coach^
 ||silverbacknetwork.coach^
 ||simonsays.coach^
 ||skin.coach^
+||slingshot.coach^
 ||sma1medan.coach^
 ||socialanxiety.coach^
 ||sofiachang.coach^
@@ -394,7 +394,9 @@
 ||strangecharm.coach^
 ||stronghold.coach^
 ||studio-games.coach^
+||successandserenity.coach^
 ||succession.coach^
+||successwithserenity.coach^
 ||sunlife.coach^
 ||superpappa.coach^
 ||sustainable.coach^
@@ -428,7 +430,7 @@
 ||troublesalimentaires.coach^
 ||trytennis.coach^
 ||tv2.coach^
-||ultrarunninghealth.coach^
+||twsales.coach^
 ||unbecome.coach^
 ||unleashing.coach^
 ||uxdesign.coach^
@@ -445,8 +447,6 @@
 ||viveone.coach^
 ||vivre.coach^
 ||voice.coach^
-||warehouse.coach^
-||warehousing.coach^
 ||watch.coach^
 ||wcs.coach^
 ||wellnessyourway.coach^
