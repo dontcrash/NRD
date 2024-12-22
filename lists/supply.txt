@@ -28,7 +28,6 @@
 ||coldstream.supply^
 ||complaintdept.supply^
 ||copper.supply^
-||countertop.supply^
 ||cove.supply^
 ||cuatro.supply^
 ||dairy.supply^
@@ -38,12 +37,12 @@
 ||dermal.supply^
 ||detroit.supply^
 ||directorscut.supply^
+||dod.supply^
 ||doer.supply^
 ||doubleb.supply^
 ||douyin.supply^
 ||draw.supply^
 ||ecoshop.supply^
-||emerald.supply^
 ||federalsteel.supply^
 ||fragrance.supply^
 ||frontend.supply^
@@ -63,6 +62,7 @@
 ||hunt.supply^
 ||huntingcamping.supply^
 ||hydrogen.supply^
+||index.supply^
 ||intelligence.supply^
 ||intelligent.supply^
 ||intlmfg.supply^
@@ -96,7 +96,6 @@
 ||property.supply^
 ||psy.supply^
 ||psychedelics.supply^
-||pump.supply^
 ||pythnetwork.supply^
 ||qhealthmanagement.supply^
 ||qq88.supply^
@@ -108,12 +107,12 @@
 ||relay.supply^
 ||retention.supply^
 ||rewards.supply^
+||rex.supply^
 ||rhl.supply^
 ||satoshi.supply^
 ||sbom.supply^
 ||scope3.supply^
 ||separate.supply^
-||sh.supply^
 ||sheffington.supply^
 ||shoulderholster.supply^
 ||silo64.supply^
@@ -135,6 +134,8 @@
 ||swiftspecialtywelding.supply^
 ||swoosh.supply^
 ||symbiote.supply^
+||tablo.supply^
+||techno.supply^
 ||theloop.supply^
 ||thetoolsmith.supply^
 ||tierra.supply^
@@ -160,13 +161,11 @@
 ||vvvwin.supply^
 ||want.supply^
 ||weibo.supply^
-||westcoast.supply^
 ||widgets.supply^
 ||williamhill.supply^
 ||windscribe.supply^
 ||wirewings.supply^
 ||wood.supply^
-||woofspet.supply^
 ||wyld.supply^
 ||xero.supply^
 ||xtc.supply^
