@@ -28,7 +28,6 @@
 ||changelly.claims^
 ||chillguy.claims^
 ||click.claims^
-||coinmarketcap.claims^
 ||coinomi.claims^
 ||crash.claims^
 ||cwin.claims^
@@ -45,7 +44,6 @@
 ||ethenafi.claims^
 ||factor.claims^
 ||factoring.claims^
-||fidelidade.claims^
 ||flpersonalinjury.claims^
 ||forge.claims^
 ||fortuna.claims^
@@ -68,11 +66,13 @@
 ||liga188.claims^
 ||medicalnegligence.claims^
 ||medmalpractice.claims^
+||mefoundation.claims^
 ||meria.claims^
 ||mew.claims^
 ||midnight.claims^
 ||migrate-opsec-v2.claims^
 ||militaryhearing.claims^
+||monovoc.claims^
 ||movement.claims^
 ||muraibetgacor.claims^
 ||mypersonalinjury.claims^
@@ -118,7 +118,6 @@
 ||socialmedia.claims^
 ||soiv.claims^
 ||sol.claims^
-||solanare.claims^
 ||solv-finance.claims^
 ||solv.claims^
 ||sonic-labs.claims^
