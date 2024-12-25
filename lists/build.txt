@@ -6,13 +6,14 @@
 ||application.build^
 ||arche.build^
 ||augment.build^
-||auto.build^
 ||autonomer.build^
 ||basalto.build^
 ||behave.build^
 ||bent.build^
 ||blog.build^
 ||body.build^
+||bonsaidesign.build^
+||boss.build^
 ||brainrot.build^
 ||brawl.build^
 ||buidl.build^
@@ -27,7 +28,6 @@
 ||distinctivedesign.build^
 ||dliub.build^
 ||dogecast.build^
-||dpmconstruction.build^
 ||dsign.build^
 ||dwellix.build^
 ||dynamite.build^
@@ -53,7 +53,6 @@
 ||loli.build^
 ||loopar.build^
 ||m28.build^
-||mallardhomes.build^
 ||mermaid.build^
 ||multiplayer.build^
 ||netfx.build^
@@ -65,6 +64,7 @@
 ||opensource.build^
 ||opti.build^
 ||ordi.build^
+||paths.build^
 ||peripherie.build^
 ||phantom.build^
 ||pura.build^
@@ -73,7 +73,6 @@
 ||rattler.build^
 ||reha.build^
 ||remediate.build^
-||replicator.build^
 ||retrust.build^
 ||reusable.build^
 ||robertsbuilt.build^
@@ -100,8 +99,9 @@
 ||trigger.build^
 ||tycho.build^
 ||tyson.build^
+||unlimited.build^
 ||us4.build^
+||vlad.build^
 ||wildrift.build^
 ||xhamster.build^
-||zeus.build^
 ||zoho.build^
