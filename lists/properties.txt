@@ -4,6 +4,7 @@
 ||ait.properties^
 ||akima.properties^
 ||aum.properties^
+||bharosa.properties^
 ||bitcoincapital.properties^
 ||butt.properties^
 ||cancun.properties^
@@ -14,6 +15,7 @@
 ||hgroup.properties^
 ||holdthai.properties^
 ||hookedup.properties^
+||hotel-vitoria.properties^
 ||idealhomeinspections.properties^
 ||log4testng.properties^
 ||loterie.properties^
@@ -23,12 +25,14 @@
 ||mbl.properties^
 ||montecristo.properties^
 ||nexus.properties^
+||nsfas.properties^
 ||oneinamillion.properties^
 ||plus1.properties^
 ||plusone.properties^
 ||portholland.properties^
 ||property.properties^
 ||pwc.properties^
+||pyb.properties^
 ||realestatedubai.properties^
 ||realm.properties^
 ||rently.properties^
@@ -41,3 +45,4 @@
 ||vacationinmaine.properties^
 ||webuyasis8.properties^
 ||xio.properties^
+||zoiver.properties^

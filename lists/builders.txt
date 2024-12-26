@@ -3,6 +3,8 @@
 ||alliedgrowth.builders^
 ||batdao.builders^
 ||beachfront.builders^
+||bookkeeper.builders^
+||bookkeeping.builders^
 ||chiefconstruction.builders^
 ||clockit.builders^
 ||complex.builders^
@@ -13,6 +15,7 @@
 ||irish.builders^
 ||job-uk.builders^
 ||jobuk.builders^
+||quant.builders^
 ||rudra.builders^
 ||smallbiz.builders^
 ||synapse.builders^
