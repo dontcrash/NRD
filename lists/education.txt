@@ -6,6 +6,7 @@
 ||a2cofc.education^
 ||aabove.education^
 ||aada.education^
+||academus.education^
 ||academyofmarketing.education^
 ||advancea.education^
 ||adz.education^
@@ -13,7 +14,6 @@
 ||afghangirls.education^
 ||africanstudies.education^
 ||agazzischool.education^
-||agelesslivinglifestyle.education^
 ||agentic.education^
 ||aideducate.education^
 ||aifb.education^
@@ -33,7 +33,6 @@
 ||animals.education^
 ||aops.education^
 ||apus.education^
-||arc.education^
 ||arkbible.education^
 ||arkbiblecollege.education^
 ||arkcollege.education^
@@ -47,7 +46,6 @@
 ||avenir-agro.education^
 ||badil.education^
 ||baldi.education^
-||basecamps.education^
 ||beautymaster.education^
 ||bec-e-shop.education^
 ||bem.education^
@@ -91,6 +89,7 @@
 ||cloud-campus.education^
 ||coders.education^
 ||collateral.education^
+||collegecodem.education^
 ||coloringbooks.education^
 ||communikids.education^
 ||companion.education^
@@ -101,6 +100,7 @@
 ||couplesacademy.education^
 ||cryptostart.education^
 ||csa.education^
+||cslafondation.education^
 ||culturel.education^
 ||cyberai.education^
 ||cydeo.education^
@@ -127,6 +127,7 @@
 ||eaton.education^
 ||eau.education^
 ||ebpvg.education^
+||edison.education^
 ||edualia.education^
 ||educationuniverse.education^
 ||eduforestin.education^
@@ -172,6 +173,7 @@
 ||fpcacademy.education^
 ||franchise.education^
 ||freedhome.education^
+||friends.education^
 ||fulfilled.education^
 ||fullertoncollege.education^
 ||funplaces.education^
@@ -211,7 +213,6 @@
 ||homelab.education^
 ||hopeacademy.education^
 ||hots.education^
-||howeschool.education^
 ||hubble.education^
 ||hug.education^
 ||humen.education^
@@ -227,6 +228,7 @@
 ||imgacademy.education^
 ||imi.education^
 ||imuniversite.education^
+||in-motion.education^
 ||inflation.education^
 ||inizioengage.education^
 ||innovadvisory.education^
@@ -236,6 +238,7 @@
 ||internationalschools.education^
 ||internationaluniversity.education^
 ||investment-banking.education^
+||invisionu.education^
 ||ionline.education^
 ||ioriorossini.education^
 ||iper.education^
@@ -244,7 +247,6 @@
 ||isabel.education^
 ||iti.education^
 ||itsu.education^
-||janaah.education^
 ||jobby.education^
 ||jobsearch.education^
 ||joel.education^
@@ -253,7 +255,6 @@
 ||kabinetbr3.education^
 ||keisie.education^
 ||kenkoudai.education^
-||kf2458.education^
 ||kidz.education^
 ||kinkpractitioneraccreditationboard.education^
 ||kitts.education^
@@ -265,6 +266,7 @@
 ||kunoichi.education^
 ||labo.education^
 ||lafabriq.education^
+||lamb.education^
 ||langues.education^
 ||lasso.education^
 ||lazyboy.education^
@@ -297,11 +299,9 @@
 ||metaskills.education^
 ||mfulenihighschool.education^
 ||mgeninternational.education^
-||micro.education^
 ||mig.education^
 ||miletwo.education^
 ||millton.education^
-||mindblown.education^
 ||minor.education^
 ||mippco.education^
 ||miraclevalley.education^
@@ -348,7 +348,6 @@
 ||p2macademy.education^
 ||paperclip.education^
 ||parimalgeeta.education^
-||passion.education^
 ||peakmind.education^
 ||pecah90.education^
 ||peptide.education^
@@ -370,7 +369,6 @@
 ||refine.education^
 ||regenerativeacademy.education^
 ||regressor.education^
-||remagine.education^
 ||reno.education^
 ||reskill.education^
 ||resource.education^
@@ -383,7 +381,6 @@
 ||rule34.education^
 ||rumbo.education^
 ||russo.education^
-||rust.education^
 ||safetravels.education^
 ||safetyinmines.education^
 ||safetythrough.education^
@@ -394,10 +391,10 @@
 ||sarhadschool.education^
 ||sat.education^
 ||scam.education^
-||schoolformusicvocations.education^
+||schade.education^
 ||science.education^
-||scm.education^
 ||sdrk.education^
+||seehear.education^
 ||selbi.education^
 ||sgtrust.education^
 ||shansa.education^
@@ -406,7 +403,6 @@
 ||sipl.education^
 ||sitiouno.education^
 ||sltc.education^
-||smasc.education^
 ||smash.education^
 ||sodo66.education^
 ||soldout.education^
@@ -434,7 +430,7 @@
 ||synex.education^
 ||talentpool.education^
 ||talentx.education^
-||tatacrypto.education^
+||tallo.education^
 ||taxmann.education^
 ||tci.education^
 ||teachingtutor.education^
@@ -452,6 +448,7 @@
 ||thinkify.education^
 ||thptvinhhung.education^
 ||threads.education^
+||tier4training.education^
 ||timemanagement.education^
 ||tingumey.education^
 ||titan.education^
@@ -463,17 +460,15 @@
 ||totale.education^
 ||toullab.education^
 ||trc.education^
-||trump.education^
 ||ttshvietthanh.education^
 ||tupismo.education^
 ||twofires.education^
+||udl.education^
 ||ufa222.education^
 ||umapp.education^
 ||uniskills.education^
 ||university8december.education^
 ||unleashing.education^
-||unsocperlascuola.education^
-||unsocperlescuole.education^
 ||usintegrity.education^
 ||utcc.education^
 ||uwashems.education^
@@ -482,7 +477,6 @@
 ||viper.education^
 ||virtualera.education^
 ||vision.education^
-||vitalfoundations.education^
 ||voktis.education^
 ||waitingroom.education^
 ||wcbt.education^
@@ -493,6 +487,7 @@
 ||windsorinstitutear.education^
 ||winslot.education^
 ||wizkids.education^
+||womensneurology.education^
 ||wondersof.education^
 ||wonderwalls.education^
 ||word.education^
