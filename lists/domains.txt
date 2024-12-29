@@ -12,7 +12,6 @@
 ||alliance.domains^
 ||another.domains^
 ||ap2t.domains^
-||arabia.domains^
 ||artanddesign.domains^
 ||atproto.domains^
 ||backup-ens.domains^
@@ -39,6 +38,8 @@
 ||damms.domains^
 ||dao4.domains^
 ||daofor.domains^
+||dareno.domains^
+||dead.domains^
 ||death.domains^
 ||defendersoflife.domains^
 ||digitalart.domains^
@@ -60,14 +61,11 @@
 ||hk01.domains^
 ||hl.domains^
 ||homomorphic.domains^
-||hotchilli.domains^
 ||infofi.domains^
 ||insane.domains^
 ||jobby.domains^
 ||joseph.domains^
 ||justexpired.domains^
-||kamehacloud.domains^
-||king-networks.domains^
 ||kraft.domains^
 ||langhe.domains^
 ||ledger.domains^
@@ -77,7 +75,6 @@
 ||lto.domains^
 ||medspa.domains^
 ||near.domains^
-||netfy.domains^
 ||neverlaunched.domains^
 ||nomad.domains^
 ||norden.domains^
@@ -93,6 +90,7 @@
 ||paperstreet.domains^
 ||phoenix.domains^
 ||photographyportfolio.domains^
+||prebuilt.domains^
 ||psi.domains^
 ||pullable.domains^
 ||qns.domains^
