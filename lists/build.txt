@@ -1,7 +1,5 @@
-||acolad.build^
 ||actionhvac.build^
 ||aikyas.build^
-||alexi.build^
 ||alkanes.build^
 ||application.build^
 ||arche.build^
@@ -54,12 +52,9 @@
 ||opensource.build^
 ||ordi.build^
 ||paths.build^
-||peripherie.build^
-||phantom.build^
 ||podify.build^
 ||promusik.build^
 ||qstar.build^
-||rails.build^
 ||rari.build^
 ||rattler.build^
 ||remediate.build^
