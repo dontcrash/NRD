@@ -1,8 +1,10 @@
 ||12bet.observer^
 ||188bet.observer^
 ||aid.observer^
+||cryptocurrency.observer^
 ||digitaldata.observer^
 ||fan-game-club.observer^
+||forge.observer^
 ||holocron.observer^
 ||interface.observer^
 ||lemon.observer^
@@ -13,6 +15,7 @@
 ||poker.observer^
 ||rogue.observer^
 ||seer.observer^
+||sgoogleapis.observer^
 ||sikh.observer^
 ||sportsbet.observer^
 ||stable.observer^

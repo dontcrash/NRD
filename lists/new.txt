@@ -1,7 +1,6 @@
 ||abstract.new^
 ||aiagent.new^
 ||atlas.new^
-||bsky.new^
 ||bundler.new^
 ||cron.new^
 ||devenv.new^
@@ -10,7 +9,6 @@
 ||flo.new^
 ||gt.new^
 ||mobileapp.new^
-||poker.new^
 ||qrmenu.new^
 ||scene.new^
 ||sol.new^

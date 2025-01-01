@@ -8,6 +8,7 @@
 ||bonsaidesign.build^
 ||boss.build^
 ||brawl.build^
+||brightlink.build^
 ||buidl.build^
 ||buildcode.build^
 ||chatbot.build^
@@ -17,18 +18,17 @@
 ||contractorsbusinesscenters.build^
 ||dano.build^
 ||darkmode.build^
-||designsystem.build^
 ||diggerscrowd.build^
 ||diriginte.build^
 ||dirigintedesantier.build^
 ||dliub.build^
-||dogecast.build^
 ||dsign.build^
 ||dwellix.build^
 ||electryone.build^
 ||elsegundo.build^
 ||engin.build^
 ||floridasteel.build^
+||func.build^
 ||gaia.build^
 ||gandb.build^
 ||gunvolt.build^
@@ -43,6 +43,7 @@
 ||jar.build^
 ||jupyter.build^
 ||lav.build^
+||linear.build^
 ||loli.build^
 ||loopar.build^
 ||m28.build^
@@ -77,6 +78,7 @@
 ||unlimited.build^
 ||us4.build^
 ||vlad.build^
+||whatdidaidan.build^
 ||winget.build^
 ||zest.build^
 ||zoho.build^
