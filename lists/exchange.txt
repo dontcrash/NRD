@@ -25,7 +25,6 @@
 ||antique.exchange^
 ||app-hyperswap.exchange^
 ||apphyperswap.exchange^
-||appliedprob.exchange^
 ||aquifa.exchange^
 ||arbichain.exchange^
 ||ardmeborlasekareau.exchange^
@@ -56,6 +55,7 @@
 ||bitscoin.exchange^
 ||bitwin.exchange^
 ||bitxglobal.exchange^
+||bix.exchange^
 ||blacksalt.exchange^
 ||blessed.exchange^
 ||bliss.exchange^
@@ -141,6 +141,7 @@
 ||ctr.exchange^
 ||currencies.exchange^
 ||curved.exchange^
+||cytoken.exchange^
 ||daisiligandsnooning.exchange^
 ||daos.exchange^
 ||dca.exchange^
@@ -166,13 +167,12 @@
 ||dusd.exchange^
 ||dxb.exchange^
 ||echarge.exchange^
+||ecn.exchange^
 ||ecrypto.exchange^
 ||ellipx.exchange^
 ||elsy.exchange^
 ||emeralds.exchange^
-||endor.exchange^
 ||ese.exchange^
-||eunx.exchange^
 ||evergreen.exchange^
 ||exodrium.exchange^
 ||farmland.exchange^
@@ -197,12 +197,11 @@
 ||gojiswap.exchange^
 ||goldenway.exchange^
 ||goldsilverbullion.exchange^
-||gpw.exchange^
 ||grange.exchange^
 ||greatchange.exchange^
 ||haloharbor.exchange^
-||hbm.exchange^
 ||headpunk.exchange^
+||heal.exchange^
 ||heiswap.exchange^
 ||hii.exchange^
 ||hiqsdr.exchange^
@@ -211,6 +210,7 @@
 ||honeypot.exchange^
 ||hopprotocol.exchange^
 ||hyperbolic.exchange^
+||hyperdefi.exchange^
 ||in1.exchange^
 ||info-support.exchange^
 ||infofi.exchange^
@@ -253,7 +253,6 @@
 ||latamco.exchange^
 ||latoken.exchange^
 ||lifesettlements.exchange^
-||limestreet.exchange^
 ||liqui.exchange^
 ||load.exchange^
 ||localgarden.exchange^
@@ -264,6 +263,7 @@
 ||lquid.exchange^
 ||luckycoin.exchange^
 ||lucrum.exchange^
+||lumoswap.exchange^
 ||luqui.exchange^
 ||maasaa.exchange^
 ||machinist.exchange^
@@ -271,6 +271,7 @@
 ||mantrachain.exchange^
 ||maq.exchange^
 ||marble.exchange^
+||marketplace.exchange^
 ||marketpulse.exchange^
 ||maven.exchange^
 ||mcaddons.exchange^
@@ -286,7 +287,6 @@
 ||midatlanticinsurance.exchange^
 ||mihan.exchange^
 ||minswap.exchange^
-||minute.exchange^
 ||mrsimple.exchange^
 ||mt.exchange^
 ||mugen.exchange^
@@ -296,8 +296,11 @@
 ||mybtc.exchange^
 ||mycryptos.exchange^
 ||myshare.exchange^
+||namechain.exchange^
 ||namh2.exchange^
+||nce.exchange^
 ||ndx.exchange^
+||neom.exchange^
 ||newsdhamaka.exchange^
 ||niavaran.exchange^
 ||nofi.exchange^
@@ -305,7 +308,6 @@
 ||nya.exchange^
 ||oakx.exchange^
 ||obscura.exchange^
-||od.exchange^
 ||offshift.exchange^
 ||onbet.exchange^
 ||onchain.exchange^
@@ -324,6 +326,7 @@
 ||pepeunchained.exchange^
 ||phx-inc.exchange^
 ||pinex.exchange^
+||pinswap.exchange^
 ||pitex.exchange^
 ||pkr.exchange^
 ||place.exchange^
@@ -339,6 +342,7 @@
 ||quantamcurrency.exchange^
 ||qubic.exchange^
 ||racube.exchange^
+||radix.exchange^
 ||rarity.exchange^
 ||rd.exchange^
 ||real-digital.exchange^
@@ -346,7 +350,6 @@
 ||realdigital.exchange^
 ||rebel.exchange^
 ||resolves.exchange^
-||rewards-0x0.exchange^
 ||rhizome.exchange^
 ||rockbit.exchange^
 ||rockectx.exchange^
@@ -354,7 +357,6 @@
 ||rocket-x.exchange^
 ||rockettx.exchange^
 ||rubbic.exchange^
-||s.exchange^
 ||sa88.exchange^
 ||safepay.exchange^
 ||sandra.exchange^
@@ -387,7 +389,9 @@
 ||sunrise.exchange^
 ||survival.exchange^
 ||sustainablestock.exchange^
+||swapcore.exchange^
 ||swapcrypto.exchange^
+||swapmonero.exchange^
 ||swisstrade.exchange^
 ||swp.exchange^
 ||sylph.exchange^
@@ -406,11 +410,9 @@
 ||titanium.exchange^
 ||tomaan.exchange^
 ||tomax.exchange^
-||topgift.exchange^
 ||tradeforex.exchange^
 ||tradeon.exchange^
 ||trax.exchange^
-||treasurypooi-0x0.exchange^
 ||troncoin.exchange^
 ||trueshare.exchange^
 ||trump.exchange^
@@ -446,8 +448,6 @@
 ||vvip.exchange^
 ||walknut.exchange^
 ||waltica.exchange^
-||warsaw.exchange^
-||warsawstock.exchange^
 ||wasabifusionrestaurant.exchange^
 ||wcommerce.exchange^
 ||web3binance.exchange^

@@ -239,7 +239,6 @@
 ||did-svc.directory^
 ||did-technology.directory^
 ||did-wellbeing.directory^
-||digitaldata.directory^
 ||digitalproductpassport.directory^
 ||digitalrewards.directory^
 ||disability.directory^
@@ -273,14 +272,12 @@
 ||equip.directory^
 ||esim.directory^
 ||eventplanner.directory^
-||fabricator.directory^
 ||face.directory^
 ||fadecut.directory^
 ||fake.directory^
 ||farcaster.directory^
 ||fasciofossuleidyller.directory^
 ||fashions.directory^
-||fed360.directory^
 ||feishu.directory^
 ||felharis.directory^
 ||finalexpenseagents.directory^
@@ -318,7 +315,6 @@
 ||head.directory^
 ||headquarters.directory^
 ||healthagents.directory^
-||heartcenteredtransformationcoach.directory^
 ||hitzel-it.directory^
 ||hk01.directory^
 ||hoa.directory^
@@ -334,7 +330,6 @@
 ||indonesia4d.directory^
 ||inspiration.directory^
 ||insurancepro.directory^
-||intermission.directory^
 ||investrfp.directory^
 ||invoicefinance.directory^
 ||isla.directory^
@@ -368,11 +363,14 @@
 ||kycupdate.directory^
 ||lainara.directory^
 ||latamairlines.directory^
+||laws.directory^
 ||lawyerly.directory^
 ||learnit.directory^
+||like.directory^
 ||linkdidnfts.directory^
 ||linkinbio.directory^
 ||linklego77.directory^
+||localattorneys.directory^
 ||localservicebusinesses.directory^
 ||lokal.directory^
 ||lokalbusiness.directory^
@@ -403,6 +401,7 @@
 ||mcp-server.directory^
 ||medico.directory^
 ||meetingrooms.directory^
+||members.directory^
 ||mermaid-pokemon.directory^
 ||messenger.directory^
 ||milieumunfordoaklawn.directory^
@@ -421,6 +420,7 @@
 ||mungoossmutchythulir.directory^
 ||musica.directory^
 ||musician.directory^
+||mybis.directory^
 ||nalmetius.directory^
 ||nashville.directory^
 ||neurodivergentlife.directory^
@@ -438,7 +438,6 @@
 ||offline.directory^
 ||one.directory^
 ||ontariobusiness.directory^
-||open7.directory^
 ||openmarket.directory^
 ||opensaas.directory^
 ||orbit.directory^
@@ -467,6 +466,7 @@
 ||physics.directory^
 ||pin-up.directory^
 ||piyango.directory^
+||pki.directory^
 ||pointofsalesystems.directory^
 ||post-a.directory^
 ||posta-ba.directory^
@@ -548,7 +548,6 @@
 ||tapismart.directory^
 ||taxus.directory^
 ||techno-music.directory^
-||telegram.directory^
 ||telegramminiapps.directory^
 ||tempo.directory^
 ||terraphim.directory^
@@ -572,6 +571,7 @@
 ||therecharging.directory^
 ||thetabletop.directory^
 ||thunderbeard.directory^
+||tierraalavista.directory^
 ||timeless.directory^
 ||tistory.directory^
 ||tnet.directory^
@@ -582,7 +582,6 @@
 ||tsi.directory^
 ||twincitiesbusiness.directory^
 ||udcentral.directory^
-||ughealth.directory^
 ||ukaccountant.directory^
 ||ukbusinessevents.directory^
 ||updates.directory^
