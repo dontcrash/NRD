@@ -23,9 +23,7 @@
 ||aerodrome.capital^
 ||afpi.capital^
 ||agentic-bazaar.capital^
-||aggregator.capital^
 ||agman.capital^
-||aibot.capital^
 ||akiya.capital^
 ||alchemist.capital^
 ||alef.capital^
@@ -57,6 +55,7 @@
 ||b1.capital^
 ||baji.capital^
 ||bancolombia.capital^
+||barber.capital^
 ||baystar.capital^
 ||bcg.capital^
 ||bearingpoint.capital^
@@ -86,9 +85,11 @@
 ||cariad.capital^
 ||carrera.capital^
 ||cartera.capital^
+||catamaran.capital^
 ||celtic.capital^
 ||cepheus.capital^
 ||cepheusunbound.capital^
+||cf.capital^
 ||cfa187260.capital^
 ||chacha.capital^
 ||charge.capital^
@@ -99,7 +100,6 @@
 ||climbpace.capital^
 ||clipper.capital^
 ||clockit.capital^
-||cloudlake.capital^
 ||clout.capital^
 ||clue.capital^
 ||cnn.capital^
@@ -109,11 +109,9 @@
 ||confluentia.capital^
 ||coolriverventure.capital^
 ||coolriverventures.capital^
-||cordoba.capital^
 ||corpfin.capital^
 ||corporateshark.capital^
 ||county.capital^
-||cozbit.capital^
 ||crate.capital^
 ||credibly.capital^
 ||creditcents.capital^
@@ -213,6 +211,7 @@
 ||hayaat.capital^
 ||healthsphere.capital^
 ||heights.capital^
+||heir.capital^
 ||helga.capital^
 ||heliotrope.capital^
 ||heuro.capital^
@@ -226,6 +225,7 @@
 ||humaneye.capital^
 ||hypercube.capital^
 ||ibet.capital^
+||ie.capital^
 ||if7.capital^
 ||ikz.capital^
 ||imoc.capital^
@@ -277,6 +277,7 @@
 ||m3mcrown.capital^
 ||machina.capital^
 ||mada.capital^
+||madriz.capital^
 ||malloc.capital^
 ||mantaflow.capital^
 ||maraberto.capital^
@@ -294,7 +295,6 @@
 ||millenium.capital^
 ||miller.capital^
 ||missav.capital^
-||mix.capital^
 ||mobilization.capital^
 ||monet.capital^
 ||morpheus.capital^
@@ -313,6 +313,7 @@
 ||news24.capital^
 ||nexara.capital^
 ||nft-market.capital^
+||night.capital^
 ||nlab.capital^
 ||nlvg.capital^
 ||novafrontieraccelerator.capital^
@@ -347,9 +348,11 @@
 ||pengu.capital^
 ||pengufdn.capital^
 ||penguinfdn.capital^
+||perma.capital^
 ||pex.capital^
 ||picnic.capital^
 ||piia.capital^
+||pipup.capital^
 ||pixbet.capital^
 ||planchet.capital^
 ||player12.capital^
@@ -378,6 +381,7 @@
 ||qstar.capital^
 ||quad.capital^
 ||quay.capital^
+||qubic.capital^
 ||rafe.capital^
 ||rambler.capital^
 ||recursion.capital^
@@ -408,6 +412,7 @@
 ||semperios.capital^
 ||sentinelcrest.capital^
 ||serene.capital^
+||shibadino.capital^
 ||shinrai.capital^
 ||shipbob.capital^
 ||shoggoth.capital^
@@ -434,6 +439,7 @@
 ||soho.capital^
 ||solyco.capital^
 ||sorbet.capital^
+||spatialcomputing.capital^
 ||speedtest.capital^
 ||spider.capital^
 ||splot.capital^
@@ -441,6 +447,7 @@
 ||srantosfoundry.capital^
 ||starfish.capital^
 ||start-ups.capital^
+||stonepine.capital^
 ||sublime.capital^
 ||summus.capital^
 ||sylph.capital^
@@ -466,6 +473,7 @@
 ||toddandrahul.capital^
 ||tradition.capital^
 ||trangbui.capital^
+||trdez.capital^
 ||treeview.capital^
 ||triplecreek.capital^
 ||trueform.capital^
@@ -473,6 +481,7 @@
 ||tundra.capital^
 ||turnover.capital^
 ||tv2.capital^
+||twosigmavc.capital^
 ||udn.capital^
 ||ultrastellar.capital^
 ||unidentified.capital^
@@ -482,11 +491,13 @@
 ||uptex.capital^
 ||usualmoney.capital^
 ||vantum.capital^
+||vavada.capital^
 ||vegamovies.capital^
 ||venturecatalyst.capital^
 ||vexium.capital^
 ||viridia.capital^
 ||vn.capital^
+||voltage.capital^
 ||voracious.capital^
 ||wealthwells.capital^
 ||whitelion.capital^
