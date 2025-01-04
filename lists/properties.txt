@@ -2,6 +2,7 @@
 ||3ssem.properties^
 ||789.properties^
 ||ade.properties^
+||aiagent.properties^
 ||alaya.properties^
 ||albehtar.properties^
 ||bassriot.properties^
@@ -9,6 +10,8 @@
 ||bitcoincapital.properties^
 ||butt.properties^
 ||cancun.properties^
+||ezbuy.properties^
+||fam.properties^
 ||farming.properties^
 ||fastcash.properties^
 ||feldman.properties^
@@ -18,8 +21,11 @@
 ||hine.properties^
 ||holdthai.properties^
 ||hotel-vitoria.properties^
+||iblowup.properties^
 ||idealhomeinspections.properties^
+||ikigai.properties^
 ||instance.properties^
+||landmarkable.properties^
 ||legacyestate.properties^
 ||log4testng.properties^
 ||loterie.properties^
@@ -28,9 +34,11 @@
 ||mbl.properties^
 ||mydream.properties^
 ||nexus.properties^
+||nivara.properties^
 ||northidahorealestate.properties^
 ||nsfas.properties^
 ||onchain.properties^
+||pilarcherie.properties^
 ||plus1.properties^
 ||plusone.properties^
 ||plusultra.properties^
@@ -47,6 +55,7 @@
 ||sandpointluxury.properties^
 ||schema.properties^
 ||scotsirish.properties^
+||secondhome.properties^
 ||silverfox.properties^
 ||sjg.properties^
 ||slut.properties^
