@@ -16,12 +16,10 @@
 ||bitcoincredit.cards^
 ||bitcoindebit.cards^
 ||bitcoins.cards^
-||boast.cards^
 ||browsingtcg.cards^
 ||btccredit.cards^
 ||businesssmartwebinars.cards^
 ||c3chain.cards^
-||cardilly.cards^
 ||cardz.cards^
 ||ccss.cards^
 ||checkout.cards^
@@ -45,6 +43,7 @@
 ||ephemeral.cards^
 ||everydaygreeting.cards^
 ||fancy24.cards^
+||fangift.cards^
 ||ffa.cards^
 ||fiat.cards^
 ||freesocial.cards^
@@ -94,7 +93,6 @@
 ||mtgbulk.cards^
 ||mygreeting.cards^
 ||myinfo.cards^
-||myvalentine.cards^
 ||nefi.cards^
 ||nex.cards^
 ||nextbiz.cards^
@@ -113,7 +111,6 @@
 ||pickleball.cards^
 ||ping.cards^
 ||pixelforest.cards^
-||plongeemarseillefrioul.cards^
 ||poshmark.cards^
 ||ppm.cards^
 ||present.cards^
@@ -124,7 +121,6 @@
 ||repay.cards^
 ||rump.cards^
 ||say.cards^
-||sca.cards^
 ||scrape.cards^
 ||seemy.cards^
 ||simplystated.cards^
@@ -133,6 +129,8 @@
 ||softwareengineering.cards^
 ||sola.cards^
 ||sos.cards^
+||spoiled.cards^
+||stagecard.cards^
 ||starlink.cards^
 ||strategic.cards^
 ||sunwin20.cards^
@@ -157,6 +155,5 @@
 ||wpg.cards^
 ||xai.cards^
 ||xaru.cards^
-||yorisou.cards^
 ||yt.cards^
 ||zeze.cards^

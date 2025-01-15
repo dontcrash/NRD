@@ -34,6 +34,7 @@
 ||bundle.builders^
 ||chaos.builders^
 ||clockit.builders^
+||college.builders^
 ||complex.builders^
 ||deck.builders^
 ||eagleheritage.builders^
@@ -41,6 +42,7 @@
 ||ethsync.builders^
 ||forsale.builders^
 ||fortis.builders^
+||happyhome.builders^
 ||houseprojects.builders^
 ||internetculture.builders^
 ||irish.builders^
@@ -50,6 +52,7 @@
 ||passive.builders^
 ||plugins.builders^
 ||quant.builders^
+||regohome.builders^
 ||release.builders^
 ||rochestercustomhome.builders^
 ||rudra.builders^
