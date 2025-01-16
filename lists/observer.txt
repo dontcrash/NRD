@@ -7,9 +7,12 @@
 ||hmpv.observer^
 ||holocron.observer^
 ||interface.observer^
+||johndkane.observer^
 ||lemon.observer^
 ||magical.observer^
 ||mma.observer^
+||mute.observer^
+||myddeaalbackagent.observer^
 ||nft.observer^
 ||organisms.observer^
 ||patterns.observer^
@@ -18,6 +21,7 @@
 ||seer.observer^
 ||sgoogleapis.observer^
 ||sikh.observer^
+||spacedout.observer^
 ||stable.observer^
 ||unlikely.observer^
 ||vibes.observer^

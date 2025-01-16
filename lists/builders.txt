@@ -27,13 +27,13 @@
 ||94525.builders^
 ||aiagent.builders^
 ||ambition.builders^
+||aura.builders^
 ||beachfront.builders^
 ||bemeveterans.builders^
 ||bookkeeper.builders^
 ||bookkeeping.builders^
 ||bundle.builders^
 ||chaos.builders^
-||clockit.builders^
 ||college.builders^
 ||complex.builders^
 ||deck.builders^
@@ -41,7 +41,6 @@
 ||eclectics.builders^
 ||ethsync.builders^
 ||forsale.builders^
-||fortis.builders^
 ||happyhome.builders^
 ||houseprojects.builders^
 ||internetculture.builders^
@@ -49,6 +48,7 @@
 ||just.builders^
 ||lco.builders^
 ||northerntrust.builders^
+||otim.builders^
 ||passive.builders^
 ||plugins.builders^
 ||quant.builders^
@@ -59,6 +59,7 @@
 ||scaleup.builders^
 ||sherwood.builders^
 ||sole.builders^
+||spark.builders^
 ||synapse.builders^
 ||tau.builders^
 ||themes.builders^
