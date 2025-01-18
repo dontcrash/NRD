@@ -1,6 +1,7 @@
 ||11d.holdings^
 ||1963.holdings^
 ||1money.holdings^
+||1moneynetwork.holdings^
 ||1s.holdings^
 ||74.holdings^
 ||789.holdings^
@@ -24,6 +25,7 @@
 ||claw.holdings^
 ||culture.holdings^
 ||dannyboy.holdings^
+||darkhorse.holdings^
 ||darkwaveradio.holdings^
 ||drd.holdings^
 ||dusk.holdings^
@@ -60,14 +62,18 @@
 ||playitforward.holdings^
 ||rejuvenation.holdings^
 ||reo.holdings^
+||rt-tech.holdings^
 ||scatula.holdings^
+||senovia.holdings^
 ||shahi.holdings^
 ||skyrise.holdings^
 ||sur.holdings^
 ||sylph.holdings^
 ||system2.holdings^
+||thrivecap.holdings^
 ||ulgen.holdings^
 ||umios.holdings^
+||unframed.holdings^
 ||user.holdings^
 ||velocity.holdings^
 ||virtprint.holdings^
@@ -75,3 +81,4 @@
 ||wave-particle.holdings^
 ||waveparticle.holdings^
 ||wiz.holdings^
+||zinni.holdings^
