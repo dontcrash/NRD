@@ -18,6 +18,7 @@
 ||feldman.properties^
 ||flipping.properties^
 ||glacier.properties^
+||globalhotelsandresidences.properties^
 ||hgroup.properties^
 ||hine.properties^
 ||hotel-vitoria.properties^
@@ -34,6 +35,7 @@
 ||northidahorealestate.properties^
 ||nsfas.properties^
 ||onchain.properties^
+||penumbra.properties^
 ||pilarcherie.properties^
 ||plusultra.properties^
 ||portholland.properties^
@@ -60,5 +62,6 @@
 ||winnergulati.properties^
 ||xai.properties^
 ||xio.properties^
+||ybarra.properties^
 ||ybz.properties^
 ||zoiver.properties^

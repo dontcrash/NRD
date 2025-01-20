@@ -1,6 +1,7 @@
 ||01.exchange^
 ||1money.exchange^
 ||1moneynetwork.exchange^
+||5minutes.exchange^
 ||68gamebai.exchange^
 ||789.exchange^
 ||acedirectory.exchange^
@@ -20,7 +21,6 @@
 ||altcap.exchange^
 ||amses.exchange^
 ||anonym.exchange^
-||antar.exchange^
 ||antex.exchange^
 ||aqcan.exchange^
 ||aqex.exchange^
@@ -40,6 +40,7 @@
 ||big88.exchange^
 ||bit-chain.exchange^
 ||bitcoincapital.exchange^
+||bitcoinetfs.exchange^
 ||bitcurrency.exchange^
 ||bitgold.exchange^
 ||bitwealth.exchange^
@@ -54,11 +55,11 @@
 ||bozdurma.exchange^
 ||brian.exchange^
 ||bsky.exchange^
+||btc-etf.exchange^
 ||bu-ngee.exchange^
 ||bubbleswap.exchange^
 ||bunegee.exchange^
 ||bungeeweb.exchange^
-||buttcoin.exchange^
 ||c-r-y-p-t-o.exchange^
 ||camelots.exchange^
 ||caribbean.exchange^
@@ -67,6 +68,7 @@
 ||ccc.exchange^
 ||cent.exchange^
 ||centfx.exchange^
+||central.exchange^
 ||cerebro.exchange^
 ||chains.exchange^
 ||chalo.exchange^
@@ -92,12 +94,11 @@
 ||cryptocash.exchange^
 ||cryptochain.exchange^
 ||cryptocrypto.exchange^
+||cryptoking.exchange^
 ||cryptomaya.exchange^
-||cryptometals.exchange^
 ||cryptomuspay.exchange^
 ||cryptothought.exchange^
 ||cryptox24.exchange^
-||cryptus.exchange^
 ||current.exchange^
 ||cut.exchange^
 ||cyberagent.exchange^
@@ -118,9 +119,6 @@
 ||devv.exchange^
 ||devvdigital.exchange^
 ||dib.exchange^
-||digitalasset.exchange^
-||digitalgold.exchange^
-||digitalsilver.exchange^
 ||disapora.exchange^
 ||disi.exchange^
 ||dobiegigsmenkylynn.exchange^
@@ -137,6 +135,7 @@
 ||emissionsfactors.exchange^
 ||eneme.exchange^
 ||entrep.exchange^
+||envoi.exchange^
 ||equitrust.exchange^
 ||ese.exchange^
 ||etal.exchange^
@@ -151,7 +150,6 @@
 ||filin.exchange^
 ||finetech.exchange^
 ||finlabs.exchange^
-||fipcoin.exchange^
 ||firenze.exchange^
 ||fix.exchange^
 ||flashcryptofinance.exchange^
@@ -166,6 +164,7 @@
 ||funin.exchange^
 ||fxcrypto.exchange^
 ||gamut.exchange^
+||gfo.exchange^
 ||git.exchange^
 ||gk.exchange^
 ||gloop.exchange^
@@ -193,6 +192,7 @@
 ||ibu.exchange^
 ||icom.exchange^
 ||in1.exchange^
+||ina.exchange^
 ||incapitalfingroup.exchange^
 ||infofi.exchange^
 ||infosupport.exchange^
@@ -215,6 +215,7 @@
 ||kulture.exchange^
 ||kxbt.exchange^
 ||kyan.exchange^
+||lama.exchange^
 ||laplace.exchange^
 ||larecoin.exchange^
 ||liqui.exchange^
@@ -222,13 +223,13 @@
 ||listing.exchange^
 ||liverpoolcotton.exchange^
 ||load.exchange^
-||logic.exchange^
 ||lonestar.exchange^
 ||lqdty.exchange^
 ||luckycoin.exchange^
 ||lucrum.exchange^
 ||lumoswap.exchange^
 ||luqui.exchange^
+||m1.exchange^
 ||maasaa.exchange^
 ||machinist.exchange^
 ||malaga.exchange^
@@ -238,11 +239,12 @@
 ||mcp.exchange^
 ||mcw.exchange^
 ||medrep.exchange^
-||memechain.exchange^
 ||meowth.exchange^
 ||mercexchange.exchange^
+||mercy.exchange^
 ||metalynk.exchange^
 ||mexci.exchange^
+||moneymingle.exchange^
 ||moonlight.exchange^
 ||more.exchange^
 ||morphex.exchange^
@@ -270,6 +272,7 @@
 ||nextex.exchange^
 ||nilbot.exchange^
 ||nilpit.exchange^
+||no88.exchange^
 ||nobull.exchange^
 ||nomura.exchange^
 ||non-kyc.exchange^
@@ -277,6 +280,7 @@
 ||not-bank.exchange^
 ||notary.exchange^
 ||nutrition.exchange^
+||nxt.exchange^
 ||nya.exchange^
 ||nyc.exchange^
 ||oakx.exchange^
@@ -290,6 +294,7 @@
 ||opengov.exchange^
 ||openlibra.exchange^
 ||opex.exchange^
+||orebit.exchange^
 ||oscarmedia.exchange^
 ||osiris.exchange^
 ||otterseaswap.exchange^
@@ -311,7 +316,6 @@
 ||poke.exchange^
 ||polariumbroker.exchange^
 ||proyojon.exchange^
-||pudgypenguins.exchange^
 ||purrswap.exchange^
 ||quicklink.exchange^
 ||quota.exchange^
@@ -326,7 +330,6 @@
 ||respin.exchange^
 ||riga.exchange^
 ||rockectx.exchange^
-||rockeetx.exchange^
 ||rocketcx.exchange^
 ||rockettx.exchange^
 ||romb.exchange^
@@ -336,11 +339,9 @@
 ||sapient.exchange^
 ||savannah.exchange^
 ||sbox.exchange^
-||sci.exchange^
 ||screening.exchange^
 ||sdix.exchange^
 ||seismic.exchange^
-||session.exchange^
 ||shdw.exchange^
 ||shoegame.exchange^
 ||shopmy.exchange^
@@ -375,19 +376,17 @@
 ||teleswap.exchange^
 ||tezos.exchange^
 ||the-domain.exchange^
-||thecontinental.exchange^
 ||themarket.exchange^
+||thesilver.exchange^
 ||thread.exchange^
 ||tokensportsglobal.exchange^
-||tomaan.exchange^
 ||tony.exchange^
 ||top10nhacaiuytin.exchange^
 ||total.exchange^
 ||tradeforex.exchange^
 ||trax.exchange^
 ||treeo.exchange^
-||trueshare.exchange^
-||trump.exchange^
+||tro.exchange^
 ||trumpcoin.exchange^
 ||trumpmemecoin.exchange^
 ||trustedload.exchange^
@@ -397,8 +396,6 @@
 ||uff.exchange^
 ||unisat.exchange^
 ||upinetwork.exchange^
-||uraniumdigital.exchange^
-||us-binancei.exchange^
 ||ustay.exchange^
 ||utrecht.exchange^
 ||uzay.exchange^
@@ -414,12 +411,12 @@
 ||vir8.exchange^
 ||vitruveo.exchange^
 ||wab.exchange^
-||waltica.exchange^
 ||wcommerce.exchange^
 ||willcall.exchange^
 ||willow.exchange^
 ||wine.exchange^
 ||wnil.exchange^
+||worldequity.exchange^
 ||worth.exchange^
 ||wutex.exchange^
 ||xaru.exchange^
