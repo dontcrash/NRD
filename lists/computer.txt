@@ -58,6 +58,8 @@
 ||extrabase.computer^
 ||fan.computer^
 ||fandom.computer^
+||faulty.computer^
+||flick.computer^
 ||flights.computer^
 ||fly.computer^
 ||four.computer^
@@ -121,12 +123,14 @@
 ||puma20241209.computer^
 ||racing.computer^
 ||randolphbroadrmt.computer^
+||react.computer^
 ||repl.computer^
 ||ringu.computer^
 ||robjohnson.computer^
 ||rumination.computer^
 ||salzkotten.computer^
 ||sector.computer^
+||segfault.computer^
 ||shib.computer^
 ||shiva.computer^
 ||skorppio.computer^
@@ -141,6 +145,7 @@
 ||synthetic.computer^
 ||tea.computer^
 ||tee.computer^
+||thatsmy.computer^
 ||thereisno.computer^
 ||thesoul.computer^
 ||theuniversalpiece.computer^
@@ -160,3 +165,4 @@
 ||worktec.computer^
 ||worm.computer^
 ||wormhole.computer^
+||zuccaciye.computer^
