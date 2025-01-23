@@ -71,7 +71,6 @@
 ||alto.build^
 ||alucopanel.build^
 ||app.build^
-||application.build^
 ||ardent.build^
 ||ascension.build^
 ||beaverdam.build^
@@ -80,7 +79,6 @@
 ||bonsaidesign.build^
 ||boss.build^
 ||brainbox.build^
-||brawl.build^
 ||brightlink.build^
 ||burnmua.build^
 ||bywire.build^
@@ -92,7 +90,6 @@
 ||daos.build^
 ||darkmode.build^
 ||defai.build^
-||diggerscrowd.build^
 ||diriginte.build^
 ||dirigintedesantier.build^
 ||eddy.build^
@@ -106,10 +103,8 @@
 ||gaia.build^
 ||gitlake.build^
 ||gunvolt.build^
-||hackerverse.build^
 ||hcc.build^
 ||honeycomb.build^
-||isaaks.build^
 ||itstimeto.build^
 ||jamstack.build^
 ||kerklo.build^
@@ -117,7 +112,6 @@
 ||lahomes.build^
 ||langtools.build^
 ||linear.build^
-||loli.build^
 ||lynix.build^
 ||mangodesign.build^
 ||mantanetwork.build^
@@ -150,9 +144,7 @@
 ||sodo66.build^
 ||speedshell.build^
 ||steve.build^
-||stillsane.build^
 ||suncrest.build^
-||supplied.build^
 ||taskfile.build^
 ||unlimited.build^
 ||v3x.build^
