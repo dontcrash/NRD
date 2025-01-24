@@ -67,6 +67,7 @@
 ||94132.build^
 ||abundance.build^
 ||actionhvac.build^
+||agentics.build^
 ||alkanes.build^
 ||alto.build^
 ||alucopanel.build^
@@ -76,8 +77,6 @@
 ||beaverdam.build^
 ||bhumi.build^
 ||blacktie.build^
-||bonsaidesign.build^
-||boss.build^
 ||brainbox.build^
 ||brightlink.build^
 ||burnmua.build^
@@ -111,6 +110,7 @@
 ||kubernetes.build^
 ||lahomes.build^
 ||langtools.build^
+||lihea.build^
 ||linear.build^
 ||lynix.build^
 ||mangodesign.build^
@@ -119,6 +119,7 @@
 ||masonworks.build^
 ||metamove.build^
 ||microjs.build^
+||mindforge.build^
 ||modest.build^
 ||modpatios.build^
 ||modulai.build^
@@ -127,7 +128,6 @@
 ||omnia.build^
 ||oops.build^
 ||palisades.build^
-||paths.build^
 ||pegbreaker.build^
 ||pillarforge.build^
 ||podify.build^
@@ -141,14 +141,15 @@
 ||sats.build^
 ||shawn.build^
 ||simulation.build^
+||skylineconstructions.build^
 ||sodo66.build^
 ||speedshell.build^
 ||steve.build^
 ||suncrest.build^
+||synoria.build^
+||synthova.build^
 ||taskfile.build^
-||unlimited.build^
 ||v3x.build^
-||vlad.build^
 ||vorra.build^
 ||whatdidaidan.build^
 ||whitelist-ally.build^
