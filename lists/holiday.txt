@@ -1,6 +1,7 @@
 ||agents.holiday^
 ||alwayssunday.holiday^
 ||bansko.holiday^
+||betting.holiday^
 ||bigapple.holiday^
 ||binarium.holiday^
 ||bnb.holiday^
@@ -11,12 +12,12 @@
 ||chandigarh.holiday^
 ||chateau-perenne.holiday^
 ||chateauperenne.holiday^
-||chuseok.holiday^
 ||classic.holiday^
 ||commit.holiday^
 ||diamantis.holiday^
 ||food.holiday^
 ||funplaces.holiday^
+||gamble.holiday^
 ||gethooked.holiday^
 ||girls.holiday^
 ||guided.holiday^
@@ -37,6 +38,7 @@
 ||marildo.holiday^
 ||minafon.holiday^
 ||mogadishus.holiday^
+||mycaravan.holiday^
 ||otw.holiday^
 ||potemanns.holiday^
 ||pump.holiday^
@@ -47,9 +49,10 @@
 ||semester.holiday^
 ||sunny.holiday^
 ||tacotravel.holiday^
-||testingmigration.holiday^
+||taste.holiday^
 ||tojikon.holiday^
 ||venture.holiday^
 ||xai.holiday^
 ||you.holiday^
 ||zanedebusk.holiday^
+||zero.holiday^

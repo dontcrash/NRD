@@ -3,7 +3,6 @@
 ||1money.holdings^
 ||1moneynetwork.holdings^
 ||1s.holdings^
-||agents.holdings^
 ||asp-global.holdings^
 ||automate.holdings^
 ||autowork.holdings^
@@ -30,6 +29,7 @@
 ||ego.holdings^
 ||fascinators.holdings^
 ||faubert.holdings^
+||fda.holdings^
 ||fna.holdings^
 ||fortis.holdings^
 ||fruck.holdings^
@@ -38,8 +38,8 @@
 ||happyu.holdings^
 ||hefner.holdings^
 ||ironscepter.holdings^
-||khalifa.holdings^
 ||kona.holdings^
+||landb.holdings^
 ||laverick.holdings^
 ||legion.holdings^
 ||lenagroupco.holdings^
@@ -56,6 +56,7 @@
 ||scatula.holdings^
 ||senovia.holdings^
 ||shahi.holdings^
+||singularity.holdings^
 ||skyrise.holdings^
 ||thedanube.holdings^
 ||thrivecap.holdings^

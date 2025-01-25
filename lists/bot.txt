@@ -52,6 +52,7 @@
 ||bets.bot^
 ||bidding.bot^
 ||bizbot.bot^
+||blogpost.bot^
 ||blood.bot^
 ||bluai.bot^
 ||blueprint.bot^
@@ -78,7 +79,6 @@
 ||composer.bot^
 ||core.bot^
 ||coupon.bot^
-||crim.bot^
 ||cupid.bot^
 ||customer.bot^
 ||cyber.bot^
@@ -90,10 +90,14 @@
 ||devops.bot^
 ||devtools.bot^
 ||diffusion.bot^
+||dina.bot^
+||dinacare.bot^
 ||discipleship.bot^
 ||diva.bot^
+||docflow.bot^
 ||dogwiftools.bot^
 ||drinks.bot^
+||earn.bot^
 ||electrical.bot^
 ||elite.bot^
 ||enter.bot^
@@ -125,6 +129,7 @@
 ||gifts.bot^
 ||goshop.bot^
 ||gospel.bot^
+||gridtrade.bot^
 ||grift.bot^
 ||harpoon.bot^
 ||hodl.bot^
@@ -134,6 +139,7 @@
 ||igris.bot^
 ||influencer.bot^
 ||investing.bot^
+||iqmarkets.bot^
 ||javascript.bot^
 ||jili.bot^
 ||justia.bot^
@@ -175,8 +181,10 @@
 ||markdown.bot^
 ||maru.bot^
 ||matchpoint.bot^
+||memecomp.bot^
 ||memetek.bot^
 ||memetrend.bot^
+||milli.bot^
 ||mindmap.bot^
 ||ministries.bot^
 ||ministry.bot^
@@ -193,7 +201,6 @@
 ||neural.bot^
 ||neuron.bot^
 ||nor.bot^
-||novafrontieraccelerator.bot^
 ||novatech.bot^
 ||office365.bot^
 ||offshore.bot^
@@ -220,7 +227,6 @@
 ||pron.bot^
 ||punk.bot^
 ||qap.bot^
-||qq88.bot^
 ||question.bot^
 ||ramp.bot^
 ||rapid.bot^
@@ -230,6 +236,8 @@
 ||reefer.bot^
 ||relic.bot^
 ||reminders.bot^
+||remixdev.bot^
+||resize.bot^
 ||review.bot^
 ||robomarketer.bot^
 ||robotai.bot^
@@ -248,6 +256,7 @@
 ||snailro.bot^
 ||so.bot^
 ||stable.bot^
+||stargateai.bot^
 ||stone.bot^
 ||stop.bot^
 ||storm.bot^
@@ -284,8 +293,8 @@
 ||volatility.bot^
 ||wander.bot^
 ||wealth.bot^
+||webpage.bot^
 ||weeny.bot^
-||wl.bot^
 ||worklake.bot^
 ||x-agi.bot^
 ||x-ray.bot^
