@@ -82,6 +82,7 @@
 ||brightlink.build^
 ||burnmua.build^
 ||bywire.build^
+||cat5design.build^
 ||ccontracts.build^
 ||christ.build^
 ||christiankingdom.build^
@@ -102,12 +103,15 @@
 ||gaia.build^
 ||gitlake.build^
 ||hcc.build^
+||homebrew.build^
 ||honeycomb.build^
+||hubet.build^
 ||jamstack.build^
 ||kerklo.build^
 ||kubernetes.build^
 ||lahomes.build^
 ||langtools.build^
+||liftoff.build^
 ||lihea.build^
 ||linear.build^
 ||lynix.build^
@@ -115,6 +119,7 @@
 ||mantanetwork.build^
 ||martinez.build^
 ||masonworks.build^
+||meadowlark.build^
 ||metamove.build^
 ||microjs.build^
 ||mindforge.build^
@@ -122,6 +127,7 @@
 ||modpatios.build^
 ||modulai.build^
 ||nep.build^
+||nexotia.build^
 ||nextlevel.build^
 ||omnia.build^
 ||oops.build^
@@ -146,6 +152,7 @@
 ||synoria.build^
 ||synthova.build^
 ||taskfile.build^
+||taulien.build^
 ||td88.build^
 ||v3x.build^
 ||velvet.build^
