@@ -2,8 +2,10 @@
 ||ai-agent.jobs^
 ||bgc.jobs^
 ||blo.jobs^
+||chatgpt.jobs^
 ||chico.jobs^
 ||clockwork.jobs^
+||datacenter.jobs^
 ||electrical.jobs^
 ||findnursing.jobs^
 ||fmx.jobs^
@@ -16,8 +18,11 @@
 ||opennursing.jobs^
 ||opentowork.jobs^
 ||pilgrim.jobs^
+||react.jobs^
 ||shiddy.jobs^
 ||snpro.jobs^
+||sps.jobs^
 ||supa.jobs^
+||tierklinik.jobs^
 ||treasurevalley.jobs^
 ||workthecity.jobs^
