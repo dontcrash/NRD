@@ -87,6 +87,7 @@
 ||9bar.cafe^
 ||adn.cafe^
 ||aerolyt.cafe^
+||aficionado.cafe^
 ||afk.cafe^
 ||afkj.cafe^
 ||alias.cafe^
@@ -110,7 +111,6 @@
 ||baeza.cafe^
 ||barwarchikitchen.cafe^
 ||basecamp.cafe^
-||basketball.cafe^
 ||beachcomber.cafe^
 ||bedfordcat.cafe^
 ||bestea.cafe^
@@ -149,6 +149,7 @@
 ||cbd.cafe^
 ||chaigpt.cafe^
 ||chelvies.cafe^
+||chicmama.cafe^
 ||chocs.cafe^
 ||clickclass.cafe^
 ||clicworks.cafe^
@@ -165,7 +166,6 @@
 ||coloncoin.cafe^
 ||colonial.cafe^
 ||connekt.cafe^
-||consolation.cafe^
 ||cooter.cafe^
 ||coucou.cafe^
 ||counterservice.cafe^
@@ -180,17 +180,19 @@
 ||cs22.cafe^
 ||cultural.cafe^
 ||curryblossom.cafe^
+||cybercoffee.cafe^
+||cybercoffeebreak.cafe^
 ||cyberix.cafe^
 ||cynosys.cafe^
 ||dapper.cafe^
 ||dean.cafe^
 ||death.cafe^
+||deepseek.cafe^
 ||defai.cafe^
 ||deja.cafe^
 ||delicious-cat.cafe^
 ||diggers.cafe^
 ||digitalwealthacademy.cafe^
-||dogecoin.cafe^
 ||door.cafe^
 ||dork.cafe^
 ||dovetail.cafe^
@@ -219,9 +221,9 @@
 ||farda.cafe^
 ||farmhouse.cafe^
 ||fatcat.cafe^
-||fernandos.cafe^
 ||ff14.cafe^
 ||file.cafe^
+||filmyhit.cafe^
 ||flandre.cafe^
 ||flexiwares.cafe^
 ||focused.cafe^
@@ -287,6 +289,7 @@
 ||kinshipcorner.cafe^
 ||kitsune.cafe^
 ||knit.cafe^
+||kometone.cafe^
 ||krustykrab.cafe^
 ||kunafa.cafe^
 ||kybero.cafe^
@@ -300,6 +303,7 @@
 ||leite.cafe^
 ||lento.cafe^
 ||leonardo.cafe^
+||lese.cafe^
 ||libra.cafe^
 ||liga.cafe^
 ||live-heart.cafe^
@@ -307,7 +311,6 @@
 ||lolcat.cafe^
 ||lombard.cafe^
 ||london.cafe^
-||lonerider.cafe^
 ||lowcarb.cafe^
 ||lumiere.cafe^
 ||luxury.cafe^
@@ -325,11 +328,13 @@
 ||mezclao.cafe^
 ||milos.cafe^
 ||mindbodysoul.cafe^
+||minty.cafe^
 ||modern.cafe^
 ||mokapr.cafe^
 ||momento.cafe^
 ||mon-coeur.cafe^
 ||moncoeur.cafe^
+||montecristo.cafe^
 ||moon-cat-latte.cafe^
 ||moos.cafe^
 ||motif.cafe^
@@ -349,11 +354,11 @@
 ||nuvodeco.cafe^
 ||ocarina.cafe^
 ||ooga.cafe^
+||operator.cafe^
 ||optimization.cafe^
 ||oryx.cafe^
 ||p-p.cafe^
 ||palmtree.cafe^
-||papadustream.cafe^
 ||pappito.cafe^
 ||passion4code.cafe^
 ||passport.cafe^
@@ -365,13 +370,12 @@
 ||philosophy.cafe^
 ||phocity.cafe^
 ||pinguim.cafe^
+||pioneers.cafe^
 ||pixl.cafe^
 ||pk777.cafe^
-||plasma.cafe^
 ||ponder.cafe^
 ||pontian.cafe^
 ||pools.cafe^
-||positivity.cafe^
 ||postch.cafe^
 ||powerup.cafe^
 ||presto.cafe^
@@ -379,7 +383,6 @@
 ||prompt.cafe^
 ||punters.cafe^
 ||puracar.cafe^
-||qimiao.cafe^
 ||qq88.cafe^
 ||quality.cafe^
 ||quarter.cafe^
@@ -394,7 +397,6 @@
 ||retirement.cafe^
 ||reward.cafe^
 ||rheya.cafe^
-||rich.cafe^
 ||roadrunner.cafe^
 ||roastroom.cafe^
 ||rockettek.cafe^
@@ -427,8 +429,8 @@
 ||smarteed.cafe^
 ||snc168.cafe^
 ||solverpro.cafe^
-||spill.cafe^
 ||startupsoft.cafe^
+||statehela.cafe^
 ||stillpoint.cafe^
 ||stormgale.cafe^
 ||stratojet.cafe^
@@ -442,7 +444,6 @@
 ||synthra.cafe^
 ||tasteera.cafe^
 ||tdtc12.cafe^
-||teiagrma.cafe^
 ||telrgram.cafe^
 ||terassen.cafe^
 ||terracopernambucano.cafe^
@@ -450,8 +451,8 @@
 ||terrassen.cafe^
 ||thebarn.cafe^
 ||thebluepoppy.cafe^
-||thecheesecake.cafe^
 ||thecoffeepod.cafe^
+||thedistrict.cafe^
 ||thefen.cafe^
 ||thegreen.cafe^
 ||thelearning.cafe^
@@ -473,7 +474,6 @@
 ||toronto.cafe^
 ||tos168.cafe^
 ||tpr.cafe^
-||trader.cafe^
 ||translators.cafe^
 ||transport.cafe^
 ||travelerscoffee.cafe^
@@ -492,14 +492,12 @@
 ||visio.cafe^
 ||vlad.cafe^
 ||vocaboo.cafe^
-||vpnhub.cafe^
 ||vz99.cafe^
 ||warmup.cafe^
 ||weather.cafe^
 ||webflow.cafe^
 ||wecareaboutfood.cafe^
 ||welcome2talk.cafe^
-||wocoffee.cafe^
 ||wren.cafe^
 ||xiaohongshu.cafe^
 ||xlm.cafe^

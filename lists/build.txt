@@ -66,7 +66,6 @@
 ||915637.build^
 ||94132.build^
 ||abundance.build^
-||actionhvac.build^
 ||agentics.build^
 ||alkanes.build^
 ||alto.build^
@@ -74,6 +73,7 @@
 ||app.build^
 ||ardent.build^
 ||ascension.build^
+||astronomy.build^
 ||azura.build^
 ||beaverdam.build^
 ||bhumi.build^
@@ -85,8 +85,7 @@
 ||bywire.build^
 ||cat5design.build^
 ||ccontracts.build^
-||christ.build^
-||christiankingdom.build^
+||cdmhardware.build^
 ||cognifex.build^
 ||contractorsbusinesscenters.build^
 ||coreagent.build^
@@ -106,10 +105,10 @@
 ||homebrew.build^
 ||honeycomb.build^
 ||hubet.build^
-||jamstack.build^
 ||kerklo.build^
 ||kubernetes.build^
 ||lahomes.build^
+||landmark.build^
 ||langtools.build^
 ||liftoff.build^
 ||lihea.build^
@@ -136,9 +135,8 @@
 ||pegbreaker.build^
 ||pesadevelopmentgroup.build^
 ||pillarforge.build^
-||promusik.build^
 ||propel.build^
-||rari.build^
+||radia.build^
 ||rebuildla.build^
 ||reg-ally.build^
 ||roka.build^
@@ -161,7 +159,9 @@
 ||td88.build^
 ||v3x.build^
 ||velvet.build^
+||vipcommunity.build^
 ||vorra.build^
+||warframe.build^
 ||whatdidaidan.build^
 ||whitelist-ally.build^
 ||winget.build^
