@@ -30,6 +30,8 @@
 ||aqcan.exchange^
 ||aqex.exchange^
 ||ascendfreight.exchange^
+||asgard.exchange^
+||astra.exchange^
 ||automint.exchange^
 ||axial.exchange^
 ||azeroth.exchange^
@@ -49,7 +51,6 @@
 ||bitshift.exchange^
 ||bitwealth.exchange^
 ||bitwell.exchange^
-||bix.exchange^
 ||blaze.exchange^
 ||blog.exchange^
 ||boring.exchange^
@@ -65,6 +66,7 @@
 ||bytfin.exchange^
 ||cadabruh.exchange^
 ||camelots.exchange^
+||cancoin.exchange^
 ||carbontech.exchange^
 ||cargo.exchange^
 ||caribbean.exchange^
@@ -77,6 +79,7 @@
 ||cerium.exchange^
 ||chains.exchange^
 ||chi.exchange^
+||childrens.exchange^
 ||choudhary.exchange^
 ||chromium.exchange^
 ||claim-holdstation.exchange^
@@ -100,6 +103,7 @@
 ||crypto3.exchange^
 ||cryptobee.exchange^
 ||cryptobiz.exchange^
+||cryptobot.exchange^
 ||cryptocash.exchange^
 ||cryptochain.exchange^
 ||cryptocrypto.exchange^
@@ -115,10 +119,10 @@
 ||cybersecurity.exchange^
 ||cybor.exchange^
 ||cypher.exchange^
-||cytoken.exchange^
 ||datahub.exchange^
 ||decentralizedai.exchange^
 ||deepseek.exchange^
+||deepspace.exchange^
 ||defai.exchange^
 ||defibase.exchange^
 ||definity.exchange^
@@ -134,7 +138,6 @@
 ||drift.exchange^
 ||dungee.exchange^
 ||dysprosium.exchange^
-||ecn.exchange^
 ||elilteauto.exchange^
 ||emissionsfactors.exchange^
 ||eneme.exchange^
@@ -196,7 +199,6 @@
 ||govex.exchange^
 ||gozero.exchange^
 ||gsecoin.exchange^
-||heal.exchange^
 ||healthpro.exchange^
 ||hectare.exchange^
 ||helix.exchange^
@@ -210,7 +212,6 @@
 ||hrees.exchange^
 ||hrt.exchange^
 ||humane.exchange^
-||hyperdefi.exchange^
 ||ibextoken.exchange^
 ||ibu.exchange^
 ||icom.exchange^
@@ -221,6 +222,7 @@
 ||inspireum.exchange^
 ||investrfp.exchange^
 ||jiocoin.exchange^
+||jiumper.exchange^
 ||jup-ag.exchange^
 ||jurnper.exchange^
 ||kaj.exchange^
@@ -240,12 +242,10 @@
 ||lree.exchange^
 ||lrees.exchange^
 ||lst.exchange^
-||lumoswap.exchange^
 ||m1.exchange^
 ||malaga.exchange^
 ||manganese.exchange^
 ||marinade.exchange^
-||marketplace.exchange^
 ||mcp.exchange^
 ||medrep.exchange^
 ||memeworld.exchange^
@@ -266,13 +266,10 @@
 ||myvbkr.exchange^
 ||myvbrk.exchange^
 ||nairadollar.exchange^
-||namechain.exchange^
 ||napoli.exchange^
 ||nash.exchange^
 ||national1031.exchange^
-||nce.exchange^
 ||neodymium.exchange^
-||neom.exchange^
 ||netcore.exchange^
 ||neur.exchange^
 ||newagenations.exchange^
@@ -290,6 +287,7 @@
 ||nonkyc.exchange^
 ||noon.exchange^
 ||notary.exchange^
+||npex.exchange^
 ||nutrition.exchange^
 ||nxt.exchange^
 ||nyc.exchange^
@@ -301,6 +299,7 @@
 ||opengov.exchange^
 ||openlibra.exchange^
 ||opex.exchange^
+||orbitex.exchange^
 ||orbitra.exchange^
 ||orebit.exchange^
 ||oscarmedia.exchange^
@@ -315,9 +314,9 @@
 ||payoneer.exchange^
 ||pentainsurance.exchange^
 ||pepecoin.exchange^
+||pharaon.exchange^
 ||phosphorus.exchange^
 ||piercingline.exchange^
-||pinswap.exchange^
 ||pipup.exchange^
 ||plasticsreduction.exchange^
 ||pnp.exchange^
@@ -333,7 +332,6 @@
 ||purrswap.exchange^
 ||quicklink.exchange^
 ||quota.exchange^
-||radix.exchange^
 ||raydium.exchange^
 ||rcy.exchange^
 ||recruiter.exchange^
@@ -383,8 +381,6 @@
 ||suncrypto.exchange^
 ||superbidx.exchange^
 ||support-crypto.exchange^
-||swapcore.exchange^
-||swapmonero.exchange^
 ||swarms.exchange^
 ||sweat.exchange^
 ||tajir.exchange^
@@ -396,10 +392,12 @@
 ||terbium.exchange^
 ||testnet.exchange^
 ||tezos.exchange^
+||theblack.exchange^
 ||thesilver.exchange^
 ||thread.exchange^
 ||thulium.exchange^
 ||tin.exchange^
+||tokenizeassets.exchange^
 ||tokensportsglobal.exchange^
 ||tonvalley.exchange^
 ||tony.exchange^
@@ -417,6 +415,7 @@
 ||trwa.exchange^
 ||trx.exchange^
 ||tswap.exchange^
+||ubi.exchange^
 ||uff.exchange^
 ||uno-ai.exchange^
 ||uzay.exchange^
@@ -427,6 +426,7 @@
 ||vero.exchange^
 ||versx.exchange^
 ||vexy.exchange^
+||viamonero.exchange^
 ||victorious.exchange^
 ||vilnius.exchange^
 ||vip79.exchange^
@@ -456,6 +456,7 @@
 ||zamzam.exchange^
 ||zaz.exchange^
 ||zebra.exchange^
+||zex.exchange^
 ||zinc.exchange^
 ||zirconium.exchange^
 ||zyra.exchange^
