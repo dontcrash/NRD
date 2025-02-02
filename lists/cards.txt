@@ -14,6 +14,7 @@
 ||boosters.cards^
 ||bread.cards^
 ||browsingtcg.cards^
+||btbistro.cards^
 ||businessservices.cards^
 ||businesssmartwebinars.cards^
 ||cabinet.cards^
@@ -22,6 +23,7 @@
 ||cb-system.cards^
 ||celestial.cards^
 ||cgc.cards^
+||chaotic.cards^
 ||cheatcode.cards^
 ||checkout.cards^
 ||cheer.cards^
@@ -70,17 +72,14 @@
 ||gu.cards^
 ||handydandy.cards^
 ||hbar.cards^
-||heartandsoul.cards^
 ||helvetia.cards^
 ||highrarity.cards^
 ||honey.cards^
 ||hotel.cards^
-||hypa.cards^
 ||impactful.cards^
 ||inmostwisdom.cards^
 ||instantepics.cards^
 ||interlink.cards^
-||itrust.cards^
 ||izi.cards^
 ||jacktheripper.cards^
 ||jewish.cards^
@@ -91,7 +90,6 @@
 ||kids.cards^
 ||kumite.cards^
 ||lawn.cards^
-||letstrade.cards^
 ||lettr.cards^
 ||lion.cards^
 ||lotto.cards^
@@ -131,7 +129,6 @@
 ||oss.cards^
 ||payby.cards^
 ||pepe.cards^
-||pickleball.cards^
 ||pixelforest.cards^
 ||politicalpost.cards^
 ||poshmark.cards^
@@ -172,7 +169,6 @@
 ||thebusiness.cards^
 ||tobacco.cards^
 ||toplink.cards^
-||tp688.cards^
 ||tribute.cards^
 ||truck.cards^
 ||unlock.cards^
@@ -182,9 +178,12 @@
 ||venn.cards^
 ||vib.cards^
 ||viseca-one.cards^
+||volti.cards^
+||voltinu.cards^
 ||vps.cards^
 ||wibes.cards^
 ||window.cards^
+||witching.cards^
 ||won.cards^
 ||wpg.cards^
 ||wzrd.cards^

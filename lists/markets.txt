@@ -15,7 +15,6 @@
 ||102539.markets^
 ||1money.markets^
 ||1moneynetwork.markets^
-||2025.markets^
 ||258367.markets^
 ||283157.markets^
 ||298367.markets^
@@ -60,9 +59,9 @@
 ||aut0.markets^
 ||automata.markets^
 ||avalanche.markets^
+||azer.markets^
 ||b0t.markets^
 ||b4.markets^
-||baron.markets^
 ||beemtoken.markets^
 ||betting.markets^
 ||bizzy.markets^
@@ -97,7 +96,6 @@
 ||growingstepservices.markets^
 ||holoworld.markets^
 ||holoworldai.markets^
-||hub.markets^
 ||hustleweb.markets^
 ||hydra.markets^
 ||ice.markets^
@@ -120,20 +118,19 @@
 ||neural.markets^
 ||nexusdarknet.markets^
 ||nightowl.markets^
-||nobull.markets^
 ||nomura.markets^
 ||nuri.markets^
 ||ok365.markets^
-||opensaebid.markets^
 ||orbit.markets^
 ||orbital.markets^
 ||outlaw.markets^
 ||p3.markets^
 ||paradex.markets^
 ||pharaoh.markets^
-||pipup.markets^
 ||pod.markets^
 ||polyester.markets^
+||precog.markets^
+||prolific.markets^
 ||rare.markets^
 ||rattan.markets^
 ||redacted.markets^
@@ -151,7 +148,6 @@
 ||smartshopping.markets^
 ||solv.markets^
 ||spark.markets^
-||spike.markets^
 ||sportsx.markets^
 ||stargate.markets^
 ||stride.markets^
@@ -167,7 +163,6 @@
 ||traders.markets^
 ||tradex.markets^
 ||tribe.markets^
-||unicart.markets^
 ||uniswap.markets^
 ||unravel.markets^
 ||ust.markets^
@@ -183,3 +178,4 @@
 ||xnmall.markets^
 ||xocdia88.markets^
 ||zaz.markets^
+||zeroday.markets^

@@ -8,7 +8,6 @@
 ||aitools.healthcare^
 ||alf.healthcare^
 ||amplus.healthcare^
-||aneservices.healthcare^
 ||atiko.healthcare^
 ||automatic.healthcare^
 ||baskhealth.healthcare^
@@ -29,8 +28,6 @@
 ||dash.healthcare^
 ||dgtl.healthcare^
 ||digestivepulse.healthcare^
-||digitalhuman.healthcare^
-||digitalhumans.healthcare^
 ||dignity.healthcare^
 ||dna.healthcare^
 ||elder.healthcare^
@@ -47,13 +44,11 @@
 ||happy.healthcare^
 ||hastingsworks.healthcare^
 ||hct.healthcare^
-||healthpe.healthcare^
 ||healx.healthcare^
 ||heartbased.healthcare^
 ||heartstream.healthcare^
 ||heightspt.healthcare^
 ||hni.healthcare^
-||infinity.healthcare^
 ||innotech.healthcare^
 ||insafehands.healthcare^
 ||intune.healthcare^
@@ -95,6 +90,7 @@
 ||postman.healthcare^
 ||primarycolor.healthcare^
 ||primaryhealth.healthcare^
+||procrafty.healthcare^
 ||protection4u.healthcare^
 ||pseudo.healthcare^
 ||qi.healthcare^
@@ -110,6 +106,7 @@
 ||smarttint.healthcare^
 ||socialworker.healthcare^
 ||spark.healthcare^
+||speech.healthcare^
 ||stargate.healthcare^
 ||steamcells.healthcare^
 ||synergylms.healthcare^
@@ -119,7 +116,6 @@
 ||tmrw.healthcare^
 ||touch-base.healthcare^
 ||touchbase.healthcare^
-||urgentis.healthcare^
 ||usapp13jan.healthcare^
 ||yonisteam.healthcare^
 ||youtreat.healthcare^

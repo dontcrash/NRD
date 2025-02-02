@@ -79,9 +79,9 @@
 ||bhumi.build^
 ||blacktie.build^
 ||botify.build^
-||brainbox.build^
 ||burnmua.build^
 ||bywire.build^
+||carbonbeton.build^
 ||cat5design.build^
 ||ccontracts.build^
 ||cdmhardware.build^
@@ -92,7 +92,7 @@
 ||deepseek.build^
 ||defai.build^
 ||earthrise.build^
-||eddy.build^
+||echotango.build^
 ||edgeswarm.build^
 ||enso-ai.build^
 ||eonvironment.build^
@@ -101,6 +101,7 @@
 ||fabian.build^
 ||fresco.build^
 ||fritzmillwork.build^
+||fuel.build^
 ||garrett.build^
 ||ginko.build^
 ||gitlake.build^
@@ -112,6 +113,7 @@
 ||kerklo.build^
 ||kitt.build^
 ||kubernetes.build^
+||lab310.build^
 ||lahomes.build^
 ||landmark.build^
 ||langtools.build^
@@ -127,6 +129,7 @@
 ||metamove.build^
 ||microjs.build^
 ||mindforge.build^
+||mmec.build^
 ||modest.build^
 ||modpatios.build^
 ||modulai.build^
@@ -138,6 +141,7 @@
 ||olive.build^
 ||omnia.build^
 ||oops.build^
+||orbiter.build^
 ||palisades.build^
 ||pegbreaker.build^
 ||pesadevelopmentgroup.build^
@@ -160,7 +164,6 @@
 ||sourceit.build^
 ||speedshell.build^
 ||stash.build^
-||steve.build^
 ||suncrest.build^
 ||sv388.build^
 ||synoria.build^
