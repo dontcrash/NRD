@@ -1,14 +1,15 @@
-||aml.observer^
 ||based.observer^
 ||bug-jin-mo.observer^
 ||checklist.observer^
+||deepseek.observer^
+||forestproducts.observer^
 ||hmpv.observer^
+||infrastructure.observer^
 ||johndkane.observer^
 ||l2.observer^
 ||larp.observer^
 ||loveaiagent.observer^
 ||manta-network.observer^
-||mma.observer^
 ||mute.observer^
 ||myddeaalbackagent.observer^
 ||nft.observer^
@@ -16,8 +17,6 @@
 ||observing.observer^
 ||ooo.observer^
 ||oss.observer^
-||prospero.observer^
-||race.observer^
 ||spacedout.observer^
 ||vibes.observer^
 ||wildlife.observer^
