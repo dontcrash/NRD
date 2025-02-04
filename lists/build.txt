@@ -30,6 +30,7 @@
 ||alucopanel.build^
 ||anarchy.build^
 ||app.build^
+||archange.build^
 ||ardent.build^
 ||ascension.build^
 ||astronomy.build^
@@ -75,6 +76,8 @@
 ||homebrew.build^
 ||honeycomb.build^
 ||hubet.build^
+||jelly.build^
+||jrdesign.build^
 ||kerklo.build^
 ||kitt.build^
 ||kubernetes.build^
@@ -94,11 +97,13 @@
 ||metamove.build^
 ||metatimber.build^
 ||mindforge.build^
+||mlgroup.build^
 ||mmec.build^
 ||modest.build^
 ||modulai.build^
 ||nep.build^
 ||neuraforge.build^
+||new-linea.build^
 ||nexotia.build^
 ||nextlevel.build^
 ||nohu90.build^
@@ -108,13 +113,16 @@
 ||olive.build^
 ||omnia.build^
 ||oops.build^
+||orbital.build^
 ||orbiter.build^
 ||palisades.build^
 ||pegbreaker.build^
+||peoplewho.build^
 ||persivo.build^
 ||pesadevelopmentgroup.build^
 ||pillarforge.build^
 ||ppl.build^
+||prefactor.build^
 ||propel.build^
 ||radia.build^
 ||rebuildla.build^
@@ -149,6 +157,7 @@
 ||viivace.build^
 ||vipcommunity.build^
 ||visible.build^
+||visit-linea.build^
 ||vorra.build^
 ||vvlife.build^
 ||warframe.build^
