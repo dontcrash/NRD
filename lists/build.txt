@@ -44,7 +44,6 @@
 ||bywire.build^
 ||carbonbeton.build^
 ||cat5design.build^
-||ccontracts.build^
 ||cdmhardware.build^
 ||clip.build^
 ||coai.build^
@@ -65,7 +64,6 @@
 ||f8bet.build^
 ||fabian.build^
 ||fresco.build^
-||fritzmillwork.build^
 ||fuel.build^
 ||garrett.build^
 ||genova.build^
@@ -78,13 +76,11 @@
 ||hubet.build^
 ||jelly.build^
 ||jrdesign.build^
-||kerklo.build^
 ||kitt.build^
 ||kubernetes.build^
 ||lab310.build^
 ||lahomes.build^
 ||landmark.build^
-||langtools.build^
 ||lavanya.build^
 ||liftoff.build^
 ||lihea.build^
@@ -92,7 +88,6 @@
 ||lynix.build^
 ||mantanetwork.build^
 ||martinez.build^
-||masonworks.build^
 ||meadowlark.build^
 ||metamove.build^
 ||metatimber.build^
@@ -100,7 +95,6 @@
 ||mlgroup.build^
 ||mmec.build^
 ||modest.build^
-||modulai.build^
 ||nep.build^
 ||neuraforge.build^
 ||new-linea.build^
