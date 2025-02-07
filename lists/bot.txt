@@ -28,7 +28,6 @@
 ||allan.bot^
 ||aloha.bot^
 ||amicogroup.bot^
-||anda.bot^
 ||anew.bot^
 ||anuncio.bot^
 ||arc.bot^
@@ -110,7 +109,6 @@
 ||depin.bot^
 ||deployai.bot^
 ||devops.bot^
-||devtools.bot^
 ||dexter.bot^
 ||diffusion.bot^
 ||dina.bot^
@@ -162,7 +160,6 @@
 ||heinlein.bot^
 ||historian.bot^
 ||hodl.bot^
-||homedecor.bot^
 ||houdini.bot^
 ||househelp.bot^
 ||hrops.bot^
@@ -203,7 +200,6 @@
 ||lumen.bot^
 ||machoman.bot^
 ||maps.bot^
-||maru.bot^
 ||matcha.bot^
 ||matchpoint.bot^
 ||medeya.bot^
@@ -212,7 +208,6 @@
 ||milli.bot^
 ||mindmap.bot^
 ||mobius.bot^
-||modai.bot^
 ||modulus.bot^
 ||moe.bot^
 ||mojo.bot^
@@ -234,18 +229,14 @@
 ||neural.bot^
 ||neuron.bot^
 ||nor.bot^
-||novatech.bot^
 ||novatrading.bot^
 ||nudge.bot^
-||office365.bot^
 ||onechat.bot^
-||opta.bot^
 ||options.bot^
 ||orchestra.bot^
 ||oxygen.bot^
 ||pages.bot^
 ||panta.bot^
-||pay4game.bot^
 ||paywall.bot^
 ||pbi.bot^
 ||penpal.bot^
@@ -265,16 +256,13 @@
 ||pricealert.bot^
 ||private.bot^
 ||prodigy.bot^
-||pron.bot^
 ||psy.bot^
 ||punk.bot^
-||qap.bot^
 ||qubert.bot^
 ||question.bot^
 ||qumanity.bot^
 ||qwen.bot^
 ||r1.bot^
-||ramp.bot^
 ||rapid.bot^
 ||rcaptcha.bot^
 ||realty.bot^
@@ -362,6 +350,5 @@
 ||xllamax.bot^
 ||youseful.bot^
 ||zaz.bot^
-||zerebro.bot^
 ||zinc.bot^
 ||zoho.bot^
