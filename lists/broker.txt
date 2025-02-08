@@ -17,7 +17,6 @@
 ||automate.broker^
 ||automobileshipping.broker^
 ||beesure.broker^
-||big88.broker^
 ||billing.broker^
 ||bin88.broker^
 ||brisbane.broker^
@@ -49,6 +48,8 @@
 ||golfcartshipping.broker^
 ||greensboromortgage.broker^
 ||haj.broker^
+||hw-affiliate.broker^
+||hw-ib.broker^
 ||iris.broker^
 ||jetski.broker^
 ||jetskishipping.broker^
@@ -57,6 +58,7 @@
 ||lanikai.broker^
 ||league.broker^
 ||list.broker^
+||lol.broker^
 ||loveliveseattle.broker^
 ||max88.broker^
 ||mazur.broker^
@@ -71,7 +73,9 @@
 ||properties.broker^
 ||reality.broker^
 ||samortgage.broker^
+||shop.broker^
 ||signals.broker^
+||site.broker^
 ||smallbusiness.broker^
 ||snowmobile.broker^
 ||snowmobileshipping.broker^

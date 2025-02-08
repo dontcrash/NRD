@@ -16,7 +16,6 @@
 ||avocado.financial^
 ||backoffice.financial^
 ||balanced.financial^
-||big88.financial^
 ||bleedingedge.financial^
 ||boom.financial^
 ||candp.financial^
@@ -25,18 +24,20 @@
 ||ceres.financial^
 ||cetus.financial^
 ||childsupportai.financial^
+||clove.financial^
 ||commodity.financial^
 ||compond.financial^
 ||conjecture.financial^
 ||credence.financial^
 ||crestbridge.financial^
 ||cultivar.financial^
-||cybertraceai.financial^
 ||decode.financial^
 ||deepseek.financial^
 ||defai.financial^
 ||digi.financial^
 ||digiorgio.financial^
+||domi.financial^
+||dubaipay.financial^
 ||dynamic.financial^
 ||edenplace.financial^
 ||engine.financial^
@@ -50,7 +51,6 @@
 ||fusion.financial^
 ||gce.financial^
 ||gi.financial^
-||givvr.financial^
 ||gmd.financial^
 ||godspeed.financial^
 ||griffin.financial^
@@ -76,6 +76,7 @@
 ||magma.financial^
 ||mg.financial^
 ||midas.financial^
+||midastrading.financial^
 ||mip.financial^
 ||mito.financial^
 ||monex.financial^
@@ -107,7 +108,6 @@
 ||ring.financial^
 ||sandbox.financial^
 ||sava.financial^
-||seqyr.financial^
 ||serum.financial^
 ||settled.financial^
 ||sierraoaks.financial^
