@@ -23,8 +23,7 @@
 ||cetak.domains^
 ||champ.domains^
 ||chat.domains^
-||checkup.domains^
-||cnn.domains^
+||chicanopower.domains^
 ||coai.domains^
 ||creating.domains^
 ||crowdfunding.domains^
@@ -33,14 +32,15 @@
 ||dart.domains^
 ||deepseek.domains^
 ||defai.domains^
+||desirable.domains^
 ||dina.domains^
 ||dinacare.domains^
 ||directmbc.domains^
 ||dnet.domains^
+||domainaut.domains^
 ||domaino.domains^
 ||doso.domains^
 ||dude.domains^
-||earn-ens.domains^
 ||empty.domains^
 ||ems.domains^
 ||eskimo.domains^
@@ -61,7 +61,6 @@
 ||influencer.domains^
 ||infra.domains^
 ||ipfs.domains^
-||irl.domains^
 ||jock.domains^
 ||lingerie.domains^
 ||marketingkit.domains^
@@ -88,6 +87,7 @@
 ||presskit.domains^
 ||product.domains^
 ||provider.domains^
+||provision.domains^
 ||ps.domains^
 ||qq88.domains^
 ||rapid.domains^
@@ -97,9 +97,11 @@
 ||seoagency.domains^
 ||sodo.domains^
 ||svalbard.domains^
+||tg.domains^
 ||thebest.domains^
 ||thompson.domains^
 ||timeless.domains^
+||topup-ens.domains^
 ||unico.domains^
 ||uns.domains^
 ||verdict.domains^
@@ -109,6 +111,7 @@
 ||wi.domains^
 ||workspace.domains^
 ||worldcoin.domains^
+||wormhole.domains^
 ||wzrd.domains^
 ||yogi.domains^
 ||zaz.domains^

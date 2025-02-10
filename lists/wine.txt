@@ -53,16 +53,15 @@
 ||chip.wine^
 ||chronos.wine^
 ||cities.wine^
+||cityofhye.wine^
 ||colonne.wine^
 ||company.wine^
-||concannon.wine^
 ||concannonvineyard.wine^
 ||corkandculture.wine^
 ||corkywinkler.wine^
 ||cornaro.wine^
 ||countryjuke.wine^
 ||couvent.wine^
-||dabruzzo.wine^
 ||dalmatian.wine^
 ||danielfuentes.wine^
 ||darkhollow.wine^
@@ -74,6 +73,7 @@
 ||desiremovies.wine^
 ||direction.wine^
 ||dive.wine^
+||duende.wine^
 ||east.wine^
 ||eat.wine^
 ||ecological.wine^
@@ -85,7 +85,6 @@
 ||experienceluxury.wine^
 ||fari.wine^
 ||fariwine.wine^
-||flame.wine^
 ||flare-portal.wine^
 ||flep.wine^
 ||fogartyhall.wine^
@@ -106,6 +105,8 @@
 ||houseofbrave.wine^
 ||hunkydory.wine^
 ||hurlyburly.wine^
+||hye.wine^
+||hyetx.wine^
 ||illakim.wine^
 ||info.wine^
 ||inna.wine^
@@ -151,12 +152,11 @@
 ||nj.wine^
 ||no88.wine^
 ||nobarcodes.wine^
-||nobles.wine^
 ||nomadic.wine^
 ||now.wine^
 ||ohana.wine^
 ||okysport.wine^
-||opensource.wine^
+||osmin.wine^
 ||pampa.wine^
 ||paoloenoemiadamico.wine^
 ||pascal.wine^
@@ -169,6 +169,7 @@
 ||preface.wine^
 ||punk.wine^
 ||pussy.wine^
+||pyra.wine^
 ||qq88.wine^
 ||raivalley.wine^
 ||rajapola.wine^
@@ -180,8 +181,8 @@
 ||rr88.wine^
 ||sahusjewellry.wine^
 ||scentsory.wine^
+||scrutiny.wine^
 ||securfiltros.wine^
-||sekai.wine^
 ||shirataki.wine^
 ||sierrafoothills.wine^
 ||simpli.wine^
@@ -189,13 +190,13 @@
 ||sipping.wine^
 ||some.wine^
 ||somme.wine^
+||sorbito.wine^
 ||southernred.wine^
 ||sparrow.wine^
 ||sparsch.wine^
 ||sport99.wine^
 ||sportbet.wine^
 ||spottedowl.wine^
-||spumantino.wine^
 ||stargate.wine^
 ||stfranciswine.wine^
 ||stfranciswinery.wine^
@@ -207,6 +208,7 @@
 ||thehonest.wine^
 ||theiconics.wine^
 ||throughthegrapevine.wine^
+||townofhye.wine^
 ||tufenkian.wine^
 ||turnbull.wine^
 ||turntable.wine^
@@ -219,11 +221,9 @@
 ||vinestock.wine^
 ||vinopolis.wine^
 ||vinova.wine^
-||vinoveritas.wine^
 ||vlog.wine^
 ||void.wine^
 ||vynard.wine^
-||wallys.wine^
 ||wayangpinbaru.wine^
 ||wayangspinbaru.wine^
 ||wegelin.wine^
@@ -238,4 +238,3 @@
 ||womenwineandsonginc.wine^
 ||xin88.wine^
 ||zero4you.wine^
-||zest.wine^

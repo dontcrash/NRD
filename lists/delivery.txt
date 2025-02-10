@@ -11,8 +11,10 @@
 ||aircraft.delivery^
 ||airdrop.delivery^
 ||animal.delivery^
+||anti.delivery^
 ||anytime.delivery^
 ||appp.delivery^
+||artel.delivery^
 ||asl.delivery^
 ||azer.delivery^
 ||baked.delivery^
@@ -31,6 +33,7 @@
 ||changi.delivery^
 ||chop-chop.delivery^
 ||clobal.delivery^
+||comoencasa.delivery^
 ||connect.delivery^
 ||corralitospizza.delivery^
 ||cosmos.delivery^
@@ -52,6 +55,7 @@
 ||electric.delivery^
 ||elephant.delivery^
 ||elite.delivery^
+||eternal.delivery^
 ||experthauling.delivery^
 ||ezy.delivery^
 ||farm.delivery^
@@ -62,8 +66,10 @@
 ||flexacil.delivery^
 ||fluxon.delivery^
 ||foundation.delivery^
+||friends.delivery^
 ||friesandwings.delivery^
 ||frieswings.delivery^
+||funcionando.delivery^
 ||garage.delivery^
 ||globalpath.delivery^
 ||goexpress.delivery^
@@ -74,6 +80,7 @@
 ||grv.delivery^
 ||gsgpartner.delivery^
 ||hh.delivery^
+||humanoid.delivery^
 ||ici.delivery^
 ||imperial.delivery^
 ||index.delivery^
@@ -101,10 +108,12 @@
 ||mega.delivery^
 ||mgt.delivery^
 ||moonshot.delivery^
+||movers.delivery^
 ||movescargologistics.delivery^
 ||mpe.delivery^
 ||mustafa.delivery^
 ||mysterybox.delivery^
+||nohu.delivery^
 ||nuvmi.delivery^
 ||ode.delivery^
 ||otokonoko.delivery^
@@ -126,6 +135,7 @@
 ||quikit.delivery^
 ||qwik.delivery^
 ||radical.delivery^
+||rare.delivery^
 ||reads.delivery^
 ||rolls.delivery^
 ||ruck.delivery^
@@ -151,6 +161,7 @@
 ||tu.delivery^
 ||tuas.delivery^
 ||uam.delivery^
+||uas.delivery^
 ||udon.delivery^
 ||ukexcellenceawards.delivery^
 ||ultra.delivery^
@@ -167,6 +178,7 @@
 ||volt.delivery^
 ||weave.delivery^
 ||wego.delivery^
+||wildberries.delivery^
 ||wingsandfries.delivery^
 ||wingsfries.delivery^
 ||xin88.delivery^
