@@ -4,12 +4,13 @@
 ||7starhd.broker^
 ||808.broker^
 ||adelaide.broker^
-||agentic.broker^
+||africa.broker^
+||ai4.broker^
+||aifor.broker^
 ||aircraftshipping.broker^
 ||airfreight.broker^
 ||alor.broker^
 ||america.broker^
-||apex.broker^
 ||assignment.broker^
 ||atv.broker^
 ||atvshipping.broker^
@@ -28,6 +29,7 @@
 ||cani.broker^
 ||ceres.broker^
 ||cert.broker^
+||chatgpt.broker^
 ||climate.broker^
 ||criptomoneda.broker^
 ||cto.broker^
@@ -49,8 +51,12 @@
 ||golfcartshipping.broker^
 ||greensboromortgage.broker^
 ||haj.broker^
+||hedged.broker^
+||housing.broker^
 ||hw-affiliate.broker^
 ||hw-ib.broker^
+||ia4.broker^
+||iafor.broker^
 ||iris.broker^
 ||jetski.broker^
 ||jetskishipping.broker^
@@ -78,7 +84,9 @@
 ||reality.broker^
 ||realproperty.broker^
 ||samortgage.broker^
+||sgt.broker^
 ||shop.broker^
+||simple.broker^
 ||site.broker^
 ||smallbusiness.broker^
 ||snowmobile.broker^

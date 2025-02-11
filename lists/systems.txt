@@ -1,7 +1,6 @@
 ||1.systems^
 ||103municipios.systems^
 ||1303.systems^
-||1cc.systems^
 ||3laws.systems^
 ||69vn.systems^
 ||aac.systems^
@@ -9,7 +8,7 @@
 ||adventurous.systems^
 ||agentica.systems^
 ||agentics.systems^
-||agents.systems^
+||aiapi.systems^
 ||aifirst.systems^
 ||aimedic.systems^
 ||aiueo.systems^
@@ -23,7 +22,8 @@
 ||ans.systems^
 ||anthos.systems^
 ||antidrone.systems^
-||appsuite-business.systems^
+||antiwire.systems^
+||apro.systems^
 ||aptitudeii.systems^
 ||aqib.systems^
 ||argentic.systems^
@@ -32,7 +32,6 @@
 ||atlanticmovers.systems^
 ||atlanticrelocation.systems^
 ||atomos.systems^
-||aurex.systems^
 ||awery.systems^
 ||axium.systems^
 ||axonpathmotion.systems^
@@ -60,6 +59,7 @@
 ||catnip.systems^
 ||cbr.systems^
 ||ccs.systems^
+||cell-health.systems^
 ||center.systems^
 ||ceruleant.systems^
 ||chaintech.systems^
@@ -84,8 +84,8 @@
 ||coursereg.systems^
 ||coversresource.systems^
 ||coworking.systems^
-||crazies.systems^
 ||crcl.systems^
+||creator.systems^
 ||crop.systems^
 ||crossconnect.systems^
 ||crushai.systems^
@@ -97,6 +97,7 @@
 ||deepseek.systems^
 ||delightful.systems^
 ||deltra.systems^
+||dex.systems^
 ||dfhomelabs.systems^
 ||dispaisy.systems^
 ||display.systems^
@@ -113,6 +114,7 @@
 ||eliot.systems^
 ||embershield.systems^
 ||emporium.systems^
+||enable-it.systems^
 ||endshake.systems^
 ||enfo.systems^
 ||engineeredflow.systems^
@@ -124,13 +126,14 @@
 ||family.systems^
 ||financialvibration.systems^
 ||flowbot.systems^
+||footgun.systems^
 ||frontier.systems^
 ||ftm.systems^
-||gameuptime.systems^
 ||gaw.systems^
 ||gegenspiel.systems^
 ||gei.systems^
 ||globalbeat.systems^
+||glyph.systems^
 ||gnowaterproofing.systems^
 ||graphlogic.systems^
 ||greenline.systems^
@@ -140,12 +143,10 @@
 ||groening.systems^
 ||hal.systems^
 ||happiness.systems^
-||hawk.systems^
 ||heartstream.systems^
 ||heider.systems^
 ||highcraft.systems^
 ||hommebera.systems^
-||hypatia.systems^
 ||icp.systems^
 ||indomail.systems^
 ||infoeco.systems^
@@ -156,6 +157,8 @@
 ||integro.systems^
 ||intellectra.systems^
 ||intelliconnect.systems^
+||intelligible.systems^
+||interstitial.systems^
 ||ips.systems^
 ||iraqi.systems^
 ||isk.systems^
@@ -165,10 +168,12 @@
 ||jupitelligence.systems^
 ||jxnwtp.systems^
 ||k42.systems^
+||kab.systems^
 ||kaput.systems^
 ||kare.systems^
 ||kbcontrol.systems^
 ||kelvin.systems^
+||kepler.systems^
 ||kgs.systems^
 ||kilian.systems^
 ||koda.systems^
@@ -176,7 +181,6 @@
 ||komon.systems^
 ||kourakuen.systems^
 ||kowness.systems^
-||kvs-irena.systems^
 ||l410.systems^
 ||lab-spec.systems^
 ||lambda-core.systems^
@@ -203,7 +207,6 @@
 ||mangrovia.systems^
 ||mapletube.systems^
 ||marcohansen.systems^
-||mardu.systems^
 ||marineenergy.systems^
 ||mark.systems^
 ||marsoftwares.systems^
@@ -212,6 +215,7 @@
 ||medical-gas.systems^
 ||medicalert.systems^
 ||meelup.systems^
+||megabase.systems^
 ||metapsy.systems^
 ||mettavajra.systems^
 ||miden.systems^
@@ -221,6 +225,7 @@
 ||moonworth.systems^
 ||moreno.systems^
 ||msexit.systems^
+||mugen.systems^
 ||multi-teknis.systems^
 ||myai.systems^
 ||neogenesis.systems^
@@ -235,6 +240,7 @@
 ||nymphlight.systems^
 ||oblivion.systems^
 ||obstamed.systems^
+||omni-ai.systems^
 ||omnicommerce.systems^
 ||onet.systems^
 ||onso.systems^
@@ -263,6 +269,7 @@
 ||pride.systems^
 ||primacoustics.systems^
 ||projectpolymath.systems^
+||promsuik.systems^
 ||provoai.systems^
 ||psc.systems^
 ||psyche.systems^
@@ -272,24 +279,24 @@
 ||qb.systems^
 ||quantumsafe.systems^
 ||quattro.systems^
+||quickstore.systems^
+||rafyn.systems^
 ||raikou.systems^
 ||real-talk.systems^
 ||realtalk.systems^
 ||recover.systems^
 ||redenergy-kraken.systems^
 ||redoak.systems^
+||redraft.systems^
 ||redshift.systems^
 ||regulatory-complaint.systems^
 ||regulatory-fraud.systems^
 ||reso.systems^
 ||retrogames.systems^
 ||roatan.systems^
-||rockfield.systems^
-||rodiziointeligente.systems^
 ||rogerthat.systems^
 ||rohans.systems^
 ||routinex.systems^
-||rtx5090.systems^
 ||rue.systems^
 ||rune.systems^
 ||scan.systems^
@@ -307,7 +314,6 @@
 ||sjab9.systems^
 ||skill.systems^
 ||sky-tech.systems^
-||skyguardph.systems^
 ||slink-tech.systems^
 ||slithernix.systems^
 ||smartwallet.systems^
@@ -382,6 +388,7 @@
 ||vital.systems^
 ||volts.systems^
 ||watch.systems^
+||wavecool.systems^
 ||webdata.systems^
 ||welectrify.systems^
 ||westgrid.systems^
@@ -393,4 +400,3 @@
 ||xetawise.systems^
 ||xtrade.systems^
 ||yuhu.systems^
-||zetaworlds.systems^
