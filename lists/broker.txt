@@ -31,13 +31,13 @@
 ||cert.broker^
 ||chatgpt.broker^
 ||climate.broker^
+||comms.broker^
 ||criptomoneda.broker^
-||cto.broker^
-||data-x.broker^
 ||deepseek.broker^
 ||defai.broker^
 ||deso.broker^
 ||desordi.broker^
+||dubairealestate.broker^
 ||equipment.broker^
 ||equipmentshipping.broker^
 ||findmortgage.broker^
@@ -67,8 +67,6 @@
 ||list.broker^
 ||lol.broker^
 ||loveliveseattle.broker^
-||max88.broker^
-||mazur.broker^
 ||melbourne.broker^
 ||mirror.broker^
 ||namefi.broker^
@@ -100,7 +98,6 @@
 ||ultra.broker^
 ||versicherungs.broker^
 ||vip79.broker^
-||vn88.broker^
 ||watercraft.broker^
 ||watercraftshipping.broker^
 ||web4.broker^
