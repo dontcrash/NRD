@@ -21,6 +21,7 @@
 ||affluential.events^
 ||aicraft.events^
 ||aiinaction.events^
+||aip.events^
 ||airdrop-base.events^
 ||ajmedia.events^
 ||alchemyburn.events^
@@ -50,9 +51,9 @@
 ||blackoutevents.events^
 ||blc.events^
 ||blcklstd.events^
+||bluehat.events^
 ||blueprintconference.events^
 ||blueswan.events^
-||bologna.events^
 ||boos.events^
 ||boricua.events^
 ||bos.events^
@@ -67,8 +68,8 @@
 ||bunniesagents.events^
 ||burg-blankenau.events^
 ||burger.events^
-||bville.events^
 ||bxt.events^
+||caa.events^
 ||cabo.events^
 ||caboluxury.events^
 ||candygia.events^
@@ -104,7 +105,6 @@
 ||deafcity.events^
 ||deepseek.events^
 ||dental.events^
-||devrel.events^
 ||diddy.events^
 ||digicoinglobal.events^
 ||divinedesign.events^
@@ -116,13 +116,13 @@
 ||dparte.events^
 ||dreamcelebrations.events^
 ||driverclub.events^
-||dubaiplatinum.events^
 ||dweb.events^
 ||dymension.events^
 ||efma.events^
 ||elgrandia.events^
 ||eliteconcepts.events^
 ||embly.events^
+||emeraldvillage.events^
 ||emito.events^
 ||emociondeportiva.events^
 ||ems.events^
@@ -152,11 +152,9 @@
 ||fluency.events^
 ||fmf.events^
 ||fomomento.events^
-||foo.events^
 ||forbes.events^
 ||forcescience.events^
 ||fordpro.events^
-||forhisglory.events^
 ||fouraces.events^
 ||frag.events^
 ||frontrunner.events^
@@ -220,7 +218,6 @@
 ||justgotpaid.events^
 ||kaijukingz.events^
 ||kanda.events^
-||kandahar.events^
 ||kapsulesummit.events^
 ||karpacz.events^
 ||kasteelviteux.events^
@@ -243,6 +240,7 @@
 ||localchurch.events^
 ||lofshop.events^
 ||lonestar.events^
+||lul.events^
 ||lumd.events^
 ||lumina.events^
 ||luminate.events^
@@ -259,7 +257,7 @@
 ||marx.events^
 ||matchbox.events^
 ||mats.events^
-||mber.events^
+||mc.events^
 ||meetanddine.events^
 ||meex.events^
 ||megalive.events^
@@ -276,6 +274,7 @@
 ||minaprotocol.events^
 ||mindful.events^
 ||mingleitup.events^
+||miragecity.events^
 ||mitechcon.events^
 ||mkcmoto.events^
 ||mobilegrowth.events^
@@ -293,6 +292,7 @@
 ||multibit.events^
 ||multidrop.events^
 ||multitools.events^
+||musicnow.events^
 ||mutu.events^
 ||mv-js.events^
 ||my-group.events^
@@ -316,6 +316,7 @@
 ||notonly.events^
 ||nreach.events^
 ||nuclear-races.events^
+||nuo.events^
 ||nwarkansas.events^
 ||off-the-tracks.events^
 ||offstage.events^
@@ -348,17 +349,12 @@
 ||pnd0x.events^
 ||point.events^
 ||polepositionsolutions.events^
-||premiumcollection.events^
 ||primary.events^
-||private-collection.events^
-||privateclub.events^
-||privatecollection.events^
 ||protectedperspective.events^
 ||proven.events^
 ||puffer.events^
 ||punjab.events^
 ||puny.events^
-||pvtcollection.events^
 ||qrc.events^
 ||qualia.events^
 ||quantum-institute.events^
@@ -384,13 +380,12 @@
 ||ris.events^
 ||robox.events^
 ||rog.events^
-||rtic.events^
 ||ruma.events^
 ||salman.events^
 ||sanjose365.events^
+||saturday.events^
 ||saudade.events^
 ||savinglives.events^
-||scada.events^
 ||sci-sphere.events^
 ||scotts.events^
 ||screamtruck.events^
@@ -413,14 +408,15 @@
 ||smb.events^
 ||snapshot-apeterminal.events^
 ||snelplan.events^
+||solidaritysunday.events^
 ||soltex.events^
 ||soon.events^
 ||sorabyhc.events^
 ||soundlevel.events^
-||southernspice.events^
 ||spectrumtravel.events^
 ||spiral.events^
 ||spontanego.events^
+||springbay.events^
 ||spx6900claims.events^
 ||srportraits.events^
 ||stable.events^
@@ -436,10 +432,10 @@
 ||sweetpassion.events^
 ||synapse.events^
 ||sysdig.events^
+||tailoredtoyou.events^
 ||tbilisi.events^
 ||teamfun.events^
 ||technology4your.events^
-||teknoloji.events^
 ||terilco.events^
 ||thebucketlist.events^
 ||thecommercialiser.events^
@@ -447,7 +443,6 @@
 ||thehive.events^
 ||thelocals.events^
 ||themap.events^
-||theprivatecollection.events^
 ||thequest.events^
 ||theselected.events^
 ||theshoptalkluxe.events^
@@ -478,6 +473,7 @@
 ||verbunden.events^
 ||verona.events^
 ||videoclub.events^
+||vind.events^
 ||vino.events^
 ||viptoto.events^
 ||visitu.events^
@@ -485,6 +481,7 @@
 ||vivavienna.events^
 ||voqin.events^
 ||vuejs.events^
+||waldgefluester.events^
 ||warecrat.events^
 ||water.events^
 ||wccb.events^
@@ -497,6 +494,7 @@
 ||willowsbend.events^
 ||wineandwisdom.events^
 ||wings.events^
+||wonderisland.events^
 ||wordsmith.events^
 ||world-tkd.events^
 ||world-tkdlab.events^

@@ -1,6 +1,7 @@
 ||0049.management^
 ||33win.management^
 ||615.management^
+||a-i.management^
 ||abc8.management^
 ||abundance.management^
 ||actionsports.management^
@@ -58,7 +59,9 @@
 ||glam.management^
 ||gmt.management^
 ||gp.management^
+||gpts.management^
 ||grace.management^
+||greenenergy.management^
 ||griffin.management^
 ||griffinconcierge.management^
 ||haider.management^
@@ -114,6 +117,7 @@
 ||projectalchemy.management^
 ||qube.management^
 ||refolio.management^
+||report.management^
 ||restoration.management^
 ||salary.management^
 ||sane.management^
@@ -124,12 +128,12 @@
 ||sleep.management^
 ||socialx.management^
 ||socmedia.management^
+||solver.management^
 ||special.management^
 ||stack.management^
 ||stage.management^
 ||steel.management^
 ||stokt.management^
-||stumac.management^
 ||suite.management^
 ||systemicchange.management^
 ||systria.management^
@@ -140,7 +144,6 @@
 ||testing.management^
 ||thompsonfamilytrust.management^
 ||token.management^
-||tom.management^
 ||tony.management^
 ||tower.management^
 ||town.management^
