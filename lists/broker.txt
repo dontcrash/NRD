@@ -1,5 +1,6 @@
 ||7starhd.broker^
 ||808.broker^
+||accelerator.broker^
 ||adelaide.broker^
 ||africa.broker^
 ||ai4.broker^
@@ -12,7 +13,6 @@
 ||atvshipping.broker^
 ||aussie.broker^
 ||austin.broker^
-||automate.broker^
 ||automobileshipping.broker^
 ||beesure.broker^
 ||billing.broker^
@@ -31,7 +31,6 @@
 ||comms.broker^
 ||criptomoneda.broker^
 ||deepseek.broker^
-||defai.broker^
 ||deso.broker^
 ||desordi.broker^
 ||dubairealestate.broker^
@@ -49,6 +48,7 @@
 ||golfcartshipping.broker^
 ||greensboromortgage.broker^
 ||haj.broker^
+||heart.broker^
 ||hedged.broker^
 ||housing.broker^
 ||hw-affiliate.broker^
@@ -67,11 +67,11 @@
 ||loveliveseattle.broker^
 ||mb2.broker^
 ||melbourne.broker^
+||miradmin.broker^
 ||mirror.broker^
 ||mytrade.broker^
 ||namefi.broker^
 ||nasdaq.broker^
-||neural.broker^
 ||newyorkskydive.broker^
 ||nirvana.broker^
 ||notion.broker^
@@ -80,7 +80,6 @@
 ||privacy.broker^
 ||properties.broker^
 ||quant.broker^
-||reality.broker^
 ||realproperty.broker^
 ||samortgage.broker^
 ||sgt.broker^
@@ -90,6 +89,7 @@
 ||smallbusiness.broker^
 ||snowmobile.broker^
 ||snowmobileshipping.broker^
+||stellarmls.broker^
 ||tdx.broker^
 ||teniptv.broker^
 ||tiendientu.broker^
