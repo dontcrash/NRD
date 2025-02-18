@@ -16,6 +16,7 @@
 ||bd.industries^
 ||bern.industries^
 ||bewb.industries^
+||biotek.industries^
 ||bjk.industries^
 ||blog.industries^
 ||bluedoor.industries^
@@ -37,9 +38,7 @@
 ||clone.industries^
 ||composite.industries^
 ||concrete.industries^
-||conspiracy.industries^
 ||cranky.industries^
-||damn.industries^
 ||dao.industries^
 ||dean.industries^
 ||deepseek.industries^
@@ -61,6 +60,7 @@
 ||fact.industries^
 ||fenix.industries^
 ||flagman.industries^
+||fleming.industries^
 ||flow.industries^
 ||formula.industries^
 ||foundry.industries^
@@ -74,6 +74,7 @@
 ||gtech.industries^
 ||guard.industries^
 ||hacking.industries^
+||hanzo.industries^
 ||hardknock.industries^
 ||hardrind.industries^
 ||haven.industries^
@@ -97,7 +98,6 @@
 ||lightcone.industries^
 ||log.industries^
 ||loosh.industries^
-||madison.industries^
 ||magnesium.industries^
 ||maze.industries^
 ||meatspace.industries^
@@ -112,7 +112,6 @@
 ||nothing.industries^
 ||noumena.industries^
 ||nowik.industries^
-||oakroad.industries^
 ||orison.industries^
 ||peer.industries^
 ||pipedream.industries^
@@ -135,6 +134,7 @@
 ||savant.industries^
 ||sgra.industries^
 ||simpleo.industries^
+||simulation.industries^
 ||sispace.industries^
 ||skyhawk.industries^
 ||skynet.industries^
@@ -146,6 +146,7 @@
 ||solvent.industries^
 ||sp.industries^
 ||spacecharge.industries^
+||spike.industries^
 ||summer.industries^
 ||superfine.industries^
 ||supernaut.industries^
@@ -176,8 +177,10 @@
 ||well.industries^
 ||wellbeing.industries^
 ||whitelotus.industries^
+||witz.industries^
 ||wonder.industries^
 ||worldlife.industries^
 ||yellowdoll.industries^
 ||zamil.industries^
 ||zeal.industries^
+||zoo.industries^

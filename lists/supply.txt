@@ -11,6 +11,7 @@
 ||attention.supply^
 ||bitrgb.supply^
 ||blau.supply^
+||bodegaproduce.supply^
 ||bohr.supply^
 ||booklet.supply^
 ||bool.supply^
@@ -39,6 +40,7 @@
 ||flowerpower.supply^
 ||foods.supply^
 ||forma.supply^
+||fragments.supply^
 ||freemer.supply^
 ||ftx.supply^
 ||future.supply^
@@ -62,8 +64,10 @@
 ||kopp.supply^
 ||kreatif.supply^
 ||kucoin.supply^
+||levels.supply^
 ||light.supply^
 ||lowkey.supply^
+||lurnable.supply^
 ||macs.supply^
 ||madirra.supply^
 ||manta.supply^
@@ -78,10 +82,13 @@
 ||noubu.supply^
 ||npm.supply^
 ||nuworld.supply^
+||nya.supply^
+||offgrid.supply^
 ||offmarket.supply^
 ||ok365.supply^
 ||otif.supply^
 ||pana.supply^
+||paper.supply^
 ||patriotmfg.supply^
 ||pckg.supply^
 ||porter.supply^
@@ -97,6 +104,7 @@
 ||seabird.supply^
 ||sealed.supply^
 ||shots.supply^
+||shrimps.supply^
 ||silvercity.supply^
 ||sneaker.supply^
 ||softcactus.supply^
@@ -109,6 +117,7 @@
 ||stargazing.supply^
 ||streetwearhouse.supply^
 ||systems.supply^
+||team-work.supply^
 ||thesubstance.supply^
 ||timemachine.supply^
 ||trench.supply^

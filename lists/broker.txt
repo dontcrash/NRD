@@ -3,6 +3,7 @@
 ||accelerator.broker^
 ||adelaide.broker^
 ||africa.broker^
+||agentally.broker^
 ||ai4.broker^
 ||aifor.broker^
 ||aircraftshipping.broker^
@@ -75,6 +76,7 @@
 ||newyorkskydive.broker^
 ||nirvana.broker^
 ||notion.broker^
+||number1.broker^
 ||perth.broker^
 ||placeholder.broker^
 ||privacy.broker^
@@ -89,7 +91,9 @@
 ||smallbusiness.broker^
 ||snowmobile.broker^
 ||snowmobileshipping.broker^
+||solarenergy.broker^
 ||stellarmls.broker^
+||stx.broker^
 ||tdx.broker^
 ||teniptv.broker^
 ||tiendientu.broker^
