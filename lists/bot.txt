@@ -31,6 +31,7 @@
 ||asktrump.bot^
 ||augment.bot^
 ||augmentai.bot^
+||autel.bot^
 ||axel.bot^
 ||babel.bot^
 ||backbeat.bot^
@@ -52,6 +53,7 @@
 ||bundle.bot^
 ||buying.bot^
 ||calendly.bot^
+||calibration.bot^
 ||campus.bot^
 ||candid.bot^
 ||carbroker.bot^
@@ -68,6 +70,7 @@
 ||copper.bot^
 ||coterie.bot^
 ||creantis.bot^
+||creche.bot^
 ||cryptoprice.bot^
 ||cycamfines.bot^
 ||d3.bot^
@@ -75,9 +78,11 @@
 ||dawg.bot^
 ||decisionsite.bot^
 ||deep-seek.bot^
+||deepsense.bot^
 ||degenai.bot^
 ||dei.bot^
 ||demeter.bot^
+||depai.bot^
 ||depin.bot^
 ||dexter.bot^
 ||dina.bot^
@@ -141,6 +146,7 @@
 ||inga.bot^
 ||innovation.bot^
 ||intela.bot^
+||intell.bot^
 ||intentful.bot^
 ||investmentbroker.bot^
 ||iqmarkets.bot^
@@ -160,6 +166,7 @@
 ||kmps.bot^
 ||knack.bot^
 ||kompaso.bot^
+||kron.bot^
 ||leadgen.bot^
 ||leaks.bot^
 ||leasingbroker.bot^
@@ -170,7 +177,9 @@
 ||luci.bot^
 ||lumen.bot^
 ||machoman.bot^
+||magehand.bot^
 ||majo.bot^
+||maple.bot^
 ||matcha.bot^
 ||matchpoint.bot^
 ||medeya.bot^
@@ -189,12 +198,14 @@
 ||motphim.bot^
 ||mtm.bot^
 ||mvno.bot^
+||myvault.bot^
 ||namefi.bot^
 ||nammu21.bot^
 ||narrative.bot^
 ||native.bot^
 ||navigator.bot^
 ||newsai.bot^
+||nighthawk.bot^
 ||nor.bot^
 ||novatrading.bot^
 ||nudge.bot^
@@ -205,6 +216,7 @@
 ||oxygen.bot^
 ||pages.bot^
 ||panta.bot^
+||paren.bot^
 ||pbi.bot^
 ||penpal.bot^
 ||personalized.bot^
@@ -218,6 +230,7 @@
 ||praxis.bot^
 ||pricealert.bot^
 ||prox.bot^
+||psi.bot^
 ||psy.bot^
 ||qubert.bot^
 ||qumanity.bot^

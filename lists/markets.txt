@@ -130,6 +130,7 @@
 ||crypto-currency.markets^
 ||crypto30x.markets^
 ||csmoney.markets^
+||death.markets^
 ||deepseek.markets^
 ||doit.markets^
 ||dove.markets^
@@ -173,6 +174,7 @@
 ||mega888.markets^
 ||melee.markets^
 ||mememaker.markets^
+||memestreet.markets^
 ||metawood.markets^
 ||modal.markets^
 ||moga.markets^
@@ -185,6 +187,7 @@
 ||odm.markets^
 ||oem.markets^
 ||ok365.markets^
+||omgbuy3.markets^
 ||omnichannel.markets^
 ||opensource.markets^
 ||orbit.markets^
@@ -194,6 +197,7 @@
 ||outlaw.markets^
 ||p3.markets^
 ||paradex.markets^
+||parsa.markets^
 ||persia.markets^
 ||pharaoh.markets^
 ||picasso.markets^
@@ -209,6 +213,7 @@
 ||salesorder.markets^
 ||salma.markets^
 ||sayuu.markets^
+||shoupa.markets^
 ||sigma.markets^
 ||smartshopping.markets^
 ||sportsx.markets^
@@ -221,6 +226,7 @@
 ||tcg.markets^
 ||tdtc.markets^
 ||tdx.markets^
+||togel.markets^
 ||tony.markets^
 ||topline.markets^
 ||traders.markets^
@@ -230,6 +236,7 @@
 ||uniswap.markets^
 ||ust.markets^
 ||valuechain.markets^
+||veneer.markets^
 ||venu.markets^
 ||venue.markets^
 ||vip79.markets^
