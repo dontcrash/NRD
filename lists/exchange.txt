@@ -5,9 +5,7 @@
 ||aafes.exchange^
 ||adhd.exchange^
 ||aedc.exchange^
-||aerodrome.exchange^
 ||ag-instant.exchange^
-||agentics.exchange^
 ||air.exchange^
 ||airhawk.exchange^
 ||airportai.exchange^
@@ -37,6 +35,7 @@
 ||b1t.exchange^
 ||baba.exchange^
 ||babel.exchange^
+||backpacks.exchange^
 ||bankless.exchange^
 ||bars.exchange^
 ||bckpay.exchange^
@@ -49,7 +48,9 @@
 ||bitbank.exchange^
 ||bitcoinbank.exchange^
 ||bitflows.exchange^
+||bitland.exchange^
 ||bitnex.exchange^
+||bitpharaoh.exchange^
 ||bitra.exchange^
 ||bitshift.exchange^
 ||bitsurge.exchange^
@@ -62,7 +63,6 @@
 ||brands.exchange^
 ||bridge-jumper.exchange^
 ||bros.exchange^
-||bs2best.exchange^
 ||bsr.exchange^
 ||btcetfs.exchange^
 ||btmx.exchange^
@@ -83,7 +83,6 @@
 ||bytfin.exchange^
 ||c-r-y-p-t-o-c-u-r-r-e-n-c-y.exchange^
 ||c-r-y-p-t-o-s.exchange^
-||cadabruh.exchange^
 ||cancoin.exchange^
 ||candid.exchange^
 ||candy-pay.exchange^
@@ -94,12 +93,12 @@
 ||carma.exchange^
 ||cashandgo.exchange^
 ||cbbtc.exchange^
-||ceed.exchange^
 ||celestia.exchange^
 ||cemelot.exchange^
 ||cerium.exchange^
 ||chainkeentech.exchange^
 ||chameleon.exchange^
+||chatcoin.exchange^
 ||childrens.exchange^
 ||chromium.exchange^
 ||cinex.exchange^
@@ -142,7 +141,6 @@
 ||cycles.exchange^
 ||dango.exchange^
 ||daru.exchange^
-||datahub.exchange^
 ||dazed.exchange^
 ||decentralizedai.exchange^
 ||deepchain.exchange^
@@ -165,6 +163,8 @@
 ||dysprosium.exchange^
 ||earna.exchange^
 ||ebuxx.exchange^
+||edma.exchange^
+||electrum.exchange^
 ||elegant.exchange^
 ||elevated.exchange^
 ||elonmusk.exchange^
@@ -205,9 +205,9 @@
 ||gains.exchange^
 ||gallium.exchange^
 ||gamble.exchange^
+||gammax.exchange^
 ||germanium.exchange^
 ||gettrumpmemes.exchange^
-||girolando.exchange^
 ||glades.exchange^
 ||gli.exchange^
 ||glimpse.exchange^
@@ -215,13 +215,11 @@
 ||globalmarket.exchange^
 ||gmjp.exchange^
 ||goldilocks.exchange^
-||goldminebook.exchange^
 ||goldnote.exchange^
 ||goodman.exchange^
 ||gratitude.exchange^
 ||grizzly.exchange^
 ||grok.exchange^
-||gsecoin.exchange^
 ||guapo.exchange^
 ||habo.exchange^
 ||hanzo.exchange^
@@ -248,11 +246,11 @@
 ||injury.exchange^
 ||integral.exchange^
 ||investrfp.exchange^
+||irwend.exchange^
 ||islamic.exchange^
 ||izat.exchange^
 ||jiocoin.exchange^
 ||jiumper.exchange^
-||kaj.exchange^
 ||keys.exchange^
 ||kizna.exchange^
 ||koinos.exchange^
@@ -286,12 +284,14 @@
 ||mintrax.exchange^
 ||ml.exchange^
 ||mm.exchange^
+||moashai.exchange^
 ||mobilepay.exchange^
 ||mofo.exchange^
 ||mojo.exchange^
 ||molybdenum.exchange^
 ||mpay.exchange^
 ||mpoxo.exchange^
+||muroil.exchange^
 ||mute.exchange^
 ||muun.exchange^
 ||mw.exchange^
@@ -310,7 +310,6 @@
 ||niobium.exchange^
 ||nohu.exchange^
 ||noomura.exchange^
-||noon.exchange^
 ||northeast.exchange^
 ||nothing.exchange^
 ||npex.exchange^
@@ -323,9 +322,7 @@
 ||openidentity.exchange^
 ||optics.exchange^
 ||orbitex.exchange^
-||orbitra.exchange^
 ||outlooksignature.exchange^
-||padel.exchange^
 ||palette.exchange^
 ||palladium.exchange^
 ||panafex.exchange^
@@ -341,6 +338,7 @@
 ||peak.exchange^
 ||pentainsurance.exchange^
 ||peoplesagi.exchange^
+||phar.exchange^
 ||pharaon.exchange^
 ||pharoah.exchange^
 ||pharoh.exchange^
@@ -405,6 +403,7 @@
 ||rubidium.exchange^
 ||rush.exchange^
 ||ruthenium.exchange^
+||sadivu.exchange^
 ||safetrade.exchange^
 ||samarium.exchange^
 ||samex.exchange^
@@ -440,7 +439,6 @@
 ||starstock.exchange^
 ||sumit.exchange^
 ||sunswap.exchange^
-||superbidx.exchange^
 ||superintelligence.exchange^
 ||surveys.exchange^
 ||swap-jup.exchange^
@@ -465,6 +463,7 @@
 ||thebtrade.exchange^
 ||theciso.exchange^
 ||thena.exchange^
+||therealty.exchange^
 ||thesky.exchange^
 ||thethynkhive.exchange^
 ||thulium.exchange^
