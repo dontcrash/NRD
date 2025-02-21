@@ -48,6 +48,7 @@
 ||attica.golf^
 ||auto.golf^
 ||ava.golf^
+||b-right.golf^
 ||b2ng.golf^
 ||b2se.golf^
 ||backrange.golf^
@@ -61,7 +62,6 @@
 ||bayou.golf^
 ||bbgc.golf^
 ||bee.golf^
-||benice.golf^
 ||bens.golf^
 ||beowulf.golf^
 ||bernardus.golf^
@@ -69,27 +69,26 @@
 ||bettr.golf^
 ||biglinks.golf^
 ||bio.golf^
+||birdieandco.golf^
 ||birdieandshank.golf^
 ||birdieguild.golf^
 ||blackbird.golf^
-||bladesbrown.golf^
 ||bluebayou.golf^
 ||blueeagle.golf^
 ||bn2s.golf^
 ||bogeybreeze.golf^
 ||boitesbu.golf^
 ||bolabosku.golf^
-||bollyflix.golf^
 ||bonusball.golf^
 ||bonusballs.golf^
 ||bradoh.golf^
-||branch.golf^
 ||breakfast.golf^
 ||breakingthegrassceiling.golf^
 ||bro.golf^
 ||broccoli.golf^
 ||buddha.golf^
 ||buddy.golf^
+||buildabag.golf^
 ||bunkerbuddies.golf^
 ||c3bk.golf^
 ||c3sz.golf^
@@ -98,7 +97,6 @@
 ||cankocaman.golf^
 ||canvas.golf^
 ||cardcaddie.golf^
-||cards.golf^
 ||cartboy.golf^
 ||catalog.golf^
 ||ccb.golf^
@@ -114,12 +112,14 @@
 ||circle18.golf^
 ||circlet.golf^
 ||citee.golf^
+||civic.golf^
 ||claritycrew.golf^
 ||cleancar.golf^
 ||cleandrive.golf^
 ||clubby.golf^
 ||clubhousecollective.golf^
 ||clubmulligan.golf^
+||clubpicker.golf^
 ||cludderc.golf^
 ||coachchronicles.golf^
 ||cobblebeach.golf^
@@ -132,7 +132,6 @@
 ||cv3m.golf^
 ||d4cm.golf^
 ||d4et.golf^
-||dadcrew.golf^
 ||dads.golf^
 ||darts.golf^
 ||dayton.golf^
@@ -151,6 +150,7 @@
 ||domains.golf^
 ||draftkings.golf^
 ||driveclean.golf^
+||drivingrangenearme.golf^
 ||duffy.golf^
 ||dugong.golf^
 ||dune.golf^
@@ -205,7 +205,6 @@
 ||getapp.golf^
 ||gh7n.golf^
 ||ghidra.golf^
-||gimmiegolf.golf^
 ||glitter.golf^
 ||gloryhole.golf^
 ||gold.golf^
@@ -238,6 +237,8 @@
 ||gym.golf^
 ||h8pn.golf^
 ||h8ys.golf^
+||hangar8.golf^
+||happytees.golf^
 ||hart.golf^
 ||hdfilmcehennemi.golf^
 ||healthy.golf^
@@ -248,7 +249,7 @@
 ||highlights.golf^
 ||hiq.golf^
 ||hiqscreens.golf^
-||hohto.golf^
+||hngr8.golf^
 ||house.golf^
 ||humisoil.golf^
 ||hustle.golf^
@@ -259,6 +260,7 @@
 ||ilike.golf^
 ||imember.golf^
 ||indoors.golf^
+||infin8.golf^
 ||infiniteindoors.golf^
 ||invest.golf^
 ||iontoken.golf^
@@ -281,6 +283,7 @@
 ||kdot.golf^
 ||keepclubheadfromswinginginsidetargetline.golf^
 ||keeper.golf^
+||keonhacai.golf^
 ||koins.golf^
 ||lako.golf^
 ||lamangaclub.golf^
@@ -294,7 +297,6 @@
 ||liquidmetals.golf^
 ||livtour.golf^
 ||lizzhome.golf^
-||locations.golf^
 ||longbeachisland.golf^
 ||looperlife.golf^
 ||lowandlevelafootdirectlyinfrontofball.golf^
@@ -310,6 +312,7 @@
 ||marcusgingl.golf^
 ||mare.golf^
 ||marriedtothegame.golf^
+||mayflower.golf^
 ||mcjg.golf^
 ||mclub.golf^
 ||metformin.golf^
@@ -358,9 +361,8 @@
 ||pivottool.golf^
 ||play2x.golf^
 ||playmini.golf^
-||playyourbesttees.golf^
 ||plug.golf^
-||pnlpco.golf^
+||pointy.golf^
 ||practicesmarter.golf^
 ||prize.golf^
 ||promo.golf^
@@ -377,10 +379,8 @@
 ||redox.golf^
 ||redstakes.golf^
 ||regenmed.golf^
-||rgl.golf^
 ||rhythm.golf^
 ||rich.golf^
-||robogolf.golf^
 ||rockbottom.golf^
 ||rockyrhodes.golf^
 ||rookie.golf^
@@ -388,6 +388,7 @@
 ||rydercup.golf^
 ||s8mp.golf^
 ||saltire.golf^
+||sandybirds.golf^
 ||sbobet.golf^
 ||scenicroute.golf^
 ||scoop.golf^
@@ -410,6 +411,9 @@
 ||sodo66.golf^
 ||soft.golf^
 ||sondage.golf^
+||sox.golf^
+||soxerosion.golf^
+||soxerosionsolutions.golf^
 ||spillthetee.golf^
 ||spoof.golf^
 ||spoofcc.golf^
@@ -426,6 +430,7 @@
 ||stx.golf^
 ||superpowa.golf^
 ||surrey.golf^
+||sust.golf^
 ||sweet.golf^
 ||swifttee.golf^
 ||swingwithstyle.golf^
@@ -440,7 +445,6 @@
 ||teedarts.golf^
 ||teegenerates.golf^
 ||teegens.golf^
-||teeitforward.golf^
 ||teepster.golf^
 ||teetimeai.golf^
 ||teetimesai.golf^
@@ -465,13 +469,13 @@
 ||thurdsaynight.golf^
 ||time2.golf^
 ||tiny.golf^
-||tipsybirdie.golf^
 ||tlt.golf^
 ||today.golf^
 ||togel.golf^
 ||together.golf^
 ||tokens.golf^
 ||toomeygolf.golf^
+||topnotch.golf^
 ||topp.golf^
 ||tosi.golf^
 ||tox.golf^
@@ -488,6 +492,7 @@
 ||ufit.golf^
 ||uncle.golf^
 ||unclescotty.golf^
+||unconventional.golf^
 ||under-par.golf^
 ||under.golf^
 ||undrpar.golf^
@@ -509,6 +514,7 @@
 ||welike.golf^
 ||welikegolf.golf^
 ||wtf.golf^
+||xai.golf^
 ||xrp.golf^
 ||yesputters.golf^
 ||youngstown.golf^

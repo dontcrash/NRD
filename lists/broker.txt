@@ -10,13 +10,13 @@
 ||airfreight.broker^
 ||alor.broker^
 ||america.broker^
+||apartments.broker^
 ||atv.broker^
 ||atvshipping.broker^
 ||aussie.broker^
 ||austin.broker^
 ||automobileshipping.broker^
 ||backlinks.broker^
-||beesure.broker^
 ||billing.broker^
 ||binarium.broker^
 ||bishkek.broker^
@@ -24,13 +24,13 @@
 ||bus.broker^
 ||busshipping.broker^
 ||bynex.broker^
-||c54.broker^
 ||cani.broker^
 ||ceres.broker^
 ||cert.broker^
 ||chatgpt.broker^
 ||citiwide.broker^
 ||climate.broker^
+||code.broker^
 ||comms.broker^
 ||criptomoneda.broker^
 ||deepseek.broker^
@@ -40,6 +40,7 @@
 ||ecom.broker^
 ||equipment.broker^
 ||equipmentshipping.broker^
+||estably.broker^
 ||findmortgage.broker^
 ||findmtg.broker^
 ||fortune.broker^
@@ -62,7 +63,6 @@
 ||jetski.broker^
 ||jetskishipping.broker^
 ||kmu.broker^
-||kubet77.broker^
 ||lanikai.broker^
 ||league.broker^
 ||list.broker^
@@ -71,10 +71,12 @@
 ||mb2.broker^
 ||melbourne.broker^
 ||mfd.broker^
+||micropharma.broker^
 ||miradmin.broker^
 ||mirror.broker^
 ||mytrade.broker^
 ||namefi.broker^
+||nantahalalakemarineboats.broker^
 ||nasdaq.broker^
 ||newyorkskydive.broker^
 ||nirvana.broker^
@@ -100,7 +102,6 @@
 ||stx.broker^
 ||tdx.broker^
 ||teniptv.broker^
-||tiendientu.broker^
 ||togel.broker^
 ||tractor.broker^
 ||tractorshipping.broker^

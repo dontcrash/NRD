@@ -55,6 +55,7 @@
 ||dui.delivery^
 ||education.delivery^
 ||eggs.delivery^
+||ehealth.delivery^
 ||electric.delivery^
 ||elephant.delivery^
 ||eletro.delivery^
@@ -66,13 +67,11 @@
 ||fertilidade.delivery^
 ||fertility.delivery^
 ||flexacil.delivery^
-||fluxon.delivery^
 ||foundation.delivery^
 ||friends.delivery^
 ||funcionando.delivery^
 ||fyi.delivery^
 ||goexpress.delivery^
-||gotoexpress.delivery^
 ||gras.delivery^
 ||grv.delivery^
 ||gsgpartner.delivery^
@@ -84,7 +83,6 @@
 ||hyprdelivery.delivery^
 ||ici.delivery^
 ||imigiai.delivery^
-||imperial.delivery^
 ||index.delivery^
 ||indus.delivery^
 ||inloop.delivery^
@@ -98,7 +96,6 @@
 ||kebab.delivery^
 ||kelloin.delivery^
 ||keto.delivery^
-||keyword.delivery^
 ||laundrynow.delivery^
 ||legal.delivery^
 ||liger.delivery^
@@ -118,6 +115,7 @@
 ||nuvmi.delivery^
 ||oba.delivery^
 ||ode.delivery^
+||ola.delivery^
 ||ooosushi.delivery^
 ||panda.delivery^
 ||pantaneiro.delivery^
@@ -131,6 +129,7 @@
 ||pixelsnation.delivery^
 ||planet.delivery^
 ||poke.delivery^
+||pop.delivery^
 ||port.delivery^
 ||potter.delivery^
 ||psy.delivery^
@@ -140,12 +139,15 @@
 ||radical.delivery^
 ||rare.delivery^
 ||reads.delivery^
+||roi.delivery^
 ||rolls.delivery^
 ||saffron.delivery^
 ||sala.delivery^
 ||sara.delivery^
 ||scan.delivery^
 ||schoolai.delivery^
+||sdp.delivery^
+||secure-mail.delivery^
 ||self.delivery^
 ||service-id.delivery^
 ||shoupa.delivery^
@@ -164,7 +166,6 @@
 ||torontocannabis.delivery^
 ||trainlocation.delivery^
 ||tu.delivery^
-||uam.delivery^
 ||uas.delivery^
 ||ukexcellenceawards.delivery^
 ||ultra.delivery^
