@@ -7,6 +7,7 @@
 ||alarm.supply^
 ||allmedia.supply^
 ||amazonians.supply^
+||amparopharma.supply^
 ||antidrone.supply^
 ||arch.supply^
 ||attention.supply^
@@ -17,6 +18,8 @@
 ||booklet.supply^
 ||bool.supply^
 ||bots.supply^
+||bredco.supply^
+||broadcast.supply^
 ||brownie.supply^
 ||byd.supply^
 ||calligraphy.supply^
@@ -41,9 +44,11 @@
 ||endure.supply^
 ||expand.supply^
 ||feedstock.supply^
+||firstlighttechnologies.supply^
 ||flowerpower.supply^
 ||foods.supply^
 ||forma.supply^
+||forx.supply^
 ||fountainpen.supply^
 ||fragments.supply^
 ||freemer.supply^
@@ -61,6 +66,7 @@
 ||highend.supply^
 ||homecare.supply^
 ||i4.supply^
+||inference.supply^
 ||intentional.supply^
 ||interactivelighting.supply^
 ||ironshine.supply^
@@ -82,14 +88,17 @@
 ||manta.supply^
 ||minimly.supply^
 ||mirage.supply^
+||moonfame.supply^
 ||mori.supply^
 ||motto.supply^
+||mtp.supply^
 ||naivete.supply^
 ||nineandthree.supply^
 ||northsky.supply^
 ||noubu.supply^
 ||npm.supply^
 ||nuworld.supply^
+||nxrx.supply^
 ||nya.supply^
 ||obscure.supply^
 ||offgrid.supply^
@@ -120,6 +129,7 @@
 ||shots.supply^
 ||shrimps.supply^
 ||silvercity.supply^
+||slides.supply^
 ||sneaker.supply^
 ||softcactus.supply^
 ||specimen.supply^
