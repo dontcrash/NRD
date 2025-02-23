@@ -14,9 +14,9 @@
 ||bot.holiday^
 ||brasov.holiday^
 ||business.holiday^
-||cash.holiday^
 ||chain.holiday^
 ||coins.holiday^
+||dash.holiday^
 ||deep.holiday^
 ||deepseek.holiday^
 ||dental.holiday^
@@ -29,14 +29,13 @@
 ||etherlaken.holiday^
 ||flying.holiday^
 ||frannie.holiday^
-||funplaces.holiday^
 ||gamble.holiday^
 ||gardacampi.holiday^
+||globo.holiday^
 ||god.holiday^
 ||golden.holiday^
 ||goldenronn.holiday^
 ||habibi.holiday^
-||happyu.holiday^
 ||hofl.holiday^
 ||holidayhome.holiday^
 ||hours.holiday^
@@ -45,7 +44,6 @@
 ||keywest.holiday^
 ||king.holiday^
 ||meridian.holiday^
-||minafon.holiday^
 ||moon.holiday^
 ||mycaravan.holiday^
 ||namefi.holiday^
@@ -54,6 +52,7 @@
 ||nielsen.holiday^
 ||nisekoresort.holiday^
 ||nomad.holiday^
+||oceania.holiday^
 ||outback.holiday^
 ||paphos.holiday^
 ||pay.holiday^
@@ -64,9 +63,11 @@
 ||robot.holiday^
 ||security.holiday^
 ||student.holiday^
+||stx.holiday^
 ||sunrise.holiday^
 ||suntour.holiday^
 ||taste.holiday^
+||terra.holiday^
 ||time.holiday^
 ||tk88.holiday^
 ||token.holiday^
