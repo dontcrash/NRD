@@ -1,11 +1,13 @@
 ||7starhd.broker^
 ||808.broker^
 ||accelerator.broker^
+||account.broker^
 ||adelaide.broker^
 ||africa.broker^
 ||agentally.broker^
 ||ai4.broker^
 ||aifor.broker^
+||aiko.broker^
 ||aircraftshipping.broker^
 ||airfreight.broker^
 ||alor.broker^
@@ -26,9 +28,7 @@
 ||brisbane.broker^
 ||bus.broker^
 ||busshipping.broker^
-||bynex.broker^
 ||cani.broker^
-||ceres.broker^
 ||cert.broker^
 ||chatgpt.broker^
 ||citiwide.broker^
@@ -38,7 +38,6 @@
 ||criptomoneda.broker^
 ||deepseek.broker^
 ||deso.broker^
-||desordi.broker^
 ||dubairealestate.broker^
 ||ecom.broker^
 ||equipment.broker^
@@ -47,8 +46,6 @@
 ||ethos.broker^
 ||findmortgage.broker^
 ||findmtg.broker^
-||fortune.broker^
-||fortuneteller.broker^
 ||foulderfraud.broker^
 ||freightshipping.broker^
 ||futr.broker^
@@ -68,9 +65,7 @@
 ||jetski.broker^
 ||jetskishipping.broker^
 ||kmu.broker^
-||lanikai.broker^
 ||league.broker^
-||list.broker^
 ||lol.broker^
 ||loveliveseattle.broker^
 ||mb2.broker^
@@ -88,7 +83,9 @@
 ||nirvana.broker^
 ||notion.broker^
 ||number1.broker^
+||paradox.broker^
 ||perth.broker^
+||pg88.broker^
 ||placeholder.broker^
 ||planet.broker^
 ||powersports.broker^
@@ -102,7 +99,6 @@
 ||shop.broker^
 ||simple.broker^
 ||site.broker^
-||smallbusiness.broker^
 ||snowmobile.broker^
 ||snowmobileshipping.broker^
 ||solarenergy.broker^
@@ -116,7 +112,6 @@
 ||tractorshipping.broker^
 ||truckshipping.broker^
 ||ufabet168.broker^
-||ultra.broker^
 ||versicherungs.broker^
 ||vip79.broker^
 ||watercraft.broker^
