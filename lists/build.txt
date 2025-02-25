@@ -13,6 +13,7 @@
 ||amrconstruction.build^
 ||anarchy.build^
 ||archange.build^
+||asi.build^
 ||astronomy.build^
 ||babel.build^
 ||betterwood.build^
@@ -22,7 +23,6 @@
 ||bridgefree.build^
 ||bts.build^
 ||carbonbeton.build^
-||cat5design.build^
 ||cdmhardware.build^
 ||centralflorida.build^
 ||chatbots.build^
@@ -33,6 +33,7 @@
 ||connects.build^
 ||craftsmandesign.build^
 ||customai.build^
+||davidclark.build^
 ||deepseek.build^
 ||demi.build^
 ||deso.build^
@@ -55,10 +56,9 @@
 ||ginko.build^
 ||happywp.build^
 ||harper.build^
+||headwaters.build^
 ||heyday.build^
 ||highlands.build^
-||homebrew.build^
-||hubet.build^
 ||indigoconstruction.build^
 ||iv88.build^
 ||jelly.build^
@@ -69,7 +69,6 @@
 ||lakecreekhomes.build^
 ||landmark.build^
 ||lavanya.build^
-||liftoff.build^
 ||likeforlike.build^
 ||lineaeth.build^
 ||lineal.build^
@@ -77,7 +76,6 @@
 ||lingo.build^
 ||longview.build^
 ||lxp-linea.build^
-||meadowlark.build^
 ||memora.build^
 ||metatimber.build^
 ||mlgroup.build^
@@ -85,7 +83,6 @@
 ||nateb.build^
 ||neuraforge.build^
 ||new-linea.build^
-||nexotia.build^
 ||nightfall.build^
 ||nodeflow.build^
 ||nohu90.build^
@@ -93,6 +90,7 @@
 ||nula.build^
 ||nutrition.build^
 ||olive.build^
+||oneroof.build^
 ||orbital.build^
 ||orbiter.build^
 ||orchardinc.build^
@@ -109,9 +107,12 @@
 ||radia.build^
 ||reg-linea.build^
 ||reis.build^
+||relic.build^
 ||renovi.build^
+||roanoke.build^
 ||rocketship.build^
 ||royale.build^
+||sakura.build^
 ||salud.build^
 ||scroll.build^
 ||sebring.build^
@@ -122,14 +123,15 @@
 ||sonny.build^
 ||sourceit.build^
 ||stash.build^
+||stx.build^
 ||superdev.build^
 ||sv388.build^
 ||symmetry.build^
 ||syntharo.build^
 ||synthora.build^
 ||synthose.build^
-||taulien.build^
 ||terralon.build^
+||thb.build^
 ||tiktok.build^
 ||transformer.build^
 ||transformers.build^

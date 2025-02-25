@@ -35,7 +35,7 @@
 ||climate.broker^
 ||code.broker^
 ||comms.broker^
-||criptomoneda.broker^
+||deep.broker^
 ||deepseek.broker^
 ||deso.broker^
 ||dubairealestate.broker^
@@ -98,6 +98,7 @@
 ||sgt.broker^
 ||shop.broker^
 ||simple.broker^
+||siris.broker^
 ||site.broker^
 ||snowmobile.broker^
 ||snowmobileshipping.broker^

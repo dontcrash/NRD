@@ -98,18 +98,15 @@
 ||addressable.markets^
 ||aelle.markets^
 ||aggregate.markets^
-||aiadvisor.markets^
 ||aifi.markets^
-||aiml.markets^
 ||aimshigh.markets^
 ||alpace.markets^
 ||alts.markets^
+||arka.markets^
 ||arkade.markets^
-||aut0.markets^
 ||axigroup.markets^
 ||azer.markets^
 ||b-i-t-c-o-i-n.markets^
-||b0t.markets^
 ||beemtoken.markets^
 ||beluga.markets^
 ||bizclub.markets^
@@ -129,7 +126,6 @@
 ||clearedge.markets^
 ||clutch.markets^
 ||co2e.markets^
-||conjecture.markets^
 ||corporate.markets^
 ||cotton.markets^
 ||crowds.markets^
@@ -155,7 +151,6 @@
 ||gastro.markets^
 ||geometric.markets^
 ||glebe.markets^
-||glimpse.markets^
 ||globalwakeupcall.markets^
 ||grok.markets^
 ||grow.markets^
@@ -168,10 +163,10 @@
 ||igrow.markets^
 ||internetcapital.markets^
 ||islamic.markets^
+||jewish.markets^
 ||kanta.markets^
 ||keys.markets^
 ||korean.markets^
-||kyleauto.markets^
 ||learnthe.markets^
 ||legaldocumentseu.markets^
 ||lode.markets^
@@ -189,6 +184,7 @@
 ||nasdaq.markets^
 ||nem.markets^
 ||nexusdarknet.markets^
+||o.markets^
 ||odm.markets^
 ||oem.markets^
 ||ok365.markets^
@@ -198,7 +194,6 @@
 ||orbital.markets^
 ||orion.markets^
 ||otop.markets^
-||outlaw.markets^
 ||paradex.markets^
 ||parsa.markets^
 ||persia.markets^
@@ -217,11 +212,11 @@
 ||salesorder.markets^
 ||salma.markets^
 ||sayuu.markets^
+||self.markets^
 ||shoupa.markets^
 ||sigma.markets^
 ||smartshopping.markets^
 ||spx.markets^
-||stargate.markets^
 ||stx.markets^
 ||tapp.markets^
 ||taxgpt.markets^
@@ -239,6 +234,7 @@
 ||veneer.markets^
 ||venu.markets^
 ||venue.markets^
+||veritas.markets^
 ||vip79.markets^
 ||vortex.markets^
 ||vsbet.markets^

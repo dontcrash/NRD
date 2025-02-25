@@ -6,6 +6,9 @@
 ||account.estate^
 ||admin.estate^
 ||affinitywealth.estate^
+||ai-agent.estate^
+||aiagent.estate^
+||aiagents.estate^
 ||alcazar.estate^
 ||alfa.estate^
 ||aliens.estate^
@@ -65,7 +68,6 @@
 ||farmroad.estate^
 ||ffm.estate^
 ||fifi.estate^
-||flrg.estate^
 ||food.estate^
 ||fuego.estate^
 ||fund.estate^
@@ -74,6 +76,7 @@
 ||gate21.estate^
 ||generative.estate^
 ||genius.estate^
+||geovora.estate^
 ||gofund.estate^
 ||greaterbayarea.estate^
 ||greek.estate^
@@ -108,7 +111,6 @@
 ||kinogo.estate^
 ||kirst.estate^
 ||klar.estate^
-||kvartal.estate^
 ||lab.estate^
 ||lagovista.estate^
 ||lanta.estate^
@@ -116,12 +118,14 @@
 ||lite.estate^
 ||loto188.estate^
 ||luxuryliving.estate^
+||maps.estate^
 ||marlena.estate^
 ||marois.estate^
 ||miranda.estate^
 ||mister.estate^
 ||mix.estate^
 ||monarch.estate^
+||montarahaven.estate^
 ||mygpt.estate^
 ||n1.estate^
 ||namefi.estate^
@@ -152,8 +156,8 @@
 ||rdgroup.estate^
 ||reclaim.estate^
 ||redmailland.estate^
+||reed.estate^
 ||residences.estate^
-||riedel.estate^
 ||rizz.estate^
 ||roatan.estate^
 ||robo.estate^
@@ -168,7 +172,6 @@
 ||select.estate^
 ||semkovoreal.estate^
 ||serenity.estate^
-||shagal.estate^
 ||shareable.estate^
 ||sharible.estate^
 ||signatureproperties.estate^
@@ -177,7 +180,6 @@
 ||slovo.estate^
 ||soap2day.estate^
 ||spokey.estate^
-||stargate.estate^
 ||start.estate^
 ||story.estate^
 ||stx.estate^
@@ -200,9 +202,9 @@
 ||vavani.estate^
 ||vavanireal.estate^
 ||versailles.estate^
+||villaella.estate^
 ||villas.estate^
 ||virtus.estate^
-||vz99.estate^
 ||wallet.estate^
 ||wb.estate^
 ||weatherby.estate^
