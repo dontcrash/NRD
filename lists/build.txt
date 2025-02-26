@@ -18,7 +18,6 @@
 ||babel.build^
 ||betterwood.build^
 ||blobs.build^
-||botify.build^
 ||bribar.build^
 ||bridgefree.build^
 ||bts.build^
@@ -29,7 +28,6 @@
 ||clip.build^
 ||coai.build^
 ||cognera.build^
-||cognifex.build^
 ||connects.build^
 ||craftsmandesign.build^
 ||customai.build^
@@ -37,7 +35,7 @@
 ||deepseek.build^
 ||demi.build^
 ||deso.build^
-||earthrise.build^
+||docbot.build^
 ||echotango.build^
 ||end.build^
 ||ender.build^
@@ -89,7 +87,6 @@
 ||nouveau.build^
 ||nula.build^
 ||nutrition.build^
-||olive.build^
 ||oneroof.build^
 ||orbital.build^
 ||orbiter.build^
@@ -98,7 +95,6 @@
 ||papabera.build^
 ||peoplewho.build^
 ||persivo.build^
-||pesadevelopmentgroup.build^
 ||plaex.build^
 ||platon.build^
 ||ppl.build^
@@ -114,20 +110,18 @@
 ||royale.build^
 ||sakura.build^
 ||salud.build^
-||scroll.build^
 ||sebring.build^
+||shortcut.build^
 ||sibley.build^
 ||skeet.build^
 ||skele.build^
 ||snowball.build^
 ||sonny.build^
 ||sourceit.build^
-||stash.build^
 ||stx.build^
 ||superdev.build^
 ||sv388.build^
 ||symmetry.build^
-||syntharo.build^
 ||synthora.build^
 ||synthose.build^
 ||terralon.build^
@@ -147,4 +141,5 @@
 ||vvlife.build^
 ||warframe.build^
 ||westeros.build^
+||woodisgood.build^
 ||xocdia88.build^
