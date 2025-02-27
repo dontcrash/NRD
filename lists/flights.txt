@@ -1,7 +1,7 @@
 ||agile.flights^
-||airtickets.flights^
 ||asi.flights^
 ||beaver.flights^
+||between.flights^
 ||bucharestairporttransfer.flights^
 ||dpe.flights^
 ||dronewatch.flights^
@@ -9,6 +9,7 @@
 ||economic.flights^
 ||epik.flights^
 ||flighto.flights^
+||flightpass.flights^
 ||flx.flights^
 ||h2breeze.flights^
 ||helicopter.flights^
@@ -16,9 +17,9 @@
 ||punk.flights^
 ||ray.flights^
 ||rex.flights^
-||soldout.flights^
 ||spaces.flights^
 ||taa.flights^
+||theseus.flights^
 ||train.flights^
 ||uptofun.flights^
 ||voos.flights^

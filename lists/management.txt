@@ -9,7 +9,6 @@
 ||amazonians.management^
 ||article.management^
 ||ascensus.management^
-||athena.management^
 ||auctus.management^
 ||aura.management^
 ||beratungfuerimmobilien.management^
@@ -18,7 +17,6 @@
 ||branding.management^
 ||brave.management^
 ||breeze-api-1.management^
-||brics.management^
 ||build.management^
 ||cclaudio.management^
 ||champconsulting.management^
@@ -26,15 +24,14 @@
 ||chronify.management^
 ||clever.management^
 ||control.management^
-||craven.management^
 ||creasub.management^
-||crescentmoon.management^
 ||cryptocurrency.management^
 ||cs.management^
 ||culture.management^
 ||daily.management^
 ||dash.management^
 ||databackup.management^
+||decisions.management^
 ||deep.management^
 ||deepseek.management^
 ||defai.management^
@@ -57,13 +54,13 @@
 ||genesis.management^
 ||giga.management^
 ||goldenvortex.management^
-||gp.management^
 ||gpts.management^
 ||grace.management^
 ||greenenergy.management^
 ||haider.management^
 ||heart.management^
 ||honest.management^
+||horeca.management^
 ||horizonmedia.management^
 ||hpa.management^
 ||hss.management^
@@ -77,7 +74,6 @@
 ||king.management^
 ||labor.management^
 ||lakeview.management^
-||landlordproperty.management^
 ||lvls.management^
 ||magseisfairfield.management^
 ||marine.management^
@@ -151,6 +147,7 @@
 ||vv-rea.management^
 ||welcome.management^
 ||wildfire.management^
+||wizard.management^
 ||worldwide.management^
 ||yourgiftcardbalance.management^
 ||zahnarzt.management^

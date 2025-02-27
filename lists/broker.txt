@@ -1,3 +1,4 @@
+||23win.broker^
 ||808.broker^
 ||accelerator.broker^
 ||account.broker^
@@ -10,7 +11,6 @@
 ||aircraftshipping.broker^
 ||airfreight.broker^
 ||alor.broker^
-||america.broker^
 ||apartments.broker^
 ||atv.broker^
 ||atvshipping.broker^
@@ -20,7 +20,6 @@
 ||autoshipping.broker^
 ||backlinks.broker^
 ||bestyacht.broker^
-||billing.broker^
 ||binarium.broker^
 ||bishkek.broker^
 ||boatshipping.broker^
@@ -28,7 +27,6 @@
 ||bus.broker^
 ||busshipping.broker^
 ||cani.broker^
-||cert.broker^
 ||chatgpt.broker^
 ||citiwide.broker^
 ||climate.broker^
@@ -48,11 +46,9 @@
 ||foulderfraud.broker^
 ||freightshipping.broker^
 ||futr.broker^
-||gain.broker^
 ||golfcart.broker^
 ||golfcartshipping.broker^
 ||greensboromortgage.broker^
-||haj.broker^
 ||heart.broker^
 ||hedged.broker^
 ||housing.broker^
@@ -63,7 +59,6 @@
 ||iris.broker^
 ||jetski.broker^
 ||jetskishipping.broker^
-||kmu.broker^
 ||league.broker^
 ||lol.broker^
 ||loveliveseattle.broker^
@@ -80,7 +75,6 @@
 ||nasdaq.broker^
 ||newyorkskydive.broker^
 ||nirvana.broker^
-||notion.broker^
 ||number1.broker^
 ||paradox.broker^
 ||perth.broker^
@@ -88,12 +82,12 @@
 ||placeholder.broker^
 ||planet.broker^
 ||powersports.broker^
-||privacy.broker^
 ||properties.broker^
 ||quant.broker^
 ||realproperty.broker^
 ||rvshipping.broker^
 ||samortgage.broker^
+||sft.broker^
 ||sgt.broker^
 ||shop.broker^
 ||simple.broker^
@@ -101,9 +95,11 @@
 ||site.broker^
 ||snowmobile.broker^
 ||snowmobileshipping.broker^
+||software.broker^
 ||solarenergy.broker^
 ||stellarmls.broker^
 ||stx.broker^
+||sun.broker^
 ||tdx.broker^
 ||teniptv.broker^
 ||togel.broker^
@@ -112,7 +108,6 @@
 ||tractorshipping.broker^
 ||truckshipping.broker^
 ||ufabet168.broker^
-||vip79.broker^
 ||watercraft.broker^
 ||watercraftshipping.broker^
 ||web4.broker^

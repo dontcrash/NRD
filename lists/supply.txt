@@ -4,7 +4,6 @@
 ||activis.supply^
 ||agent.supply^
 ||aiagent.supply^
-||alarm.supply^
 ||allmedia.supply^
 ||amazonians.supply^
 ||amparopharma.supply^
@@ -15,7 +14,6 @@
 ||blackmaf.supply^
 ||blau.supply^
 ||bodegaproduce.supply^
-||bool.supply^
 ||bots.supply^
 ||bredco.supply^
 ||broadcast.supply^
@@ -26,7 +24,6 @@
 ||camber.supply^
 ||card.supply^
 ||championship.supply^
-||chimera-swarm.supply^
 ||cl-2.supply^
 ||cleverific.supply^
 ||compassandcloth.supply^
@@ -64,7 +61,6 @@
 ||health-avenue.supply^
 ||i4.supply^
 ||inference.supply^
-||interactivelighting.supply^
 ||ironshine.supply^
 ||jews.supply^
 ||jpg.supply^
@@ -83,7 +79,6 @@
 ||lurnable.supply^
 ||macs.supply^
 ||madirra.supply^
-||manta.supply^
 ||mirage.supply^
 ||moonfame.supply^
 ||mori.supply^
@@ -91,7 +86,6 @@
 ||mtp.supply^
 ||naivete.supply^
 ||nineandthree.supply^
-||northsky.supply^
 ||noubu.supply^
 ||npm.supply^
 ||nuworld.supply^
@@ -100,7 +94,6 @@
 ||obscure.supply^
 ||offgrid.supply^
 ||offmarket.supply^
-||ok365.supply^
 ||osint.supply^
 ||otif.supply^
 ||outline.supply^
@@ -118,15 +111,14 @@
 ||restock.supply^
 ||revolut.supply^
 ||rise.supply^
+||schema.supply^
 ||seabird.supply^
 ||sealed.supply^
 ||shots.supply^
 ||shrimps.supply^
-||silvercity.supply^
 ||slides.supply^
 ||sneaker.supply^
 ||softcactus.supply^
-||specimen.supply^
 ||spooklly.supply^
 ||sprayfoaminsulationcarolina.supply^
 ||sqsp.supply^
@@ -144,11 +136,10 @@
 ||unlimited.supply^
 ||unnmd.supply^
 ||upturn.supply^
-||vision3.supply^
 ||volt.supply^
 ||vz99.supply^
+||wallawa.supply^
 ||wanderlust.supply^
-||wavestar.supply^
 ||welcomehome.supply^
 ||whipstaff.supply^
 ||writing.supply^

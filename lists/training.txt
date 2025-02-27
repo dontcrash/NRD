@@ -5,7 +5,6 @@
 ||aai.training^
 ||admiral.training^
 ||adultcare.training^
-||ahava.training^
 ||aibasic.training^
 ||aigenerator.training^
 ||algo.training^
@@ -15,8 +14,11 @@
 ||anticorruption.training^
 ||antidoping.training^
 ||apl.training^
+||archviz.training^
 ||arete.training^
 ||athencia.training^
+||athlenic.training^
+||atlas.training^
 ||autonomous.training^
 ||autosys.training^
 ||avensis.training^
@@ -45,7 +47,7 @@
 ||domains.training^
 ||dominate.training^
 ||dsy-logistics.training^
-||ebbainvuca.training^
+||easapilot.training^
 ||edb.training^
 ||elcgroupclinics.training^
 ||elevatepeople.training^
@@ -60,6 +62,7 @@
 ||fsse.training^
 ||garage.training^
 ||gdpr.training^
+||gear.training^
 ||geniusbot.training^
 ||glaucoom.training^
 ||gluecksdrache.training^
@@ -83,7 +86,6 @@
 ||issenguard.training^
 ||jill-knecht.training^
 ||jphockeylessons.training^
-||jvat.training^
 ||keeper.training^
 ||kikompetenz.training^
 ||king.training^
@@ -139,7 +141,6 @@
 ||protofit.training^
 ||prse.training^
 ||pwc.training^
-||qed.training^
 ||quanta.training^
 ||raven.training^
 ||refolio.training^
@@ -149,11 +150,12 @@
 ||satya.training^
 ||scaffold.training^
 ||serendipity.training^
+||shapeshiftershealth.training^
 ||shred-ed.training^
 ||signal.training^
-||slow.training^
 ||smartai.training^
 ||sold.training^
+||solemn.training^
 ||somatictraumacoach.training^
 ||spactor.training^
 ||spark.training^
@@ -164,12 +166,10 @@
 ||theleader.training^
 ||themanager.training^
 ||thepulse.training^
-||theschoolofsparta.training^
 ||thevirtualgastricband.training^
 ||thirdspace.training^
 ||thoughtify.training^
 ||thrivemind.training^
-||timemanagement.training^
 ||titan.training^
 ||togel.training^
 ||topdog.training^

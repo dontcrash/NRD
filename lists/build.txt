@@ -12,9 +12,10 @@
 ||altadena.build^
 ||amrconstruction.build^
 ||anarchy.build^
+||aonyx.build^
+||approved.build^
 ||archange.build^
 ||asi.build^
-||astronomy.build^
 ||babel.build^
 ||betterwood.build^
 ||blobs.build^
@@ -22,13 +23,13 @@
 ||bridgefree.build^
 ||bts.build^
 ||carbonbeton.build^
-||cdmhardware.build^
 ||centralflorida.build^
 ||chatbots.build^
 ||clip.build^
 ||coai.build^
 ||cognera.build^
 ||connects.build^
+||convert.build^
 ||craftsmandesign.build^
 ||customai.build^
 ||davidclark.build^
@@ -65,7 +66,7 @@
 ||kraemer.build^
 ||lab310.build^
 ||lakecreekhomes.build^
-||landmark.build^
+||laval.build^
 ||lavanya.build^
 ||likeforlike.build^
 ||lineaeth.build^
@@ -82,6 +83,7 @@
 ||neuraforge.build^
 ||new-linea.build^
 ||nightfall.build^
+||nino.build^
 ||nodeflow.build^
 ||nohu90.build^
 ||nouveau.build^
@@ -100,7 +102,6 @@
 ||ppl.build^
 ||prefactor.build^
 ||pyrrha.build^
-||radia.build^
 ||reg-linea.build^
 ||reis.build^
 ||relic.build^
@@ -118,6 +119,7 @@
 ||snowball.build^
 ||sonny.build^
 ||sourceit.build^
+||strife.build^
 ||stx.build^
 ||superdev.build^
 ||sv388.build^
@@ -135,11 +137,10 @@
 ||valet.build^
 ||ventureai.build^
 ||viivace.build^
-||vipcommunity.build^
 ||visible.build^
 ||visit-linea.build^
 ||vvlife.build^
-||warframe.build^
 ||westeros.build^
+||whatif.build^
 ||woodisgood.build^
 ||xocdia88.build^

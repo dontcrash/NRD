@@ -1,7 +1,5 @@
 ||10.delivery^
-||8day.delivery^
 ||99.delivery^
-||acuity.delivery^
 ||agentics.delivery^
 ||aiagent.delivery^
 ||aircraft.delivery^
@@ -13,6 +11,7 @@
 ||appp.delivery^
 ||artel.delivery^
 ||asl.delivery^
+||attorneyleads.delivery^
 ||azer.delivery^
 ||bad.delivery^
 ||baked.delivery^
@@ -27,9 +26,11 @@
 ||btech.delivery^
 ||bundle-like.delivery^
 ||bunker.delivery^
+||buycycle.delivery^
 ||buyer.delivery^
 ||cab.delivery^
 ||cambridgeweed.delivery^
+||caseleads.delivery^
 ||cb.delivery^
 ||cm.delivery^
 ||comoencasa.delivery^
@@ -43,11 +44,10 @@
 ||daytime.delivery^
 ||deadline.delivery^
 ||deepseek.delivery^
-||delinow.delivery^
+||delix.delivery^
 ||deluxe.delivery^
 ||diamond.delivery^
 ||dimsum.delivery^
-||dn.delivery^
 ||dogmom.delivery^
 ||dolphin.delivery^
 ||dui.delivery^
@@ -73,6 +73,7 @@
 ||friends.delivery^
 ||funcionando.delivery^
 ||fyi.delivery^
+||glasswater.delivery^
 ||goexpress.delivery^
 ||grab-sg.delivery^
 ||gras.delivery^
@@ -88,7 +89,6 @@
 ||indus.delivery^
 ||intact.delivery^
 ||integration.delivery^
-||ippo.delivery^
 ||isp.delivery^
 ||jarsandco.delivery^
 ||job.delivery^
@@ -154,13 +154,11 @@
 ||self.delivery^
 ||service-id.delivery^
 ||shoupa.delivery^
-||sign.delivery^
 ||skynet-my.delivery^
 ||st666.delivery^
 ||starlink.delivery^
 ||startup.delivery^
 ||stoneface.delivery^
-||streamlined.delivery^
 ||stx.delivery^
 ||subway.delivery^
 ||supergraph.delivery^
@@ -185,7 +183,6 @@
 ||vanshippingquotes.delivery^
 ||veg.delivery^
 ||vinted.delivery^
-||vip79.delivery^
 ||vision.delivery^
 ||wego.delivery^
 ||wildberries.delivery^
@@ -193,7 +190,6 @@
 ||workshopnearme.delivery^
 ||xico.delivery^
 ||xoox.delivery^
-||yanis.delivery^
 ||your-orderups.delivery^
 ||yuzu.delivery^
 ||zein.delivery^
