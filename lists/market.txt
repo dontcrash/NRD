@@ -49,6 +49,7 @@
 ||bsb.market^
 ||btc2usd.market^
 ||btcprice.market^
+||bullseye.market^
 ||buysell.market^
 ||byd.market^
 ||cabstand.market^
@@ -58,6 +59,7 @@
 ||circular.market^
 ||clau.market^
 ||clearvision.market^
+||clutch-docs.market^
 ||clutch.market^
 ||cn1121.market^
 ||coincap.market^
@@ -75,6 +77,8 @@
 ||cryptoradar.market^
 ||csmoney.market^
 ||cunluo.market^
+||cyberpunk.market^
+||cybersec.market^
 ||datascience.market^
 ||datp.market^
 ||daybkk.market^
@@ -94,6 +98,7 @@
 ||earthing.market^
 ||elnaranjero.market^
 ||energytech.market^
+||esperanto.market^
 ||eternity.market^
 ||ethiopian.market^
 ||expresso.market^
@@ -143,6 +148,7 @@
 ||insport.market^
 ||internetcapital.market^
 ||into.market^
+||ipay.market^
 ||irani.market^
 ||jump.market^
 ||jup.market^
@@ -154,6 +160,7 @@
 ||kitchen.market^
 ||kontur.market^
 ||kupe.market^
+||kurima.market^
 ||labs.market^
 ||lbc.market^
 ||library.market^
@@ -162,6 +169,7 @@
 ||lts.market^
 ||luxurycars.market^
 ||madi.market^
+||magenta.market^
 ||magik.market^
 ||mahalla.market^
 ||mainst.market^
@@ -182,6 +190,7 @@
 ||monke.market^
 ||moscar.market^
 ||mtglahorda.market^
+||mudita.market^
 ||music.market^
 ||nextrip.market^
 ||nightbkk.market^
@@ -192,11 +201,15 @@
 ||omnichannel.market^
 ||onemore.market^
 ||osago.market^
+||pallet.market^
+||panacea.market^
 ||parma.market^
+||pati.market^
 ||payfi.market^
 ||pkv.market^
 ||players.market^
 ||plents.market^
+||pollen.market^
 ||polybot.market^
 ||pr.market^
 ||predict.market^
@@ -211,6 +224,7 @@
 ||reliable.market^
 ||rentingsolar.market^
 ||resale.market^
+||retailcrm.market^
 ||rkr.market^
 ||root.market^
 ||roslot.market^
@@ -230,6 +244,7 @@
 ||starax.market^
 ||start.market^
 ||static.market^
+||stilwerk.market^
 ||subs.market^
 ||superfinds.market^
 ||superpower.market^
@@ -242,6 +257,7 @@
 ||thechurch.market^
 ||thedex.market^
 ||thesweeteries.market^
+||touchless.market^
 ||tower852.market^
 ||tr-fxprogroup.market^
 ||tradie.market^
@@ -252,6 +268,7 @@
 ||troika.market^
 ||trumpofficial.market^
 ||tui.market^
+||tulip.market^
 ||turtle.market^
 ||upak.market^
 ||uu.market^

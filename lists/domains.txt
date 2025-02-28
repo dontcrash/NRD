@@ -8,6 +8,8 @@
 ||attention.domains^
 ||aus.domains^
 ||authenticity.domains^
+||b2.domains^
+||b2ns.domains^
 ||blankspace.domains^
 ||blastid.domains^
 ||bluecheck.domains^
@@ -38,6 +40,7 @@
 ||grace.domains^
 ||grok.domains^
 ||hero.domains^
+||highest.domains^
 ||hln.domains^
 ||hostmedia.domains^
 ||hubet.domains^
@@ -55,6 +58,7 @@
 ||lu88.domains^
 ||mega.domains^
 ||megagroup.domains^
+||membership-ens.domains^
 ||merit.domains^
 ||mjt.domains^
 ||myx.domains^
@@ -90,8 +94,10 @@
 ||search-engine.domains^
 ||seoagency.domains^
 ||server-mail-ens.domains^
+||sheep.domains^
 ||simply.domains^
 ||stx.domains^
+||subscriptions-ens.domains^
 ||superpower.domains^
 ||tg.domains^
 ||thebest.domains^
