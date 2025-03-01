@@ -47,6 +47,7 @@
 ||dune.financial^
 ||dymension.financial^
 ||dynamic.financial^
+||egb.financial^
 ||electro-send.financial^
 ||electro.financial^
 ||electrosend.financial^
@@ -62,7 +63,9 @@
 ||finance.financial^
 ||financialunderground.financial^
 ||finwest.financial^
+||flex.financial^
 ||forge.financial^
+||fpgroup.financial^
 ||fusion.financial^
 ||genstone.financial^
 ||gmd.financial^
@@ -95,6 +98,7 @@
 ||kucoin.financial^
 ||lassy.financial^
 ||lifemap.financial^
+||loanshark.financial^
 ||lukebaker.financial^
 ||lynq.financial^
 ||m-o.financial^
@@ -133,6 +137,7 @@
 ||puffer.financial^
 ||rampartrei.financial^
 ||reirampart.financial^
+||revinate.financial^
 ||revive.financial^
 ||rey.financial^
 ||ricerich.financial^
@@ -146,6 +151,7 @@
 ||satoshinakamoto.financial^
 ||saudiexim.financial^
 ||sava.financial^
+||sbtc.financial^
 ||scroll.financial^
 ||shadow.financial^
 ||shift.financial^
@@ -156,6 +162,7 @@
 ||sophon.financial^
 ||spectra.financial^
 ||startup.financial^
+||stonecrest.financial^
 ||stx.financial^
 ||supra.financial^
 ||syncus.financial^
@@ -164,6 +171,7 @@
 ||taxgpt.financial^
 ||therearmamentbank.financial^
 ||tony.financial^
+||too.financial^
 ||tr-fxprogroup.financial^
 ||trader.financial^
 ||trust-wallet.financial^

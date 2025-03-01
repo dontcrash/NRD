@@ -19,9 +19,11 @@
 ||asi.build^
 ||babel.build^
 ||betterwood.build^
+||blackironconstruction.build^
 ||blobs.build^
 ||bribar.build^
 ||bridgefree.build^
+||britannia.build^
 ||bts.build^
 ||carbonbeton.build^
 ||centralflorida.build^
@@ -50,6 +52,7 @@
 ||fuel.build^
 ||galactic.build^
 ||garrett.build^
+||gatsby.build^
 ||gen4.build^
 ||genesishomeworks.build^
 ||genova.build^
@@ -131,6 +134,7 @@
 ||terralon.build^
 ||thb.build^
 ||tiktok.build^
+||touchless.build^
 ||transformer.build^
 ||transformers.build^
 ||triplee.build^
@@ -140,6 +144,7 @@
 ||uptime.build^
 ||valet.build^
 ||ventureai.build^
+||vibe.build^
 ||viivace.build^
 ||visible.build^
 ||visit-linea.build^
