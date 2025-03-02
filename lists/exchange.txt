@@ -5,6 +5,7 @@
 ||aban.exchange^
 ||aedc.exchange^
 ||afghanistancarbon.exchange^
+||africacarbon.exchange^
 ||ag-instant.exchange^
 ||agrocrypto.exchange^
 ||ai3.exchange^
@@ -36,7 +37,6 @@
 ||automate.exchange^
 ||avenir.exchange^
 ||awesome.exchange^
-||axial.exchange^
 ||axigroup.exchange^
 ||azerbaijancarbon.exchange^
 ||b-i-t-c-o-i-n.exchange^
@@ -50,7 +50,6 @@
 ||bartr.exchange^
 ||bask.exchange^
 ||bckpay.exchange^
-||bebu.exchange^
 ||berachain.exchange^
 ||bhutancarbon.exchange^
 ||bilion.exchange^
@@ -62,7 +61,6 @@
 ||bitnex.exchange^
 ||bitpharaoh.exchange^
 ||bitra.exchange^
-||bitshift.exchange^
 ||bitsurge.exchange^
 ||bizum.exchange^
 ||blocks.exchange^
@@ -76,6 +74,7 @@
 ||bruneicarbon.exchange^
 ||btmx.exchange^
 ||bubgee.exchange^
+||bubleswap.exchange^
 ||buildsmart.exchange^
 ||buildyourdream.exchange^
 ||bulk.exchange^
@@ -117,10 +116,12 @@
 ||cocaine.exchange^
 ||coders.exchange^
 ||coin-bit.exchange^
+||coinbasecard.exchange^
 ||coinbee.exchange^
 ||coinceal.exchange^
 ||coinup.exchange^
 ||coinvault.exchange^
+||collateral.exchange^
 ||comfort.exchange^
 ||commoditiescoins.exchange^
 ||conceal.exchange^
@@ -148,7 +149,6 @@
 ||dazed.exchange^
 ||debridge.exchange^
 ||deepchain.exchange^
-||deepseek.exchange^
 ||deepspace.exchange^
 ||define.exchange^
 ||defo.exchange^
@@ -185,6 +185,7 @@
 ||exchange1.exchange^
 ||exeos.exchange^
 ||expertcrew.exchange^
+||failure.exchange^
 ||fair.exchange^
 ||fancy.exchange^
 ||fastexytech.exchange^
@@ -192,7 +193,6 @@
 ||fermion.exchange^
 ||finn.exchange^
 ||finso.exchange^
-||fintex.exchange^
 ||five.exchange^
 ||fma.exchange^
 ||foc.exchange^
@@ -217,6 +217,7 @@
 ||globalasset.exchange^
 ||globalmarket.exchange^
 ||gmjp.exchange^
+||goc.exchange^
 ||goodman.exchange^
 ||gratitude.exchange^
 ||grizzly.exchange^
@@ -226,7 +227,6 @@
 ||hanzo.exchange^
 ||hape.exchange^
 ||hero.exchange^
-||hmo.exchange^
 ||hongkongcarbon.exchange^
 ||hubet.exchange^
 ||hurry.exchange^
@@ -249,7 +249,6 @@
 ||israelcarbon.exchange^
 ||izat.exchange^
 ||japancarbon.exchange^
-||jiocoin.exchange^
 ||jiumper.exchange^
 ||jmw.exchange^
 ||jordancarbon.exchange^
@@ -258,6 +257,7 @@
 ||keys.exchange^
 ||kingdomimpact.exchange^
 ||knowledges.exchange^
+||koinly.exchange^
 ||koins.exchange^
 ||kr2.exchange^
 ||krcscan.exchange^
@@ -268,15 +268,16 @@
 ||kuwaitcarbon.exchange^
 ||kylebarker.exchange^
 ||kyrgyzstancarbon.exchange^
+||la.exchange^
 ||ladder.exchange^
 ||lagoda.exchange^
 ||laoscarbon.exchange^
 ||latino.exchange^
-||layeredge.exchange^
 ||lbry.exchange^
 ||lebanoncarbon.exchange^
 ||legendary.exchange^
 ||legolas.exchange^
+||lehenga.exchange^
 ||lemx.exchange^
 ||libertyx.exchange^
 ||liquidchain.exchange^
@@ -284,19 +285,22 @@
 ||loyal.exchange^
 ||lwex.exchange^
 ||lynq.exchange^
+||madeira.exchange^
 ||malaysiacarbon.exchange^
 ||maldivescarbon.exchange^
 ||mantix.exchange^
+||mems.exchange^
 ||mena.exchange^
 ||metro.exchange^
+||michael.exchange^
 ||middleeast.exchange^
 ||minipay.exchange^
-||mintrax.exchange^
 ||ml.exchange^
 ||mm.exchange^
 ||moashai.exchange^
 ||mobilepay.exchange^
 ||mojo.exchange^
+||monda.exchange^
 ||moneytrain.exchange^
 ||mongoliacarbon.exchange^
 ||monies.exchange^
@@ -329,10 +333,10 @@
 ||nse.exchange^
 ||nurse.exchange^
 ||obsidium.exchange^
-||offswap.exchange^
 ||omancarbon.exchange^
 ||ondo.exchange^
 ||onering.exchange^
+||onex.exchange^
 ||onlinedocuments.exchange^
 ||ontario.exchange^
 ||opendata.exchange^
@@ -350,6 +354,7 @@
 ||panafex.exchange^
 ||panafricax.exchange^
 ||panam.exchange^
+||panorama.exchange^
 ||paper.exchange^
 ||parsa.exchange^
 ||paypeople.exchange^
@@ -422,6 +427,7 @@
 ||samex.exchange^
 ||saudiarabiacarbon.exchange^
 ||sber.exchange^
+||sbtc.exchange^
 ||scale.exchange^
 ||scrow.exchange^
 ||secureprop.exchange^
@@ -442,6 +448,7 @@
 ||soul.exchange^
 ||southkoreacarbon.exchange^
 ||specs.exchange^
+||specter.exchange^
 ||splosh.exchange^
 ||spox.exchange^
 ||sprite.exchange^
@@ -449,7 +456,6 @@
 ||srilankacarbon.exchange^
 ||starstock.exchange^
 ||statx.exchange^
-||sumit.exchange^
 ||sunswap.exchange^
 ||superintelligence.exchange^
 ||supersonic.exchange^
@@ -457,7 +463,6 @@
 ||swap-jup.exchange^
 ||swapit.exchange^
 ||swapscenter.exchange^
-||sweat.exchange^
 ||sweetfesta.exchange^
 ||swirl.exchange^
 ||swish.exchange^
@@ -470,7 +475,6 @@
 ||tas.exchange^
 ||tcgpocket.exchange^
 ||techno.exchange^
-||testnet.exchange^
 ||thailandcarbon.exchange^
 ||theagi.exchange^
 ||theatascocita.exchange^
@@ -490,7 +494,6 @@
 ||tokensale.exchange^
 ||tokenstocks.exchange^
 ||tradeedgetech.exchange^
-||trident.exchange^
 ||trumpcoinairdrop.exchange^
 ||ttp.exchange^
 ||turkeycarbon.exchange^
@@ -510,9 +513,6 @@
 ||vristo.exchange^
 ||walkball.exchange^
 ||walrus.exchange^
-||watauga.exchange^
-||wholesalebuyers.exchange^
-||wibes.exchange^
 ||wilson-global.exchange^
 ||wio.exchange^
 ||wisp.exchange^

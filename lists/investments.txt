@@ -51,7 +51,6 @@
 ||debt.investments^
 ||decker.investments^
 ||deep.investments^
-||deepseek.investments^
 ||delta.investments^
 ||design.investments^
 ||elkridge.investments^
@@ -83,8 +82,6 @@
 ||jge.investments^
 ||jna.investments^
 ||khenterprises.investments^
-||kiefer.investments^
-||kp.investments^
 ||lead.investments^
 ||magma.investments^
 ||mana.investments^
@@ -105,7 +102,6 @@
 ||nucleus.investments^
 ||olive.investments^
 ||oracul.investments^
-||orbital.investments^
 ||orozencapital.investments^
 ||pacificsummit.investments^
 ||park.investments^
@@ -164,4 +160,3 @@
 ||whitecap.investments^
 ||wolf.investments^
 ||worldlife.investments^
-||zombie.investments^
