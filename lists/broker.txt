@@ -2,7 +2,6 @@
 ||808.broker^
 ||accelerator.broker^
 ||account.broker^
-||adelaide.broker^
 ||africa.broker^
 ||agentally.broker^
 ||ai4.broker^
@@ -13,7 +12,6 @@
 ||apartments.broker^
 ||atv.broker^
 ||atvshipping.broker^
-||aussie.broker^
 ||austin.broker^
 ||automobileshipping.broker^
 ||autoshipping.broker^
@@ -24,15 +22,14 @@
 ||bishkek.broker^
 ||boatshipping.broker^
 ||brands.broker^
-||brisbane.broker^
 ||bus.broker^
 ||busshipping.broker^
 ||chatgpt.broker^
 ||citiwide.broker^
 ||code.broker^
 ||comms.broker^
+||condo.broker^
 ||deep.broker^
-||deepseek.broker^
 ||deso.broker^
 ||dubairealestate.broker^
 ||ecom.broker^
@@ -40,11 +37,7 @@
 ||equipmentshipping.broker^
 ||estably.broker^
 ||ethos.broker^
-||findmortgage.broker^
-||findmtg.broker^
-||foulderfraud.broker^
 ||freightshipping.broker^
-||futr.broker^
 ||golfcart.broker^
 ||golfcartshipping.broker^
 ||greensboromortgage.broker^
@@ -59,10 +52,11 @@
 ||jetski.broker^
 ||jetskishipping.broker^
 ||league.broker^
+||lien.broker^
 ||lol.broker^
 ||loveliveseattle.broker^
 ||mb2.broker^
-||melbourne.broker^
+||meridian.broker^
 ||mfd.broker^
 ||micropharma.broker^
 ||miradmin.broker^
@@ -76,7 +70,6 @@
 ||nirvana.broker^
 ||number1.broker^
 ||paradox.broker^
-||perth.broker^
 ||pg88.broker^
 ||placeholder.broker^
 ||planet.broker^
@@ -113,8 +106,8 @@
 ||ufabet168.broker^
 ||watercraft.broker^
 ||watercraftshipping.broker^
+||weapon.broker^
 ||web4.broker^
 ||win55.broker^
 ||yachtshipping.broker^
-||yourmortgage.broker^
 ||zenspace.broker^
