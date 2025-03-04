@@ -5,6 +5,7 @@
 ||adoreu.cards^
 ||advice.cards^
 ||affordable.cards^
+||airshed.cards^
 ||ameri.cards^
 ||americaexpress.cards^
 ||americanfuel.cards^
@@ -30,7 +31,6 @@
 ||briansclub.cards^
 ||bright.cards^
 ||britishfuel.cards^
-||btbistro.cards^
 ||bts.cards^
 ||buytcg.cards^
 ||bybit.cards^
@@ -41,7 +41,6 @@
 ||cardstop.cards^
 ||casters.cards^
 ||cbl.cards^
-||chaotic.cards^
 ||charging.cards^
 ||chatto.cards^
 ||checker.cards^
@@ -51,11 +50,13 @@
 ||cobura.cards^
 ||cobyra.cards^
 ||coinbase.cards^
+||connectic.cards^
 ||contato.cards^
 ||cribbage.cards^
 ||cryptid.cards^
 ||crypto-debit.cards^
 ||cryptopay.cards^
+||cube6.cards^
 ||cw.cards^
 ||czechfuel.cards^
 ||davat.cards^
@@ -68,6 +69,7 @@
 ||delta.cards^
 ||dex.cards^
 ||didit.cards^
+||difdef.cards^
 ||digital.cards^
 ||digitals.cards^
 ||dirtytalk.cards^
@@ -157,10 +159,12 @@
 ||mintme.cards^
 ||monarch.cards^
 ||mova.cards^
+||msg.cards^
 ||mypoker.cards^
 ||myvisit.cards^
 ||namefi.cards^
 ||neuralinks-us.cards^
+||nonstop.cards^
 ||ogsports.cards^
 ||okx.cards^
 ||olivine.cards^
@@ -183,6 +187,7 @@
 ||popupalooza.cards^
 ||potion.cards^
 ||premier.cards^
+||pretty.cards^
 ||prince.cards^
 ||pvckey.cards^
 ||pvp.cards^
@@ -210,6 +215,7 @@
 ||seo.cards^
 ||seventhunders.cards^
 ||sexchat.cards^
+||shipit.cards^
 ||shoe.cards^
 ||shoptcg.cards^
 ||showcasegreetings.cards^
@@ -220,6 +226,7 @@
 ||smartai.cards^
 ||smartreach.cards^
 ||soldi.cards^
+||sora.cards^
 ||spanishfuel.cards^
 ||sportsmix.cards^
 ||sprytna.cards^
@@ -247,6 +254,7 @@
 ||ukr.cards^
 ||unalanapay.cards^
 ||uncutmaza.cards^
+||unify.cards^
 ||usagold.cards^
 ||usgold.cards^
 ||vcc.cards^
@@ -255,12 +263,9 @@
 ||vice.cards^
 ||victorysports.cards^
 ||virtuals.cards^
-||volti.cards^
-||voltinu.cards^
 ||wecard.cards^
 ||welsh.cards^
 ||which-credit.cards^
-||witching.cards^
 ||worldsbest.cards^
 ||yack.cards^
 ||yk.cards^

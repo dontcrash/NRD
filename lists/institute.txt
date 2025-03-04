@@ -1,10 +1,10 @@
 ||0rg.institute^
 ||aboriginal.institute^
+||about.institute^
 ||acre.institute^
 ||adherence.institute^
 ||advance.institute^
 ||adventure.institute^
-||aerdna.institute^
 ||aetheria.institute^
 ||agyacademy.institute^
 ||ai-irb.institute^
@@ -18,9 +18,7 @@
 ||aljoud.institute^
 ||alkaasib.institute^
 ||altarum.institute^
-||amabo.institute^
 ||amazonians.institute^
-||americansavingsinstitute.institute^
 ||analog.institute^
 ||angel.institute^
 ||arachne.institute^
@@ -45,6 +43,7 @@
 ||billstatus.institute^
 ||blackcat.institute^
 ||blacksky.institute^
+||brainhealth.institute^
 ||bridge.institute^
 ||bsky.institute^
 ||build.institute^
@@ -55,7 +54,6 @@
 ||careercompass.institute^
 ||castle.institute^
 ||cbd.institute^
-||cfx.institute^
 ||changescience.institute^
 ||coachborello.institute^
 ||codeword.institute^
@@ -85,7 +83,6 @@
 ||do.institute^
 ||dobson.institute^
 ||dozendojo.institute^
-||drbarlowuniversity.institute^
 ||drip.institute^
 ||dsai.institute^
 ||duyuf.institute^
@@ -95,7 +92,7 @@
 ||educade.institute^
 ||educaid.institute^
 ||educo.institute^
-||ejaz.institute^
+||elearn.institute^
 ||electro.institute^
 ||empireacademy.institute^
 ||enrichment.institute^
@@ -104,9 +101,11 @@
 ||etherlaken.institute^
 ||europeanai.institute^
 ||ev.institute^
+||factory.institute^
 ||failure.institute^
 ||fedi.institute^
 ||fentonmassagetherapy.institute^
+||fieldguide.institute^
 ||fist.institute^
 ||fite.institute^
 ||floridaketamine.institute^
@@ -114,7 +113,6 @@
 ||foresight.institute^
 ||fractional.institute^
 ||futurai.institute^
-||futuremind.institute^
 ||futuria.institute^
 ||gapmanagement.institute^
 ||gbs.institute^
@@ -139,8 +137,10 @@
 ||hir.institute^
 ||housekeeping.institute^
 ||humane.institute^
+||humanelingo.institute^
 ||humanrisk.institute^
 ||humint.institute^
+||hyperion.institute^
 ||ibi.institute^
 ||icc-international.institute^
 ||identitymanagment.institute^
@@ -148,6 +148,7 @@
 ||ime.institute^
 ||instant.institute^
 ||instituteofhumantruths.institute^
+||integralingo.institute^
 ||integrative.institute^
 ||intelligent.institute^
 ||investor.institute^
@@ -158,11 +159,12 @@
 ||ispig.institute^
 ||jamesdobson.institute^
 ||jayabraham.institute^
+||jconsult.institute^
 ||jelqnado.institute^
 ||jvcr.institute^
+||knox.institute^
 ||ktr.institute^
 ||lamp.institute^
-||languageconnections.institute^
 ||launch.institute^
 ||lavabet168.institute^
 ||lawgic.institute^
@@ -178,7 +180,6 @@
 ||lowaltitudeeconomy.institute^
 ||lusi.institute^
 ||lutheran.institute^
-||macc.institute^
 ||machiavelli.institute^
 ||maker.institute^
 ||mala.institute^
@@ -187,12 +188,12 @@
 ||manvantara.institute^
 ||marijuana.institute^
 ||martinluther.institute^
+||mathcup.institute^
 ||mbs.institute^
 ||mcp.institute^
 ||merit.institute^
 ||metuzalem.institute^
 ||microgreens.institute^
-||mindart.institute^
 ||mindfulpublicsafety.institute^
 ||mindroom.institute^
 ||mlmv.institute^
@@ -212,12 +213,13 @@
 ||neuralconfusion.institute^
 ||newco.institute^
 ||nextai.institute^
+||nft.institute^
 ||nfts.institute^
-||nigga.institute^
 ||novacreek.institute^
 ||nudabet.institute^
 ||octad.institute^
 ||offline.institute^
+||omnilangue.institute^
 ||omnispace.institute^
 ||onevoicementoring.institute^
 ||opendoors.institute^
@@ -237,6 +239,7 @@
 ||portfolio.institute^
 ||positive.institute^
 ||preemption.institute^
+||prodigy.institute^
 ||productengineer.institute^
 ||prosportsleadership.institute^
 ||pump.institute^
@@ -245,7 +248,6 @@
 ||qiiq.institute^
 ||quant.institute^
 ||quantumleader.institute^
-||quranalone.institute^
 ||qwen.institute^
 ||ra.institute^
 ||radicalgenerosity.institute^
@@ -258,9 +260,12 @@
 ||revinate.institute^
 ||rils.institute^
 ||rina.institute^
+||rms.institute^
 ||royal.institute^
+||sale.institute^
 ||samayan.institute^
 ||sawi.institute^
+||scaledai.institute^
 ||schoolai.institute^
 ||schumpeter.institute^
 ||scienceofstrategy.institute^
@@ -277,6 +282,7 @@
 ||sexcoaching.institute^
 ||sexualintegrity.institute^
 ||ship.institute^
+||siberia.institute^
 ||sikhlegacy.institute^
 ||silicon.institute^
 ||sinco.institute^
@@ -285,6 +291,7 @@
 ||skillsup.institute^
 ||skkt.institute^
 ||skn.institute^
+||sleepsound.institute^
 ||slovakian.institute^
 ||slt.institute^
 ||smartglobal.institute^
@@ -313,7 +320,6 @@
 ||southeasternsportsandjointpreservation.institute^
 ||sovereigncompute.institute^
 ||spanglished.institute^
-||spiceinternational.institute^
 ||spik.institute^
 ||ssc.institute^
 ||sso.institute^
@@ -325,6 +331,7 @@
 ||superanalyst.institute^
 ||superhuman.institute^
 ||superquantum.institute^
+||support.institute^
 ||supportus.institute^
 ||supreme.institute^
 ||sustainablecities.institute^
@@ -338,9 +345,7 @@
 ||tater.institute^
 ||telosbound.institute^
 ||templeoflove.institute^
-||thc.institute^
 ||theaiedge.institute^
-||thefold.institute^
 ||theglobalinstituteforwellbeing.institute^
 ||theintegrative.institute^
 ||thenexus.institute^
@@ -364,11 +369,13 @@
 ||truthbot.institute^
 ||tsargrad.institute^
 ||tskok.institute^
+||ubic.institute^
 ||ucatolica.institute^
 ||uccdc.institute^
 ||ufabet168.institute^
 ||uk-ai-security.institute^
 ||ukubona.institute^
+||universalogy.institute^
 ||unlimited.institute^
 ||usaedu.institute^
 ||utopia.institute^
@@ -377,9 +384,7 @@
 ||violet.institute^
 ||virstone.institute^
 ||virtualreality.institute^
-||visioneers.institute^
 ||vocalarts.institute^
-||warfighter.institute^
 ||wealthy.institute^
 ||webrand.institute^
 ||weconcept.institute^
