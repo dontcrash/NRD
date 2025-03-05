@@ -1,4 +1,5 @@
 ||agen.voyage^
+||ai.voyage^
 ||aix-en-provence.voyage^
 ||albi.voyage^
 ||alencon.voyage^
@@ -25,7 +26,6 @@
 ||bogota.voyage^
 ||bratislava.voyage^
 ||brest.voyage^
-||bruges.voyage^
 ||bruxelles.voyage^
 ||btc.voyage^
 ||bucarest.voyage^
@@ -87,6 +87,13 @@
 ||nevers.voyage^
 ||newdelhi.voyage^
 ||nimes.voyage^
+||omg1.voyage^
+||omg2.voyage^
+||omg3.voyage^
+||omgg.voyage^
+||omgomg.voyage^
+||omgomgomg.voyage^
+||oomg.voyage^
 ||orleans.voyage^
 ||oslo.voyage^
 ||ottawa.voyage^
@@ -97,6 +104,7 @@
 ||prague.voyage^
 ||qorno.voyage^
 ||quimper.voyage^
+||reiki.voyage^
 ||reims.voyage^
 ||rennes.voyage^
 ||revinate.voyage^
@@ -127,11 +135,9 @@
 ||verve.voyage^
 ||vienne.voyage^
 ||vientiane.voyage^
-||ville.voyage^
 ||villeurbanne.voyage^
 ||vilnius.voyage^
 ||wellington.voyage^
-||weosi.voyage^
 ||worldcup.voyage^
 ||worldwide.voyage^
 ||worldwidetravel.voyage^

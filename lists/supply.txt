@@ -2,6 +2,7 @@
 ||9and3.supply^
 ||activesnet.supply^
 ||activis.supply^
+||advancedac.supply^
 ||agent.supply^
 ||aiagent.supply^
 ||allmedia.supply^
@@ -32,8 +33,6 @@
 ||dealergeneral.supply^
 ||desertshinedetailer.supply^
 ||dipyourride.supply^
-||docker.supply^
-||ego.supply^
 ||elvar.supply^
 ||email-usa-telecom.supply^
 ||empathy.supply^
@@ -57,12 +56,10 @@
 ||growthhacking.supply^
 ||gulfofamerica.supply^
 ||halal.supply^
-||haptic.supply^
 ||hdmovie2.supply^
 ||hdparts.supply^
 ||health-avenue.supply^
 ||inference.supply^
-||ironshine.supply^
 ||jews.supply^
 ||jpg.supply^
 ||junk.supply^
@@ -79,6 +76,7 @@
 ||lumon.supply^
 ||lurnable.supply^
 ||macs.supply^
+||madebyhumans.supply^
 ||madirra.supply^
 ||merica.supply^
 ||mirage.supply^
@@ -90,8 +88,6 @@
 ||naivete.supply^
 ||navigator.supply^
 ||nineandthree.supply^
-||npm.supply^
-||nuworld.supply^
 ||nxrx.supply^
 ||nya.supply^
 ||obscure.supply^
@@ -110,18 +106,17 @@
 ||rare.supply^
 ||re.supply^
 ||recall.supply^
-||repo.supply^
 ||restock.supply^
 ||revinate.supply^
 ||revolut.supply^
 ||rise.supply^
+||saturdaycartoon.supply^
 ||schema.supply^
 ||seabird.supply^
 ||sealed.supply^
 ||shots.supply^
 ||shrimps.supply^
 ||slides.supply^
-||sneaker.supply^
 ||softcactus.supply^
 ||spooklly.supply^
 ||sprayfoaminsulationcarolina.supply^
@@ -132,7 +127,6 @@
 ||streetwearhouse.supply^
 ||td.supply^
 ||team-work.supply^
-||thesubstance.supply^
 ||timemachine.supply^
 ||tokt.supply^
 ||tonal.supply^
@@ -143,6 +137,7 @@
 ||unnmd.supply^
 ||upturn.supply^
 ||utica.supply^
+||vegamovies.supply^
 ||visx.supply^
 ||volt.supply^
 ||vz99.supply^
