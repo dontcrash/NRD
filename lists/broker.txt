@@ -23,6 +23,7 @@
 ||citiwide.broker^
 ||code.broker^
 ||comms.broker^
+||compared.broker^
 ||condo.broker^
 ||deep.broker^
 ||dubairealestate.broker^
@@ -38,7 +39,6 @@
 ||hw-ib.broker^
 ||ia4.broker^
 ||iafor.broker^
-||iris.broker^
 ||labjewelry.broker^
 ||lien.broker^
 ||lol.broker^
@@ -49,11 +49,10 @@
 ||miradmin.broker^
 ||mirror.broker^
 ||motorcycleshipping.broker^
+||motorhomeshipping.broker^
 ||mytrade.broker^
-||namefi.broker^
 ||nantahalalakemarineboats.broker^
 ||nasdaq.broker^
-||newyorkskydive.broker^
 ||nirvana.broker^
 ||number1.broker^
 ||paradox.broker^
@@ -63,7 +62,6 @@
 ||powersports.broker^
 ||procomlend.broker^
 ||prop.broker^
-||properties.broker^
 ||quant.broker^
 ||realproperty.broker^
 ||refi.broker^
@@ -80,6 +78,7 @@
 ||stellarmls.broker^
 ||stx.broker^
 ||sun.broker^
+||thediamond.broker^
 ||togel.broker^
 ||tony.broker^
 ||truckshipping.broker^
