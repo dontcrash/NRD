@@ -256,6 +256,7 @@
 ||audit.claims^
 ||aurory.claims^
 ||auth-uni.claims^
+||babylon.claims^
 ||bambu188vip.claims^
 ||bcbsprovidersettlement.claims^
 ||bda.claims^
@@ -277,7 +278,6 @@
 ||ck.claims^
 ||clearscope.claims^
 ||coffee.claims^
-||connect1.claims^
 ||criminalinjury.claims^
 ||customerdatabreach.claims^
 ||customerdatabreach2024.claims^
@@ -391,7 +391,6 @@
 ||idtheft2024att.claims^
 ||idtheftatt.claims^
 ||idtheftatt2024.claims^
-||incident.claims^
 ||infobreachatt2024.claims^
 ||infobreachattmarch2024.claims^
 ||infohackatt2024.claims^
@@ -407,7 +406,6 @@
 ||kinto.claims^
 ||kuchain.claims^
 ||ky.claims^
-||lasvegasinjury.claims^
 ||lawstool.claims^
 ||lease.claims^
 ||lista.claims^
@@ -537,9 +535,6 @@
 ||turbo.claims^
 ||typeai.claims^
 ||ufabet168.claims^
-||vegas.claims^
-||vegasinjury.claims^
-||velodromegov.claims^
 ||wallstreetpepe.claims^
 ||wallstreetpepes.claims^
 ||wegetyoumore.claims^

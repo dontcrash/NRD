@@ -15,6 +15,7 @@
 ||aurora.financial^
 ||avro.financial^
 ||axi-group.financial^
+||balancer.financial^
 ||bgx.financial^
 ||blackbridge.financial^
 ||bnk.financial^
@@ -22,6 +23,7 @@
 ||boom.financial^
 ||boreal.financial^
 ||bragg.financial^
+||bridgepointgroup.financial^
 ||buckethost.financial^
 ||cadabra.financial^
 ||cahayaat.financial^
@@ -52,6 +54,7 @@
 ||electro.financial^
 ||electrosend.financial^
 ||electrosends.financial^
+||elsy.financial^
 ||emerald.financial^
 ||engine.financial^
 ||ernie.financial^
@@ -91,11 +94,15 @@
 ||journey.financial^
 ||justlend.financial^
 ||kodiak.financial^
+||kodlak.financial^
 ||kucoin.financial^
+||kv.financial^
 ||labs.financial^
 ||lassy.financial^
+||lawsociety.financial^
 ||lifemap.financial^
 ||linc.financial^
+||lnfrared.financial^
 ||loanshark.financial^
 ||lukebaker.financial^
 ||luma.financial^
@@ -128,6 +135,7 @@
 ||prisma.financial^
 ||promarkets.financial^
 ||puffer.financial^
+||quay.financial^
 ||revinate.financial^
 ||revive.financial^
 ||ricerich.financial^
@@ -151,6 +159,7 @@
 ||spectra.financial^
 ||spirit.financial^
 ||startup.financial^
+||stewartandco.financial^
 ||stonecrest.financial^
 ||stx.financial^
 ||sui.financial^
