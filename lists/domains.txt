@@ -47,7 +47,6 @@
 ||hero.domains^
 ||highest.domains^
 ||hln.domains^
-||hostmedia.domains^
 ||hubet.domains^
 ||ibitchain.domains^
 ||illuminate.domains^
@@ -67,13 +66,14 @@
 ||ltc.domains^
 ||lu88.domains^
 ||mafia.domains^
+||mcp.domains^
 ||mega.domains^
 ||megagroup.domains^
 ||membership-ens.domains^
 ||merit.domains^
+||mirrored.domains^
 ||mjt.domains^
 ||myx.domains^
-||namaste.domains^
 ||negusanagast.domains^
 ||netfy.domains^
 ||nexa.domains^
@@ -83,6 +83,7 @@
 ||olympia.domains^
 ||opentryouts.domains^
 ||oudna.domains^
+||pandora.domains^
 ||parisbnp.domains^
 ||passwords.domains^
 ||persia.domains^
@@ -90,7 +91,6 @@
 ||pico.domains^
 ||princess.domains^
 ||product.domains^
-||provider.domains^
 ||provision.domains^
 ||ps.domains^
 ||puffer.domains^
@@ -104,11 +104,13 @@
 ||righton.domains^
 ||rmx.domains^
 ||rpm.domains^
+||rwin.domains^
 ||sats.domains^
 ||sbtc.domains^
 ||sdn.domains^
 ||search-engine.domains^
 ||seoagency.domains^
+||serious.domains^
 ||server-mail-ens.domains^
 ||sheep.domains^
 ||simply.domains^
@@ -117,6 +119,7 @@
 ||subscriptions-ens.domains^
 ||superpower.domains^
 ||surge.domains^
+||testexpensive.domains^
 ||tg.domains^
 ||timeless.domains^
 ||topup-ens.domains^

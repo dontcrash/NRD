@@ -100,6 +100,7 @@
 ||addressable.markets^
 ||aelle.markets^
 ||aggregate.markets^
+||ai-agent.markets^
 ||aicrypto.markets^
 ||aifi.markets^
 ||aimshigh.markets^
@@ -129,15 +130,14 @@
 ||cotton.markets^
 ||crypto-currency.markets^
 ||crypto30x.markets^
-||csmoney.markets^
 ||davidkinuthia.markets^
 ||death.markets^
 ||defairobo.markets^
 ||dinar.markets^
-||doit.markets^
 ||dojo.markets^
 ||dove.markets^
 ||doves.markets^
+||drupal.markets^
 ||emoji.markets^
 ||exodus.markets^
 ||extremeknowhow.markets^
@@ -145,7 +145,6 @@
 ||fortytwo.markets^
 ||fraction.markets^
 ||freebitcoin.markets^
-||full4movies.markets^
 ||gaju.markets^
 ||gastro.markets^
 ||geometric.markets^
@@ -159,7 +158,6 @@
 ||hostdu.markets^
 ||hosting.markets^
 ||hyper.markets^
-||hypurr.markets^
 ||igrow.markets^
 ||jewish.markets^
 ||jup.markets^
@@ -173,6 +171,7 @@
 ||lil.markets^
 ||lynq.markets^
 ||magnet.markets^
+||mcp.markets^
 ||melee.markets^
 ||memestreet.markets^
 ||modal.markets^
@@ -188,8 +187,6 @@
 ||odm.markets^
 ||oem.markets^
 ||omgbuy3.markets^
-||omnichannel.markets^
-||opensource.markets^
 ||ordinal.markets^
 ||orion.markets^
 ||otop.markets^
@@ -221,6 +218,7 @@
 ||sigma.markets^
 ||spiderx.markets^
 ||spx.markets^
+||ssn.markets^
 ||stx.markets^
 ||syhatem.markets^
 ||tachyon.markets^

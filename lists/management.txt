@@ -20,7 +20,6 @@
 ||breeze-api-1.management^
 ||build.management^
 ||caas.management^
-||cclaudio.management^
 ||chipotlesmenus.management^
 ||clever.management^
 ||cloudaccess.management^
@@ -76,7 +75,6 @@
 ||metal.management^
 ||modernedge.management^
 ||monkey.management^
-||multinetwork.management^
 ||neighborhood.management^
 ||nextleveltech.management^
 ||nyrhinoplasty.management^
@@ -103,7 +101,6 @@
 ||richter.management^
 ||river.management^
 ||salesperformance.management^
-||sane.management^
 ||scurani.management^
 ||sdlpro.management^
 ||sentinel.management^
@@ -123,7 +120,6 @@
 ||suite.management^
 ||systemicchange.management^
 ||talk.management^
-||testing.management^
 ||thedanmartinroesch.management^
 ||thompsonfamilytrust.management^
 ||token.management^
@@ -133,7 +129,6 @@
 ||trace.management^
 ||tree.management^
 ||truck.management^
-||uisp.management^
 ||ultimate.management^
 ||under.management^
 ||underwriting.management^
@@ -144,5 +139,4 @@
 ||welcome.management^
 ||wildfire.management^
 ||wizard.management^
-||worldwide.management^
 ||yourgiftcardbalance.management^

@@ -15,7 +15,9 @@
 ||aonyx.build^
 ||approved.build^
 ||archview.build^
+||artisandesign.build^
 ||asi.build^
+||atgq.build^
 ||babel.build^
 ||bhumc.build^
 ||blackironconstruction.build^
@@ -30,10 +32,10 @@
 ||clientportal.build^
 ||convert.build^
 ||craftsmandesign.build^
+||cusa.build^
 ||customai.build^
 ||cwgbs.build^
 ||davidclark.build^
-||demi.build^
 ||docbot.build^
 ||ejyvp.build^
 ||emmdo.build^
@@ -53,6 +55,8 @@
 ||geostead.build^
 ||gmskb.build^
 ||grandamerica.build^
+||gtarp.build^
+||handysolutions.build^
 ||happywp.build^
 ||headwaters.build^
 ||hedera.build^
@@ -74,7 +78,6 @@
 ||lineaeth.build^
 ||lineal.build^
 ||lineath.build^
-||lingo.build^
 ||longview.build^
 ||marsform.build^
 ||memora.build^
@@ -98,9 +101,10 @@
 ||puhlsm.build^
 ||pyrrha.build^
 ||qvjkn.build^
+||rblegacy.build^
 ||rccch.build^
+||rearchitecture.build^
 ||redtail.build^
-||reis.build^
 ||relic.build^
 ||renovi.build^
 ||roanoke.build^
@@ -115,6 +119,7 @@
 ||snowball.build^
 ||sonny.build^
 ||sora.build^
+||stai.build^
 ||startupcentral.build^
 ||stations.build^
 ||strife.build^
