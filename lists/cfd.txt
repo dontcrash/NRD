@@ -98,6 +98,7 @@
 ||004-house-2020.cfd^
 ||00401.cfd^
 ||005-house-2020.cfd^
+||0057-attorneys-21.cfd^
 ||0057-battery-service-br-21.cfd^
 ||0057-car-repair-br-21.cfd^
 ||0057-computer-repair-21.cfd^
@@ -109,11 +110,13 @@
 ||0057-home-cleaning-au-23.cfd^
 ||0057-home-cleaning-au-24.cfd^
 ||0057-home-cleaning-au-25.cfd^
+||0057-home-renovation-services-br-21.cfd^
 ||0057-kitchen-remodel-301.cfd^
 ||0057-kitchen-remodel-au-21.cfd^
 ||0057-kitchen-remodel-au-22.cfd^
 ||0057-legal-consultation-21.cfd^
 ||0057-legal-consultation-22.cfd^
+||0057-legal-consultation-kr-21.cfd^
 ||0057-moving-services-21.cfd^
 ||0057-moving-services-22.cfd^
 ||0057-payroll-processing-au-21.cfd^
@@ -324,6 +327,11 @@
 ||0247-house-6657.cfd^
 ||0248-house-6657.cfd^
 ||0249-house-6657.cfd^
+||025-carpet-cleaning-002.cfd^
+||025-home-security-doorbell-001.cfd^
+||025-home-security-doorbell-002.cfd^
+||025-intelligent-lighting-system-001.cfd^
+||025-kitchen-accessories-001.cfd^
 ||0252-ai-software-01.cfd^
 ||0252-ai-software-02.cfd^
 ||0252-ai-software-03.cfd^
@@ -393,7 +401,6 @@
 ||02belo4d.cfd^
 ||02j3872g28j37264.cfd^
 ||02ongwin.cfd^
-||03-sbt-mansm-aksms-ndk.cfd^
 ||0311-riskmanagement-6657.cfd^
 ||0312-riskmanagement-6657.cfd^
 ||0313-riskmanagement-6657.cfd^
@@ -401,11 +408,11 @@
 ||0315-riskmanagement-6657.cfd^
 ||0329472hn389372bv37.cfd^
 ||03belo4d.cfd^
+||03dhy3.cfd^
 ||03ongwin.cfd^
 ||04-oer43-d.cfd^
 ||04-sbtsma-nabsn-ansn.cfd^
 ||04feb.cfd^
-||04finv.cfd^
 ||0526-backyard-fence-101.cfd^
 ||0526-backyard-fence-102.cfd^
 ||0526-backyard-fence-103.cfd^
@@ -694,7 +701,6 @@
 ||128-tire-deals-now-01.cfd^
 ||129-hvacservices-2025.cfd^
 ||12ijcm.cfd^
-||12raja.cfd^
 ||12totog.cfd^
 ||130-hvacservices-2025.cfd^
 ||133126ffl.cfd^
@@ -704,6 +710,11 @@
 ||14ckhx.cfd^
 ||150dollar.cfd^
 ||155ff.cfd^
+||158-battery-service-br-06.cfd^
+||158-battery-service-br-07.cfd^
+||158-battery-service-br-08.cfd^
+||158-battery-service-br-10.cfd^
+||158-hair-transplant-th-10.cfd^
 ||158-hvacservices-06.cfd^
 ||158-hvacservices-07.cfd^
 ||158-hvacservices-08.cfd^
@@ -774,6 +785,7 @@
 ||158-voice-controlled-light-04.cfd^
 ||158-voice-controlled-light-05.cfd^
 ||1583-luxury-watch-01.cfd^
+||15day.cfd^
 ||16-02-vgdgv-bcddvb-adcd.cfd^
 ||166-bath-remodel-18.cfd^
 ||166-bath-remodel-28.cfd^
@@ -956,6 +968,7 @@
 ||186-daycare-jobs-104.cfd^
 ||186-daycare-jobs-105.cfd^
 ||186-dental-101.cfd^
+||186-dental-102.cfd^
 ||186-dental-implants-103.cfd^
 ||186-dental-implants-104.cfd^
 ||186-dental-implants-105.cfd^
@@ -988,6 +1001,7 @@
 ||186-portable-air-conditioner-101.cfd^
 ||186-refrigerators-101.cfd^
 ||186-refrigerators-102.cfd^
+||186-roofing-services-101.cfd^
 ||186-ultrasonic-meter-101.cfd^
 ||186-ultrasonic-meter-102.cfd^
 ||186-warehouse-103.cfd^
@@ -1042,6 +1056,7 @@
 ||1easternmichingaemb.cfd^
 ||1filmyzilla.cfd^
 ||1hkc.cfd^
+||1iy6jrz.cfd^
 ||1iyu.cfd^
 ||1jtkrp.cfd^
 ||1l4j.cfd^
@@ -1051,10 +1066,8 @@
 ||1s9xtur040225ig.cfd^
 ||1seri777-vip.cfd^
 ||1tdntracad-id34com.cfd^
-||1tdntracad-id8com.cfd^
 ||1tds.cfd^
 ||1uadm.cfd^
-||1win-autobet1.cfd^
 ||1win-cazino-officialsite.cfd^
 ||1win-kasino.cfd^
 ||1win-poker.cfd^
@@ -1065,7 +1078,6 @@
 ||1xyekbetcom.cfd^
 ||1xyekcom.cfd^
 ||1zbz1.cfd^
-||2-km34.cfd^
 ||2000-house-2025.cfd^
 ||2023-calendar.cfd^
 ||2024-grand-cherokee.cfd^
@@ -1168,7 +1180,7 @@
 ||29bica.cfd^
 ||2b6lqw.cfd^
 ||2d25.cfd^
-||2fik1.cfd^
+||2dbk.cfd^
 ||2h4k.cfd^
 ||2ieax9.cfd^
 ||2ncp.cfd^
@@ -1206,7 +1218,6 @@
 ||327-473.cfd^
 ||3274eq.cfd^
 ||32832u32712yu28.cfd^
-||329sg-sk.cfd^
 ||3301-house-6657.cfd^
 ||3302-house-6657.cfd^
 ||3303-house-6657.cfd^
@@ -1226,6 +1237,7 @@
 ||331-email-marketing-au-02.cfd^
 ||331-firealarmequipment-au01.cfd^
 ||331-firealarmequipment-au02.cfd^
+||331-flooring-installation-01.cfd^
 ||331-home-care-au-01.cfd^
 ||331-home-care-au-02.cfd^
 ||331-kitchen-remodel-au-01.cfd^
@@ -1236,6 +1248,7 @@
 ||331-payrollprocessing-au01.cfd^
 ||331-retirement-au-01.cfd^
 ||331-retirement-au-02.cfd^
+||331-virtual-office-02.cfd^
 ||331-warehouse-au-01.cfd^
 ||331-warehouse-au-02.cfd^
 ||3310-house-6657.cfd^
@@ -1274,7 +1287,6 @@
 ||33m420.cfd^
 ||34-4kobv.cfd^
 ||34-ge4ow.cfd^
-||34-gtro5.cfd^
 ||34-ton-truck.cfd^
 ||34383.cfd^
 ||35-dgp3kr.cfd^
@@ -1298,7 +1310,6 @@
 ||394j34937h840294.cfd^
 ||39h2.cfd^
 ||3and.cfd^
-||3d-print4allus-us.cfd^
 ||3d4h.cfd^
 ||3dmprint.cfd^
 ||3f5gc.cfd^
@@ -1337,8 +1348,6 @@
 ||453dk2.cfd^
 ||457-retirement-plan.cfd^
 ||46598.cfd^
-||4676546.cfd^
-||4676846.cfd^
 ||46961.cfd^
 ||4800app.cfd^
 ||4800app1.cfd^
@@ -1354,7 +1363,6 @@
 ||48bgvg2a.cfd^
 ||48ium1.cfd^
 ||48tklt-u65-eiu-57-iskj7ei5-w9-7e5ois4-a6eu56-e578oe67.cfd^
-||492j28216v1738h27.cfd^
 ||4967-business-schools-101.cfd^
 ||4967-business-schools-102.cfd^
 ||4967-business-schools-103.cfd^
@@ -1380,7 +1388,6 @@
 ||4967-warehouse-services-103.cfd^
 ||4967-warehouse-services-104.cfd^
 ||4967-warehouse-services-105.cfd^
-||49felkw.cfd^
 ||4a8hf5nz.cfd^
 ||4ey5uz.cfd^
 ||4fr8.cfd^
@@ -1428,17 +1435,12 @@
 ||52mxbet.cfd^
 ||53-ebxl4e.cfd^
 ||53a88h.cfd^
-||54-0fekg.cfd^
-||542534.cfd^
-||5465753.cfd^
 ||5555068.cfd^
 ||5599yh.cfd^
-||564464.cfd^
 ||567890.cfd^
 ||56c58t5o.cfd^
 ||56e2.cfd^
 ||571mhnu1.cfd^
-||576545.cfd^
 ||57wo4k6z.cfd^
 ||58463285.cfd^
 ||58732324.cfd^
@@ -1469,9 +1471,6 @@
 ||63862.cfd^
 ||638637.cfd^
 ||63hg34873b382673.cfd^
-||6536756.cfd^
-||6546756.cfd^
-||6578767.cfd^
 ||6601-hvacservices-01.cfd^
 ||6601-hvacservices-02.cfd^
 ||6601-hvacservices-03.cfd^
@@ -1483,6 +1482,7 @@
 ||6601-pestcontrol-04.cfd^
 ||6601-pestcontrol-05.cfd^
 ||661316.cfd^
+||662-mental-health-test-02.cfd^
 ||662-paid-sperm-donation-01.cfd^
 ||663-car-repair-31.cfd^
 ||663-car-repair-32.cfd^
@@ -1583,7 +1583,6 @@
 ||6f8ez2.cfd^
 ||6hrf.cfd^
 ||6htn.cfd^
-||6hy72n32783462.cfd^
 ||6kduqz.cfd^
 ||6qdl9c.cfd^
 ||6ux6if8u.cfd^
@@ -1602,7 +1601,6 @@
 ||74a2dxhx.cfd^
 ||75naliexpressd79r.cfd^
 ||763487648764376983479586.cfd^
-||7637565.cfd^
 ||76zwaw.cfd^
 ||7711-antique-21.cfd^
 ||7711-antique-22.cfd^
@@ -1682,7 +1680,6 @@
 ||77ty59.cfd^
 ||78199yh.cfd^
 ||78463285.cfd^
-||7867564.cfd^
 ||78732324.cfd^
 ||78743432.cfd^
 ||7876532421.cfd^
@@ -1691,6 +1688,7 @@
 ||789g.cfd^
 ||789p.cfd^
 ||79kingcom78.cfd^
+||7at94z.cfd^
 ||7bni0i.cfd^
 ||7club.cfd^
 ||7hqday.cfd^
@@ -1752,14 +1750,11 @@
 ||83u2713u3827723.cfd^
 ||83u3762g72j349k2.cfd^
 ||83u4n3872v15380.cfd^
-||841518.cfd^
 ||848rwu.cfd^
 ||858586.cfd^
 ||85877ty.cfd^
 ||868686.cfd^
 ||86ku.cfd^
-||8765354.cfd^
-||8786756.cfd^
 ||87987918791223897.cfd^
 ||8798798791223897.cfd^
 ||879879879123897.cfd^
@@ -1881,7 +1876,6 @@
 ||890y.cfd^
 ||893-fsic.cfd^
 ||895906.cfd^
-||897i656.cfd^
 ||898298234234-lx.cfd^
 ||8983223j392g25287b34.cfd^
 ||89o7.cfd^
@@ -1908,7 +1902,6 @@
 ||906345x1.cfd^
 ||906345x2.cfd^
 ||909152ed.cfd^
-||910282.cfd^
 ||91483.cfd^
 ||91837.cfd^
 ||91839.cfd^
@@ -1929,9 +1922,9 @@
 ||91xxx-54.cfd^
 ||91xxx-55.cfd^
 ||91xxx-56.cfd^
+||91younv.cfd^
 ||923h371b37163n348.cfd^
 ||9266og.cfd^
-||92743.cfd^
 ||92783gh272r3623g.cfd^
 ||928835.cfd^
 ||92izle.cfd^
@@ -2027,6 +2020,7 @@
 ||999wq.cfd^
 ||99eoir-daibabkisuka.cfd^
 ||99hg.cfd^
+||99s-apartments-02.cfd^
 ||99spb.cfd^
 ||99win.cfd^
 ||99yh16.cfd^
@@ -2043,6 +2037,7 @@
 ||9l9tze.cfd^
 ||9loajv.cfd^
 ||9n5o0s.cfd^
+||9nfec1.cfd^
 ||9nkm.cfd^
 ||9nqi6k.cfd^
 ||9ovc.cfd^
@@ -2100,7 +2095,6 @@
 ||aba4dv.cfd^
 ||abacateirogrande.cfd^
 ||abacaxipequeno.cfd^
-||abandoned-houses-2025-cl.cfd^
 ||abandoned-houses-2025-pr.cfd^
 ||abangtelor.cfd^
 ||abarovan-cloud-test.cfd^
@@ -2122,12 +2116,11 @@
 ||abotrewk.cfd^
 ||above-ground-pool-installation.cfd^
 ||abseniorz.cfd^
-||abstractartform.cfd^
 ||abstractartshow.cfd^
-||abstractpaletteart.cfd^
 ||ac-condenser.cfd^
 ||ac-for-sale.cfd^
 ||ac-repairs-near-me.cfd^
+||ac-servicing-near-by-me.cfd^
 ||ac-transit.cfd^
 ||ac4dr.cfd^
 ||ac4dv.cfd^
@@ -2295,9 +2288,6 @@
 ||action-network.cfd^
 ||actionplan.cfd^
 ||activeclothing.cfd^
-||activeplaysport.cfd^
-||activesportbuzz.cfd^
-||activesportgear.cfd^
 ||activesystem.cfd^
 ||acttl-jty7e5-ik7-e65k-mue7685wi97-6e8klors4wiu6.cfd^
 ||acugsqhi.cfd^
@@ -2322,8 +2312,8 @@
 ||adilodf.cfd^
 ||adjustable-bed-1600.cfd^
 ||adjuvant-therapy.cfd^
+||adlandingpage.cfd^
 ||administracao-financeira-empresarial.cfd^
-||administratie-acerta.cfd^
 ||administrative-law.cfd^
 ||administrativetitlesbondservicing.cfd^
 ||adminpanels.cfd^
@@ -2350,7 +2340,7 @@
 ||adp-retirement-services.cfd^
 ||adp-retirement.cfd^
 ||ads1.cfd^
-||adsharedhorizons.cfd^
+||adsdengiz.cfd^
 ||adsphdwfere.cfd^
 ||adspromotio.cfd^
 ||adssee.cfd^
@@ -2399,7 +2389,6 @@
 ||afkiopliz.cfd^
 ||afphanstromn.cfd^
 ||afree-cloud.cfd^
-||afree-service.cfd^
 ||africa-garden-sheds-2204d.cfd^
 ||africa-garden-sheds-2400d.cfd^
 ||africa-garden-sheds-3270d.cfd^
@@ -2418,16 +2407,13 @@
 ||africa-garden-sheds-9121d.cfd^
 ||africa-safari-packages-01.cfd^
 ||africa-safari-packages-08.cfd^
-||africa-safari-packages-1.cfd^
 ||africa-safari-packages-3.cfd^
-||africa-safari-packages-5.cfd^
 ||africa-safari-tour-1.cfd^
 ||africa-safari-tour-10.cfd^
 ||africa-safari-tour-15.cfd^
 ||africa-safari-tour-3.cfd^
 ||africa-safari-tour.cfd^
 ||africa-safari-tours-10.cfd^
-||africa-tours.cfd^
 ||afydeli.cfd^
 ||ag-twint.cfd^
 ||agam69rtplive.cfd^
@@ -2510,7 +2496,6 @@
 ||ahh84.cfd^
 ||ahh85.cfd^
 ||ahndyuwxe.cfd^
-||ahpar.cfd^
 ||ahtmgnbs.cfd^
 ||ai-agents.cfd^
 ||ai-and-law.cfd^
@@ -2555,7 +2540,6 @@
 ||aipublicnode.cfd^
 ||aipure.cfd^
 ||air-academy-federal-credit-union.cfd^
-||air-and-heat-repair-2cfd.cfd^
 ||air-con-servicing.cfd^
 ||air-condition-2025-de.cfd^
 ||air-condition-2025-fi.cfd^
@@ -2596,7 +2580,6 @@
 ||ajr888v.cfd^
 ||ak47.cfd^
 ||akacina.cfd^
-||akaislotvip.cfd^
 ||akaliu.cfd^
 ||akaslotj.cfd^
 ||akiratoto.cfd^
@@ -2721,7 +2704,6 @@
 ||allstate-near-me.cfd^
 ||almizanalgoldenfurnituretransportummalquwain.cfd^
 ||almolotons.cfd^
-||almwire.cfd^
 ||alnoitec.cfd^
 ||aloepqaldgz.cfd^
 ||aloveunreal.cfd^
@@ -2736,6 +2718,7 @@
 ||alsjlqlq.cfd^
 ||alt-coins-investment.cfd^
 ||alt-coins-platform.cfd^
+||alt-jg.cfd^
 ||altavista.cfd^
 ||altcoin-now.cfd^
 ||altdewiqq.cfd^
@@ -2830,7 +2813,6 @@
 ||aminprototo.cfd^
 ||amintotobit.cfd^
 ||amoreirapretapura.cfd^
-||ampc77.cfd^
 ||ampdomino.cfd^
 ||amper88login.cfd^
 ||ampia-inn.cfd^
@@ -2850,8 +2832,6 @@
 ||anc-airport.cfd^
 ||anccplayer.cfd^
 ||anchor-physical-therapy.cfd^
-||anchorag.cfd^
-||ancient-dawn.cfd^
 ||ancoxyjo.cfd^
 ||and-dental-implant.cfd^
 ||and-fast-furious.cfd^
@@ -2860,6 +2840,7 @@
 ||anda2.cfd^
 ||anda3.cfd^
 ||andersen-windows-near-me.cfd^
+||anderson-door.cfd^
 ||anderson-doors-and-windows.cfd^
 ||anderson-windows-and-doors.cfd^
 ||andersos.cfd^
@@ -2894,6 +2875,7 @@
 ||animal-sounds.cfd^
 ||animecoin.cfd^
 ||animehaytop.cfd^
+||animexe.cfd^
 ||aniworld.cfd^
 ||anketaadopomogaua.cfd^
 ||anketadopomogaua.cfd^
@@ -2950,6 +2932,7 @@
 ||apkrtp.cfd^
 ||aplicacion-para-invertir.cfd^
 ||aposta-bet.cfd^
+||apostal-aze.cfd^
 ||apothecarydiaries.cfd^
 ||app-acesseway.cfd^
 ||app-client-stats.cfd^
@@ -2958,7 +2941,6 @@
 ||app-meteoraswap.cfd^
 ||app-mxmerchant.cfd^
 ||app-presente.cfd^
-||app-ptssresgate.cfd^
 ||app-relay.cfd^
 ||app-resgateseuspts.cfd^
 ||app-stars.cfd^
@@ -2996,10 +2978,6 @@
 ||app61.cfd^
 ||app654.cfd^
 ||app6543.cfd^
-||apparelboutiquechoice.cfd^
-||appareliconstreet.cfd^
-||apparelstyleguide.cfd^
-||apparelstylezone.cfd^
 ||appdick.cfd^
 ||appendix-removal-surgery.cfd^
 ||appkods.cfd^
@@ -3099,13 +3077,8 @@
 ||arrudaverde.cfd^
 ||arsbxezx.cfd^
 ||art-brilliant.cfd^
-||artcanvasdreams.cfd^
 ||artcanvaszone.cfd^
-||artfulcreations.cfd^
-||artfulvisionaries.cfd^
-||artgalleryexploration.cfd^
 ||artgalleryhub.cfd^
-||artgalleryspace.cfd^
 ||arthur-christmas.cfd^
 ||arthur345.cfd^
 ||artificial-grass-3481.cfd^
@@ -3116,13 +3089,7 @@
 ||artisaire.cfd^
 ||artisansolutionsholdings.cfd^
 ||artistic-frame-zone.cfd^
-||artisticcanvascfd.cfd^
-||artisticjourneyexpress.cfd^
-||artisticjourneyspace.cfd^
-||artisticjourneytoday.cfd^
 ||artisticpathways.cfd^
-||artisticwondersgallery.cfd^
-||artvibegallery.cfd^
 ||arusjitu1.cfd^
 ||arvelog.cfd^
 ||arvelogin.cfd^
@@ -3158,6 +3125,8 @@
 ||asistenciapostalgob.cfd^
 ||ask-a-lawyer.cfd^
 ||askabetj.cfd^
+||aslander.cfd^
+||aslantine.cfd^
 ||asplundh-tree-expert-company.cfd^
 ||asplundh-tree.cfd^
 ||asrepers.cfd^
@@ -3195,6 +3164,7 @@
 ||atseul.cfd^
 ||att-air.cfd^
 ||att-plans.cfd^
+||att-service-outage.cfd^
 ||attorney-and-lawyer-difference.cfd^
 ||attorney-at-law.cfd^
 ||attorney-near-me.cfd^
@@ -3271,7 +3241,6 @@
 ||avatarslot888v.cfd^
 ||avatoial.cfd^
 ||avbody.cfd^
-||avcode.cfd^
 ||avencareta.cfd^
 ||aviapilotingcockpit.cfd^
 ||aviatoroynaa.cfd^
@@ -3297,10 +3266,12 @@
 ||axx08.cfd^
 ||axx09.cfd^
 ||ayamsmwin.cfd^
+||aybenimaykizim.cfd^
 ||ayg8.cfd^
 ||ayo88j.cfd^
 ||azepostl-az.cfd^
 ||azer-post-az.cfd^
+||azer-post-com.cfd^
 ||aziominx.cfd^
 ||azqdkzeg.cfd^
 ||b--24.cfd^
@@ -3311,6 +3282,8 @@
 ||b1zw5ks.cfd^
 ||b200m-paten.cfd^
 ||b200m-rtplive.cfd^
+||b2b-ixpira.cfd^
+||b2b-juliatravel.cfd^
 ||b2bconsult.cfd^
 ||b2bwaveshop.cfd^
 ||b2myq5k.cfd^
@@ -3385,7 +3358,6 @@
 ||babetogelv.cfd^
 ||bacaanlexus.cfd^
 ||bacan4dzeus.cfd^
-||bachelor-fernstudium-1.cfd^
 ||backyard-pool.cfd^
 ||bacterial-pink-eye.cfd^
 ||bacteriolysis.cfd^
@@ -3405,6 +3377,7 @@
 ||bahutetahbdfres.cfd^
 ||bailiadduffgh.cfd^
 ||baivzy.cfd^
+||baju4dn.cfd^
 ||bakmielina.cfd^
 ||balance-credit.cfd^
 ||balance-sheet-example.cfd^
@@ -3425,7 +3398,6 @@
 ||bandar288pro.cfd^
 ||bandar969.cfd^
 ||bandar96j.cfd^
-||bandarbukit.cfd^
 ||bandarharum.cfd^
 ||bandarlight.cfd^
 ||bandarmain.cfd^
@@ -3463,7 +3435,6 @@
 ||barbie-movie-streaming.cfd^
 ||barbie-movie.cfd^
 ||barbie-movies.cfd^
-||barbiex.cfd^
 ||barcelon.cfd^
 ||barclays-customer.cfd^
 ||barclays-ll.cfd^
@@ -3511,7 +3482,6 @@
 ||bathroom-remodeling-2025-cz.cfd^
 ||bathroom-remodeling-2025-ie.cfd^
 ||bathroom-remodeling-2025-mx.cfd^
-||bathroom-remodeling-2025-pl.cfd^
 ||bathroom-remodeling-2025-tw.cfd^
 ||bathroom-remodeling-3865.cfd^
 ||bathroom-remodeling-5712.cfd^
@@ -3544,7 +3514,6 @@
 ||bayutogelg.cfd^
 ||bayvar.cfd^
 ||bayview.cfd^
-||bayvip.cfd^
 ||bazmark-m.cfd^
 ||bb-fi.cfd^
 ||bb-li.cfd^
@@ -3600,7 +3569,6 @@
 ||beid6-6hm.cfd^
 ||beixj8-738.cfd^
 ||bejo300ads.cfd^
-||belazin.cfd^
 ||belih.cfd^
 ||bellaire-emergency-r.cfd^
 ||bellmadechog.cfd^
@@ -3638,7 +3606,6 @@
 ||bernhbrd.cfd^
 ||bernrer.cfd^
 ||berolod.cfd^
-||besivegas.cfd^
 ||best-ai-website-builder.cfd^
 ||best-audio-books.cfd^
 ||best-bank-for-savings-account.cfd^
@@ -3670,13 +3637,9 @@
 ||best-mattress-for-back-pain.cfd^
 ||best-motor-vehicle-accident-lawyers.cfd^
 ||best-motorcycle-accident-lawyer.cfd^
-||best-new-construction-homes-2.cfd^
-||best-new-homes.cfd^
-||best-online-colleges-03.cfd^
-||best-online-msn-fnp-programs-1.cfd^
-||best-online-programs-3.cfd^
 ||best-personal-injury-lawyer-near-me.cfd^
 ||best-personal-injury-lawyer.cfd^
+||best-personal-injury-lawyers.cfd^
 ||best-phone-deals.cfd^
 ||best-private-equity-firms.cfd^
 ||best-rated-long-distance-moving-companies.cfd^
@@ -3691,9 +3654,7 @@
 ||best-small-business-bank-accounts.cfd^
 ||best-solar-companies.cfd^
 ||best-trucks-2024.cfd^
-||best-vent-cleaning-2.cfd^
 ||best-voip-phone-system-for-small-business.cfd^
-||best-weight-loss-pills.cfd^
 ||bestai.cfd^
 ||bestcams18.cfd^
 ||bestcams19.cfd^
@@ -3728,7 +3689,6 @@
 ||bettermanclinic.cfd^
 ||betting1win.cfd^
 ||bettotog.cfd^
-||betwcn.cfd^
 ||betyek1com.cfd^
 ||betyekcom.cfd^
 ||bevebad.cfd^
@@ -3776,14 +3736,12 @@
 ||bigmeds.cfd^
 ||bigmpor.cfd^
 ||bigmpov.cfd^
-||bigo234bet.cfd^
 ||bigo234bum.cfd^
 ||bigo234fit.cfd^
 ||bigo234home.cfd^
 ||bigo234keren.cfd^
 ||bigo234line.cfd^
 ||bigo234slot.cfd^
-||bigo234spin.cfd^
 ||bigo234tb.cfd^
 ||bigoashflow.cfd^
 ||bigporn.cfd^
@@ -3792,7 +3750,6 @@
 ||biknhr.cfd^
 ||bilety.cfd^
 ||bill-cipher.cfd^
-||billapan9.cfd^
 ||bills-depth-chart.cfd^
 ||biltmore-estate-reopening-date.cfd^
 ||bilu14.cfd^
@@ -3824,13 +3781,12 @@
 ||bisex.cfd^
 ||bishkjbziankjwsant.cfd^
 ||bishwatbhtresa.cfd^
+||bit-ly.cfd^
 ||bitbet.cfd^
-||bitcoin2go.cfd^
 ||bitcoinusd.cfd^
 ||biteheadedx315sg5.cfd^
 ||bitfinex.cfd^
 ||bittyyz.cfd^
-||bitwave.cfd^
 ||bitwin.cfd^
 ||biuguyjiuo.cfd^
 ||biugyiuijhijgu.cfd^
@@ -3868,7 +3824,6 @@
 ||blazehrgauratech.cfd^
 ||blazewish.cfd^
 ||blazezenith.cfd^
-||blepharoplasty-surgery-2025-br.cfd^
 ||blessedgloww.cfd^
 ||blissfulbinge.cfd^
 ||blkandbold.cfd^
@@ -3889,12 +3844,12 @@
 ||blocket-onlinebetalning2149.cfd^
 ||blocket-onlinebetalning2151.cfd^
 ||blocket-onlinebetalning2152.cfd^
-||blockpixelcloud.cfd^
 ||blocksoflife.cfd^
 ||blocktradea.cfd^
 ||blondiescams.cfd^
 ||blood-glucose-monitor-2025-sk.cfd^
 ||bloomberg-law.cfd^
+||bloome.cfd^
 ||blue-beetle.cfd^
 ||blue-bottle-coffee.cfd^
 ||blue-exorcist.cfd^
@@ -3917,7 +3872,6 @@
 ||bmo-harris-bank-near-me.cfd^
 ||bmw-oil-change-near-me.cfd^
 ||bn8aupen.cfd^
-||bnc-banqnat.cfd^
 ||bnezqol.cfd^
 ||bngbjvuf.cfd^
 ||bngff.cfd^
@@ -3939,11 +3893,12 @@
 ||bocoranjitu.cfd^
 ||body-shop-near-me.cfd^
 ||bogisici.cfd^
+||bohdancho.cfd^
 ||bojangleslistens.cfd^
 ||bokepindo.cfd^
+||bokuart.cfd^
 ||bokvlslf.cfd^
 ||bolalexus.cfd^
-||boldsportvision.cfd^
 ||bolted.cfd^
 ||bolthaven.cfd^
 ||bonanja88j.cfd^
@@ -3997,7 +3952,6 @@
 ||borju89microgame.cfd^
 ||borju89microgamez.cfd^
 ||borju89pgsgame.cfd^
-||borju89ptgamee.cfd^
 ||borju89toptrend.cfd^
 ||borju89toptrends.cfd^
 ||borneo18j.cfd^
@@ -4029,7 +3983,6 @@
 ||bp-oil.cfd^
 ||bpfydjltrs.cfd^
 ||bpgsoh.cfd^
-||bpkr4.cfd^
 ||bpo77v.cfd^
 ||bposts.cfd^
 ||bprtfiam.cfd^
@@ -4093,6 +4046,7 @@
 ||brusive.cfd^
 ||bruvi.cfd^
 ||brzrspornnrntuube1.cfd^
+||bsd33n.cfd^
 ||bsduoduo.cfd^
 ||bsi-68ni.cfd^
 ||bsoft.cfd^
@@ -4129,7 +4083,6 @@
 ||bulfeik.cfd^
 ||bullspadels.cfd^
 ||bulltrade.cfd^
-||bumigacor.cfd^
 ||bunbmnessmaster.cfd^
 ||bunbmnesspower.cfd^
 ||bundeswehr.cfd^
@@ -4208,7 +4161,6 @@
 ||bvemyyyzf.cfd^
 ||bvq12bof.cfd^
 ||bvqjt11b.cfd^
-||bwemx.cfd^
 ||bwh88.cfd^
 ||bwhm1.cfd^
 ||bwhm2.cfd^
@@ -4264,7 +4216,6 @@
 ||cacdferfseghfddsrs.cfd^
 ||cacogenesis.cfd^
 ||cacool.cfd^
-||cactus-casino.cfd^
 ||cactusindtech.cfd^
 ||cad-tr.cfd^
 ||cadeaux-entreprise-objet.cfd^
@@ -4278,6 +4229,7 @@
 ||cainairong.cfd^
 ||cainam.cfd^
 ||caitou.cfd^
+||cajaevtrujillo.cfd^
 ||cakep4dv.cfd^
 ||cakeptotov.cfd^
 ||cakkg.cfd^
@@ -4310,7 +4262,6 @@
 ||camillebrinch.cfd^
 ||campus-usa-credit-union.cfd^
 ||campus-usa.cfd^
-||camrnnrrn.cfd^
 ||camspirate.cfd^
 ||camsplay.cfd^
 ||camsplayx.cfd^
@@ -4380,6 +4331,7 @@
 ||car-care-7859.cfd^
 ||car-care-9275.cfd^
 ||car-care-9397.cfd^
+||car-complaints.cfd^
 ||car-crash-lawyer-houston.cfd^
 ||car-crash-lawyer-near-me.cfd^
 ||car-dealership.cfd^
@@ -4397,6 +4349,7 @@
 ||car-insurance-agents.cfd^
 ||car-insurance-companies.cfd^
 ||car-insurance-florida.cfd^
+||car-insurance-michigan.cfd^
 ||car-insurance-quotes.cfd^
 ||car-insurance001.cfd^
 ||car-junk-yards-near-me.cfd^
@@ -4425,7 +4378,6 @@
 ||cardinal-glass-industries.cfd^
 ||cardiothoracic-surgery.cfd^
 ||cardozo-law.cfd^
-||cards-50.cfd^
 ||care-credit-card-login.cfd^
 ||care-credit-card.cfd^
 ||care-credit-login.cfd^
@@ -4455,7 +4407,6 @@
 ||casaemisa.cfd^
 ||casaluxe.cfd^
 ||casbon88v.cfd^
-||casdaetflntercads.cfd^
 ||case-support-id3888.cfd^
 ||casebellavista.cfd^
 ||casfil.cfd^
@@ -4478,7 +4429,6 @@
 ||cast-of-nosferatu-2024.cfd^
 ||caste.cfd^
 ||castle-learning.cfd^
-||cataract-surgery-2025-gb.cfd^
 ||caterin.cfd^
 ||caterpillar-truck-2025.cfd^
 ||catholic-church-near-me.cfd^
@@ -4518,7 +4468,6 @@
 ||center-res.cfd^
 ||centerwell-senior-primary-care.cfd^
 ||central-atendimento.cfd^
-||centralclienteatendimento.cfd^
 ||centrelink-access.cfd^
 ||centrelink-home.cfd^
 ||centrelink-report.cfd^
@@ -4591,13 +4540,13 @@
 ||chang4dlive.cfd^
 ||chang4dlokal.cfd^
 ||change-management.cfd^
-||changkids.cfd^
 ||changlevel.cfd^
 ||changlike.cfd^
 ||changplus.cfd^
 ||changraja.cfd^
 ||changsistem.cfd^
 ||changwei.cfd^
+||chaocytl.cfd^
 ||chaojifuli740.cfd^
 ||chaojiyinxs531.cfd^
 ||charge459.cfd^
@@ -4688,7 +4637,6 @@
 ||chickosworkout.cfd^
 ||chicno.cfd^
 ||chicoriadopara.cfd^
-||chicweddingtrends.cfd^
 ||chihuqap.cfd^
 ||child-care-near-me.cfd^
 ||child-care.cfd^
@@ -4718,7 +4666,6 @@
 ||christian-academy.cfd^
 ||christmas-cards.cfd^
 ||christmas-tree-png.cfd^
-||christsansen.cfd^
 ||chrome-music-lab.cfd^
 ||chromerichaddas.cfd^
 ||chromerivc.cfd^
@@ -4757,7 +4704,6 @@
 ||cipinangtotor.cfd^
 ||cipinangtotov.cfd^
 ||cipriani-downtown-miami.cfd^
-||circumambulated.cfd^
 ||cirlerer.cfd^
 ||cisco-net-academy.cfd^
 ||cita4didn.cfd^
@@ -4809,9 +4755,6 @@
 ||clark-kent-glasses.cfd^
 ||class-c-license.cfd^
 ||classic-romantic-film.cfd^
-||classicapparelline.cfd^
-||classicappareloutlet.cfd^
-||classiccutsapparel.cfd^
 ||classroomclean01.cfd^
 ||classroomclean02.cfd^
 ||claud-ai.cfd^
@@ -4835,7 +4778,6 @@
 ||cleaning-services-8221.cfd^
 ||cleaning-services-8832.cfd^
 ||cleaning-services-cdg.cfd^
-||cleaning-vent-2.cfd^
 ||cleaningjob01.cfd^
 ||cleaningjob02.cfd^
 ||cleaningjob03.cfd^
@@ -4852,7 +4794,6 @@
 ||clickstopay.cfd^
 ||clickthe.cfd^
 ||clicktopays.cfd^
-||clickuz.cfd^
 ||climate-change-progress.cfd^
 ||climate-change.cfd^
 ||cliphotvn.cfd^
@@ -4914,7 +4855,6 @@
 ||cod-oil.cfd^
 ||codehubseo.cfd^
 ||codevoyage.cfd^
-||codexdigital.cfd^
 ||coffee-packaging-jobs1.cfd^
 ||coffee-packaging-jobs6.cfd^
 ||coffeepackaging-jobs0.cfd^
@@ -4923,7 +4863,7 @@
 ||cognitive-behavioral-therapy.cfd^
 ||coin-555-betting.cfd^
 ||coin-master-free.cfd^
-||coinbase-reviewdesk.cfd^
+||coinbase-customer-service.cfd^
 ||coinbase-support-number.cfd^
 ||coinboundmax.cfd^
 ||coincams.cfd^
@@ -4935,9 +4875,7 @@
 ||coinzbux.cfd^
 ||cokkeyifli365.cfd^
 ||coklatmanis.cfd^
-||cold-cough-treatment-2025-at.cfd^
 ||cold-cough-treatment-2025-ch.cfd^
-||cold-cough-treatment-2025-de.cfd^
 ||colegialabromas.cfd^
 ||collabora-ai.cfd^
 ||colleer.cfd^
@@ -5058,6 +4996,7 @@
 ||com-ticketaa.cfd^
 ||com-ticketac.cfd^
 ||com-ticketus.cfd^
+||com-ticketusa.cfd^
 ||com-u3o8.cfd^
 ||com-u5p9.cfd^
 ||com-u9lw.cfd^
@@ -5124,6 +5063,7 @@
 ||computer-repair03.cfd^
 ||computer-repair1.cfd^
 ||comslotv.cfd^
+||comunicamicrosf.cfd^
 ||concludedfile4view.cfd^
 ||concord-academy.cfd^
 ||concrete-companies-near-me.cfd^
@@ -5147,7 +5087,6 @@
 ||connections-academy-login-in.cfd^
 ||connectvibezone.cfd^
 ||connexus-academy.cfd^
-||conoelly.cfd^
 ||conservatory-insulation01.cfd^
 ||conservatory-insulation02.cfd^
 ||consieine.cfd^
@@ -5160,7 +5099,6 @@
 ||construction-company-near-me.cfd^
 ||construction-contractors-near-me.cfd^
 ||construction-engineering.cfd^
-||construction-new-homes-2.cfd^
 ||consulta-rapida.cfd^
 ||consumer-protection-lawyer.cfd^
 ||contactappsite.cfd^
@@ -5201,6 +5139,7 @@
 ||cormirr.cfd^
 ||cornell-law.cfd^
 ||cornerjunction.cfd^
+||cornerquantum.cfd^
 ||cornerstone-church.cfd^
 ||corporate-lawyer-salary.cfd^
 ||corporate-lawyer.cfd^
@@ -5218,6 +5157,7 @@
 ||corujaapassaro.cfd^
 ||cosine-law.cfd^
 ||cosmetic-dentist-near-me.cfd^
+||cosmiktoton.cfd^
 ||cost-of-equity-formula.cfd^
 ||cost-of-pods-moving.cfd^
 ||costa-kreuzfahrt-buchen.cfd^
@@ -5228,9 +5168,7 @@
 ||cosve.cfd^
 ||couches-sofas-2025-do.cfd^
 ||couches-sofas-2025-gb.cfd^
-||couches-sofas-2025-hr.cfd^
 ||coughjellybricktooth.cfd^
-||counterpropaganda.cfd^
 ||counterwin888v.cfd^
 ||counterwinv.cfd^
 ||couples-therapy-show.cfd^
@@ -5275,14 +5213,10 @@
 ||cqgacqva-uqyefec-x.cfd^
 ||cqgadb.cfd^
 ||cqgqcsbqv-uwgevcs-b.cfd^
-||cqkrjgrdbhn-de.cfd^
 ||cqkrjgrdbhn-es.cfd^
 ||cqkrjgrdbhn-fr.cfd^
-||cqkrjgrdbhn-gr.cfd^
 ||cqkrjgrdbhn-it.cfd^
-||cqkrjgrdbhn-tw.cfd^
 ||craft-kitchen.cfd^
-||cranecki.cfd^
 ||craniosacral-therapy-near-me.cfd^
 ||cratpackaging.cfd^
 ||crazyslots.cfd^
@@ -5294,8 +5228,6 @@
 ||creation-site-internet.cfd^
 ||creative-frame-journey.cfd^
 ||creative-frame-loops.cfd^
-||creativeartspace.cfd^
-||creativecanvasart.cfd^
 ||creatorflow.cfd^
 ||creaturesoy81wk.cfd^
 ||credit-acceptance-login.cfd^
@@ -5375,6 +5307,7 @@
 ||cscina777.cfd^
 ||csk2fv.cfd^
 ||cslb-lookup.cfd^
+||csobcz.cfd^
 ||csp666.cfd^
 ||csp666888.cfd^
 ||csphorja.cfd^
@@ -5391,6 +5324,7 @@
 ||cttorreuxe.cfd^
 ||cttpesxza.cfd^
 ||cttsvw.cfd^
+||ctvslotn.cfd^
 ||cu-boulder-acceptance-rate.cfd^
 ||cuanbetj.cfd^
 ||cuancashv.cfd^
@@ -5422,9 +5356,7 @@
 ||curiousminds.cfd^
 ||current-home-equity-loan-rates.cfd^
 ||currentspot.cfd^
-||curso-auxiliar-de-enfermeria-4.cfd^
 ||cursor-ai.cfd^
-||cursos-de-posgrado-online-3.cfd^
 ||cushing-academy.cfd^
 ||custody-lawyer.cfd^
 ||custody-lawyers-near-me.cfd^
@@ -5449,7 +5381,6 @@
 ||cvbvb88.cfd^
 ||cvc4.cfd^
 ||cvenzal.cfd^
-||cviale.cfd^
 ||cviklam.cfd^
 ||cvr-api-acccountkey-utm-trigger.cfd^
 ||cvwksvky.cfd^
@@ -5473,8 +5404,6 @@
 ||cycy8c8de.cfd^
 ||cydakiked.cfd^
 ||cykaaa-kazinos.cfd^
-||cymls809025.cfd^
-||cymls908225.cfd^
 ||cypher.cfd^
 ||cyseniorz.cfd^
 ||cyutyhiugft9i.cfd^
@@ -5516,12 +5445,13 @@
 ||daget77yas.cfd^
 ||dagroot.cfd^
 ||dahonhk.cfd^
+||daily-harvest.cfd^
+||daily-motion.cfd^
 ||daily-pay-login.cfd^
-||dailyapparelfinds.cfd^
+||daily-wire.cfd^
 ||dailyflash.cfd^
 ||dailygazette.cfd^
 ||dailytag.cfd^
-||dailytechnews.cfd^
 ||dailytimes.cfd^
 ||dajkes.cfd^
 ||daliapiaba.cfd^
@@ -5582,6 +5512,7 @@
 ||dawn-of-the-planet-of-the-apes.cfd^
 ||dazee.cfd^
 ||db9hv998040225su9.cfd^
+||dba888.cfd^
 ||dbtotov.cfd^
 ||dc233.cfd^
 ||dcorp.cfd^
@@ -5636,6 +5567,7 @@
 ||deepseekks.cfd^
 ||deepwaters.cfd^
 ||deeqgi.cfd^
+||deerty.cfd^
 ||dees-helpemoga.cfd^
 ||def2.cfd^
 ||defamation-lawyer.cfd^
@@ -5648,7 +5580,6 @@
 ||delegorda.cfd^
 ||delenitiaut.cfd^
 ||deliciouseatsonline.cfd^
-||deliciousfoodjourney.cfd^
 ||delima888v.cfd^
 ||delimajitu.cfd^
 ||delined.cfd^
@@ -5663,7 +5594,6 @@
 ||delta-sonic.cfd^
 ||delta-wifi.cfd^
 ||deltacommunity.cfd^
-||delzyou.cfd^
 ||demhtechjtullc.cfd^
 ||demoplt.cfd^
 ||demotestaa.cfd^
@@ -5682,12 +5612,10 @@
 ||dental-care03.cfd^
 ||dental-care2.cfd^
 ||dental-cleaning-near-me.cfd^
-||dental-implants-2025-es.cfd^
 ||dental-implants-2025-hk.cfd^
 ||dental-implants-2025-hr.cfd^
 ||dental-implants-2025-nl.cfd^
 ||dental-implants-2025-sg.cfd^
-||dental-implants-clinics.cfd^
 ||dental-implants-for-seniors-2025-it.cfd^
 ||dental-implants-services-in.cfd^
 ||dental-insurance.cfd^
@@ -5702,7 +5630,6 @@
 ||depo89-rtplive.cfd^
 ||deposlot88.cfd^
 ||deposlotj.cfd^
-||depreciatory.cfd^
 ||depression-test-1.cfd^
 ||depression-therapy.cfd^
 ||dermatology-and-skin-cancer-center.cfd^
@@ -5748,7 +5675,6 @@
 ||dewi69.cfd^
 ||dewislothoki.cfd^
 ||dexonlimitedco.cfd^
-||dexscreener.cfd^
 ||deykuol.cfd^
 ||deyvpn.cfd^
 ||df3b.cfd^
@@ -5785,7 +5711,6 @@
 ||dhfsdgywwmpdiv.cfd^
 ||dhfzjtnwbc.cfd^
 ||dhj-onfy.cfd^
-||dhjdjdjdkaa.cfd^
 ||dhl-austria.cfd^
 ||dhl-dhl2001.cfd^
 ||dhl-hu.cfd^
@@ -5837,6 +5762,8 @@
 ||digital-business-card.cfd^
 ||digital-group.cfd^
 ||digital-marketing-company.cfd^
+||digital-marketing-online-degree-1110.cfd^
+||digitaldertflowwave.cfd^
 ||digitaleastern-emb.cfd^
 ||digitaleasternemb.cfd^
 ||digitalesternmichinga.cfd^
@@ -5875,6 +5802,7 @@
 ||disease.cfd^
 ||diseasons.cfd^
 ||disenadores-web.cfd^
+||dishwasher-repair-service-near-me.cfd^
 ||diskretchat.cfd^
 ||disshow.cfd^
 ||distribution.cfd^
@@ -5895,6 +5823,7 @@
 ||djugsryf.cfd^
 ||dkdproxy.cfd^
 ||dkeozyu.cfd^
+||dkiplayn.cfd^
 ||dklouez.cfd^
 ||dklzeuo.cfd^
 ||dkolzue.cfd^
@@ -5934,7 +5863,6 @@
 ||dobro018klikua.cfd^
 ||doc-ok.cfd^
 ||dochka.cfd^
-||dochoiff.cfd^
 ||docsgool-centre.cfd^
 ||docsgool-centres.cfd^
 ||docsindexacs1oa0v1dddhtmlonline.cfd^
@@ -5942,8 +5870,8 @@
 ||doctor-of-physical-therapy-degree.cfd^
 ||doctors-of-physical-therapy.cfd^
 ||doctorworld.cfd^
+||docusign-efiles-homepge46w6stshe-doc.cfd^
 ||dodilmiletekly.cfd^
-||doeirmmieur.cfd^
 ||doels.cfd^
 ||dog-bite-lawyer.cfd^
 ||dog-cancer.cfd^
@@ -5985,7 +5913,6 @@
 ||donsi.cfd^
 ||donstova.cfd^
 ||dontigo.cfd^
-||doodlink.cfd^
 ||dookvlslt.cfd^
 ||door-pickup.cfd^
 ||door-replacement-126.cfd^
@@ -5999,7 +5926,6 @@
 ||door7154.cfd^
 ||door8743.cfd^
 ||doordash-customer-service.cfd^
-||doors-2025-sk.cfd^
 ||doors-customizable-download-gr.cfd^
 ||doors-windows-replacement8.cfd^
 ||doors-windows-replacement88.cfd^
@@ -6021,14 +5947,13 @@
 ||doral-academy.cfd^
 ||dorel.cfd^
 ||dosomailipd.cfd^
-||dossstvk.cfd^
 ||dot777v.cfd^
 ||dotcom.cfd^
 ||double-glass-window.cfd^
 ||double-pane-windows.cfd^
 ||douelzy.cfd^
 ||dougdas.cfd^
-||douglds.cfd^
+||douyekl.cfd^
 ||dowig0402251.cfd^
 ||downtown-miami-hotels.cfd^
 ||doyeluz.cfd^
@@ -6038,7 +5963,6 @@
 ||dpd-post.cfd^
 ||dpidci.cfd^
 ||dpmhztulvc.cfd^
-||dpomoga.cfd^
 ||dpr4dr.cfd^
 ||dpr4dv.cfd^
 ||dprtogelr.cfd^
@@ -6057,8 +5981,6 @@
 ||dream-academy.cfd^
 ||dreamblaze.cfd^
 ||dreamlike-visuals.cfd^
-||dreamweddingevents.cfd^
-||dreamweddingguide.cfd^
 ||dreamy-movie-moments.cfd^
 ||dreamzenith.cfd^
 ||drebmmmoney.cfd^
@@ -6072,14 +5994,14 @@
 ||drive-through-oil-change.cfd^
 ||drive-thru-oil-change.cfd^
 ||drjohnrusin.cfd^
-||drofak.cfd^
 ||dromaeosaur.cfd^
 ||dropdecision.cfd^
 ||drosgadina.cfd^
 ||drtuber.cfd^
 ||drunk-driving-lawyer-near-me.cfd^
-||dry-eye-treatment-2025-es.cfd^
 ||dryer-vent-cleaning-near-me.cfd^
+||dsadsa03.cfd^
+||dsadsa05.cfd^
 ||dsgfsdfgsdgsd.cfd^
 ||dsheywaqdbcgbplsy.cfd^
 ||dsjfhjha.cfd^
@@ -6138,6 +6060,7 @@
 ||dvinerk.cfd^
 ||dvnqec.cfd^
 ||dwi-lawyer.cfd^
+||dwi-lawyers-near-me.cfd^
 ||dwsaz.cfd^
 ||dwuasyd123.cfd^
 ||dwxfjymm.cfd^
@@ -6153,13 +6076,12 @@
 ||dyfdthjkljkyguh.cfd^
 ||dyijv-6bk.cfd^
 ||dylokuz.cfd^
+||dyluanlun.cfd^
 ||dyluezo.cfd^
 ||dylzuko.cfd^
 ||dymxcede.cfd^
 ||dynamicsportwave.cfd^
-||dynamicsportzone.cfd^
 ||dynamicvision.cfd^
-||dyozeul.cfd^
 ||dyxawed.cfd^
 ||dyzuelo.cfd^
 ||dyzulok.cfd^
@@ -6172,10 +6094,13 @@
 ||e-interac-id089403.cfd^
 ||e-taker.cfd^
 ||e-transfer-interac-ca.cfd^
+||e-zpassiagal.cfd^
 ||e-zpassiagav.cfd^
 ||e-zpassiagbe.cfd^
 ||e-zpassiagpu.cfd^
 ||e-zpassiagsr.cfd^
+||e-zpassiagvp.cfd^
+||e-zpassiagwb.cfd^
 ||e0nd.cfd^
 ||e0w21x.cfd^
 ||e200mpromo.cfd^
@@ -6195,7 +6120,6 @@
 ||eagle-ridge-academy.cfd^
 ||eagleaitokenclaim.cfd^
 ||ealkhreswaserbg.cfd^
-||eandervort.cfd^
 ||ear-tube-surgery.cfd^
 ||earbmbig.cfd^
 ||early-learning-coalition.cfd^
@@ -6211,6 +6135,7 @@
 ||eastern-oregon-university.cfd^
 ||easternmichinga-emb.cfd^
 ||eastfly25.cfd^
+||easy-trackling.cfd^
 ||easycart.cfd^
 ||easyshop.cfd^
 ||eauclairec.cfd^
@@ -6222,7 +6147,6 @@
 ||echa24.cfd^
 ||echneider.cfd^
 ||echoblend.cfd^
-||echocresttech.cfd^
 ||echodnia24.cfd^
 ||echohive.cfd^
 ||echoingwinds.cfd^
@@ -6260,6 +6184,7 @@
 ||edykluo.cfd^
 ||edzkylu.cfd^
 ||edzlkoy.cfd^
+||edzoyku.cfd^
 ||edzyokl.cfd^
 ||ee-fi.cfd^
 ||ee-li.cfd^
@@ -6269,7 +6194,6 @@
 ||ef-234fls.cfd^
 ||efdd782o.cfd^
 ||effectyrtygy.cfd^
-||efficienttradelinks.cfd^
 ||efo-usow.cfd^
 ||efocl.cfd^
 ||efr-42kw.cfd^
@@ -6295,10 +6219,8 @@
 ||egnelicia.cfd^
 ||egpost.cfd^
 ||egriness.cfd^
-||egrum-df.cfd^
 ||egtrtk.cfd^
 ||eguhtswnqz.cfd^
-||egy-ptpost.cfd^
 ||egypt-post.cfd^
 ||ehemcla.cfd^
 ||eiadesistembasvuru.cfd^
@@ -6343,7 +6265,6 @@
 ||electric-cars-2025-dk.cfd^
 ||electric-cars-2025-pt.cfd^
 ||electric-cars-2025-ro.cfd^
-||electric-cars-2025-sg.cfd^
 ||electric-cars-2025-tr.cfd^
 ||electrical-and-engineering.cfd^
 ||electrical-engineering-degree.cfd^
@@ -6356,10 +6277,8 @@
 ||electronics-engineering.cfd^
 ||electrosynthesis.cfd^
 ||eleemosynary.cfd^
+||elegancefashionbd.cfd^
 ||elegantsinglesdating.cfd^
-||elegantweddingclassics.cfd^
-||elegantweddingstyle.cfd^
-||elegantweddingthemes.cfd^
 ||eleganzaestatesolutions.cfd^
 ||elemenassociates.cfd^
 ||eleva.cfd^
@@ -6377,7 +6296,6 @@
 ||elite-999-casino.cfd^
 ||elite-eye-care.cfd^
 ||elite-medical-academy.cfd^
-||elitesporthub.cfd^
 ||elitics.cfd^
 ||elkodyu.cfd^
 ||elkuoyz.cfd^
@@ -6503,6 +6421,7 @@
 ||emulines-net.cfd^
 ||emvita.cfd^
 ||enaktogelr.cfd^
+||enaliosaurian.cfd^
 ||encecairn.cfd^
 ||enclosed-trailers-7092.cfd^
 ||enclosed-trailers-9050.cfd^
@@ -6554,7 +6473,6 @@
 ||epgovpk.cfd^
 ||epicnewspl.cfd^
 ||epicpath.cfd^
-||epicsportzone.cfd^
 ||epidemicsound.cfd^
 ||epoxy-for-a-garage-floor.cfd^
 ||epsi999v.cfd^
@@ -6584,7 +6502,6 @@
 ||eraafatamm.cfd^
 ||eradasues.cfd^
 ||eragfaatreneka.cfd^
-||erectile-dysfunction-treatment-2025-de.cfd^
 ||erectile-dysfunction-treatment-2025-it.cfd^
 ||erfolk.cfd^
 ||erformance.cfd^
@@ -6611,6 +6528,7 @@
 ||eryfudvsuhidsli.cfd^
 ||eryfudvuhidsli.cfd^
 ||esaninow.cfd^
+||esarpost.cfd^
 ||esbyc6.cfd^
 ||esddkss.cfd^
 ||esemkajaya.cfd^
@@ -6631,10 +6549,11 @@
 ||estate-lawyer.cfd^
 ||estate-planning-attorney-near-me.cfd^
 ||estate-planning-lawyer.cfd^
+||estate-planning-lawyers-near-me.cfd^
+||estate-planning-lawyers.cfd^
 ||esthermaidservices.cfd^
 ||estogelg.cfd^
 ||estoy23vip.cfd^
-||estudiar-auxiliar-enfermeria-online-3.cfd^
 ||estv-online.cfd^
 ||estv-taxrefund.cfd^
 ||et9wb46j.cfd^
@@ -6646,6 +6565,7 @@
 ||eternalgrace.cfd^
 ||etftapoyapaymentint.cfd^
 ||ethsoft.cfd^
+||etiisal.cfd^
 ||etiquette-forseller-february.cfd^
 ||etkuu.cfd^
 ||etlrxazw.cfd^
@@ -6667,7 +6587,6 @@
 ||euuycrrf.cfd^
 ||euyldok.cfd^
 ||euzdlyo.cfd^
-||euzloyd.cfd^
 ||evcgftygikhug.cfd^
 ||evcrichads.cfd^
 ||evenietlaboriosam.cfd^
@@ -6675,7 +6594,6 @@
 ||eventfoundry.cfd^
 ||everbrook-academy.cfd^
 ||everglowpath.cfd^
-||evergreendrivesolutions.cfd^
 ||evergreenpath.cfd^
 ||everlasting-love-hq.cfd^
 ||everyonehelps.cfd^
@@ -6707,11 +6625,11 @@
 ||exemaunadyaqyt.cfd^
 ||exhfgfkjhgghjkh.cfd^
 ||exnomyiuood.cfd^
+||expeditive.cfd^
 ||experiencee.cfd^
 ||expert-101-poker.cfd^
 ||expert-789-team.cfd^
 ||expertlocksmithservice.cfd^
-||experttradeexchange.cfd^
 ||explorat.cfd^
 ||exploreecho.cfd^
 ||exploreeclipse.cfd^
@@ -6730,7 +6648,6 @@
 ||exterminator-services-2-br-11881.cfd^
 ||exterminator-services-2-br-11882.cfd^
 ||extrapulmonary.cfd^
-||extremesportaction.cfd^
 ||eybaba.cfd^
 ||eyduokz.cfd^
 ||eye-care.cfd^
@@ -6752,7 +6669,6 @@
 ||eyhiyitfytuyi.cfd^
 ||eyluzod.cfd^
 ||eylzkuo.cfd^
-||eyodluz.cfd^
 ||eyudloz.cfd^
 ||eyzkuod.cfd^
 ||eyzokud.cfd^
@@ -6820,9 +6736,6 @@
 ||ezdrvema.cfd^
 ||ezdrvemagroup.cfd^
 ||ezdrvemaonline.cfd^
-||ezdviema.cfd^
-||ezdviemagroup.cfd^
-||ezdviemaonline.cfd^
 ||ezicuso.cfd^
 ||ezldkyu.cfd^
 ||ezloudy.cfd^
@@ -6849,9 +6762,6 @@
 ||eztsup.cfd^
 ||eztsupgroup.cfd^
 ||ezudlyo.cfd^
-||ezuebviema.cfd^
-||ezuebviemagroup.cfd^
-||ezuebviemaonline.cfd^
 ||ezwalkiima.cfd^
 ||ezycuso.cfd^
 ||ezyderivema.cfd^
@@ -6870,7 +6780,6 @@
 ||f5k8t0z.cfd^
 ||f70uly.cfd^
 ||f7kqw1t.cfd^
-||f7q13w.cfd^
 ||f88x.cfd^
 ||f8ec.cfd^
 ||f8fa6g.cfd^
@@ -6908,6 +6817,8 @@
 ||family-dental-care.cfd^
 ||family-emergency.cfd^
 ||family-funeral-insurance-2-br-11880.cfd^
+||family-funeral-insurance-2-br-11882.cfd^
+||family-funeral-insurance-2-br-11885.cfd^
 ||family-law-attorneys.cfd^
 ||family-law-lawyer.cfd^
 ||family-law-lawyers.cfd^
@@ -6965,8 +6876,6 @@
 ||faswin77v.cfd^
 ||fat-removal-2025-de.cfd^
 ||fate-grand-order.cfd^
-||fatty-liver-treatment4.cfd^
-||fatty-liver-treatment5.cfd^
 ||fau-acceptance-rate.cfd^
 ||faxporn-comic.cfd^
 ||fazaniked.cfd^
@@ -7020,7 +6929,6 @@
 ||fengyue.cfd^
 ||fepedy.cfd^
 ||ferandozpooliks.cfd^
-||fernstudium-2.cfd^
 ||fernstudium-kosten-01.cfd^
 ||fernstudium-kosten.cfd^
 ||fertuferer.cfd^
@@ -7069,7 +6977,6 @@
 ||fic-uk.cfd^
 ||ficagin.cfd^
 ||ficatip.cfd^
-||ficeauth.cfd^
 ||ficusfino.cfd^
 ||fidelity-credit-card.cfd^
 ||fidelity-ira.cfd^
@@ -7088,13 +6995,11 @@
 ||figlaks.cfd^
 ||figure-ai.cfd^
 ||fileescd.cfd^
-||filesweinling.cfd^
 ||filmotip.cfd^
 ||filmovizija.cfd^
 ||filteringy3.cfd^
 ||fin-tech.cfd^
 ||financeboost.cfd^
-||financegold.cfd^
 ||financemap.cfd^
 ||financepros.cfd^
 ||financial-advisor-near-me.cfd^
@@ -7111,7 +7016,6 @@
 ||financialpulse.cfd^
 ||financialriskconsultant.cfd^
 ||fincastleiu.cfd^
-||fincorporates.cfd^
 ||find-job-1110.cfd^
 ||findtotip.cfd^
 ||findyourlovesingle.cfd^
@@ -7127,6 +7031,7 @@
 ||firewalkinglatino.cfd^
 ||firewin.cfd^
 ||fironidi.cfd^
+||firsatramazan.cfd^
 ||first-baptist-academy.cfd^
 ||first-baptist-church.cfd^
 ||first-call.cfd^
@@ -7202,17 +7107,10 @@
 ||flsq1.cfd^
 ||flsq2.cfd^
 ||flsq3.cfd^
-||flsr1.cfd^
-||flsr2.cfd^
-||flsr3.cfd^
-||flsr4.cfd^
-||flsr5.cfd^
-||flsr6.cfd^
-||flsr7.cfd^
-||flsr8.cfd^
 ||fluff.cfd^
 ||flumplen.cfd^
 ||fluv-2025.cfd^
+||fluzze.cfd^
 ||flybyjing.cfd^
 ||flying-kite.cfd^
 ||fml-alert.cfd^
@@ -7237,9 +7135,6 @@
 ||food-poisoning-supportive-therapy.cfd^
 ||food-trailer-6825.cfd^
 ||foodae24.cfd^
-||foodfusionflavors.cfd^
-||foodiefiestazone.cfd^
-||foodloversparadise.cfd^
 ||foodtopia.cfd^
 ||fopewyh.cfd^
 ||forbianca111.cfd^
@@ -7269,7 +7164,6 @@
 ||fort-worth-isd.cfd^
 ||fortenewspoint.cfd^
 ||forthgivenvq45pp.cfd^
-||fortinvest.cfd^
 ||fortran.cfd^
 ||fortuneexcelsiorinnovations.cfd^
 ||fortunelane.cfd^
@@ -7303,6 +7197,7 @@
 ||fourjau8.cfd^
 ||fourjau9.cfd^
 ||fourththroughoutjc6je.cfd^
+||fowled.cfd^
 ||fox-communities-credit-union.cfd^
 ||fox-eye-lift.cfd^
 ||foxplay.cfd^
@@ -7351,15 +7246,8 @@
 ||fresh-movie.cfd^
 ||fresh-off-the-boat.cfd^
 ||fresh-pet-dog-food.cfd^
-||freshapparelstore.cfd^
-||freshbitefood.cfd^
-||freshbitesdaily.cfd^
 ||freshdigest.cfd^
-||freshfitapparel.cfd^
-||freshflavorjourneys.cfd^
-||freshfoodmarket.cfd^
 ||freshheritage.cfd^
-||freshimpactnews.cfd^
 ||freshnewshub.cfd^
 ||freshperspectivenews.cfd^
 ||friday-after-next.cfd^
@@ -7371,15 +7259,8 @@
 ||frkc6.cfd^
 ||frkc7.cfd^
 ||frkc8.cfd^
-||frlx1.cfd^
-||frlx2.cfd^
-||frlx3.cfd^
-||frlx4.cfd^
-||frlx5.cfd^
-||frlx6.cfd^
-||frlx7.cfd^
-||frlx8.cfd^
 ||front-doors-3598.cfd^
+||frontier-internet-customer-service.cfd^
 ||frouw348c8.cfd^
 ||frql1.cfd^
 ||frql2.cfd^
@@ -7415,16 +7296,7 @@
 ||fso4fg6r.cfd^
 ||fstvl83.cfd^
 ||fstvl97.cfd^
-||ftekal.cfd^
 ||ftikalo.cfd^
-||ftrb1.cfd^
-||ftrb2.cfd^
-||ftrb3.cfd^
-||ftrb4.cfd^
-||ftrb5.cfd^
-||ftrb6.cfd^
-||ftrb7.cfd^
-||ftrb8.cfd^
 ||fttuk.cfd^
 ||fu6-589.cfd^
 ||fuckoffdmca.cfd^
@@ -7435,6 +7307,7 @@
 ||fuji666j.cfd^
 ||fujiwin888r.cfd^
 ||fujiwin888v.cfd^
+||fujiwinn.cfd^
 ||fulextx.cfd^
 ||fulfillments.cfd^
 ||full-coverage-auto-insurance.cfd^
@@ -7443,7 +7316,16 @@
 ||full-synthetic-oil-change-near-me.cfd^
 ||full-synthetic-oil-change.cfd^
 ||full4drive.cfd^
-||fullertonhotelreserv-id7862.cfd^
+||fullcopecaun-cl.cfd^
+||fullcopecdez-cl.cfd^
+||fullcopecdst-cl.cfd^
+||fullcopecjkz-cl.cfd^
+||fullcopeckkt-cl.cfd^
+||fullcopecsnk-cl.cfd^
+||fullcopectma-cl.cfd^
+||fullcopecuzs-cl.cfd^
+||fullcopecyec-cl.cfd^
+||fullcopeczzd-cl.cfd^
 ||fullproofstop.cfd^
 ||fulton-science-academy.cfd^
 ||fultotoj.cfd^
@@ -7453,7 +7335,6 @@
 ||fundmaster.cfd^
 ||funds-receive.cfd^
 ||funeral-2025-au.cfd^
-||funeral-2025-de.cfd^
 ||funeral-2025-dk.cfd^
 ||funeral-2025-it.cfd^
 ||funeral-2025-nl.cfd^
@@ -7464,14 +7345,12 @@
 ||furnace-repair-near-me.cfd^
 ||furniture-for-you-ht.cfd^
 ||furniture-for-you-tt.cfd^
-||furniture-for-you.cfd^
 ||fusion-academy.cfd^
 ||futbollibre.cfd^
 ||futijic.cfd^
 ||future-999-coin.cfd^
 ||futurebyte.cfd^
 ||futurefit.cfd^
-||futureinvestprosper.cfd^
 ||futuresolutions.cfd^
 ||futuretoday.cfd^
 ||fuyfdsrwazdesrdtdr.cfd^
@@ -7492,14 +7371,6 @@
 ||fxls7.cfd^
 ||fxls8.cfd^
 ||fxsenior.cfd^
-||fxtl1.cfd^
-||fxtl2.cfd^
-||fxtl3.cfd^
-||fxtl4.cfd^
-||fxtl5.cfd^
-||fxtl6.cfd^
-||fxtl7.cfd^
-||fxtl8.cfd^
 ||fxz745.cfd^
 ||fyhfzvqz.cfd^
 ||fyrnvhihgfg.cfd^
@@ -7570,7 +7441,6 @@
 ||gaichong8.cfd^
 ||gaichong9.cfd^
 ||gainengine.cfd^
-||gainex.cfd^
 ||galacticexims.cfd^
 ||galacticthinkers.cfd^
 ||galaxy-ai.cfd^
@@ -7655,7 +7525,6 @@
 ||gardeniasim.cfd^
 ||gareawewase.cfd^
 ||garilla-cacinoz.cfd^
-||garryjayalive77.cfd^
 ||garuda333n.cfd^
 ||garuda33j.cfd^
 ||gas189v.cfd^
@@ -7686,7 +7555,6 @@
 ||gazovoi.cfd^
 ||gb-self-build-log-cabins-1701j.cfd^
 ||gb-self-build-log-cabins-4871j.cfd^
-||gb88-rtp.cfd^
 ||gbaliexpresshognv.cfd^
 ||gbay-us.cfd^
 ||gbo777f.cfd^
@@ -7698,13 +7566,12 @@
 ||gcr188.cfd^
 ||gcr88bet.cfd^
 ||gcvduqokja.cfd^
+||gd53.cfd^
 ||gdaznixj.cfd^
-||gdesl.cfd^
 ||gdezc.cfd^
 ||gdsadcd.cfd^
 ||gdsrf.cfd^
 ||gear-oil.cfd^
-||gedeaoenergiasolar.cfd^
 ||gefxchaocs.cfd^
 ||gege88.cfd^
 ||geico-car-insurance.cfd^
@@ -7770,9 +7637,7 @@
 ||getbkcsh.cfd^
 ||getcadnumber7246.cfd^
 ||getdosomailipd.cfd^
-||getempoweraccess.cfd^
 ||getezridesur.cfd^
-||getmoney.cfd^
 ||getournewprjctdoc.cfd^
 ||getty-center.cfd^
 ||getukpola.cfd^
@@ -7793,10 +7658,10 @@
 ||ggkkffgroup.cfd^
 ||ggllgg.cfd^
 ||ggmamanerf.cfd^
-||ggpart.cfd^
 ||ggshqeiqshqua-ahshhquqgsqh.cfd^
 ||ghashang.cfd^
 ||ghashogh-badan.cfd^
+||gheenholt.cfd^
 ||ghelop.cfd^
 ||ghesta.cfd^
 ||ghestaa.cfd^
@@ -7877,7 +7742,6 @@
 ||gleamique.cfd^
 ||gleasoe.cfd^
 ||gleefulgalaxy.cfd^
-||gleoson.cfd^
 ||glffub.cfd^
 ||gliaipol.cfd^
 ||glim-makximalua.cfd^
@@ -7889,15 +7753,7 @@
 ||globali1minfenua.cfd^
 ||globalimpact.cfd^
 ||globalindustrailtrade.cfd^
-||globalinsightnews.cfd^
-||globalinvestguide.cfd^
-||globalnewscenter.cfd^
-||globalnewshorizon.cfd^
 ||globalscopenews.cfd^
-||globaltradeexperts.cfd^
-||globaltradenet.cfd^
-||globaltradeportal.cfd^
-||globaltradesolutions.cfd^
 ||globaltribune.cfd^
 ||globalvision.cfd^
 ||globalvoices.cfd^
@@ -7908,13 +7764,11 @@
 ||glowness.cfd^
 ||gls-online-payments.cfd^
 ||glucosemeter-1110.cfd^
-||gmeop-rl.cfd^
 ||gmgnonai.cfd^
 ||gmoh4v.cfd^
 ||gms-play-casino.cfd^
 ||gmtree.cfd^
 ||gn-nursing-fr.cfd^
-||gn33-rtp.cfd^
 ||gnajjub2.cfd^
 ||gnghgj8848.cfd^
 ||gnymq.cfd^
@@ -7972,6 +7826,7 @@
 ||gonkol.cfd^
 ||gonzskimann.cfd^
 ||good-audio-books.cfd^
+||good-luck-charlie.cfd^
 ||goodcharm.cfd^
 ||goodcyg.cfd^
 ||goodeeworld.cfd^
@@ -7980,6 +7835,7 @@
 ||goodmachines.cfd^
 ||goodwin-law.cfd^
 ||googee.cfd^
+||gookep.cfd^
 ||gopek17r.cfd^
 ||gopek17v.cfd^
 ||gopek78v.cfd^
@@ -7998,8 +7854,6 @@
 ||gototogelr.cfd^
 ||gotototor.cfd^
 ||gotporn.cfd^
-||gourmetfooddiscovery.cfd^
-||gourmetfoodhub.cfd^
 ||gousege.cfd^
 ||govedd.cfd^
 ||governmentalassembly.cfd^
@@ -8015,7 +7869,6 @@
 ||gpc69638.cfd^
 ||gpc79623.cfd^
 ||gpdp-award.cfd^
-||gpe-erufb.cfd^
 ||gpei-gr.cfd^
 ||gpostge.cfd^
 ||gpostoffice.cfd^
@@ -8043,7 +7896,6 @@
 ||greece-vacation-01.cfd^
 ||greece-vacation-02.cfd^
 ||greece-vacation-08.cfd^
-||greegholt.cfd^
 ||green-eggs-and-ham-book.cfd^
 ||green-valley-book-fair.cfd^
 ||green3872.cfd^
@@ -8055,7 +7907,6 @@
 ||grewmaterialux5pvf.cfd^
 ||greypro.cfd^
 ||gridwander.cfd^
-||grocerly.cfd^
 ||grocery-delivery-near-me.cfd^
 ||grok3.cfd^
 ||groknroll.cfd^
@@ -8095,18 +7946,15 @@
 ||guariibapassaro.cfd^
 ||gubahyh.cfd^
 ||guest-reserv.cfd^
-||guglobeul.cfd^
 ||guidetogardensgourmet.cfd^
 ||guilherme123.cfd^
 ||guilherme432.cfd^
 ||guladanmadu.cfd^
-||guleglobeul.cfd^
 ||gulggwski.cfd^
 ||gulgowiki.cfd^
 ||gulgowski.cfd^
 ||gulkeyif2025.cfd^
 ||gulkeyif365.cfd^
-||gumanitarkhrest.cfd^
 ||gumanitsochresti.cfd^
 ||gumanitsockhrest.cfd^
 ||gumansochresti.cfd^
@@ -8159,6 +8007,7 @@
 ||gv2v1eif.cfd^
 ||gvefin.cfd^
 ||gvfuqshb.cfd^
+||gvt1.cfd^
 ||gwopycbc.cfd^
 ||gws888n.cfd^
 ||gxbonline.cfd^
@@ -8178,6 +8027,7 @@
 ||h1oc.cfd^
 ||h1rb.cfd^
 ||h2m-s3z.cfd^
+||h2slotn.cfd^
 ||h2ub5fq.cfd^
 ||h3e98xaz.cfd^
 ||h4800.cfd^
@@ -8189,11 +8039,11 @@
 ||h9dm3yx.cfd^
 ||habavvcdcfsecdvcxcv.cfd^
 ||hacketa.cfd^
-||hackslotrahasia.cfd^
 ||hadaya.cfd^
 ||haddadi.cfd^
 ||hadikeyif365.cfd^
 ||hadpostam.cfd^
+||haffle.cfd^
 ||haffners-oil.cfd^
 ||hafu.cfd^
 ||hagur.cfd^
@@ -8203,7 +8053,6 @@
 ||hair-transplant-91.cfd^
 ||hair-transplant-96.cfd^
 ||hair-transplantation-2025-hu.cfd^
-||hair-transplantation2.cfd^
 ||haitunzy.cfd^
 ||hakadune.cfd^
 ||halalinvest.cfd^
@@ -8214,7 +8063,6 @@
 ||halostrseamtech.cfd^
 ||halosukses.cfd^
 ||halvorhon.cfd^
-||halvoroon.cfd^
 ||hamalopingin.cfd^
 ||hambawinv.cfd^
 ||hamguzin.cfd^
@@ -8222,9 +8070,9 @@
 ||hand-doctor-near-me.cfd^
 ||hand-drawn-cinema.cfd^
 ||hand-therapy.cfd^
-||handbags-2025-es.cfd^
 ||handcrafted-doodles.cfd^
 ||handy-vertrag.cfd^
+||handyman-services-near-me.cfd^
 ||hange.cfd^
 ||hangover-supportive-therapy.cfd^
 ||hanoman888j.cfd^
@@ -8251,7 +8099,6 @@
 ||harrys-law.cfd^
 ||harshallotment.cfd^
 ||harta888j.cfd^
-||hartmmnn.cfd^
 ||hartnann.cfd^
 ||harvard-business-review.cfd^
 ||harvard-business-school.cfd^
@@ -8265,11 +8112,13 @@
 ||havnseibu.cfd^
 ||havten.cfd^
 ||haxccccmac.cfd^
+||haypostl-am.cfd^
 ||haystvmx.cfd^
 ||hayyrdsdr19.cfd^
 ||hayyrxcdsdr20.cfd^
 ||hayyrxdssacdsdr21.cfd^
 ||hbbph.cfd^
+||hbfdgshtgr.cfd^
 ||hbhus.cfd^
 ||hbhylguhr.cfd^
 ||hblus.cfd^
@@ -8298,7 +8147,6 @@
 ||health-equity-login.cfd^
 ||health-equity-wageworks.cfd^
 ||health-equity.cfd^
-||health4all-2025-us.cfd^
 ||healthflow.cfd^
 ||healthyrootsdolls.cfd^
 ||hearing-aids-2025-gr.cfd^
@@ -8326,6 +8174,7 @@
 ||heavy-load-trucking-companies-2702.cfd^
 ||heavy-r.cfd^
 ||hebat33.cfd^
+||hefgh.cfd^
 ||hegmgnn.cfd^
 ||heifering.cfd^
 ||heiqianwai.cfd^
@@ -8356,6 +8205,7 @@
 ||her-name-is-han.cfd^
 ||heraderhe.cfd^
 ||herdsika.cfd^
+||herman4dn.cfd^
 ||hermeneutically.cfd^
 ||hermestogelj.cfd^
 ||hermistmn.cfd^
@@ -8417,6 +8267,7 @@
 ||hiremuti.cfd^
 ||hirenotify.cfd^
 ||hirmiston.cfd^
+||hitamakuna.cfd^
 ||hitclubx.cfd^
 ||hits4dv.cfd^
 ||hiutdenim.cfd^
@@ -8480,6 +8331,7 @@
 ||home-center-id106004.cfd^
 ||home-center-pages-40001.cfd^
 ||home-center-pages-40004.cfd^
+||home-cleaning-services-near-me.cfd^
 ||home-equity-interest-rates.cfd^
 ||home-equity-investment.cfd^
 ||home-equity-lenders.cfd^
@@ -8498,7 +8350,6 @@
 ||home-renovation-103.cfd^
 ||home-renovation-692.cfd^
 ||home-renovation.cfd^
-||home-renovation2.cfd^
 ||home-security-cameras-1.cfd^
 ||home-shopping-network.cfd^
 ||home-team-pest-defense.cfd^
@@ -8603,7 +8454,6 @@
 ||houlang.cfd^
 ||house-1112.cfd^
 ||house-1113.cfd^
-||house-clearance-2025-gb.cfd^
 ||house-for-sale.cfd^
 ||housepainters.cfd^
 ||houston-water.cfd^
@@ -8673,7 +8523,6 @@
 ||huahailou14.cfd^
 ||huang123.cfd^
 ||huanguozhuzhaizhuanxian9527.cfd^
-||huat138-user.cfd^
 ||hubbkmoi.cfd^
 ||hubble-contacts.cfd^
 ||hubtotoasek.cfd^
@@ -8690,7 +8539,6 @@
 ||humastoton.cfd^
 ||humeroscapular.cfd^
 ||hummingbird-feather-leaf-fig-feedersaygoodbyetohummingbird-obey.cfd^
-||hummingbird-helicopter-and-aeroplane-tiltrotor-vehicle-emergenc.cfd^
 ||humokix.cfd^
 ||hunbb.cfd^
 ||hunbmletrackpro.cfd^
@@ -8714,6 +8562,7 @@
 ||hvac-repair-near-me.cfd^
 ||hvac-service-9254.cfd^
 ||hvac-service-near-me.cfd^
+||hvac-services-near-me.cfd^
 ||hvacservices-1110.cfd^
 ||hvacservices-1111.cfd^
 ||hwdb-shop.cfd^
@@ -8740,7 +8589,6 @@
 ||hyperfhtrelowtech.cfd^
 ||hypergfghrtlide.cfd^
 ||hyperkindomaetoys.cfd^
-||hypermetamorphic.cfd^
 ||hyperplayer.cfd^
 ||hyperspacemail.cfd^
 ||hypertv.cfd^
@@ -8760,7 +8608,6 @@
 ||i6r6mn.cfd^
 ||i88x.cfd^
 ||i9bet41.cfd^
-||iabrasil.cfd^
 ||iacejkovic.cfd^
 ||iannaparato.cfd^
 ||iaseniorz.cfd^
@@ -8785,6 +8632,7 @@
 ||iceman.cfd^
 ||iceteam.cfd^
 ||icl-surgery.cfd^
+||ico-vip.cfd^
 ||icommescola.cfd^
 ||icorp.cfd^
 ||id-info-reserv64727.cfd^
@@ -8803,6 +8651,7 @@
 ||id5812343.cfd^
 ||id5812345.cfd^
 ||id5812346.cfd^
+||id5812347.cfd^
 ||id743-hotel.cfd^
 ||id9245111.cfd^
 ||id985423.cfd^
@@ -8818,14 +8667,12 @@
 ||idealiptv.cfd^
 ||ideapicnic.cfd^
 ||idfgy.cfd^
-||idfhdkjadfsdo.cfd^
 ||idguest44215.cfd^
 ||idguest7325.cfd^
 ||idguestres72346.cfd^
 ||idiologism.cfd^
 ||idkomodo69.cfd^
 ||idkstarv.cfd^
-||idnarenagamertp.cfd^
 ||idramplus.cfd^
 ||idserv.cfd^
 ||idsupootrpolicitransparency-meta.cfd^
@@ -8843,6 +8690,7 @@
 ||ifo1x9.cfd^
 ||ifoxf2.cfd^
 ||ifs-therapy.cfd^
+||iftarsofrasipttden.cfd^
 ||iftyfxyf.cfd^
 ||igaming-x.cfd^
 ||igdignww.cfd^
@@ -8862,18 +8710,15 @@
 ||ikea-kitchen-planner.cfd^
 ||ikelhvcw.cfd^
 ||iklvey.cfd^
+||iknkalimantan.cfd^
 ||ikonwinv.cfd^
+||ikuikl.cfd^
 ||ikzkolada.cfd^
 ||ikzkoladaof.cfd^
 ||ikzkoladaosf.cfd^
 ||ikzkolas.cfd^
 ||ikzkolasa.cfd^
 ||il5j8a.cfd^
-||iladeiric.cfd^
-||ilderico.cfd^
-||iledairic.cfd^
-||ilediric.cfd^
-||iledricari.cfd^
 ||ilgeniodellostreaming.cfd^
 ||ilj9.cfd^
 ||ilmwygvsto.cfd^
@@ -8901,11 +8746,6 @@
 ||inajepe135.cfd^
 ||inapakeage.cfd^
 ||inatgirisamp.cfd^
-||inattv11.cfd^
-||inattv12.cfd^
-||inattv13.cfd^
-||inattv14.cfd^
-||inattv15.cfd^
 ||inattv16.cfd^
 ||inattv17.cfd^
 ||inattv18.cfd^
@@ -8963,19 +8803,18 @@
 ||indobetalisha.cfd^
 ||indobetaminah.cfd^
 ||indobetana.cfd^
-||indobetduniaku.cfd^
-||indobetjoker.cfd^
-||indobetjumper.cfd^
-||indobetpawangnya.cfd^
-||indobetsayangku.cfd^
+||indobetpele.cfd^
+||indobetperon.cfd^
 ||indokslotv.cfd^
 ||indomasterj.cfd^
 ||indonesiabokep.cfd^
 ||indoor-swimming-pools.cfd^
 ||indoslotmania.cfd^
 ||indowinj.cfd^
+||indra4dn.cfd^
 ||indraja.cfd^
 ||indratotog.cfd^
+||indratoton.cfd^
 ||industrial-engineering.cfd^
 ||ineco-getpayment.cfd^
 ||ineco.cfd^
@@ -8996,7 +8835,6 @@
 ||infighnihgrtttewhiz.cfd^
 ||infihydthfrfgj.cfd^
 ||infinihftrtetide.cfd^
-||infiniteartscene.cfd^
 ||infinitejourney.cfd^
 ||inflation-reduction-act.cfd^
 ||info-docviewer.cfd^
@@ -9037,10 +8875,6 @@
 ||inn-post.cfd^
 ||innit.cfd^
 ||innovation-academy.cfd^
-||innovativeartgallery.cfd^
-||innovativeinvestapproach.cfd^
-||innovativesportgear.cfd^
-||innovativetradesolutions.cfd^
 ||innspost.cfd^
 ||inote.cfd^
 ||inpost-pl.cfd^
@@ -9051,7 +8885,6 @@
 ||inshipfast.cfd^
 ||inshmily.cfd^
 ||insighgsvtflow.cfd^
-||inspireaccess.cfd^
 ||inspireprosper.cfd^
 ||inspiresphere.cfd^
 ||install-solar-panels.cfd^
@@ -9059,9 +8892,7 @@
 ||installerppi.cfd^
 ||installsppi.cfd^
 ||instant-oil-change.cfd^
-||instantcoveragenews.cfd^
 ||instantrelacje.cfd^
-||instanttradeaccess.cfd^
 ||institute-for-the-study-of-war.cfd^
 ||insurance-agency.cfd^
 ||insurance-agent-near-me.cfd^
@@ -9072,10 +8903,6 @@
 ||insurance-companies-near-me.cfd^
 ||insurance-lawyer.cfd^
 ||insurance-near-me.cfd^
-||insurance-quotes-001.cfd^
-||insurance-quotes-002.cfd^
-||insurance-quotes-003.cfd^
-||insurance-quotes-004.cfd^
 ||insurifypro.cfd^
 ||int-cad-exchange-id1508.cfd^
 ||int-cad-exchange-id753.cfd^
@@ -9083,7 +8910,6 @@
 ||int-exchange-cad-id2285.cfd^
 ||int-exchange-id73.cfd^
 ||int-exchangecad-id185.cfd^
-||int-exchangecad-id27825.cfd^
 ||int-exchcad-667046.cfd^
 ||int-id162254e.cfd^
 ||int-id6625147r.cfd^
@@ -9124,12 +8950,11 @@
 ||interac-transfers-sending.cfd^
 ||interacetrans.cfd^
 ||interactransfer-info.cfd^
-||interactrustedservice.cfd^
 ||intercad-e-transferid18212.cfd^
 ||intercad-e-transferld96512.cfd^
 ||intercad-id847.cfd^
 ||intercad-idtransfer109723.cfd^
-||interia.cfd^
+||interior-design.cfd^
 ||internal-family-systems-therapy.cfd^
 ||internal-medicine.cfd^
 ||international-law.cfd^
@@ -9147,6 +8972,7 @@
 ||intra1cad-id2745.cfd^
 ||intra1cad-id55.cfd^
 ||intra7cad-id25.cfd^
+||intramurx99idx.cfd^
 ||intrclink.cfd^
 ||intuit-academy.cfd^
 ||inuranceoffers-002.cfd^
@@ -9155,11 +8981,8 @@
 ||invesdonat.cfd^
 ||invesmonas.cfd^
 ||invest-888-net.cfd^
-||investfutureguide.cfd^
 ||investfuturetoday.cfd^
-||investfuturewise.cfd^
 ||investgrowth.cfd^
-||investgrowthsuccess.cfd^
 ||investinggss.cfd^
 ||investisseur-bourse-01.cfd^
 ||investisseur-bourse-02.cfd^
@@ -9253,11 +9076,6 @@
 ||itbzona.cfd^
 ||itcapitale.cfd^
 ||itdkss.cfd^
-||itiliadaric.cfd^
-||itilida.cfd^
-||itilidar.cfd^
-||itilidari.cfd^
-||itilidaric.cfd^
 ||itinnovatecore.cfd^
 ||itlwxy.cfd^
 ||itnatc.cfd^
@@ -9276,7 +9094,6 @@
 ||iuyee.cfd^
 ||iv-vitamin-therapy.cfd^
 ||iv88.cfd^
-||ivencliw.cfd^
 ||ivermectin-cancer.cfd^
 ||ivermectin-for-cancer.cfd^
 ||iviugnekuvufny.cfd^
@@ -9286,6 +9103,7 @@
 ||ivnkzstiz.cfd^
 ||ivnkzstiza.cfd^
 ||ivnkzstizaa.cfd^
+||ivoxygenmus.cfd^
 ||ivseniorz.cfd^
 ||ivy-ridge-academy.cfd^
 ||ivybrook-academy.cfd^
@@ -9320,7 +9138,6 @@
 ||jabuticabeiraroxa.cfd^
 ||jackpot-777-bet.cfd^
 ||jackpothunt.cfd^
-||jackpotrtptotogg88.cfd^
 ||jackycheng.cfd^
 ||jacobs-engineering-group.cfd^
 ||jadijp180.cfd^
@@ -9344,7 +9161,6 @@
 ||jandaslotj.cfd^
 ||jandatogelr.cfd^
 ||jandatogelv.cfd^
-||janetechcourse.cfd^
 ||jangan1.cfd^
 ||jangan2.cfd^
 ||jangan3.cfd^
@@ -9355,6 +9171,7 @@
 ||janjimenang.cfd^
 ||janjitogelg.cfd^
 ||janjitogelv.cfd^
+||janjiwingacor.cfd^
 ||jao68zfx.cfd^
 ||jaoobson.cfd^
 ||japanese-frame-arts.cfd^
@@ -9369,6 +9186,7 @@
 ||jaskolski.cfd^
 ||jasmine-api.cfd^
 ||jasper-ai.cfd^
+||jastogeln.cfd^
 ||java30j.cfd^
 ||java33j.cfd^
 ||javguru.cfd^
@@ -9385,7 +9203,7 @@
 ||jd7188.cfd^
 ||jdfcidrk.cfd^
 ||jdhcxwqvtm.cfd^
-||jdsfgudiedbfy.cfd^
+||jdiufh.cfd^
 ||jdtkhmhg.cfd^
 ||jebol4dg.cfd^
 ||jeboltotog.cfd^
@@ -9425,6 +9243,7 @@
 ||jhu-acceptance-rate.cfd^
 ||jiatll1.cfd^
 ||jienijery.cfd^
+||jiffmen.cfd^
 ||jiffy-lube-coupon-oil-change.cfd^
 ||jiffy-lube-oil-change-coupons.cfd^
 ||jiffy-lube-prices-oil-change.cfd^
@@ -9436,6 +9255,7 @@
 ||jingpin.cfd^
 ||jingpin5.cfd^
 ||jingpinge529.cfd^
+||jingpyn.cfd^
 ||jinjyw.cfd^
 ||jiolass.cfd^
 ||jiolassaq.cfd^
@@ -9455,7 +9275,6 @@
 ||jkncc.cfd^
 ||jknkk.cfd^
 ||jkt333v.cfd^
-||jktotoalam.cfd^
 ||jktotobersama.cfd^
 ||jktotohoki.cfd^
 ||jktotokhusus.cfd^
@@ -9477,7 +9296,6 @@
 ||jngj99.cfd^
 ||jnolpy.cfd^
 ||jnsfooe.cfd^
-||jntracad-id82com.cfd^
 ||joao567.cfd^
 ||joaoboboppassaro.cfd^
 ||joaograndeppassaro.cfd^
@@ -9497,6 +9315,7 @@
 ||jokerdc.cfd^
 ||jokerdnext.cfd^
 ||jollyrex.cfd^
+||joonson.cfd^
 ||jordanx.cfd^
 ||jos007-joss.cfd^
 ||jos16j.cfd^
@@ -9507,14 +9326,12 @@
 ||journeyjolt.cfd^
 ||joyfuljourneys.cfd^
 ||joyjamboree.cfd^
-||joyousweddingmoments.cfd^
 ||jp113v.cfd^
 ||jpbroj.cfd^
 ||jphyzbje.cfd^
 ||jpolnxlb.cfd^
 ||jpppnpopronnnosexs.cfd^
 ||jpsq12.cfd^
-||jpx8916.cfd^
 ||jq2zer.cfd^
 ||jrafazdi.cfd^
 ||jrd5g9.cfd^
@@ -9522,6 +9339,7 @@
 ||jrpsnb.cfd^
 ||js5536181.cfd^
 ||jsdagt.cfd^
+||jshk88cuan.cfd^
 ||jsism.cfd^
 ||jskf885.cfd^
 ||jsservice.cfd^
@@ -9634,6 +9452,7 @@
 ||kalahhalk.cfd^
 ||kalarizoptionn.cfd^
 ||kalulawoffices.cfd^
+||kamesushi.cfd^
 ||kangjago88nih.cfd^
 ||kannthson.cfd^
 ||kanshu6.cfd^
@@ -9707,6 +9526,7 @@
 ||kediritotox8.cfd^
 ||kediritotox9.cfd^
 ||kedlyoz.cfd^
+||keelgng.cfd^
 ||keepitup.cfd^
 ||keezmovies.cfd^
 ||kehaqakq.cfd^
@@ -9720,17 +9540,16 @@
 ||kelly-book-value.cfd^
 ||kelopoikiod.cfd^
 ||kelyduo.cfd^
+||kelzix.cfd^
 ||kembe.cfd^
 ||kenafqt.cfd^
 ||kendricklam.cfd^
 ||kenne.cfd^
 ||kenningtonstation.cfd^
-||kent-kacino.cfd^
 ||kentotov.cfd^
 ||kentucky-retirement-system.cfd^
 ||keouzdl.cfd^
 ||keoydlu.cfd^
-||kepalabergetarr9.cfd^
 ||keppersplit.cfd^
 ||kepritotog.cfd^
 ||kera-jt.cfd^
@@ -9766,6 +9585,7 @@
 ||khaplark.cfd^
 ||khba2h.cfd^
 ||khg6yo.cfd^
+||khuyenmaiho.cfd^
 ||kidney-disease-treatment.cfd^
 ||kids-dentist-near-me.cfd^
 ||kijavs.cfd^
@@ -9830,7 +9650,6 @@
 ||kitchen-remodel.cfd^
 ||kitchen-remodelers-near-me.cfd^
 ||kitchen-remodeling-2025-es.cfd^
-||kitchen-remodeling-2025-hu.cfd^
 ||kitchen-remodeling-2025-sk.cfd^
 ||kitchen-remodeling-near-me.cfd^
 ||kitchen-remodeling.cfd^
@@ -9849,6 +9668,7 @@
 ||kkzkaspo.cfd^
 ||klaredeiligekvinner.cfd^
 ||klduoze.cfd^
+||kleyuzd.cfd^
 ||klik77n.cfd^
 ||klik99ok.cfd^
 ||klikmasuk.cfd^
@@ -9887,6 +9707,7 @@
 ||kolowinv.cfd^
 ||komam.cfd^
 ||komiixjp.cfd^
+||komiktoton.cfd^
 ||komm-dekrepto.cfd^
 ||komnop.cfd^
 ||kon1321.cfd^
@@ -9928,13 +9749,6 @@
 ||kqxvvd.cfd^
 ||kr1stal777.cfd^
 ||kr7h.cfd^
-||kra28.cfd^
-||kra29.cfd^
-||kra30.cfd^
-||kra31.cfd^
-||kra32.cfd^
-||kra33.cfd^
-||kra34.cfd^
 ||kra777.cfd^
 ||kra87.cfd^
 ||kraken2025.cfd^
@@ -9954,7 +9768,6 @@
 ||ksplay88maxwinzona.cfd^
 ||ksr88slot.cfd^
 ||kstechco.cfd^
-||kszi9x.cfd^
 ||kszmxgndpq.cfd^
 ||ktcljzyi.cfd^
 ||ktkxugfr.cfd^
@@ -9981,6 +9794,7 @@
 ||kuwoqyn.cfd^
 ||kuyaa.cfd^
 ||kuydloe.cfd^
+||kuyezdo.cfd^
 ||kuying.cfd^
 ||kuyozel.cfd^
 ||kuyzloe.cfd^
@@ -10003,7 +9817,6 @@
 ||kydeolu.cfd^
 ||kydzueo.cfd^
 ||kyezduo.cfd^
-||kyfih.cfd^
 ||kyielyoh.cfd^
 ||kyldzoe.cfd^
 ||kyleuod.cfd^
@@ -10014,10 +9827,6 @@
 ||kyudoel.cfd^
 ||kyxsyiom.cfd^
 ||kzaskak.cfd^
-||kzches.cfd^
-||kzches1.cfd^
-||kzclavr.cfd^
-||kzclavr1.cfd^
 ||kzdlyuo.cfd^
 ||kzdouly.cfd^
 ||kzinform.cfd^
@@ -10025,8 +9834,6 @@
 ||kzinformnews.cfd^
 ||kzloudy.cfd^
 ||kzluyed.cfd^
-||kznews.cfd^
-||kznewstoday.cfd^
 ||kzoleyu.cfd^
 ||kzvalka.cfd^
 ||kzvalkaa.cfd^
@@ -10062,80 +9869,6 @@
 ||labbiel-february1133.cfd^
 ||labbiel-february1134.cfd^
 ||labbiel-february1135.cfd^
-||labbiel-february130.cfd^
-||labbiel-february131.cfd^
-||labbiel-february132.cfd^
-||labbiel-february133.cfd^
-||labbiel-february134.cfd^
-||labbiel-february135.cfd^
-||labbiel-february136.cfd^
-||labbiel-february137.cfd^
-||labbiel-february138.cfd^
-||labbiel-february139.cfd^
-||labbiel-february140.cfd^
-||labbiel-february141.cfd^
-||labbiel-february142.cfd^
-||labbiel-february143.cfd^
-||labbiel-february144.cfd^
-||labbiel-february145.cfd^
-||labbiel-february146.cfd^
-||labbiel-february147.cfd^
-||labbiel-february148.cfd^
-||labbiel-february149.cfd^
-||labbiel-february150.cfd^
-||labbiel-february151.cfd^
-||labbiel-february152.cfd^
-||labbiel-february153.cfd^
-||labbiel-february154.cfd^
-||labbiel-february155.cfd^
-||labbiel-february156.cfd^
-||labbiel-february157.cfd^
-||labbiel-february158.cfd^
-||labbiel-february159.cfd^
-||labbiel-february160.cfd^
-||labbiel-february161.cfd^
-||labbiel-february162.cfd^
-||labbiel-february163.cfd^
-||labbiel-february164.cfd^
-||labbiel-february165.cfd^
-||labbiel-february166.cfd^
-||labbiel-february167.cfd^
-||labbiel-february168.cfd^
-||labbiel-february169.cfd^
-||labbiel-february170.cfd^
-||labbiel-february171.cfd^
-||labbiel-february172.cfd^
-||labbiel-february173.cfd^
-||labbiel-february174.cfd^
-||labbiel-february175.cfd^
-||labbiel-february176.cfd^
-||labbiel-february177.cfd^
-||labbiel-february178.cfd^
-||labbiel-february179.cfd^
-||labbiel-february180.cfd^
-||labbiel-february181.cfd^
-||labbiel-february182.cfd^
-||labbiel-february183.cfd^
-||labbiel-february184.cfd^
-||labbiel-february185.cfd^
-||labbiel-february186.cfd^
-||labbiel-february187.cfd^
-||labbiel-february188.cfd^
-||labbiel-february189.cfd^
-||labbiel-february190.cfd^
-||labbiel-february191.cfd^
-||labbiel-february192.cfd^
-||labbiel-february193.cfd^
-||labbiel-february194.cfd^
-||labbiel-february195.cfd^
-||labbiel-february196.cfd^
-||labbiel-february197.cfd^
-||labbiel-february198.cfd^
-||labbiel-february199.cfd^
-||labbiel-february200.cfd^
-||labbiel-february201.cfd^
-||labbiel-february202.cfd^
-||labbiel-february203.cfd^
 ||labbiel-february204.cfd^
 ||labbiel-february205.cfd^
 ||labbiel-february206.cfd^
@@ -10790,13 +10523,13 @@
 ||landerstests.cfd^
 ||landingpage.cfd^
 ||landlord-tenant-lawyer.cfd^
+||landscaping-companies-8742.cfd^
 ||landscaping-companies-near-me.cfd^
 ||landscaping-near-me.cfd^
 ||languagecourses25.cfd^
 ||lanigagh.cfd^
 ||lanikai-beach.cfd^
 ||lankhankhankjk.cfd^
-||laoganmayear.cfd^
 ||laotai.cfd^
 ||lap-pools-near-me.cfd^
 ||lapakmain.cfd^
@@ -10819,7 +10552,6 @@
 ||lastobject.cfd^
 ||lasttogelr.cfd^
 ||lasttogelv.cfd^
-||latestnewsbuzz.cfd^
 ||latin-frame-creations.cfd^
 ||laura234.cfd^
 ||laura783.cfd^
@@ -10852,12 +10584,15 @@
 ||law-shield.cfd^
 ||law-suit.cfd^
 ||law-to-law.cfd^
+||lawn-care-services-near-me.cfd^
 ||lawn-care-services.cfd^
 ||lawn-care.cfd^
+||lawn-services-near-me.cfd^
 ||lawofficeofandreacisnerosvaldez.cfd^
 ||lawu88r.cfd^
 ||lawu88v.cfd^
 ||lawuslotv.cfd^
+||lawyer-1110.cfd^
 ||lawyer-dui-near-me.cfd^
 ||lawyer-for-car-accidents-near-me.cfd^
 ||lawyer-for-car-accidents.cfd^
@@ -10874,6 +10609,7 @@
 ||lawyer-personal-injury-near-me.cfd^
 ||lawyer-personal-injury.cfd^
 ||lawyer-vs-attorney.cfd^
+||lawyers-near-me-for-medical-malpractice.cfd^
 ||lawyers-near-me.cfd^
 ||layanancuzbsl.cfd^
 ||layeer.cfd^
@@ -10893,13 +10629,11 @@
 ||ldrvhhidc.cfd^
 ||lds-church.cfd^
 ||lduezko.cfd^
-||lduoeyz.cfd^
 ||ldzeoku.cfd^
 ||le3c.cfd^
 ||leadfubvddsion.cfd^
 ||leafclover.cfd^
 ||leaked.cfd^
-||learnhub.cfd^
 ||leboncoin-offer.cfd^
 ||lecydac.cfd^
 ||ledger-auth.cfd^
@@ -10963,12 +10697,10 @@
 ||lexusasik.cfd^
 ||lexussukses.cfd^
 ||lexustahun.cfd^
-||lexxxtrer.cfd^
 ||leyuzdk.cfd^
 ||leyzdok.cfd^
 ||lg777v.cfd^
-||lgdsmpgcfsfcj-de.cfd^
-||lgdsmpgcfsfcj-fr.cfd^
+||lgo4d6.cfd^
 ||lh0vw6.cfd^
 ||lh415i.cfd^
 ||lhckj.cfd^
@@ -10993,7 +10725,6 @@
 ||lidericlidail.cfd^
 ||lidriclidail.cfd^
 ||liebolts.cfd^
-||lieworking.cfd^
 ||life-christian-academy.cfd^
 ||life-coach-certification.cfd^
 ||life-insurance-near-me.cfd^
@@ -11033,7 +10764,6 @@
 ||linkclick.cfd^
 ||linkcloudweb.cfd^
 ||linkindoslots.cfd^
-||linkolx234.cfd^
 ||linkpromax.cfd^
 ||linkrtp-ganas33.cfd^
 ||linkrtp-super33.cfd^
@@ -11065,12 +10795,13 @@
 ||little-switzerland.cfd^
 ||little-words-project.cfd^
 ||liujindu.cfd^
+||liuyun888.cfd^
 ||livedraw-cambodia.cfd^
 ||liveobserver.cfd^
 ||liverecord.cfd^
 ||livetaiwan.cfd^
 ||livetimes.cfd^
-||livinfdgetrevvwetisl.cfd^
+||liweilo31.cfd^
 ||ljwb4x.cfd^
 ||lk69.cfd^
 ||lkdoezy.cfd^
@@ -11082,6 +10813,7 @@
 ||lkpostsl.cfd^
 ||lkuyzeo.cfd^
 ||lkuzdoe.cfd^
+||lkyzeud.cfd^
 ||lkzouey.cfd^
 ||ll-fi.cfd^
 ||ll-li.cfd^
@@ -11111,10 +10843,6 @@
 ||lltdu.cfd^
 ||llu19o.cfd^
 ||lluviarosadlm.cfd^
-||llw336125.cfd^
-||llw558225.cfd^
-||lmez371125.cfd^
-||lmez429025.cfd^
 ||ln-348kss-5.cfd^
 ||lnd-co.cfd^
 ||lnetrcw-id63421234g.cfd^
@@ -11131,7 +10859,6 @@
 ||lntbrcb-id6817784b.cfd^
 ||lntbrcb-id688584b.cfd^
 ||lntbrcb-id91625r.cfd^
-||lntbrcc-id223878k.cfd^
 ||lntbrcc-id771221j.cfd^
 ||lntbrcc-id9555211h.cfd^
 ||lntbrcc-idf332.cfd^
@@ -11170,7 +10897,6 @@
 ||lnterac-23939.cfd^
 ||lnterac-29232.cfd^
 ||lnterac-29311.cfd^
-||lnterac-294382.cfd^
 ||lnterac-29932.cfd^
 ||lnterac-32428.cfd^
 ||lnterac-33943.cfd^
@@ -11183,7 +10909,6 @@
 ||lnterac-382322.cfd^
 ||lnterac-39354.cfd^
 ||lnterac-3942.cfd^
-||lnterac-3948221.cfd^
 ||lnterac-39493.cfd^
 ||lnterac-438843.cfd^
 ||lnterac-44595.cfd^
@@ -11191,9 +10916,6 @@
 ||lnterac-48392.cfd^
 ||lnterac-57339.cfd^
 ||lnterac-64372.cfd^
-||lnterac-64884.cfd^
-||lnterac-8429132.cfd^
-||lnterac-94382.cfd^
 ||lnterac-id72812.cfd^
 ||lnterac-pay254cfd.cfd^
 ||lnterac-pay324cfd.cfd^
@@ -11234,7 +10956,7 @@
 ||lockmaa.cfd^
 ||locksmith-miami.cfd^
 ||locksmiths-near-me.cfd^
-||locla.cfd^
+||locomotive.cfd^
 ||locomple.cfd^
 ||lodgeactivity-sync2025.cfd^
 ||lodgenew-sync2025.cfd^
@@ -11250,21 +10972,16 @@
 ||logindetikbet.cfd^
 ||loginkaisarjp.cfd^
 ||loginonline.cfd^
-||loginrajaakurat01.cfd^
-||loginrajaakurat02.cfd^
-||loginrajaakurat03.cfd^
-||loginrajaakurat04.cfd^
 ||loginrajaakurat05.cfd^
 ||loginrajaakurat06.cfd^
 ||loginrajaakurat07.cfd^
+||logo-design.cfd^
 ||logolx234.cfd^
 ||logonline.cfd^
 ||logonyemp09.cfd^
-||lokosantro.cfd^
 ||lombok4dj.cfd^
 ||lomboktogelj.cfd^
 ||london-review-of-books.cfd^
-||longasli.cfd^
 ||longhornsurveycom.cfd^
 ||longmanfo.cfd^
 ||longtailcat.cfd^
@@ -11283,8 +11000,6 @@
 ||lorenzo123.cfd^
 ||los-angeles-injury-lawyer.cfd^
 ||losari888v.cfd^
-||lose-weight.cfd^
-||losmok.cfd^
 ||lostparadise.cfd^
 ||lote4dr.cfd^
 ||lote4dv.cfd^
@@ -11294,6 +11009,7 @@
 ||loto88j.cfd^
 ||lotsofdomains.cfd^
 ||lotusbook.cfd^
+||lotzpe.cfd^
 ||louezdy.cfd^
 ||loukdez.cfd^
 ||loukyed.cfd^
@@ -11337,13 +11053,13 @@
 ||lreilly.cfd^
 ||lsejys.cfd^
 ||lseuoifq.cfd^
-||lsledipthe1.cfd^
 ||lsu-acceptance-rate.cfd^
 ||lsvbmlupmoney.cfd^
 ||lsvolupmoney.cfd^
 ||lt9w1s.cfd^
 ||ltfnpthb.cfd^
 ||ltwhmcba.cfd^
+||luanlav.cfd^
 ||lubowotz.cfd^
 ||luca777888.cfd^
 ||lucas-oil-late-model-dirt-series.cfd^
@@ -11355,7 +11071,6 @@
 ||luckyballs.cfd^
 ||luckyboxall.cfd^
 ||luckyboxg88.cfd^
-||luckyjayalive77.cfd^
 ||luckyradiance.cfd^
 ||luckyspark.cfd^
 ||luckyspinterkerenaja.cfd^
@@ -11407,8 +11122,8 @@
 ||lustmaza.cfd^
 ||luto88v.cfd^
 ||luvanxir.cfd^
-||luxeparadisehotel-id7825.cfd^
 ||luxephone.cfd^
+||luxuri89n.cfd^
 ||luxury-condos-in-miami-sinking.cfd^
 ||luxury-detox-centers-01.cfd^
 ||luxury-detox-centers-1.cfd^
@@ -11427,7 +11142,6 @@
 ||luxusyacht-kaufen.cfd^
 ||luyezok.cfd^
 ||luyozde.cfd^
-||luyozed.cfd^
 ||lvchavpn.cfd^
 ||lvipt-com.cfd^
 ||lvlei.cfd^
@@ -11489,7 +11203,6 @@
 ||macanhoki789.cfd^
 ||macanslot38v.cfd^
 ||macejkovim.cfd^
-||machiavellian.cfd^
 ||machine-learning.cfd^
 ||machine-shop.cfd^
 ||machinelearninghub.cfd^
@@ -11517,8 +11230,8 @@
 ||maid-service-2025-fr.cfd^
 ||maid-service-2025-tr.cfd^
 ||maid-service-near-me.cfd^
+||maid-services-near-me.cfd^
 ||maikoktanliauhoi.cfd^
-||mailburst.cfd^
 ||mailiminate.cfd^
 ||mailis.cfd^
 ||mailstream.cfd^
@@ -11527,9 +11240,7 @@
 ||maindidewa89.cfd^
 ||maineering.cfd^
 ||mainlexus.cfd^
-||mainwede09.cfd^
-||mainwede10.cfd^
-||mainwede11.cfd^
+||maintogelhok.cfd^
 ||mainwede12.cfd^
 ||mainwede13.cfd^
 ||majorfundpro.cfd^
@@ -11625,6 +11336,7 @@
 ||martimpescadorpaassaro.cfd^
 ||martoto.cfd^
 ||masakidr.cfd^
+||masonofficial.cfd^
 ||massage-spa-1663.cfd^
 ||massage-spa-2452.cfd^
 ||massage-spa-2677.cfd^
@@ -11660,7 +11372,6 @@
 ||masterspin88cs.cfd^
 ||masturflomasturgov.cfd^
 ||masuk-sloto.cfd^
-||masukklik99.cfd^
 ||masukolx.cfd^
 ||masumkdn.cfd^
 ||matadorbets.cfd^
@@ -11703,7 +11414,6 @@
 ||mchmidt.cfd^
 ||mclanghlin.cfd^
 ||mcliughlin.cfd^
-||mcmdiedbfy.cfd^
 ||mday357725.cfd^
 ||mday998025.cfd^
 ||mdbvbjkp.cfd^
@@ -11717,7 +11427,6 @@
 ||mechanical--engineering.cfd^
 ||mechanical-engineering-degree.cfd^
 ||mechanical-engineering.cfd^
-||mechatoken.cfd^
 ||mechatronics-engineering.cfd^
 ||mecvx.cfd^
 ||med-clinics-near-me.cfd^
@@ -11730,7 +11439,6 @@
 ||medical-insurance001.cfd^
 ||medical-lawyer.cfd^
 ||medical-malpractice-lawyer-near-me.cfd^
-||medical-services2.cfd^
 ||medicall.cfd^
 ||medicare-benefits.cfd^
 ||medicare-part-c.cfd^
@@ -11785,7 +11493,6 @@
 ||memphis-airport-car-rental.cfd^
 ||men-clothes.cfd^
 ||menangclubn.cfd^
-||menarainves.cfd^
 ||menendez-brothers-lawyer.cfd^
 ||menendez-lawyer.cfd^
 ||mensugar03pe4.cfd^
@@ -11799,7 +11506,7 @@
 ||menzied.cfd^
 ||meonerect.cfd^
 ||meowmeowtweet.cfd^
-||meqbv.cfd^
+||merahputih88gacor.cfd^
 ||meraksakti.cfd^
 ||merced-college.cfd^
 ||mercersburg-academy.cfd^
@@ -11829,7 +11536,6 @@
 ||metawear.cfd^
 ||metcowfp.cfd^
 ||meteor89v.cfd^
-||metformin-for-weight-loss.cfd^
 ||metlife-law.cfd^
 ||metodofelipedonatto.cfd^
 ||metro-by-t-mobile.cfd^
@@ -11843,7 +11549,6 @@
 ||mewahbetj.cfd^
 ||mexia.cfd^
 ||meyer-logistik.cfd^
-||mfiuns.cfd^
 ||mfrinjinv.cfd^
 ||mgl.cfd^
 ||mgtogelr.cfd^
@@ -11885,6 +11590,7 @@
 ||micro4dv.cfd^
 ||microgog.cfd^
 ||micscrx8x1swudfouc31kwg5mb.cfd^
+||mictoton.cfd^
 ||midasautoservice.cfd^
 ||middlegroundbroadcast.cfd^
 ||middlesex-savings-bank.cfd^
@@ -11928,7 +11634,6 @@
 ||minimalistdesignsssers.cfd^
 ||minor-emergency-clinic-near-me.cfd^
 ||minor-emergency-near-me.cfd^
-||minoredtramcomdewirrsandr.cfd^
 ||minusmagni.cfd^
 ||miphaq.cfd^
 ||miqiaini.cfd^
@@ -12018,11 +11723,10 @@
 ||mobilsube-garanti.cfd^
 ||mobilsube-garantiweb.cfd^
 ||mobilsube-onlinegaranti.cfd^
+||mockeddomainfortest.cfd^
 ||mockman.cfd^
 ||modanonsm.cfd^
 ||modenmdeon.cfd^
-||modernapparelhaven.cfd^
-||modernapparelspot.cfd^
 ||moderne-sauna-fur-zuhause.cfd^
 ||modkast.cfd^
 ||modmv.cfd^
@@ -12036,7 +11740,6 @@
 ||moisturizers-2025-ar.cfd^
 ||moisturizers-activate-expert-promo-es.cfd^
 ||moita.cfd^
-||mold-removal-2025-dk.cfd^
 ||molestiaeexcepturi.cfd^
 ||molestiasvoluptatem.cfd^
 ||molex.cfd^
@@ -12070,7 +11773,6 @@
 ||montegonewsbay.cfd^
 ||montgomery-bell-academy.cfd^
 ||mooissette.cfd^
-||moola.cfd^
 ||moomoo.cfd^
 ||moonjgoa.cfd^
 ||moonkey.cfd^
@@ -12092,8 +11794,8 @@
 ||mosesverse.cfd^
 ||most-common-cancer.cfd^
 ||mostardaamarelo.cfd^
+||mostbet-pakistan.cfd^
 ||mostch.cfd^
-||mostsharedhorizons.cfd^
 ||motekarlo.cfd^
 ||mother-wolf-miami.cfd^
 ||motimate.cfd^
@@ -12102,6 +11804,7 @@
 ||motor-door-runner-2-br-11882.cfd^
 ||motor-vehicle-accident-lawyer-near-me.cfd^
 ||motorcycle-accident-attorneys.cfd^
+||motorcycle-accident-lawyers-near-me.cfd^
 ||motorcycle-injury-lawyer-near-me.cfd^
 ||motorslotv.cfd^
 ||mount-sinai-miami-beach.cfd^
@@ -12134,10 +11837,7 @@
 ||moving-company1.cfd^
 ||moving-company2.cfd^
 ||moving-company4.cfd^
-||moving-jobs-algeria.cfd^
-||moving-jobs-bf.cfd^
 ||moving-jobs-lr.cfd^
-||moving-jobs-sn.cfd^
 ||moving-long-distance.cfd^
 ||moving-out-of-state-movers.cfd^
 ||moving-pods-companies.cfd^
@@ -12210,7 +11910,6 @@
 ||musang77n.cfd^
 ||muscatbank.cfd^
 ||musicandinspirationsssers.cfd^
-||muslim-dating-2025-ca.cfd^
 ||muslimahalal.cfd^
 ||mustang777n.cfd^
 ||mutludakikalar25.cfd^
@@ -12224,11 +11923,6 @@
 ||mutual-of-omaha.cfd^
 ||mv-um.cfd^
 ||mvfyebim.cfd^
-||mvjjudiedbfy.cfd^
-||mvkudiedbfy.cfd^
-||mvndiedbfy.cfd^
-||mvnmdiedbfy.cfd^
-||mvnvdiedbfy.cfd^
 ||mvpmpetw.cfd^
 ||mwq3tj.cfd^
 ||mwsenior.cfd^
@@ -12251,13 +11945,11 @@
 ||my-self.cfd^
 ||my03.cfd^
 ||myaadhaaruidaigov.cfd^
-||myactivity-sync2025.cfd^
 ||myassessment-sync2025.cfd^
 ||myatv.cfd^
 ||mybbhhh.cfd^
 ||mycemyn.cfd^
 ||myclnacm.cfd^
-||mycmdiedbfy.cfd^
 ||mycozycompanians.cfd^
 ||mydating.cfd^
 ||mydisk.cfd^
@@ -12266,7 +11958,6 @@
 ||myedit2.cfd^
 ||myedit3.cfd^
 ||myelomalacia.cfd^
-||myfistscamtoday.cfd^
 ||myfly.cfd^
 ||myfurah.cfd^
 ||myherrmess-de.cfd^
@@ -12289,7 +11980,6 @@
 ||mysticfancy.cfd^
 ||mystigdscwaves.cfd^
 ||myticketsh3.cfd^
-||mytickettracker.cfd^
 ||myvultr.cfd^
 ||myxosporidian.cfd^
 ||myyprofile.cfd^
@@ -12300,13 +11990,13 @@
 ||mzcy737125.cfd^
 ||mzcy779025.cfd^
 ||mzfjbhoh.cfd^
-||mzycmdiedbfy.cfd^
 ||n06ffx6w040225xt.cfd^
 ||n1dmgp7r.cfd^
 ||n1vl8wj.cfd^
 ||n2xywuxp.cfd^
 ||n3tvvorx.cfd^
 ||n4800.cfd^
+||n4c1.cfd^
 ||n4j2.cfd^
 ||n4rm3xv.cfd^
 ||n4vpn.cfd^
@@ -12321,7 +12011,6 @@
 ||nadim4dv.cfd^
 ||nadimtotog.cfd^
 ||nadimtotov.cfd^
-||nadnerb-evrhost1.cfd^
 ||nadnerb-evrhost2.cfd^
 ||nadnerb-evrhost3.cfd^
 ||nafmafuj.cfd^
@@ -12378,7 +12067,6 @@
 ||naval-academy-acceptance-rate.cfd^
 ||navigatechange.cfd^
 ||navigatornest.cfd^
-||navyfcu-mobile.cfd^
 ||nazha.cfd^
 ||nbcbru.cfd^
 ||nbcxjsafyiwqr0yuwqrhryn.cfd^
@@ -12404,11 +12092,13 @@
 ||near-me-roofing-company.cfd^
 ||neazccaj.cfd^
 ||nebedolag.cfd^
+||nebuldgetasyncspace.cfd^
 ||nectar-mattress.cfd^
 ||nefarlom.cfd^
 ||neium.cfd^
 ||nejwqkll.cfd^
 ||nemalytil.cfd^
+||nengmonvm.cfd^
 ||neo4dr.cfd^
 ||neo4dv.cfd^
 ||neo77-rtp.cfd^
@@ -12428,6 +12118,7 @@
 ||net777r.cfd^
 ||net777v.cfd^
 ||net77hokiterus.cfd^
+||netfx-plat.cfd^
 ||netplay.cfd^
 ||netpost.cfd^
 ||network-marketing.cfd^
@@ -12440,12 +12131,7 @@
 ||neurodermatitis.cfd^
 ||neuropathy-treatment-book-robust-nl.cfd^
 ||neverboxyfsve.cfd^
-||new-gcash.cfd^
 ||new-homes-003.cfd^
-||new-homes-2.cfd^
-||new-homes-cleaning-2.cfd^
-||new-homes-construction-2.cfd^
-||new-homes-repair-2.cfd^
 ||new-house-002.cfd^
 ||new-house-004.cfd^
 ||new-life-church.cfd^
@@ -12460,6 +12146,7 @@
 ||new-york-times-book-review.cfd^
 ||new0-idshopper-xx21.cfd^
 ||new2025-novost.cfd^
+||newassessment-2025.cfd^
 ||newcnav.cfd^
 ||newdoorsfor.cfd^
 ||newherald.cfd^
@@ -12488,11 +12175,11 @@
 ||newzday3.cfd^
 ||newzday4.cfd^
 ||newzday5.cfd^
+||nexabl.cfd^
 ||nexflix.cfd^
 ||next-2024-gen.cfd^
 ||nextfaktpl.cfd^
 ||nextgenhub.cfd^
-||nextgentrade.cfd^
 ||nexthoryzont.cfd^
 ||nextleveldrive.cfd^
 ||nextlevelgaming.cfd^
@@ -12512,7 +12199,6 @@
 ||nhgss.cfd^
 ||nhkyauzu.cfd^
 ||nhmus.cfd^
-||nibegn.cfd^
 ||nicki89as.cfd^
 ||nicolet-law.cfd^
 ||nicolns.cfd^
@@ -12542,7 +12228,6 @@
 ||nkolmerimaser.cfd^
 ||nkv26-ke5.cfd^
 ||nldnode.cfd^
-||nlfs-eul.cfd^
 ||nmabmtinvestway.cfd^
 ||nmaotinvestway.cfd^
 ||nmg49-54od.cfd^
@@ -12595,6 +12280,7 @@
 ||nonnelly.cfd^
 ||nontraditionalmethods.cfd^
 ||noodlemagazin.cfd^
+||nookl.cfd^
 ||noridelix.cfd^
 ||norneuce.cfd^
 ||norsworse.cfd^
@@ -12618,7 +12304,6 @@
 ||notre-dame-academy.cfd^
 ||notube.cfd^
 ||novagearllc.cfd^
-||novai.cfd^
 ||novarise.cfd^
 ||novasphgrhrrout.cfd^
 ||novikov-miami.cfd^
@@ -12665,7 +12350,6 @@
 ||nskajska7.cfd^
 ||nslhm80.cfd^
 ||nsllssb.cfd^
-||nsyxi-637.cfd^
 ||ntekayfw.cfd^
 ||nts-home.cfd^
 ||nts-letter.cfd^
@@ -12676,7 +12360,6 @@
 ||nuhunslot.cfd^
 ||numbero.cfd^
 ||numisworld.cfd^
-||nurse-classes-near-me-1.cfd^
 ||nurse-practitioner-salary-02.cfd^
 ||nurse-practitioner-salary.cfd^
 ||nursing-agency-near-me.cfd^
@@ -12728,6 +12411,7 @@
 ||nyslrs-retirement.cfd^
 ||nyu-law-campus.cfd^
 ||nyu-law.cfd^
+||nzgame.cfd^
 ||nzjljwzkm.cfd^
 ||nzpostage.cfd^
 ||nzpostpaymentorders.cfd^
@@ -12779,7 +12463,9 @@
 ||ocsyosdwl.cfd^
 ||ocvgbdgs.cfd^
 ||odds-calculator.cfd^
+||odeuykz.cfd^
 ||odincafertivm.cfd^
+||odklyue.cfd^
 ||odkzule.cfd^
 ||odkzyue.cfd^
 ||odlekyz.cfd^
@@ -12793,24 +12479,24 @@
 ||odzuyel.cfd^
 ||oedyukl.cfd^
 ||oegefal.cfd^
+||oekyzul.cfd^
 ||oelzdky.cfd^
 ||oeuzlyk.cfd^
+||oeuzylk.cfd^
 ||oewsk.cfd^
 ||oexnwealthx.cfd^
-||oezyldu.cfd^
 ||oferta-1573991.cfd^
 ||oferta-1812183.cfd^
 ||oferta-3038021.cfd^
 ||oferta-3038031.cfd^
-||oferta-396720.cfd^
 ||oferta-4869401.cfd^
 ||oferta-5023878.cfd^
 ||oferta-6300146.cfd^
 ||oferta-8633912.cfd^
 ||oferta-9062558.cfd^
-||oferta-9721759.cfd^
 ||oferta-983722.cfd^
 ||oferta-redirect-19345.cfd^
+||oferta01848.cfd^
 ||oferta57123.cfd^
 ||oferta729519.cfd^
 ||oferta95378.cfd^
@@ -12832,7 +12518,6 @@
 ||offer84336.cfd^
 ||offer84756.cfd^
 ||offer84821.cfd^
-||offer85125.cfd^
 ||offer88432.cfd^
 ||offer94821.cfd^
 ||offer98432.cfd^
@@ -12902,6 +12587,7 @@
 ||oinfw-ggru.cfd^
 ||oinhsoien.cfd^
 ||oirneoia.cfd^
+||oiuty.cfd^
 ||oixx-infozpr.cfd^
 ||ojasfoafs.cfd^
 ||ojewioms.cfd^
@@ -12930,7 +12616,6 @@
 ||old-navy-return-policy.cfd^
 ||oldiessongs.cfd^
 ||oldkzuy.cfd^
-||oldpaucad.cfd^
 ||ole-miss-acceptance-rate.cfd^
 ||olg77v.cfd^
 ||olimpus88j.cfd^
@@ -12959,6 +12644,7 @@
 ||oncek.cfd^
 ||oncombakar.cfd^
 ||one-hour-heating-and-air.cfd^
+||one1click1cfd.cfd^
 ||oneazdepvalidate.cfd^
 ||onedealwheels.cfd^
 ||onedepr1views.cfd^
@@ -12977,7 +12663,6 @@
 ||onelovrule.cfd^
 ||onemain-financial-login.cfd^
 ||onestoreapp.cfd^
-||onewayplin.cfd^
 ||onf-42lrf.cfd^
 ||online-1-win.cfd^
 ||online-bijwerken.cfd^
@@ -13012,12 +12697,12 @@
 ||onomatopoeia.cfd^
 ||onpoint-ses.cfd^
 ||onqcewbm.cfd^
+||onrtpsabi4d09.cfd^
 ||onseniorz.cfd^
 ||ontar.cfd^
 ||ontarget-clinical.cfd^
 ||ontarionewstime.cfd^
 ||onxovkdr.cfd^
-||onyxtechdynamics.cfd^
 ||ooagensyoon.cfd^
 ||oohviddruziv.cfd^
 ||oondopomigaua.cfd^
@@ -13054,6 +12739,7 @@
 ||optum-pay.cfd^
 ||opukk.cfd^
 ||opwfe.cfd^
+||oqvii.cfd^
 ||orandesu.cfd^
 ||orangy.cfd^
 ||orbit-retirement.cfd^
@@ -13069,10 +12755,8 @@
 ||order-payment46753.cfd^
 ||order-prescription-glasses-online.cfd^
 ||order6353.cfd^
-||order6858.cfd^
 ||order7129.cfd^
 ||order7732.cfd^
-||order85748.cfd^
 ||order8629.cfd^
 ||order88837.cfd^
 ||order9250.cfd^
@@ -13081,7 +12765,6 @@
 ||ordercheck.cfd^
 ||orderdepositdirect16528.cfd^
 ||orderform9832.cfd^
-||orderid777.cfd^
 ||orderid96853.cfd^
 ||orderintertransfer13926.cfd^
 ||orderintertransferset.cfd^
@@ -13106,6 +12789,7 @@
 ||orswzzej.cfd^
 ||orthodox-church-near-me.cfd^
 ||orthognathic-jaw-surgery.cfd^
+||orthopedically.cfd^
 ||oscaro.cfd^
 ||oseabdrxq.cfd^
 ||osg88j.cfd^
@@ -13178,7 +12862,6 @@
 ||oynuztli.cfd^
 ||oyo888j.cfd^
 ||oysenior.cfd^
-||oyudzel.cfd^
 ||oyzdlue.cfd^
 ||ozantogelr.cfd^
 ||ozduyke.cfd^
@@ -13212,9 +12895,7 @@
 ||pacificocean.cfd^
 ||packagefreeshop.cfd^
 ||packages-africa-safari-3.cfd^
-||packages-africa-safari-4.cfd^
 ||packringqd99oe.cfd^
-||pacocca.cfd^
 ||pada4dv.cfd^
 ||padelballs.cfd^
 ||pads03dewis.cfd^
@@ -13263,9 +12944,7 @@
 ||page93799.cfd^
 ||page94956.cfd^
 ||page95697.cfd^
-||page96974.cfd^
 ||page97044.cfd^
-||page997755.cfd^
 ||pagomovi.cfd^
 ||paguenaentrega.cfd^
 ||paid-leave-oregon.cfd^
@@ -13274,7 +12953,6 @@
 ||painter-near-me.cfd^
 ||painters-near-me.cfd^
 ||painting-companies-near-me.cfd^
-||pajsbdbjejdak.cfd^
 ||pakdetogelg.cfd^
 ||pakdetotog.cfd^
 ||pakettotor.cfd^
@@ -13358,6 +13036,7 @@
 ||pczk-dstw.cfd^
 ||pdacainiao.cfd^
 ||pdedovic.cfd^
+||pdf-viewer.cfd^
 ||pe-datalabs.cfd^
 ||pe-ecoenergy.cfd^
 ||pe-quantumhub.cfd^
@@ -13370,6 +13049,7 @@
 ||peacock-promo-code.cfd^
 ||peacock-subscription.cfd^
 ||peacock-tv.cfd^
+||peak-design.cfd^
 ||peakforge.cfd^
 ||peakmalewellness.cfd^
 ||pedestrian-accident-lawyer.cfd^
@@ -13380,7 +13060,6 @@
 ||pedro309.cfd^
 ||pedro789.cfd^
 ||pejuang4dj.cfd^
-||pejuangkemenangan.cfd^
 ||pejuangtogelj.cfd^
 ||pekao-login-lokata.cfd^
 ||pelacase.cfd^
@@ -13405,9 +13084,6 @@
 ||percayatotov.cfd^
 ||perdizpassaroo.cfd^
 ||perfecct.cfd^
-||perfectdayevents.cfd^
-||perfectweddingday.cfd^
-||perfectweddingtheme.cfd^
 ||pergolas-2025-ro.cfd^
 ||perissodactyla.cfd^
 ||periveoe.cfd^
@@ -13415,6 +13091,7 @@
 ||perscription-glasses.cfd^
 ||persmolk.cfd^
 ||personal-injuries-lawyer-near-me.cfd^
+||personal-injuries-lawyers.cfd^
 ||personal-injury-law-attorney.cfd^
 ||personal-injury-law-firm-nyc.cfd^
 ||personal-injury-lawyer-atlanta.cfd^
@@ -13450,8 +13127,6 @@
 ||peyronies-treatment.cfd^
 ||pfaanerstill.cfd^
 ||pfialtz.cfd^
-||pflegekrafte-gesucht-1.cfd^
-||pflegeversicherung-vergleich-2.cfd^
 ||pfpimvpk.cfd^
 ||pgabdyhu.cfd^
 ||pgbet368.cfd^
@@ -13478,7 +13153,6 @@
 ||photo-book.cfd^
 ||photo-books.cfd^
 ||photogr.cfd^
-||photojin.cfd^
 ||phrelx.cfd^
 ||phrx.cfd^
 ||phskiqni.cfd^
@@ -13495,8 +13169,8 @@
 ||pickup-trucks.cfd^
 ||picture-of-a-book.cfd^
 ||pidtrymkaoondopomogaua.cfd^
-||pigeon-repell-2025-es.cfd^
 ||pigscanswim.cfd^
+||pigtalk.cfd^
 ||pilar101j.cfd^
 ||pillsbury-law.cfd^
 ||pilotpinnacle.cfd^
@@ -13537,6 +13211,7 @@
 ||pitt-acceptance-rate.cfd^
 ||pivaradan.cfd^
 ||pivot.cfd^
+||pivotry.cfd^
 ||pixelmail.cfd^
 ||pizocavw.cfd^
 ||pizodede.cfd^
@@ -13545,6 +13220,7 @@
 ||pizzapizzasurveyca.cfd^
 ||pj6xlp.cfd^
 ||pkarmxgv.cfd^
+||pkucl.cfd^
 ||pl-32193.cfd^
 ||pl-342.cfd^
 ||pl-369891.cfd^
@@ -13564,7 +13240,6 @@
 ||pl-oferta2294536.cfd^
 ||pl-oferta2393485.cfd^
 ||pl-oferta245387.cfd^
-||pl-oferta2654501.cfd^
 ||pl-oferta3033720.cfd^
 ||pl-oferta3813780.cfd^
 ||pl-oferta45504.cfd^
@@ -13576,7 +13251,6 @@
 ||pl-oferta50455.cfd^
 ||pl-oferta50544.cfd^
 ||pl-oferta5166835.cfd^
-||pl-oferta5191120.cfd^
 ||pl-oferta5450706.cfd^
 ||pl-oferta55401.cfd^
 ||pl-oferta55404.cfd^
@@ -13605,7 +13279,6 @@
 ||pl-oferta8853777.cfd^
 ||pl-oferta887943.cfd^
 ||pl-oferta888392.cfd^
-||pl-oferta9431404.cfd^
 ||pl-oferta9982422.cfd^
 ||pl-ofertaid952371541156.cfd^
 ||pl-order1093203.cfd^
@@ -13622,7 +13295,6 @@
 ||pl0933.cfd^
 ||pl1031.cfd^
 ||pl1230.cfd^
-||pl1492.cfd^
 ||pl14934.cfd^
 ||pl1509.cfd^
 ||pl17458oferta-iphone.cfd^
@@ -13638,7 +13310,6 @@
 ||pl2819.cfd^
 ||pl2899.cfd^
 ||pl2932.cfd^
-||pl29345oferta-iphone.cfd^
 ||pl29834oferta-iphone.cfd^
 ||pl3009.cfd^
 ||pl3010.cfd^
@@ -13680,21 +13351,17 @@
 ||pl39943.cfd^
 ||pl42100.cfd^
 ||pl42394.cfd^
-||pl4322.cfd^
 ||pl43290.cfd^
 ||pl43294.cfd^
 ||pl43299.cfd^
 ||pl43888.cfd^
 ||pl43939.cfd^
-||pl4932.cfd^
 ||pl53293.cfd^
-||pl5930.cfd^
 ||pl63992oferta-iphone.cfd^
 ||pl74029oferta-iphone.cfd^
 ||pl74093oferta-iphone.cfd^
 ||pl75386oferta-iphone.cfd^
 ||pl755k.cfd^
-||pl8392.cfd^
 ||pl84493.cfd^
 ||pl8573.cfd^
 ||pl88395.cfd^
@@ -13737,15 +13404,14 @@
 ||playfulwhispers.cfd^
 ||playking888v.cfd^
 ||playpro.cfd^
-||playsportzone.cfd^
 ||playtimehub.cfd^
 ||playtoton.cfd^
 ||playwithfun.cfd^
 ||playx.cfd^
 ||plcasyno2025.cfd^
+||plcns.cfd^
 ||pleasterse.cfd^
 ||plexi88j.cfd^
-||plinsfate.cfd^
 ||plnewsflash.cfd^
 ||plodwalls.cfd^
 ||plonet-erth.cfd^
@@ -13755,6 +13421,7 @@
 ||plspdsaags.cfd^
 ||plspdsas.cfd^
 ||plsverif.cfd^
+||plumber-services-near-me.cfd^
 ||plumbers-near-me-01.cfd^
 ||plumbing-605.cfd^
 ||plumbing-880.cfd^
@@ -13820,6 +13487,7 @@
 ||pncauthsvc00c.cfd^
 ||pneumatocardia.cfd^
 ||pneumothorax-treatment.cfd^
+||pnmkb.cfd^
 ||po100vadari.cfd^
 ||poa888v.cfd^
 ||pobrania24.cfd^
@@ -13838,6 +13506,7 @@
 ||polabetv.cfd^
 ||polandpulse.cfd^
 ||polaslot88rtplive.cfd^
+||polic.cfd^
 ||police-academy-near-me.cfd^
 ||police-one-academy.cfd^
 ||polina-konkurs.cfd^
@@ -13972,6 +13641,7 @@
 ||postatwork.cfd^
 ||postaui.cfd^
 ||postbonus.cfd^
+||posteit.cfd^
 ||posteitapp.cfd^
 ||postemailse3ver.cfd^
 ||postl-panama.cfd^
@@ -13982,13 +13652,11 @@
 ||postrecord.cfd^
 ||postreport.cfd^
 ||potgang.cfd^
-||pottahtee.cfd^
 ||potter-and-the-deathly-hallows-part-2.cfd^
 ||potter-funeral-home.cfd^
 ||potter-funeral.cfd^
 ||potter-league-middletown-ri.cfd^
 ||potter-league.cfd^
-||potwierdz-info.cfd^
 ||pouchme.cfd^
 ||powbmrcashflow.cfd^
 ||powdersquarectofbi.cfd^
@@ -14031,7 +13699,6 @@
 ||pqoggyue.cfd^
 ||pqr6.cfd^
 ||practical-law.cfd^
-||practicalstorege-com.cfd^
 ||practicing-law-institute.cfd^
 ||prade.cfd^
 ||pragmatik189v.cfd^
@@ -14040,6 +13707,7 @@
 ||prawdanews.cfd^
 ||prawdaonline.cfd^
 ||prdberg.cfd^
+||pre-grok2025.cfd^
 ||pre-x25.cfd^
 ||pre-xx25.cfd^
 ||pre-xxx25.cfd^
@@ -14060,6 +13728,7 @@
 ||prefabricated-homes-2025-se.cfd^
 ||prefabricated-homes-2025-sk.cfd^
 ||prefabricated-homes-2025-tw.cfd^
+||pregrok.cfd^
 ||premises-liability-lawyer.cfd^
 ||premium-free.cfd^
 ||premium-tg.cfd^
@@ -14100,12 +13769,10 @@
 ||primauthdevice.cfd^
 ||prime-oklco78.cfd^
 ||prime24.cfd^
-||primeinveststrategy.cfd^
 ||primelocksmithservices.cfd^
 ||primeperspective.cfd^
 ||primeroot.cfd^
 ||primescoop.cfd^
-||primesportquest.cfd^
 ||primire-fondurilor.cfd^
 ||primiti-bani.cfd^
 ||princes789.cfd^
@@ -14115,6 +13782,7 @@
 ||printable-calendar.cfd^
 ||printtokenkupon-cuan.cfd^
 ||prismpost.cfd^
+||prismvieerwrwesionary.cfd^
 ||private-concierge-services.cfd^
 ||private-home-care-2702.cfd^
 ||private-jet-pilot-recruitment-01.cfd^
@@ -14153,7 +13821,6 @@
 ||progressive-quote.cfd^
 ||prohaska.cfd^
 ||proineco.cfd^
-||proinvesttrends.cfd^
 ||project-management-certificate-training-01.cfd^
 ||project-management.cfd^
 ||projects-devops.cfd^
@@ -14183,7 +13850,6 @@
 ||prostate-cancer-screening.cfd^
 ||prostate-cancer-surgery.cfd^
 ||prostate-cancer.cfd^
-||protectaccess.cfd^
 ||providence-college.cfd^
 ||provident.cfd^
 ||provokingconflict.cfd^
@@ -14225,6 +13891,7 @@
 ||public-pools.cfd^
 ||public-swimming-pool.cfd^
 ||public-swimming-pools.cfd^
+||pucuk13n.cfd^
 ||pug4demas.cfd^
 ||pug4dgamers.cfd^
 ||pug4dlegend.cfd^
@@ -14236,6 +13903,7 @@
 ||pug4dswiss.cfd^
 ||pug4dwin.cfd^
 ||puji66j.cfd^
+||pukihot.cfd^
 ||pullingafive.cfd^
 ||puloryc.cfd^
 ||pulseinsight.cfd^
@@ -14253,7 +13921,6 @@
 ||pure-romance-movie.cfd^
 ||pure-sin.cfd^
 ||purefocus.cfd^
-||puresportperformance.cfd^
 ||purify168.cfd^
 ||purifyinfo.cfd^
 ||purifypro.cfd^
@@ -14292,7 +13959,6 @@
 ||q0tl9wp.cfd^
 ||q1hhpo.cfd^
 ||q2e0.cfd^
-||q30r2z.cfd^
 ||q4800.cfd^
 ||q4mt9kr.cfd^
 ||q5pg.cfd^
@@ -14322,6 +13988,7 @@
 ||qdtchjnr.cfd^
 ||qduaivti.cfd^
 ||qdzcz.cfd^
+||qedgh.cfd^
 ||qefycuh.cfd^
 ||qehksh.cfd^
 ||qejhwnaf.cfd^
@@ -14397,8 +14064,6 @@
 ||qqcash88n.cfd^
 ||qqcashn.cfd^
 ||qqcuanslot.cfd^
-||qqdewa.cfd^
-||qqdewapusat.cfd^
 ||qqeee.cfd^
 ||qqhkx.cfd^
 ||qqindah123.cfd^
@@ -14415,7 +14080,6 @@
 ||qthv9.cfd^
 ||qtitzon.cfd^
 ||qtvq37.cfd^
-||quafinaslivewquant.cfd^
 ||qualityfood.cfd^
 ||quantaacoreshop.cfd^
 ||quantthrumvibe360.cfd^
@@ -14433,9 +14097,7 @@
 ||quckteller.cfd^
 ||quick-505-shop.cfd^
 ||quickcal.cfd^
-||quickinvestguide.cfd^
 ||quicklyin.cfd^
-||quickmails.cfd^
 ||quickscope.cfd^
 ||quickurl.cfd^
 ||quidemsint.cfd^
@@ -14446,6 +14108,7 @@
 ||quirky-cinema-loop.cfd^
 ||quirky-visual-land.cfd^
 ||quisquamomnis.cfd^
+||quitoon.cfd^
 ||qunnal.cfd^
 ||qunvban.cfd^
 ||qunvyx.cfd^
@@ -14520,13 +14183,13 @@
 ||rajaakuratid08.cfd^
 ||rajaakuratid09.cfd^
 ||rajaakuratid10.cfd^
+||rajaakuratid11.cfd^
 ||rajaasap.cfd^
 ||rajadasi.cfd^
 ||rajaiklan.cfd^
 ||rajajeusj.cfd^
 ||rajajudi-88.cfd^
 ||rajamktoto.cfd^
-||rajapaham.cfd^
 ||rajapertama.cfd^
 ||rajaresto.cfd^
 ||rajaslot91rtpx10000.cfd^
@@ -14542,11 +14205,13 @@
 ||ramadhanqareem.cfd^
 ||ramalanhoki.cfd^
 ||ramaticed.cfd^
+||ramazan-firsati-mart.cfd^
 ||ramazanaozelpt-tal.cfd^
 ||ramazanbereketipttde.cfd^
 ||ramazanbereketipttde1.cfd^
 ||ramazanbereketipttdehizli.cfd^
 ||ramazanbereketipttdehizli1.cfd^
+||ramazanmart.cfd^
 ||ramazanpt-tavvm.cfd^
 ||ramazanpttde.cfd^
 ||ramblerealm.cfd^
@@ -14562,7 +14227,6 @@
 ||rapidbiz.cfd^
 ||rapidvista.cfd^
 ||rapiomastking.cfd^
-||rapjayalive77.cfd^
 ||rapomask.cfd^
 ||raportdnia.cfd^
 ||raqacyc.cfd^
@@ -14602,11 +14266,10 @@
 ||real-estate-law.cfd^
 ||real-estate-lawyer-near-me.cfd^
 ||real-estate-lawyer.cfd^
+||real-estate-lawyers.cfd^
 ||real-truck.cfd^
-||realbox.cfd^
 ||realinfopl.cfd^
 ||realinsight.cfd^
-||realtanya4d.cfd^
 ||realtor-near-me.cfd^
 ||realtors-near-me.cfd^
 ||reasonable-oil-change-near-me.cfd^
@@ -14629,14 +14292,12 @@
 ||red69v.cfd^
 ||redbuffulo.cfd^
 ||reddotdealx.cfd^
-||redeem-promo.cfd^
 ||redeyed-tree-frog.cfd^
 ||redhub.cfd^
 ||redirectinteracaccept1283.cfd^
+||redirectinteracaccept12836.cfd^
 ||redkmhzd.cfd^
 ||redpp.cfd^
-||redroomgs.cfd^
-||redroomgx.cfd^
 ||redwin96v.cfd^
 ||reefdiver.cfd^
 ||reeflife.cfd^
@@ -14705,10 +14366,8 @@
 ||repossessed-cars-2025-ca.cfd^
 ||repossessed-cars-2025-de.cfd^
 ||repossessed-cars-2025-us.cfd^
-||repossessed-houses2.cfd^
 ||rerelationship.cfd^
 ||rescina.cfd^
-||resefl.cfd^
 ||reservagusetid645234.cfd^
 ||reserveratinguestid662233.cfd^
 ||resgate-30hrsmilhas.cfd^
@@ -14790,7 +14449,6 @@
 ||reynoldr.cfd^
 ||rezerwacja9452426.cfd^
 ||rfgelhbhk.cfd^
-||rfm324-3.cfd^
 ||rfokap.cfd^
 ||rgapro.cfd^
 ||rgojcycq.cfd^
@@ -14845,7 +14503,6 @@
 ||rn22ia50.cfd^
 ||rnia50.cfd^
 ||rnmobiliariadreview.cfd^
-||road-scholar-trips-2025.cfd^
 ||roamrange.cfd^
 ||robalit.cfd^
 ||robin4dg.cfd^
@@ -14870,11 +14527,11 @@
 ||roketpornrrsesxsxxse.cfd^
 ||roketpornrrsexssxxse.cfd^
 ||rolax-etf.cfd^
-||rolfsnn.cfd^
 ||rollercoln.cfd^
 ||rollerdoor.cfd^
 ||rollerdoor01.cfd^
 ||rollerdoor05.cfd^
+||rollsweather.cfd^
 ||romafashiontv.cfd^
 ||romagueaa.cfd^
 ||romance-in-cinema-7.cfd^
@@ -14921,7 +14578,6 @@
 ||roofing-repairs03.cfd^
 ||roofing-services-2025-gr.cfd^
 ||roofing-services-2025-tr.cfd^
-||roofing-services2.cfd^
 ||rooftop-pool.cfd^
 ||root.cfd^
 ||roots-natural-kitchen.cfd^
@@ -14946,16 +14602,13 @@
 ||rough-country.cfd^
 ||roumdtrlp-travel.cfd^
 ||roundfrlp-travel.cfd^
+||rouriguez.cfd^
 ||rov8.cfd^
 ||royal89v.cfd^
 ||royaljpr.cfd^
 ||royaljpv.cfd^
 ||royalmailx.cfd^
 ||royalmemorialtributes.cfd^
-||royalspin88anti.cfd^
-||royalspin88bansos.cfd^
-||royalspin88elpiji.cfd^
-||royalspin88winwin.cfd^
 ||royalty-free-music.cfd^
 ||royalwardrobe.cfd^
 ||roybmlfortune.cfd^
@@ -14982,6 +14635,7 @@
 ||rradsdle.cfd^
 ||rrfvcd1n.cfd^
 ||rrtherford.cfd^
+||rs-pic57382.cfd^
 ||rs6p17.cfd^
 ||rsa-retirement.cfd^
 ||rsatxc.cfd^
@@ -14992,19 +14646,15 @@
 ||rtp-best-iklan4d.cfd^
 ||rtp-best-tempo4d.cfd^
 ||rtp-cumatoto3.cfd^
-||rtp-fortun303gcr.cfd^
 ||rtp-lxwhitelabel.cfd^
 ||rtp-rajajudi88.cfd^
-||rtp-suka288.cfd^
 ||rtp-super.cfd^
-||rtpberkahwin88top.cfd^
 ||rtpcuancemeslot.cfd^
 ||rtpdetik.cfd^
 ||rtpdewa808-3.cfd^
 ||rtpgacorhariini.cfd^
 ||rtpgacornyalabet.cfd^
 ||rtphokiraja33.cfd^
-||rtphokiunogg.cfd^
 ||rtpjitu-monk4d.cfd^
 ||rtpjitu-monk4dgd.cfd^
 ||rtpjitu-monk4dtz.cfd^
@@ -15027,54 +14677,31 @@
 ||rtptop4wede388.cfd^
 ||rtptop5wede388.cfd^
 ||rtptrio.cfd^
-||rtpug808-1.cfd^
 ||rtpug808-2.cfd^
 ||rtpvplay89.cfd^
 ||rtpwebindoxl.cfd^
 ||rtpwokawin.cfd^
 ||rtpznsgc.cfd^
 ||rtsfasa.cfd^
-||rtwtgcdgsjv.cfd^
-||rtwtgcdsgsjv.cfd^
-||rtwtgscdsgsjv.cfd^
-||rtwtgscmdmsgsjv.cfd^
-||rtwtgscmdsgsjv.cfd^
-||rtwtgseertpsjv.cfd^
-||rtwtgsergopsjv.cfd^
-||rtwtgsergosmmtpsjv.cfd^
-||rtwtgsergosmtpsjv.cfd^
-||rtwtgsergospsjv.cfd^
-||rtwtgsergsjv.cfd^
-||rtwtgsqemrtpsjv.cfd^
-||rtwtgsqertpsjv.cfd^
-||rtwtgsqjekmumrtpsjv.cfd^
-||rtwtgsqjekmurtpsjv.cfd^
-||rtwtgsqjekymumrtpsjv.cfd^
-||rtwtgsqjemrtpsjv.cfd^
-||rtwtgsqjemurtpsjv.cfd^
-||rtwtgsuodmcsgsjv.cfd^
-||rtwtgsuodmsgsjv.cfd^
 ||rtyfgh1n.cfd^
 ||ruang888v.cfd^
 ||rubberbristles.cfd^
 ||rubenstein-law.cfd^
 ||rublevkadomen.cfd^
 ||rubronegro.cfd^
-||ruckpack.cfd^
 ||rudy-law.cfd^
-||ruecrer.cfd^
+||ruikli.cfd^
 ||rumah33r.cfd^
 ||rumah33v.cfd^
 ||rumahapel.cfd^
 ||rumahsehat.cfd^
+||runmyapps.cfd^
 ||runolfsdottit.cfd^
 ||runstrong.cfd^
 ||rural-toon-vibes.cfd^
 ||rurherford.cfd^
 ||russia-cancer-vaccine.cfd^
 ||rustic-cinema-tracks.cfd^
-||rusticweddingcharm.cfd^
-||rusticweddingtrends.cfd^
 ||rustore-personal.cfd^
 ||rutgers-law.cfd^
 ||rutherhord.cfd^
@@ -15124,15 +14751,11 @@
 ||sacred-heart-academy.cfd^
 ||sacred-heart-university.cfd^
 ||sacred-heart.cfd^
-||safari-africa-4.cfd^
 ||safari-en-africa-1.cfd^
 ||safari-en-africa-todo-incluido.cfd^
 ||safari-en-africa.cfd^
 ||safari-tour-africa-8.cfd^
-||safari-tours-africa-1.cfd^
 ||safari-tours-africa-10.cfd^
-||safari-tours-packages-5.cfd^
-||safari-tours.cfd^
 ||safe-777-zone.cfd^
 ||safecard.cfd^
 ||safeco-agent-login.cfd^
@@ -15163,7 +14786,7 @@
 ||salviadoreito.cfd^
 ||salvorson.cfd^
 ||samamax.cfd^
-||sampion.cfd^
+||samsung-galaxy-s9.cfd^
 ||samurai88v.cfd^
 ||samurai999r.cfd^
 ||samurai999v.cfd^
@@ -15193,7 +14816,6 @@
 ||saranagaaming.cfd^
 ||sarmil.cfd^
 ||sars-gav.cfd^
-||sasaranyonya.cfd^
 ||saset189v.cfd^
 ||saskolski.cfd^
 ||sateb.cfd^
@@ -15263,7 +14885,6 @@
 ||schoology.cfd^
 ||schowalter.cfd^
 ||schroeser.cfd^
-||schrseder.cfd^
 ||schulsst.cfd^
 ||schwab-retirement-login.cfd^
 ||schweitzer-engineering-laboratories.cfd^
@@ -15290,9 +14911,6 @@
 ||sdo9afb.cfd^
 ||sdxzj.cfd^
 ||sdy303j.cfd^
-||se-onlinebetalning557.cfd^
-||se-onlinebetalning558.cfd^
-||se-onlinebetalning559.cfd^
 ||se-onlinebetalning562.cfd^
 ||se-onlinebetalning563.cfd^
 ||se1314.cfd^
@@ -15320,13 +14938,11 @@
 ||secure-888-safe.cfd^
 ||secure-acc-access.cfd^
 ||secure-helpuser.cfd^
-||secure-payment82341.cfd^
 ||secure-sign0n-verify.cfd^
 ||securedelivery23478.cfd^
 ||securefunds.cfd^
 ||securefutureinvest.cfd^
 ||secureinvest.cfd^
-||securetrademarket.cfd^
 ||securetradenetwork.cfd^
 ||securewealth.cfd^
 ||secureweb.cfd^
@@ -15358,8 +14974,6 @@
 ||selco-acc-verify.cfd^
 ||selco-logon.cfd^
 ||selco-savings.cfd^
-||selco-sign0naccess.cfd^
-||selco-signin.cfd^
 ||selco-users.cfd^
 ||selcomobile-signon.cfd^
 ||selcomobileauth-signon.cfd^
@@ -15399,13 +15013,13 @@
 ||senior-living-2025-cz.cfd^
 ||senior-living-2025-dk.cfd^
 ||senior-living-2025-gr.cfd^
-||senior-living-2025-hk.cfd^
 ||senior-living-2025-mx.cfd^
 ||senior-living-2025-nl.cfd^
 ||senior-living-2025-nz.cfd^
 ||senior-living-2025-ro.cfd^
 ||senior-living-2025-tr.cfd^
 ||senior-living-near-me.cfd^
+||seniors-housing.cfd^
 ||seno4dj.cfd^
 ||sensa55j.cfd^
 ||sensa96v.cfd^
@@ -15464,6 +15078,7 @@
 ||severrance.cfd^
 ||sevjtxnm.cfd^
 ||sevlipraw.cfd^
+||sewer-1111.cfd^
 ||sewer-cleaner04.cfd^
 ||sex-and-the-city-book.cfd^
 ||sex-education.cfd^
@@ -15473,7 +15088,6 @@
 ||sextb.cfd^
 ||sfe39u.cfd^
 ||sfeksu.cfd^
-||sfexpres.cfd^
 ||sfgjwsr45426.cfd^
 ||sfjcowtvep.cfd^
 ||sfole.cfd^
@@ -15493,9 +15107,7 @@
 ||shadowpeak.cfd^
 ||shakingfoota7okr5.cfd^
 ||shakki.cfd^
-||shaman.cfd^
 ||shangwei0517.cfd^
-||sharedhorizons.cfd^
 ||sharefileservice.cfd^
 ||sharevpn.cfd^
 ||sharinglocalfiles.cfd^
@@ -15542,10 +15154,7 @@
 ||shinygirls.cfd^
 ||shinytt.cfd^
 ||shipping-container-homes-2025-cy.cfd^
-||shipping-container-homes-2025-cz.cfd^
 ||shipping-container-homes-2025-hu.cfd^
-||shipping-container-homes-2025-it.cfd^
-||shipping-container-homes-2025-no.cfd^
 ||shipping-container-homes-2025-pl.cfd^
 ||shipping-container-homes-2025-sk.cfd^
 ||shipwrecks.cfd^
@@ -15574,11 +15183,13 @@
 ||shoveade.cfd^
 ||shows11.cfd^
 ||shows15.cfd^
+||shredding-services-near-me.cfd^
 ||shrtl.cfd^
 ||shuad.cfd^
 ||shudba.cfd^
 ||shunfa16888.cfd^
 ||shunfa5280.cfd^
+||shunfawangdai316.cfd^
 ||shuoqiongmie.cfd^
 ||shutters-for-windows.cfd^
 ||shuttle-bus-rental.cfd^
@@ -15601,7 +15212,6 @@
 ||sign0n-citadel.cfd^
 ||signs-of-lung-cancer.cfd^
 ||signs-on-lung-cancer.cfd^
-||signupmonsterenergy.cfd^
 ||sihirkuat.cfd^
 ||sihslotj.cfd^
 ||siklnsseessxss1.cfd^
@@ -15632,7 +15242,6 @@
 ||sinus-infection-treatment-2025-be.cfd^
 ||sinus-infection-treatment-2025-pl.cfd^
 ||sioskifarms.cfd^
-||sip33-rtp.cfd^
 ||sipohr.cfd^
 ||sipolei.cfd^
 ||sipolx234.cfd^
@@ -15685,7 +15294,6 @@
 ||skyvista.cfd^
 ||skywin77v.cfd^
 ||skywork.cfd^
-||slakaalpqld.cfd^
 ||slam-miami.cfd^
 ||slaughter-api.cfd^
 ||slavegraphdodl9s.cfd^
@@ -15712,7 +15320,6 @@
 ||slotgaming888v.cfd^
 ||slotgcor4drun.cfd^
 ||slotjetv.cfd^
-||slotmajamax.cfd^
 ||slotmegaj.cfd^
 ||slotopar.cfd^
 ||slotopav.cfd^
@@ -15778,17 +15385,12 @@
 ||smart-beds-2025-vn.cfd^
 ||smart-bytes.cfd^
 ||smartbrain.cfd^
-||smartcloser.cfd^
 ||smarthub.cfd^
-||smartinvestchoices.cfd^
-||smartinvestpath.cfd^
 ||smartly.cfd^
 ||smartportal.cfd^
 ||smartthx.cfd^
-||smarttradeinsights.cfd^
 ||smartv.cfd^
 ||smaslma33.cfd^
-||smasmrnn.cfd^
 ||smeedge.cfd^
 ||smeoobum.cfd^
 ||smetasupprostidpage-acoutavatiefb.cfd^
@@ -15807,7 +15409,6 @@
 ||smuobou.cfd^
 ||smwbm808725.cfd^
 ||smwbm991025.cfd^
-||snails.cfd^
 ||snamp.cfd^
 ||snamxx4mt.cfd^
 ||snaosp.cfd^
@@ -15863,7 +15464,6 @@
 ||social-anxiety-treatment.cfd^
 ||social-media-marketing.cfd^
 ||social-security-lawyer.cfd^
-||socretileo.cfd^
 ||sofi-high-yield-savings.cfd^
 ||sofia456.cfd^
 ||sofia812.cfd^
@@ -15886,7 +15486,6 @@
 ||solar-installation-91.cfd^
 ||solar-installers-near-me.cfd^
 ||solar-panel-installation.cfd^
-||solar-panels-afri.cfd^
 ||solar-panels-caribbean.cfd^
 ||solar-power.cfd^
 ||solar-storm.cfd^
@@ -15915,7 +15514,7 @@
 ||soothingsunrises.cfd^
 ||sopojbv.cfd^
 ||soracyan.cfd^
-||soroban.cfd^
+||sorgula-ve-aktarim-servisi.cfd^
 ||sorrynotsorry.cfd^
 ||sosenior.cfd^
 ||sossial303.cfd^
@@ -15923,7 +15522,6 @@
 ||soulful-love-stories.cfd^
 ||soulmate-movie-time.cfd^
 ||soundhound-ai.cfd^
-||soupayam.cfd^
 ||source-code.cfd^
 ||source-tree.cfd^
 ||source2.cfd^
@@ -15963,15 +15561,11 @@
 ||spo77v.cfd^
 ||spocketstore.cfd^
 ||spokes.cfd^
-||sportadventurehub.cfd^
 ||sportoldal.cfd^
 ||sportowyportal.cfd^
-||sportpulsenow.cfd^
-||sportpulsetrends.cfd^
 ||sportpulsezone.cfd^
 ||sports-333-zone.cfd^
 ||sports-book.cfd^
-||sportworldconnection.cfd^
 ||sportzonecentral.cfd^
 ||spraysulationcost.cfd^
 ||spraysulationcost01.cfd^
@@ -15979,7 +15573,6 @@
 ||spunky.cfd^
 ||spushtan-sparkasse.cfd^
 ||sq8wpx.cfd^
-||sqena.cfd^
 ||sqewz.cfd^
 ||squamous-cell-carcinoma-lung-cancer.cfd^
 ||squamous-cell-skin-cancer-treatment.cfd^
@@ -16041,9 +15634,9 @@
 ||state-of-emergency-california.cfd^
 ||stationx.cfd^
 ||status-info.cfd^
-||statusotp.cfd^
 ||staycalm.cfd^
 ||stbiple.cfd^
+||stcceg.cfd^
 ||steadyprogress.cfd^
 ||stealingstreamsisgay.cfd^
 ||stealthproxy.cfd^
@@ -16051,7 +15644,6 @@
 ||steam-shortlink.cfd^
 ||steki.cfd^
 ||stekorn.cfd^
-||stellarapparelshowcase.cfd^
 ||stellarformations.cfd^
 ||stellarvista.cfd^
 ||stensul.cfd^
@@ -16063,7 +15655,6 @@
 ||stichare.cfd^
 ||stichmegow.cfd^
 ||stiedesann.cfd^
-||stiekir.cfd^
 ||stiffpan6vokje4.cfd^
 ||stiflujor.cfd^
 ||stigazen.cfd^
@@ -16096,7 +15687,6 @@
 ||stowin.cfd^
 ||strategicmotion.cfd^
 ||strategicshift.cfd^
-||stratusxz.cfd^
 ||stratxvbegyvibe.cfd^
 ||streammail.cfd^
 ||strehch.cfd^
@@ -16118,7 +15708,6 @@
 ||stuform.cfd^
 ||styaba.cfd^
 ||stylishoutfit.cfd^
-||stylishwearzone.cfd^
 ||stymernik.cfd^
 ||stypliko.cfd^
 ||stzap.cfd^
@@ -16143,6 +15732,8 @@
 ||suisse-credit.cfd^
 ||suite-id5825.cfd^
 ||sukacandy.cfd^
+||sultan18n.cfd^
+||sultan99n.cfd^
 ||sultantogel88.cfd^
 ||sumber4dj.cfd^
 ||sumbertotov.cfd^
@@ -16171,7 +15762,6 @@
 ||superskandal.cfd^
 ||superwd77.cfd^
 ||supp-infos.cfd^
-||supply15.cfd^
 ||support-business-facebook-center.cfd^
 ||support-business-metacenter.cfd^
 ||support-facebook-handlingviolations.cfd^
@@ -16254,7 +15844,6 @@
 ||swiftonbuzz.cfd^
 ||swiftpost.cfd^
 ||swiftsportgear.cfd^
-||swifttrademarket.cfd^
 ||swim-on-the-pool.cfd^
 ||swimming-pool-builders-near-me.cfd^
 ||swimming-pool-companies-near-me.cfd^
@@ -16291,9 +15880,9 @@
 ||t-catyunhuo.cfd^
 ||t0ph3re.cfd^
 ||t0un7qs.cfd^
+||t13n9kp.cfd^
 ||t1k1j96p040225g0.cfd^
 ||t20hd.cfd^
-||t244amptv.cfd^
 ||t2p-1lnk.cfd^
 ||t2p-1nk.cfd^
 ||t2ph3r3.cfd^
@@ -16415,7 +16004,6 @@
 ||tailedwombat.cfd^
 ||tailunhappy65wylq3.cfd^
 ||taipei-reservid8572.cfd^
-||taipeireservation-id5872.cfd^
 ||taizhifeng2.cfd^
 ||tajirtogelv.cfd^
 ||tajirtotov.cfd^
@@ -16487,7 +16075,6 @@
 ||tanya4dfly.cfd^
 ||tanzania-safari-packages-03.cfd^
 ||tanzania-safari-packages-08.cfd^
-||tanzania-safari-packages-4.cfd^
 ||taozhitv14.cfd^
 ||tapazak.cfd^
 ||taplink.cfd^
@@ -16497,12 +16084,8 @@
 ||targettestabc.cfd^
 ||tarouf.cfd^
 ||tastybiteadventures.cfd^
-||tastybitesculinary.cfd^
-||tastyfoodbuzz.cfd^
 ||tastyfoodevents.cfd^
-||tastyfoodjourney.cfd^
 ||tastyfreshfood.cfd^
-||tastygourmetcuisines.cfd^
 ||tastyjourneyadventures.cfd^
 ||tatarchi.cfd^
 ||tavrix.cfd^
@@ -16511,6 +16094,7 @@
 ||tax-law.cfd^
 ||tax-lawyer-near-me.cfd^
 ||tax-lawyer.cfd^
+||tax-service-near-me.cfd^
 ||taxas-ipvadetranpr.cfd^
 ||taxi4d2000.cfd^
 ||tazachocolate.cfd^
@@ -16576,6 +16160,7 @@
 ||tejaratpishro.cfd^
 ||tekas88j.cfd^
 ||tekgol-cdn-project.cfd^
+||telceeall.cfd^
 ||telcel---mx.cfd^
 ||telcelel.cfd^
 ||telcelil-mx.cfd^
@@ -16584,10 +16169,8 @@
 ||telecamera-wifi.cfd^
 ||teleegilh.cfd^
 ||teleelgih.cfd^
-||telefon3subatalis.cfd^
 ||telefonfirsatigiris.cfd^
 ||telefonfirsburda.cfd^
-||telefongiris.cfd^
 ||telefongiriscis.cfd^
 ||telefonicat.cfd^
 ||telegaata.cfd^
@@ -16972,7 +16555,9 @@
 ||terminal4dgacor.cfd^
 ||ternate4dj.cfd^
 ||ternatetogelj.cfd^
+||terraf.cfd^
 ||terraform-test.cfd^
+||terrainbench.cfd^
 ||terrebleu.cfd^
 ||terrenas.cfd^
 ||tesla-semi-truck.cfd^
@@ -17008,7 +16593,6 @@
 ||text-navyfederal.cfd^
 ||text1-navyfederal.cfd^
 ||text2-navyfederal.cfd^
-||tezsy.cfd^
 ||tf1info.cfd^
 ||tfgds.cfd^
 ||tfvpdpeix.cfd^
@@ -17024,6 +16608,7 @@
 ||the-change-up.cfd^
 ||the-church-jesus-christ-latter-day-saints.cfd^
 ||the-church-of-jesus-christ-of-latterday-saints.cfd^
+||the-daily-wire.cfd^
 ||the-eye-center.cfd^
 ||the-general-auto-insurance.cfd^
 ||the-glass-guru.cfd^
@@ -17118,8 +16703,8 @@
 ||thoughtful-drawing-vibes.cfd^
 ||thpl75.cfd^
 ||three-mile-island-nuclear-accident.cfd^
-||thrillingsportaction.cfd^
 ||thrivent-financial.cfd^
+||thrivestationbliss.cfd^
 ||throath.cfd^
 ||tiaa-retirement.cfd^
 ||tianhongttyfgo.cfd^
@@ -17150,6 +16735,9 @@
 ||tiktaktotog.cfd^
 ||tiktok-hjn8.cfd^
 ||tiktok-marketing-005.cfd^
+||tiktok-tk1.cfd^
+||tiktok-tk2.cfd^
+||tiktok-tk3.cfd^
 ||tiktok202502171147.cfd^
 ||tiktok202502271758.cfd^
 ||tiktok202502271759.cfd^
@@ -17188,8 +16776,8 @@
 ||timeless-love-movie.cfd^
 ||timeless-sketch-art.cfd^
 ||timelesslove.cfd^
+||timelessly.cfd^
 ||timelybuzznews.cfd^
-||timelyworldnews.cfd^
 ||timesbulletin.cfd^
 ||timesquaresa.cfd^
 ||timestribune.cfd^
@@ -17241,11 +16829,9 @@
 ||tkshopgood.cfd^
 ||tkurht2.cfd^
 ||tkvip-shop.cfd^
-||tkxyaq.cfd^
 ||tlipsika.cfd^
 ||tliyrjid.cfd^
 ||tloivrt.cfd^
-||tme-w.cfd^
 ||tmijubrz.cfd^
 ||tmit-shop.cfd^
 ||tmrobvaoo.cfd^
@@ -17253,6 +16839,7 @@
 ||tms-therapy-near-me.cfd^
 ||tms-therapy.cfd^
 ||tnefuturetechnologies.cfd^
+||tnivalekf.cfd^
 ||tnl5-85e.cfd^
 ||tnompson.cfd^
 ||tnopliwe.cfd^
@@ -17267,7 +16854,6 @@
 ||toei-mv.cfd^
 ||tofinosoapcompany.cfd^
 ||together-forever-9.cfd^
-||toilet-seats-2025-nl.cfd^
 ||tokekwinrtpku.cfd^
 ||tokekwinrtpku1.cfd^
 ||tokimoki.cfd^
@@ -17275,6 +16861,7 @@
 ||toko77j.cfd^
 ||toko79hero.cfd^
 ||tokopedia.cfd^
+||tokyo99now.cfd^
 ||tole4dv.cfd^
 ||toledo-booking.cfd^
 ||toletogelv.cfd^
@@ -17310,7 +16897,6 @@
 ||topicsift-de.cfd^
 ||topicsift-fr.cfd^
 ||topicsift-gb.cfd^
-||topicsift-jp.cfd^
 ||topinfozone.cfd^
 ||topiosapplje.cfd^
 ||topiosapps.cfd^
@@ -17364,6 +16950,7 @@
 ||torosent.cfd^
 ||torpedo4d.cfd^
 ||tort-law.cfd^
+||torvin.cfd^
 ||toshopping.cfd^
 ||toshoppingbest.cfd^
 ||toshoppingcart.cfd^
@@ -17392,6 +16979,7 @@
 ||towing-354.cfd^
 ||towing-791.cfd^
 ||towing-855.cfd^
+||towing-service-near-me.cfd^
 ||toyota-financial-services.cfd^
 ||toyota-oil-change-coupon.cfd^
 ||toyowei.cfd^
@@ -17408,25 +16996,13 @@
 ||tr8c7z.cfd^
 ||trabajolidl.cfd^
 ||tracepulse.cfd^
-||trackapplelocation.cfd^
 ||trackerhub.cfd^
 ||trackgenix.cfd^
 ||tracking-info.cfd^
 ||trackworld.cfd^
 ||trackyourorder-amzn.cfd^
 ||trade-777-forex.cfd^
-||tradeexpertzone.cfd^
-||tradeforecasttools.cfd^
-||tradeinsightnetwork.cfd^
-||trademarketexchange.cfd^
-||trademarketexperts.cfd^
-||trademarketplace.cfd^
-||trademarketpro.cfd^
-||trademarketsavant.cfd^
 ||tradenest.cfd^
-||tradeopportunitiesportal.cfd^
-||tradeprofitstrategies.cfd^
-||tradesuccessstories.cfd^
 ||tradeswift.cfd^
 ||tradevibe.cfd^
 ||tradewind.cfd^
@@ -17454,7 +17030,6 @@
 ||transltodfgov.cfd^
 ||transmission-fluid-change.cfd^
 ||transmission-oil-change-cost.cfd^
-||transport15.cfd^
 ||transportadora1.cfd^
 ||transubstantiated.cfd^
 ||trap-movie-streaming.cfd^
@@ -17489,16 +17064,10 @@
 ||tree-trimming-service.cfd^
 ||treffchat.cfd^
 ||trellis-law.cfd^
-||trendingapparelstyle.cfd^
-||trendsetterapparel.cfd^
 ||trendwatcher.cfd^
 ||trendwave.cfd^
 ||trendy21.cfd^
-||trendyapparelboutique.cfd^
-||trendyapparelstyles.cfd^
-||trendyapparelvogue.cfd^
 ||trendytips.cfd^
-||trendyurbanapparel.cfd^
 ||treutet.cfd^
 ||treutul.cfd^
 ||treuuel.cfd^
@@ -17511,6 +17080,7 @@
 ||tribuneobserver.cfd^
 ||tribunepost.cfd^
 ||tribunereport.cfd^
+||triple-door-seattle-washington.cfd^
 ||tripsgame.cfd^
 ||trnxconf-42902.cfd^
 ||trofton.cfd^
@@ -17519,6 +17089,7 @@
 ||trs-retirement.cfd^
 ||trsutedservice328.cfd^
 ||trsxx.cfd^
+||trtzad.cfd^
 ||truck-1599.cfd^
 ||truck-accident-attorney.cfd^
 ||truck-covers-1358.cfd^
@@ -17592,7 +17163,6 @@
 ||turning-point-usa.cfd^
 ||turning-point.cfd^
 ||turonbank-download.cfd^
-||turonbank.cfd^
 ||turonbnk.cfd^
 ||turpostone.cfd^
 ||turtotte.cfd^
@@ -17707,12 +17277,10 @@
 ||ueklyzd.cfd^
 ||uelokdy.cfd^
 ||uemrmxqu.cfd^
-||ueoydlz.cfd^
 ||ueozlyd.cfd^
 ||ueydlkz.cfd^
 ||ueylodz.cfd^
 ||uezokyl.cfd^
-||uezoydl.cfd^
 ||ufeylgus.cfd^
 ||ufseniorz.cfd^
 ||ug100-ads1.cfd^
@@ -17737,6 +17305,7 @@
 ||ukexcellenceawards.cfd^
 ||ukezyod.cfd^
 ||ukldeyo.cfd^
+||ukleoyz.cfd^
 ||uknposhta.cfd^
 ||ukoldzy.cfd^
 ||ukolzyd.cfd^
@@ -17756,10 +17325,7 @@
 ||uloedky.cfd^
 ||ulstory.cfd^
 ||ulti-700good.cfd^
-||ultimateapparelguide.cfd^
 ||ultimatesportchampion.cfd^
-||ultimatesportguide.cfd^
-||ultimatesporthub.cfd^
 ||ultimatesportnetwork.cfd^
 ||ultra-888-spin.cfd^
 ||ultra77v.cfd^
@@ -17767,6 +17333,7 @@
 ||ultraskan.cfd^
 ||ultrawiadomosci.cfd^
 ||ultrazodiacal.cfd^
+||ulusalpttmarket.cfd^
 ||ulykdze.cfd^
 ||ulyozed.cfd^
 ||ulyzdeo.cfd^
@@ -17802,6 +17369,7 @@
 ||uniquefindssssers.cfd^
 ||unisuint.cfd^
 ||unitechgroup-ke.cfd^
+||united-airlines-customer-service-number.cfd^
 ||united-community-bank.cfd^
 ||united-healthcare-ceo.cfd^
 ||united-healthcare-login.cfd^
@@ -17810,7 +17378,6 @@
 ||unitedbyblue.cfd^
 ||unittogelj.cfd^
 ||universal-health-coverage.cfd^
-||universidades-a-distancia-2.cfd^
 ||universities-near-me.cfd^
 ||university-of-arizona.cfd^
 ||university-of-chicago.cfd^
@@ -17831,7 +17398,6 @@
 ||unlimited-sims-004.cfd^
 ||uno98v.cfd^
 ||unoggbocoranzona.cfd^
-||unreproachingly.cfd^
 ||unsensualize.cfd^
 ||untungjp134.cfd^
 ||unusualscience6ezlg79.cfd^
@@ -17864,18 +17430,10 @@
 ||ups-com-w3vg.cfd^
 ||uqbpbhqh.cfd^
 ||ur1xfg.cfd^
-||urbanapparelboutique.cfd^
-||urbanapparelcollection.cfd^
 ||urbanfoodquest.cfd^
 ||urbanfusidontech.cfd^
-||urbanshop.cfd^
-||urbansporthub.cfd^
-||urbanstyleapparel.cfd^
 ||urbantrfdfhektech.cfd^
 ||urbanvibes.cfd^
-||urbanvoguewear.cfd^
-||urbanwearcollection.cfd^
-||urchin.cfd^
 ||ureterolysis.cfd^
 ||urgent-care-open-near-me.cfd^
 ||uriabv.cfd^
@@ -17894,6 +17452,7 @@
 ||us-law-shield.cfd^
 ||us-naval-academy.cfd^
 ||us-oil-production.cfd^
+||us-postal-every-door-direct.cfd^
 ||us3r-10dn4.cfd^
 ||usaa-auth.cfd^
 ||usaa-auto-insurance.cfd^
@@ -17905,7 +17464,6 @@
 ||used-camper-trailers-4862.cfd^
 ||used-camper-trailers-5385.cfd^
 ||used-car-on-credit.cfd^
-||used-car-shops.cfd^
 ||used-cars-003.cfd^
 ||used-cars-1057.cfd^
 ||used-cars-1582.cfd^
@@ -17923,15 +17481,12 @@
 ||used-cars-7426.cfd^
 ||used-cars-9365.cfd^
 ||used-cars-9964.cfd^
-||used-cars-shops.cfd^
 ||usedautosforsale.cfd^
-||userjab2943u3.cfd^
 ||userjabs23028.cfd^
 ||userjabs287e23.cfd^
 ||userjabs649p2.cfd^
 ||userjabs827e9.cfd^
 ||users-verification.cfd^
-||userverify.cfd^
 ||usfinancess.cfd^
 ||uskxp.cfd^
 ||uspsvo.cfd^
@@ -18089,7 +17644,6 @@
 ||vdlulemze.cfd^
 ||vdsenior.cfd^
 ||vedshar.cfd^
-||vegamoviess.cfd^
 ||vegas38v.cfd^
 ||vegasmain.cfd^
 ||vegasmasak.cfd^
@@ -18110,7 +17664,6 @@
 ||vent-cleaning-002.cfd^
 ||vent-cleaning-003.cfd^
 ||vent-cleaning-007.cfd^
-||vent-cleaning-2.cfd^
 ||vent-cleaning-3.cfd^
 ||vente-telephone.cfd^
 ||venturevale.cfd^
@@ -18146,6 +17699,7 @@
 ||vexdil.cfd^
 ||vezionline.cfd^
 ||vg483a.cfd^
+||vgsdfewfat.cfd^
 ||vgslot88id.cfd^
 ||vhcmsnx.cfd^
 ||vhcmssnx.cfd^
@@ -18159,7 +17713,6 @@
 ||vibesignal.cfd^
 ||vibetoto701.cfd^
 ||vibook.cfd^
-||vibrantartgallery.cfd^
 ||vibranthomestuff.cfd^
 ||vibrantlandscapes.cfd^
 ||victoriamusson.cfd^
@@ -18210,6 +17763,7 @@
 ||virginia-retirement-system.cfd^
 ||virileds.cfd^
 ||virtual-academy.cfd^
+||virtual-office-5-br-11882.cfd^
 ||virtualplay.cfd^
 ||virtualred.cfd^
 ||virustogelg.cfd^
@@ -18262,6 +17816,7 @@
 ||vonvr-fw.cfd^
 ||vooifa.cfd^
 ||vorlem.cfd^
+||vortexxdsperwrflore.cfd^
 ||voted.cfd^
 ||voterdiscrimination.cfd^
 ||vou-ajudar.cfd^
@@ -18309,7 +17864,6 @@
 ||vxxgoch1.cfd^
 ||vylizu.cfd^
 ||vylypor.cfd^
-||vyngard.cfd^
 ||vyojikgc.cfd^
 ||vyplata.cfd^
 ||vzqigpif.cfd^
@@ -18371,13 +17925,11 @@
 ||watch789.cfd^
 ||water-damage-specialist-1.cfd^
 ||water-heater-boiler-2025-es.cfd^
-||water-heater-boiler-2025-hu.cfd^
 ||water-heater-repair-34.cfd^
 ||water-heater-repair-35.cfd^
 ||water-heater-repair-37.cfd^
 ||water-line.cfd^
 ||water-softener-systems.cfd^
-||watercolor.cfd^
 ||watermostlyzd36qw.cfd^
 ||waterproofing-1680.cfd^
 ||wavebreak.cfd^
@@ -18392,7 +17944,6 @@
 ||wayback-machine.cfd^
 ||waybetv.cfd^
 ||waypts-app.cfd^
-||wbeqz.cfd^
 ||wbqini.cfd^
 ||wbulltradefind.cfd^
 ||wc2025.cfd^
@@ -18505,10 +18056,8 @@
 ||weczobplms.cfd^
 ||wedding-planner-services-2702.cfd^
 ||wedding-rings-near-me.cfd^
-||weddingblisszone.cfd^
 ||weddingdreamvenue.cfd^
 ||weddingjoyfulcelebrations.cfd^
-||weddingjoyfulmoments.cfd^
 ||wede33r.cfd^
 ||wede33v.cfd^
 ||wedogood.cfd^
@@ -18519,12 +18068,11 @@
 ||wegovy-side-effects.cfd^
 ||weight-loss-infrarred-sauna.cfd^
 ||weight-loss-injections-near-me.cfd^
-||weight-loss-medications.cfd^
 ||weight-loss4.cfd^
-||weight-loss5.cfd^
 ||weimanm.cfd^
 ||welcomehiddenruy0421.cfd^
 ||welderspro1.cfd^
+||well-service-near-me.cfd^
 ||wellfargocomplicereview.cfd^
 ||wellnow-urgent-care.cfd^
 ||wells-fargo-atm-near-me.cfd^
@@ -18555,6 +18103,7 @@
 ||weuncomplicate.cfd^
 ||wevih.cfd^
 ||wewhoki198.cfd^
+||wewhoki201.cfd^
 ||wfopxle.cfd^
 ||wfrc1.cfd^
 ||wfrc2.cfd^
@@ -18594,7 +18143,6 @@
 ||whataburgerbreakfasthours.cfd^
 ||whats-my-ip.cfd^
 ||whatsagolos.cfd^
-||whatsapp-auth.cfd^
 ||whatsapp-login.cfd^
 ||whatsapp-signin.cfd^
 ||whcarknh.cfd^
@@ -18606,7 +18154,6 @@
 ||where-to-watch-only-murders-in-the-building.cfd^
 ||wheredoibelong.cfd^
 ||whh123.cfd^
-||whh232.cfd^
 ||whh234.cfd^
 ||whh345.cfd^
 ||whha114.cfd^
@@ -18635,8 +18182,6 @@
 ||whhl6.cfd^
 ||whhl7.cfd^
 ||whhl8.cfd^
-||whhls364425.cfd^
-||whhls787725.cfd^
 ||whhtz.cfd^
 ||whimsical-toon-visions.cfd^
 ||whimsicaladventuress.cfd^
@@ -18679,7 +18224,6 @@
 ||wilshire-law-firm.cfd^
 ||wilxkd.cfd^
 ||win13v.cfd^
-||win33-rtp.cfd^
 ||win38r.cfd^
 ||win38v.cfd^
 ||win69v.cfd^
@@ -18691,7 +18235,6 @@
 ||window-installation-2-br-11880.cfd^
 ||window-installation-2-br-11881.cfd^
 ||window-installation-2-br-11882.cfd^
-||window-repair2.cfd^
 ||windows-10-iso-download.cfd^
 ||windows-95.cfd^
 ||windows-and-doors.cfd^
@@ -18710,7 +18253,7 @@
 ||winnnerrs.cfd^
 ||winornothing.cfd^
 ||winrar-us.cfd^
-||winrtpslotsgg.cfd^
+||winslot30n.cfd^
 ||wionich.cfd^
 ||wireless-internet-2025-pr.cfd^
 ||wisukat.cfd^
@@ -18787,12 +18330,12 @@
 ||wongtogelg.cfd^
 ||woningenvoorseniorennl-nl.cfd^
 ||wood-stoves-5436.cfd^
-||wooden-houses-2025-es.cfd^
 ||wooden-houses-2025-ro.cfd^
 ||woodforest-bank-near-me.cfd^
 ||wopecart.cfd^
 ||wordpress-website-builder.cfd^
 ||work-comp-lawyer-near-me.cfd^
+||work-comp-lawyers-near-me.cfd^
 ||work-compensation-lawyer-near-me.cfd^
 ||work-injury-lawyer.cfd^
 ||workata.cfd^
@@ -18896,12 +18439,13 @@
 ||wrfc2.cfd^
 ||wrfc3.cfd^
 ||wrinkle-treatment-2025-it.cfd^
-||writehub.cfd^
 ||writing-a-book.cfd^
 ||wrncxi.cfd^
 ||wrongfoughtizki7zm.cfd^
 ||wrongful-death-lawyer.cfd^
+||wrongful-death-lawyers.cfd^
 ||wrongful-termination-lawyer.cfd^
+||wrongful-termination-lawyers-near-me.cfd^
 ||wrongmode.cfd^
 ||wrpt2vx7.cfd^
 ||wrtyd.cfd^
@@ -18928,14 +18472,6 @@
 ||wslt7.cfd^
 ||wslt8.cfd^
 ||wslt9.cfd^
-||wslx2.cfd^
-||wslx3.cfd^
-||wslx4.cfd^
-||wslx5.cfd^
-||wslx6.cfd^
-||wslx7.cfd^
-||wslx8.cfd^
-||wslx9.cfd^
 ||wsmeq.cfd^
 ||wsqez.cfd^
 ||wsvkncuh.cfd^
@@ -19056,6 +18592,7 @@
 ||xindianpostfee.cfd^
 ||xingaiba.cfd^
 ||xingfu8.cfd^
+||xinnamake.cfd^
 ||xinun.cfd^
 ||xiongda.cfd^
 ||xiram.cfd^
@@ -19066,6 +18603,7 @@
 ||xkhpqbid.cfd^
 ||xklnd6.cfd^
 ||xklt-uy64wu-6w4-uj5w7-kij-w5sku687ei5-64uwr.cfd^
+||xksj.cfd^
 ||xl-level.cfd^
 ||xl4b.cfd^
 ||xl4rz03di0402259n.cfd^
@@ -19166,6 +18704,7 @@
 ||yaqmoqnu.cfd^
 ||yard-book.cfd^
 ||yarhi.cfd^
+||yaristogeln.cfd^
 ||yaseqwe789.cfd^
 ||yayaus.cfd^
 ||ybowingacor.cfd^
@@ -19177,7 +18716,6 @@
 ||yd2x.cfd^
 ||yd6g.cfd^
 ||ydanacy.cfd^
-||ydezuol.cfd^
 ||ydkozue.cfd^
 ||ydoeluk.cfd^
 ||ydoeukz.cfd^
@@ -19257,7 +18795,6 @@
 ||ymkd3w.cfd^
 ||ympnctoq.cfd^
 ||ymseniorz.cfd^
-||ynk-63nh.cfd^
 ||ynnt6u.cfd^
 ||yntkxjei.cfd^
 ||ynvppkfl.cfd^
@@ -19267,6 +18804,7 @@
 ||yoin0dgfuwgkend1uwin.cfd^
 ||yoktotog.cfd^
 ||yokzled.cfd^
+||yonelndirme-servisiaktarim.cfd^
 ||yorcinship.cfd^
 ||you9de.cfd^
 ||youes.cfd^
@@ -19274,13 +18812,14 @@
 ||youhai.cfd^
 ||youjizz.cfd^
 ||youlekz.cfd^
+||youlzed.cfd^
 ||youmakmei.cfd^
 ||younginnovatorssssers.cfd^
 ||younvyh.cfd^
 ||younvyq.cfd^
 ||youporn-xxx.cfd^
-||youpornz.cfd^
 ||your-name.cfd^
+||yourmind.cfd^
 ||yousmellyindian.cfd^
 ||youwang.cfd^
 ||youyouzijin.cfd^
@@ -19318,16 +18857,16 @@
 ||yudier.cfd^
 ||yudozek.cfd^
 ||yuk69d.cfd^
-||yukajayalive77.cfd^
+||yuk69e.cfd^
 ||yukeldz.cfd^
 ||yukoezl.cfd^
 ||yuldzke.cfd^
 ||yunfamily.cfd^
 ||yunqing.cfd^
+||yuodkle.cfd^
 ||yuoedlz.cfd^
 ||yurticikargos.cfd^
 ||yute168.cfd^
-||yuzdleo.cfd^
 ||yuzekdo.cfd^
 ||yuzloke.cfd^
 ||yvddj68-e.cfd^
@@ -19347,7 +18886,6 @@
 ||yzkduel.cfd^
 ||yzoeklu.cfd^
 ||yzoldek.cfd^
-||yzouled.cfd^
 ||yzueokd.cfd^
 ||yzuwboqphe.cfd^
 ||z-ip.cfd^
@@ -19355,6 +18893,7 @@
 ||z-mir.cfd^
 ||z1q6.cfd^
 ||z2qm8lt.cfd^
+||z2z42ik.cfd^
 ||z32565356.cfd^
 ||z364px.cfd^
 ||z3m.cfd^
@@ -19397,6 +18936,7 @@
 ||zedkyou.cfd^
 ||zedoluy.cfd^
 ||zelm1o.cfd^
+||zeniee.cfd^
 ||zenithconcepts.cfd^
 ||zenithfunded.cfd^
 ||zenmail.cfd^
@@ -19410,7 +18950,9 @@
 ||zepbound-side-effects.cfd^
 ||zephyrsoloution43.cfd^
 ||zephyrweb.cfd^
+||zercalo-1win.cfd^
 ||zerok1231.cfd^
+||zestify.cfd^
 ||zeumjntz.cfd^
 ||zeus-network.cfd^
 ||zev-hour.cfd^
@@ -19443,7 +18985,6 @@
 ||zjzjzjmao.cfd^
 ||zk2e1n.cfd^
 ||zkeyold.cfd^
-||zkkxla.cfd^
 ||zklyuod.cfd^
 ||zkoeyul.cfd^
 ||zkqrj54s.cfd^
@@ -19478,6 +19019,7 @@
 ||zodyule.cfd^
 ||zokduye.cfd^
 ||zoleduy.cfd^
+||zolvin.cfd^
 ||zona69-rtp.cfd^
 ||zona88v.cfd^
 ||zonaliveindogg.cfd^
@@ -19511,7 +19053,6 @@
 ||zuokydl.cfd^
 ||zurejdop.cfd^
 ||zurkrone-guest5325.cfd^
-||zuruck.cfd^
 ||zususud.cfd^
 ||zuyekol.cfd^
 ||zuyeokl.cfd^
@@ -19523,7 +19064,6 @@
 ||zxwibvtp.cfd^
 ||zxzjcjtd.cfd^
 ||zy6ow3.cfd^
-||zyduleo.cfd^
 ||zyelodu.cfd^
 ||zyeuodl.cfd^
 ||zyluked.cfd^

@@ -1,6 +1,8 @@
 ||adas.report^
 ||adrenaline.report^
 ||alfa.report^
+||aln.report^
+||asap.report^
 ||automatic.report^
 ||bldr.report^
 ||blec.report^
@@ -39,11 +41,13 @@
 ||miaas.report^
 ||mindx.report^
 ||myactivity.report^
+||numeraire.report^
 ||opus.report^
 ||personality.report^
 ||postmortem.report^
 ||pulse.report^
 ||rad.report^
+||ransomware.report^
 ||redlist.report^
 ||relgii.report^
 ||resistance.report^
