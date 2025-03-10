@@ -20,6 +20,7 @@
 ||bgx.financial^
 ||bizfunding.financial^
 ||blackbridge.financial^
+||blok.financial^
 ||bnk.financial^
 ||bong88.financial^
 ||boom.financial^
@@ -33,7 +34,6 @@
 ||celltonic.financial^
 ||chip.financial^
 ||clearscore.financial^
-||clove.financial^
 ||cmc.financial^
 ||coinbase.financial^
 ||collectiveorb.financial^
@@ -46,9 +46,7 @@
 ||decker.financial^
 ||digi.financial^
 ||din.financial^
-||domi.financial^
 ||dost.financial^
-||dubaipay.financial^
 ||dune.financial^
 ||dymension.financial^
 ||dynamic.financial^
@@ -67,10 +65,12 @@
 ||fa.financial^
 ||fbi.financial^
 ||finance.financial^
+||firstdue.financial^
 ||flex.financial^
 ||fpgroup.financial^
 ||fusion.financial^
 ||genstone.financial^
+||ghost.financial^
 ||govhmrevenuecustoms.financial^
 ||granted.financial^
 ||grok.financial^
@@ -117,7 +117,6 @@
 ||mcelroy.financial^
 ||metahelp.financial^
 ||mge.financial^
-||midastrading.financial^
 ||milner.financial^
 ||moca.financial^
 ||moneebank.financial^
@@ -134,6 +133,7 @@
 ||payments.financial^
 ||payzo.financial^
 ||plnksale.financial^
+||practicewithcherry.financial^
 ||premium.financial^
 ||prisma.financial^
 ||promarkets.financial^
@@ -187,6 +187,7 @@
 ||v2-aerodrome.financial^
 ||validpath.financial^
 ||vavani.financial^
+||versa.financial^
 ||vpcapital.financial^
 ||watchtower.financial^
 ||waystone.financial^

@@ -41,15 +41,12 @@
 ||heart.broker^
 ||hedged.broker^
 ||housing.broker^
-||hw-affiliate.broker^
-||hw-ib.broker^
 ||ia4.broker^
 ||iafor.broker^
 ||joker.broker^
 ||kiev.broker^
 ||labjewelry.broker^
 ||lien.broker^
-||lol.broker^
 ||mb2.broker^
 ||meridian.broker^
 ||mfd.broker^
@@ -78,10 +75,8 @@
 ||rvshipping.broker^
 ||sft.broker^
 ||sgt.broker^
-||shop.broker^
 ||simple.broker^
 ||siris.broker^
-||site.broker^
 ||software.broker^
 ||solarenergy.broker^
 ||stellarmls.broker^
