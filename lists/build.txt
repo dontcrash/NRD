@@ -38,6 +38,7 @@
 ||cwgbs.build^
 ||davidclark.build^
 ||docbot.build^
+||duneform.build^
 ||ejyvp.build^
 ||emmdo.build^
 ||enaoqm.build^
@@ -47,6 +48,7 @@
 ||fb68.build^
 ||fearless.build^
 ||femoz.build^
+||findtruenorth.build^
 ||folk.build^
 ||frok.build^
 ||galactic.build^
@@ -90,6 +92,7 @@
 ||oneroof.build^
 ||orchardinc.build^
 ||padel.build^
+||pandora-app.build^
 ||papabera.build^
 ||partisan.build^
 ||paxdor.build^
@@ -131,12 +134,14 @@
 ||symmetry.build^
 ||tendro.build^
 ||terralon.build^
+||tessera.build^
 ||thb.build^
 ||tomahawk.build^
 ||touchless.build^
 ||transformer.build^
 ||transformers.build^
 ||triplee.build^
+||truenorthco.build^
 ||tvelt.build^
 ||twilio.build^
 ||upstart.build^
