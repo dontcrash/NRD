@@ -1,5 +1,6 @@
 ||agen.voyage^
 ||ai.voyage^
+||aib.voyage^
 ||aix-en-provence.voyage^
 ||albi.voyage^
 ||alencon.voyage^
@@ -14,7 +15,6 @@
 ||bakou.voyage^
 ||beauvais.voyage^
 ||belfort.voyage^
-||berascan.voyage^
 ||blois.voyage^
 ||bones.voyage^
 ||brest.voyage^
@@ -35,8 +35,6 @@
 ||dune.voyage^
 ||flex.voyage^
 ||fontainebleau.voyage^
-||glowbetrotters.voyage^
-||goingonanadventure.voyage^
 ||grenoble.voyage^
 ||intle.voyage^
 ||kasino.voyage^
@@ -80,6 +78,7 @@
 ||rennes.voyage^
 ||revinate.voyage^
 ||riodejaneiro.voyage^
+||rte.voyage^
 ||skopje.voyage^
 ||skullfabric.voyage^
 ||spacex.voyage^
