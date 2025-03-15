@@ -16,7 +16,9 @@
 ||boyfriend.new^
 ||cert.new^
 ||chai.new^
+||checkout.new^
 ||computers.new^
+||connectors.new^
 ||contractor.new^
 ||cs.new^
 ||ctt.new^
@@ -34,6 +36,7 @@
 ||gum.new^
 ||harper.new^
 ||health.new^
+||herd.new^
 ||hog.new^
 ||hotels.new^
 ||house.new^
@@ -75,6 +78,7 @@
 ||swe.new^
 ||teach.new^
 ||tech.new^
+||think.new^
 ||timesheet.new^
 ||tl.new^
 ||toys.new^
@@ -82,4 +86,5 @@
 ||typeface.new^
 ||ufabet.new^
 ||uuid.new^
+||waitlist.new^
 ||withcherry.new^
