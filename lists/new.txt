@@ -1,5 +1,6 @@
 ||2.new^
 ||apartment.new^
+||applet.new^
 ||aqi.new^
 ||arc01.new^
 ||aristotle.new^
@@ -17,12 +18,14 @@
 ||cert.new^
 ||chai.new^
 ||checkout.new^
+||clone.new^
 ||computers.new^
 ||connectors.new^
 ||contractor.new^
 ||cs.new^
 ||ctt.new^
 ||era.new^
+||evals.new^
 ||fashion.new^
 ||fleck.new^
 ||font.new^
@@ -42,6 +45,7 @@
 ||house.new^
 ||icon.new^
 ||icons.new^
+||invideo.new^
 ||isometric.new^
 ||ixr.new^
 ||jdoodle.new^
