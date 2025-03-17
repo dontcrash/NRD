@@ -15,11 +15,13 @@
 ||books.new^
 ||bool.new^
 ||boyfriend.new^
+||btb.new^
 ||cert.new^
 ||chai.new^
 ||checkout.new^
 ||clone.new^
 ||computers.new^
+||config.new^
 ||connectors.new^
 ||contractor.new^
 ||cs.new^
@@ -92,3 +94,4 @@
 ||uuid.new^
 ||waitlist.new^
 ||withcherry.new^
+||workbook.new^
