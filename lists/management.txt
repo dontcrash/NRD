@@ -19,6 +19,7 @@
 ||clever.management^
 ||cloudaccess.management^
 ||codex.management^
+||columbusohioproperty.management^
 ||control.management^
 ||cryptocurrency.management^
 ||daily.management^
@@ -27,6 +28,7 @@
 ||decisions.management^
 ||deep.management^
 ||dils.management^
+||dxb.management^
 ||dynamics.management^
 ||ej.management^
 ||emi.management^
@@ -47,6 +49,8 @@
 ||genesis.management^
 ||giga.management^
 ||grace.management^
+||greenproject.management^
+||grok.management^
 ||hardcore.management^
 ||heart.management^
 ||homecare.management^
@@ -66,6 +70,7 @@
 ||mass.management^
 ||mcj.management^
 ||metal.management^
+||moe.management^
 ||monkey.management^
 ||myplan.management^
 ||mypropertyhub.management^
@@ -75,6 +80,7 @@
 ||ocean.management^
 ||ocs.management^
 ||orbit.management^
+||origami.management^
 ||orion.management^
 ||pacific.management^
 ||page.management^
@@ -93,12 +99,14 @@
 ||rho.management^
 ||richter.management^
 ||river.management^
+||saldavinci.management^
 ||salesperformance.management^
 ||scurani.management^
 ||sdlpro.management^
 ||sentinel.management^
 ||serenity.management^
 ||silver.management^
+||singularity.management^
 ||sleep.management^
 ||softskill.management^
 ||sora.management^
@@ -106,13 +114,16 @@
 ||spark.management^
 ||special.management^
 ||stack.management^
+||starlight.management^
 ||steel.management^
 ||stepin.management^
 ||strategicinsights.management^
 ||stuff.management^
 ||subversive.management^
 ||suite.management^
+||sustainableproject.management^
 ||sync.management^
+||tadam.management^
 ||talk.management^
 ||thedanmartinroesch.management^
 ||token.management^

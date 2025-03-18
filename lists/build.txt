@@ -24,12 +24,14 @@
 ||bridgefree.build^
 ||britannia.build^
 ||cartoontools.build^
+||casadesigns.build^
 ||cctwk.build^
 ||chatand.build^
 ||chatbots.build^
 ||clientportal.build^
 ||convert.build^
 ||craftsmandesign.build^
+||croft.build^
 ||cusa.build^
 ||customai.build^
 ||cwgbs.build^
@@ -37,6 +39,7 @@
 ||docbot.build^
 ||docker.build^
 ||duneform.build^
+||dxb.build^
 ||ejyvp.build^
 ||emmdo.build^
 ||enaoqm.build^
@@ -118,8 +121,11 @@
 ||structvres.build^
 ||stvkm.build^
 ||stx.build^
+||suncore.build^
+||sunmarc.build^
 ||superdev.build^
 ||tendro.build^
+||teracor.build^
 ||terralon.build^
 ||terrier.build^
 ||tessera.build^

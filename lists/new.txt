@@ -37,6 +37,7 @@
 ||gemini.new^
 ||gifts.new^
 ||girlfriend.new^
+||grid.new^
 ||grok.new^
 ||gum.new^
 ||harper.new^
@@ -47,6 +48,7 @@
 ||house.new^
 ||icon.new^
 ||icons.new^
+||intranet.new^
 ||invideo.new^
 ||isometric.new^
 ||ixr.new^
@@ -61,6 +63,7 @@
 ||medicine.new^
 ||microservice.new^
 ||mighty.new^
+||mock.new^
 ||mom.new^
 ||movies.new^
 ||odyssey.new^
@@ -74,6 +77,7 @@
 ||pilot.new^
 ||pod.new^
 ||poof.new^
+||redsand.new^
 ||restaurants.new^
 ||revenue.new^
 ||science.new^
@@ -82,11 +86,13 @@
 ||shows.new^
 ||spring.new^
 ||swe.new^
+||tally.new^
 ||teach.new^
 ||tech.new^
 ||think.new^
 ||timesheet.new^
 ||tl.new^
+||topup.new^
 ||toys.new^
 ||true.new^
 ||typeface.new^
