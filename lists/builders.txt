@@ -3,6 +3,7 @@
 ||aib.builders^
 ||bold.builders^
 ||brands.builders^
+||bubble.builders^
 ||butterfly.builders^
 ||campus.builders^
 ||casino.builders^
@@ -23,6 +24,7 @@
 ||iosapp.builders^
 ||leadkit.builders^
 ||levels.builders^
+||live.builders^
 ||luxurious.builders^
 ||luxuriousdubai.builders^
 ||masterwork.builders^
@@ -45,5 +47,6 @@
 ||tony.builders^
 ||trustlayer.builders^
 ||vc.builders^
+||vibecode.builders^
 ||void.builders^
 ||xo.builders^
