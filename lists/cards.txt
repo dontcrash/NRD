@@ -8,7 +8,6 @@
 ||airlode.cards^
 ||airshed.cards^
 ||aitarot.cards^
-||ameri.cards^
 ||amgi.cards^
 ||anna.cards^
 ||app-ch.cards^
@@ -19,6 +18,7 @@
 ||bards.cards^
 ||bidencash.cards^
 ||bitunix.cards^
+||bizbuzz.cards^
 ||bk88.cards^
 ||blackid.cards^
 ||blacklotus.cards^
@@ -59,13 +59,11 @@
 ||cribbage.cards^
 ||crypostle.cards^
 ||cryptid.cards^
-||crypto-debit.cards^
 ||cryptopay.cards^
 ||ctg.cards^
 ||cube6.cards^
 ||cuevana3.cards^
 ||cvip.cards^
-||cw.cards^
 ||daily.cards^
 ||datascience.cards^
 ||davat.cards^
@@ -73,12 +71,14 @@
 ||degen.cards^
 ||dekt.cards^
 ||delta.cards^
+||democracy.cards^
 ||dex.cards^
 ||difdef.cards^
 ||digital.cards^
 ||dxsense.cards^
 ||edggencia.cards^
 ||ee.cards^
+||eharis.cards^
 ||elevatelocal.cards^
 ||elsy.cards^
 ||elusive.cards^
@@ -88,7 +88,6 @@
 ||exo.cards^
 ||fbc.cards^
 ||feather.cards^
-||fermion.cards^
 ||fifa.cards^
 ||finseta.cards^
 ||fiv.cards^
@@ -111,7 +110,6 @@
 ||heartofthe.cards^
 ||hero.cards^
 ||hiphop.cards^
-||hnt.cards^
 ||honestgreeting.cards^
 ||hubet.cards^
 ||imd.cards^
@@ -186,7 +184,6 @@
 ||points.cards^
 ||pointsandmiles.cards^
 ||polandtodaynews.cards^
-||potion.cards^
 ||power9.cards^
 ||powernine.cards^
 ||prayerhealing.cards^
@@ -196,7 +193,6 @@
 ||prism.cards^
 ||prosperityhealing.cards^
 ||protap.cards^
-||pvp.cards^
 ||qr-nfc.cards^
 ||rahmilanadi.cards^
 ||rainshadow.cards^
@@ -215,8 +211,6 @@
 ||serious.cards^
 ||seventhunders.cards^
 ||shipit.cards^
-||shuffled.cards^
-||smartai.cards^
 ||smileyscratchcards.cards^
 ||soldi.cards^
 ||sora.cards^
@@ -225,7 +219,6 @@
 ||src.cards^
 ||stamina.cards^
 ||strata.cards^
-||stx.cards^
 ||subtle.cards^
 ||subtrack.cards^
 ||superbridge.cards^
