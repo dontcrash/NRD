@@ -1,6 +1,9 @@
 ||1cabura.cards^
 ||2words.cards^
 ||9x12.cards^
+||abyss.cards^
+||aeon-ja.cards^
+||aeon-jp.cards^
 ||affordable.cards^
 ||agi.cards^
 ||agursoft.cards^
@@ -13,7 +16,6 @@
 ||app-ch.cards^
 ||authenticity.cards^
 ||backyards.cards^
-||badcredit.cards^
 ||bankfarm.cards^
 ||bards.cards^
 ||bidencash.cards^
@@ -46,7 +48,6 @@
 ||carbone.cards^
 ||cardjoy.cards^
 ||charging.cards^
-||chatto.cards^
 ||checker.cards^
 ||chill.cards^
 ||classy.cards^
@@ -59,7 +60,6 @@
 ||cribbage.cards^
 ||crypostle.cards^
 ||cryptid.cards^
-||cryptopay.cards^
 ||ctg.cards^
 ||cube6.cards^
 ||cuevana3.cards^
@@ -83,7 +83,6 @@
 ||elsy.cards^
 ||elusive.cards^
 ||emo.cards^
-||evento.cards^
 ||evital.cards^
 ||exo.cards^
 ||fbc.cards^
@@ -134,12 +133,10 @@
 ||koleko.cards^
 ||kucasino.cards^
 ||kynta.cards^
-||lele.cards^
 ||lexa.cards^
 ||link.cards^
 ||lir.cards^
 ||livro.cards^
-||lle.cards^
 ||lostandfound.cards^
 ||loteria.cards^
 ||loto188.cards^
@@ -151,11 +148,13 @@
 ||mafia.cards^
 ||makeflash.cards^
 ||mandatoryfun.cards^
+||mania.cards^
 ||maygraph.cards^
 ||metalbusinesscard.cards^
 ||miamihurricanes.cards^
 ||msg.cards^
-||mypoker.cards^
+||mvipi.cards^
+||myjcb-ja.cards^
 ||mysticboosterco.cards^
 ||named.cards^
 ||nba.cards^
@@ -173,8 +172,6 @@
 ||opnpay.cards^
 ||oui.cards^
 ||pahrump.cards^
-||paperpost.cards^
-||papo.cards^
 ||pbcards.cards^
 ||peg.cards^
 ||persia.cards^
@@ -189,7 +186,6 @@
 ||prayerhealing.cards^
 ||premier.cards^
 ||pretty.cards^
-||prince.cards^
 ||prism.cards^
 ||prosperityhealing.cards^
 ||protap.cards^
@@ -205,11 +201,9 @@
 ||satelit.cards^
 ||savastan0.cards^
 ||savetarot.cards^
-||sending.cards^
+||scan.cards^
 ||sendyour.cards^
-||seo.cards^
 ||serious.cards^
-||seventhunders.cards^
 ||shipit.cards^
 ||smileyscratchcards.cards^
 ||soldi.cards^
@@ -218,12 +212,10 @@
 ||sprytna.cards^
 ||src.cards^
 ||stamina.cards^
-||strata.cards^
 ||subtle.cards^
 ||subtrack.cards^
 ||superbridge.cards^
 ||superscratch.cards^
-||swisscard.cards^
 ||sydneyweddingphotographer.cards^
 ||tappd.cards^
 ||teaches.cards^
@@ -249,6 +241,7 @@
 ||valence.cards^
 ||vclub.cards^
 ||vice.cards^
+||viciousemporium.cards^
 ||victorysports.cards^
 ||virtualshift.cards^
 ||wondrous.cards^

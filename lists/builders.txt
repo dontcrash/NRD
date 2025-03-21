@@ -1,11 +1,9 @@
 ||accounting.builders^
 ||agentive.builders^
 ||aib.builders^
-||bold.builders^
 ||brands.builders^
 ||bubble.builders^
 ||butterfly.builders^
-||campus.builders^
 ||casino.builders^
 ||celestial.builders^
 ||centralcoast.builders^
@@ -49,7 +47,6 @@
 ||small.builders^
 ||system.builders^
 ||time.builders^
-||tony.builders^
 ||trustlayer.builders^
 ||vc.builders^
 ||vibecode.builders^
