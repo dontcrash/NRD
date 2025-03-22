@@ -18,6 +18,7 @@
 ||airtel.exchange^
 ||alive.exchange^
 ||alltrustme.exchange^
+||alternatively.exchange^
 ||alzheimers.exchange^
 ||amaze.exchange^
 ||amehrotra.exchange^
@@ -47,7 +48,6 @@
 ||axi-group.exchange^
 ||azerbaijancarbon.exchange^
 ||b-ungee.exchange^
-||backpacks.exchange^
 ||bags.exchange^
 ||bahraincarbon.exchange^
 ||bangladeshcarbon.exchange^
@@ -63,8 +63,6 @@
 ||binance-italia.exchange^
 ||bitcoinese.exchange^
 ||bitgp.exchange^
-||bitland.exchange^
-||bitpharaoh.exchange^
 ||blizzard.exchange^
 ||block-chain.exchange^
 ||bolts.exchange^
@@ -91,7 +89,6 @@
 ||celebrities.exchange^
 ||cellana.exchange^
 ||ceur.exchange^
-||chatcoin.exchange^
 ||chatgpto3mini.exchange^
 ||chickeneggs.exchange^
 ||chief.exchange^
@@ -101,6 +98,8 @@
 ||ciaotoday.exchange^
 ||cincin.exchange^
 ||cisxo.exchange^
+||citation.exchange^
+||citations.exchange^
 ||cloud365.exchange^
 ||cloudnine.exchange^
 ||clover.exchange^
@@ -143,6 +142,8 @@
 ||dive.exchange^
 ||dohastock.exchange^
 ||doro.exchange^
+||drink.exchange^
+||driving.exchange^
 ||dtao.exchange^
 ||dubaistock.exchange^
 ||duffle.exchange^
@@ -153,15 +154,14 @@
 ||eazy.exchange^
 ||ebit.exchange^
 ||edex.exchange^
-||edma.exchange^
 ||eigenlayer.exchange^
-||electrum.exchange^
 ||elemint.exchange^
 ||elfa.exchange^
 ||ella.exchange^
 ||emiratesstock.exchange^
 ||endpoint.exchange^
 ||equest.exchange^
+||etna.exchange^
 ||euri.exchange^
 ||eurostreaming.exchange^
 ||eva.exchange^
@@ -176,8 +176,10 @@
 ||failure.exchange^
 ||fair.exchange^
 ||faster.exchange^
+||fdi.exchange^
 ||fdr.exchange^
 ||feather.exchange^
+||fhe.exchange^
 ||finso.exchange^
 ||fireball.exchange^
 ||flurry.exchange^
@@ -189,7 +191,7 @@
 ||gamebai.exchange^
 ||gamespace.exchange^
 ||gamify.exchange^
-||gammax.exchange^
+||gamut.exchange^
 ||gao.exchange^
 ||geckoterminal.exchange^
 ||georgiacarbon.exchange^
@@ -225,7 +227,6 @@
 ||irancarbon.exchange^
 ||iraqcarbon.exchange^
 ||irmomokhal.exchange^
-||irwend.exchange^
 ||israelcarbon.exchange^
 ||izzi.exchange^
 ||japancarbon.exchange^
@@ -281,7 +282,6 @@
 ||minepi.exchange^
 ||minipay.exchange^
 ||miti.exchange^
-||moashai.exchange^
 ||mohra.exchange^
 ||monda.exchange^
 ||moneycat.exchange^
@@ -290,13 +290,13 @@
 ||monies.exchange^
 ||monkeytrade.exchange^
 ||mor.exchange^
-||muroil.exchange^
 ||myanmarcarbon.exchange^
 ||myp.exchange^
 ||myshop.exchange^
 ||nepalcarbon.exchange^
 ||newsroom.exchange^
 ||nextbit.exchange^
+||nice.exchange^
 ||nimbus.exchange^
 ||northkoreacarbon.exchange^
 ||not-bnk.exchange^
@@ -308,8 +308,10 @@
 ||nse.exchange^
 ||nuclear.exchange^
 ||nurse.exchange^
+||o2.exchange^
 ||offer.exchange^
 ||omancarbon.exchange^
+||onecrypto.exchange^
 ||onering.exchange^
 ||onetap.exchange^
 ||onex.exchange^
@@ -332,7 +334,9 @@
 ||petrocanads.exchange^
 ||pfk.exchange^
 ||pg88.exchange^
-||phar.exchange^
+||pharaohe.exchange^
+||pharaohs.exchange^
+||pharaoph.exchange^
 ||philippinescarbon.exchange^
 ||picoin.exchange^
 ||playaction.exchange^
@@ -345,6 +349,7 @@
 ||pussy.exchange^
 ||qatarcarbon.exchange^
 ||qatarstock.exchange^
+||qbig.exchange^
 ||quatro.exchange^
 ||qumi.exchange^
 ||rang-o.exchange^
@@ -371,7 +376,6 @@
 ||rwafi.exchange^
 ||rwai.exchange^
 ||s1.exchange^
-||sadivu.exchange^
 ||saia.exchange^
 ||satsuma.exchange^
 ||saudiarabiacarbon.exchange^
@@ -387,10 +391,10 @@
 ||securechain.exchange^
 ||sentia.exchange^
 ||shadovv.exchange^
-||sheer.exchange^
 ||shivaay.exchange^
 ||siam.exchange^
 ||sight.exchange^
+||siglos.exchange^
 ||simcat.exchange^
 ||singaporecarbon.exchange^
 ||skyblock.exchange^
@@ -416,6 +420,7 @@
 ||supportbinance.exchange^
 ||sutra.exchange^
 ||swapscenter.exchange^
+||swellnetwork.exchange^
 ||switchgrass.exchange^
 ||switchgrassdata.exchange^
 ||swyrl.exchange^
@@ -434,12 +439,14 @@
 ||theatascocita.exchange^
 ||thelabjewelry.exchange^
 ||themiddleeast.exchange^
-||therealty.exchange^
 ||thereview.exchange^
 ||thesis.exchange^
+||theyacht.exchange^
 ||timorlestecarbon.exchange^
 ||tokeid.exchange^
+||tokenblock.exchange^
 ||tradepoint.exchange^
+||tritcoin.exchange^
 ||trump.exchange^
 ||trumps.exchange^
 ||ttp.exchange^

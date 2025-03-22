@@ -12,6 +12,8 @@
 ||aib.markets^
 ||aicrypto.markets^
 ||allo.markets^
+||application.markets^
+||applications.markets^
 ||arcadia.markets^
 ||arka.markets^
 ||arkade.markets^
@@ -48,13 +50,11 @@
 ||davidkinuthia.markets^
 ||defairobo.markets^
 ||dexpool.markets^
-||dinar.markets^
 ||dojo.markets^
 ||dpr.markets^
 ||drupal.markets^
 ||dryayoi.markets^
 ||edx.markets^
-||emoji.markets^
 ||farmersmarket.markets^
 ||fasqon.markets^
 ||feather.markets^
@@ -65,12 +65,12 @@
 ||freebitcoin.markets^
 ||futarchy.markets^
 ||giftcard.markets^
-||glebe.markets^
 ||grok.markets^
 ||groovy.markets^
 ||growth-marketing.markets^
 ||halo.markets^
 ||hft.markets^
+||highticketaffiliate.markets^
 ||homecare.markets^
 ||homeschool.markets^
 ||hostdu.markets^
@@ -94,6 +94,7 @@
 ||megalinks2.markets^
 ||memebank.markets^
 ||memyselfandai.markets^
+||microsaas.markets^
 ||modules.markets^
 ||moneymetals.markets^
 ||myevm.markets^
@@ -117,7 +118,6 @@
 ||playmaxx.markets^
 ||potential.markets^
 ||ppc.markets^
-||prorelevant.markets^
 ||qnx.markets^
 ||qq88.markets^
 ||qubetics.markets^

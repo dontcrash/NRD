@@ -34,7 +34,6 @@
 ||builders.delivery^
 ||bundle-like.delivery^
 ||buycycle.delivery^
-||buyer.delivery^
 ||cab.delivery^
 ||cambridgeweed.delivery^
 ||canna.delivery^
@@ -49,10 +48,10 @@
 ||coronaweed.delivery^
 ||courie.delivery^
 ||cratpackaging.delivery^
-||dailyspecialbar.delivery^
 ||daytime.delivery^
 ||dcp.delivery^
 ||delix.delivery^
+||dig.delivery^
 ||dn.delivery^
 ||doublea.delivery^
 ||dwl.delivery^
@@ -64,12 +63,14 @@
 ||express-usps.delivery^
 ||ezmail.delivery^
 ||fallenhero.delivery^
+||fastlane.delivery^
 ||ff.delivery^
 ||firestation.delivery^
 ||fishingmaps.delivery^
 ||forrestershipping.delivery^
 ||forward.delivery^
 ||freshola.delivery^
+||futurama-planet-express.delivery^
 ||gamer.delivery^
 ||gemma.delivery^
 ||glasswater.delivery^
@@ -85,6 +86,7 @@
 ||idey.delivery^
 ||index.delivery^
 ||interconnect.delivery^
+||irani.delivery^
 ||islington.delivery^
 ||jado.delivery^
 ||japanesefood.delivery^
@@ -92,7 +94,6 @@
 ||jetway.delivery^
 ||job.delivery^
 ||justcannabis.delivery^
-||kasino.delivery^
 ||korean.delivery^
 ||kunpa.delivery^
 ||leap.delivery^
@@ -103,13 +104,13 @@
 ||loterie.delivery^
 ||ltunci.delivery^
 ||lumber.delivery^
-||luxlt.delivery^
 ||mall.delivery^
 ||mandapizza.delivery^
 ||manna.delivery^
 ||mcp.delivery^
 ||meatmarket.delivery^
 ||mega.delivery^
+||mercadoregional.delivery^
 ||mississaugaweed.delivery^
 ||mohra.delivery^
 ||moneymetals.delivery^
@@ -120,13 +121,13 @@
 ||northwest.delivery^
 ||notzero.delivery^
 ||ola.delivery^
+||outerbanks.delivery^
 ||ovf.delivery^
 ||painless.delivery^
 ||pakuba.delivery^
 ||panda.delivery^
 ||passgates.delivery^
 ||pasta.delivery^
-||pedido.delivery^
 ||penguin.delivery^
 ||pizzacolumbus.delivery^
 ||pizzaeat.delivery^
@@ -135,6 +136,7 @@
 ||plaza.delivery^
 ||pop.delivery^
 ||port.delivery^
+||porti.delivery^
 ||posts.delivery^
 ||presto.delivery^
 ||priority-express.delivery^
@@ -144,6 +146,7 @@
 ||quickshop.delivery^
 ||quiklee.delivery^
 ||quran.delivery^
+||rajas.delivery^
 ||rangekingshipping.delivery^
 ||rbtv77.delivery^
 ||real.delivery^
