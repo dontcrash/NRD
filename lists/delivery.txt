@@ -15,6 +15,7 @@
 ||active.delivery^
 ||aib.delivery^
 ||airdrop.delivery^
+||airdrops.delivery^
 ||albert.delivery^
 ||ale.delivery^
 ||alfred.delivery^
@@ -22,6 +23,7 @@
 ||alzheimers.delivery^
 ||amaz.delivery^
 ||applications.delivery^
+||argonaut.delivery^
 ||astrology.delivery^
 ||attorneyleads.delivery^
 ||bad.delivery^
@@ -35,6 +37,7 @@
 ||bundle-like.delivery^
 ||buycycle.delivery^
 ||cab.delivery^
+||cakes.delivery^
 ||cambridgeweed.delivery^
 ||canna.delivery^
 ||caseleads.delivery^
@@ -51,19 +54,21 @@
 ||daytime.delivery^
 ||dcp.delivery^
 ||delix.delivery^
+||dhlexpress-secure.delivery^
 ||dig.delivery^
 ||dn.delivery^
 ||doublea.delivery^
 ||dwl.delivery^
 ||e2bet.delivery^
 ||e7rlr3.delivery^
-||ehealth.delivery^
 ||elite.delivery^
+||elm.delivery^
 ||endo.delivery^
 ||express-usps.delivery^
 ||ezmail.delivery^
 ||fallenhero.delivery^
 ||fastlane.delivery^
+||fc.delivery^
 ||ff.delivery^
 ||firestation.delivery^
 ||fishingmaps.delivery^
@@ -96,6 +101,7 @@
 ||justcannabis.delivery^
 ||korean.delivery^
 ||kunpa.delivery^
+||kushfactory.delivery^
 ||leap.delivery^
 ||legalweed.delivery^
 ||lilabali.delivery^
@@ -120,7 +126,6 @@
 ||newyorkpot.delivery^
 ||northwest.delivery^
 ||notzero.delivery^
-||ola.delivery^
 ||outerbanks.delivery^
 ||ovf.delivery^
 ||painless.delivery^
@@ -134,7 +139,6 @@
 ||plan.delivery^
 ||planet.delivery^
 ||plaza.delivery^
-||pop.delivery^
 ||port.delivery^
 ||porti.delivery^
 ||posts.delivery^
@@ -155,13 +159,11 @@
 ||remove.delivery^
 ||revinate.delivery^
 ||riversideweed.delivery^
-||roi.delivery^
 ||rondonia.delivery^
 ||rte.delivery^
 ||salaam.delivery^
 ||santorini.delivery^
-||sdp.delivery^
-||secure-mail.delivery^
+||sceya.delivery^
 ||self.delivery^
 ||shipper.delivery^
 ||shippingpacket.delivery^
@@ -171,6 +173,7 @@
 ||snappy.delivery^
 ||sol.delivery^
 ||somm.delivery^
+||speezy.delivery^
 ||startup.delivery^
 ||stoneface.delivery^
 ||streamer.delivery^
@@ -181,8 +184,10 @@
 ||tanger.delivery^
 ||tca.delivery^
 ||tdqpx.delivery^
+||teambook.delivery^
 ||tex.delivery^
 ||thc.delivery^
+||thestrip.delivery^
 ||thirsty.delivery^
 ||tntlog.delivery^
 ||town.delivery^

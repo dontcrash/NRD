@@ -47,11 +47,13 @@
 ||chef.healthcare^
 ||clearmindbalancedlife.healthcare^
 ||consult.healthcare^
+||corephysio.healthcare^
 ||csabh.healthcare^
 ||decentral.healthcare^
 ||delavan.healthcare^
 ||delevan.healthcare^
 ||dgyjd.healthcare^
+||districtbehavioral.healthcare^
 ||dkfux.healthcare^
 ||dlsia.healthcare^
 ||doolae.healthcare^
@@ -59,7 +61,7 @@
 ||elbotanico.healthcare^
 ||ellamed.healthcare^
 ||epique.healthcare^
-||eversana.healthcare^
+||family.healthcare^
 ||firstwestern.healthcare^
 ||fkkny.healthcare^
 ||framework.healthcare^
@@ -84,7 +86,6 @@
 ||ldgun.healthcare^
 ||lifesciences.healthcare^
 ||m2.healthcare^
-||maxmed.healthcare^
 ||mdpl.healthcare^
 ||medicalfreedom.healthcare^
 ||mgm.healthcare^
@@ -92,6 +93,7 @@
 ||mymetacognition.healthcare^
 ||mzfid.healthcare^
 ||nbbbb.healthcare^
+||niceinsurance.healthcare^
 ||nlbda.healthcare^
 ||nurturing.healthcare^
 ||oiqpk.healthcare^
@@ -102,10 +104,14 @@
 ||otonomy.healthcare^
 ||overdue.healthcare^
 ||paperless.healthcare^
+||personalprimary.healthcare^
+||personalprimarycare.healthcare^
 ||phpxy.healthcare^
 ||pitch.healthcare^
 ||pozbn.healthcare^
 ||primemed.healthcare^
+||privateprimary.healthcare^
+||privateprimarycare.healthcare^
 ||prkvm.healthcare^
 ||pvzco.healthcare^
 ||qtcop.healthcare^
@@ -130,6 +136,7 @@
 ||txyzx.healthcare^
 ||uadxq.healthcare^
 ||urprovider.healthcare^
+||vitae.healthcare^
 ||wbajy.healthcare^
 ||wellspan.healthcare^
 ||worldlife.healthcare^
