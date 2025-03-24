@@ -5,7 +5,6 @@
 ||abercrombie.build^
 ||adooptive.build^
 ||africarise.build^
-||aiengine.build^
 ||aligned.build^
 ||americanflagproject.build^
 ||amulya.build^
@@ -25,14 +24,13 @@
 ||cartoontools.build^
 ||casadesigns.build^
 ||cctwk.build^
+||cescaleup.build^
 ||cfx.build^
 ||chatand.build^
-||chatbots.build^
 ||clientportal.build^
 ||convert.build^
 ||croft.build^
 ||cusa.build^
-||customai.build^
 ||cwgbs.build^
 ||cypher.build^
 ||davidclark.build^
@@ -51,7 +49,6 @@
 ||findtruenorth.build^
 ||foundationone.build^
 ||gatsby.build^
-||gen4.build^
 ||geostead.build^
 ||gmskb.build^
 ||grandamerica.build^
@@ -60,7 +57,6 @@
 ||handysolutions.build^
 ||headwaters.build^
 ||hedera.build^
-||heyday.build^
 ||hkqxn.build^
 ||instant.build^
 ||jia.build^
@@ -74,8 +70,6 @@
 ||leadkit.build^
 ||lendx.build^
 ||lighthouse.build^
-||lineal.build^
-||lineath.build^
 ||luca.build^
 ||luqman.build^
 ||maclab.build^
@@ -127,10 +121,8 @@
 ||stx.build^
 ||suncore.build^
 ||sunmarc.build^
-||superdev.build^
 ||tendro.build^
 ||teracor.build^
-||terralon.build^
 ||terrier.build^
 ||tessera.build^
 ||thb.build^

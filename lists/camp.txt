@@ -64,6 +64,7 @@
 ||coupons.camp^
 ||course.camp^
 ||cowboy.camp^
+||cowork.camp^
 ||creatives.camp^
 ||cube.camp^
 ||cuddle.camp^
@@ -149,10 +150,10 @@
 ||lifetime.camp^
 ||like.camp^
 ||lo.camp^
-||logyc.camp^
 ||loterie.camp^
 ||lovables.camp^
 ||lulypop.camp^
+||luxury.camp^
 ||maha.camp^
 ||mallorca.camp^
 ||menonfire.camp^
@@ -166,7 +167,6 @@
 ||neo.camp^
 ||neuroscience.camp^
 ||nevada.camp^
-||node.camp^
 ||novus.camp^
 ||odb.camp^
 ||oneday.camp^
@@ -183,6 +183,7 @@
 ||pinkconnect.camp^
 ||pixels.camp^
 ||planet.camp^
+||plesk.camp^
 ||plot.camp^
 ||polar.camp^
 ||premium.camp^
@@ -192,7 +193,6 @@
 ||pulse.camp^
 ||punch.camp^
 ||punkindrublic.camp^
-||pure.camp^
 ||radost.camp^
 ||record.camp^
 ||rednosedistrict.camp^
@@ -206,6 +206,7 @@
 ||rutor.camp^
 ||ry-low.camp^
 ||rylow.camp^
+||s.camp^
 ||sales.camp^
 ||screen.camp^
 ||select.camp^
@@ -221,20 +222,19 @@
 ||sponsor.camp^
 ||spotter.camp^
 ||springhacker.camp^
-||sprynya.camp^
 ||squad.camp^
 ||starlake.camp^
 ||startalong.camp^
 ||strawberrymoon.camp^
 ||strength.camp^
 ||strikes.camp^
-||sui.camp^
 ||summerbash.camp^
 ||supply.camp^
 ||sys.camp^
 ||talksatvibe.camp^
 ||tatrybase.camp^
 ||taxi.camp^
+||taylor.camp^
 ||teams.camp^
 ||tennessee.camp^
 ||tentfolk.camp^
