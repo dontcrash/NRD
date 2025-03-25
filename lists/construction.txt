@@ -17,6 +17,7 @@
 ||avf.construction^
 ||base.construction^
 ||bask.construction^
+||beacon.construction^
 ||belair.construction^
 ||benaquista.construction^
 ||blaze.construction^
@@ -43,6 +44,7 @@
 ||defi.construction^
 ||definition.construction^
 ||delta.construction^
+||delval.construction^
 ||depai.construction^
 ||dewing.construction^
 ||direct.construction^
@@ -72,6 +74,8 @@
 ||grameen.construction^
 ||groupenasa.construction^
 ||grujic.construction^
+||gsc.construction^
+||hbzachry.construction^
 ||headwest.construction^
 ||heart.construction^
 ||hoa.construction^
@@ -83,6 +87,7 @@
 ||infinite.construction^
 ||irish.construction^
 ||j1.construction^
+||jacked.construction^
 ||jcgeneral.construction^
 ||jgss.construction^
 ||jhs.construction^
@@ -101,6 +106,7 @@
 ||local.construction^
 ||maintenance.construction^
 ||mangga.construction^
+||maxwell.construction^
 ||mcp.construction^
 ||melport.construction^
 ||michaeiclark.construction^
