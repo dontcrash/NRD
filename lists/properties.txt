@@ -13,6 +13,7 @@
 ||brave.properties^
 ||casameva.properties^
 ||citytosummit.properties^
+||contour.properties^
 ||ctrl.properties^
 ||defai.properties^
 ||delawareluxuryhome.properties^
@@ -22,12 +23,15 @@
 ||encinitas.properties^
 ||flashscore.properties^
 ||frankfurt.properties^
+||gala.properties^
 ||garg.properties^
 ||gradient.properties^
 ||greyfalcon.properties^
 ||grok.properties^
 ||hostask.properties^
 ||houcommercial.properties^
+||installment.properties^
+||ionica.properties^
 ||lakeplacid.properties^
 ||lightcastle.properties^
 ||luxuriousla.properties^
@@ -35,6 +39,7 @@
 ||manus.properties^
 ||marjan.properties^
 ||multicorp.properties^
+||mycyprus.properties^
 ||myinvestor.properties^
 ||newground.properties^
 ||nine71.properties^
@@ -43,10 +48,13 @@
 ||pacifico.properties^
 ||padel.properties^
 ||pattison.properties^
+||radius.properties^
 ||rafa.properties^
 ||ratmeyer.properties^
 ||real-t.properties^
+||reirooted.properties^
 ||rent-to-own.properties^
+||rentmemphis.properties^
 ||revive.properties^
 ||rizllc.properties^
 ||rte.properties^
@@ -56,6 +64,7 @@
 ||supreme.properties^
 ||sutton.properties^
 ||takeearn.properties^
+||taya.properties^
 ||torchlight.properties^
 ||torrevieja.properties^
 ||trueking.properties^
