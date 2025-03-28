@@ -7,11 +7,13 @@
 ||paddle-africa.sport^
 ||paddle-americas.sport^
 ||paddle-asia.sport^
+||paddle-games.sport^
 ||paddle-oceania.sport^
 ||paddle-worldwide.sport^
 ||paddleafrica.sport^
 ||paddleamericas.sport^
 ||paddleasia.sport^
+||paddlegames.sport^
 ||paddleoceania.sport^
 ||paddleworldwide.sport^
 ||paddleww.sport^
@@ -19,6 +21,7 @@
 ||para-tabletennis.sport^
 ||squash.sport^
 ||trops.sport^
+||worldpaddlegames.sport^
 ||worldtabletennis.sport^
 ||wsfworldteams.sport^
 ||wtt.sport^
