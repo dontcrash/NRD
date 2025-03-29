@@ -12,6 +12,7 @@
 ||aitarot.cards^
 ||amgi.cards^
 ||app-ch.cards^
+||artificial.cards^
 ||authenticity.cards^
 ||autosend.cards^
 ||bards.cards^
@@ -37,6 +38,7 @@
 ||businesshealing.cards^
 ||butt.cards^
 ||butti.cards^
+||bvr.cards^
 ||c54.cards^
 ||cadence.cards^
 ||cancer.cards^
@@ -53,6 +55,7 @@
 ||coinx.cards^
 ||com-replace.cards^
 ||connectic.cards^
+||coopers.cards^
 ||cosiest.cards^
 ||crypostle.cards^
 ||cryptid.cards^
@@ -60,6 +63,7 @@
 ||cube6.cards^
 ||cuevana3.cards^
 ||cvip.cards^
+||d360.cards^
 ||daily.cards^
 ||datascience.cards^
 ||davat.cards^
@@ -71,6 +75,8 @@
 ||dex.cards^
 ||difdef.cards^
 ||digigift.cards^
+||digtal.cards^
+||doncuts.cards^
 ||dxsense.cards^
 ||edggencia.cards^
 ||ee.cards^
@@ -83,6 +89,7 @@
 ||finseta.cards^
 ||fiv.cards^
 ||flimby.cards^
+||flyback.cards^
 ||focus.cards^
 ||fortune.cards^
 ||fortunehealing.cards^
@@ -114,6 +121,7 @@
 ||jacks.cards^
 ||jade.cards^
 ||jebi.cards^
+||justloyal.cards^
 ||kasandra33tarot.cards^
 ||khatrimaza.cards^
 ||kucasino.cards^
@@ -137,6 +145,7 @@
 ||mediation.cards^
 ||metalbusinesscard.cards^
 ||mindfulness.cards^
+||mofo.cards^
 ||msg.cards^
 ||mvipi.cards^
 ||myjcb-ja.cards^
@@ -154,8 +163,6 @@
 ||oakash.cards^
 ||offers.cards^
 ||one-ch.cards^
-||onecommon.cards^
-||opnpay.cards^
 ||oui.cards^
 ||pagan.cards^
 ||pahrump.cards^
@@ -189,6 +196,7 @@
 ||rakuten-jp.cards^
 ||readyourtarot.cards^
 ||reflective.cards^
+||residency.cards^
 ||retro.cards^
 ||revinate.cards^
 ||revive.cards^
@@ -210,6 +218,7 @@
 ||spiritualhealing.cards^
 ||sploot.cards^
 ||stamina.cards^
+||start.cards^
 ||subtle.cards^
 ||subtrack.cards^
 ||superbridge.cards^
@@ -252,3 +261,4 @@
 ||wrm.cards^
 ||ygo.cards^
 ||yummy.cards^
+||zoo.cards^

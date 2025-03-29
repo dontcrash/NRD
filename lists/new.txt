@@ -33,10 +33,12 @@
 ||daily.new^
 ||dataapp.new^
 ||devin.new^
+||dubai.new^
 ||empire.new^
 ||era.new^
 ||evals.new^
 ||fashion.new^
+||feed.new^
 ||fleck.new^
 ||font.new^
 ||furniture.new^
@@ -88,6 +90,7 @@
 ||parse.new^
 ||phones.new^
 ||physics.new^
+||pierre.new^
 ||pilot.new^
 ||pod.new^
 ||poof.new^
@@ -111,6 +114,7 @@
 ||topup.new^
 ||toys.new^
 ||true.new^
+||tutor.new^
 ||typeface.new^
 ||ufabet.new^
 ||uuid.new^

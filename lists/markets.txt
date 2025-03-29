@@ -2,7 +2,6 @@
 ||1.markets^
 ||1000.markets^
 ||4k.markets^
-||734148.markets^
 ||789.markets^
 ||789p.markets^
 ||abc8902.markets^
@@ -10,6 +9,7 @@
 ||afx.markets^
 ||agentfi.markets^
 ||ai-agent.markets^
+||aiagents.markets^
 ||aib.markets^
 ||aicrypto.markets^
 ||allo.markets^
@@ -22,7 +22,7 @@
 ||ashley.markets^
 ||ataconnect.markets^
 ||atoguvau.markets^
-||bank.markets^
+||bayes.markets^
 ||berry.markets^
 ||beyond.markets^
 ||bits.markets^
@@ -40,7 +40,6 @@
 ||clock.markets^
 ||cod.markets^
 ||comert.markets^
-||conquest.markets^
 ||context.markets^
 ||crateandbarrel.markets^
 ||creation.markets^
@@ -104,6 +103,8 @@
 ||myrlad.markets^
 ||nbf.markets^
 ||nbls.markets^
+||netcash.markets^
+||next-door.markets^
 ||nexussmartliving.markets^
 ||nialfuller.markets^
 ||octopus.markets^
@@ -118,8 +119,6 @@
 ||perp.markets^
 ||phoenix.markets^
 ||pickleball.markets^
-||place.markets^
-||places.markets^
 ||playmaxx.markets^
 ||ppc.markets^
 ||ptliga.markets^
@@ -149,13 +148,16 @@
 ||shared.markets^
 ||shift.markets^
 ||shoe.markets^
+||snowball.markets^
 ||ssn.markets^
 ||sto.markets^
 ||stockinsightsai.markets^
 ||sui.markets^
 ||syhatem.markets^
+||tag.markets^
 ||tea.markets^
 ||teambook.markets^
+||tensor.markets^
 ||tlp.markets^
 ||topcut.markets^
 ||trendpulse.markets^
@@ -165,10 +167,8 @@
 ||usdc.markets^
 ||valurian.markets^
 ||vertex.markets^
-||violetcity.markets^
 ||viralgo.markets^
 ||vortexx.markets^
-||vpcapital.markets^
 ||wby.markets^
 ||website.markets^
 ||where.markets^
