@@ -74,7 +74,6 @@
 ||befilabs.claims^
 ||betvisa.claims^
 ||bflfc.claims^
-||bitcoin4u.claims^
 ||bithumb.claims^
 ||cart.claims^
 ||ccl.claims^
@@ -110,6 +109,7 @@
 ||linkmpoatm.claims^
 ||lwnoa.claims^
 ||mb88.claims^
+||medigent.claims^
 ||mentalhealth.claims^
 ||metatigerpay.claims^
 ||mirrors.claims^
@@ -181,6 +181,8 @@
 ||tobacco.claims^
 ||tokens.claims^
 ||tron.claims^
+||tryvoltaire.claims^
+||tryvoltaireai.claims^
 ||uniswap.claims^
 ||unix.claims^
 ||username.claims^
@@ -191,3 +193,4 @@
 ||windsurf.claims^
 ||winvn.claims^
 ||xdzzv.claims^
+||xyzverse.claims^

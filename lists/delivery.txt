@@ -30,7 +30,6 @@
 ||aam.delivery^
 ||acainacional.delivery^
 ||acsinc.delivery^
-||active.delivery^
 ||aib.delivery^
 ||airdrop.delivery^
 ||airdrops.delivery^
@@ -42,12 +41,13 @@
 ||amaz.delivery^
 ||applications.delivery^
 ||argonaut.delivery^
-||astrology.delivery^
 ||autism.delivery^
 ||barbuzz.delivery^
 ||bask.delivery^
+||beef.delivery^
 ||bigdata.delivery^
 ||bit.delivery^
+||biz.delivery^
 ||bossburger.delivery^
 ||bots.delivery^
 ||builders.delivery^
@@ -89,11 +89,13 @@
 ||dwl.delivery^
 ||e7rlr3.delivery^
 ||eauovfmtbiqly.delivery^
+||ecatering.delivery^
 ||elite.delivery^
 ||elm.delivery^
 ||endo.delivery^
 ||express-usps.delivery^
 ||fastlane.delivery^
+||fax.delivery^
 ||fc.delivery^
 ||ff.delivery^
 ||firestation.delivery^
@@ -106,9 +108,10 @@
 ||futurama-planet-express.delivery^
 ||ga6789.delivery^
 ||gamer.delivery^
-||gemma.delivery^
 ||getfair.delivery^
+||gettn.delivery^
 ||gexc.delivery^
+||ggc.delivery^
 ||gofers.delivery^
 ||golocal.delivery^
 ||good.delivery^
@@ -116,7 +119,6 @@
 ||gummy.delivery^
 ||hack.delivery^
 ||healthy.delivery^
-||himbo.delivery^
 ||hour.delivery^
 ||humanoid.delivery^
 ||hungrybox.delivery^
@@ -161,6 +163,7 @@
 ||newyorkpot.delivery^
 ||northwest.delivery^
 ||notzero.delivery^
+||ocean.delivery^
 ||one.delivery^
 ||ontariomarijuana.delivery^
 ||orlandoartificialturf.delivery^
@@ -200,8 +203,8 @@
 ||riversideweed.delivery^
 ||rls3.delivery^
 ||rondonia.delivery^
+||rr88.delivery^
 ||rte.delivery^
-||salaam.delivery^
 ||samelagaude.delivery^
 ||sandimasweed.delivery^
 ||santorini.delivery^
@@ -210,6 +213,7 @@
 ||self.delivery^
 ||sendex.delivery^
 ||set1918.delivery^
+||shared.delivery^
 ||shipper.delivery^
 ||shippingcard.delivery^
 ||shippingpacket.delivery^

@@ -1,5 +1,6 @@
 ||1finch-v2.exchange^
 ||1finch.exchange^
+||1million.exchange^
 ||1proc.exchange^
 ||789.exchange^
 ||8yg.exchange^
@@ -11,7 +12,6 @@
 ||africacarbon.exchange^
 ||agents.exchange^
 ||agrocrypto.exchange^
-||ai3.exchange^
 ||aie.exchange^
 ||aigent.exchange^
 ||aion.exchange^
@@ -37,6 +37,7 @@
 ||ascend.exchange^
 ||ascent.exchange^
 ||aster.exchange^
+||asxtrade.exchange^
 ||atomicwallet.exchange^
 ||augmented.exchange^
 ||austin.exchange^
@@ -50,6 +51,7 @@
 ||awesome.exchange^
 ||axi-group.exchange^
 ||b-ungee.exchange^
+||bajicricket.exchange^
 ||banner.exchange^
 ||bask.exchange^
 ||bearnbull.exchange^
@@ -61,7 +63,6 @@
 ||bilion.exchange^
 ||binance-italia.exchange^
 ||bitbulls.exchange^
-||bitcoinese.exchange^
 ||bitgp.exchange^
 ||bitjimcoin.exchange^
 ||blackhole.exchange^
@@ -108,15 +109,14 @@
 ||coindesk.exchange^
 ||coinmining.exchange^
 ||cointrading.exchange^
-||coinvault.exchange^
 ||collateral.exchange^
 ||coordination.exchange^
 ||corefi.exchange^
 ||cow-swap.exchange^
 ||cowry.exchange^
+||cradle.exchange^
 ||crossroads.exchange^
 ||crowdpower.exchange^
-||cryp2.exchange^
 ||cryptoatm.exchange^
 ||cryptobitapp.exchange^
 ||cryptocurrencies.exchange^
@@ -130,6 +130,7 @@
 ||de-bridge.exchange^
 ||de.exchange^
 ||decibel.exchange^
+||deepresearch.exchange^
 ||depai.exchange^
 ||descai.exchange^
 ||designers.exchange^
@@ -140,15 +141,16 @@
 ||discord.exchange^
 ||dive.exchange^
 ||dohastock.exchange^
+||dojo.exchange^
 ||dollarbuysellbd.exchange^
 ||doro.exchange^
 ||drink.exchange^
 ||driven.exchange^
 ||driving.exchange^
 ||dtao.exchange^
+||dtc.exchange^
 ||dubaistock.exchange^
 ||duffle.exchange^
-||dxb.exchange^
 ||dyawn.exchange^
 ||dydex.exchange^
 ||edex.exchange^
@@ -181,9 +183,11 @@
 ||fii.exchange^
 ||finso.exchange^
 ||fireball.exchange^
+||firmeporpapaymama.exchange^
 ||flipper.exchange^
 ||flurry.exchange^
 ||follow.exchange^
+||forexblockchain.exchange^
 ||fullcrum.exchange^
 ||future7.exchange^
 ||fux.exchange^
@@ -241,7 +245,6 @@
 ||kix.exchange^
 ||km2.exchange^
 ||koinly.exchange^
-||kr2.exchange^
 ||kriptoatm.exchange^
 ||kurta.exchange^
 ||kyberswap.exchange^
@@ -252,18 +255,20 @@
 ||links.exchange^
 ||lootie.exchange^
 ||lowcarbon.exchange^
-||lwex.exchange^
+||lqx.exchange^
 ||mabble.exchange^
 ||machinist.exchange^
 ||mad.exchange^
 ||madeira.exchange^
 ||manus.exchange^
+||margin.exchange^
 ||martabak188.exchange^
 ||maseer.exchange^
 ||mass.exchange^
 ||match.exchange^
 ||mayfair.exchange^
 ||medici.exchange^
+||megax.exchange^
 ||memecoin.exchange^
 ||mems.exchange^
 ||mercadoautox.exchange^
@@ -278,11 +283,13 @@
 ||mohra.exchange^
 ||monda.exchange^
 ||moneycat.exchange^
+||moneyqueen.exchange^
 ||monkeytrade.exchange^
 ||monolith.exchange^
 ||moonswap.exchange^
 ||mor.exchange^
 ||morph.exchange^
+||mwix.exchange^
 ||mynft.exchange^
 ||mystore.exchange^
 ||neocrypto.exchange^
@@ -339,6 +346,7 @@
 ||qatarstock.exchange^
 ||qbig.exchange^
 ||qex.exchange^
+||qualitytalent.exchange^
 ||qumi.exchange^
 ||rang-o.exchange^
 ||rango-bridge.exchange^
@@ -355,6 +363,7 @@
 ||ret.exchange^
 ||retro.exchange^
 ||revinate.exchange^
+||revolut.exchange^
 ||rewards-super.exchange^
 ||rise.exchange^
 ||riseup.exchange^
@@ -395,7 +404,6 @@
 ||smiley.exchange^
 ||smspanelevoi7.exchange^
 ||snipe.exchange^
-||specs.exchange^
 ||specter.exchange^
 ||sponsor.exchange^
 ||spoon.exchange^
@@ -409,10 +417,10 @@
 ||stargatedexs.exchange^
 ||stargater.exchange^
 ||stargates.exchange^
-||statx.exchange^
 ||strata.exchange^
 ||succinct.exchange^
 ||sun88.exchange^
+||superb1d.exchange^
 ||supermotor.exchange^
 ||supper.exchange^
 ||supportbinance.exchange^
@@ -424,7 +432,6 @@
 ||switchgrassdata.exchange^
 ||swyrl.exchange^
 ||tantin.exchange^
-||tantr.exchange^
 ||taproot.exchange^
 ||tashkent.exchange^
 ||tcb.exchange^
@@ -434,6 +441,7 @@
 ||theairsoft.exchange^
 ||themiddleeast.exchange^
 ||thereview.exchange^
+||therichest3.exchange^
 ||theyacht.exchange^
 ||tiktak.exchange^
 ||today.exchange^
@@ -441,7 +449,10 @@
 ||tokenblock.exchange^
 ||tonadocash.exchange^
 ||tradepoint.exchange^
+||transak.exchange^
+||trex.exchange^
 ||tritcoin.exchange^
+||tropicalartfiji.exchange^
 ||trump.exchange^
 ||trumps.exchange^
 ||tubular.exchange^
@@ -463,6 +474,7 @@
 ||vr.exchange^
 ||wao.exchange^
 ||ware.exchange^
+||warehouse.exchange^
 ||warpspeed.exchange^
 ||webswap.exchange^
 ||wellstone.exchange^
@@ -475,6 +487,7 @@
 ||xenon.exchange^
 ||xib.exchange^
 ||xt.exchange^
+||yoc.exchange^
 ||zapp.exchange^
 ||zbit.exchange^
 ||zircuit.exchange^

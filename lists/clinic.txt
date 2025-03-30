@@ -10,13 +10,12 @@
 ||aktau.clinic^
 ||alem.clinic^
 ||alignedchiro.clinic^
-||alphagaltreatment.clinic^
 ||amora.clinic^
 ||amskincare.clinic^
 ||ananeosis.clinic^
 ||angel-acupuncture.clinic^
 ||angelacupuncture.clinic^
-||aoscan.clinic^
+||apathicarry.clinic^
 ||apathicary.clinic^
 ||appleblossom.clinic^
 ||ariel-yokohama.clinic^
@@ -62,7 +61,6 @@
 ||cuevana.clinic^
 ||cuidart.clinic^
 ||curida.clinic^
-||current.clinic^
 ||day.clinic^
 ||defi.clinic^
 ||dentalart.clinic^
@@ -78,7 +76,6 @@
 ||drnet.clinic^
 ||drquantumdental.clinic^
 ||drravi.clinic^
-||drsamad.clinic^
 ||drsidneysymon.clinic^
 ||dubaidental.clinic^
 ||dxb.clinic^
@@ -89,7 +86,6 @@
 ||eeg.clinic^
 ||egle.clinic^
 ||elementary.clinic^
-||emerte.clinic^
 ||ems.clinic^
 ||emw.clinic^
 ||endometriosis.clinic^
@@ -97,13 +93,13 @@
 ||epigenetic.clinic^
 ||eternalmedicine.clinic^
 ||eternia.clinic^
+||ethicare.clinic^
 ||ethics.clinic^
 ||eyerescue.clinic^
 ||facedesigners.clinic^
 ||fengshui.clinic^
 ||findcancergenes.clinic^
 ||fissure.clinic^
-||fizyoterapi.clinic^
 ||freedomwellness.clinic^
 ||fsic-intl.clinic^
 ||full.clinic^
@@ -130,9 +126,11 @@
 ||harucoma.clinic^
 ||hashimoto-naika.clinic^
 ||hattiesburg.clinic^
+||healgastroandliver.clinic^
 ||healthassistant.clinic^
 ||healthforall.clinic^
 ||healthyv.clinic^
+||hecc.clinic^
 ||helvetica.clinic^
 ||hemi.clinic^
 ||hfc.clinic^
@@ -145,7 +143,6 @@
 ||icontravel.clinic^
 ||ilgarsali.clinic^
 ||islandhospital.clinic^
-||jade.clinic^
 ||janechen.clinic^
 ||jessandco.clinic^
 ||kadigai.clinic^
@@ -177,6 +174,7 @@
 ||mediation.clinic^
 ||medical-longevity.clinic^
 ||medicalservice.clinic^
+||medigent.clinic^
 ||medinsider.clinic^
 ||medlife.clinic^
 ||medportal.clinic^
@@ -184,16 +182,16 @@
 ||microbiome.clinic^
 ||migrare.clinic^
 ||mindbody.clinic^
-||minutemed.clinic^
 ||mizumushi.clinic^
+||movewellmst.clinic^
 ||munich-health-center.clinic^
 ||munichhealthcenter.clinic^
 ||my-health.clinic^
 ||mydigitalhealth.clinic^
 ||mymedic.clinic^
-||myrinkishop.clinic^
 ||mysthetics.clinic^
 ||myweightlossdoctor.clinic^
+||narc.clinic^
 ||nature.clinic^
 ||nechai.clinic^
 ||neurohealth.clinic^
@@ -209,7 +207,9 @@
 ||onehealth.clinic^
 ||openmo.clinic^
 ||opnmo.clinic^
+||oreme.clinic^
 ||ours.clinic^
+||oxy-skin.clinic^
 ||oxyskin.clinic^
 ||ozempic.clinic^
 ||pai.clinic^
@@ -228,6 +228,7 @@
 ||preg.clinic^
 ||premiumcare.clinic^
 ||prettylabs.clinic^
+||primehealthinnovations.clinic^
 ||prisma.clinic^
 ||pronutrition.clinic^
 ||prospekt.clinic^
@@ -254,13 +255,10 @@
 ||shulgin.clinic^
 ||simera.clinic^
 ||singletonmedicalspa.clinic^
-||siphox.clinic^
-||siphoxhealth.clinic^
 ||skinaid.clinic^
 ||skinenvy.clinic^
 ||skinnybitches.clinic^
 ||smartr.clinic^
-||socalcosmeticcenter.clinic^
 ||soundstospeech.clinic^
 ||sowmya-beauty.clinic^
 ||starlet.clinic^
@@ -270,9 +268,9 @@
 ||superdent.clinic^
 ||suresculpt.clinic^
 ||tajima-naika.clinic^
-||testsgn.clinic^
 ||thai.clinic^
 ||thecode.clinic^
+||theglow.clinic^
 ||thelist.clinic^
 ||theobesity.clinic^
 ||thepsychedelictherapy.clinic^
@@ -280,7 +278,6 @@
 ||tomoni.clinic^
 ||toothimplant.clinic^
 ||toxbox.clinic^
-||trendy.clinic^
 ||tsumugi.clinic^
 ||tubesafari.clinic^
 ||turkeyteeth.clinic^
@@ -293,6 +290,7 @@
 ||virtualtherapy.clinic^
 ||visconn.clinic^
 ||visionrescue.clinic^
+||vitalessenceapothacary.clinic^
 ||vitalisation.clinic^
 ||vitame.clinic^
 ||vitaskin.clinic^
@@ -306,6 +304,7 @@
 ||wrist.clinic^
 ||yaotome-kokoro.clinic^
 ||yelenso.clinic^
+||yurigaoka-eye.clinic^
 ||zendent.clinic^
 ||zl.clinic^
 ||zoya.clinic^

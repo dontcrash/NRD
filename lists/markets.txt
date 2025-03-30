@@ -1,4 +1,3 @@
-||0xcrypto.markets^
 ||1.markets^
 ||1000.markets^
 ||4k.markets^
@@ -11,7 +10,6 @@
 ||ai-agent.markets^
 ||aiagents.markets^
 ||aib.markets^
-||aicrypto.markets^
 ||allo.markets^
 ||alphaflow.markets^
 ||apogee.markets^
@@ -25,10 +23,12 @@
 ||bayes.markets^
 ||berry.markets^
 ||beyond.markets^
+||biochar.markets^
 ||bits.markets^
 ||blitz.markets^
 ||bridgepointgroup.markets^
 ||brydge.markets^
+||build.markets^
 ||caravelle.markets^
 ||certos.markets^
 ||certoscore.markets^
@@ -44,6 +44,7 @@
 ||crateandbarrel.markets^
 ||creation.markets^
 ||creative.markets^
+||cxt.markets^
 ||davidkinuthia.markets^
 ||defairobo.markets^
 ||dexpool.markets^
@@ -55,6 +56,7 @@
 ||edgewp.markets^
 ||edx.markets^
 ||exbit.markets^
+||exposed.markets^
 ||farmersmarket.markets^
 ||fasqon.markets^
 ||feather.markets^
@@ -74,9 +76,9 @@
 ||highticketaffiliate.markets^
 ||homecare.markets^
 ||homeschool.markets^
-||hostdu.markets^
 ||ibank.markets^
 ||insightfx.markets^
+||jump.markets^
 ||jup.markets^
 ||kairos.markets^
 ||kangaroo.markets^
@@ -85,7 +87,8 @@
 ||latam.markets^
 ||leadkit.markets^
 ||lida.markets^
-||lil.markets^
+||luna.markets^
+||lunar.markets^
 ||lynx.markets^
 ||magnet.markets^
 ||mainstreet.markets^
@@ -129,10 +132,10 @@
 ||qubetics.markets^
 ||quick-money.markets^
 ||rad.markets^
+||radius.markets^
 ||regulation.markets^
 ||riseup.markets^
 ||riskinspires.markets^
-||royal.markets^
 ||rte.markets^
 ||rugless.markets^
 ||rwafi.markets^
@@ -175,4 +178,5 @@
 ||windsurf.markets^
 ||wiz.markets^
 ||woodcarving.markets^
+||xd.markets^
 ||yourwood.markets^
