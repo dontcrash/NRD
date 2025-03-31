@@ -11,6 +11,7 @@
 ||airshed.cards^
 ||aitarot.cards^
 ||amgi.cards^
+||angelwings.cards^
 ||app-ch.cards^
 ||artificial.cards^
 ||authenticity.cards^
@@ -47,8 +48,8 @@
 ||carbone.cards^
 ||cardconnect.cards^
 ||cardjoy.cards^
-||charging.cards^
 ||chill.cards^
+||cityof.cards^
 ||climate.cards^
 ||cnct.cards^
 ||coinx.cards^
@@ -65,7 +66,6 @@
 ||d360.cards^
 ||daily.cards^
 ||datascience.cards^
-||davat.cards^
 ||dddd.cards^
 ||decktionary.cards^
 ||democracy.cards^
@@ -98,6 +98,7 @@
 ||gelo.cards^
 ||gemmintatx.cards^
 ||generateflash.cards^
+||getnexa.cards^
 ||glinda.cards^
 ||golden.cards^
 ||goldpvc.cards^
@@ -115,7 +116,6 @@
 ||inf.cards^
 ||insult.cards^
 ||ivf.cards^
-||j888.cards^
 ||jacks.cards^
 ||jade.cards^
 ||jebi.cards^
@@ -124,7 +124,6 @@
 ||khatrimaza.cards^
 ||kucasino.cards^
 ||lexa.cards^
-||lir.cards^
 ||livro.cards^
 ||lostandfound.cards^
 ||loteria.cards^
@@ -143,6 +142,7 @@
 ||metalbusinesscard.cards^
 ||mindfulness.cards^
 ||mofo.cards^
+||moviespapa.cards^
 ||msg.cards^
 ||mvipi.cards^
 ||myjcb-ja.cards^
@@ -160,19 +160,19 @@
 ||oakash.cards^
 ||offers.cards^
 ||one-ch.cards^
+||orenda.cards^
 ||oui.cards^
 ||pagan.cards^
 ||pahrump.cards^
 ||pancha.cards^
+||payinvoicewithnewcredit.cards^
 ||paypay-co.cards^
 ||paypay-id.cards^
 ||paypay-ja.cards^
 ||paypay-jp.cards^
 ||peg.cards^
-||personlized.cards^
 ||phygitalnft.cards^
 ||platformagi.cards^
-||pleo.cards^
 ||points.cards^
 ||porichoy.cards^
 ||porterpost.cards^
@@ -194,14 +194,13 @@
 ||readyourtarot.cards^
 ||reflective.cards^
 ||residency.cards^
-||revinate.cards^
 ||revive.cards^
 ||rte.cards^
 ||sarrefha.cards^
-||satelit.cards^
 ||savastan0.cards^
 ||savetarot.cards^
 ||scan.cards^
+||seeker.cards^
 ||sendpost.cards^
 ||serious.cards^
 ||shipit.cards^
@@ -232,7 +231,6 @@
 ||trailersalesohio.cards^
 ||tron.cards^
 ||trumped.cards^
-||trumpgold.cards^
 ||trx.cards^
 ||tubesafari.cards^
 ||twelve.cards^
@@ -241,9 +239,7 @@
 ||unify.cards^
 ||unsaid.cards^
 ||usagold.cards^
-||usgold.cards^
 ||valence.cards^
-||vclub.cards^
 ||vice.cards^
 ||viciousemporium.cards^
 ||virtualshift.cards^

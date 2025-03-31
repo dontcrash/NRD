@@ -13,11 +13,12 @@
 ||astute.broker^
 ||authority.broker^
 ||axis.broker^
-||b2b.broker^
 ||beam.broker^
 ||bizon.broker^
 ||bridgepointgroup.broker^
+||bunny.broker^
 ||ccim.broker^
+||cifa.broker^
 ||compared.broker^
 ||condo.broker^
 ||conscious.broker^
@@ -68,8 +69,9 @@
 ||onlineshopping.broker^
 ||ops.broker^
 ||pki.broker^
-||procomlend.broker^
+||prismuniverse.broker^
 ||products.broker^
+||qq88.broker^
 ||sbobet.broker^
 ||seguro.broker^
 ||seller.broker^

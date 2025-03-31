@@ -10,6 +10,7 @@
 ||am.supply^
 ||animal.supply^
 ||aqualuxdetail.supply^
+||artefact.supply^
 ||atoz.supply^
 ||bernieselectric.supply^
 ||bilk.supply^
@@ -22,6 +23,7 @@
 ||canadianbeauty.supply^
 ||cane.supply^
 ||carton.supply^
+||cavin.supply^
 ||cb.supply^
 ||cccc.supply^
 ||coloradosteel.supply^
@@ -40,6 +42,7 @@
 ||elsy.supply^
 ||eudr.supply^
 ||expo.supply^
+||femmetech.supply^
 ||firstindustrial.supply^
 ||forage.supply^
 ||fortifab.supply^
@@ -50,11 +53,8 @@
 ||fresh.supply^
 ||frontline.supply^
 ||gaming.supply^
-||goldenbee.supply^
 ||gordonlab.supply^
 ||gproject.supply^
-||gulfofamerica.supply^
-||halal.supply^
 ||hdhub4u.supply^
 ||hoff.supply^
 ||hoodhippie.supply^
@@ -77,7 +77,6 @@
 ||madebyhumans.supply^
 ||mediterranea.supply^
 ||melchizedeks.supply^
-||merica.supply^
 ||mm.supply^
 ||mobile-257marsbahis.supply^
 ||motion.supply^
@@ -100,7 +99,8 @@
 ||primeintellect.supply^
 ||pulpit.supply^
 ||racing.supply^
-||revinate.supply^
+||reed.supply^
+||rive.supply^
 ||rockyridge.supply^
 ||saturdaycartoon.supply^
 ||sgvelectrical.supply^
