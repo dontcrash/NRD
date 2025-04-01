@@ -48,12 +48,14 @@
 ||carbone.cards^
 ||cardconnect.cards^
 ||cardjoy.cards^
+||cashcredit.cards^
 ||chill.cards^
 ||cityof.cards^
 ||climate.cards^
 ||cnct.cards^
 ||coinx.cards^
 ||com-replace.cards^
+||communityroom.cards^
 ||connectic.cards^
 ||coopers.cards^
 ||cosiest.cards^
@@ -67,6 +69,7 @@
 ||daily.cards^
 ||datascience.cards^
 ||dddd.cards^
+||debitcredit.cards^
 ||decktionary.cards^
 ||democracy.cards^
 ||dex.cards^
@@ -83,6 +86,7 @@
 ||exo.cards^
 ||fbc.cards^
 ||feather.cards^
+||findme.cards^
 ||finseta.cards^
 ||fishman.cards^
 ||fiv.cards^
@@ -98,9 +102,11 @@
 ||gelo.cards^
 ||gemmintatx.cards^
 ||generateflash.cards^
+||getme.cards^
 ||getnexa.cards^
 ||glinda.cards^
 ||golden.cards^
+||goldenchase.cards^
 ||goldpvc.cards^
 ||gotopay.cards^
 ||haav.cards^
@@ -122,6 +128,7 @@
 ||justloyal.cards^
 ||kasandra33tarot.cards^
 ||khatrimaza.cards^
+||ktrx.cards^
 ||kucasino.cards^
 ||lexa.cards^
 ||livro.cards^
@@ -137,11 +144,17 @@
 ||makeflash.cards^
 ||mandatoryfun.cards^
 ||mania.cards^
+||master-co.cards^
+||master-ja.cards^
+||master-jp.cards^
+||master-my.cards^
 ||maygraph.cards^
 ||mediation.cards^
 ||metalbusinesscard.cards^
 ||mindfulness.cards^
 ||mofo.cards^
+||moneycredit.cards^
+||morph.cards^
 ||moviespapa.cards^
 ||msg.cards^
 ||mvipi.cards^
@@ -164,6 +177,7 @@
 ||oui.cards^
 ||pagan.cards^
 ||pahrump.cards^
+||painting.cards^
 ||pancha.cards^
 ||payinvoicewithnewcredit.cards^
 ||paypay-co.cards^
@@ -173,6 +187,7 @@
 ||peg.cards^
 ||phygitalnft.cards^
 ||platformagi.cards^
+||plati.cards^
 ||points.cards^
 ||porichoy.cards^
 ||porterpost.cards^
@@ -183,6 +198,7 @@
 ||pretty.cards^
 ||printz.cards^
 ||prism.cards^
+||privatepay.cards^
 ||prosperityhealing.cards^
 ||protap.cards^
 ||qr-nfc.cards^
@@ -217,11 +233,13 @@
 ||sugar.cards^
 ||superbridge.cards^
 ||superscratch.cards^
+||switch.cards^
 ||sydneyweddingphotographer.cards^
 ||tappd.cards^
 ||teaches.cards^
 ||terra.cards^
 ||thebreakroom.cards^
+||thecraftyloft.cards^
 ||theimmigration.cards^
 ||tiers.cards^
 ||totalcontact.cards^

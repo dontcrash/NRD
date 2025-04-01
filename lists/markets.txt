@@ -10,6 +10,7 @@
 ||ai-agent.markets^
 ||aiagents.markets^
 ||aib.markets^
+||aiweb.markets^
 ||allo.markets^
 ||alphaflow.markets^
 ||apogee.markets^
@@ -47,6 +48,7 @@
 ||creative.markets^
 ||cxt.markets^
 ||defairobo.markets^
+||depin.markets^
 ||dexpool.markets^
 ||dpr.markets^
 ||drupal.markets^
@@ -94,6 +96,7 @@
 ||megalinks2.markets^
 ||memebank.markets^
 ||memyselfandai.markets^
+||mention.markets^
 ||merge.markets^
 ||microsaas.markets^
 ||moneymetals.markets^
@@ -109,7 +112,9 @@
 ||octopus.markets^
 ||ofm.markets^
 ||olbxwin.markets^
+||olivetrade.markets^
 ||olv.markets^
+||opportunity.markets^
 ||optimum.markets^
 ||origami.markets^
 ||oro.markets^
@@ -136,10 +141,12 @@
 ||rugless.markets^
 ||rwafi.markets^
 ||rwas.markets^
+||rwin.markets^
 ||sail.markets^
 ||sat.markets^
 ||saudicobot.markets^
 ||sbot.markets^
+||scale.markets^
 ||scumbag.markets^
 ||sentinel.markets^
 ||seolocal.markets^
@@ -155,6 +162,7 @@
 ||tea.markets^
 ||teambook.markets^
 ||tensor.markets^
+||tippingpoint.markets^
 ||tlp.markets^
 ||topcut.markets^
 ||tvl.markets^
