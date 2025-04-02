@@ -92,7 +92,6 @@
 ||experience.claims^
 ||fairsfair.claims^
 ||fcahelp.claims^
-||fdic.claims^
 ||frame.claims^
 ||fraud.claims^
 ||fraudprevention.claims^
@@ -118,7 +117,6 @@
 ||mb88.claims^
 ||medigent.claims^
 ||mentalhealth.claims^
-||metatigerpay.claims^
 ||mirrors.claims^
 ||mksport.claims^
 ||motorcycle.claims^
@@ -137,8 +135,6 @@
 ||pcpcar.claims^
 ||pcpfinance.claims^
 ||poap.claims^
-||pomac.claims^
-||primestateadjusters.claims^
 ||prize.claims^
 ||proven.claims^
 ||pushd.claims^
@@ -176,13 +172,11 @@
 ||super.claims^
 ||surfacewater.claims^
 ||sweepstakes.claims^
-||sweilnetworks.claims^
 ||ticket.claims^
 ||time-projects.claims^
 ||tinder.claims^
 ||tindersubscription.claims^
 ||tip.claims^
-||tobacco.claims^
 ||tokens.claims^
 ||tron.claims^
 ||tryvoltaire.claims^

@@ -6,7 +6,6 @@
 ||authority.management^
 ||banger.management^
 ||bloom.management^
-||branch.management^
 ||branding.management^
 ||build.management^
 ||caas.management^
@@ -24,15 +23,14 @@
 ||dynamics.management^
 ||ej.management^
 ||entrylevel.management^
+||escorts.management^
 ||etam.management^
 ||everest.management^
-||exception.management^
 ||express.management^
 ||falcon.management^
 ||farming.management^
 ||fast.management^
 ||fight.management^
-||fleur.management^
 ||flex.management^
 ||flip.management^
 ||forge.management^
@@ -41,8 +39,8 @@
 ||grace.management^
 ||greenproject.management^
 ||grok.management^
+||gsx.management^
 ||habit.management^
-||hardcore.management^
 ||heart.management^
 ||homecare.management^
 ||homeheroes.management^
@@ -57,11 +55,13 @@
 ||iris.management^
 ||jenguyen.management^
 ||jung.management^
+||kata.management^
 ||king.management^
 ||labor.management^
 ||lee.management^
 ||mass.management^
 ||mcj.management^
+||meridian.management^
 ||metal.management^
 ||midlevel.management^
 ||moe.management^
@@ -70,6 +70,7 @@
 ||mypropertyhub.management^
 ||neighborhood.management^
 ||nextleveltech.management^
+||nhs.management^
 ||ocean.management^
 ||ocs.management^
 ||orbit.management^
@@ -80,7 +81,6 @@
 ||park.management^
 ||phoenix.management^
 ||pioneer.management^
-||plus2.management^
 ||poker.management^
 ||price.management^
 ||productivity.management^
@@ -92,7 +92,6 @@
 ||river.management^
 ||rocksolid.management^
 ||saldavinci.management^
-||salesperformance.management^
 ||saudi.management^
 ||scurani.management^
 ||sdlpro.management^
@@ -101,15 +100,12 @@
 ||silver.management^
 ||singularity.management^
 ||sleep.management^
-||softskill.management^
-||sora.management^
 ||sp.management^
 ||spark.management^
 ||special.management^
 ||stack.management^
 ||starlight.management^
 ||steel.management^
-||stepin.management^
 ||strategicinsights.management^
 ||subversive.management^
 ||suite.management^
@@ -134,5 +130,6 @@
 ||undiz.management^
 ||ventures.management^
 ||vertical.management^
+||vizia.management^
 ||welcome.management^
 ||wicks.management^
