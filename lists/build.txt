@@ -27,7 +27,6 @@
 ||cescaleup.build^
 ||cfx.build^
 ||chatand.build^
-||clientportal.build^
 ||continuity.build^
 ||croft.build^
 ||cusa.build^
@@ -42,6 +41,7 @@
 ||ejyvp.build^
 ||emmdo.build^
 ||enaoqm.build^
+||endowment.build^
 ||eouoj.build^
 ||femoz.build^
 ||fieldnotes.build^
@@ -49,10 +49,8 @@
 ||forgeworks.build^
 ||foundationone.build^
 ||founderschool.build^
-||geostead.build^
 ||giveaway.build^
 ||gmskb.build^
-||grandamerica.build^
 ||grantconstruct.build^
 ||gtarp.build^
 ||handysolutions.build^
@@ -60,10 +58,10 @@
 ||heimdall.build^
 ||hkqxn.build^
 ||ihb-one.build^
-||instant.build^
 ||integris.build^
 ||jetton.build^
 ||jia.build^
+||joinery.build^
 ||jsilzi.build^
 ||jsopzi.build^
 ||kabjza.build^
@@ -93,13 +91,13 @@
 ||oneground.build^
 ||onli.build^
 ||pandora-app.build^
+||pandora-erc404.build^
 ||paxdor.build^
 ||pcgiveaway.build^
 ||pdx.build^
 ||pgdhi.build^
 ||polymathic.build^
 ||pqpqp.build^
-||preview.build^
 ||protogen.build^
 ||puhlsm.build^
 ||qh88.build^
@@ -108,7 +106,6 @@
 ||rblegacy.build^
 ||rccch.build^
 ||rearchitecture.build^
-||redtail.build^
 ||rr88.build^
 ||safesite.build^
 ||sbk.build^
@@ -116,7 +113,6 @@
 ||slack.build^
 ||slinky.build^
 ||snix.build^
-||sora.build^
 ||sparky.build^
 ||sprout.build^
 ||stai.build^

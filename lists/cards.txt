@@ -8,7 +8,6 @@
 ||agursoft.cards^
 ||aib.cards^
 ||airlode.cards^
-||airshed.cards^
 ||aitarot.cards^
 ||amgi.cards^
 ||angelwings.cards^
@@ -30,7 +29,6 @@
 ||bon.cards^
 ||bonsai.cards^
 ||bountyboosters.cards^
-||bright.cards^
 ||brin.cards^
 ||brings.cards^
 ||bsc.cards^
@@ -55,12 +53,10 @@
 ||coinx.cards^
 ||com-replace.cards^
 ||communityroom.cards^
-||connectic.cards^
 ||coopers.cards^
 ||cosiest.cards^
 ||crypostle.cards^
 ||ctg.cards^
-||cube6.cards^
 ||cuevana3.cards^
 ||cvip.cards^
 ||d360.cards^
@@ -70,8 +66,6 @@
 ||debitcredit.cards^
 ||decktionary.cards^
 ||democracy.cards^
-||dex.cards^
-||difdef.cards^
 ||digigift.cards^
 ||digtal.cards^
 ||doncuts.cards^
@@ -80,6 +74,7 @@
 ||ee.cards^
 ||eharis.cards^
 ||elevatelocal.cards^
+||emporium.cards^
 ||evo.cards^
 ||exo.cards^
 ||fbc.cards^
@@ -94,6 +89,7 @@
 ||fortunehealing.cards^
 ||freeprintable.cards^
 ||freetarot.cards^
+||fresh.cards^
 ||fusebox.cards^
 ||gambit.cards^
 ||gelo.cards^
@@ -102,6 +98,7 @@
 ||getme.cards^
 ||getnexa.cards^
 ||glinda.cards^
+||goated.cards^
 ||goldenchase.cards^
 ||goldpvc.cards^
 ||gotopay.cards^
@@ -127,8 +124,10 @@
 ||khatrimaza.cards^
 ||ktrx.cards^
 ||kucasino.cards^
+||lddb.cards^
 ||lexa.cards^
 ||livro.cards^
+||loosecannon.cards^
 ||lostandfound.cards^
 ||loteria.cards^
 ||loto188.cards^
@@ -152,7 +151,6 @@
 ||moneycredit.cards^
 ||morph.cards^
 ||moviespapa.cards^
-||msg.cards^
 ||mvipi.cards^
 ||myjcb-ja.cards^
 ||mysticboosterco.cards^
@@ -164,7 +162,6 @@
 ||nhs.cards^
 ||nifti.cards^
 ||nimbus.cards^
-||nonstop.cards^
 ||nremt.cards^
 ||oakash.cards^
 ||offers.cards^
@@ -176,6 +173,7 @@
 ||painting.cards^
 ||pancha.cards^
 ||payinvoicewithnewcredit.cards^
+||paylette.cards^
 ||paypay-co.cards^
 ||paypay-id.cards^
 ||paypay-ja.cards^
@@ -190,8 +188,6 @@
 ||power9.cards^
 ||powernine.cards^
 ||prayerhealing.cards^
-||premier.cards^
-||pretty.cards^
 ||printz.cards^
 ||prism.cards^
 ||privatepay.cards^
@@ -216,9 +212,7 @@
 ||seeker.cards^
 ||sendpost.cards^
 ||serious.cards^
-||shipit.cards^
 ||smileyscratchcards.cards^
-||sora.cards^
 ||spacenation.cards^
 ||speak.cards^
 ||spiritualhealing.cards^
@@ -234,7 +228,6 @@
 ||sydneyweddingphotographer.cards^
 ||tappd.cards^
 ||teaches.cards^
-||terra.cards^
 ||thebreakroom.cards^
 ||thecraftyloft.cards^
 ||theimmigration.cards^
@@ -244,17 +237,19 @@
 ||trackmy.cards^
 ||traders.cards^
 ||trailersalesohio.cards^
+||travel.cards^
 ||tron.cards^
 ||trumped.cards^
 ||trx.cards^
 ||tubesafari.cards^
 ||twelve.cards^
 ||ultimate.cards^
-||unify.cards^
 ||unsaid.cards^
 ||valence.cards^
 ||viciousemporium.cards^
 ||virtualshift.cards^
+||visa-jp.cards^
+||what.cards^
 ||wispr.cards^
 ||wondrous.cards^
 ||world.cards^

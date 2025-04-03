@@ -25,6 +25,7 @@
 ||arrive.bot^
 ||askgod.bot^
 ||askjesus.bot^
+||assemble.bot^
 ||assistive.bot^
 ||avesta.bot^
 ||ayjnt.bot^
@@ -35,10 +36,12 @@
 ||boombox.bot^
 ||botcoin.bot^
 ||brendan.bot^
+||captchas.bot^
 ||chatterbox.bot^
 ||cheondo.bot^
 ||chongiao.bot^
 ||ciao.bot^
+||clurk.bot^
 ||contentcrafter.bot^
 ||copytrading.bot^
 ||corporation.bot^
@@ -66,6 +69,7 @@
 ||fale.bot^
 ||fdbhealth.bot^
 ||fedi.bot^
+||frac.bot^
 ||freecert.bot^
 ||freessl.bot^
 ||gamefai.bot^
@@ -88,6 +92,7 @@
 ||hedging.bot^
 ||henlobera.bot^
 ||here.bot^
+||hex.bot^
 ||hippodrome.bot^
 ||hodlclub.bot^
 ||humo.bot^
@@ -102,6 +107,7 @@
 ||kash.bot^
 ||kashi.bot^
 ||kojiki.bot^
+||kolba.bot^
 ||koran.bot^
 ||kuna.bot^
 ||kush.bot^
@@ -123,6 +129,7 @@
 ||mempool.bot^
 ||mercurius.bot^
 ||mevlar.bot^
+||mindset.bot^
 ||mormon.bot^
 ||moxy.bot^
 ||musica.bot^
@@ -130,7 +137,9 @@
 ||myaiagent.bot^
 ||myaibot.bot^
 ||mystory.bot^
+||mythic.bot^
 ||newbiz.bot^
+||nextlevel.bot^
 ||noggy.bot^
 ||obi.bot^
 ||ofudesaki.bot^
@@ -145,6 +154,7 @@
 ||piby.bot^
 ||pillfun.bot^
 ||porno666.bot^
+||postulate.bot^
 ||privy.bot^
 ||raise.bot^
 ||ramayana.bot^
@@ -158,6 +168,7 @@
 ||saibaba.bot^
 ||schematic.bot^
 ||servesmart.bot^
+||service.bot^
 ||sexual.bot^
 ||shanti.bot^
 ||shopit.bot^
@@ -185,6 +196,7 @@
 ||tod.bot^
 ||trademark.bot^
 ||tradestock.bot^
+||trading.bot^
 ||tripitaka.bot^
 ||trumps.bot^
 ||turntable.bot^

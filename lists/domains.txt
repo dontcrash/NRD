@@ -14,7 +14,7 @@
 ||ashley.domains^
 ||auction.domains^
 ||auctions.domains^
-||bae.domains^
+||bad.domains^
 ||baseline.domains^
 ||bignames.domains^
 ||billionaire.domains^
@@ -25,7 +25,6 @@
 ||cerbono.domains^
 ||cetot30.domains^
 ||chatai.domains^
-||chatto.domains^
 ||corens.domains^
 ||corvayn.domains^
 ||cross-tenant-sync.domains^
@@ -33,6 +32,7 @@
 ||darpa.domains^
 ||dead.domains^
 ||deltak.domains^
+||desu.domains^
 ||disco.domains^
 ||disruption.domains^
 ||dogged.domains^
@@ -78,7 +78,6 @@
 ||iru.domains^
 ||janzero.domains^
 ||jetton.domains^
-||kdc.domains^
 ||keepitlocal.domains^
 ||kthosting.domains^
 ||leadkit.domains^
@@ -119,7 +118,6 @@
 ||rad.domains^
 ||radium.domains^
 ||rahma.domains^
-||refolio.domains^
 ||registration.domains^
 ||renewals-ens.domains^
 ||rex.domains^
