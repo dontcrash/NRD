@@ -13,6 +13,7 @@
 ||aiagent.doctor^
 ||aibot.doctor^
 ||airis.doctor^
+||amazingintelligence.doctor^
 ||ambient.doctor^
 ||anav.doctor^
 ||askaiassists.doctor^
@@ -34,7 +35,6 @@
 ||datenschutz.doctor^
 ||defai.doctor^
 ||defi.doctor^
-||dentalquantum.doctor^
 ||dex.doctor^
 ||diesel.doctor^
 ||digitaltwin.doctor^
@@ -46,9 +46,9 @@
 ||ege.doctor^
 ||epic.doctor^
 ||espacesante.doctor^
-||facil.doctor^
 ||fersi.doctor^
 ||findablack.doctor^
+||food.doctor^
 ||foundationmodel.doctor^
 ||frontdesk.doctor^
 ||geo.doctor^
@@ -79,7 +79,6 @@
 ||keywestdermatologist.doctor^
 ||kiev.doctor^
 ||korean.doctor^
-||lazuli.doctor^
 ||legerutengrenser.doctor^
 ||london.doctor^
 ||mcp.doctor^
@@ -87,19 +86,19 @@
 ||medin.doctor^
 ||metadata.doctor^
 ||milf.doctor^
+||mindset.doctor^
 ||mmjhealthky.doctor^
 ||mohammed.doctor^
 ||mom.doctor^
+||moon.doctor^
 ||muslim.doctor^
 ||myaidoc.doctor^
-||mylaw.doctor^
 ||neuroscience.doctor^
 ||nodvi.doctor^
 ||oberg.doctor^
 ||omg.doctor^
 ||pacs.doctor^
 ||pad.doctor^
-||petfolk.doctor^
 ||pranik.doctor^
 ||rails.doctor^
 ||reach.doctor^
@@ -124,9 +123,7 @@
 ||text.doctor^
 ||thebusiness.doctor^
 ||thediamond.doctor^
-||thehit.doctor^
 ||themarketing.doctor^
-||theresident.doctor^
 ||thesales.doctor^
 ||thesound.doctor^
 ||theticket.doctor^

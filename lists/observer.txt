@@ -7,7 +7,6 @@
 ||caves.observer^
 ||changes.observer^
 ||data-trends.observer^
-||defai.observer^
 ||devices.observer^
 ||farewhether.observer^
 ||hyperspace.observer^
@@ -21,6 +20,5 @@
 ||retard.observer^
 ||rte.observer^
 ||structures.observer^
-||subconscious.observer^
 ||ttl.observer^
 ||tubesafari.observer^
