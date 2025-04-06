@@ -11,7 +11,6 @@
 ||agro.doctor^
 ||aiagent.doctor^
 ||aibot.doctor^
-||airis.doctor^
 ||amazingintelligence.doctor^
 ||ambient.doctor^
 ||anav.doctor^
@@ -35,6 +34,8 @@
 ||dex.doctor^
 ||diesel.doctor^
 ||digitaltwin.doctor^
+||digitalworker.doctor^
+||digitalworkforce.doctor^
 ||drcody.doctor^
 ||drjoywellness.doctor^
 ||ea101.doctor^
@@ -57,7 +58,6 @@
 ||hi.doctor^
 ||holahealth.doctor^
 ||homecare.doctor^
-||iipedema.doctor^
 ||immigration.doctor^
 ||impath.doctor^
 ||inspire.doctor^
@@ -77,6 +77,7 @@
 ||london.doctor^
 ||mcp.doctor^
 ||mdconcierge.doctor^
+||medicly.doctor^
 ||medin.doctor^
 ||metadata.doctor^
 ||milf.doctor^
@@ -89,21 +90,19 @@
 ||myaidoc.doctor^
 ||mycannabis.doctor^
 ||neuroscience.doctor^
-||nodvi.doctor^
 ||oberg.doctor^
 ||omg.doctor^
 ||pacs.doctor^
-||pad.doctor^
 ||pranik.doctor^
 ||rails.doctor^
 ||reach.doctor^
+||reschke.doctor^
 ||robots.doctor^
 ||rubyonrails.doctor^
 ||rugpull.doctor^
 ||second.doctor^
 ||seouleye.doctor^
 ||shared.doctor^
-||sms.doctor^
 ||soko.doctor^
 ||sql.doctor^
 ||sukha.doctor^
@@ -112,10 +111,6 @@
 ||tender.doctor^
 ||terra.doctor^
 ||terracaudill.doctor^
-||text.doctor^
-||thebusiness.doctor^
-||themarketing.doctor^
-||thesales.doctor^
 ||thesound.doctor^
 ||theticket.doctor^
 ||theycallmekillbillpandey.doctor^

@@ -9,7 +9,6 @@
 ||aib.cards^
 ||airlode.cards^
 ||aitarot.cards^
-||amgi.cards^
 ||angelwings.cards^
 ||app-ch.cards^
 ||artificial.cards^
@@ -37,7 +36,6 @@
 ||cadence.cards^
 ||cancer.cards^
 ||cara.cards^
-||carbone.cards^
 ||cardconnect.cards^
 ||cashcredit.cards^
 ||certified.cards^
@@ -49,8 +47,8 @@
 ||com-replace.cards^
 ||communityroom.cards^
 ||coopers.cards^
+||cozy.cards^
 ||crypostle.cards^
-||ctg.cards^
 ||cuevana3.cards^
 ||curated.cards^
 ||cvip.cards^
@@ -59,7 +57,6 @@
 ||datascience.cards^
 ||dddd.cards^
 ||debitcredit.cards^
-||decktionary.cards^
 ||democracy.cards^
 ||digigift.cards^
 ||digtal.cards^
@@ -74,9 +71,13 @@
 ||exo.cards^
 ||fbc.cards^
 ||feather.cards^
+||fenibe.cards^
+||ferti.cards^
+||fertility.cards^
 ||findme.cards^
 ||fishman.cards^
 ||flimby.cards^
+||flipping.cards^
 ||flyback.cards^
 ||focus.cards^
 ||fortune.cards^
@@ -101,7 +102,6 @@
 ||heartofthe.cards^
 ||helxpay.cards^
 ||honestgreeting.cards^
-||hubet.cards^
 ||ilocal.cards^
 ||imd.cards^
 ||insult.cards^
@@ -113,7 +113,6 @@
 ||kast.cards^
 ||khatrimaza.cards^
 ||ktrx.cards^
-||kucasino.cards^
 ||lddb.cards^
 ||lexa.cards^
 ||livro.cards^
@@ -129,6 +128,7 @@
 ||macbay.cards^
 ||mandatoryfun.cards^
 ||mania.cards^
+||markstutzman.cards^
 ||master-co.cards^
 ||master-ja.cards^
 ||master-jp.cards^
@@ -143,6 +143,7 @@
 ||moviespapa.cards^
 ||mvipi.cards^
 ||myjcb-ja.cards^
+||mypoint.cards^
 ||mysticboosterco.cards^
 ||n88.cards^
 ||named.cards^
@@ -154,6 +155,7 @@
 ||nimbus.cards^
 ||nremt.cards^
 ||oakash.cards^
+||odonto.cards^
 ||offers.cards^
 ||one-ch.cards^
 ||orenda.cards^
@@ -180,7 +182,6 @@
 ||prism.cards^
 ||privatepay.cards^
 ||protap.cards^
-||qr-nfc.cards^
 ||rahmilanadi.cards^
 ||rainshadow.cards^
 ||rakuten-co.cards^
@@ -191,7 +192,6 @@
 ||readyourtarot.cards^
 ||reflective.cards^
 ||residency.cards^
-||revive.cards^
 ||rte.cards^
 ||sarrefha.cards^
 ||savetarot.cards^
@@ -215,7 +215,6 @@
 ||techflash.cards^
 ||thebreakroom.cards^
 ||thecraftyloft.cards^
-||theimmigration.cards^
 ||tiers.cards^
 ||todavia.cards^
 ||totalcontact.cards^
@@ -224,13 +223,11 @@
 ||trailersalesohio.cards^
 ||travel.cards^
 ||tron.cards^
-||trumped.cards^
 ||trx.cards^
 ||tubesafari.cards^
 ||twelve.cards^
 ||ultimate.cards^
 ||unsaid.cards^
-||valence.cards^
 ||viciousemporium.cards^
 ||visa-jp.cards^
 ||what.cards^
@@ -240,5 +237,4 @@
 ||worldof.cards^
 ||wrm.cards^
 ||ygo.cards^
-||yummy.cards^
 ||zoo.cards^

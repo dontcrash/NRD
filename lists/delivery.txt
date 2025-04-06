@@ -9,9 +9,9 @@
 ||256.delivery^
 ||303.delivery^
 ||305.delivery^
+||30mins.delivery^
 ||310.delivery^
 ||321.delivery^
-||420usa.delivery^
 ||479.delivery^
 ||505.delivery^
 ||509.delivery^
@@ -61,7 +61,8 @@
 ||blueskyexpress.delivery^
 ||bokepinfo.delivery^
 ||bossburger.delivery^
-||builders.delivery^
+||brt.delivery^
+||burguermania.delivery^
 ||caesarean.delivery^
 ||cakes.delivery^
 ||cali.delivery^
@@ -80,8 +81,10 @@
 ||colibri.delivery^
 ||commercial.delivery^
 ||confidential.delivery^
+||coolcoffee.delivery^
 ||corgicouriers.delivery^
 ||courierguy.delivery^
+||courierservice.delivery^
 ||creative.delivery^
 ||d2c.delivery^
 ||decent.delivery^
@@ -101,7 +104,10 @@
 ||eauovfmtbiqly.delivery^
 ||ebikes.delivery^
 ||ecatering.delivery^
+||ece.delivery^
+||ecx.delivery^
 ||elm.delivery^
+||emiratescx.delivery^
 ||faraday.delivery^
 ||fastlane.delivery^
 ||fax.delivery^
@@ -156,7 +162,6 @@
 ||manna.delivery^
 ||map.delivery^
 ||mcp.delivery^
-||meatmarket.delivery^
 ||mercadoregional.delivery^
 ||milf.delivery^
 ||mindyour.delivery^
@@ -165,6 +170,7 @@
 ||montrealflowers.delivery^
 ||morganhill.delivery^
 ||mountainhigh.delivery^
+||mre.delivery^
 ||munch.delivery^
 ||neuro.delivery^
 ||newyorkpot.delivery^
@@ -176,8 +182,6 @@
 ||orlandoartificialturf.delivery^
 ||outerbanks.delivery^
 ||ovf.delivery^
-||pakuba.delivery^
-||passgates.delivery^
 ||pasta.delivery^
 ||penguin.delivery^
 ||pickpack.delivery^
@@ -187,7 +191,6 @@
 ||postgresai.delivery^
 ||postoffice.delivery^
 ||primeship.delivery^
-||priority-express.delivery^
 ||prontto.delivery^
 ||q7zcq.delivery^
 ||quantum.delivery^
@@ -198,6 +201,7 @@
 ||real.delivery^
 ||recycledshelves.delivery^
 ||reefer-logistics.delivery^
+||reidoacai.delivery^
 ||return.delivery^
 ||rls3.delivery^
 ||robinhoodexpress.delivery^
@@ -208,6 +212,8 @@
 ||sandimasweed.delivery^
 ||santorini.delivery^
 ||sber.delivery^
+||sbs-banking.delivery^
+||sbs-financing.delivery^
 ||sceya.delivery^
 ||seen.delivery^
 ||sendex.delivery^
@@ -223,14 +229,15 @@
 ||souvlaki7.delivery^
 ||speedtest.delivery^
 ||speezy.delivery^
+||stonefire.delivery^
 ||streamer.delivery^
 ||subyx.delivery^
 ||sv66.delivery^
 ||swap.delivery^
 ||swiftcargo.delivery^
 ||swiftlionexpress.delivery^
+||taba.delivery^
 ||tanger.delivery^
-||tca.delivery^
 ||tdqpx.delivery^
 ||teambook.delivery^
 ||tex.delivery^
@@ -238,6 +245,7 @@
 ||tntlog.delivery^
 ||trackingdeliveryd.delivery^
 ||trackpack.delivery^
+||translate.delivery^
 ||turtl.delivery^
 ||uplandmarijuana.delivery^
 ||uplandweed.delivery^
@@ -247,12 +255,12 @@
 ||vin777.delivery^
 ||virus.delivery^
 ||visual.delivery^
+||vn88.delivery^
 ||vodusejfaxpqg.delivery^
 ||void.delivery^
 ||vscoapk.delivery^
 ||wonder.delivery^
 ||working.delivery^
-||works.delivery^
 ||xoomfoods.delivery^
 ||xxxx.delivery^
 ||yorkville.delivery^
