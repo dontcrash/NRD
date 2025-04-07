@@ -7,7 +7,6 @@
 ||adamant.markets^
 ||afx.markets^
 ||agentfi.markets^
-||ai-agent.markets^
 ||aiagents.markets^
 ||aib.markets^
 ||aiweb.markets^
@@ -22,6 +21,7 @@
 ||ashley.markets^
 ||bayes.markets^
 ||berry.markets^
+||bettingtoken.markets^
 ||beyond.markets^
 ||biochar.markets^
 ||bits.markets^
@@ -52,7 +52,6 @@
 ||dom.markets^
 ||dpr.markets^
 ||dps.markets^
-||drupal.markets^
 ||dryayoi.markets^
 ||economico.markets^
 ||edgewp.markets^
@@ -76,6 +75,7 @@
 ||growth-marketing.markets^
 ||gwas.markets^
 ||halo.markets^
+||hardware.markets^
 ||hi88ht.markets^
 ||highticketaffiliate.markets^
 ||homecare.markets^
@@ -92,8 +92,8 @@
 ||luna.markets^
 ||lunar.markets^
 ||lynx.markets^
+||mainst.markets^
 ||mainstreet.markets^
-||mcp.markets^
 ||mcw77.markets^
 ||megalinks2.markets^
 ||memebank.markets^
@@ -156,12 +156,12 @@
 ||signup.markets^
 ||snowball.markets^
 ||sport.markets^
-||ssn.markets^
 ||sto.markets^
 ||stockinsightsai.markets^
 ||sui.markets^
 ||tag.markets^
 ||teambook.markets^
+||tele.markets^
 ||tensor.markets^
 ||tippingpoint.markets^
 ||tlp.markets^
@@ -178,3 +178,4 @@
 ||woodworker.markets^
 ||xcg.markets^
 ||xd.markets^
+||yes.markets^

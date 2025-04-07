@@ -24,8 +24,8 @@
 ||agrovanam.farm^
 ||agroworks.farm^
 ||agsnap.farm^
+||agstory.farm^
 ||agtechcropcare.farm^
-||agtechsource.farm^
 ||ailive.farm^
 ||albaqarah.farm^
 ||alfalfa.farm^
@@ -33,6 +33,7 @@
 ||amazinglivestocks.farm^
 ||ani.farm^
 ||annandale.farm^
+||app-visio.farm^
 ||aquarium.farm^
 ||arugula.farm^
 ||ashe.farm^
@@ -51,6 +52,7 @@
 ||bigblue.farm^
 ||biocento.farm^
 ||biomass.farm^
+||birdsandbees.farm^
 ||blueberry-hill.farm^
 ||bluheron.farm^
 ||bobbys.farm^
@@ -68,9 +70,7 @@
 ||bumblinghomesteader.farm^
 ||buyfresh.farm^
 ||buzz.farm^
-||bybit.farm^
 ||bzybee.farm^
-||caffeine.farm^
 ||card.farm^
 ||catbranchcreek.farm^
 ||cbg.farm^
@@ -79,6 +79,7 @@
 ||centre.farm^
 ||cerbono.farm^
 ||charge.farm^
+||charlottesfarm.farm^
 ||chickenlounge.farm^
 ||chino.farm^
 ||clearvision.farm^
@@ -91,6 +92,7 @@
 ||coreyjones.farm^
 ||corncobs.farm^
 ||cosmicjellyfish.farm^
+||creasy.farm^
 ||create.farm^
 ||cred.farm^
 ||cryptofarm.farm^
@@ -102,6 +104,7 @@
 ||deepcreekplantation.farm^
 ||delia.farm^
 ||depai.farm^
+||designer.farm^
 ||diddlysquat.farm^
 ||digdug.farm^
 ||doll.farm^
@@ -111,12 +114,11 @@
 ||dryland.farm^
 ||ea101.farm^
 ||early.farm^
-||easttexas.farm^
+||eb101.farm^
 ||ecological.farm^
 ||edgefield.farm^
 ||ekylibre-dev.farm^
 ||electricsheep.farm^
-||elma.farm^
 ||emit.farm^
 ||emoqia.farm^
 ||ento.farm^
@@ -152,6 +154,7 @@
 ||flitterbug.farm^
 ||fluffybuttchickenranch.farm^
 ||foodunravelled.farm^
+||franklin.farm^
 ||frithholdings.farm^
 ||fromseedtoyou.farm^
 ||fruits.farm^
@@ -166,7 +169,6 @@
 ||glenrose.farm^
 ||gng.farm^
 ||gnh.farm^
-||gobob.farm^
 ||goldcoins.farm^
 ||goodhopefarm.farm^
 ||graphics.farm^
@@ -176,7 +178,6 @@
 ||greentrove.farm^
 ||greenyield.farm^
 ||greyseed.farm^
-||growup.farm^
 ||gruv.farm^
 ||guid.farm^
 ||haa.farm^
@@ -186,11 +187,11 @@
 ||harvestdays.farm^
 ||hattahoney.farm^
 ||hawkhollow.farm^
+||headley.farm^
 ||heartlandranch.farm^
 ||hedera.farm^
 ||helium.farm^
 ||hemplabs.farm^
-||herbalrichfarm.farm^
 ||hillbillyhideaway.farm^
 ||hiveandhoney.farm^
 ||homesteadlab.farm^
@@ -204,6 +205,7 @@
 ||infographic.farm^
 ||infographics.farm^
 ||insektuhblum.farm^
+||ip.farm^
 ||irn.farm^
 ||izzy.farm^
 ||jaoud.farm^
@@ -219,8 +221,8 @@
 ||kapati.farm^
 ||kellers.farm^
 ||keys.farm^
+||khamar.farm^
 ||kiwi.farm^
-||konnecto.farm^
 ||kuku.farm^
 ||kurundhu.farm^
 ||kurundu.farm^
@@ -231,7 +233,6 @@
 ||leenaorganics.farm^
 ||legend-dairy.farm^
 ||license.farm^
-||lilpweezy.farm^
 ||lionfire.farm^
 ||littlegranch.farm^
 ||littletractors.farm^
@@ -247,7 +248,6 @@
 ||mantle.farm^
 ||maplegrovehomestead.farm^
 ||maxwell.farm^
-||mayberry.farm^
 ||mayclub.farm^
 ||mcknight.farm^
 ||mcp.farm^
@@ -256,11 +256,14 @@
 ||mego.farm^
 ||meltz.farm^
 ||mendle-family.farm^
+||metaswap.farm^
 ||metin2.farm^
 ||mibet.farm^
 ||microsaas.farm^
 ||mighty.farm^
 ||mindset.farm^
+||mon-espace-agri.farm^
+||monespaceagri.farm^
 ||moonrisekingdom.farm^
 ||mooregardens.farm^
 ||moreganic.farm^
@@ -269,7 +272,6 @@
 ||mother-rock.farm^
 ||motherearth.farm^
 ||motherrock.farm^
-||mpc.farm^
 ||mraf.farm^
 ||mrcoconut.farm^
 ||muddyacres.farm^
@@ -359,8 +361,8 @@
 ||rosinante.farm^
 ||rowe.farm^
 ||rustanranch.farm^
-||sabbatical-fallowing.farm^
 ||sabor.farm^
+||saegerfarmandranch.farm^
 ||sakyu.farm^
 ||sandboxcomm.farm^
 ||saudade.farm^
@@ -369,7 +371,6 @@
 ||scroutly.farm^
 ||search.farm^
 ||seedsbeeautralia.farm^
-||sem.farm^
 ||sfgoods.farm^
 ||shadowcreekpumpkins.farm^
 ||shadowcreekspumpkin.farm^
@@ -384,6 +385,7 @@
 ||sliceofparadise.farm^
 ||slots.farm^
 ||smokingpanda.farm^
+||snapag.farm^
 ||soal.farm^
 ||socials.farm^
 ||solis.farm^
@@ -419,7 +421,6 @@
 ||theherrerahomestead.farm^
 ||thehoofhearted.farm^
 ||thehorsebarn1964-2004fordmustangs.farm^
-||thelittleriver.farm^
 ||theprintbarn.farm^
 ||therivendell.farm^
 ||therose.farm^
@@ -451,24 +452,22 @@
 ||vegamovies.farm^
 ||vegitable.farm^
 ||venomtail.farm^
-||vermilion.farm^
 ||vibecode.farm^
 ||vinwin.farm^
-||vita-copia.farm^
-||vitacopia.farm^
+||walnutcreek.farm^
 ||weavers.farm^
 ||webdesign.farm^
 ||webhook.farm^
 ||weirdag.farm^
 ||westlyon.farm^
-||westmoreland.farm^
 ||whited.farm^
+||whitehorse.farm^
+||wholehearted.farm^
 ||wildcat.farm^
 ||wildhill.farm^
 ||wildhollow.farm^
 ||willowtreealpacas.farm^
 ||win.farm^
-||windylane.farm^
 ||windyrocks.farm^
 ||winsley.farm^
 ||xdd.farm^
