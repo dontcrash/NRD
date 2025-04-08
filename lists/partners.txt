@@ -68,6 +68,7 @@
 ||digitalworker.partners^
 ||disorder.partners^
 ||dreamplay.partners^
+||dyadic.partners^
 ||ea101.partners^
 ||earthwise.partners^
 ||edh.partners^
@@ -86,7 +87,6 @@
 ||exergy.partners^
 ||faa.partners^
 ||fabiani.partners^
-||farmskins.partners^
 ||feasibility.partners^
 ||feedforward.partners^
 ||fenicecavernago.partners^
@@ -136,6 +136,7 @@
 ||ikn.partners^
 ||ingenious.partners^
 ||invariant.partners^
+||iroise.partners^
 ||jackpotter.partners^
 ||jacob.partners^
 ||jakota.partners^
@@ -146,6 +147,8 @@
 ||k.partners^
 ||kaif.partners^
 ||kbm.partners^
+||kmm.partners^
+||laurion.partners^
 ||lawfirm.partners^
 ||lea.partners^
 ||legacyequity.partners^
@@ -190,10 +193,8 @@
 ||oncology.partners^
 ||onli.partners^
 ||onside.partners^
-||optimiser.partners^
 ||ordo.partners^
 ||orefin.partners^
-||otgi.partners^
 ||outliers.partners^
 ||paddington.partners^
 ||pageone.partners^
@@ -219,6 +220,7 @@
 ||powerwash.partners^
 ||predic.partners^
 ||privy.partners^
+||prophet.partners^
 ||prosperityhighwayglobal.partners^
 ||pure.partners^
 ||pureinsight.partners^
@@ -226,6 +228,7 @@
 ||razed.partners^
 ||realassets.partners^
 ||recreation.partners^
+||redwoodcapital.partners^
 ||revop.partners^
 ||richmondgroup.partners^
 ||riserevolution.partners^
@@ -233,10 +236,13 @@
 ||rockland.partners^
 ||roma777.partners^
 ||royalty.partners^
+||rw.partners^
+||rwcapital.partners^
 ||sam.partners^
 ||sara.partners^
 ||scenario.partners^
 ||scenariorisk.partners^
+||scenariorm.partners^
 ||secondnature.partners^
 ||seedling.partners^
 ||sent-us.partners^
@@ -249,6 +255,7 @@
 ||sonarsource.partners^
 ||sparky.partners^
 ||spinit.partners^
+||srm.partners^
 ||staff.partners^
 ||starpath.partners^
 ||super.partners^
@@ -267,6 +274,7 @@
 ||toma.partners^
 ||trackline.partners^
 ||trade.partners^
+||trades.partners^
 ||tradetitan.partners^
 ||treehouse.partners^
 ||trisec.partners^
@@ -277,6 +285,7 @@
 ||unruly.partners^
 ||uplift.partners^
 ||urbani.partners^
+||utp.partners^
 ||uvc.partners^
 ||vanguardhealth.partners^
 ||velvet.partners^
@@ -305,6 +314,7 @@
 ||wt.partners^
 ||xrp.partners^
 ||xti.partners^
+||yorktech.partners^
 ||yourcare.partners^
 ||yourmarketing.partners^
 ||zegelrecht.partners^

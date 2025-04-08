@@ -7,11 +7,13 @@
 ||checkout.new^
 ||clone.new^
 ||collab.new^
+||com.new^
 ||comet.new^
 ||config.new^
 ||connectors.new^
 ||coop.new^
 ||cosmic.new^
+||dagster.new^
 ||daily.new^
 ||dataapp.new^
 ||dates.new^
@@ -44,6 +46,7 @@
 ||microdemo.new^
 ||mocha.new^
 ||mock.new^
+||nordcraft.new^
 ||now.new^
 ||order.new^
 ||pierre.new^

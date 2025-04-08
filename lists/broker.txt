@@ -7,7 +7,6 @@
 ||a2008ios.broker^
 ||admiral.broker^
 ||advertise.broker^
-||airline.broker^
 ||almansoor.broker^
 ||amara.broker^
 ||amaramortgage.broker^
@@ -24,7 +23,6 @@
 ||conscious.broker^
 ||context.broker^
 ||createmeet.broker^
-||cryptic.broker^
 ||cryptowalletbitcoin.broker^
 ||dao.broker^
 ||digitalworker.broker^
@@ -34,6 +32,7 @@
 ||eu9.broker^
 ||everything.broker^
 ||farmersmarket.broker^
+||fastfunding.broker^
 ||fc88.broker^
 ||free.broker^
 ||freetoken.broker^
@@ -49,10 +48,12 @@
 ||image.broker^
 ||investing.broker^
 ||invoice.broker^
+||iself.broker^
 ||jamesharbour.broker^
 ||k8bet.broker^
 ||k8cc.broker^
 ||kap.broker^
+||kingdomoil.broker^
 ||leadz.broker^
 ||lpg.broker^
 ||mb66.broker^
@@ -68,11 +69,11 @@
 ||mywood.broker^
 ||nexus.broker^
 ||nnn.broker^
+||obsession.broker^
 ||offplan.broker^
 ||onion.broker^
 ||onkevideoproductions.broker^
 ||onlineshopping.broker^
-||ops.broker^
 ||pki.broker^
 ||prismuniverse.broker^
 ||products.broker^
@@ -85,6 +86,7 @@
 ||sbobet.broker^
 ||seguro.broker^
 ||seller.broker^
+||shop.broker^
 ||signin.broker^
 ||simplefin.broker^
 ||siu88.broker^
