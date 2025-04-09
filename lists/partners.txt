@@ -15,6 +15,8 @@
 ||aion.partners^
 ||aladdinslot.partners^
 ||algo.partners^
+||alkenholdings.partners^
+||amlbot.partners^
 ||ams.partners^
 ||arab.partners^
 ||arkhouse.partners^
@@ -66,7 +68,6 @@
 ||digitalai.partners^
 ||digitaltwin.partners^
 ||digitalworker.partners^
-||disorder.partners^
 ||dreamplay.partners^
 ||dyadic.partners^
 ||ea101.partners^
@@ -82,7 +83,6 @@
 ||epsilon.partners^
 ||escape.partners^
 ||ewc.partners^
-||exabeam.partners^
 ||exact.partners^
 ||exergy.partners^
 ||faa.partners^
@@ -128,7 +128,6 @@
 ||horizonlegacy.partners^
 ||hospivision.partners^
 ||hoster.partners^
-||hsfk.partners^
 ||hybrid.partners^
 ||hygge.partners^
 ||hypeak.partners^
@@ -195,7 +194,9 @@
 ||onside.partners^
 ||ordo.partners^
 ||orefin.partners^
+||oria.partners^
 ||outliers.partners^
+||overland.partners^
 ||paddington.partners^
 ||pageone.partners^
 ||palette.partners^
@@ -209,6 +210,7 @@
 ||pigment.partners^
 ||pillaralliance.partners^
 ||pinnaclehome.partners^
+||pipeflow.partners^
 ||pivotalgrowth.partners^
 ||player.partners^
 ||playfashiontv.partners^
@@ -291,7 +293,6 @@
 ||velvet.partners^
 ||veriflow.partners^
 ||veterinary.partners^
-||virena.partners^
 ||viridian.partners^
 ||vit.partners^
 ||vitrini.partners^
@@ -306,7 +307,6 @@
 ||what3words.partners^
 ||widelens.partners^
 ||windsurf.partners^
-||winnyou.partners^
 ||woman.partners^
 ||woodworker.partners^
 ||woodycreek.partners^

@@ -22,6 +22,7 @@
 ||alive.exchange^
 ||allbidge.exchange^
 ||allbridge.exchange^
+||allstock.exchange^
 ||alltrustme.exchange^
 ||alphabit.exchange^
 ||alpinegold.exchange^
@@ -68,6 +69,7 @@
 ||binance-italia.exchange^
 ||bitbond.exchange^
 ||bitbulls.exchange^
+||bitcoindefi.exchange^
 ||bitex.exchange^
 ||bitjimcoin.exchange^
 ||biturai.exchange^
@@ -100,7 +102,6 @@
 ||celebrities.exchange^
 ||chainswap.exchange^
 ||chatgpto3mini.exchange^
-||chickeneggs.exchange^
 ||chill.exchange^
 ||cincin.exchange^
 ||citation.exchange^
@@ -171,12 +172,12 @@
 ||eblomin.exchange^
 ||eblsm.exchange^
 ||ebusiness.exchange^
-||edex.exchange^
 ||eiqt.exchange^
 ||electric.exchange^
 ||elfa.exchange^
 ||ella.exchange^
 ||energycoin.exchange^
+||enlmn.exchange^
 ||entry.exchange^
 ||estatex.exchange^
 ||etna.exchange^
@@ -264,6 +265,7 @@
 ||julie.exchange^
 ||jup.exchange^
 ||jupiter-swap.exchange^
+||jxoes.exchange^
 ||katana.exchange^
 ||kernel.exchange^
 ||kink.exchange^
@@ -272,11 +274,13 @@
 ||kix.exchange^
 ||kriptoatm.exchange^
 ||l7.exchange^
+||lambda.exchange^
 ||launchpad-hercules.exchange^
 ||lawyer.exchange^
 ||layer2.exchange^
 ||lcuk.exchange^
 ||ldo.exchange^
+||lightspeed.exchange^
 ||links.exchange^
 ||litesafe.exchange^
 ||lock.exchange^
@@ -285,7 +289,6 @@
 ||mabble.exchange^
 ||machinist.exchange^
 ||mad.exchange^
-||manus.exchange^
 ||margin.exchange^
 ||martabak188.exchange^
 ||maseer.exchange^
@@ -303,7 +306,7 @@
 ||minepi.exchange^
 ||miti.exchange^
 ||mohra.exchange^
-||moneycat.exchange^
+||molecular.exchange^
 ||moneyqueen.exchange^
 ||monkeytrade.exchange^
 ||monolith.exchange^
@@ -339,6 +342,7 @@
 ||operatorland.exchange^
 ||opl.exchange^
 ||orbimart.exchange^
+||osama.exchange^
 ||overledger.exchange^
 ||packaging.exchange^
 ||par.exchange^
@@ -423,7 +427,6 @@
 ||spoon.exchange^
 ||squid-router.exchange^
 ||squid-routers.exchange^
-||ssk.exchange^
 ||standardbullion.exchange^
 ||standardcrypto.exchange^
 ||stargaite.exchange^
@@ -439,6 +442,9 @@
 ||supper.exchange^
 ||sutra.exchange^
 ||swapexchange.exchange^
+||swapnetix.exchange^
+||swappen.exchange^
+||swaprus.exchange^
 ||sweetoptions.exchange^
 ||swellnetwork.exchange^
 ||switchgrass.exchange^
@@ -447,7 +453,6 @@
 ||sync-swapxyz.exchange^
 ||talently.exchange^
 ||talentoasis.exchange^
-||tantin.exchange^
 ||taproot.exchange^
 ||tashkent.exchange^
 ||tcb.exchange^
@@ -463,6 +468,7 @@
 ||today.exchange^
 ||tokeid.exchange^
 ||tokenblock.exchange^
+||tokenx.exchange^
 ||tonadocash.exchange^
 ||topaz.exchange^
 ||transak.exchange^
