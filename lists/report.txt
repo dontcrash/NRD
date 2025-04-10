@@ -7,6 +7,7 @@
 ||aliopk.report^
 ||artixen.report^
 ||auto-accident.report^
+||backlink.report^
 ||betvisa.report^
 ||bipower.report^
 ||boxing.report^
@@ -15,6 +16,7 @@
 ||clade.report^
 ||comedy.report^
 ||comic.report^
+||crawler.report^
 ||cryptodata.report^
 ||cvscore.report^
 ||dnsanalyser.report^
@@ -29,12 +31,14 @@
 ||homecare.report^
 ||hurun.report^
 ||issb.report^
+||jobboard.report^
 ||launch.report^
 ||livescore.report^
 ||nlimi.report^
 ||okking.report^
 ||onlineshopping.report^
 ||pkcert.report^
+||ponder.report^
 ||postnord.report^
 ||psychicai.report^
 ||relationship.report^
@@ -43,8 +47,10 @@
 ||rte.report^
 ||rum.report^
 ||sattakinggl.report^
+||sbobet.report^
 ||soda.report^
 ||subtext.report^
+||tama.report^
 ||tbill.report^
 ||thesubtext.report^
 ||tokenization.report^
