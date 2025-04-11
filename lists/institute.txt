@@ -15,8 +15,10 @@
 ||addresshate.institute^
 ||adls.institute^
 ||agl.institute^
+||ai2.institute^
 ||ai4society.institute^
 ||aib.institute^
+||aidisrupt.institute^
 ||aiengineer.institute^
 ||aigovernance.institute^
 ||aigrowth.institute^
@@ -29,8 +31,6 @@
 ||albaraa.institute^
 ||albion.institute^
 ||alfred.institute^
-||alhudaquran.institute^
-||alias.institute^
 ||allbrittonjournalism.institute^
 ||allprowaterdamagerestoration.institute^
 ||alo789.institute^
@@ -51,7 +51,6 @@
 ||arguments.institute^
 ||arkdiscovery.institute^
 ||arkwright.institute^
-||arthashastra.institute^
 ||ase.institute^
 ||assistant.institute^
 ||australasian.institute^
@@ -73,7 +72,6 @@
 ||bluepoint.institute^
 ||bootstrap.institute^
 ||bridgeera.institute^
-||brunastavares.institute^
 ||businessanalytics.institute^
 ||cap-consulting.institute^
 ||capacity.institute^
@@ -89,6 +87,7 @@
 ||charteredenvironmentlaws.institute^
 ||charterenvironmentlaws.institute^
 ||chinatalk.institute^
+||chp.institute^
 ||christianyoga.institute^
 ||cifap.institute^
 ||clarawarhola.institute^
@@ -99,7 +98,6 @@
 ||commerce.institute^
 ||common-wealth.institute^
 ||concepts.institute^
-||cordoba.institute^
 ||courage.institute^
 ||cpjhw.institute^
 ||crane.institute^
@@ -137,7 +135,6 @@
 ||doctorsai.institute^
 ||donatetosafehaven.institute^
 ||drbock.institute^
-||driftdrone.institute^
 ||drones.institute^
 ||dronification.institute^
 ||drpetrabock.institute^
@@ -161,6 +158,7 @@
 ||eris.institute^
 ||esarchavez.institute^
 ||escape.institute^
+||ethical-ai.institute^
 ||evansvilleinstitute.institute^
 ||everythingbutone.institute^
 ||evoke.institute^
@@ -180,7 +178,6 @@
 ||frenchriviera.institute^
 ||fyrstgen.institute^
 ||gali.institute^
-||gatherwise.institute^
 ||gauss.institute^
 ||genevaquantumpolicy.institute^
 ||gforcecoaching.institute^
@@ -199,11 +196,13 @@
 ||hatherleigh.institute^
 ||hawking.institute^
 ||hayaapp.institute^
+||hcl.institute^
 ||healthreforms.institute^
 ||healthy-longevity.institute^
 ||heartwisdom.institute^
 ||hero.institute^
 ||hetic.institute^
+||hint.institute^
 ||hodgkin.institute^
 ||hug.institute^
 ||humaninnovation.institute^
@@ -212,6 +211,7 @@
 ||iatf.institute^
 ||iife.institute^
 ||iiii.institute^
+||iisii.institute^
 ||ijluxuryfashion.institute^
 ||ina.institute^
 ||industriekultur.institute^
@@ -219,6 +219,7 @@
 ||innerskills.institute^
 ||innova.institute^
 ||integratedfunctionalhealth.institute^
+||integrativeexpressiveart.institute^
 ||integrativefunctionalhealth.institute^
 ||interviewing.institute^
 ||intransit.institute^
@@ -233,7 +234,6 @@
 ||kayabola.institute^
 ||kht.institute^
 ||ki.institute^
-||kingdomimpact.institute^
 ||kini.institute^
 ||kipthecosmic.institute^
 ||kointool.institute^
@@ -279,8 +279,6 @@
 ||neet.institute^
 ||neocode.institute^
 ||neomed.institute^
-||networking.institute^
-||nexie.institute^
 ||nhs.institute^
 ||nixos.institute^
 ||njxvaz.institute^
@@ -288,8 +286,8 @@
 ||nordictherapy.institute^
 ||norranah.institute^
 ||noura.institute^
-||nrdr.institute^
 ||nussbaum.institute^
+||onestep.institute^
 ||onlearning.institute^
 ||organisms.institute^
 ||organizations.institute^
@@ -313,6 +311,7 @@
 ||phase.institute^
 ||philosophies.institute^
 ||pinnacle.institute^
+||poly.institute^
 ||profit.institute^
 ||proxy.institute^
 ||qtzct.institute^
@@ -325,6 +324,7 @@
 ||radius.institute^
 ||rb-realty.institute^
 ||realestate.institute^
+||reign.institute^
 ||reinhardt.institute^
 ||restoration.institute^
 ||restorativewellness.institute^
@@ -344,16 +344,15 @@
 ||shikshafoundation.institute^
 ||signal-intelligence.institute^
 ||siit.institute^
-||sirolli.institute^
 ||socialintelligence.institute^
 ||soda.institute^
 ||solanapolicy.institute^
 ||somnea.institute^
 ||sota.institute^
-||soul-path.institute^
 ||soulsparking.institute^
 ||st666.institute^
 ||stellar.institute^
+||stickchart.institute^
 ||strate.institute^
 ||stratos.institute^
 ||structures.institute^
@@ -375,6 +374,7 @@
 ||themindbodybiology.institute^
 ||thenewmusicmovement.institute^
 ||thenewton.institute^
+||theologies.institute^
 ||theories.institute^
 ||thirdstone.institute^
 ||thorn.institute^
@@ -391,8 +391,8 @@
 ||unigame.institute^
 ||usaeducation.institute^
 ||vaccine.institute^
-||vast.institute^
 ||vblgthnh7njfw.institute^
+||venn.institute^
 ||vezgng.institute^
 ||vibeflow.institute^
 ||virology.institute^

@@ -1,5 +1,7 @@
 ||101domain.spot^
 ||aetna.spot^
+||amazon.spot^
+||bb-hotels.spot^
 ||bbhotels.spot^
 ||blackrock.spot^
 ||breitling.spot^
@@ -25,6 +27,7 @@
 ||iberdrola.spot^
 ||ishares.spot^
 ||mio.spot^
+||nordstrom.spot^
 ||pearson.spot^
 ||petsmart.spot^
 ||peugeot.spot^
@@ -35,6 +38,7 @@
 ||schindler.spot^
 ||soldejaneiro.spot^
 ||stellantis.spot^
+||target.spot^
 ||tudor.spot^
 ||tudorwatch.spot^
 ||twilio.spot^
@@ -42,7 +46,9 @@
 ||velcro.spot^
 ||vmware.spot^
 ||vuori.spot^
+||yahoo.spot^
 ||yahoofinance.spot^
+||yahoomail.spot^
 ||yahoonews.spot^
 ||yahoosearch.spot^
 ||yahoosports.spot^

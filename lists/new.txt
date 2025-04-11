@@ -57,6 +57,7 @@
 ||raise.new^
 ||realestate.new^
 ||redsand.new^
+||reve.new^
 ||rocket.new^
 ||roi.new^
 ||roof.new^
@@ -71,5 +72,6 @@
 ||topup.new^
 ||tutor.new^
 ||volume.new^
+||voyager.new^
 ||waitlist.new^
 ||workbook.new^
