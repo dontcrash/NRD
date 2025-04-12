@@ -9,7 +9,6 @@
 ||admiral.broker^
 ||advertise.broker^
 ||adydy.broker^
-||almansoor.broker^
 ||amara.broker^
 ||amaramortgage.broker^
 ||apexfincap.broker^
@@ -19,6 +18,7 @@
 ||auth.broker^
 ||barter.broker^
 ||beam.broker^
+||bubet.broker^
 ||bunny.broker^
 ||ccim.broker^
 ||cifa.broker^
@@ -35,7 +35,6 @@
 ||every.broker^
 ||everything.broker^
 ||f8bet.broker^
-||farmersmarket.broker^
 ||fastfunding.broker^
 ||fc88.broker^
 ||free.broker^
@@ -47,8 +46,10 @@
 ||hacker.broker^
 ||happy.broker^
 ||hdhub4u.broker^
+||highridge.broker^
+||highridgeservices.broker^
+||highridgetrust.broker^
 ||hijrah.broker^
-||homecare.broker^
 ||homes.broker^
 ||hvac.broker^
 ||image.broker^
@@ -81,7 +82,6 @@
 ||offplan.broker^
 ||onion.broker^
 ||onkevideoproductions.broker^
-||onlineshopping.broker^
 ||pki.broker^
 ||poly.broker^
 ||prismuniverse.broker^
@@ -108,10 +108,9 @@
 ||succession.broker^
 ||thc.broker^
 ||theta.broker^
-||topsellingdomain.broker^
+||tofu.broker^
 ||versicherung.broker^
 ||wellness.broker^
-||whatnot.broker^
 ||whistle.broker^
 ||wooden.broker^
 ||work.broker^
