@@ -28,6 +28,7 @@
 ||clev.build^
 ||cloud.build^
 ||continuity.build^
+||coretext.build^
 ||croft.build^
 ||cypher.build^
 ||davy.build^
@@ -37,6 +38,7 @@
 ||dope.build^
 ||dream.build^
 ||dxb.build^
+||eastwest.build^
 ||endowment.build^
 ||fieldnotes.build^
 ||finetune.build^
@@ -63,6 +65,7 @@
 ||kalo.build^
 ||kamal.build^
 ||kapital.build^
+||lanterns.build^
 ||lendx.build^
 ||lhba.build^
 ||loki.build^
@@ -78,14 +81,17 @@
 ||mike.build^
 ||moco.build^
 ||modmendevelopment.build^
+||modulo.build^
 ||momentary.build^
 ||monarchs.build^
 ||moose.build^
 ||motion.build^
+||mvia.build^
 ||myobco.build^
 ||nami.build^
 ||nash.build^
 ||nautilus.build^
+||nearshore.build^
 ||neoma.build^
 ||niko.build^
 ||nimbl.build^
@@ -102,6 +108,7 @@
 ||primadesign.build^
 ||protogen.build^
 ||qh88.build^
+||quine.build^
 ||ragged.build^
 ||reasoner.build^
 ||rowan.build^
