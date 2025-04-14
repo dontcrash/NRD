@@ -13,6 +13,7 @@
 ||aqualuxdetail.supply^
 ||artefact.supply^
 ||artware.supply^
+||atmos.supply^
 ||atoz.supply^
 ||axion.supply^
 ||balos.supply^
@@ -27,7 +28,6 @@
 ||bot.supply^
 ||buytoks.supply^
 ||cadence.supply^
-||cane.supply^
 ||carton.supply^
 ||caul.supply^
 ||cavin.supply^
@@ -44,7 +44,6 @@
 ||creativeads.supply^
 ||democrat.supply^
 ||details.supply^
-||discover.supply^
 ||dispomart.supply^
 ||dlconstruction.supply^
 ||dnba.supply^
@@ -71,7 +70,6 @@
 ||frisson.supply^
 ||frontline.supply^
 ||gordonlab.supply^
-||gproject.supply^
 ||grayline.supply^
 ||hackerspace.supply^
 ||handle.supply^
@@ -82,7 +80,6 @@
 ||hoodhippie.supply^
 ||hopefuladvice.supply^
 ||hurrikane.supply^
-||illuminate.supply^
 ||infinitepower.supply^
 ||instantprintz.supply^
 ||jan-pro.supply^
@@ -103,8 +100,10 @@
 ||metricmarine.supply^
 ||million.supply^
 ||mm.supply^
+||moai.supply^
 ||mobile-257marsbahis.supply^
 ||momentos.supply^
+||morningstar.supply^
 ||motion.supply^
 ||myfafsa.supply^
 ||navigator.supply^
@@ -114,6 +113,7 @@
 ||nohu.supply^
 ||northeasternpaint.supply^
 ||nutra.supply^
+||nutraceuticals.supply^
 ||obvious.supply^
 ||onlinepet.supply^
 ||onyx.supply^
@@ -131,7 +131,9 @@
 ||racing.supply^
 ||reed.supply^
 ||rive.supply^
+||rizzfi.supply^
 ||rockyridge.supply^
+||shaner.supply^
 ||shopbernies.supply^
 ||shortage.supply^
 ||silvercoin.supply^
@@ -140,7 +142,6 @@
 ||thedesigner.supply^
 ||threat.supply^
 ||truelove.supply^
-||uos.supply^
 ||usd.supply^
 ||v9bet.supply^
 ||vanuo.supply^
@@ -150,7 +151,6 @@
 ||wbp.supply^
 ||wins.supply^
 ||wiremesh.supply^
-||woodies.supply^
 ||woodworker.supply^
 ||writer.supply^
 ||xplai.supply^
