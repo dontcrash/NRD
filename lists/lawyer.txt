@@ -40,7 +40,6 @@
 ||estatechallenge.lawyer^
 ||estateplanning.lawyer^
 ||expertpersonalinjury.lawyer^
-||findlay.lawyer^
 ||floridacivilrights.lawyer^
 ||fortworthwrongfuldeath.lawyer^
 ||garlandinjury.lawyer^
@@ -50,7 +49,6 @@
 ||go2tools.lawyer^
 ||gonzalespersonalinjury.lawyer^
 ||gonzalestruckaccident.lawyer^
-||gpt5.lawyer^
 ||greenvillewrongfuldeath.lawyer^
 ||groundwatercontamination.lawyer^
 ||hammondpersonalinjury.lawyer^
@@ -93,6 +91,7 @@
 ||midlandoilfieldaccident.lawyer^
 ||midlandoilfieldinjury.lawyer^
 ||midlandwrongfuldeath.lawyer^
+||mitzner-kovach.lawyer^
 ||monroepersonalinjury.lawyer^
 ||monroetruckaccident.lawyer^
 ||neuroscience.lawyer^
@@ -100,6 +99,7 @@
 ||neworleanspersonalinjury.lawyer^
 ||neworleanstruckaccident.lawyer^
 ||newyorkhouserental.lawyer^
+||not.lawyer^
 ||oclemonlaw.lawyer^
 ||odessaoilfieldinjury.lawyer^
 ||odessawrongfuldeath.lawyer^

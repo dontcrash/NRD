@@ -11,8 +11,8 @@
 ||aeon-jp.cards^
 ||agi.cards^
 ||agursoft.cards^
+||aiagent.cards^
 ||aigifts.cards^
-||airlode.cards^
 ||angelwings.cards^
 ||arkids.cards^
 ||artificial.cards^
@@ -25,6 +25,7 @@
 ||auth.cards^
 ||authenticity.cards^
 ||autosend.cards^
+||balatro.cards^
 ||bet-20.cards^
 ||bet20casino.cards^
 ||bizbuzz.cards^
@@ -36,7 +37,6 @@
 ||bnbbtc.cards^
 ||bonsai.cards^
 ||bountyboosters.cards^
-||brings.cards^
 ||bsc.cards^
 ||butti.cards^
 ||bvr.cards^
@@ -46,11 +46,13 @@
 ||cardconnect.cards^
 ||cashcredit.cards^
 ||certified.cards^
+||champ.cards^
 ||chicken.cards^
 ||cityof.cards^
 ||climate.cards^
 ||cog.cards^
 ||coinx.cards^
+||com-gift.cards^
 ||com-replace.cards^
 ||communityroom.cards^
 ||connexa.cards^
@@ -61,18 +63,19 @@
 ||cte.cards^
 ||curated.cards^
 ||customrfidkey.cards^
-||cvip.cards^
 ||d360.cards^
 ||dddd.cards^
 ||debitcredit.cards^
 ||debitt.cards^
 ||deckbake.cards^
+||deckof.cards^
 ||democracy.cards^
 ||den.cards^
 ||dgai.cards^
 ||diamondtrading.cards^
 ||digigift.cards^
 ||digtal.cards^
+||discreet.cards^
 ||doncuts.cards^
 ||drai.cards^
 ||echo.cards^
@@ -131,8 +134,8 @@
 ||lddb.cards^
 ||lexa.cards^
 ||linq.cards^
+||livescore.cards^
 ||loosecannon.cards^
-||loyalisties.cards^
 ||luma.cards^
 ||lumo.cards^
 ||lumon.cards^
@@ -183,6 +186,7 @@
 ||pagan.cards^
 ||pahrump.cards^
 ||painting.cards^
+||pana.cards^
 ||pancha.cards^
 ||payinvoicewithnewcredit.cards^
 ||paylette.cards^
@@ -190,7 +194,6 @@
 ||paypay-id.cards^
 ||paypay-ja.cards^
 ||paypay-jp.cards^
-||peg.cards^
 ||phygitalnft.cards^
 ||plati.cards^
 ||porichoy.cards^
@@ -198,10 +201,8 @@
 ||power9.cards^
 ||powernine.cards^
 ||printz.cards^
-||prism.cards^
 ||privatepay.cards^
-||protap.cards^
-||rainshadow.cards^
+||qualiteatime.cards^
 ||rakuten-co.cards^
 ||rakuten-ja.cards^
 ||rakuten-jp.cards^
@@ -228,11 +229,9 @@
 ||stamina.cards^
 ||start.cards^
 ||sugar.cards^
-||superscratch.cards^
 ||switch.cards^
 ||tapx.cards^
 ||tarotapi.cards^
-||teaches.cards^
 ||techflash.cards^
 ||thebreakroom.cards^
 ||thecraftyloft.cards^
@@ -251,6 +250,7 @@
 ||viciousemporium.cards^
 ||visa-jp.cards^
 ||visual.cards^
+||vivre.cards^
 ||voucher.cards^
 ||what.cards^
 ||wilder.cards^
@@ -259,5 +259,5 @@
 ||wrm.cards^
 ||xtra.cards^
 ||y.cards^
-||ygo.cards^
+||yesplay.cards^
 ||zoo.cards^

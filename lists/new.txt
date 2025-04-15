@@ -1,12 +1,10 @@
 ||air.new^
 ||app.new^
-||applet.new^
 ||aura.new^
 ||beam.new^
 ||beehiiv.new^
 ||btb.new^
 ||ceo.new^
-||clone.new^
 ||collab.new^
 ||com.new^
 ||comet.new^
@@ -26,7 +24,6 @@
 ||durable.new^
 ||emergent.new^
 ||empire.new^
-||evals.new^
 ||face.new^
 ||feed.new^
 ||firebase.new^
@@ -34,11 +31,11 @@
 ||grid.new^
 ||gvui.new^
 ||holo.new^
+||icepanel.new^
 ||ideate.new^
 ||imagineers.new^
 ||in.new^
 ||intranet.new^
-||invideo.new^
 ||komo.new^
 ||lib.new^
 ||livedoc.new^
@@ -72,6 +69,7 @@
 ||tally.new^
 ||terminal.new^
 ||topup.new^
+||tour.new^
 ||tutor.new^
 ||volume.new^
 ||voyager.new^

@@ -4,7 +4,10 @@
 ||amazon.spot^
 ||audible.spot^
 ||aws.spot^
+||b-and-b-hotels.spot^
 ||baidu.spot^
+||bandb-hotels.spot^
+||bandbhotels.spot^
 ||bb-hotels.spot^
 ||bbhotels.spot^
 ||blackrock.spot^
@@ -38,6 +41,7 @@
 ||kindle.spot^
 ||linkedin.spot^
 ||loccitane.spot^
+||melvita.spot^
 ||microsoft.spot^
 ||mio.spot^
 ||netsuite.spot^

@@ -3,6 +3,7 @@
 ||aiagent.healthcare^
 ||aihealthpartners.healthcare^
 ||aklanpho.healthcare^
+||alveo.healthcare^
 ||anti.healthcare^
 ||apr.healthcare^
 ||arbiter.healthcare^
@@ -17,13 +18,13 @@
 ||bemtuviq.healthcare^
 ||beterra.healthcare^
 ||beyond100.healthcare^
+||biohacking.healthcare^
 ||bryan.healthcare^
 ||c2c-radiology.healthcare^
 ||c3g.healthcare^
 ||caleo.healthcare^
 ||carecircle.healthcare^
 ||careforce.healthcare^
-||cerbono.healthcare^
 ||confidence.healthcare^
 ||corecare.healthcare^
 ||corephysio.healthcare^
@@ -39,7 +40,6 @@
 ||giv.healthcare^
 ||globalhealthconnect.healthcare^
 ||goldenage.healthcare^
-||gpt5.healthcare^
 ||grok.healthcare^
 ||healthproof.healthcare^
 ||hx.healthcare^
@@ -64,6 +64,7 @@
 ||niceinsurance.healthcare^
 ||niri.healthcare^
 ||nowa.healthcare^
+||omnes.healthcare^
 ||omnibus.healthcare^
 ||ontogeny.healthcare^
 ||ot.healthcare^
@@ -73,15 +74,17 @@
 ||personalprimarycare.healthcare^
 ||ph.healthcare^
 ||pht.healthcare^
+||plasticsurgery.healthcare^
 ||poulin.healthcare^
 ||privateprimary.healthcare^
 ||privateprimarycare.healthcare^
 ||projectmanagement.healthcare^
+||psilocybin.healthcare^
 ||ronin.healthcare^
-||rsm.healthcare^
 ||sanativa.healthcare^
 ||site.healthcare^
 ||skintech.healthcare^
+||smiley.healthcare^
 ||stayoung.healthcare^
 ||talk.healthcare^
 ||tasks.healthcare^
@@ -90,6 +93,7 @@
 ||touchpoint.healthcare^
 ||transnational.healthcare^
 ||trivzaa.healthcare^
+||ultrapersonal.healthcare^
 ||unitydepot.healthcare^
 ||vitae.healthcare^
 ||wecare.healthcare^
