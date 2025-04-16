@@ -17,11 +17,13 @@
 ||agent9.bot^
 ||agentive.bot^
 ||aiassistant.bot^
+||aika.bot^
 ||aila.bot^
 ||aim.bot^
 ||aiordie.bot^
 ||algox.bot^
 ||alwaysearly.bot^
+||ancap.bot^
 ||apuestas.bot^
 ||archie.bot^
 ||arrive.bot^
@@ -46,6 +48,7 @@
 ||chatterbox.bot^
 ||ciao.bot^
 ||clam.bot^
+||closet.bot^
 ||closing.bot^
 ||clurk.bot^
 ||coast.bot^
@@ -55,6 +58,7 @@
 ||corporation.bot^
 ||cotton.bot^
 ||credi.bot^
+||cybersec.bot^
 ||cybo.bot^
 ||deepseekchat.bot^
 ||defaiagent.bot^
@@ -73,6 +77,7 @@
 ||england.bot^
 ||ens.bot^
 ||entropy.bot^
+||ethix.bot^
 ||etickets.bot^
 ||extend.bot^
 ||f47.bot^
@@ -81,9 +86,13 @@
 ||fdbhealth.bot^
 ||fedi.bot^
 ||flamingo.bot^
+||foxblaze.bot^
+||foxlabs.bot^
+||foxswap.bot^
 ||frac.bot^
 ||freecert.bot^
 ||freessl.bot^
+||funstat.bot^
 ||gentos.bot^
 ||glitch.bot^
 ||gollm.bot^
@@ -166,10 +175,12 @@
 ||phpvip.bot^
 ||phtaya.bot^
 ||postulate.bot^
+||prismatic.bot^
 ||privy.bot^
 ||quit.bot^
 ||raffle.bot^
 ||raise.bot^
+||reagent.bot^
 ||redteam.bot^
 ||reelix.bot^
 ||relocation.bot^
@@ -180,6 +191,7 @@
 ||rwas.bot^
 ||saga.bot^
 ||saibaba.bot^
+||selector.bot^
 ||sell.bot^
 ||service.bot^
 ||shanti.bot^
@@ -238,4 +250,7 @@
 ||wunder.bot^
 ||xls.bot^
 ||yoro.bot^
+||yume.bot^
+||yumegg.bot^
+||zipline.bot^
 ||zync.bot^

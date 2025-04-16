@@ -24,8 +24,6 @@
 ||385792.press^
 ||387529.press^
 ||395286.press^
-||3bin.press^
-||3bln.press^
 ||40north.press^
 ||43678.press^
 ||49974.press^
@@ -71,6 +69,7 @@
 ||932568.press^
 ||95060.press^
 ||97535.press^
+||accept.press^
 ||achei.press^
 ||aera.press^
 ||agitprop.press^
@@ -86,6 +85,7 @@
 ||airstarbearings.press^
 ||aldovia.press^
 ||almasar.press^
+||alpha02.press^
 ||amare.press^
 ||amazingintelligence.press^
 ||amplifymedia.press^
@@ -96,21 +96,18 @@
 ||anymom.press^
 ||anypublish.press^
 ||appliedbehavioranlysis.press^
-||armeev.press^
 ||artenika.press^
 ||artfulexpressions.press^
 ||askthecontent.press^
 ||atendimento.press^
 ||avenueabooks.press^
 ||axisofclarity.press^
-||azher.press^
 ||aztv.press^
 ||balti.press^
 ||banda-casino.press^
 ||baraa.press^
 ||bellemain.press^
 ||bet595.press^
-||bet99.press^
 ||betfair.press^
 ||betjam.press^
 ||bg-my.press^
@@ -141,10 +138,13 @@
 ||charon.press^
 ||cheenarradio.press^
 ||cheki.press^
+||chicagonews.press^
+||cincinnati-oh.press^
 ||cinegama.press^
 ||citypulse.press^
 ||click2win.press^
 ||clickstore.press^
+||cloak.press^
 ||coachex.press^
 ||cognitive.press^
 ||coinmarket.press^
@@ -178,13 +178,13 @@
 ||dillinger.press^
 ||dinheiro.press^
 ||dnews.press^
-||dnezeo.press^
 ||dogma.press^
 ||dokan.press^
 ||dolcevita.press^
 ||drabbles.press^
 ||dreamingtree.press^
 ||drunk.press^
+||dstvsky.press^
 ||ea101.press^
 ||eb101.press^
 ||eblogpost.press^
@@ -201,7 +201,6 @@
 ||faster.press^
 ||fastmedia.press^
 ||fawares.press^
-||finesse.press^
 ||fizz.press^
 ||flipturn.press^
 ||francescahecker-editorial.press^
@@ -246,15 +245,15 @@
 ||havlow-eve.press^
 ||hay88.press^
 ||hayastan.press^
+||helo88.press^
 ||helpforwriters.press^
 ||hexo.press^
+||hilbert.press^
 ||hobbyhorse.press^
 ||hogarth.press^
 ||homie.press^
 ||hoot.press^
-||horus.press^
 ||hrloop.press^
-||hyundai-elantra.press^
 ||iamstillalive.press^
 ||icto.press^
 ||idd3.press^
@@ -267,8 +266,6 @@
 ||inspireme.press^
 ||insureiq.press^
 ||inteligenciaartificial.press^
-||interbin.press^
-||interbln.press^
 ||invoice.press^
 ||italianinews.press^
 ||ivgwin.press^
@@ -297,9 +294,9 @@
 ||lesinfosdufight.press^
 ||libraryinformations.press^
 ||lilaloom.press^
+||lindenrow.press^
 ||litaliano.press^
 ||livingmythos.press^
-||lnterbin.press^
 ||loaf.press^
 ||lonaka.press^
 ||lonestar.press^
@@ -318,7 +315,6 @@
 ||matka.press^
 ||may88.press^
 ||mcw77.press^
-||mediasfrance-selection.press^
 ||mediax.press^
 ||medienmanager.press^
 ||memecoinmagazine.press^
@@ -368,6 +364,7 @@
 ||nsgeorgia.press^
 ||o2100.press^
 ||o2common.press^
+||obivan-kenobi.press^
 ||obkom-tv.press^
 ||officialwhitehousephotographer.press^
 ||offmarketassetsgroup.press^
@@ -384,7 +381,9 @@
 ||outmax.press^
 ||oxapay.press^
 ||pagecraft.press^
+||panavance.press^
 ||paperhouse.press^
+||parimatch.press^
 ||parkermedia.press^
 ||partandparcel.press^
 ||pasoapaso.press^
@@ -394,7 +393,6 @@
 ||payal.press^
 ||pedal.press^
 ||pembrokeshire.press^
-||petland.press^
 ||philosophies.press^
 ||pixelpaperink.press^
 ||platonic.press^
@@ -429,6 +427,7 @@
 ||revision.press^
 ||rightlever.press^
 ||rikvip.press^
+||rivals.press^
 ||rjj120br.press^
 ||rokkr.press^
 ||romanization.press^
@@ -445,7 +444,6 @@
 ||sanatate.press^
 ||sci.press^
 ||sedmoekasanie.press^
-||selections-medias-france.press^
 ||sent.press^
 ||seventhtouch.press^
 ||seventouch.press^
@@ -475,6 +473,7 @@
 ||sportsbetting.press^
 ||sprus.press^
 ||st666.press^
+||stalin.press^
 ||steem.press^
 ||storybloom.press^
 ||stradabooks.press^
@@ -485,6 +484,7 @@
 ||svoya-syla.press^
 ||svoyasyla.press^
 ||sweetcorn.press^
+||swerve.press^
 ||syndicate.press^
 ||synx.press^
 ||tamilblasters.press^
@@ -493,7 +493,6 @@
 ||teambook.press^
 ||techscience.press^
 ||televisioncity.press^
-||templar.press^
 ||tend.press^
 ||tendertales.press^
 ||tengfei.press^
@@ -507,6 +506,7 @@
 ||thepublic.press^
 ||thepublish.press^
 ||thepublishing.press^
+||thetranscendentalist.press^
 ||theworld.press^
 ||thewritestuff.press^
 ||thirdmind.press^
@@ -516,14 +516,12 @@
 ||tomolson.press^
 ||toncoin.press^
 ||trending.press^
-||tru.press^
 ||tsar.press^
 ||tsxx.press^
 ||tttpg.press^
 ||tueh.press^
 ||tunnelinthesky.press^
 ||twitter.press^
-||twoferstribe.press^
 ||tzuchi-school.press^
 ||umbargo.press^
 ||underwater.press^
@@ -554,7 +552,6 @@
 ||vitalityzone.press^
 ||w3t.press^
 ||wakayama.press^
-||wayfarer.press^
 ||weaver.press^
 ||websales.press^
 ||webshop.press^
@@ -578,4 +575,3 @@
 ||yunpan.press^
 ||zakupki.press^
 ||zanyzooms.press^
-||zerofox.press^

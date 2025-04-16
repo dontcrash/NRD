@@ -3,13 +3,11 @@
 ||aura.new^
 ||beam.new^
 ||beehiiv.new^
-||btb.new^
 ||ceo.new^
 ||collab.new^
 ||com.new^
 ||comet.new^
 ||compose.new^
-||config.new^
 ||coop.new^
 ||cosmic.new^
 ||dagster.new^
@@ -32,6 +30,7 @@
 ||gvui.new^
 ||holo.new^
 ||icepanel.new^
+||id.new^
 ||ideate.new^
 ||imagineers.new^
 ||in.new^
@@ -47,6 +46,7 @@
 ||mix.new^
 ||mocha.new^
 ||mock.new^
+||neon.new^
 ||nordcraft.new^
 ||now.new^
 ||orion.new^
@@ -66,11 +66,12 @@
 ||shell.new^
 ||short.new^
 ||svg.new^
+||swarm.new^
 ||tally.new^
 ||terminal.new^
 ||topup.new^
 ||tour.new^
 ||tutor.new^
+||user.new^
 ||volume.new^
 ||voyager.new^
-||workbook.new^

@@ -33,12 +33,6 @@
 ||camilo.markets^
 ||cashmere.markets^
 ||cask.markets^
-||certos.markets^
-||certoscore.markets^
-||certosinsights.markets^
-||certosintelligence.markets^
-||certosnetwork.markets^
-||certosshield.markets^
 ||charles-schwab.markets^
 ||clade.markets^
 ||comert.markets^
@@ -52,6 +46,7 @@
 ||dom.markets^
 ||dps.markets^
 ||drone.markets^
+||e2bet.markets^
 ||economico.markets^
 ||edgewp.markets^
 ||edx.markets^
@@ -67,7 +62,6 @@
 ||flipside.markets^
 ||foto.markets^
 ||frame.markets^
-||futarchy.markets^
 ||goldrush.markets^
 ||greenquestincome.markets^
 ||gwas.markets^
@@ -79,6 +73,7 @@
 ||highticketaffiliate.markets^
 ||hope.markets^
 ||ibank.markets^
+||icell-tech.markets^
 ||ifarm.markets^
 ||insightfx.markets^
 ||item.markets^
@@ -99,7 +94,6 @@
 ||mention.markets^
 ||merge.markets^
 ||microsaas.markets^
-||moneymetals.markets^
 ||mrx.markets^
 ||mulder.markets^
 ||myrlad.markets^
@@ -130,7 +124,6 @@
 ||qday.markets^
 ||quantumfx.markets^
 ||quasar.markets^
-||qubetics.markets^
 ||questrevbot.markets^
 ||radical.markets^
 ||radius.markets^
@@ -143,8 +136,6 @@
 ||rlyeh.markets^
 ||rsps.markets^
 ||rugless.markets^
-||rwafi.markets^
-||rwas.markets^
 ||rwin.markets^
 ||sail.markets^
 ||sat.markets^
@@ -158,15 +149,14 @@
 ||solutions.markets^
 ||sport.markets^
 ||spyhive.markets^
-||sto.markets^
 ||stockinsightsai.markets^
+||sure.markets^
 ||tag.markets^
 ||teambook.markets^
 ||tele.markets^
 ||tensor.markets^
 ||terminal.markets^
 ||tippingpoint.markets^
-||tlp.markets^
 ||topcut.markets^
 ||tpu.markets^
 ||tvl.markets^
@@ -176,6 +166,7 @@
 ||vertex.markets^
 ||volt.markets^
 ||wby.markets^
+||webmaster.markets^
 ||website.markets^
 ||windsurf.markets^
 ||wiz.markets^

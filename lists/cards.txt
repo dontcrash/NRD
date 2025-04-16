@@ -32,7 +32,6 @@
 ||blacklotus.cards^
 ||blacksheep.cards^
 ||blankwhite.cards^
-||bluelight.cards^
 ||bnb.cards^
 ||bnbbtc.cards^
 ||bonsai.cards^
@@ -71,11 +70,13 @@
 ||deckof.cards^
 ||democracy.cards^
 ||den.cards^
+||designshift.cards^
 ||dgai.cards^
 ||diamondtrading.cards^
 ||digigift.cards^
 ||digtal.cards^
 ||discreet.cards^
+||doctorcard.cards^
 ||doncuts.cards^
 ||drai.cards^
 ||echo.cards^
@@ -85,14 +86,15 @@
 ||emporium.cards^
 ||evo.cards^
 ||exalted.cards^
+||exam.cards^
 ||excuse.cards^
 ||exo.cards^
 ||fastprint.cards^
 ||fbc.cards^
-||feather.cards^
 ||fenibe.cards^
 ||ferti.cards^
 ||fertility.cards^
+||fi-safety.cards^
 ||findme.cards^
 ||fishman.cards^
 ||flimby.cards^
@@ -116,6 +118,7 @@
 ||goldpvc.cards^
 ||gordon.cards^
 ||gotopay.cards^
+||happy.cards^
 ||headliner.cards^
 ||helxpay.cards^
 ||hijrah.cards^
@@ -175,8 +178,6 @@
 ||neko.cards^
 ||nexus-pay.cards^
 ||nexxt.cards^
-||nhs.cards^
-||nifti.cards^
 ||nimbus.cards^
 ||numi.cards^
 ||odonto.cards^
@@ -184,7 +185,6 @@
 ||orenda.cards^
 ||oxbet.cards^
 ||pagan.cards^
-||pahrump.cards^
 ||painting.cards^
 ||pana.cards^
 ||pancha.cards^
@@ -215,6 +215,7 @@
 ||safir.cards^
 ||salarymax.cards^
 ||salarymaxprepaid.cards^
+||saltcity.cards^
 ||sarrefha.cards^
 ||scan.cards^
 ||seeker.cards^
@@ -245,6 +246,8 @@
 ||uba.cards^
 ||ultimate.cards^
 ||unsaid.cards^
+||upshot.cards^
+||usd1.cards^
 ||varnz.cards^
 ||vaulted.cards^
 ||viciousemporium.cards^
@@ -255,7 +258,7 @@
 ||what.cards^
 ||wilder.cards^
 ||wispr.cards^
-||world.cards^
+||witha.cards^
 ||wrm.cards^
 ||xtra.cards^
 ||y.cards^
