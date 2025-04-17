@@ -9,7 +9,6 @@
 ||affirms.financial^
 ||akroamatik.financial^
 ||alchemy.financial^
-||alfred.financial^
 ||allin1calculator.financial^
 ||alp.financial^
 ||amarkets.financial^
@@ -28,12 +27,9 @@
 ||brick.financial^
 ||brokered.financial^
 ||bullion.financial^
-||certik.financial^
 ||claims.financial^
 ||coins.financial^
-||cointoken.financial^
 ||cord.financial^
-||covenant.financial^
 ||creation.financial^
 ||crisp.financial^
 ||ctb.financial^
@@ -41,13 +37,11 @@
 ||dharma.financial^
 ||dibblebros.financial^
 ||dibblebrothers.financial^
-||digit.financial^
 ||digitalpayments.financial^
 ||doctors.financial^
 ||dolphinvest.financial^
 ||done.financial^
 ||eclipse.financial^
-||equity.financial^
 ||ergo.financial^
 ||essence.financial^
 ||farther.financial^
@@ -84,11 +78,12 @@
 ||lanas.financial^
 ||lancry.financial^
 ||launchpad-ambit.financial^
-||leaf.financial^
+||lido.financial^
 ||livv.financial^
 ||lockit.financial^
 ||loveyourjourney.financial^
 ||lyj.financial^
+||mantle.financial^
 ||margin.financial^
 ||may88.financial^
 ||mayflower.financial^
@@ -99,7 +94,6 @@
 ||mothership.financial^
 ||nebu.financial^
 ||neuroscience.financial^
-||nodes.financial^
 ||ocbc.financial^
 ||opsec.financial^
 ||orb.financial^
@@ -112,6 +106,7 @@
 ||platinum.financial^
 ||pocket-broker.financial^
 ||pocketoption.financial^
+||proven.financial^
 ||pulse.financial^
 ||realio.financial^
 ||resolve.financial^
@@ -136,8 +131,10 @@
 ||tokens.financial^
 ||trade360.financial^
 ||trades.financial^
+||ukpropertybonds.financial^
 ||uniswap.financial^
 ||uranium.financial^
+||usd1.financial^
 ||verde.financial^
 ||veridian.financial^
 ||verna.financial^
@@ -147,5 +144,6 @@
 ||wealthwise.financial^
 ||webnet.financial^
 ||wesleyan.financial^
+||wlfi.financial^
 ||xis7.financial^
 ||xstocks.financial^

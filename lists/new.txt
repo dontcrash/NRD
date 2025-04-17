@@ -26,7 +26,6 @@
 ||feed.new^
 ||firebase.new^
 ||gen.new^
-||grid.new^
 ||gvui.new^
 ||holo.new^
 ||icepanel.new^
@@ -34,7 +33,6 @@
 ||ideate.new^
 ||imagineers.new^
 ||in.new^
-||intranet.new^
 ||komo.new^
 ||lib.new^
 ||livedoc.new^
@@ -45,7 +43,6 @@
 ||microdemo.new^
 ||mix.new^
 ||mocha.new^
-||mock.new^
 ||neon.new^
 ||nordcraft.new^
 ||now.new^
@@ -56,7 +53,6 @@
 ||pop.new^
 ||raise.new^
 ||realestate.new^
-||redsand.new^
 ||reve.new^
 ||rocket.new^
 ||roi.new^
@@ -67,9 +63,7 @@
 ||short.new^
 ||svg.new^
 ||swarm.new^
-||tally.new^
 ||terminal.new^
-||topup.new^
 ||tour.new^
 ||tutor.new^
 ||user.new^

@@ -27,6 +27,7 @@
 ||createmeet.broker^
 ||cryptowalletbitcoin.broker^
 ||dabet.broker^
+||dafabet.broker^
 ||dao.broker^
 ||digitalworker.broker^
 ||digitalworkforce.broker^
@@ -44,6 +45,7 @@
 ||g88.broker^
 ||gamebaidoithuong.broker^
 ||geno.broker^
+||globaltrade.broker^
 ||gourmet.broker^
 ||hacker.broker^
 ||hdhub4u.broker^
@@ -72,10 +74,8 @@
 ||mmlive.broker^
 ||mon-colissimo-livraison.broker^
 ||mortgageai.broker^
-||moving.broker^
 ||mrpremium.broker^
 ||multifamily.broker^
-||muslim.broker^
 ||mywood.broker^
 ||nexus.broker^
 ||nnn.broker^
@@ -101,8 +101,6 @@
 ||socket.broker^
 ||stay.broker^
 ||stefanski.broker^
-||succession.broker^
-||thc.broker^
 ||theta.broker^
 ||tofu.broker^
 ||unlimited.broker^

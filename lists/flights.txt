@@ -6,6 +6,7 @@
 ||bah.flights^
 ||butterfly.flights^
 ||cdg.flights^
+||charlie.flights^
 ||checkride.flights^
 ||class.flights^
 ||daedalus.flights^
@@ -23,6 +24,7 @@
 ||interlaken-tandem.flights^
 ||interlakenparagliding.flights^
 ||ist.flights^
+||jessica.flights^
 ||jfk.flights^
 ||lhr.flights^
 ||lowfares.flights^
@@ -40,8 +42,6 @@
 ||sky88.flights^
 ||skynest.flights^
 ||smiley.flights^
-||stays.flights^
-||strike.flights^
 ||sv88.flights^
 ||swiss-paragliding.flights^
 ||swissparagliding.flights^
@@ -49,6 +49,5 @@
 ||tandem-paragliding.flights^
 ||thrustmasters.flights^
 ||toursplan.flights^
-||ugcgirliesclub.flights^
 ||worldcup.flights^
 ||ww88.flights^
