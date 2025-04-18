@@ -14,6 +14,7 @@
 ||aqualuxdetail.supply^
 ||artefact.supply^
 ||artware.supply^
+||asset-vision.supply^
 ||asset-visions.supply^
 ||atmos.supply^
 ||atoz.supply^
@@ -28,6 +29,7 @@
 ||bilk.supply^
 ||blind.supply^
 ||bot.supply^
+||breathe.supply^
 ||buytoks.supply^
 ||cadence.supply^
 ||caul.supply^
@@ -130,9 +132,12 @@
 ||primeintellect.supply^
 ||racing.supply^
 ||reed.supply^
+||resilient.supply^
 ||rive.supply^
 ||rizzfi.supply^
 ||rockyridge.supply^
+||route.supply^
+||routedesign.supply^
 ||shaner.supply^
 ||ship.supply^
 ||shopbernies.supply^
@@ -141,6 +146,8 @@
 ||snap.supply^
 ||thedesigner.supply^
 ||threat.supply^
+||tired.supply^
+||tourcfya.supply^
 ||truelove.supply^
 ||usd.supply^
 ||v9bet.supply^
@@ -151,6 +158,7 @@
 ||wbp.supply^
 ||wiremesh.supply^
 ||woodworker.supply^
+||woodworking.supply^
 ||worm.supply^
 ||writer.supply^
 ||xplai.supply^
