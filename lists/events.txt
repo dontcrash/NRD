@@ -11,6 +11,8 @@
 ||accounting.events^
 ||adif.events^
 ||adora.events^
+||ados.events^
+||adyen.events^
 ||affentheater.events^
 ||africarise.events^
 ||afrodisiac.events^
@@ -36,6 +38,8 @@
 ||angiemacias.events^
 ||anitas.events^
 ||apelab.events^
+||apetermlnal.events^
+||applaus.events^
 ||apriori.events^
 ||ara.events^
 ||architecteurs.events^
@@ -58,7 +62,9 @@
 ||azurofinance.events^
 ||bakeryswapdao.events^
 ||bakeryswapnetwork.events^
+||baldr.events^
 ||basenjitoken.events^
+||beam.events^
 ||beanandbacondays.events^
 ||beatfy.events^
 ||beautiful.events^
@@ -94,6 +100,7 @@
 ||bonn.events^
 ||bonvoyage.events^
 ||bookeria.events^
+||bored.events^
 ||borovikcoin.events^
 ||bouncebitfi.events^
 ||bouncedtoken.events^
@@ -153,6 +160,9 @@
 ||cometogether.events^
 ||compound.events^
 ||concave.events^
+||concorde.events^
+||concrode.events^
+||conscious-capital.events^
 ||contentux.events^
 ||coolblue.events^
 ||coolfocus.events^
@@ -160,6 +170,7 @@
 ||coveritup.events^
 ||covr.events^
 ||cr8bydesign.events^
+||crcl.events^
 ||creamfields.events^
 ||creationsofhope.events^
 ||csbae.events^
@@ -195,6 +206,7 @@
 ||divvy.events^
 ||dlm.events^
 ||dmv.events^
+||dogofhonor.events^
 ||dopo.events^
 ||double-a.events^
 ||droneshowinfo.events^
@@ -223,6 +235,7 @@
 ||emeraldluxe.events^
 ||emmanuelle.events^
 ||eremitage.events^
+||esp.events^
 ||ethenalab.events^
 ||ethenalabcoinfi.events^
 ||ethenalabfi.events^
@@ -246,10 +259,12 @@
 ||everyworldai.events^
 ||everyworldfi.events^
 ||evry.events^
+||exclusivegreens.events^
 ||eye2eye.events^
 ||f2d.events^
 ||fanaticsports.events^
 ||fashionshow.events^
+||fatherofmeme.events^
 ||favors.events^
 ||federated.events^
 ||feelfree.events^
@@ -279,10 +294,12 @@
 ||fullserve.events^
 ||fulltilt.events^
 ||funnel.events^
+||funonpurpose.events^
 ||furiosa.events^
 ||futurecollective.events^
 ||futurfaith.events^
 ||ga6789.events^
+||gametime.events^
 ||gathera.events^
 ||gathermore.events^
 ||gatherpress.events^
@@ -310,6 +327,7 @@
 ||groovea.events^
 ||gueterbahnhof-alsfeld.events^
 ||guk.events^
+||gunfire.events^
 ||gurtam.events^
 ||gwas.events^
 ||gyropalooza.events^
@@ -325,6 +343,8 @@
 ||hcaptcha.events^
 ||hcfm.events^
 ||helden.events^
+||hello-one.events^
+||helloculturemesa.events^
 ||helloyellow.events^
 ||hers.events^
 ||highmaintenance.events^
@@ -409,6 +429,7 @@
 ||llyrn.events^
 ||lme.events^
 ||londonky.events^
+||longboard.events^
 ||lopanto.events^
 ||lv33.events^
 ||madscientistlabfi.events^
@@ -494,6 +515,7 @@
 ||next-door.events^
 ||nicholson.events^
 ||noa.events^
+||nodeaifinanceio.events^
 ||non-profit.events^
 ||normiebasedefi.events^
 ||nosara.events^
@@ -513,6 +535,7 @@
 ||ogkush.events^
 ||oldtimerbus-mieten.events^
 ||olympian.events^
+||omninetworkdefi.events^
 ||onbeamdefi.events^
 ||onda.events^
 ||one88.events^
@@ -546,6 +569,7 @@
 ||paaltrading.events^
 ||pageview.events^
 ||palfinger.events^
+||palmtradingai.events^
 ||pancakeswap.events^
 ||pandorasnetwork.events^
 ||panicomix.events^
@@ -573,12 +597,14 @@
 ||praetorian.events^
 ||praga.events^
 ||prairiepulse.events^
+||primesports.events^
 ||primex.events^
 ||prinzedelhirsch.events^
 ||prismafi.events^
 ||proclamation.events^
 ||progenia.events^
 ||promeet.events^
+||promenade.events^
 ||propass.events^
 ||proponentlabs.events^
 ||prosto.events^
@@ -598,6 +624,7 @@
 ||qna.events^
 ||qrtoto.events^
 ||queencity.events^
+||quickinfo.events^
 ||quicksilver.events^
 ||quintessence.events^
 ||random.events^
@@ -625,6 +652,7 @@
 ||ripple-x2.events^
 ||riser.events^
 ||ritzparis.events^
+||rivalzaiprotocol.events^
 ||rndm.events^
 ||rodeo.events^
 ||ronny.events^
@@ -733,16 +761,20 @@
 ||tatyoo.events^
 ||teamintegral.events^
 ||techconferences.events^
+||technoise.events^
+||techtalk.events^
 ||templum.events^
 ||tensor.events^
 ||tera.events^
 ||tethr.events^
 ||thaali.events^
 ||the-flying-dutchman.events^
+||thefutureofwork.events^
 ||thegallery.events^
 ||thegrovefl.events^
 ||thehousesyndicate.events^
 ||thelegendsball.events^
+||theluxe.events^
 ||themindsurf.events^
 ||thenetwork.events^
 ||thetable.events^
@@ -776,6 +808,7 @@
 ||twoonetwo.events^
 ||txp.events^
 ||tycoon.events^
+||tyru.events^
 ||tzdgc.events^
 ||una.events^
 ||unfassbar.events^
@@ -827,6 +860,7 @@
 ||wejustclick.events^
 ||wellconnected.events^
 ||wendyandfriends.events^
+||wevibe.events^
 ||whitehouse.events^
 ||whitetailhall.events^
 ||willyoubethree.events^
@@ -857,3 +891,4 @@
 ||zootown.events^
 ||zssbecker.events^
 ||zuma.events^
+||zur.events^

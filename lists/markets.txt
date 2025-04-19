@@ -7,6 +7,7 @@
 ||activision.markets^
 ||afx.markets^
 ||aiagents.markets^
+||ainfinia.markets^
 ||aiweb.markets^
 ||alphaflow.markets^
 ||american.markets^
@@ -38,6 +39,7 @@
 ||clade.markets^
 ||comert.markets^
 ||crateandbarrel.markets^
+||create.markets^
 ||cthulhu.markets^
 ||cxt.markets^
 ||cyft.markets^
@@ -59,6 +61,7 @@
 ||figure.markets^
 ||finex.markets^
 ||flipside.markets^
+||fmhb.markets^
 ||foto.markets^
 ||frame.markets^
 ||goldrush.markets^
@@ -77,7 +80,9 @@
 ||icell-tech.markets^
 ||ifarm.markets^
 ||insightfx.markets^
+||intuitive.markets^
 ||item.markets^
+||jet.markets^
 ||jump.markets^
 ||keyper.markets^
 ||kraken.markets^
@@ -110,8 +115,10 @@
 ||olbxwin.markets^
 ||olivetrade.markets^
 ||olv.markets^
+||onex.markets^
 ||opportunity.markets^
 ||oro.markets^
+||overstock.markets^
 ||pacific.markets^
 ||pancakeswap.markets^
 ||pariharspices.markets^
@@ -119,7 +126,9 @@
 ||pg99.markets^
 ||pickleball.markets^
 ||ptliga.markets^
+||pyng.markets^
 ||qday.markets^
+||quantifr.markets^
 ||quantumfx.markets^
 ||quasar.markets^
 ||questrevbot.markets^
@@ -170,6 +179,7 @@
 ||wby.markets^
 ||webmaster.markets^
 ||website.markets^
+||weekend.markets^
 ||windsurf.markets^
 ||wiz.markets^
 ||woodcarving.markets^
@@ -178,3 +188,5 @@
 ||xcg.markets^
 ||xd.markets^
 ||yes.markets^
+||ywo.markets^
+||zola.markets^
