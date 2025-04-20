@@ -38,6 +38,7 @@
 ||charles-schwab.markets^
 ||clade.markets^
 ||comert.markets^
+||conscious-capital.markets^
 ||crateandbarrel.markets^
 ||create.markets^
 ||cthulhu.markets^
@@ -51,7 +52,6 @@
 ||e2bet.markets^
 ||economico.markets^
 ||edgewp.markets^
-||edx.markets^
 ||ethgas.markets^
 ||exbit.markets^
 ||exposed.markets^
@@ -60,9 +60,9 @@
 ||faraday.markets^
 ||figure.markets^
 ||finex.markets^
+||fireblocks.markets^
 ||flipside.markets^
 ||fmhb.markets^
-||foto.markets^
 ||frame.markets^
 ||goldrush.markets^
 ||greenquestincome.markets^
@@ -76,12 +76,13 @@
 ||highticketaffiliate.markets^
 ||honor.markets^
 ||hope.markets^
-||ibank.markets^
 ||icell-tech.markets^
 ||ifarm.markets^
+||information.markets^
 ||insightfx.markets^
 ||intuitive.markets^
 ||item.markets^
+||jawaraplay.markets^
 ||jet.markets^
 ||jump.markets^
 ||keyper.markets^
@@ -93,7 +94,6 @@
 ||luna.markets^
 ||lunar.markets^
 ||mainst.markets^
-||mainstreet.markets^
 ||makeroom.markets^
 ||makeroomspace.markets^
 ||mention.markets^
@@ -106,8 +106,6 @@
 ||nearshore.markets^
 ||netcash.markets^
 ||next-door.markets^
-||nexussmartliving.markets^
-||nialfuller.markets^
 ||octopus.markets^
 ||ofm.markets^
 ||oja.markets^
@@ -136,7 +134,6 @@
 ||radius.markets^
 ||reach.markets^
 ||rebalance.markets^
-||regulation.markets^
 ||remedy.markets^
 ||rendezvous.markets^
 ||reputation.markets^
@@ -152,7 +149,6 @@
 ||scale.markets^
 ||school.markets^
 ||shared.markets^
-||shift.markets^
 ||signup.markets^
 ||slop.markets^
 ||snowball.markets^
@@ -160,7 +156,6 @@
 ||sonar.markets^
 ||sport.markets^
 ||spyhive.markets^
-||stockinsightsai.markets^
 ||sure.markets^
 ||tag.markets^
 ||tao.markets^
@@ -171,6 +166,7 @@
 ||tippingpoint.markets^
 ||topcut.markets^
 ||tpu.markets^
+||trajan.markets^
 ||tvl.markets^
 ||unlistedshare.markets^
 ||upi.markets^
@@ -178,7 +174,6 @@
 ||volt.markets^
 ||wby.markets^
 ||webmaster.markets^
-||website.markets^
 ||weekend.markets^
 ||windsurf.markets^
 ||wiz.markets^

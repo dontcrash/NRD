@@ -5,12 +5,10 @@
 ||a2a.cards^
 ||aaronstarot.cards^
 ||abra.cards^
-||abyss.cards^
 ||act.cards^
-||aeon-ja.cards^
-||aeon-jp.cards^
 ||aiagent.cards^
 ||aigifts.cards^
+||allen.cards^
 ||angelwings.cards^
 ||arkids.cards^
 ||artificial.cards^
@@ -37,6 +35,7 @@
 ||calculator.cards^
 ||cara.cards^
 ||cardconnect.cards^
+||cardify.cards^
 ||cardpayment.cards^
 ||cashcredit.cards^
 ||centered.cards^
@@ -91,8 +90,10 @@
 ||ferti.cards^
 ||fertility.cards^
 ||fi-safety.cards^
+||fi.cards^
 ||findme.cards^
 ||fishman.cards^
+||flipp.cards^
 ||flipping.cards^
 ||flyback.cards^
 ||fortune.cards^
@@ -137,8 +138,8 @@
 ||lunch-check.cards^
 ||luxurybusiness.cards^
 ||macbay.cards^
-||mania.cards^
 ||markstutzman.cards^
+||masahub.cards^
 ||master-3d.cards^
 ||master-co.cards^
 ||master-id.cards^
@@ -158,12 +159,10 @@
 ||moviespapa.cards^
 ||mpti.cards^
 ||multiply.cards^
-||mvipi.cards^
 ||my-jcb.cards^
 ||my-master.cards^
 ||mydig.cards^
 ||myjcb-co.cards^
-||myjcb-ja.cards^
 ||myjcb-jp.cards^
 ||mymaster.cards^
 ||mypoint.cards^
@@ -216,7 +215,6 @@
 ||salarymaxprepaid.cards^
 ||saltcity.cards^
 ||sarrefha.cards^
-||scan.cards^
 ||sealed.cards^
 ||seeker.cards^
 ||sendpost.cards^
@@ -235,8 +233,10 @@
 ||start.cards^
 ||sugar.cards^
 ||switch.cards^
+||taplink.cards^
 ||tapx.cards^
 ||tarotapi.cards^
+||teachme.cards^
 ||techflash.cards^
 ||thebreakroom.cards^
 ||thecraftyloft.cards^
@@ -255,7 +255,6 @@
 ||usd1.cards^
 ||varnz.cards^
 ||vaulted.cards^
-||viciousemporium.cards^
 ||visa-jp.cards^
 ||visual.cards^
 ||vivre.cards^
