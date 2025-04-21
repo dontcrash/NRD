@@ -21,11 +21,11 @@
 ||auth.cards^
 ||autosend.cards^
 ||balatro.cards^
+||bcgame.cards^
 ||bet-20.cards^
 ||bet20casino.cards^
 ||blacksheep.cards^
 ||blankwhite.cards^
-||bnb.cards^
 ||bnbbtc.cards^
 ||bonsai.cards^
 ||bountyboosters.cards^
@@ -34,7 +34,6 @@
 ||cadence.cards^
 ||calculator.cards^
 ||cara.cards^
-||cardconnect.cards^
 ||cardify.cards^
 ||cardpayment.cards^
 ||cashcredit.cards^
@@ -54,7 +53,9 @@
 ||contact.cards^
 ||contxt.cards^
 ||coopers.cards^
+||copenhagen.cards^
 ||cozy.cards^
+||crosschain.cards^
 ||cryptobet.cards^
 ||cryptogame.cards^
 ||cryptoo.cards^
@@ -67,6 +68,7 @@
 ||debitt.cards^
 ||deckbake.cards^
 ||deckof.cards^
+||deez.cards^
 ||den.cards^
 ||designshift.cards^
 ||desiremovies.cards^
@@ -78,12 +80,15 @@
 ||doctorcard.cards^
 ||doncuts.cards^
 ||drai.cards^
+||drone.cards^
 ||echo.cards^
 ||emporium.cards^
 ||evo.cards^
 ||exalted.cards^
 ||exam.cards^
 ||excuse.cards^
+||ezqr.cards^
+||ezqrbiz.cards^
 ||fastprint.cards^
 ||felix.cards^
 ||fenibe.cards^
@@ -112,7 +117,6 @@
 ||gordon.cards^
 ||happy.cards^
 ||headliner.cards^
-||helxpay.cards^
 ||hijrah.cards^
 ||hitch.cards^
 ||ilocal.cards^
@@ -137,7 +141,6 @@
 ||lumon.cards^
 ||lunch-check.cards^
 ||luxurybusiness.cards^
-||macbay.cards^
 ||markstutzman.cards^
 ||masahub.cards^
 ||master-3d.cards^
@@ -162,11 +165,11 @@
 ||my-jcb.cards^
 ||my-master.cards^
 ||mydig.cards^
+||myice.cards^
 ||myjcb-co.cards^
 ||myjcb-jp.cards^
 ||mymaster.cards^
 ||mypoint.cards^
-||n88.cards^
 ||nap.cards^
 ||neko.cards^
 ||nexus-pay.cards^
@@ -193,11 +196,12 @@
 ||plati.cards^
 ||please.cards^
 ||porichoy.cards^
-||porterpost.cards^
+||prague.cards^
 ||presentable.cards^
 ||printz.cards^
 ||privatejet.cards^
 ||privatepay.cards^
+||qrbiz.cards^
 ||qrn.cards^
 ||qualiteatime.cards^
 ||rakuten-co.cards^
@@ -224,6 +228,8 @@
 ||sigmanfc.cards^
 ||skymovieshd.cards^
 ||skysetx.cards^
+||slabless.cards^
+||smb.cards^
 ||spacenation.cards^
 ||spanish.cards^
 ||speak.cards^
@@ -236,6 +242,7 @@
 ||taplink.cards^
 ||tapx.cards^
 ||tarotapi.cards^
+||tarottap.cards^
 ||teachme.cards^
 ||techflash.cards^
 ||thebreakroom.cards^
@@ -245,8 +252,6 @@
 ||totalcontact.cards^
 ||trackmy.cards^
 ||travel.cards^
-||tron.cards^
-||trx.cards^
 ||typology.cards^
 ||uba.cards^
 ||ultimate.cards^

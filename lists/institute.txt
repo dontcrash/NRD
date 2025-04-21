@@ -50,7 +50,6 @@
 ||asie-campus.institute^
 ||assistant.institute^
 ||assisting.institute^
-||australasian.institute^
 ||automata.institute^
 ||bachelor.institute^
 ||baptism.institute^
@@ -91,7 +90,6 @@
 ||cloak.institute^
 ||codewave.institute^
 ||commerce.institute^
-||common-wealth.institute^
 ||concepts.institute^
 ||conscious-capital.institute^
 ||corecode.institute^
@@ -111,8 +109,7 @@
 ||deeplearn.institute^
 ||degen.institute^
 ||design-thinking.institute^
-||designsprint.institute^
-||designthinking.institute^
+||deso.institute^
 ||devilsadvocate.institute^
 ||digitalcrest.institute^
 ||digitallearning.institute^
@@ -142,7 +139,7 @@
 ||eitelwolf.institute^
 ||eksu.institute^
 ||elpis.institute^
-||em.institute^
+||elysium.institute^
 ||empatium.institute^
 ||employeeengagement.institute^
 ||equityworks.institute^
@@ -168,6 +165,7 @@
 ||fractionalcmo.institute^
 ||fractionalmarketing.institute^
 ||freedombusiness.institute^
+||freespeech.institute^
 ||frenchriviera.institute^
 ||fyrstgen.institute^
 ||gali.institute^
@@ -215,6 +213,7 @@
 ||injaz.institute^
 ||innerskills.institute^
 ||innovaraspinepain.institute^
+||innovativedrone.institute^
 ||integrativeexpressiveart.institute^
 ||interviewing.institute^
 ||intransit.institute^
@@ -223,6 +222,7 @@
 ||isbp.institute^
 ||ites.institute^
 ||itexamit.institute^
+||iti.institute^
 ||itsu.institute^
 ||jacksonandmilliespaderfoundation.institute^
 ||jamestrappenationaltruffle.institute^
@@ -231,7 +231,6 @@
 ||kayabola.institute^
 ||keepersofoddknowledge.institute^
 ||ketaminetraining.institute^
-||kht.institute^
 ||ki.institute^
 ||kini.institute^
 ||kipthecosmic.institute^
@@ -243,6 +242,8 @@
 ||learnbridge.institute^
 ||leonas.institute^
 ||lev.institute^
+||lfg.institute^
+||lockhartlab.institute^
 ||londontec.institute^
 ||longevity-policy.institute^
 ||longevitypolicy.institute^
@@ -251,13 +252,11 @@
 ||manda.institute^
 ||marege.institute^
 ||marketplace.institute^
-||martabak188.institute^
 ||meelk.institute^
 ||mehrwerk.institute^
 ||memecoin.institute^
 ||memora.institute^
 ||mental-fitness.institute^
-||mentat.institute^
 ||mentorium.institute^
 ||mfg.institute^
 ||mgr.institute^
@@ -268,7 +267,6 @@
 ||mindel.institute^
 ||mixedreality.institute^
 ||mode.institute^
-||modular.institute^
 ||monstrum.institute^
 ||morningstar.institute^
 ||mortgage.institute^
@@ -296,6 +294,7 @@
 ||panyapradit.institute^
 ||parau.institute^
 ||paruleducationfoundation.institute^
+||passerelle.institute^
 ||passiontoprofession.institute^
 ||pathintegral.institute^
 ||pathway.institute^
@@ -306,27 +305,24 @@
 ||pendragon.institute^
 ||perfect.institute^
 ||permosaic.institute^
-||pervasiveintelligence.institute^
 ||phenomena.institute^
 ||philosophies.institute^
 ||poly.institute^
+||pq.institute^
 ||praeventium.institute^
 ||prompt.institute^
 ||prostaticum.institute^
-||proxy.institute^
 ||psp.institute^
 ||psychedelicmindset.institute^
 ||qinghuaedu.institute^
 ||quantamental.institute^
 ||quantitativefinance.institute^
 ||quantumintelligence.institute^
-||quantumpolicy.institute^
 ||queensway.institute^
 ||quick.institute^
 ||radius.institute^
 ||rain.institute^
 ||ranepa.institute^
-||realestate.institute^
 ||reflori.institute^
 ||reign.institute^
 ||renepa.institute^
@@ -375,6 +371,7 @@
 ||thebrandcopilot.institute^
 ||thebulbafrica.institute^
 ||thecarbonarc.institute^
+||thecheshire.institute^
 ||theiris.institute^
 ||themindbodybiology.institute^
 ||theologies.institute^
@@ -393,7 +390,6 @@
 ||traffic.institute^
 ||truist.institute^
 ||trump.institute^
-||typology.institute^
 ||ummahwasatiyyah.institute^
 ||unhitched.institute^
 ||unity.institute^
@@ -406,6 +402,7 @@
 ||venn.institute^
 ||vibecode.institute^
 ||virology.institute^
+||vitalphysiology.institute^
 ||vyas4.institute^
 ||w-5.institute^
 ||wake.institute^

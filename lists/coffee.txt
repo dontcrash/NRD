@@ -23,6 +23,8 @@
 ||align.coffee^
 ||alongside.coffee^
 ||alya.coffee^
+||amazonia.coffee^
+||ambers.coffee^
 ||amwisof.coffee^
 ||anah.coffee^
 ||anddestroy.coffee^
@@ -35,13 +37,11 @@
 ||arab.coffee^
 ||arabeans.coffee^
 ||ardenthouse.coffee^
-||arhistoria.coffee^
 ||arka.coffee^
 ||artisans.coffee^
 ||ascendello.coffee^
 ||asip.coffee^
 ||atomo.coffee^
-||attilio.coffee^
 ||atul.coffee^
 ||autentica.coffee^
 ||azarix.coffee^
@@ -51,6 +51,7 @@
 ||bailey.coffee^
 ||bajadesertdecaf.coffee^
 ||bajaroast.coffee^
+||bakeandbrew.coffee^
 ||bananabean.coffee^
 ||bangalore.coffee^
 ||barista-united.coffee^
@@ -86,7 +87,6 @@
 ||blessings.coffee^
 ||blogs.coffee^
 ||bluecrab.coffee^
-||bluedot.coffee^
 ||blueiguana.coffee^
 ||blvcksheep.coffee^
 ||bmore.coffee^
@@ -99,6 +99,7 @@
 ||boxha.coffee^
 ||breakfastand.coffee^
 ||brewandcraft.coffee^
+||brewgo.coffee^
 ||brewlicious.coffee^
 ||brewlo.coffee^
 ||brewmasters.coffee^
@@ -110,14 +111,12 @@
 ||brokeandboujee.coffee^
 ||bromelia.coffee^
 ||brotein.coffee^
-||browny.coffee^
 ||bullseye.coffee^
 ||buy-me.coffee^
 ||buya.coffee^
 ||bvr.coffee^
 ||cac.coffee^
 ||cafe127.coffee^
-||cafelo.coffee^
 ||cafephile.coffee^
 ||cafephiles.coffee^
 ||calf.coffee^
@@ -138,7 +137,6 @@
 ||chatchai.coffee^
 ||cherub.coffee^
 ||ciaokakao.coffee^
-||circleback.coffee^
 ||cjbdbc.coffee^
 ||coalition.coffee^
 ||cocogreen.coffee^
@@ -152,6 +150,7 @@
 ||colono.coffee^
 ||comma.coffee^
 ||commonscents.coffee^
+||compilation.coffee^
 ||computerfullof.coffee^
 ||confinedspace.coffee^
 ||coolbean.coffee^
@@ -166,7 +165,6 @@
 ||crosscut.coffee^
 ||crumbslut.coffee^
 ||cti.coffee^
-||cube.coffee^
 ||cva.coffee^
 ||dani.coffee^
 ||darwish.coffee^
@@ -178,6 +176,7 @@
 ||decafe.coffee^
 ||decaffed.coffee^
 ||dekka.coffee^
+||deso.coffee^
 ||diabetic.coffee^
 ||dimoka.coffee^
 ||divineintervention.coffee^
@@ -187,7 +186,8 @@
 ||dogue.coffee^
 ||dojo.coffee^
 ||domos.coffee^
-||dont-talk-to-me-before.coffee^
+||donpancho.coffee^
+||dragoast.coffee^
 ||drinkepicslim.coffee^
 ||drinkthis.coffee^
 ||drowsypoet.coffee^
@@ -202,12 +202,12 @@
 ||earlybirds.coffee^
 ||eataly.coffee^
 ||eb101.coffee^
+||ecc.coffee^
 ||edinburghpressclub.coffee^
 ||ediya.coffee^
 ||ee88.coffee^
 ||ehsas.coffee^
 ||eiai.coffee^
-||elon.coffee^
 ||elxr.coffee^
 ||endemic.coffee^
 ||espoir.coffee^
@@ -238,13 +238,11 @@
 ||flocksocial.coffee^
 ||focusmanfocus.coffee^
 ||fool.coffee^
-||forbesriley.coffee^
 ||foureyes.coffee^
-||frega.coffee^
+||fourgrounds.coffee^
 ||fts.coffee^
 ||fullcourtpress.coffee^
 ||gamebaidoithuong.coffee^
-||gameday.coffee^
 ||generic.coffee^
 ||gentleman.coffee^
 ||gfzcwb.coffee^
@@ -281,12 +279,12 @@
 ||hijinx.coffee^
 ||hijrah.coffee^
 ||hillside.coffee^
-||hio.coffee^
 ||hit.coffee^
 ||hkkim0505fsa.coffee^
+||hoffman.coffee^
+||hoffmans.coffee^
 ||hopper.coffee^
 ||horizons.coffee^
-||hotshot.coffee^
 ||hotsports.coffee^
 ||how-to.coffee^
 ||huongviet.coffee^
@@ -295,7 +293,6 @@
 ||iksi.coffee^
 ||iluv.coffee^
 ||imho.coffee^
-||inbetween.coffee^
 ||informed.coffee^
 ||innerfire.coffee^
 ||insidethecup.coffee^
@@ -313,7 +310,7 @@
 ||jeycdq.coffee^
 ||jezz.coffee^
 ||jitteryjoes.coffee^
-||jmc.coffee^
+||jo.coffee^
 ||jonathans.coffee^
 ||joyof.coffee^
 ||juicycoffeeroasters.coffee^
@@ -348,7 +345,6 @@
 ||kurakura.coffee^
 ||kurlovich.coffee^
 ||kurobrew.coffee^
-||kuyas.coffee^
 ||kyoto.coffee^
 ||kyotostyle.coffee^
 ||labfantastico.coffee^
@@ -379,7 +375,6 @@
 ||loukies.coffee^
 ||luve.coffee^
 ||lyric.coffee^
-||macbeth.coffee^
 ||macizo.coffee^
 ||madness.coffee^
 ||maintainers.coffee^
@@ -387,6 +382,7 @@
 ||mamma.coffee^
 ||mammam.coffee^
 ||marco.coffee^
+||martini.coffee^
 ||masterofspecialty.coffee^
 ||mba.coffee^
 ||mce.coffee^
@@ -427,7 +423,6 @@
 ||mulberrycafe.coffee^
 ||musicmeets.coffee^
 ||namakubi.coffee^
-||napier.coffee^
 ||navero.coffee^
 ||neem.coffee^
 ||neighbours.coffee^
@@ -437,8 +432,8 @@
 ||neuva.coffee^
 ||nha.coffee^
 ||nhybwy.coffee^
+||niceday.coffee^
 ||nicole.coffee^
-||nightmare-before.coffee^
 ||nobs.coffee^
 ||nomoo.coffee^
 ||nood.coffee^
@@ -461,7 +456,6 @@
 ||obiis.coffee^
 ||october.coffee^
 ||odelice.coffee^
-||odin.coffee^
 ||ohwow.coffee^
 ||olas.coffee^
 ||oozy.coffee^
@@ -471,7 +465,6 @@
 ||outdoorgrind.coffee^
 ||oya.coffee^
 ||pabloescobar.coffee^
-||palette.coffee^
 ||pan.coffee^
 ||pantiwayta.coffee^
 ||pat.coffee^
@@ -487,9 +480,9 @@
 ||phoenix.coffee^
 ||piano.coffee^
 ||pick.coffee^
+||pikebay.coffee^
 ||pivot.coffee^
 ||pjs.coffee^
-||plt.coffee^
 ||plume.coffee^
 ||poli.coffee^
 ||pourchoices.coffee^
@@ -500,6 +493,7 @@
 ||profile.coffee^
 ||projectmambo.coffee^
 ||provision.coffee^
+||pulse.coffee^
 ||punched.coffee^
 ||purposefueled.coffee^
 ||qawa.coffee^
@@ -535,6 +529,9 @@
 ||ruh.coffee^
 ||ruota.coffee^
 ||rype.coffee^
+||sacred.coffee^
+||sacredcup.coffee^
+||sacredcups.coffee^
 ||salaam.coffee^
 ||saltmarsh.coffee^
 ||saltspring.coffee^
@@ -555,9 +552,6 @@
 ||simomento.coffee^
 ||sixbeans.coffee^
 ||skeptic.coffee^
-||sleepycabbie.coffee^
-||sleepycabby.coffee^
-||sleeycabbie.coffee^
 ||slim.coffee^
 ||slop.coffee^
 ||slowlane.coffee^
@@ -571,6 +565,7 @@
 ||somewhereinbetween.coffee^
 ||sotterraneo.coffee^
 ||soulsisters.coffee^
+||sourceswift.coffee^
 ||spiritorigin.coffee^
 ||splash.coffee^
 ||starbuckets.coffee^
@@ -604,13 +599,13 @@
 ||terug.coffee^
 ||texasgrounds.coffee^
 ||texasgroundscoffee.coffee^
-||thebrewcamp.coffee^
 ||thedarkroom.coffee^
 ||thelittleespresso.coffee^
 ||thenomad.coffee^
+||theparlor.coffee^
 ||theparlour.coffee^
 ||theplatform.coffee^
-||thinkwith.coffee^
+||theusual.coffee^
 ||three.coffee^
 ||tino.coffee^
 ||tinylots.coffee^
@@ -623,8 +618,9 @@
 ||travelwith.coffee^
 ||tribu.coffee^
 ||triple.coffee^
-||twilight.coffee^
 ||twinflame.coffee^
+||twisteddog.coffee^
+||uba168.coffee^
 ||ufabet888.coffee^
 ||ultrasport.coffee^
 ||uncaged.coffee^
@@ -672,10 +668,10 @@
 ||xbt.coffee^
 ||xoxo.coffee^
 ||xtalkers.coffee^
+||yafi.coffee^
 ||ycdymd.coffee^
 ||ydmdyg.coffee^
 ||you-are-more.coffee^
-||zennootropics.coffee^
 ||zerolab.coffee^
 ||zup.coffee^
 ||zur.coffee^

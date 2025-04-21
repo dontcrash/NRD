@@ -37,6 +37,7 @@
 ||bcf.partners^
 ||blackflag.partners^
 ||blackhat.partners^
+||blackstar.partners^
 ||blocks.partners^
 ||blue-sail.partners^
 ||bluebrick.partners^
@@ -55,7 +56,6 @@
 ||capacity.partners^
 ||capitaltalent.partners^
 ||carystreet.partners^
-||caseprolawyers.partners^
 ||casinera.partners^
 ||cessna400.partners^
 ||charlie.partners^
@@ -113,7 +113,6 @@
 ||fractionalmarketing.partners^
 ||fw.partners^
 ||fxdd.partners^
-||g8strategic.partners^
 ||gauss-capital.partners^
 ||gazprom-ryadom.partners^
 ||getirbet.partners^
@@ -122,15 +121,14 @@
 ||govpath.partners^
 ||gravitation.partners^
 ||greatlife.partners^
+||greenleaf.partners^
 ||gresham.partners^
 ||grinex.partners^
 ||grip.partners^
 ||groundwork.partners^
 ||gummy.partners^
 ||hac.partners^
-||hanriver.partners^
 ||harimau.partners^
-||healthbiotech.partners^
 ||healthconnect.partners^
 ||hexium.partners^
 ||hmslot99.partners^
@@ -144,6 +142,8 @@
 ||illuminateadvisory.partners^
 ||info-booking.partners^
 ||infraterra.partners^
+||integratedhealth.partners^
+||integratedmedical.partners^
 ||invariant.partners^
 ||investment101.partners^
 ||iroise.partners^
@@ -197,6 +197,7 @@
 ||merchandise.partners^
 ||meridiancapital.partners^
 ||mfcap.partners^
+||mff.partners^
 ||milano.partners^
 ||milestones.partners^
 ||modelcontext.partners^
@@ -207,7 +208,6 @@
 ||nearby.partners^
 ||nearshore.partners^
 ||neural.partners^
-||neuroscience.partners^
 ||nexora.partners^
 ||next-level.partners^
 ||nickname.partners^
@@ -222,6 +222,7 @@
 ||ordo.partners^
 ||orefin.partners^
 ||oria.partners^
+||orioncapital.partners^
 ||osmaps.partners^
 ||overland.partners^
 ||oxbet.partners^
@@ -234,7 +235,6 @@
 ||papa.partners^
 ||paradym.partners^
 ||pentagon.partners^
-||peptide.partners^
 ||pg.partners^
 ||pigment.partners^
 ||pillaralliance.partners^
@@ -295,22 +295,20 @@
 ||spinit.partners^
 ||srm.partners^
 ||sss.partners^
-||staff.partners^
 ||staking.partners^
 ||starpath.partners^
 ||stephen.partners^
 ||sterlingnorth.partners^
+||sun52.partners^
 ||sundaycoast.partners^
 ||super.partners^
 ||superafrica.partners^
-||syf.partners^
 ||symbiotic.partners^
 ||syntellect.partners^
 ||taocapital.partners^
 ||taxo.partners^
 ||tbq.partners^
 ||terms-booking.partners^
-||terrapin.partners^
 ||thegig.partners^
 ||thetravel.partners^
 ||thoughtleadership.partners^
@@ -321,10 +319,8 @@
 ||tournament.partners^
 ||trade.partners^
 ||trades.partners^
-||tradetitan.partners^
 ||treehouse.partners^
 ||trisec.partners^
-||tsp.partners^
 ||uk88.partners^
 ||uncommonstrategy.partners^
 ||undercover.partners^
@@ -335,7 +331,6 @@
 ||urbani.partners^
 ||utp.partners^
 ||uvc.partners^
-||vanguardhealth.partners^
 ||vegapartnerscontact.partners^
 ||velvet.partners^
 ||verse.partners^

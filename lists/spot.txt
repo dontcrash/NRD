@@ -2,6 +2,7 @@
 ||aetna.spot^
 ||alexa.spot^
 ||amazon.spot^
+||apple.spot^
 ||audible.spot^
 ||aws.spot^
 ||b-and-b-hotels.spot^
@@ -10,6 +11,7 @@
 ||bandbhotels.spot^
 ||bb-hotels.spot^
 ||bbhotels.spot^
+||beats.spot^
 ||blackrock.spot^
 ||breitling.spot^
 ||broadcom.spot^
@@ -44,6 +46,7 @@
 ||limelife.spot^
 ||linkedin.spot^
 ||loccitane.spot^
+||mac.spot^
 ||markmonitor.spot^
 ||melvita.spot^
 ||microsoft.spot^
@@ -79,8 +82,10 @@
 ||vinciautoroutes.spot^
 ||vinciconcessions.spot^
 ||vinciconstruction.spot^
+||visionpro.spot^
 ||vmware.spot^
 ||vuori.spot^
+||walmart.spot^
 ||wondery.spot^
 ||xfinity.spot^
 ||yahoo.spot^
