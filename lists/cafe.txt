@@ -51,7 +51,6 @@
 ||affogato.cafe^
 ||afterlife.cafe^
 ||ages.cafe^
-||agora.cafe^
 ||ahora.cafe^
 ||ainet.cafe^
 ||alaboneur.cafe^
@@ -72,6 +71,7 @@
 ||applying.cafe^
 ||aquabelle.cafe^
 ||artgallery.cafe^
+||ascii.cafe^
 ||asian-food.cafe^
 ||atm.cafe^
 ||authenticlife.cafe^
@@ -98,6 +98,7 @@
 ||biscotti.cafe^
 ||bj888.cafe^
 ||bkeefi.cafe^
+||blackline.cafe^
 ||blahaj.cafe^
 ||blattgold.cafe^
 ||bleu.cafe^
@@ -107,17 +108,16 @@
 ||bluecrab.cafe^
 ||blushbrew.cafe^
 ||bnf.cafe^
+||bobai.cafe^
 ||bomdough.cafe^
 ||bosho.cafe^
 ||bourbonst.cafe^
 ||brainfarm.cafe^
-||brands.cafe^
 ||brewlato.cafe^
 ||bridgehouse.cafe^
 ||bridgewater.cafe^
 ||bruks.cafe^
 ||bsc.cafe^
-||bubet.cafe^
 ||bughunters.cafe^
 ||bulldog.cafe^
 ||burgerdownunder.cafe^
@@ -127,7 +127,6 @@
 ||cadde.cafe^
 ||caelus.cafe^
 ||cafe-lencas.cafe^
-||cafecomdeuspai.cafe^
 ||cafexotica.cafe^
 ||camp.cafe^
 ||carajillo.cafe^
@@ -171,7 +170,6 @@
 ||datanews.cafe^
 ||daze.cafe^
 ||deep-seek.cafe^
-||degeit.cafe^
 ||dementia.cafe^
 ||deralounge.cafe^
 ||dieeisdealer.cafe^
@@ -189,7 +187,6 @@
 ||donation.cafe^
 ||doncampo.cafe^
 ||doors.cafe^
-||dorothys.cafe^
 ||downstairs.cafe^
 ||drbrew.cafe^
 ||dreame.cafe^
@@ -198,6 +195,7 @@
 ||duellum.cafe^
 ||duma.cafe^
 ||ear.cafe^
+||early-bird.cafe^
 ||ehsas.cafe^
 ||eirene.cafe^
 ||eisliebe.cafe^
@@ -215,7 +213,6 @@
 ||fatherland.cafe^
 ||favor.cafe^
 ||ferris.cafe^
-||fig.cafe^
 ||filtered.cafe^
 ||financial.cafe^
 ||fitoor.cafe^
@@ -255,7 +252,6 @@
 ||hbkoe.cafe^
 ||healthyleadership.cafe^
 ||hearing.cafe^
-||henhouse.cafe^
 ||hichki.cafe^
 ||hideaway.cafe^
 ||higherground.cafe^
@@ -277,6 +273,7 @@
 ||imageneration.cafe^
 ||imaginenash.cafe^
 ||imaginenation.cafe^
+||imposters.cafe^
 ||inthelyrics.cafe^
 ||intransigent.cafe^
 ||ioan.cafe^
@@ -301,7 +298,9 @@
 ||kopfkino.cafe^
 ||kudosgames.cafe^
 ||ladycs.cafe^
+||latte.cafe^
 ||lattidos.cafe^
+||laverdad.cafe^
 ||laxicara.cafe^
 ||leaders.cafe^
 ||league.cafe^
@@ -316,7 +315,6 @@
 ||lift.cafe^
 ||liner.cafe^
 ||littlebreak.cafe^
-||logostics.cafe^
 ||logout.cafe^
 ||loml.cafe^
 ||london.cafe^
@@ -327,19 +325,19 @@
 ||lostless.cafe^
 ||lovestorycocktail.cafe^
 ||luckeysouls.cafe^
-||lumos.cafe^
 ||madbanana.cafe^
 ||magazin.cafe^
 ||magnum.cafe^
 ||majazi.cafe^
+||majo.cafe^
 ||makerspace.cafe^
 ||makeup.cafe^
 ||manifest.cafe^
 ||manzil.cafe^
-||marbella.cafe^
 ||marcuccibiscotti.cafe^
 ||mariposa.cafe^
 ||maryandmarthas.cafe^
+||masaniello.cafe^
 ||maua.cafe^
 ||maxim.cafe^
 ||mcp.cafe^
@@ -368,7 +366,6 @@
 ||mtv.cafe^
 ||mucha.cafe^
 ||mysweetypie.cafe^
-||nabeels.cafe^
 ||namastay.cafe^
 ||natur.cafe^
 ||neio.cafe^
@@ -378,6 +375,7 @@
 ||nests.cafe^
 ||newgrowth.cafe^
 ||newyorkexpungementlaw.cafe^
+||newz.cafe^
 ||nieruchomosci.cafe^
 ||nihao.cafe^
 ||nismah.cafe^
@@ -390,6 +388,7 @@
 ||nowbean.cafe^
 ||nrxnt.cafe^
 ||nuna.cafe^
+||nurture.cafe^
 ||ocean.cafe^
 ||ok789.cafe^
 ||oldmac.cafe^
@@ -451,7 +450,6 @@
 ||readata.cafe^
 ||repair-it.cafe^
 ||ricos.cafe^
-||riparian.cafe^
 ||ritzparis.cafe^
 ||rizz.cafe^
 ||roastretreat.cafe^
@@ -472,8 +470,6 @@
 ||shelter.cafe^
 ||sherpa.cafe^
 ||shoes.cafe^
-||shoreline.cafe^
-||simfero.cafe^
 ||simulatte.cafe^
 ||sinfullysweet.cafe^
 ||siokolatas.cafe^
@@ -495,6 +491,7 @@
 ||stack.cafe^
 ||steelecreek.cafe^
 ||stevestonharbour.cafe^
+||stonewall.cafe^
 ||stoop.cafe^
 ||strati.cafe^
 ||stuck.cafe^
@@ -513,15 +510,16 @@
 ||tangle.cafe^
 ||tatli.cafe^
 ||tazade.cafe^
-||tdm.cafe^
 ||teacher.cafe^
 ||telegczlk.cafe^
 ||telehealth.cafe^
 ||telenurse.cafe^
 ||thebite.cafe^
+||thebobatea.cafe^
 ||thecoffeebar.cafe^
 ||thedarkroom.cafe^
 ||thedogpark.cafe^
+||thegalleryhawarden.cafe^
 ||thegully.cafe^
 ||thejays.cafe^
 ||theleaf.cafe^
@@ -546,7 +544,6 @@
 ||unreb.cafe^
 ||unzito.cafe^
 ||upskill.cafe^
-||urbancrunch.cafe^
 ||vara.cafe^
 ||variety.cafe^
 ||vatjy.cafe^
@@ -579,5 +576,4 @@
 ||yuwell.cafe^
 ||yuyue.cafe^
 ||zahrada.cafe^
-||zdeer.cafe^
 ||zepps.cafe^

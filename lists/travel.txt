@@ -37,14 +37,15 @@
 ||aoc.travel^
 ||aqcruise.travel^
 ||araucaniaandina.travel^
+||argentinatourism.travel^
 ||arkan.travel^
 ||arkrentals.travel^
 ||armonia.travel^
+||artesano.travel^
 ||asesores.travel^
 ||asolka.travel^
 ||atexperiences.travel^
 ||auraflo.travel^
-||aurorasejahteratour.travel^
 ||authland.travel^
 ||awayagain.travel^
 ||awaywego.travel^
@@ -69,14 +70,12 @@
 ||bossjp88.travel^
 ||boutik.travel^
 ||bovec.travel^
-||bucketlistcouple.travel^
 ||busbookingforafamilytrips.travel^
 ||bvt.travel^
 ||byrdhausholdings.travel^
 ||byrdseyeview.travel^
 ||byte.travel^
 ||cabottrail.travel^
-||california.travel^
 ||captainslog.travel^
 ||cash2bitcoin.travel^
 ||chao.travel^
@@ -87,6 +86,7 @@
 ||chupinazo.travel^
 ||cico.travel^
 ||ciudadperdida.travel^
+||clevel.travel^
 ||coati.travel^
 ||coinradar.travel^
 ||continent.travel^
@@ -103,8 +103,8 @@
 ||digicompass.travel^
 ||digital-adventures.travel^
 ||discoverchina.travel^
-||discovers.travel^
 ||diskaviya.travel^
+||docupass.travel^
 ||dreammakerelite.travel^
 ||dreamsunlimited.travel^
 ||drones.travel^
@@ -127,8 +127,8 @@
 ||europeanroadtrip.travel^
 ||eventuria.travel^
 ||evos.travel^
+||explorejapan.travel^
 ||explorezanzibar.travel^
-||exquisite.travel^
 ||fabluxur.travel^
 ||familyroad.travel^
 ||fareless.travel^
@@ -154,6 +154,7 @@
 ||gay.travel^
 ||geoworld.travel^
 ||globalesim.travel^
+||globalvoyagers.travel^
 ||goldenticket.travel^
 ||golfnomad.travel^
 ||golftours.travel^
@@ -162,7 +163,7 @@
 ||gorillasafari.travel^
 ||gozen.travel^
 ||greener.travel^
-||gsibali.travel^
+||grouptrip.travel^
 ||gtime.travel^
 ||guayaquil.travel^
 ||hainan.travel^
@@ -177,12 +178,16 @@
 ||holidayfactory.travel^
 ||holidaysuites.travel^
 ||horizonflights.travel^
+||hotelalbum.travel^
+||hotelsalbum.travel^
 ||hotelsjapan.travel^
+||hotelsolaris.travel^
 ||houdhaifa.travel^
 ||hue.travel^
 ||hyderabadtourism.travel^
 ||hypr.travel^
 ||ilove2.travel^
+||ilulissat.travel^
 ||immersed.travel^
 ||indonesiatrails.travel^
 ||indoslot303.travel^
@@ -202,8 +207,10 @@
 ||kairosity.travel^
 ||kaisin.travel^
 ||kalimera.travel^
+||kalimpong.travel^
 ||kandertal.travel^
 ||karkonosze.travel^
+||karmaguru.travel^
 ||karotourism.travel^
 ||kasym.travel^
 ||kbharti.travel^
@@ -213,6 +220,7 @@
 ||kindali.travel^
 ||kizuna.travel^
 ||kukai.travel^
+||kulusuk.travel^
 ||kurtov.travel^
 ||kylieshelton.travel^
 ||laia.travel^
@@ -221,6 +229,7 @@
 ||leader.travel^
 ||leapofaith.travel^
 ||letsgetaway.travel^
+||letsmakememories.travel^
 ||libroowner.travel^
 ||liveand.travel^
 ||loca.travel^
@@ -253,6 +262,7 @@
 ||mehrwerk.travel^
 ||meli.travel^
 ||memadrid.travel^
+||merida.travel^
 ||mico.travel^
 ||milespartnership.travel^
 ||millennial.travel^
@@ -282,6 +292,7 @@
 ||nikki.travel^
 ||niko.travel^
 ||ninedegrees.travel^
+||ninjaya.travel^
 ||nitch.travel^
 ||nomand.travel^
 ||nomu.travel^
@@ -289,11 +300,15 @@
 ||normandy.travel^
 ||nour.travel^
 ||nur.travel^
+||nuuk.travel^
 ||oaktreetravels.travel^
 ||octopuseg.travel^
 ||omnivium.travel^
 ||onasafari.travel^
+||onboard.travel^
 ||oneluxe.travel^
+||onlinestore.travel^
+||onride.travel^
 ||onsite.travel^
 ||opensource.travel^
 ||orangeninja.travel^
@@ -306,6 +321,7 @@
 ||pathway.travel^
 ||pattayahotels.travel^
 ||pausable.travel^
+||peaktime.travel^
 ||pereslavl.travel^
 ||persiarhoki.travel^
 ||petersburg.travel^
@@ -314,6 +330,10 @@
 ||planb.travel^
 ||planning.travel^
 ||plume.travel^
+||ponant-exploration-group.travel^
+||ponant-explorations-group.travel^
+||ponantexplorationgroup.travel^
+||ponantexplorationsgroup.travel^
 ||postcardvibe.travel^
 ||prepaid-card.travel^
 ||prepaid-mobile.travel^
@@ -330,11 +350,9 @@
 ||quotebot.travel^
 ||rasa.travel^
 ||re-live.travel^
-||readyfor.travel^
 ||recession.travel^
 ||reco.travel^
 ||recobot.travel^
-||red-balloon.travel^
 ||regional.travel^
 ||reuben.travel^
 ||ritzparis.travel^
@@ -342,7 +360,6 @@
 ||roadtripper.travel^
 ||rockstar.travel^
 ||rockstarexpeditions.travel^
-||rootedin.travel^
 ||rootsandwings.travel^
 ||routetoroots.travel^
 ||royalroots.travel^
@@ -373,7 +390,6 @@
 ||staychic.travel^
 ||stayfast.travel^
 ||stayfound.travel^
-||storefront.travel^
 ||stranger.travel^
 ||sudamerica.travel^
 ||sugarcane.travel^
@@ -386,6 +402,7 @@
 ||takemesomewhere.travel^
 ||tardan-viajes.travel^
 ||tardanviajes.travel^
+||tasiilaq.travel^
 ||tasteofgeorgia.travel^
 ||tatama.travel^
 ||tdac.travel^
@@ -402,6 +419,7 @@
 ||tiger.travel^
 ||time2travel.travel^
 ||timetravel.travel^
+||tld.travel^
 ||toafrica.travel^
 ||tobago.travel^
 ||todomexico.travel^
@@ -411,8 +429,6 @@
 ||tourisme.travel^
 ||trailblazing.travel^
 ||trails.travel^
-||tramps.travel^
-||travcart.travel^
 ||travelguide360.travel^
 ||travelmore.travel^
 ||trekk.travel^
@@ -439,6 +455,7 @@
 ||vipagency.travel^
 ||vipking.travel^
 ||virtous.travel^
+||visadocs.travel^
 ||visit-kyrgyzstan.travel^
 ||visitkiribati.travel^
 ||visitpuertomadryn.travel^
@@ -451,13 +468,13 @@
 ||vsevmeste.travel^
 ||vueloowner.travel^
 ||vybe.travel^
-||wakeforest.travel^
 ||waldo.travel^
 ||wayzi.travel^
 ||webcamera.travel^
 ||welchcruising.travel^
 ||welcomebikers.travel^
 ||wesell.travel^
+||wetripit.travel^
 ||whatodo.travel^
 ||wiggle.travel^
 ||wimzy.travel^
@@ -473,6 +490,7 @@
 ||youfone.travel^
 ||youngpioneer.travel^
 ||ypt.travel^
+||zamzam.travel^
 ||zeina.travel^
 ||zeus.travel^
 ||zihua.travel^

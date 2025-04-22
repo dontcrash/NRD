@@ -44,6 +44,8 @@
 ||conviction.supply^
 ||cookies.supply^
 ||corporate.supply^
+||cosmetic.supply^
+||cosmetics.supply^
 ||creativeads.supply^
 ||cve.supply^
 ||details.supply^
@@ -54,6 +56,7 @@
 ||drvn.supply^
 ||dynamiccomplexity.supply^
 ||electricalsource.supply^
+||eleven.supply^
 ||emfase.supply^
 ||eudr.supply^
 ||exmed.supply^
@@ -107,7 +110,6 @@
 ||mp3.supply^
 ||mti.supply^
 ||namefi.supply^
-||navigator.supply^
 ||need.supply^
 ||nest.supply^
 ||nirmata.supply^
@@ -119,11 +121,11 @@
 ||nuuk.supply^
 ||obvious.supply^
 ||offline.supply^
+||onfresh.supply^
 ||onlinepet.supply^
 ||onyx.supply^
 ||ores.supply^
 ||outlaw.supply^
-||pallet.supply^
 ||panic.supply^
 ||paralo.supply^
 ||peacecountry.supply^
@@ -131,7 +133,6 @@
 ||perfume.supply^
 ||pinetwork.supply^
 ||pixdasorteofficial.supply^
-||primeintellect.supply^
 ||proxy.supply^
 ||reed.supply^
 ||resilient.supply^
@@ -141,6 +142,7 @@
 ||rodan.supply^
 ||route.supply^
 ||routedesign.supply^
+||saudi.supply^
 ||shaner.supply^
 ||ship.supply^
 ||shopbernies.supply^
@@ -160,7 +162,6 @@
 ||v9bet.supply^
 ||vanuo.supply^
 ||vish.supply^
-||vujiom.supply^
 ||wbp.supply^
 ||winning.supply^
 ||woodworker.supply^
