@@ -15,6 +15,8 @@
 ||comic.report^
 ||crawler.report^
 ||cvscore.report^
+||dailytrench.report^
+||dmv-id.report^
 ||dnsanalyser.report^
 ||dxmt.report^
 ||enviro.report^
@@ -26,11 +28,14 @@
 ||issb.report^
 ||jobboard.report^
 ||livescore.report^
+||mainframe.report^
+||marty.report^
 ||nohu.report^
 ||none.report^
 ||noon.report^
 ||nutshell.report^
 ||okking.report^
+||ombudsman.report^
 ||pkcert.report^
 ||ponder.report^
 ||postnord.report^
@@ -42,6 +47,8 @@
 ||run.report^
 ||sattakinggl.report^
 ||sbobet.report^
+||sendlove.report^
+||ship.report^
 ||soda.report^
 ||subtext.report^
 ||tama.report^

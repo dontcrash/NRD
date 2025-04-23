@@ -4,7 +4,6 @@
 ||2530.coffee^
 ||28mm.coffee^
 ||2gather.coffee^
-||365days.coffee^
 ||420.coffee^
 ||45gold.coffee^
 ||4liang.coffee^
@@ -18,7 +17,6 @@
 ||agenda.coffee^
 ||agora.coffee^
 ||akbars.coffee^
-||al.coffee^
 ||alhakim.coffee^
 ||align.coffee^
 ||alya.coffee^
@@ -56,7 +54,6 @@
 ||baristi-united.coffee^
 ||bczcqz.coffee^
 ||beanfriends.coffee^
-||beanjuice.coffee^
 ||beautiful.coffee^
 ||belaroma.coffee^
 ||beri.coffee^
@@ -116,11 +113,11 @@
 ||cafephile.coffee^
 ||cafephiles.coffee^
 ||calf.coffee^
+||cambuca.coffee^
 ||cameracode.coffee^
 ||cana.coffee^
 ||canall.coffee^
 ||candace.coffee^
-||caracara.coffee^
 ||carton.coffee^
 ||cask.coffee^
 ||catalystwholesale.coffee^
@@ -134,7 +131,6 @@
 ||cherub.coffee^
 ||ciaokakao.coffee^
 ||cjbdbc.coffee^
-||coalition.coffee^
 ||cocogreen.coffee^
 ||codes.coffee^
 ||codex.coffee^
@@ -170,7 +166,6 @@
 ||daya.coffee^
 ||dayaroastery.coffee^
 ||deca.coffee^
-||decafe.coffee^
 ||dekka.coffee^
 ||deso.coffee^
 ||diabetes.coffee^
@@ -186,8 +181,9 @@
 ||domos.coffee^
 ||donpancho.coffee^
 ||dragoast.coffee^
-||drinkepicslim.coffee^
+||drinking.coffee^
 ||drinkthis.coffee^
+||dripthink.coffee^
 ||drowsypoet.coffee^
 ||drybones.coffee^
 ||dsfhg.coffee^
@@ -203,7 +199,6 @@
 ||eb101.coffee^
 ||ecc.coffee^
 ||edinburghpressclub.coffee^
-||ediya.coffee^
 ||ee88.coffee^
 ||ehsas.coffee^
 ||eiai.coffee^
@@ -312,17 +307,16 @@
 ||jo.coffee^
 ||jonathans.coffee^
 ||joyof.coffee^
+||juce.coffee^
 ||juicycoffeeroasters.coffee^
 ||july.coffee^
 ||june.coffee^
 ||justagood.coffee^
 ||jwjqjm.coffee^
 ||kaffeeschreinerei.coffee^
-||kahale.coffee^
 ||kaks.coffee^
 ||kardio.coffee^
 ||karupatti.coffee^
-||kavalero.coffee^
 ||kazumi.coffee^
 ||kfrost.coffee^
 ||kickshot.coffee^
@@ -409,7 +403,6 @@
 ||mocha.coffee^
 ||monde.coffee^
 ||monthly.coffee^
-||moonstone.coffee^
 ||moriondo.coffee^
 ||mornechui.coffee^
 ||morningbean.coffee^
@@ -428,7 +421,6 @@
 ||nha.coffee^
 ||nhybwy.coffee^
 ||niceday.coffee^
-||nicole.coffee^
 ||nobs.coffee^
 ||nomoo.coffee^
 ||nonsoloespresso.coffee^
@@ -443,7 +435,6 @@
 ||nowbean.coffee^
 ||nowbeancoffee.coffee^
 ||nowbeans.coffee^
-||nowbrew.coffee^
 ||nowplaying.coffee^
 ||nude.coffee^
 ||num2.coffee^
@@ -467,7 +458,6 @@
 ||peopleperson.coffee^
 ||pepebrew.coffee^
 ||percup.coffee^
-||philip.coffee^
 ||philosophy.coffee^
 ||philtre.coffee^
 ||phintopia.coffee^
@@ -478,12 +468,13 @@
 ||pivot.coffee^
 ||pjs.coffee^
 ||plume.coffee^
-||poli.coffee^
+||popcorn.coffee^
 ||pourchoices.coffee^
 ||pourdecisionsny.coffee^
 ||pourhouse.coffee^
 ||pourthing.coffee^
 ||practicalmagic.coffee^
+||premiumtech.coffee^
 ||profile.coffee^
 ||projectmambo.coffee^
 ||provision.coffee^
@@ -501,7 +492,6 @@
 ||rdcl.coffee^
 ||red.coffee^
 ||redleafroasters.coffee^
-||regulars.coffee^
 ||rekava.coffee^
 ||remizek.coffee^
 ||revivenovi.coffee^
@@ -521,6 +511,7 @@
 ||rocketjava.coffee^
 ||ruh.coffee^
 ||ruota.coffee^
+||russia.coffee^
 ||rype.coffee^
 ||sacred.coffee^
 ||sacredcup.coffee^
@@ -533,6 +524,7 @@
 ||sara.coffee^
 ||scaecuador.coffee^
 ||science.coffee^
+||scuderia.coffee^
 ||secondcuppa.coffee^
 ||secret.coffee^
 ||selfdefense.coffee^
@@ -540,8 +532,10 @@
 ||semperfi.coffee^
 ||sensual.coffee^
 ||shimamori.coffee^
+||shinn.coffee^
 ||shu.coffee^
 ||sidequestcoffee.coffee^
+||sinarwangi.coffee^
 ||sixbeans.coffee^
 ||skeptic.coffee^
 ||slim.coffee^
@@ -551,6 +545,7 @@
 ||smartershop.coffee^
 ||smokeyarrow.coffee^
 ||snap.coffee^
+||snapaccino.coffee^
 ||sodate.coffee^
 ||soko.coffee^
 ||solafide.coffee^
@@ -561,25 +556,23 @@
 ||spiritorigin.coffee^
 ||splash.coffee^
 ||stack.coffee^
+||stallion.coffee^
 ||starbuckets.coffee^
 ||stedi.coffee^
 ||stepone.coffee^
 ||stockade.coffee^
-||stone.coffee^
 ||str8blk.coffee^
 ||strangelove.coffee^
-||straydogs.coffee^
 ||streamingcommunity.coffee^
 ||strongron.coffee^
 ||stupid.coffee^
 ||sudo.coffee^
-||sugarhill.coffee^
-||sugarpig.coffee^
 ||sunnyside.coffee^
 ||sunshine.coffee^
 ||sunspell.coffee^
 ||superstore.coffee^
 ||supportcoffee.coffee^
+||sweetandsalty.coffee^
 ||sweetkaram.coffee^
 ||sweetvintage.coffee^
 ||swissbutter.coffee^
@@ -603,6 +596,7 @@
 ||three.coffee^
 ||tino.coffee^
 ||tinylots.coffee^
+||toulouse.coffee^
 ||tradeshow.coffee^
 ||trail.coffee^
 ||trailroasted.coffee^

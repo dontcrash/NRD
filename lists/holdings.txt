@@ -16,8 +16,8 @@
 ||appliedintel.holdings^
 ||arccloud.holdings^
 ||artificial.holdings^
+||basilisk.holdings^
 ||bay-ai.holdings^
-||bg.holdings^
 ||blackbourne.holdings^
 ||bricktown.holdings^
 ||charity.holdings^
@@ -57,10 +57,11 @@
 ||jpunited.holdings^
 ||laminar.holdings^
 ||lbe.holdings^
-||lbl.holdings^
 ||lcp.holdings^
 ||mad.holdings^
+||mainframe.holdings^
 ||mehr.holdings^
+||mindshare.holdings^
 ||mintaka.holdings^
 ||mj.holdings^
 ||mlw.holdings^
@@ -84,7 +85,6 @@
 ||ray.holdings^
 ||royal-capital.holdings^
 ||rta.holdings^
-||sage.holdings^
 ||silvertsunami.holdings^
 ||skyview.holdings^
 ||slingshot.holdings^
@@ -102,6 +102,7 @@
 ||valora.holdings^
 ||voltchain.holdings^
 ||wampler.holdings^
+||web4.holdings^
 ||wiards.holdings^
 ||wst.holdings^
 ||wyvernfall.holdings^

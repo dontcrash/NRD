@@ -1,6 +1,7 @@
 ||100x.build^
 ||absi.build^
 ||absorb.build^
+||abstraction.build^
 ||addy.build^
 ||aether.build^
 ||agentops.build^
@@ -21,7 +22,6 @@
 ||booty.build^
 ||brictora.build^
 ||buildify.build^
-||cescaleup.build^
 ||clev.build^
 ||cloud.build^
 ||consciouscapital.build^
@@ -61,6 +61,7 @@
 ||krafft.build^
 ||lanterns.build^
 ||lhba.build^
+||liquid.build^
 ||loki.build^
 ||manclub.build^
 ||mania.build^
@@ -73,6 +74,7 @@
 ||modulo.build^
 ||momentary.build^
 ||monarchs.build^
+||monorepo.build^
 ||moose.build^
 ||motion.build^
 ||mvia.build^
@@ -96,11 +98,13 @@
 ||pcgiveaway.build^
 ||picnic.build^
 ||pixel.build^
+||ponder.build^
 ||primadesign.build^
 ||protogen.build^
 ||quine.build^
 ||ragged.build^
 ||reasoner.build^
+||rite.build^
 ||rowan.build^
 ||ruben.build^
 ||rwa.build^

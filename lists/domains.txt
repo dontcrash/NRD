@@ -32,7 +32,6 @@
 ||cross-tenant-sync.domains^
 ||darpa.domains^
 ||dcs.domains^
-||dead.domains^
 ||defend.domains^
 ||deltak.domains^
 ||desu.domains^
@@ -44,6 +43,7 @@
 ||disco.domains^
 ||disrupt.domains^
 ||dmd.domains^
+||domaining.domains^
 ||domainpay.domains^
 ||domainsale.domains^
 ||domainsales.domains^
@@ -120,8 +120,6 @@
 ||nest.domains^
 ||nextlight.domains^
 ||nextround.domains^
-||numerologist.domains^
-||numerology.domains^
 ||one88.domains^
 ||orion.domains^
 ||overtime.domains^
@@ -131,9 +129,7 @@
 ||rank.domains^
 ||registration.domains^
 ||rex.domains^
-||robotic.domains^
 ||robotics.domains^
-||rush.domains^
 ||rxante.domains^
 ||seeds.domains^
 ||sex.domains^
