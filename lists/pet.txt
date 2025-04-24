@@ -49,6 +49,7 @@
 ||03263.pet^
 ||0333.pet^
 ||03397.pet^
+||03401.pet^
 ||0353.pet^
 ||03533.pet^
 ||0355.pet^
@@ -207,7 +208,6 @@
 ||13177.pet^
 ||13219.pet^
 ||13241.pet^
-||13250.pet^
 ||13256.pet^
 ||13263.pet^
 ||13291.pet^
@@ -392,7 +392,6 @@
 ||19661.pet^
 ||19698.pet^
 ||19754.pet^
-||19803.pet^
 ||19827.pet^
 ||19831.pet^
 ||19880.pet^
@@ -439,7 +438,6 @@
 ||21375.pet^
 ||21394.pet^
 ||21546.pet^
-||21550.pet^
 ||21585.pet^
 ||21659.pet^
 ||21746.pet^
@@ -448,7 +446,6 @@
 ||21777.pet^
 ||21822.pet^
 ||21823.pet^
-||21834.pet^
 ||21867.pet^
 ||21888.pet^
 ||21892.pet^
@@ -711,7 +708,6 @@
 ||28851.pet^
 ||2886.pet^
 ||28913.pet^
-||28918.pet^
 ||28985.pet^
 ||28997.pet^
 ||29006.pet^
@@ -927,7 +923,6 @@
 ||35355.pet^
 ||35363.pet^
 ||35365.pet^
-||35371.pet^
 ||35566.pet^
 ||35576.pet^
 ||35589.pet^
@@ -1137,10 +1132,8 @@
 ||39265.pet^
 ||392715.pet^
 ||39413.pet^
-||39527.pet^
 ||39562.pet^
 ||39586.pet^
-||39599.pet^
 ||39623.pet^
 ||396275.pet^
 ||39639.pet^
@@ -1155,7 +1148,6 @@
 ||39727.pet^
 ||397562.pet^
 ||397682.pet^
-||39818.pet^
 ||39827.pet^
 ||39842.pet^
 ||39849.pet^
@@ -1221,7 +1213,6 @@
 ||41285.pet^
 ||41554.pet^
 ||41579.pet^
-||41612.pet^
 ||41642.pet^
 ||41777.pet^
 ||41801.pet^
@@ -1730,7 +1721,6 @@
 ||57524.pet^
 ||57527.pet^
 ||57530.pet^
-||57565.pet^
 ||57610.pet^
 ||57611.pet^
 ||57612.pet^
@@ -1746,7 +1736,6 @@
 ||57691.pet^
 ||57722.pet^
 ||57829.pet^
-||57845.pet^
 ||57848.pet^
 ||57860.pet^
 ||57869.pet^
@@ -1785,7 +1774,6 @@
 ||58735.pet^
 ||58736.pet^
 ||587362.pet^
-||58737.pet^
 ||58753.pet^
 ||58796.pet^
 ||58888.pet^
@@ -1864,6 +1852,7 @@
 ||60779.pet^
 ||60842.pet^
 ||60854.pet^
+||60948.pet^
 ||60961.pet^
 ||61014.pet^
 ||61098.pet^
@@ -2859,7 +2848,6 @@
 ||76452.pet^
 ||76472.pet^
 ||76478.pet^
-||76506.pet^
 ||76532.pet^
 ||76543.pet^
 ||76576.pet^
@@ -2948,7 +2936,6 @@
 ||78793.pet^
 ||78812.pet^
 ||78822.pet^
-||78839.pet^
 ||78842.pet^
 ||78875.pet^
 ||78883.pet^
@@ -3007,7 +2994,6 @@
 ||80063.pet^
 ||800892.pet^
 ||80183.pet^
-||80198.pet^
 ||80210.pet^
 ||80254.pet^
 ||80255.pet^
@@ -3059,7 +3045,6 @@
 ||81873.pet^
 ||81878.pet^
 ||81957.pet^
-||81963.pet^
 ||81965.pet^
 ||81977.pet^
 ||81994.pet^
@@ -3176,14 +3161,12 @@
 ||837926.pet^
 ||83824.pet^
 ||83864.pet^
-||83895.pet^
 ||83933.pet^
 ||83957.pet^
 ||839726.pet^
 ||839756.pet^
 ||84047.pet^
 ||84093.pet^
-||84181.pet^
 ||84182.pet^
 ||84238.pet^
 ||84242.pet^
@@ -3193,7 +3176,6 @@
 ||84415.pet^
 ||84538.pet^
 ||84549.pet^
-||84573.pet^
 ||84585.pet^
 ||84588.pet^
 ||84617.pet^
@@ -3351,7 +3333,6 @@
 ||88436.pet^
 ||88451.pet^
 ||88463.pet^
-||88507.pet^
 ||88613.pet^
 ||88615.pet^
 ||88666.pet^
@@ -3475,7 +3456,6 @@
 ||91859.pet^
 ||91888.pet^
 ||91918.pet^
-||91921.pet^
 ||91982.pet^
 ||92001.pet^
 ||92013.pet^
@@ -3656,11 +3636,9 @@
 ||963872.pet^
 ||96396.pet^
 ||96444.pet^
-||96454.pet^
 ||96455.pet^
 ||96523.pet^
 ||96527.pet^
-||96542.pet^
 ||96578.pet^
 ||96580.pet^
 ||96582.pet^
@@ -3935,6 +3913,7 @@
 ||bhsn.pet^
 ||bhyhw.pet^
 ||bichozen.pet^
+||bigcity.pet^
 ||bixos.pet^
 ||bjgehw.pet^
 ||bkjfn.pet^
@@ -3968,7 +3947,6 @@
 ||bszffl.pet^
 ||bubble.pet^
 ||budbed.pet^
-||buddys.pet^
 ||bujkg.pet^
 ||bullterrier.pet^
 ||bunls.pet^
@@ -3990,6 +3968,7 @@
 ||canisco.pet^
 ||canw.pet^
 ||capital.pet^
+||catthe.pet^
 ||cauif.pet^
 ||cayrv.pet^
 ||cbeayf.pet^
@@ -4009,7 +3988,6 @@
 ||cgfqc.pet^
 ||cgrmj.pet^
 ||chamber.pet^
-||chance4.pet^
 ||chaoci.pet^
 ||chbye.pet^
 ||checko.pet^
@@ -4110,7 +4088,9 @@
 ||dnhuh.pet^
 ||dnswd.pet^
 ||dobse.pet^
+||dogparksnearme.pet^
 ||dojo.pet^
+||dollipop.pet^
 ||domi.pet^
 ||doom.pet^
 ||doxgf.pet^
@@ -4118,7 +4098,6 @@
 ||drgn.pet^
 ||drhxnh.pet^
 ||drift.pet^
-||dronepup.pet^
 ||drttl.pet^
 ||dsrlg.pet^
 ||dsuop.pet^
@@ -4207,7 +4186,6 @@
 ||fankx.pet^
 ||farm2paw.pet^
 ||farmand.pet^
-||fc88.pet^
 ||fdbfj.pet^
 ||fdbiv.pet^
 ||fdjmq.pet^
@@ -4217,6 +4195,7 @@
 ||fehjd.pet^
 ||felinus.pet^
 ||felpo.pet^
+||felyra.pet^
 ||fepdj.pet^
 ||fer.pet^
 ||fetchfido.pet^
@@ -4238,7 +4217,6 @@
 ||fjzkb.pet^
 ||fkmzo.pet^
 ||flat.pet^
-||floorbell.pet^
 ||flossydental.pet^
 ||fluff.pet^
 ||flufflink.pet^
@@ -4262,7 +4240,6 @@
 ||furlo.pet^
 ||furrberry.pet^
 ||furrwila.pet^
-||furrytreasures.pet^
 ||furtasticgrooming.pet^
 ||furvana.pet^
 ||fwokbi.pet^
@@ -4279,6 +4256,7 @@
 ||gaesb.pet^
 ||gallq.pet^
 ||gaqkw.pet^
+||gart.pet^
 ||gbhmz.pet^
 ||gbode.pet^
 ||gcpjz.pet^
@@ -4319,6 +4297,7 @@
 ||gtkix.pet^
 ||gttmn.pet^
 ||guard.pet^
+||guest.pet^
 ||gujak.pet^
 ||gvsfl.pet^
 ||gvui.pet^
@@ -4354,7 +4333,6 @@
 ||healtysmiles.pet^
 ||healtysmilesboca.pet^
 ||hearing.pet^
-||heavenlyheartspetcrematory.pet^
 ||helixgenetics.pet^
 ||hello88.pet^
 ||hera.pet^
@@ -4386,7 +4364,6 @@
 ||hmjk.pet^
 ||hmuhn.pet^
 ||hnfca.pet^
-||hockinghills.pet^
 ||hofu.pet^
 ||holxf.pet^
 ||hoomans.pet^
@@ -4420,7 +4397,6 @@
 ||iczpk.pet^
 ||idaez.pet^
 ||idhsv.pet^
-||iespeja.pet^
 ||igijd.pet^
 ||igusj.pet^
 ||ihcdv.pet^
@@ -4629,6 +4605,7 @@
 ||libby.pet^
 ||liioq.pet^
 ||lila.pet^
+||line.pet^
 ||lipnm.pet^
 ||liszc.pet^
 ||liuij.pet^
@@ -4683,6 +4660,7 @@
 ||mascotasfelices.pet^
 ||maspd.pet^
 ||mataco.pet^
+||maxwell.pet^
 ||maziv.pet^
 ||mbrfbd.pet^
 ||mbzsr.pet^
@@ -4693,9 +4671,9 @@
 ||mdzgk.pet^
 ||mebqg.pet^
 ||medico.pet^
-||melhoraumigo.pet^
 ||memo.pet^
 ||meowandwoof.pet^
+||meowgic.pet^
 ||meowoof.pet^
 ||meows.pet^
 ||meurg.pet^
@@ -4716,7 +4694,6 @@
 ||miqjx.pet^
 ||mirror.pet^
 ||mishu.pet^
-||mismascotas.pet^
 ||misterpatinhas.pet^
 ||mjcfc.pet^
 ||mjd.pet^
@@ -4757,10 +4734,8 @@
 ||mybpo.pet^
 ||mycyf.pet^
 ||mydog.pet^
-||myfellkinder.pet^
 ||mygbf.pet^
 ||myhome.pet^
-||myjoy.pet^
 ||myzjl.pet^
 ||nakchews.pet^
 ||nakmz.pet^
@@ -4800,6 +4775,7 @@
 ||noeqs.pet^
 ||nomure.pet^
 ||nordmiex.pet^
+||nos-otros.pet^
 ||npsyc.pet^
 ||npvlh.pet^
 ||npvos.pet^
@@ -4867,7 +4843,6 @@
 ||ounqs.pet^
 ||ourdog.pet^
 ||ovcx.pet^
-||owner.pet^
 ||owrdi.pet^
 ||oxpon.pet^
 ||oxrjj.pet^
@@ -4920,7 +4895,6 @@
 ||petsfood.pet^
 ||petsgrooming.pet^
 ||pettoy.pet^
-||petvana.pet^
 ||petvanapetco.pet^
 ||pfbea.pet^
 ||pfotenliebe.pet^
@@ -4948,6 +4922,7 @@
 ||pkeaw.pet^
 ||pkelc.pet^
 ||pkuhaf.pet^
+||plaki.pet^
 ||pltei.pet^
 ||pltlq.pet^
 ||plushki.pet^
@@ -4970,7 +4945,6 @@
 ||produits-veto.pet^
 ||prosto.pet^
 ||przwe.pet^
-||psycheems.pet^
 ||pudyv.pet^
 ||punk.pet^
 ||purrsure.pet^
@@ -4978,6 +4952,7 @@
 ||putxq.pet^
 ||pvwdy.pet^
 ||pwka.pet^
+||pwn.pet^
 ||pwwkj.pet^
 ||pxave.pet^
 ||pxhur.pet^
@@ -5056,12 +5031,14 @@
 ||rldhf.pet^
 ||rlvsu.pet^
 ||rnmlhq.pet^
+||rottie.pet^
 ||rover.pet^
 ||rphko.pet^
 ||rqvdc.pet^
 ||rsjqx.pet^
 ||rtapm.pet^
 ||rukju.pet^
+||rutro.pet^
 ||rvbnd.pet^
 ||rvdem.pet^
 ||rwdh.pet^
@@ -5088,12 +5065,10 @@
 ||scooplyabq.pet^
 ||scooplydtx.pet^
 ||scratchep.pet^
-||screening.pet^
 ||scritches.pet^
 ||scrj.pet^
 ||scroll.pet^
 ||sculpture.pet^
-||scuttle.pet^
 ||sdcfiw.pet^
 ||sdvqd.pet^
 ||sdyhr.pet^
@@ -5108,7 +5083,6 @@
 ||shind.pet^
 ||shiyu.pet^
 ||shopdot.pet^
-||shoppy.pet^
 ||shyta.pet^
 ||sina.pet^
 ||sjhfw.pet^
@@ -5136,6 +5110,7 @@
 ||stale.pet^
 ||starpick.pet^
 ||stbhp.pet^
+||stella.pet^
 ||storm.pet^
 ||studio.pet^
 ||stunner.pet^
@@ -5302,7 +5277,6 @@
 ||vzmxm.pet^
 ||vzqpf.pet^
 ||waggingacres.pet^
-||wai.pet^
 ||walhc.pet^
 ||wanpj.pet^
 ||wblwl.pet^
@@ -5511,7 +5485,6 @@
 ||zqgbe.pet^
 ||zrbsm.pet^
 ||zswda.pet^
-||zucas.pet^
 ||zudvs.pet^
 ||zugbr.pet^
 ||zvlam.pet^

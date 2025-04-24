@@ -10,6 +10,7 @@
 ||brick.report^
 ||changes.report^
 ||clade.report^
+||classic.report^
 ||cloak.report^
 ||comedy.report^
 ||comic.report^
@@ -23,6 +24,7 @@
 ||estimate.report^
 ||footballresults.report^
 ||footballscores.report^
+||h2z.report^
 ||hd.report^
 ||hurun.report^
 ||issb.report^
@@ -30,12 +32,16 @@
 ||livescore.report^
 ||mainframe.report^
 ||marty.report^
+||mybusiness.report^
+||nasa.report^
 ||nohu.report^
+||nomore.report^
 ||none.report^
 ||noon.report^
 ||nutshell.report^
 ||okking.report^
 ||ombudsman.report^
+||pivot.report^
 ||pkcert.report^
 ||ponder.report^
 ||postnord.report^
@@ -50,10 +56,13 @@
 ||sendlove.report^
 ||ship.report^
 ||soda.report^
+||st4n.report^
+||stateof.report^
 ||subtext.report^
 ||tama.report^
 ||tariff.report^
 ||tbill.report^
+||textto.report^
 ||theglow.report^
 ||thesubtext.report^
 ||vizier.report^

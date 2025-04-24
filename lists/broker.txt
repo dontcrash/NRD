@@ -10,10 +10,13 @@
 ||admiral.broker^
 ||adydy.broker^
 ||alcohol.broker^
+||atv.broker^
 ||auth.broker^
 ||barter.broker^
+||bestcrypto.broker^
 ||bubet.broker^
 ||bunny.broker^
+||bus.broker^
 ||ccim.broker^
 ||cfs.broker^
 ||cifa.broker^
@@ -27,6 +30,7 @@
 ||digitalworker.broker^
 ||digitalworkforce.broker^
 ||dirt.broker^
+||equipment.broker^
 ||erc.broker^
 ||eu9.broker^
 ||every.broker^
@@ -34,7 +38,6 @@
 ||f8bet.broker^
 ||fast.broker^
 ||fastfunding.broker^
-||fc88.broker^
 ||finadvisor.broker^
 ||finvestqix.broker^
 ||free.broker^
@@ -78,11 +81,12 @@
 ||nexus.broker^
 ||nnn.broker^
 ||obsession.broker^
-||offplan.broker^
 ||onkevideoproductions.broker^
 ||otcbitcoin.broker^
 ||poly.broker^
 ||portal.broker^
+||pre-construction.broker^
+||preconstruction.broker^
 ||prismuniverse.broker^
 ||push.broker^
 ||qq88.broker^
@@ -106,8 +110,10 @@
 ||theta.broker^
 ||tobacco.broker^
 ||tofu.broker^
+||tractor.broker^
 ||ufc.broker^
 ||unlimited.broker^
+||unmortgage.broker^
 ||vibe.broker^
 ||vox.broker^
 ||wellness.broker^
