@@ -2,7 +2,6 @@
 ||air.new^
 ||aivideo.new^
 ||app.new^
-||aura.new^
 ||beam.new^
 ||bol.new^
 ||boult.new^
@@ -11,9 +10,9 @@
 ||collab.new^
 ||com.new^
 ||compose.new^
+||consent.new^
 ||console.new^
 ||coop.new^
-||cosmic.new^
 ||dagster.new^
 ||dates.new^
 ||deep.new^
@@ -22,7 +21,6 @@
 ||dubai.new^
 ||durable.new^
 ||emergent.new^
-||empire.new^
 ||face.new^
 ||feed.new^
 ||firebase.new^
@@ -46,12 +44,15 @@
 ||mocha.new^
 ||neon.new^
 ||nordcraft.new^
+||o11y.new^
+||olly.new^
 ||orion.new^
 ||path.new^
 ||perchance.new^
 ||pierre.new^
 ||plc.new^
 ||pop.new^
+||pv.new^
 ||raise.new^
 ||reve.new^
 ||rocket.new^
@@ -60,6 +61,7 @@
 ||scenario.new^
 ||scout.new^
 ||shell.new^
+||shopapp.new^
 ||short.new^
 ||strategy.new^
 ||svg.new^

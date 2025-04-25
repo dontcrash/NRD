@@ -7,7 +7,6 @@
 ||ablc.events^
 ||accounting.events^
 ||adif.events^
-||adora.events^
 ||ados.events^
 ||adyen.events^
 ||affentheater.events^
@@ -16,9 +15,9 @@
 ||ai-conferences.events^
 ||aidisrupt.events^
 ||aimee.events^
-||aipowerhour.events^
 ||aitd.events^
 ||aitprotocolio.events^
+||akture.events^
 ||albert.events^
 ||all-inclusive.events^
 ||allegresse.events^
@@ -42,11 +41,11 @@
 ||art-show.events^
 ||artbg.events^
 ||artgarage.events^
+||asw.events^
 ||atornetworkdefi.events^
 ||audentia.events^
 ||aum.events^
 ||aurafest.events^
-||automatic.events^
 ||azurofinance.events^
 ||bakeryswapdao.events^
 ||bakeryswapnetwork.events^
@@ -88,7 +87,6 @@
 ||blunt.events^
 ||bmh.events^
 ||boehmer.events^
-||bohoclub.events^
 ||boltpass.events^
 ||bonk.events^
 ||bonn.events^
@@ -115,22 +113,21 @@
 ||burlesqueshows.events^
 ||bwing.events^
 ||bypass.events^
-||bystella.events^
 ||byu.events^
 ||c-suite.events^
 ||calen.events^
 ||calendly.events^
+||calmjuliet.events^
 ||canneryplace.events^
 ||capcity.events^
 ||capitalslam.events^
 ||casaorigen.events^
 ||catalystmi.events^
 ||cbm.events^
-||cef.events^
 ||celebratelife.events^
+||ceox.events^
 ||change-retreat.events^
 ||chapter-one.events^
-||cherryblossom.events^
 ||chinese.events^
 ||chipin.events^
 ||chrisweinberg.events^
@@ -138,7 +135,6 @@
 ||churn.events^
 ||circuitofmusic.events^
 ||civicimpact.events^
-||clade.events^
 ||cloak.events^
 ||cml.events^
 ||cnd.events^
@@ -155,6 +151,7 @@
 ||concave.events^
 ||concorde.events^
 ||concrode.events^
+||conner.events^
 ||conscious-capital.events^
 ||contentux.events^
 ||coolblue.events^
@@ -166,7 +163,6 @@
 ||creamfields.events^
 ||creationsofhope.events^
 ||csbae.events^
-||csd.events^
 ||cued.events^
 ||cult.events^
 ||dajavu.events^
@@ -253,8 +249,8 @@
 ||everyworldfi.events^
 ||evry.events^
 ||exclusivegreens.events^
-||eye2eye.events^
 ||f2d.events^
+||fabrika-sailing.events^
 ||fashionshow.events^
 ||fatherofmeme.events^
 ||favors.events^
@@ -275,10 +271,10 @@
 ||foothub.events^
 ||forexexpo.events^
 ||forgood.events^
-||fortlauderdale.events^
 ||fortune.events^
 ||four20.events^
 ||foxylabsio.events^
+||framerush.events^
 ||freestyle.events^
 ||fsc-aws-log.events^
 ||fuelprotocol.events^
@@ -304,6 +300,7 @@
 ||giddyup.events^
 ||gimme.events^
 ||glienicke.events^
+||gmcoulee.events^
 ||gnc.events^
 ||go2cyprus.events^
 ||goglobal.events^
@@ -317,7 +314,6 @@
 ||greener.events^
 ||griffin.events^
 ||groovea.events^
-||gueterbahnhof-alsfeld.events^
 ||gunfire.events^
 ||gyropalooza.events^
 ||halal.events^
@@ -327,7 +323,9 @@
 ||hashflowfi.events^
 ||hashflowio.events^
 ||hatbit.events^
+||hayes.events^
 ||hcaptcha.events^
+||hearthside.events^
 ||helden.events^
 ||hello-one.events^
 ||helloculturemesa.events^
@@ -362,7 +360,6 @@
 ||invitacion.events^
 ||isds.events^
 ||jacqueline.events^
-||jadx.events^
 ||jampacked.events^
 ||japx.events^
 ||javitri.events^
@@ -380,6 +377,7 @@
 ||kalon.events^
 ||kamu.events^
 ||karmakraft.events^
+||kath.events^
 ||kdb.events^
 ||kdw.events^
 ||kelpdaodefi.events^
@@ -393,6 +391,7 @@
 ||kimber.events^
 ||kinkee.events^
 ||kintodefi.events^
+||kitt.events^
 ||klangkultur.events^
 ||knallfrosch.events^
 ||known.events^
@@ -405,14 +404,13 @@
 ||lafayette.events^
 ||lamesa.events^
 ||lanyard.events^
-||lapalma.events^
 ||lapel.events^
 ||larbeyandco.events^
 ||latable.events^
 ||latimes.events^
-||laurelcounty.events^
 ||leadershipsummit.events^
 ||lecomio.events^
+||legacypowerhouse.events^
 ||lensprotocolio.events^
 ||letsgrow.events^
 ||lighton.events^
@@ -421,7 +419,6 @@
 ||llyrn.events^
 ||lme.events^
 ||localeventsnj.events^
-||londonky.events^
 ||longboard.events^
 ||lopanto.events^
 ||luckyspin.events^
@@ -452,6 +449,7 @@
 ||matryoshka.events^
 ||mbalive.events^
 ||mcn.events^
+||mda.events^
 ||meadowview.events^
 ||medialab-factory.events^
 ||meed.events^
@@ -478,6 +476,7 @@
 ||monadtokenfi.events^
 ||monadverse.events^
 ||monsterdrag.events^
+||montclaire.events^
 ||moomble.events^
 ||morethanmusic.events^
 ||morningstar.events^
@@ -486,6 +485,7 @@
 ||movimiento.events^
 ||msaa.events^
 ||mtech.events^
+||munchables-app.events^
 ||musicalisland.events^
 ||mvpcircuit.events^
 ||mybrand.events^
@@ -524,7 +524,6 @@
 ||onda.events^
 ||one88.events^
 ||oneaccord.events^
-||oneearth.events^
 ||onehanson.events^
 ||onlycars.events^
 ||opal.events^
@@ -532,7 +531,6 @@
 ||ordfinance.events^
 ||ordfinancedefi.events^
 ||ordibehesht.events^
-||ordnance.events^
 ||ordnetworkdao.events^
 ||ordnetworkio.events^
 ||ordnetworks.events^
@@ -578,9 +576,9 @@
 ||popcultr.events^
 ||port.events^
 ||portland.events^
-||powerofplay.events^
 ||praga.events^
 ||prairiepulse.events^
+||pravesh.events^
 ||prieview.events^
 ||primesports.events^
 ||primex.events^
@@ -648,6 +646,7 @@
 ||sambhrama.events^
 ||sanatan.events^
 ||sarahspeirs.events^
+||satoshisyncio.events^
 ||satoshsavm.events^
 ||scheduled.events^
 ||schreibotel.events^
@@ -663,6 +662,7 @@
 ||service.events^
 ||shadownode.events^
 ||shakshak.events^
+||sheep.events^
 ||shelly.events^
 ||shidodefi.events^
 ||shidotrading.events^
@@ -704,8 +704,8 @@
 ||sparkling-moment.events^
 ||sparks.events^
 ||specialized.events^
+||spice.events^
 ||spikeyverse.events^
-||spoonsoiree.events^
 ||sportsbetting.events^
 ||sppl.events^
 ||sr.events^
@@ -737,6 +737,7 @@
 ||tam.events^
 ||tatyoo.events^
 ||techconferences.events^
+||techdir.events^
 ||technoise.events^
 ||techtalk.events^
 ||tensor.events^
@@ -782,7 +783,6 @@
 ||trustlink.events^
 ||ttouh.events^
 ||twoonetwo.events^
-||txp.events^
 ||tycoon.events^
 ||tyru.events^
 ||tzdgc.events^
@@ -837,9 +837,9 @@
 ||wejoin.events^
 ||wejustclick.events^
 ||wellconnected.events^
+||wersoca.events^
 ||wevibe.events^
 ||whitetailhall.events^
-||willyoubethree.events^
 ||wisdomandwealth.events^
 ||wisdome.events^
 ||wllm.events^
@@ -852,6 +852,7 @@
 ||xswaplink.events^
 ||yada.events^
 ||yalla-shoot.events^
+||yieldnest.events^
 ||yolo.events^
 ||yoraclesio.events^
 ||your-fave.events^

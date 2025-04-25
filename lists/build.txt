@@ -21,7 +21,7 @@
 ||blueprint.build^
 ||booty.build^
 ||brahmaconstruction.build^
-||brictora.build^
+||bridge-linea.build^
 ||buildify.build^
 ||clev.build^
 ||cloud.build^
@@ -31,7 +31,7 @@
 ||davy.build^
 ||demeter.build^
 ||devel.build^
-||dope.build^
+||develapa.build^
 ||eastwest.build^
 ||enclave.build^
 ||endowment.build^
@@ -42,12 +42,10 @@
 ||gcea.build^
 ||gearbox.build^
 ||gerdingconstruction.build^
-||giveaway.build^
 ||googlee.build^
 ||groundplay.build^
 ||gui.build^
 ||harth.build^
-||heimdall.build^
 ||hello88.build^
 ||highridge.build^
 ||highridgeservices.build^
@@ -58,6 +56,7 @@
 ||integris.build^
 ||jetton.build^
 ||joinery.build^
+||kahani.build^
 ||kairovis.build^
 ||kapital.build^
 ||krafft.build^
@@ -67,8 +66,8 @@
 ||loki.build^
 ||manclub.build^
 ||mania.build^
+||mastra.build^
 ||mavia.build^
-||maviia.build^
 ||mcorps.build^
 ||moco.build^
 ||modelcontextprotocol.build^
@@ -85,7 +84,6 @@
 ||neoma.build^
 ||nextbrick.build^
 ||niko.build^
-||nimbl.build^
 ||nootropicsdepot.build^
 ||noven.build^
 ||oakbridge.build^
@@ -96,9 +94,9 @@
 ||oneshield.build^
 ||openfoundation.build^
 ||osmos.build^
+||overdraft.build^
 ||overland.build^
 ||pandora-erc404.build^
-||pcgiveaway.build^
 ||picnic.build^
 ||pixel.build^
 ||ponder.build^
@@ -116,14 +114,15 @@
 ||sempervirens.build^
 ||shader.build^
 ||shona.build^
+||shopapp.build^
 ||shouldi.build^
 ||signet.build^
 ||silentsig.build^
 ||skystrap.build^
-||slinky.build^
 ||squareuppods.build^
 ||subbly.build^
 ||sup.build^
+||tapa.build^
 ||tcs.build^
 ||techstack.build^
 ||theka.build^
@@ -131,7 +130,9 @@
 ||tryboom.build^
 ||tune.build^
 ||u8881.build^
+||unikernel.build^
 ||vineetahuja.build^
+||vybe.build^
 ||woodliketo.build^
 ||woodyou.build^
 ||yume.build^
