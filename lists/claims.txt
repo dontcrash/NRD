@@ -15,6 +15,7 @@
 ||abcdh.claims^
 ||abcdp.claims^
 ||abffp.claims^
+||abuse.claims^
 ||abvip.claims^
 ||aca.claims^
 ||act-orders.claims^
@@ -125,6 +126,7 @@
 ||brhxz.claims^
 ||brkfw.claims^
 ||brmnvi.claims^
+||broker.claims^
 ||bsnrn.claims^
 ||btcscan.claims^
 ||btvxe.claims^
@@ -137,7 +139,6 @@
 ||caayf.claims^
 ||cacfr.claims^
 ||cajtc.claims^
-||cart.claims^
 ||cca.claims^
 ||cchlc.claims^
 ||cctwm.claims^
@@ -152,7 +153,6 @@
 ||cfjjf.claims^
 ||cflhu.claims^
 ||chariot.claims^
-||checkout.claims^
 ||cheddatoken.claims^
 ||chnva.claims^
 ||chtay.claims^
@@ -176,6 +176,7 @@
 ||cnvam.claims^
 ||cnxgz.claims^
 ||concept.claims^
+||consciouscapital.claims^
 ||corporatetravelconsultants.claims^
 ||cpjhb.claims^
 ||cpmnm.claims^
@@ -259,6 +260,7 @@
 ||dzhej.claims^
 ||eahru.claims^
 ||eawfy.claims^
+||eca.claims^
 ||ecqbd.claims^
 ||edbzc.claims^
 ||edenashe.claims^
@@ -339,7 +341,6 @@
 ||foxyv.claims^
 ||fqfqw.claims^
 ||fqkzeh.claims^
-||fraud.claims^
 ||free.claims^
 ||frthw.claims^
 ||frxgv.claims^
@@ -389,9 +390,6 @@
 ||ghklm.claims^
 ||ghsnt.claims^
 ||gicdf.claims^
-||giftcard.claims^
-||gifts.claims^
-||giveaway.claims^
 ||gizun.claims^
 ||glefc.claims^
 ||glpso.claims^
@@ -636,7 +634,6 @@
 ||lbwcth.claims^
 ||ldekb.claims^
 ||leiwq.claims^
-||levels.claims^
 ||lex.claims^
 ||lfkzi.claims^
 ||lfupq.claims^
@@ -683,6 +680,7 @@
 ||lyqqi.claims^
 ||lzmam.claims^
 ||lzwgk.claims^
+||maga.claims^
 ||maneki.claims^
 ||manta.claims^
 ||mantra.claims^
@@ -848,7 +846,6 @@
 ||ozfwa.claims^
 ||pakgkt.claims^
 ||panya.claims^
-||pass.claims^
 ||pausable.claims^
 ||paws-community.claims^
 ||pbaria.claims^
@@ -899,7 +896,6 @@
 ||pnliy.claims^
 ||pnyqk.claims^
 ||pnzbo.claims^
-||poap.claims^
 ||poiga.claims^
 ||poly.claims^
 ||pombu.claims^
@@ -914,7 +910,6 @@
 ||pqxkcw.claims^
 ||prgsna.claims^
 ||privasea.claims^
-||prize.claims^
 ||proven.claims^
 ||psjfl.claims^
 ||psnbu.claims^
@@ -987,8 +982,6 @@
 ||qzsra.claims^
 ||redress.claims^
 ||research.claims^
-||reward.claims^
-||rewards.claims^
 ||rfzgg.claims^
 ||rhaqa.claims^
 ||rhioo.claims^
@@ -1005,6 +998,7 @@
 ||rmqlk.claims^
 ||rnksx.claims^
 ||rnsyf.claims^
+||road.claims^
 ||rpets.claims^
 ||rphbv.claims^
 ||rphjt.claims^
@@ -1018,7 +1012,6 @@
 ||rujzk.claims^
 ||rvbgu.claims^
 ||rvzep.claims^
-||rwa.claims^
 ||rwvut.claims^
 ||rxnou.claims^
 ||rxvyg.claims^
@@ -1027,6 +1020,7 @@
 ||safvc.claims^
 ||satyd.claims^
 ||sauqzl.claims^
+||scamwatch.claims^
 ||scratch.claims^
 ||screalestateadvisors.claims^
 ||sdrml.claims^
@@ -1071,7 +1065,6 @@
 ||suqss.claims^
 ||suugs.claims^
 ||svytq.claims^
-||sweepstakes.claims^
 ||szcky.claims^
 ||szktgs.claims^
 ||tanqiu.claims^
@@ -1084,10 +1077,8 @@
 ||tfege.claims^
 ||tgcrn.claims^
 ||tgozc.claims^
-||ticket.claims^
 ||tijpn.claims^
 ||tinderplatinum.claims^
-||tip.claims^
 ||tjensl.claims^
 ||tjlow.claims^
 ||tjpee.claims^
@@ -1100,7 +1091,6 @@
 ||tocfz.claims^
 ||todjg.claims^
 ||tohvra.claims^
-||tokens.claims^
 ||toomany.claims^
 ||topva.claims^
 ||toshis.claims^

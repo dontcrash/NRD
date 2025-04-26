@@ -26,7 +26,6 @@
 ||cooperative.holdings^
 ||crypta.holdings^
 ||danube.holdings^
-||davy.holdings^
 ||dbtc.holdings^
 ||df.holdings^
 ||dg.holdings^
@@ -44,7 +43,6 @@
 ||fintech.holdings^
 ||forcefield.holdings^
 ||global.holdings^
-||gojira.holdings^
 ||handh.holdings^
 ||hcac.holdings^
 ||hero.holdings^
@@ -57,10 +55,10 @@
 ||hx.holdings^
 ||joekanso.holdings^
 ||jpunited.holdings^
+||kintsugi.holdings^
 ||klt.holdings^
 ||l1.holdings^
 ||laminar.holdings^
-||lbe.holdings^
 ||lcp.holdings^
 ||lulo.holdings^
 ||mad.holdings^
@@ -82,12 +80,14 @@
 ||oui.holdings^
 ||pceyh.holdings^
 ||petro.holdings^
+||qazi.holdings^
 ||qcpyh.holdings^
 ||qscyh.holdings^
 ||raspberry.holdings^
 ||ray.holdings^
 ||royal-capital.holdings^
 ||rta.holdings^
+||schneider.holdings^
 ||silvertsunami.holdings^
 ||skyview.holdings^
 ||sm.holdings^
@@ -101,6 +101,7 @@
 ||threefourteen.holdings^
 ||trinity-systems.holdings^
 ||uhc.holdings^
+||unraveling.holdings^
 ||valora.holdings^
 ||volnay.holdings^
 ||voltchain.holdings^
