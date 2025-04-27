@@ -2,6 +2,7 @@
 ||139.wine^
 ||1865.wine^
 ||6degrees.wine^
+||78wine.wine^
 ||7arts.wine^
 ||91.wine^
 ||a2a.wine^
@@ -12,7 +13,6 @@
 ||alenti.wine^
 ||alqvinia.wine^
 ||alt.wine^
-||antolini.wine^
 ||arab.wine^
 ||archie.wine^
 ||arkenstone.wine^
@@ -25,7 +25,6 @@
 ||bespoke.wine^
 ||bitcoins.wine^
 ||bledsoe.wine^
-||blindcorner.wine^
 ||blueitako.wine^
 ||bokepcrot.wine^
 ||booze.wine^
@@ -34,8 +33,6 @@
 ||bsports.wine^
 ||bts.wine^
 ||bubbles-perlage.wine^
-||buducnostsrbije.wine^
-||buglioni.wine^
 ||burnas.wine^
 ||busan.wine^
 ||buzznbarrels.wine^
@@ -44,11 +41,11 @@
 ||cagereserve.wine^
 ||calicidivinoitineranti.wine^
 ||cantinadanese.wine^
-||cantinediverona.wine^
 ||cantineriondo.wine^
 ||capitol.wine^
+||carnivore.wine^
 ||caro.wine^
-||castagnedi.wine^
+||carter.wine^
 ||casualwebport.wine^
 ||cavaler.wine^
 ||cbusfood.wine^
@@ -70,6 +67,7 @@
 ||cyber.wine^
 ||damajuana.wine^
 ||damienbyrne.wine^
+||davecarter.wine^
 ||dealz.wine^
 ||deicavalieri.wine^
 ||deliveroo-uae-chocolate.wine^
@@ -86,7 +84,6 @@
 ||ea101.wine^
 ||eb101.wine^
 ||efdhe.wine^
-||egger.wine^
 ||elan.wine^
 ||emo.wine^
 ||emperor.wine^
@@ -101,7 +98,7 @@
 ||exhilarating.wine^
 ||ezotia.wine^
 ||faino.wine^
-||feathers.wine^
+||fnet.wine^
 ||foodfusion.wine^
 ||foodie.wine^
 ||foolsgold.wine^
@@ -119,7 +116,6 @@
 ||gavinport.wine^
 ||genevitis.wine^
 ||ghostsommsociety.wine^
-||giggle.wine^
 ||gladysbooks.wine^
 ||goodhombre.wine^
 ||goon.wine^
@@ -127,6 +123,7 @@
 ||grapely.wine^
 ||grapur.wine^
 ||gs.wine^
+||gued.wine^
 ||hawaii.wine^
 ||hay88801.wine^
 ||hay88802.wine^
@@ -134,7 +131,6 @@
 ||hay88804.wine^
 ||hay88805.wine^
 ||hay88806.wine^
-||hdmovie2.wine^
 ||hebdg.wine^
 ||helderbergcellars.wine^
 ||hellorhighwater.wine^
@@ -147,6 +143,7 @@
 ||horse.wine^
 ||hpbpj.wine^
 ||hundredhillsusa.wine^
+||hupa.wine^
 ||hwceq.wine^
 ||icons.wine^
 ||igo.wine^
@@ -156,16 +153,20 @@
 ||italiamarche.wine^
 ||italiano.wine^
 ||itaste.wine^
+||iuhn.wine^
 ||jackn-jen.wine^
 ||jacknjen.wine^
+||jady.wine^
 ||joker.wine^
 ||josh.wine^
 ||juno.wine^
 ||jur.wine^
 ||kapias.wine^
 ||knotbysight.wine^
+||kuet.wine^
 ||kumamoto.wine^
 ||laguna.wine^
+||landward.wine^
 ||lareserva.wine^
 ||lareservabenicassim.wine^
 ||laughingmatters.wine^
@@ -180,8 +181,10 @@
 ||lumina.wine^
 ||lvq.wine^
 ||lxd.wine^
+||mady.wine^
 ||malbecaster.wine^
 ||marinic.wine^
+||matzer.wine^
 ||mcp.wine^
 ||meitre.wine^
 ||metal.wine^
@@ -189,10 +192,12 @@
 ||milk.wine^
 ||morningstar.wine^
 ||mostobene.wine^
+||murgo.wine^
 ||mvy.wine^
 ||mxm.wine^
 ||myqr.wine^
 ||myqrcode.wine^
+||mytaste.wine^
 ||mywinecellar.wine^
 ||nb.wine^
 ||ne-damo-srbiju.wine^
@@ -202,10 +207,10 @@
 ||network.wine^
 ||nine.wine^
 ||noe.wine^
+||nupa.wine^
 ||offline.wine^
 ||ojodeagua.wine^
 ||ojodeibiza.wine^
-||oliverandfriends.wine^
 ||onlinehelpsupport.wine^
 ||orangecapital.wine^
 ||pablohoney.wine^
@@ -215,7 +220,6 @@
 ||petnat.wine^
 ||pigmento.wine^
 ||pine.wine^
-||pokretzabuducnostsrbije.wine^
 ||pokretzanarod.wine^
 ||pokretzanarodidrzavu-aleksandarvucic.wine^
 ||pokretzanarodidrzavu-av.wine^
@@ -224,10 +228,8 @@
 ||pokretzanarodidrzavuav.wine^
 ||pokretzasrbiju-aleksandarvucic.wine^
 ||pokretzasrbiju-av.wine^
-||pokretzasrbiju.wine^
 ||pokretzasrbijualeksandarvucic.wine^
 ||pokretzasrbijuav.wine^
-||pokretzasrbijubuducnosti.wine^
 ||porto-tokorozawa.wine^
 ||potenza.wine^
 ||prmovies.wine^
@@ -249,6 +251,7 @@
 ||sipscout.wine^
 ||sngls.wine^
 ||sommee.wine^
+||sommefy.wine^
 ||sowalniportal.wine^
 ||spill.wine^
 ||sportaparat.wine^
@@ -258,6 +261,7 @@
 ||streaming.wine^
 ||swissness.wine^
 ||tangledwisdom.wine^
+||tastysheep.wine^
 ||tenutalariva.wine^
 ||ternaire.wine^
 ||thai.wine^
@@ -276,6 +280,8 @@
 ||unt.wine^
 ||uweini.wine^
 ||valledelbosco.wine^
+||vaud.wine^
+||vemi.wine^
 ||vicebygiesen.wine^
 ||vignaetera.wine^
 ||villa-vino.wine^
@@ -283,15 +289,14 @@
 ||vinario.wine^
 ||vinely.wine^
 ||vintagevines.wine^
-||vintaste.wine^
 ||vitabella.wine^
 ||wealthtech.wine^
 ||wedo.wine^
 ||winelabel.wine^
 ||winesofwashington.wine^
 ||wineto.wine^
+||wtr.wine^
 ||xoso66.wine^
-||yonge.wine^
 ||zero.wine^
 ||zhjdc.wine^
 ||zitto.wine^
