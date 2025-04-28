@@ -14,7 +14,6 @@
 ||asset-vision.supply^
 ||asset-visions.supply^
 ||atmos.supply^
-||atoz.supply^
 ||axion.supply^
 ||balos.supply^
 ||barber.supply^
@@ -22,7 +21,6 @@
 ||bead.supply^
 ||beautyempire.supply^
 ||bellerophon.supply^
-||bernieselectric.supply^
 ||bhfh.supply^
 ||blind.supply^
 ||boywife.supply^
@@ -39,18 +37,16 @@
 ||clinic.supply^
 ||clone.supply^
 ||cnna.supply^
-||coloradosteel.supply^
 ||compute.supply^
 ||conviction.supply^
 ||cookies.supply^
 ||coolwater.supply^
-||corporate.supply^
 ||cosmetic.supply^
 ||cosmetics.supply^
 ||creativeads.supply^
 ||crownbeauty.supply^
 ||cve.supply^
-||details.supply^
+||dao.supply^
 ||dispomart.supply^
 ||dlconstruction.supply^
 ||dnba.supply^
@@ -60,6 +56,7 @@
 ||electricalsource.supply^
 ||eleven.supply^
 ||elizabethsanitechserviceand.supply^
+||embk.supply^
 ||emfase.supply^
 ||exmed.supply^
 ||f8bet.supply^
@@ -70,11 +67,12 @@
 ||five.supply^
 ||flashback.supply^
 ||flow.supply^
+||flsteel.supply^
 ||format.supply^
 ||frens.supply^
-||fresh.supply^
 ||frisson.supply^
 ||frontline.supply^
+||gasteel.supply^
 ||geargraveyard.supply^
 ||gordonlab.supply^
 ||grayline.supply^
@@ -84,6 +82,7 @@
 ||hiscreation.supply^
 ||hockinghills.supply^
 ||hopefuladvice.supply^
+||industrialsolutions.supply^
 ||iv.supply^
 ||jewel.supply^
 ||joyride.supply^
@@ -109,6 +108,7 @@
 ||ndt.supply^
 ||need.supply^
 ||nest.supply^
+||newjerseysteel.supply^
 ||nirmata.supply^
 ||nohu.supply^
 ||northeasternpaint.supply^
@@ -116,7 +116,6 @@
 ||nutra.supply^
 ||nutraceuticals.supply^
 ||nuuk.supply^
-||obvious.supply^
 ||offline.supply^
 ||onfresh.supply^
 ||onlinepet.supply^
@@ -129,7 +128,6 @@
 ||perfume.supply^
 ||photovoltaic.supply^
 ||pinetwork.supply^
-||pixdasorteofficial.supply^
 ||proxy.supply^
 ||reed.supply^
 ||resilient.supply^
@@ -145,9 +143,7 @@
 ||secondspin.supply^
 ||shaner.supply^
 ||ship.supply^
-||shopbernies.supply^
 ||shortage.supply^
-||silvercoin.supply^
 ||snap.supply^
 ||softwear.supply^
 ||solarpunk.supply^
@@ -158,10 +154,10 @@
 ||strategic.supply^
 ||system.supply^
 ||thedesigner.supply^
-||threat.supply^
 ||tired.supply^
 ||tourcfya.supply^
 ||truelove.supply^
+||txsteel.supply^
 ||usfk.supply^
 ||v9bet.supply^
 ||vanuo.supply^
