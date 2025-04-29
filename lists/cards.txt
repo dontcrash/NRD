@@ -22,11 +22,13 @@
 ||balatro.cards^
 ||bash.cards^
 ||bcgame.cards^
+||bizatom.cards^
 ||blacksheep.cards^
 ||blankwhite.cards^
 ||burger.cards^
 ||buzflo.cards^
 ||calculator.cards^
+||canoodle.cards^
 ||cappa.cards^
 ||cardify.cards^
 ||cardpayment.cards^
@@ -70,7 +72,6 @@
 ||doctorcard.cards^
 ||drai.cards^
 ||drone.cards^
-||echo.cards^
 ||emporium.cards^
 ||evo.cards^
 ||exalted.cards^
@@ -87,7 +88,6 @@
 ||fi-safety.cards^
 ||fi.cards^
 ||findme.cards^
-||fishman.cards^
 ||flipp.cards^
 ||flipping.cards^
 ||floss.cards^
@@ -101,7 +101,6 @@
 ||giftcardmall-mygift.cards^
 ||goated.cards^
 ||goldenchase.cards^
-||goldpvc.cards^
 ||gordon.cards^
 ||gratia.cards^
 ||greenmansoothsayer.cards^
@@ -119,6 +118,7 @@
 ||kawaii.cards^
 ||kazikazan3.cards^
 ||kickoff.cards^
+||krt.cards^
 ||krypto.cards^
 ||ktrx.cards^
 ||laminate.cards^
@@ -132,6 +132,7 @@
 ||loosecannon.cards^
 ||luma.cards^
 ||lumo.cards^
+||managed.cards^
 ||marico.cards^
 ||markstutzman.cards^
 ||masahub.cards^
@@ -229,12 +230,12 @@
 ||skysetx.cards^
 ||slabless.cards^
 ||smb.cards^
+||solflare.cards^
 ||spanish.cards^
 ||spanishflash.cards^
 ||spread.cards^
 ||ssrmovies.cards^
 ||streetwars.cards^
-||sugar.cards^
 ||switch.cards^
 ||taplink.cards^
 ||tapx.cards^
@@ -263,6 +264,7 @@
 ||webxseries.cards^
 ||what.cards^
 ||wilder.cards^
+||win.cards^
 ||witha.cards^
 ||world4ufree.cards^
 ||xtra.cards^
