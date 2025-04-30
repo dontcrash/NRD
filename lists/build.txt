@@ -23,6 +23,7 @@
 ||boostbery.build^
 ||booty.build^
 ||brahmaconstruction.build^
+||bricksto.build^
 ||bridge-linea.build^
 ||budnar.build^
 ||buildify.build^
@@ -39,6 +40,7 @@
 ||enclave.build^
 ||endowment.build^
 ||finetune.build^
+||flannel.build^
 ||flatwater.build^
 ||gbs-usa.build^
 ||gcea.build^
@@ -48,6 +50,7 @@
 ||groundplay.build^
 ||gschwendtberger.build^
 ||gui.build^
+||handeeman.build^
 ||handyandy.build^
 ||hanuman.build^
 ||harth.build^
@@ -115,10 +118,12 @@
 ||repletify.build^
 ||richard.build^
 ||rite.build^
+||rockblock.build^
 ||rowan.build^
 ||ruben.build^
 ||rwa.build^
 ||saasify.build^
+||saif.build^
 ||sempervirens.build^
 ||shader.build^
 ||shona.build^
@@ -145,6 +150,7 @@
 ||vignya.build^
 ||vineetahuja.build^
 ||vybe.build^
+||wasmtime.build^
 ||woodliketo.build^
 ||woodyou.build^
 ||yume.build^

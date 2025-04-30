@@ -46,7 +46,6 @@
 ||apb.education^
 ||apci.education^
 ||archimedesacademy.education^
-||areteacademy.education^
 ||audace.education^
 ||auus.education^
 ||bangla.education^
@@ -55,6 +54,7 @@
 ||baukobox.education^
 ||bear.education^
 ||belajarbersama.education^
+||bgg.education^
 ||biblion.education^
 ||bilingualbrain.education^
 ||bitmap.education^
@@ -67,7 +67,6 @@
 ||boosttrading.education^
 ||brainboost.education^
 ||brainboostspot.education^
-||brainbridge.education^
 ||breeze-online.education^
 ||buildingscience.education^
 ||burnout.education^
@@ -77,13 +76,13 @@
 ||cal.education^
 ||california-university.education^
 ||cannabis.education^
-||cap-reussite.education^
 ||capellauni.education^
 ||capsule.education^
 ||carmel.education^
 ||cascadia.education^
 ||cauldron.education^
 ||ccsu.education^
+||cdc.education^
 ||cdp.education^
 ||ceca.education^
 ||centragro.education^
@@ -95,6 +94,7 @@
 ||cifacom.education^
 ||cifap.education^
 ||classement.education^
+||classevirtuelle.education^
 ||classicalearly.education^
 ||clcf.education^
 ||cle.education^
@@ -110,7 +110,6 @@
 ||conferences.education^
 ||conscious-capital.education^
 ||conservative.education^
-||construction.education^
 ||consultingacademy.education^
 ||continuity.education^
 ||corestone.education^
@@ -147,15 +146,16 @@
 ||devil.education^
 ||devteam.education^
 ||dibuka.education^
+||didakta.education^
 ||digital-campus.education^
 ||digitalcampus.education^
-||digitalconfidence.education^
 ||digitalworker.education^
 ||digitalworkforce.education^
 ||doctrine.education^
 ||dotation-impulscience.education^
 ||dotationimpulscience.education^
 ||dradela.education^
+||drep.education^
 ||dru.education^
 ||dtu.education^
 ||earlyenglish.education^
@@ -188,7 +188,6 @@
 ||esgrh.education^
 ||eslteacherkenn.education^
 ||essential.education^
-||ethical-ai.education^
 ||etsacap.education^
 ||evergreenllc.education^
 ||everything.education^
@@ -200,12 +199,10 @@
 ||falaqinternational.education^
 ||familywealth.education^
 ||filmcrew.education^
-||findly.education^
 ||firstchoice.education^
 ||fjwc.education^
 ||flic.education^
 ||flsi.education^
-||fly.education^
 ||fondation-ad.education^
 ||fondation.education^
 ||fondazioneikaros.education^
@@ -226,7 +223,6 @@
 ||g-group.education^
 ||geca.education^
 ||geek.education^
-||genio.education^
 ||get.education^
 ||getmore.education^
 ||ggx.education^
@@ -235,11 +231,11 @@
 ||gob.education^
 ||googlee.education^
 ||gotomarket.education^
+||gpt4.education^
 ||grandeecole.education^
 ||grant-impulscience.education^
 ||granthussey.education^
 ||growai.education^
-||gta.education^
 ||guardianacademy.education^
 ||guitari.education^
 ||gurujee.education^
@@ -255,7 +251,6 @@
 ||hetic.education^
 ||hfu.education^
 ||him.education^
-||hmmbuzzclick.education^
 ||holodeck.education^
 ||homeandaway.education^
 ||hooijberg.education^
@@ -281,9 +276,7 @@
 ||infobiz.education^
 ||inhmarketing.education^
 ||insport.education^
-||istitutopolitecnico.education^
-||istitutotecnicosuperiore.education^
-||istitutotecnicosuperiorepolitecnico.education^
+||iuta.education^
 ||jackhornerdinosaurs.education^
 ||jaes.education^
 ||janus.education^
@@ -299,7 +292,6 @@
 ||keepinformedofviolenceatmj.education^
 ||keiseronline.education^
 ||kentishpublishing.education^
-||kgsrabat.education^
 ||khcu.education^
 ||kientre.education^
 ||kienvan.education^
@@ -332,9 +324,9 @@
 ||livelife.education^
 ||lms365.education^
 ||lock.education^
+||locksmith.education^
 ||locus.education^
 ||longre.education^
-||lovehomeschool.education^
 ||luci.education^
 ||lucky88.education^
 ||madar.education^
@@ -357,6 +349,7 @@
 ||meatbd.education^
 ||mentorium.education^
 ||mentra.education^
+||meos.education^
 ||mercurymusic.education^
 ||metric.education^
 ||metrics.education^
@@ -373,13 +366,14 @@
 ||moom.education^
 ||morningstar.education^
 ||mortgageeducationinstitute.education^
+||mti.education^
 ||mule.education^
 ||multimedia.education^
 ||muraqaba.education^
 ||musique.education^
 ||mutiracial.education^
 ||mybosa.education^
-||nacpp.education^
+||mytailored.education^
 ||nbet.education^
 ||nbuniversity.education^
 ||ne-damo-srbiju.education^
@@ -403,8 +397,6 @@
 ||ohioconnectionsacademy.education^
 ||onlinequran.education^
 ||onlines.education^
-||ontological.education^
-||ontology.education^
 ||opencomputationalfluiddynamics.education^
 ||openuniversity.education^
 ||orlandouniversity.education^
@@ -440,6 +432,7 @@
 ||promd.education^
 ||pruf.education^
 ||qinghuaedu.education^
+||qndriy.education^
 ||qualicube.education^
 ||queensway.education^
 ||quetzalia.education^
@@ -461,6 +454,7 @@
 ||redtube.education^
 ||registrar.education^
 ||resonant-suppression.education^
+||responsibleai.education^
 ||revenue.education^
 ||rezulto.education^
 ||rhodes.education^
@@ -471,6 +465,7 @@
 ||rvmc.education^
 ||rwe.education^
 ||safeandsecure.education^
+||saku.education^
 ||sandandstonemedia.education^
 ||sandra.education^
 ||saninas.education^
@@ -480,7 +475,7 @@
 ||sayhello.education^
 ||scienceresearchmentoring.education^
 ||scolaires.education^
-||scuolasuperiorepolitecnica.education^
+||sector.education^
 ||securitytrainingacademy.education^
 ||seeme.education^
 ||sentence.education^
@@ -491,7 +486,6 @@
 ||shelly.education^
 ||showcase.education^
 ||simpletrading.education^
-||simplex.education^
 ||skarb.education^
 ||skillsforlife.education^
 ||skillsurgepage.education^
@@ -518,10 +512,10 @@
 ||studyaide.education^
 ||studyin.education^
 ||studypulsehub.education^
+||subu.education^
 ||sumclub.education^
 ||supdevinci.education^
 ||supply.education^
-||swimcoach.education^
 ||tactimalin.education^
 ||takumi.education^
 ||tanka.education^
@@ -557,9 +551,7 @@
 ||uark.education^
 ||ucst.education^
 ||ucv.education^
-||uda.education^
 ||uk88.education^
-||ultimatecreditfix.education^
 ||umi.education^
 ||underdog.education^
 ||unfck.education^
@@ -576,8 +568,10 @@
 ||upm.education^
 ||upro.education^
 ||upsej.education^
+||uqac.education^
 ||utc.education^
 ||vereya.education^
+||veritas.education^
 ||veteransincorporatedofamerica.education^
 ||vibecode.education^
 ||vibecoding.education^
@@ -607,6 +601,6 @@
 ||yesa.education^
 ||ylwbrk.education^
 ||youngdreams.education^
-||youporn.education^
 ||zain.education^
 ||zera.education^
+||zorva.education^

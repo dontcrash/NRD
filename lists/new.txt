@@ -1,6 +1,5 @@
 ||316.new^
 ||access.new^
-||air.new^
 ||aivideo.new^
 ||app.new^
 ||beam.new^
@@ -9,7 +8,6 @@
 ||builtwithrocket.new^
 ||ceo.new^
 ||claim.new^
-||collab.new^
 ||com.new^
 ||compose.new^
 ||consent.new^
@@ -17,10 +15,8 @@
 ||coop.new^
 ||dagster.new^
 ||dates.new^
-||devops.new^
 ||dsheets.new^
 ||durable.new^
-||emergent.new^
 ||face.new^
 ||firebase.new^
 ||flows.new^
@@ -38,7 +34,6 @@
 ||lib.new^
 ||livedoc.new^
 ||locate.new^
-||meetandeat.new^
 ||memory.new^
 ||mind.new^
 ||mix.new^
@@ -59,6 +54,7 @@
 ||proto.new^
 ||pv.new^
 ||reve.new^
+||rfq.new^
 ||rocket.new^
 ||roi.new^
 ||roof.new^
@@ -66,7 +62,6 @@
 ||senhasegura.new^
 ||shell.new^
 ||shopapp.new^
-||short.new^
 ||sol.new^
 ||strategy.new^
 ||swarm.new^
@@ -84,6 +79,9 @@
 ||vibecoding.new^
 ||volume.new^
 ||voyager.new^
+||vuetify.new^
 ||why.new^
 ||wo.new^
+||workbooks.new^
+||worksheets.new^
 ||ywo.new^

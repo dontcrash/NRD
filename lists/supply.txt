@@ -10,13 +10,14 @@
 ||alert.supply^
 ||apexmedical.supply^
 ||arcana.supply^
-||artefact.supply^
 ||artware.supply^
 ||asset-vision.supply^
 ||asset-visions.supply^
 ||atmos.supply^
 ||axion.supply^
+||backyard.supply^
 ||balos.supply^
+||bando.supply^
 ||barber.supply^
 ||base-cast.supply^
 ||bay.supply^
@@ -33,7 +34,6 @@
 ||cadence.supply^
 ||carrierpigeon.supply^
 ||caul.supply^
-||cavin.supply^
 ||chart.supply^
 ||classone.supply^
 ||clinic.supply^
@@ -63,7 +63,6 @@
 ||exmed.supply^
 ||f8bet.supply^
 ||face.supply^
-||femmetech.supply^
 ||fennario.supply^
 ||fit.supply^
 ||five.supply^
@@ -76,6 +75,7 @@
 ||frisson.supply^
 ||gasteel.supply^
 ||geargraveyard.supply^
+||glaze.supply^
 ||grayline.supply^
 ||hackerspace.supply^
 ||handle.supply^
@@ -129,10 +129,8 @@
 ||photovoltaic.supply^
 ||proxy.supply^
 ||radius.supply^
-||reed.supply^
 ||resilient.supply^
 ||rift.supply^
-||rive.supply^
 ||rizzfi.supply^
 ||rodan.supply^
 ||route.supply^
@@ -144,6 +142,7 @@
 ||ship.supply^
 ||shortage.supply^
 ||snap.supply^
+||softplay.supply^
 ||softwear.supply^
 ||solarpunk.supply^
 ||som.supply^
@@ -156,6 +155,7 @@
 ||thedesigner.supply^
 ||tired.supply^
 ||tourcfya.supply^
+||treasures.supply^
 ||truelove.supply^
 ||txsteel.supply^
 ||union.supply^

@@ -10,7 +10,6 @@
 ||aiagent.cards^
 ||aigifts.cards^
 ||allen.cards^
-||angelwings.cards^
 ||arkids.cards^
 ||artificialintelligent.cards^
 ||ask.cards^
@@ -36,9 +35,10 @@
 ||centered.cards^
 ||certified.cards^
 ||champ.cards^
+||chasethelegacy.cards^
 ||chicken.cards^
 ||cinevood.cards^
-||cityof.cards^
+||clove.cards^
 ||cog.cards^
 ||com-gift.cards^
 ||communityroom.cards^
@@ -72,7 +72,9 @@
 ||doctorcard.cards^
 ||drai.cards^
 ||drone.cards^
+||editor.cards^
 ||emporium.cards^
+||eros.cards^
 ||evo.cards^
 ||exalted.cards^
 ||exam.cards^
@@ -96,7 +98,6 @@
 ||futuric.cards^
 ||getfucked.cards^
 ||getme.cards^
-||getnexa.cards^
 ||ghostpay.cards^
 ||giftcardmall-mygift.cards^
 ||goated.cards^
@@ -164,13 +165,13 @@
 ||moneycredit.cards^
 ||moni.cards^
 ||morph.cards^
-||moviespapa.cards^
 ||mpti.cards^
 ||mtjree.cards^
 ||multiply.cards^
 ||my-jcb.cards^
 ||my-master.cards^
 ||mydig.cards^
+||mygiftcardscenter.cards^
 ||myice.cards^
 ||myjcb-co.cards^
 ||myjcb-jp.cards^
@@ -185,12 +186,10 @@
 ||obsidian.cards^
 ||odonto.cards^
 ||orbimart.cards^
-||orenda.cards^
 ||oxbet.cards^
 ||painting.cards^
 ||pana.cards^
 ||paperclip.cards^
-||payinvoicewithnewcredit.cards^
 ||paylette.cards^
 ||pentagon.cards^
 ||personal.cards^
@@ -220,7 +219,6 @@
 ||salarymaxprepaid.cards^
 ||saltcity.cards^
 ||sealed.cards^
-||seeker.cards^
 ||sendit.cards^
 ||shaadi.cards^
 ||shi.cards^
@@ -229,6 +227,7 @@
 ||skymovieshd.cards^
 ||skysetx.cards^
 ||slabless.cards^
+||slush.cards^
 ||smb.cards^
 ||solflare.cards^
 ||spanish.cards^
@@ -247,6 +246,7 @@
 ||thecraftyloft.cards^
 ||thestackeddeck.cards^
 ||todavia.cards^
+||tradebroker.cards^
 ||tradecollectgo.cards^
 ||travel.cards^
 ||typology.cards^
@@ -268,8 +268,10 @@
 ||witha.cards^
 ||world4ufree.cards^
 ||xtra.cards^
+||xxi.cards^
 ||y.cards^
 ||yellow.cards^
 ||yesplay.cards^
 ||ylwbrk.cards^
 ||zen.cards^
+||zodia.cards^
