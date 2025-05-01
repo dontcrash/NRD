@@ -2,13 +2,13 @@
 ||access.new^
 ||aivideo.new^
 ||app.new^
-||beam.new^
 ||bol.new^
 ||boult.new^
 ||builtwithrocket.new^
 ||ceo.new^
 ||claim.new^
 ||com.new^
+||composable.new^
 ||compose.new^
 ||consent.new^
 ||console.new^
@@ -31,7 +31,6 @@
 ||intro.new^
 ||komo.new^
 ||lfg.new^
-||lib.new^
 ||livedoc.new^
 ||locate.new^
 ||memory.new^
@@ -63,6 +62,7 @@
 ||shell.new^
 ||shopapp.new^
 ||sol.new^
+||static.new^
 ||strategy.new^
 ||swarm.new^
 ||terminal.new^

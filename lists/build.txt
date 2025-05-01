@@ -4,6 +4,7 @@
 ||abstraction.build^
 ||addy.build^
 ||aether.build^
+||agenticai.build^
 ||agentops.build^
 ||ai-bootstrap.build^
 ||ai.build^
@@ -13,7 +14,6 @@
 ||artisanoaks.build^
 ||audhd.build^
 ||autonomy.build^
-||b52club.build^
 ||bang.build^
 ||becc.build^
 ||better-auth.build^
@@ -39,6 +39,7 @@
 ||eastwest.build^
 ||enclave.build^
 ||endowment.build^
+||enlist-linea.build^
 ||finetune.build^
 ||flannel.build^
 ||flatwater.build^
@@ -70,12 +71,11 @@
 ||lhba.build^
 ||liquid.build^
 ||lockin.build^
-||loki.build^
-||manclub.build^
 ||mania.build^
 ||mastra.build^
 ||mavia.build^
 ||mcorps.build^
+||midmod.build^
 ||mint-linea.build^
 ||modelcontextprotocol.build^
 ||modulo.build^
@@ -86,7 +86,6 @@
 ||motion.build^
 ||motis.build^
 ||mvia.build^
-||nami.build^
 ||nearshore.build^
 ||neoma.build^
 ||nextbrick.build^
@@ -103,19 +102,21 @@
 ||oneplan.build^
 ||oneshield.build^
 ||openfoundation.build^
+||orderforge.build^
 ||osmos.build^
 ||overdraft.build^
 ||overland.build^
 ||pandora-erc404.build^
+||perchance.build^
 ||picnic.build^
 ||pixel.build^
 ||ponder.build^
 ||primadesign.build^
 ||promptly.build^
 ||quine.build^
-||ragged.build^
 ||reasoner.build^
 ||repletify.build^
+||resu.build^
 ||richard.build^
 ||rite.build^
 ||rockblock.build^
@@ -151,6 +152,7 @@
 ||vineetahuja.build^
 ||vybe.build^
 ||wasmtime.build^
+||wolfpack.build^
 ||woodliketo.build^
 ||woodyou.build^
 ||yume.build^
