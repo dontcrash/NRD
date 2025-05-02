@@ -37,7 +37,6 @@
 ||dirt.broker^
 ||equipment.broker^
 ||erc.broker^
-||eu9.broker^
 ||every.broker^
 ||f1.broker^
 ||f8bet.broker^
@@ -58,6 +57,7 @@
 ||highridgeservices.broker^
 ||highridgetrust.broker^
 ||hijrah.broker^
+||housing.broker^
 ||humanoid.broker^
 ||import.broker^
 ||inmobiliarias.broker^
@@ -68,6 +68,7 @@
 ||ipharma.broker^
 ||iself.broker^
 ||iwin.broker^
+||jobs.broker^
 ||kingdomoil.broker^
 ||kosa.broker^
 ||lgb.broker^
@@ -83,11 +84,13 @@
 ||motorsport.broker^
 ||mrpremium.broker^
 ||multifamily.broker^
+||mycar.broker^
 ||mywood.broker^
 ||nexus.broker^
 ||obsession.broker^
 ||otcbitcoin.broker^
 ||passport.broker^
+||perezaurensanz.broker^
 ||poly.broker^
 ||portal.broker^
 ||pre-construction.broker^
