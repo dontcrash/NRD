@@ -5,14 +5,12 @@
 ||artixen.report^
 ||auto-accident.report^
 ||backlink.report^
-||boxing.report^
 ||chouyi.report^
 ||classic.report^
 ||cloak.report^
 ||crawler.report^
 ||dailytrench.report^
 ||dmv-id.report^
-||dnsanalyser.report^
 ||dtm.report^
 ||goodbusiness.report^
 ||h2z.report^
@@ -31,10 +29,7 @@
 ||pivot.report^
 ||pkcert.report^
 ||ponder.report^
-||postnord.report^
-||relationship.report^
 ||relocation.report^
-||rum.report^
 ||run.report^
 ||sbobet.report^
 ||seastats.report^

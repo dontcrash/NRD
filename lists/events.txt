@@ -46,12 +46,12 @@
 ||art-show.events^
 ||artbg.events^
 ||artgarage.events^
+||artifact.events^
 ||asw.events^
 ||atic.events^
 ||atornetworkdefi.events^
 ||audentia.events^
 ||aum.events^
-||aurafest.events^
 ||azurofinance.events^
 ||bakeryswapdao.events^
 ||bakeryswapnetwork.events^
@@ -81,12 +81,12 @@
 ||bikercalendar.events^
 ||bilet.events^
 ||binarydefense.events^
-||bioand.events^
 ||bitcoinscat.events^
 ||bite.events^
 ||bitsmileyfinance.events^
 ||bitsmileytokendao.events^
 ||bizfest.events^
+||blackink.events^
 ||blackwingfi.events^
 ||blinkr.events^
 ||bloomington.events^
@@ -105,12 +105,10 @@
 ||bouncebittrade.events^
 ||bouncedtoken.events^
 ||bounceprotocol.events^
-||brashier.events^
 ||braun.events^
 ||brigk.events^
 ||brigkair.events^
 ||brigkmakerspace.events^
-||brookline.events^
 ||buckscounty.events^
 ||bunny.events^
 ||burlesqueshows.events^
@@ -129,6 +127,7 @@
 ||cast.events^
 ||catalystmi.events^
 ||cbm.events^
+||ccdc.events^
 ||celebratelife.events^
 ||celestia.events^
 ||ceox.events^
@@ -152,7 +151,6 @@
 ||concrode.events^
 ||conner.events^
 ||conscious-capital.events^
-||contentux.events^
 ||continuity.events^
 ||contra.events^
 ||coolblue.events^
@@ -180,6 +178,7 @@
 ||davidjones.events^
 ||day2.events^
 ||day2media.events^
+||daytonabeach.events^
 ||dbproduction.events^
 ||dbproductions.events^
 ||ddays.events^
@@ -193,8 +192,8 @@
 ||defense-logistics-summit.events^
 ||defi-monad.events^
 ||dem.events^
+||denthaner.events^
 ||designstory.events^
-||designsystem.events^
 ||destracoin.events^
 ||detensordefi.events^
 ||detensortokendefi.events^
@@ -203,7 +202,6 @@
 ||digital-marketing.events^
 ||discoverai.events^
 ||disqo.events^
-||divvy.events^
 ||dmv.events^
 ||dogofhonor.events^
 ||dopo.events^
@@ -220,6 +218,8 @@
 ||eigenlayerfitrade.events^
 ||eigenlayersfi.events^
 ||eigenlayertradingfi.events^
+||elainxi.events^
+||electrix.events^
 ||elevatehr.events^
 ||elrow.events^
 ||elwalimat.events^
@@ -298,12 +298,12 @@
 ||ghostartists.events^
 ||ghozalis.events^
 ||givemefive.events^
-||glienicke.events^
 ||globalside.events^
 ||gmcoulee.events^
 ||gnc.events^
 ||godtear.events^
 ||goglobal.events^
+||gogroup.events^
 ||gonorthpark.events^
 ||goodvibration.events^
 ||goodvibrations.events^
@@ -314,6 +314,7 @@
 ||griffin.events^
 ||groovea.events^
 ||gto.events^
+||guestregistration.events^
 ||guildball.events^
 ||gummyonsol.events^
 ||gunfire.events^
@@ -322,7 +323,9 @@
 ||halal.events^
 ||happy.events^
 ||harbour.events^
+||harder.events^
 ||harmonic.events^
+||hartmanngroup.events^
 ||hashaitoken.events^
 ||hashaitokens.events^
 ||hashflowfi.events^
@@ -339,6 +342,7 @@
 ||hemisphere.events^
 ||hijosdelsol.events^
 ||hijrah.events^
+||him.events^
 ||hipe.events^
 ||holly.events^
 ||homebasekarlsuhe.events^
@@ -349,6 +353,7 @@
 ||iconsofboxing.events^
 ||igamingcasino.events^
 ||iif.events^
+||imposing.events^
 ||infarma.events^
 ||infinite-horizons.events^
 ||influencekw.events^
@@ -416,12 +421,14 @@
 ||lgb.events^
 ||lighton.events^
 ||lilot.events^
+||liquorbox.events^
 ||littlekart.events^
 ||lkm.events^
 ||lme.events^
 ||localeventsnj.events^
 ||longboard.events^
 ||lopanto.events^
+||lotuslab.events^
 ||lucient.events^
 ||luckyspin.events^
 ||lumiva.events^
@@ -490,6 +497,7 @@
 ||mybrand.events^
 ||mylittlebakers.events^
 ||myo.events^
+||n8n.events^
 ||nakmotosgames.events^
 ||napahaus.events^
 ||naqsh.events^
@@ -506,6 +514,7 @@
 ||non-profit.events^
 ||normiebasedefi.events^
 ||northbeach.events^
+||northwallcapital.events^
 ||notco.events^
 ||nuv.events^
 ||oasisfi.events^
@@ -596,7 +605,6 @@
 ||prinzedelhirsch.events^
 ||priomy.events^
 ||prismafi.events^
-||progenia.events^
 ||promeet.events^
 ||promenade.events^
 ||propass.events^
@@ -622,10 +630,12 @@
 ||quintessence.events^
 ||rainmaker.events^
 ||random.events^
+||rawlight.events^
 ||reallocal.events^
 ||realprotocol.events^
 ||realtor.events^
 ||realtors.events^
+||recruitment.events^
 ||rendernetworkdao.events^
 ||renzonetwork.events^
 ||renzoprotocoldefi.events^
@@ -640,6 +650,7 @@
 ||ritzparis.events^
 ||rivalzaiprotocol.events^
 ||rndm.events^
+||rollingstones.events^
 ||ronny.events^
 ||roostercoindefi.events^
 ||rspnd.events^
@@ -661,6 +672,7 @@
 ||schwer.events^
 ||scratchmade.events^
 ||sdgop.events^
+||sedi.events^
 ||seedifycoin.events^
 ||seedifycoinprotocol.events^
 ||seedifydaoprotocol.events^
@@ -693,6 +705,7 @@
 ||skg.events^
 ||skill-lyft.events^
 ||skinnytoes.events^
+||slide.events^
 ||snapo.events^
 ||socialcreatives.events^
 ||soldance.events^
@@ -703,6 +716,7 @@
 ||sonicflux.events^
 ||sophonsfinance.events^
 ||soulcircle.events^
+||soundsgood.events^
 ||southeast.events^
 ||southportbeachhouse.events^
 ||sova.events^
@@ -710,6 +724,7 @@
 ||sovryndefi.events^
 ||spain4you.events^
 ||sparks.events^
+||spdrs.events^
 ||spice.events^
 ||spikeyverse.events^
 ||sportsbetting.events^
@@ -720,6 +735,8 @@
 ||stemconnect.events^
 ||sterling.events^
 ||stfu.events^
+||storybox.events^
+||storytelling.events^
 ||studentjobafrica.events^
 ||studioj.events^
 ||sugarandtreats.events^
@@ -742,6 +759,7 @@
 ||techdir.events^
 ||technoise.events^
 ||techtalk.events^
+||temporal.events^
 ||texasmusic.events^
 ||thaali.events^
 ||thefutureofwork.events^
@@ -787,8 +805,6 @@
 ||uniswap.events^
 ||unitedhumans.events^
 ||universalbasiccompute.events^
-||unvrs.events^
-||unvrsibiza.events^
 ||upfan.events^
 ||upupup.events^
 ||vailresorts.events^
@@ -865,3 +881,4 @@
 ||zkfaircoin.events^
 ||zssbecker.events^
 ||zur.events^
+||zylinderhaus.events^

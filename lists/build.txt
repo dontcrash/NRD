@@ -24,6 +24,8 @@
 ||bridge-linea.build^
 ||budnar.build^
 ||buildify.build^
+||cicd.build^
+||citizen.build^
 ||clev.build^
 ||cloud.build^
 ||code-fox.build^
@@ -36,7 +38,6 @@
 ||eastwest.build^
 ||editorial.build^
 ||enclave.build^
-||endowment.build^
 ||enlist-linea.build^
 ||finetune.build^
 ||flannel.build^
@@ -59,8 +60,8 @@
 ||highridgetrust.build^
 ||hijrah.build^
 ||houtex.build^
+||iwonder.build^
 ||jamllc.build^
-||joinery.build^
 ||kahani.build^
 ||kairovis.build^
 ||kapital.build^
@@ -84,6 +85,7 @@
 ||motion.build^
 ||motis.build^
 ||mvia.build^
+||myown.build^
 ||nearshore.build^
 ||neoma.build^
 ||nextbrick.build^
@@ -104,7 +106,6 @@
 ||osmos.build^
 ||overdraft.build^
 ||overland.build^
-||pandora-erc404.build^
 ||perchance.build^
 ||picnic.build^
 ||pixel.build^
@@ -113,6 +114,7 @@
 ||promptly.build^
 ||quine.build^
 ||reasoner.build^
+||renovit.build^
 ||repletify.build^
 ||resu.build^
 ||richard.build^
@@ -154,4 +156,5 @@
 ||wolfpack.build^
 ||woodliketo.build^
 ||woodyou.build^
+||xenyria.build^
 ||yume.build^
