@@ -13,7 +13,6 @@
 ||audhd.build^
 ||autonomy.build^
 ||bang.build^
-||becc.build^
 ||better-auth.build^
 ||beveridge.build^
 ||billytoddbuilders.build^
@@ -27,11 +26,9 @@
 ||cicd.build^
 ||citizen.build^
 ||clev.build^
-||cloud.build^
 ||code-fox.build^
 ||consciouscapital.build^
 ||coretext.build^
-||davy.build^
 ||demeter.build^
 ||devel.build^
 ||develapa.build^
@@ -78,7 +75,6 @@
 ||mint-linea.build^
 ||modelcontextprotocol.build^
 ||modulo.build^
-||momentary.build^
 ||monarchs.build^
 ||monorepo.build^
 ||moose.build^
@@ -103,14 +99,11 @@
 ||oneshield.build^
 ||openfoundation.build^
 ||orderforge.build^
-||osmos.build^
 ||overdraft.build^
 ||overland.build^
 ||perchance.build^
-||picnic.build^
 ||pixel.build^
 ||ponder.build^
-||primadesign.build^
 ||promptly.build^
 ||quine.build^
 ||reasoner.build^
@@ -123,7 +116,6 @@
 ||rowan.build^
 ||ruben.build^
 ||rwa.build^
-||saasify.build^
 ||saif.build^
 ||sempervirens.build^
 ||shader.build^
