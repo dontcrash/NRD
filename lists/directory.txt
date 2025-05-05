@@ -20,7 +20,6 @@
 ||agentfile.directory^
 ||agentwho.directory^
 ||agis.directory^
-||aicreators.directory^
 ||aidata.directory^
 ||aiguardrails.directory^
 ||ailink.directory^
@@ -29,6 +28,7 @@
 ||aisports.directory^
 ||aisupply.directory^
 ||aiworkers.directory^
+||americasmarketplace.directory^
 ||androidapps.directory^
 ||animals.directory^
 ||anti.directory^
@@ -45,7 +45,6 @@
 ||asipo.directory^
 ||asx6136.directory^
 ||atrium.directory^
-||aussie.directory^
 ||autodetailing.directory^
 ||automations.directory^
 ||axis.directory^
@@ -56,6 +55,7 @@
 ||betting.directory^
 ||binarium.directory^
 ||birthday.directory^
+||bitcoincasino.directory^
 ||bittensor.directory^
 ||bizeeboard.directory^
 ||blogbook.directory^
@@ -101,7 +101,6 @@
 ||clhof.directory^
 ||cloak.directory^
 ||cockenziehouse.directory^
-||coffeeshops.directory^
 ||collaboration.directory^
 ||collective.directory^
 ||collectors.directory^
@@ -124,11 +123,11 @@
 ||d1c.directory^
 ||deepwiki.directory^
 ||dementia.directory^
+||digitalmarketing.directory^
 ||digitalwellness.directory^
 ||digitalworker.directory^
 ||digitalworkforce.directory^
 ||dinwiddieva.directory^
-||directorsconnection.directory^
 ||discordserver.directory^
 ||discourses.directory^
 ||discover.directory^
@@ -140,11 +139,10 @@
 ||dontorrent.directory^
 ||download.directory^
 ||dreamtownrealestateworkersdev.directory^
+||drycleaner.directory^
+||drycleaners.directory^
 ||easternshoreva.directory^
 ||ecobiomat.directory^
-||edenlegal.directory^
-||edenservice.directory^
-||edenwellness.directory^
 ||edilizia.directory^
 ||energy.directory^
 ||engineerings.directory^
@@ -164,7 +162,6 @@
 ||finances.directory^
 ||findabot.directory^
 ||fishingboats.directory^
-||fixit.directory^
 ||floridachildcare.directory^
 ||freestartup.directory^
 ||fruitarian.directory^
@@ -172,7 +169,6 @@
 ||funnel.directory^
 ||furniture.directory^
 ||furry.directory^
-||future.directory^
 ||ga6789.directory^
 ||gamer.directory^
 ||gdbay.directory^
@@ -180,16 +176,15 @@
 ||glamorique.directory^
 ||glenallenva.directory^
 ||globalmeetconference.directory^
-||goal123.directory^
 ||goodcompany.directory^
 ||gorpcore.directory^
 ||gosplify.directory^
 ||gptimage.directory^
 ||greatlakes.directory^
-||greatlakesthrive.directory^
 ||greenview.directory^
 ||grid.directory^
 ||guate.directory^
+||hamished.directory^
 ||hatch.directory^
 ||healthai.directory^
 ||helpme.directory^
@@ -204,6 +199,7 @@
 ||humorous.directory^
 ||hydroxytyrosol.directory^
 ||hypnos.directory^
+||ike.directory^
 ||imposing.directory^
 ||impulse.directory^
 ||indiandefence.directory^
@@ -221,10 +217,10 @@
 ||iwebz365.directory^
 ||janm.directory^
 ||jobboards.directory^
+||journey.directory^
 ||jpx6182.directory^
 ||jpx9712.directory^
 ||jurgensen.directory^
-||k8s.directory^
 ||keonhacai.directory^
 ||keyper.directory^
 ||kimber.directory^
@@ -239,7 +235,6 @@
 ||legit.directory^
 ||letta.directory^
 ||lexikon.directory^
-||lfa.directory^
 ||lgb.directory^
 ||lists.directory^
 ||livechat.directory^
@@ -260,6 +255,7 @@
 ||mam.directory^
 ||manara.directory^
 ||manassasva.directory^
+||marinas.directory^
 ||maryborough.directory^
 ||massagehive.directory^
 ||may88.directory^
@@ -269,19 +265,20 @@
 ||memberslist.directory^
 ||memphistn.directory^
 ||menopausesymptoms.directory^
+||mentorme.directory^
 ||mf301rwpj.directory^
 ||middle.directory^
 ||ministries.directory^
 ||mkdir.directory^
+||mobilemechanic.directory^
 ||mods.directory^
-||momentum.directory^
 ||morningstar.directory^
 ||moversandshakers.directory^
 ||n8n.directory^
 ||nabahli-enc.directory^
 ||napawine.directory^
 ||napawines.directory^
-||naturalhair.directory^
+||nationallottery.directory^
 ||net88.directory^
 ||neuron.directory^
 ||newenglandcleaners.directory^
@@ -294,13 +291,11 @@
 ||oceanfront.directory^
 ||olivecosmetics.directory^
 ||onlinegambling.directory^
-||organizations.directory^
 ||pachama.directory^
 ||package.directory^
 ||pandorajar.directory^
 ||pasts-lv.directory^
 ||patio.directory^
-||paws-therapydogs.directory^
 ||perfect-search.directory^
 ||perfectprompt.directory^
 ||petersburgva.directory^
@@ -339,7 +334,6 @@
 ||rnyrv109u.directory^
 ||roadmap.directory^
 ||rollerskating.directory^
-||roocode.directory^
 ||roommate.directory^
 ||roommates.directory^
 ||rooted.directory^
@@ -359,6 +353,7 @@
 ||seven.directory^
 ||sgbusiness.directory^
 ||shbet.directory^
+||shoptheindependents.directory^
 ||sicurezza.directory^
 ||sims.directory^
 ||sims5.directory^
@@ -367,8 +362,8 @@
 ||skystreaming.directory^
 ||smab.directory^
 ||smallandmightybusiness.directory^
-||smartbot.directory^
 ||smc.directory^
+||snowflake.directory^
 ||socialmedia.directory^
 ||solideopedia.directory^
 ||song.directory^
@@ -382,6 +377,7 @@
 ||supercarsblondie.directory^
 ||superfood.directory^
 ||supply.directory^
+||sushi.directory^
 ||svcs.directory^
 ||takeoff.directory^
 ||tasman.directory^
@@ -437,6 +433,7 @@
 ||unstoppable.directory^
 ||usasuppliers.directory^
 ||vacationguides.directory^
+||vcxo.directory^
 ||vectordbs.directory^
 ||ventesdebureaux.directory^
 ||venturecapital.directory^

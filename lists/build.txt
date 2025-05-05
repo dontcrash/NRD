@@ -29,9 +29,11 @@
 ||code-fox.build^
 ||consciouscapital.build^
 ||coretext.build^
+||creativevision.build^
+||decent.build^
 ||demeter.build^
-||devel.build^
 ||develapa.build^
+||dreamx.build^
 ||eastwest.build^
 ||editorial.build^
 ||enclave.build^
@@ -46,7 +48,6 @@
 ||googlee.build^
 ||groundplay.build^
 ||gschwendtberger.build^
-||gui.build^
 ||handeeman.build^
 ||handyandy.build^
 ||hanuman.build^
@@ -61,7 +62,6 @@
 ||jamllc.build^
 ||kahani.build^
 ||kairovis.build^
-||kapital.build^
 ||krafft.build^
 ||kratos.build^
 ||lanterns.build^
@@ -72,10 +72,10 @@
 ||mastra.build^
 ||mcorps.build^
 ||midmod.build^
+||miniapp.build^
 ||mint-linea.build^
 ||modelcontextprotocol.build^
 ||modulo.build^
-||monarchs.build^
 ||monorepo.build^
 ||moose.build^
 ||motion.build^
@@ -95,7 +95,6 @@
 ||onbet.build^
 ||onboarding.build^
 ||onemore.build^
-||oneplan.build^
 ||oneshield.build^
 ||openfoundation.build^
 ||orderforge.build^
@@ -107,6 +106,7 @@
 ||promptly.build^
 ||quine.build^
 ||reasoner.build^
+||referrals-linea.build^
 ||renovit.build^
 ||repletify.build^
 ||resu.build^
@@ -117,8 +117,9 @@
 ||ruben.build^
 ||rwa.build^
 ||saif.build^
+||schmidtconstruction.build^
+||seguro.build^
 ||sempervirens.build^
-||shader.build^
 ||shona.build^
 ||shopapp.build^
 ||shouldi.build^
@@ -139,7 +140,6 @@
 ||tkoff.build^
 ||tryboom.build^
 ||tune.build^
-||u8881.build^
 ||unikernel.build^
 ||vignya.build^
 ||vineetahuja.build^
