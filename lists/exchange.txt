@@ -10,7 +10,6 @@
 ||8live.exchange^
 ||a.exchange^
 ||aadlr.exchange^
-||abtc.exchange^
 ||adierss.exchange^
 ||adir.exchange^
 ||adkrn.exchange^
@@ -19,7 +18,6 @@
 ||adyen.exchange^
 ||aedt.exchange^
 ||aflat.exchange^
-||afrikan.exchange^
 ||ag-en.exchange^
 ||agent2agent.exchange^
 ||agi.exchange^
@@ -29,6 +27,7 @@
 ||alkanes.exchange^
 ||allstock.exchange^
 ||allthings.exchange^
+||alphaaccess.exchange^
 ||alphabit.exchange^
 ||america.exchange^
 ||americanbitcoin.exchange^
@@ -39,6 +38,7 @@
 ||arika.exchange^
 ||artifacts.exchange^
 ||arxjr.exchange^
+||as.exchange^
 ||asod.exchange^
 ||astra.exchange^
 ||astrax.exchange^
@@ -72,6 +72,7 @@
 ||bitcoinfutures.exchange^
 ||bitcoinoptions.exchange^
 ||bitcointrading.exchange^
+||bitdax.exchange^
 ||bitpump.exchange^
 ||bkokkr.exchange^
 ||blackfortnetwork.exchange^
@@ -89,7 +90,6 @@
 ||bpqxk.exchange^
 ||brani.exchange^
 ||brub.exchange^
-||bsme.exchange^
 ||btconly.exchange^
 ||btcy.exchange^
 ||bulk.exchange^
@@ -98,7 +98,6 @@
 ||businessbook.exchange^
 ||buycoin.exchange^
 ||buytoks.exchange^
-||bytex.exchange^
 ||cana.exchange^
 ||capcoin.exchange^
 ||capital.exchange^
@@ -130,16 +129,17 @@
 ||conscious-capital.exchange^
 ||continuity.exchange^
 ||continuum.exchange^
+||controller.exchange^
 ||contx.exchange^
 ||cooper.exchange^
 ||coxno.exchange^
+||cradle.exchange^
 ||cricketbuzz.exchange^
 ||cryo.exchange^
 ||crypen.exchange^
 ||crypto2fiat.exchange^
 ||crypto7.exchange^
 ||cryptoes.exchange^
-||cryptomaster.exchange^
 ||cryptonova.exchange^
 ||cryptoo.exchange^
 ||cryptopulse.exchange^
@@ -168,8 +168,6 @@
 ||dfchain.exchange^
 ||dgb.exchange^
 ||dgskh.exchange^
-||digitalworker.exchange^
-||digitalworkforce.exchange^
 ||distro.exchange^
 ||don.exchange^
 ||dpiwx.exchange^
@@ -189,7 +187,6 @@
 ||edena.exchange^
 ||edulink.exchange^
 ||ehe.exchange^
-||eiqt.exchange^
 ||eiro.exchange^
 ||eizrq.exchange^
 ||ekpd.exchange^
@@ -211,7 +208,6 @@
 ||euroinvestment.exchange^
 ||europa.exchange^
 ||evc.exchange^
-||everestex.exchange^
 ||exacrypt.exchange^
 ||exbroker-indonesia.exchange^
 ||exbroker-uzbek.exchange^
@@ -226,7 +222,6 @@
 ||fecvw.exchange^
 ||fellow.exchange^
 ||fenyx.exchange^
-||fexse.exchange^
 ||fiboda.exchange^
 ||finances.exchange^
 ||finest.exchange^
@@ -308,8 +303,8 @@
 ||igy6soap.exchange^
 ||illuvium.exchange^
 ||imfmdt.exchange^
+||immersive.exchange^
 ||imne.exchange^
-||imoqah.exchange^
 ||impactventure.exchange^
 ||imposing.exchange^
 ||incentive.exchange^
@@ -388,7 +383,6 @@
 ||lightspeed.exchange^
 ||linea.exchange^
 ||liqws.exchange^
-||litesafe.exchange^
 ||live.exchange^
 ||livefi.exchange^
 ||lizard.exchange^
@@ -411,7 +405,6 @@
 ||memeapp.exchange^
 ||mercantile.exchange^
 ||merlinswap.exchange^
-||meroneum.exchange^
 ||meta-swap.exchange^
 ||mewbao.exchange^
 ||mibe.exchange^
@@ -449,6 +442,7 @@
 ||n8n.exchange^
 ||naddomains.exchange^
 ||nanda.exchange^
+||nao.exchange^
 ||natively.exchange^
 ||navigators.exchange^
 ||navigatorsonic.exchange^
@@ -479,7 +473,6 @@
 ||oneflora.exchange^
 ||oneir.exchange^
 ||onetoke.exchange^
-||onlinestore.exchange^
 ||oodatrader.exchange^
 ||optics.exchange^
 ||orbitum.exchange^
@@ -510,10 +503,12 @@
 ||pigmo.exchange^
 ||pismo.exchange^
 ||pixl.exchange^
+||playbook.exchange^
 ||playbro.exchange^
 ||plobh.exchange^
 ||plumex.exchange^
 ||poe.exchange^
+||points.exchange^
 ||poolz.exchange^
 ||ppls.exchange^
 ||ppwwb.exchange^
@@ -538,12 +533,12 @@
 ||qyickswap.exchange^
 ||rapidbit.exchange^
 ||rcuwe.exchange^
-||rdc.exchange^
 ||re.exchange^
 ||realstate.exchange^
 ||realwa.exchange^
 ||realworldasset.exchange^
 ||realworldassets.exchange^
+||rebit.exchange^
 ||receivables.exchange^
 ||refer.exchange^
 ||renzoprotocol.exchange^
@@ -587,6 +582,7 @@
 ||shadlow.exchange^
 ||shadowe.exchange^
 ||shadows.exchange^
+||shardeum.exchange^
 ||shcin.exchange^
 ||shedow.exchange^
 ||shells.exchange^
@@ -612,7 +608,6 @@
 ||somnia.exchange^
 ||sonix.exchange^
 ||speedrun.exchange^
-||spire.exchange^
 ||sprite.exchange^
 ||srd.exchange^
 ||stinkdex.exchange^
@@ -637,6 +632,8 @@
 ||system.exchange^
 ||tachyon.exchange^
 ||tada.exchange^
+||tantra.exchange^
+||taoswap.exchange^
 ||tata.exchange^
 ||tbh.exchange^
 ||tcfzd.exchange^
@@ -653,7 +650,6 @@
 ||tlfs.exchange^
 ||tlmvs.exchange^
 ||tokenx.exchange^
-||topaz.exchange^
 ||torbit.exchange^
 ||torque.exchange^
 ||totalcoin.exchange^
@@ -687,7 +683,6 @@
 ||vdyfp.exchange^
 ||vechain.exchange^
 ||ventureimpact.exchange^
-||venue.exchange^
 ||verdicoin.exchange^
 ||vergecurrency.exchange^
 ||vezard.exchange^

@@ -31,6 +31,7 @@
 ||coretext.build^
 ||creativevision.build^
 ||decent.build^
+||decky.build^
 ||demeter.build^
 ||develapa.build^
 ||dreamx.build^
@@ -98,6 +99,7 @@
 ||oneshield.build^
 ||openfoundation.build^
 ||orderforge.build^
+||outrun.build^
 ||overdraft.build^
 ||overland.build^
 ||perchance.build^
@@ -105,6 +107,7 @@
 ||ponder.build^
 ||promptly.build^
 ||quine.build^
+||realmesh.build^
 ||reasoner.build^
 ||referrals-linea.build^
 ||renovit.build^
@@ -138,6 +141,7 @@
 ||tektite.build^
 ||theorem.build^
 ||tkoff.build^
+||topup.build^
 ||tryboom.build^
 ||tune.build^
 ||unikernel.build^
