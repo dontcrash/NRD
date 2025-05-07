@@ -7,6 +7,7 @@
 ||agentops.build^
 ||ai-bootstrap.build^
 ||ai.build^
+||aigo.build^
 ||amir.build^
 ||anesidora1155.build^
 ||artisanoaks.build^
@@ -15,6 +16,7 @@
 ||bang.build^
 ||better-auth.build^
 ||beveridge.build^
+||bevy.build^
 ||billytoddbuilders.build^
 ||bitsbytes.build^
 ||boostbery.build^
@@ -89,6 +91,7 @@
 ||nextcms.build^
 ||niko.build^
 ||nootropicsdepot.build^
+||nora.build^
 ||noven.build^
 ||oakbridge.build^
 ||ocg.build^
@@ -103,6 +106,7 @@
 ||overdraft.build^
 ||overland.build^
 ||perchance.build^
+||pipedream.build^
 ||pixel.build^
 ||ponder.build^
 ||promptly.build^
@@ -152,5 +156,7 @@
 ||wolfpack.build^
 ||woodliketo.build^
 ||woodyou.build^
+||wpad.build^
 ||xenyria.build^
+||youcanjust.build^
 ||yume.build^

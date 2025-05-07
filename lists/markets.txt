@@ -24,7 +24,6 @@
 ||bearedge.markets^
 ||becompany.markets^
 ||beta.markets^
-||bettingtoken.markets^
 ||billing.markets^
 ||bitget.markets^
 ||bj88com.markets^
@@ -68,12 +67,13 @@
 ||gambaidoithuong.markets^
 ||gas.markets^
 ||gate.markets^
+||gems.markets^
 ||goldrush.markets^
+||greenlads.markets^
 ||greenpulsegpt.markets^
 ||guiterly.markets^
 ||handy.markets^
 ||hanzo.markets^
-||hardware.markets^
 ||harmony.markets^
 ||help.markets^
 ||heritageaprons.markets^
@@ -104,7 +104,6 @@
 ||logos.markets^
 ||lotterycrypt.markets^
 ||luckybear.markets^
-||mainst.markets^
 ||makeroom.markets^
 ||makeroomspace.markets^
 ||mangonft.markets^
@@ -168,7 +167,6 @@
 ||swrm.markets^
 ||tao.markets^
 ||tariffied.markets^
-||tele.markets^
 ||terminal.markets^
 ||theo.markets^
 ||topup-diamond-game.markets^
@@ -176,6 +174,7 @@
 ||tpu.markets^
 ||trader.markets^
 ||trajan.markets^
+||trendora.markets^
 ||trix.markets^
 ||unlistedshare.markets^
 ||upi.markets^
@@ -189,7 +188,6 @@
 ||xisu.markets^
 ||xxi.markets^
 ||xyk.markets^
-||yes.markets^
 ||youwin.markets^
 ||ywo.markets^
 ||zola.markets^

@@ -25,7 +25,7 @@
 ||conscious-capital.broker^
 ||dabet.broker^
 ||dafabet.broker^
-||dao.broker^
+||defense.broker^
 ||delta.broker^
 ||deso.broker^
 ||digitalassets.broker^
@@ -39,7 +39,6 @@
 ||fastfunding.broker^
 ||finadvisor.broker^
 ||finvestqix.broker^
-||gamebaidoithuong.broker^
 ||geneva.broker^
 ||gett.broker^
 ||globaltrade.broker^
@@ -49,6 +48,7 @@
 ||highridgeservices.broker^
 ||highridgetrust.broker^
 ||hijrah.broker^
+||hotelia.broker^
 ||housing.broker^
 ||humanoid.broker^
 ||import.broker^
@@ -63,6 +63,7 @@
 ||kingdomoil.broker^
 ||koredor.broker^
 ||kosa.broker^
+||lab.broker^
 ||lgb.broker^
 ||logic.broker^
 ||lol.broker^
@@ -72,11 +73,7 @@
 ||masters.broker^
 ||mikec.broker^
 ||motorsport.broker^
-||mrpremium.broker^
-||multifamily.broker^
 ||mycar.broker^
-||mywood.broker^
-||nexus.broker^
 ||nrg.broker^
 ||obsession.broker^
 ||otcbitcoin.broker^
@@ -87,7 +84,6 @@
 ||pre-construction.broker^
 ||preconstruction.broker^
 ||push.broker^
-||residential.broker^
 ||review.broker^
 ||robots.broker^
 ||royal.broker^

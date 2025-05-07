@@ -12,6 +12,7 @@
 ||cloak.report^
 ||crawler.report^
 ||dailytrench.report^
+||dark.report^
 ||daytrading.report^
 ||digitalproinfo.report^
 ||dmv-id.report^
@@ -24,10 +25,12 @@
 ||hla.report^
 ||insured.report^
 ||jobboard.report^
+||lowman.report^
 ||mainframe.report^
 ||marty.report^
 ||merchants.report^
 ||mybusiness.report^
+||myproperty.report^
 ||nasa.report^
 ||newenglandfishing.report^
 ||nohu.report^
@@ -49,6 +52,7 @@
 ||scar.report^
 ||seastats.report^
 ||sendlove.report^
+||sfn.report^
 ||ship.report^
 ||st4n.report^
 ||stateof.report^
@@ -57,7 +61,9 @@
 ||tariff.report^
 ||textto.report^
 ||theglow.report^
+||thesludge.report^
 ||thesubtext.report^
 ||vector.report^
 ||vinreport.report^
 ||wales.report^
+||zcxios.report^

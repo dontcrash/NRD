@@ -34,11 +34,14 @@
 ||automation.doctor^
 ||aya.doctor^
 ||backontrack.doctor^
+||backup.doctor^
 ||bad-doctor.doctor^
 ||baltimore.doctor^
+||bdeye.doctor^
 ||beautifulsmile.doctor^
 ||behnamnia.doctor^
 ||behradnia.doctor^
+||biohacking.doctor^
 ||bittel.doctor^
 ||bnia.doctor^
 ||br.doctor^
@@ -55,14 +58,11 @@
 ||chu.doctor^
 ||cincinnati.doctor^
 ||cirugialaparoscopica.doctor^
-||claims.doctor^
 ||cleveland.doctor^
 ||clone.doctor^
 ||columbus.doctor^
 ||cosmetic.doctor^
-||cowboy.doctor^
 ||crabintro.doctor^
-||curbside.doctor^
 ||customdesign.doctor^
 ||danielbaumfeld.doctor^
 ||deal.doctor^
@@ -73,8 +73,6 @@
 ||drdoctor.doctor^
 ||dreambody.doctor^
 ||drink.doctor^
-||drronaldchin.doctor^
-||eb101.doctor^
 ||ec101.doctor^
 ||edmontonnaturopathic.doctor^
 ||ee88.doctor^
@@ -85,10 +83,11 @@
 ||ginecologa.doctor^
 ||gmo.doctor^
 ||goldberg.doctor^
+||good-doctors.doctor^
+||gooddoctors.doctor^
 ||goodfarb.doctor^
 ||graph.doctor^
 ||grid.doctor^
-||guayaquil.doctor^
 ||healthchain.doctor^
 ||hijrah.doctor^
 ||hipaa.doctor^
@@ -106,7 +105,9 @@
 ||internista.doctor^
 ||jacksonville.doctor^
 ||jagdish.doctor^
+||jewish.doctor^
 ||json.doctor^
+||jwc.doctor^
 ||karynferreira.doctor^
 ||konnect.doctor^
 ||lady.doctor^
@@ -118,6 +119,7 @@
 ||man.doctor^
 ||map.doctor^
 ||marwa.doctor^
+||maryland.doctor^
 ||master.doctor^
 ||meditrack.doctor^
 ||medlo.doctor^
@@ -159,9 +161,7 @@
 ||portland.doctor^
 ||priority.doctor^
 ||prism.doctor^
-||psiquiatra.doctor^
 ||qq88.doctor^
-||quito.doctor^
 ||ralucanicolescu.doctor^
 ||rashkova.doctor^
 ||real.doctor^
@@ -172,7 +172,6 @@
 ||sacramento.doctor^
 ||sanjose.doctor^
 ||sarina.doctor^
-||sat.doctor^
 ||schedule.doctor^
 ||shoe.doctor^
 ||sinania.doctor^
@@ -193,6 +192,7 @@
 ||vibeworking.doctor^
 ||virginia.doctor^
 ||vitalvet.doctor^
+||washington.doctor^
 ||water.doctor^
 ||wave.doctor^
 ||whyuno.doctor^
