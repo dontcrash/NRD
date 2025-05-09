@@ -32,10 +32,8 @@
 ||dirt.broker^
 ||equipment.broker^
 ||erc.broker^
-||every.broker^
 ||expertoption.broker^
 ||f1.broker^
-||f8bet.broker^
 ||fast.broker^
 ||finadvisor.broker^
 ||finvestqix.broker^
@@ -44,6 +42,7 @@
 ||globaltrade.broker^
 ||golocal.broker^
 ||hdhub4u.broker^
+||hedgestone.broker^
 ||highridge.broker^
 ||highridgeservices.broker^
 ||highridgetrust.broker^
@@ -51,10 +50,8 @@
 ||hotelia.broker^
 ||housing.broker^
 ||humanoid.broker^
-||import.broker^
 ||in.broker^
 ||inmobiliarias.broker^
-||institutional.broker^
 ||intellagent.broker^
 ||interstellar.broker^
 ||ipharma.broker^
@@ -96,6 +93,7 @@
 ||sound.broker^
 ||taixiuonline.broker^
 ||texas.broker^
+||thebroken.broker^
 ||tobacco.broker^
 ||tofu.broker^
 ||tokens.broker^
