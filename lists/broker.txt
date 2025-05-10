@@ -15,6 +15,7 @@
 ||bild.broker^
 ||bubet.broker^
 ||bus.broker^
+||businessmoney.broker^
 ||cadobongda.broker^
 ||care.broker^
 ||cfs.broker^
@@ -29,7 +30,6 @@
 ||delta.broker^
 ||deso.broker^
 ||digitalassets.broker^
-||dirt.broker^
 ||equipment.broker^
 ||erc.broker^
 ||expertoption.broker^
@@ -41,7 +41,6 @@
 ||gett.broker^
 ||globaltrade.broker^
 ||golocal.broker^
-||hdhub4u.broker^
 ||hedgestone.broker^
 ||highridge.broker^
 ||highridgeservices.broker^
@@ -59,6 +58,7 @@
 ||jobs.broker^
 ||koredor.broker^
 ||kosa.broker^
+||kubet.broker^
 ||lab.broker^
 ||lgb.broker^
 ||logic.broker^
@@ -87,7 +87,6 @@
 ||rr88.broker^
 ||russian.broker^
 ||schweitzer.broker^
-||slop.broker^
 ||sniper.broker^
 ||sodo.broker^
 ||sound.broker^
@@ -110,6 +109,7 @@
 ||wellness.broker^
 ||whiskey.broker^
 ||workers.broker^
+||x-nova.broker^
 ||yojana11.broker^
 ||ywo.broker^
 ||zox.broker^
