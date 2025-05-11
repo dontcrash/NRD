@@ -8,7 +8,6 @@
 ||arp.solar^
 ||ase.solar^
 ||ath.solar^
-||automatic.solar^
 ||bateria.solar^
 ||batteries.solar^
 ||belong.solar^
@@ -29,7 +28,6 @@
 ||coffee.solar^
 ||comparecosts.solar^
 ||continuity.solar^
-||copernicus.solar^
 ||corr.solar^
 ||coupon.solar^
 ||coventry.solar^
@@ -42,13 +40,13 @@
 ||eastmidlands.solar^
 ||ecoflow.solar^
 ||emissaobrinfo.solar^
-||energafrica.solar^
 ||envision.solar^
 ||eustock.solar^
 ||evcharging.solar^
 ||everyday.solar^
 ||exalted.solar^
 ||experts.solar^
+||factory.solar^
 ||few.solar^
 ||findlocal.solar^
 ||firebird.solar^
@@ -95,12 +93,13 @@
 ||martifer.solar^
 ||mastermetal.solar^
 ||materiaviva.solar^
+||mayhaw.solar^
 ||merriumwebster.solar^
-||mind.solar^
 ||motech.solar^
 ||munich.solar^
 ||nash.solar^
 ||newjersey.solar^
+||nextgeneration.solar^
 ||nnn.solar^
 ||noor.solar^
 ||norfolk.solar^
@@ -108,6 +107,7 @@
 ||norwich.solar^
 ||nottingham.solar^
 ||novus.solar^
+||ocasioncar.solar^
 ||ocean.solar^
 ||octopus.solar^
 ||onm.solar^
@@ -124,6 +124,7 @@
 ||radi.solar^
 ||rajasthan.solar^
 ||rapidpowur.solar^
+||reg.solar^
 ||regen.solar^
 ||rethink.solar^
 ||rev.solar^
@@ -131,6 +132,7 @@
 ||rock.solar^
 ||ron.solar^
 ||saga.solar^
+||sami.solar^
 ||saopaulo.solar^
 ||schell-cable.solar^
 ||schell.solar^
@@ -139,6 +141,7 @@
 ||sep.solar^
 ||sgi.solar^
 ||sheffield.solar^
+||shiny.solar^
 ||sicily.solar^
 ||sign.solar^
 ||signs.solar^
@@ -158,9 +161,9 @@
 ||sublime.solar^
 ||sunderland.solar^
 ||sunrite.solar^
-||sunwin.solar^
 ||superpanel.solar^
 ||surrey.solar^
+||tachyonenergy.solar^
 ||taller.solar^
 ||techno.solar^
 ||thefew.solar^

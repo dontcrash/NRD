@@ -22,6 +22,7 @@
 ||autonomy.cards^
 ||avici.cards^
 ||b2b-deli.cards^
+||b8b.cards^
 ||bail.cards^
 ||balatro.cards^
 ||banter.cards^
@@ -31,13 +32,14 @@
 ||bingowings.cards^
 ||bit2.cards^
 ||bizatom.cards^
-||blacksheep.cards^
+||bizfo.cards^
 ||bonus10k.cards^
 ||bored.cards^
 ||boredroom.cards^
 ||brussels.cards^
 ||burger.cards^
 ||buzflo.cards^
+||cache.cards^
 ||candid.cards^
 ||canoodle.cards^
 ||cappa.cards^
@@ -60,6 +62,7 @@
 ||connexa.cards^
 ||consciouscapital.cards^
 ||contxt.cards^
+||copag.cards^
 ||copenhagen.cards^
 ||couples.cards^
 ||credit-jp.cards^
@@ -80,6 +83,7 @@
 ||den.cards^
 ||designshift.cards^
 ||desiremovies.cards^
+||dg.cards^
 ||discreet.cards^
 ||doctorcard.cards^
 ||drone.cards^
@@ -92,7 +96,6 @@
 ||eros.cards^
 ||etchline.cards^
 ||exam.cards^
-||excuse.cards^
 ||ez.cards^
 ||ezqr.cards^
 ||ezqrbiz.cards^
@@ -112,8 +115,9 @@
 ||gratia.cards^
 ||gravi.cards^
 ||greenmansoothsayer.cards^
+||happy-birthday.cards^
 ||happy.cards^
-||hijrah.cards^
+||highlight.cards^
 ||holdthe.cards^
 ||hot51.cards^
 ||i-love.cards^
@@ -124,7 +128,6 @@
 ||jcb-credit.cards^
 ||jesper.cards^
 ||joke.cards^
-||jupiter.cards^
 ||kawaii.cards^
 ||kazikazan3.cards^
 ||kickoff.cards^
@@ -133,6 +136,7 @@
 ||krt.cards^
 ||krypto.cards^
 ||landons.cards^
+||larevolucion.cards^
 ||laso.cards^
 ||lasvegas.cards^
 ||lila.cards^
@@ -201,9 +205,11 @@
 ||nails.cards^
 ||nap.cards^
 ||ncc.cards^
+||nefarious.cards^
 ||newyork.cards^
 ||nfcwv.cards^
 ||nftag.cards^
+||nftize.cards^
 ||nohu.cards^
 ||noink.cards^
 ||ns-vip.cards^
@@ -224,6 +230,7 @@
 ||please.cards^
 ||prague.cards^
 ||preg.cards^
+||premiumstock.cards^
 ||presentable.cards^
 ||presto.cards^
 ||privatejet.cards^
@@ -235,6 +242,7 @@
 ||qualiteatime.cards^
 ||questionable.cards^
 ||questions.cards^
+||racer.cards^
 ||readingoftarot.cards^
 ||reaper.cards^
 ||rendr.cards^
@@ -259,6 +267,7 @@
 ||skysetx.cards^
 ||slabless.cards^
 ||sleeveup.cards^
+||slingshot.cards^
 ||slush.cards^
 ||smb.cards^
 ||solflare.cards^
@@ -267,6 +276,7 @@
 ||specimen.cards^
 ||spread.cards^
 ||ssrmovies.cards^
+||stensonsimon.cards^
 ||stockholm.cards^
 ||streetwars.cards^
 ||swiftrecharge.cards^
@@ -278,13 +288,15 @@
 ||tarottap.cards^
 ||teachme.cards^
 ||tearcollectgo.cards^
+||texasboy.cards^
+||texasgirl.cards^
+||themighty.cards^
 ||theneonhive.cards^
 ||thestackeddeck.cards^
 ||tradebroker.cards^
 ||tradecollectgo.cards^
 ||trademo.cards^
 ||typology.cards^
-||uba.cards^
 ||upshot.cards^
 ||usagold.cards^
 ||usd1.cards^
@@ -292,6 +304,7 @@
 ||venice.cards^
 ||verify-jp.cards^
 ||verify-ma.cards^
+||vibes.cards^
 ||victim.cards^
 ||viralbrand.cards^
 ||virtualcard.cards^
@@ -309,7 +322,6 @@
 ||xocdiaonline.cards^
 ||xtra.cards^
 ||xxi.cards^
-||y.cards^
 ||yaketypack.cards^
 ||yellow.cards^
 ||yesplay.cards^
