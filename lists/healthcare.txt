@@ -11,7 +11,6 @@
 ||b-leaf.healthcare^
 ||bend.healthcare^
 ||bestpractice.healthcare^
-||beterra.healthcare^
 ||biohacking.healthcare^
 ||brezosiran.healthcare^
 ||charles.healthcare^
@@ -46,7 +45,6 @@
 ||lets-in.healthcare^
 ||llms.healthcare^
 ||lpc.healthcare^
-||makingsenseof.healthcare^
 ||mdri.healthcare^
 ||medicalvector.healthcare^
 ||medicoinswiss.healthcare^
@@ -99,6 +97,7 @@
 ||ptsurvey.healthcare^
 ||quantumehr.healthcare^
 ||quantumemr.healthcare^
+||radiological.healthcare^
 ||resilience.healthcare^
 ||ri.healthcare^
 ||rxante.healthcare^
@@ -116,5 +115,6 @@
 ||umw.healthcare^
 ||verticedigital.healthcare^
 ||vibro.healthcare^
+||wellfit.healthcare^
 ||ww.healthcare^
 ||zhnas.healthcare^

@@ -6,9 +6,7 @@
 ||anka.solar^
 ||apartment.solar^
 ||arp.solar^
-||ase.solar^
 ||ath.solar^
-||bateria.solar^
 ||batteries.solar^
 ||belong.solar^
 ||bennett.solar^
@@ -23,7 +21,6 @@
 ||cheapergy.solar^
 ||church.solar^
 ||cirestorations.solar^
-||citygrid.solar^
 ||ckeck.solar^
 ||coffee.solar^
 ||comparecosts.solar^
@@ -31,10 +28,10 @@
 ||corr.solar^
 ||coupon.solar^
 ||coventry.solar^
-||cream.solar^
 ||dam.solar^
 ||derby.solar^
 ||devon.solar^
+||digiabr.solar^
 ||drift.solar^
 ||eastanglia.solar^
 ||eastmidlands.solar^
@@ -98,6 +95,8 @@
 ||motech.solar^
 ||munich.solar^
 ||nash.solar^
+||neireliance.solar^
+||neiril.solar^
 ||newjersey.solar^
 ||nextgeneration.solar^
 ||nnn.solar^
@@ -109,7 +108,6 @@
 ||novus.solar^
 ||ocasioncar.solar^
 ||ocean.solar^
-||octopus.solar^
 ||onm.solar^
 ||oxford.solar^
 ||patron.solar^
@@ -126,9 +124,14 @@
 ||rapidpowur.solar^
 ||reg.solar^
 ||regen.solar^
+||reliancenei.solar^
+||reliancenewenergy.solar^
 ||rethink.solar^
 ||rev.solar^
 ||revive.solar^
+||revo.solar^
+||rilnei.solar^
+||rnei.solar^
 ||rock.solar^
 ||ron.solar^
 ||saga.solar^
@@ -151,7 +154,6 @@
 ||solarai.solar^
 ||solarfarm.solar^
 ||solarplan.solar^
-||solarsaarthi.solar^
 ||solarx.solar^
 ||southcoast.solar^
 ||sss.solar^
@@ -167,12 +169,10 @@
 ||taller.solar^
 ||techno.solar^
 ||thefew.solar^
+||timetravel.solar^
 ||try.solar^
-||tubateria.solar^
 ||tuned.solar^
-||turkes.solar^
 ||unplugged.solar^
-||usrp.solar^
 ||utl.solar^
 ||v2g.solar^
 ||veda.solar^
