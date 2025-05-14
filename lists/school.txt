@@ -11,7 +11,6 @@
 ||active.school^
 ||aetheric.school^
 ||africaperspectives.school^
-||aging.school^
 ||agro.school^
 ||ai-brainlab.school^
 ||ai-wizardry.school^
@@ -29,7 +28,6 @@
 ||akpanbatyrsec.school^
 ||alatausec.school^
 ||alef.school^
-||alerta.school^
 ||allcourses.school^
 ||alphaflashcards.school^
 ||alphaos.school^
@@ -50,7 +48,7 @@
 ||assistimo.school^
 ||atn.school^
 ||aula.school^
-||authcop.school^
+||autotheorie.school^
 ||awadhiinternationalkids.school^
 ||axioma.school^
 ||azitaattachment.school^
@@ -82,6 +80,7 @@
 ||cedarspringwater.school^
 ||celebrating10years-dsti.school^
 ||cf.school^
+||chalkboard.school^
 ||check.school^
 ||chekhov.school^
 ||cienfuegos.school^
@@ -118,6 +117,7 @@
 ||domrechi.school^
 ||donate.school^
 ||duceshigh.school^
+||ducklingspre.school^
 ||ductum.school^
 ||eaexam.school^
 ||easybeat.school^
@@ -125,10 +125,8 @@
 ||edc.school^
 ||edugate.school^
 ||eduplanet21.school^
-||eduthing.school^
 ||effect.school^
 ||efficiency.school^
-||egorivanov.school^
 ||egs.school^
 ||ehelacademy.school^
 ||eltaisec.school^
@@ -145,6 +143,7 @@
 ||experimentalwriting.school^
 ||ezer.school^
 ||fabianini.school^
+||fancybook.school^
 ||fbcs.school^
 ||fedotov.school^
 ||feiyi.school^
@@ -161,18 +160,17 @@
 ||fullstackunicorn.school^
 ||get.school^
 ||gettogether.school^
-||gomaster.school^
-||gopilot.school^
 ||govirtual.school^
 ||govorim-vmeste.school^
 ||gradefox.school^
 ||greenelephantcooking.school^
+||greensprings.school^
+||greenspringstheological.school^
 ||hailiang.school^
 ||hamburg.school^
 ||haomai.school^
 ||hardskill.school^
 ||hdhub4u.school^
-||heldin.school^
 ||hertfordprep.school^
 ||heze.school^
 ||hiai.school^
@@ -187,7 +185,6 @@
 ||imposing.school^
 ||ingen.school^
 ||init.school^
-||insights.school^
 ||international.school^
 ||internationals.school^
 ||ipwich.school^
@@ -202,11 +199,9 @@
 ||joshuacuellar.school^
 ||joyful.school^
 ||jsbbhydya.school^
-||justice.school^
 ||justorganic.school^
 ||kashmeem.school^
 ||kchst.school^
-||kermani.school^
 ||kiberone.school^
 ||kingsmoatcp.school^
 ||kiski.school^
@@ -224,7 +219,6 @@
 ||lcalions.school^
 ||lease.school^
 ||legatopro.school^
-||lgbtq.school^
 ||lichno.school^
 ||lico.school^
 ||lifedrawing.school^
@@ -243,6 +237,7 @@
 ||maplehaven.school^
 ||marcom.school^
 ||marketingdx.school^
+||marketingmasters.school^
 ||mavi.school^
 ||mds.school^
 ||mega.school^
@@ -254,7 +249,6 @@
 ||modelfansonly.school^
 ||montessoriforeveryone.school^
 ||motionmedia.school^
-||motivation.school^
 ||mouood.school^
 ||mschool.school^
 ||mtviewmiddle.school^
@@ -275,6 +269,7 @@
 ||nishkalankamataenglish.school^
 ||njsecurity.school^
 ||njsoratraining.school^
+||novaindependent.school^
 ||numbers.school^
 ||nuro.school^
 ||octopharm.school^
@@ -302,8 +297,8 @@
 ||playbro.school^
 ||pmonline.school^
 ||podglobal.school^
+||politicalmetrics.school^
 ||porous.school^
-||potions.school^
 ||powerpath.school^
 ||prajnaparamita.school^
 ||privateschools.school^
@@ -312,8 +307,8 @@
 ||projectmanager.school^
 ||prompts.school^
 ||protections.school^
+||przedlugym.school^
 ||publicspeaking.school^
-||puppet.school^
 ||qes.school^
 ||qesw.school^
 ||qiuguanyuan.school^
@@ -334,7 +329,6 @@
 ||rkaspain.school^
 ||rkps.school^
 ||robotaxi.school^
-||rockcreek.school^
 ||roselyn.school^
 ||ruslankhalikov.school^
 ||ryt200.school^
@@ -361,15 +355,13 @@
 ||shoto.school^
 ||shougong.school^
 ||siitav.school^
-||silence.school^
 ||silo.school^
 ||sindhi.school^
-||solaris.school^
+||skvura.school^
 ||son.school^
 ||soulbridge.school^
 ||soulpath.school^
 ||soultoshi.school^
-||sovietchess.school^
 ||sparkai.school^
 ||sparky.school^
 ||spatial.school^
@@ -412,6 +404,8 @@
 ||thekarate.school^
 ||thekenworld.school^
 ||themasterbuilder.school^
+||thenova.school^
+||theorie.school^
 ||theperfect.school^
 ||thered.school^
 ||therpist.school^
@@ -436,16 +430,14 @@
 ||uk88.school^
 ||ulas.school^
 ||unfittolead.school^
-||valorheights.school^
+||valuism.school^
 ||verkhovod.school^
 ||viavai.school^
-||vibe-coding.school^
 ||vibecoders.school^
 ||vipapp.school^
 ||visualingo.school^
-||vn138.school^
+||voice.school^
 ||voloshin.school^
-||vote4ai.school^
 ||webdev.school^
 ||wesec.school^
 ||willowsgrove.school^
@@ -459,7 +451,6 @@
 ||xiaoshu.school^
 ||xiongan.school^
 ||xj.school^
-||xueshi.school^
 ||ylwbrk.school^
 ||yogateachertraining.school^
 ||yomedia.school^

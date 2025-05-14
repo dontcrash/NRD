@@ -94,14 +94,17 @@
 ||oneshield.build^
 ||openfoundation.build^
 ||orderforge.build^
+||otus.build^
 ||outrun.build^
 ||overdraft.build^
+||pachinko.build^
 ||perchance.build^
 ||pipedream.build^
 ||pixel.build^
 ||ponder.build^
 ||primecraft.build^
 ||prismatic.build^
+||projecthub.build^
 ||promptly.build^
 ||realmesh.build^
 ||referrals-linea.build^
@@ -138,6 +141,7 @@
 ||unikernel.build^
 ||v169.build^
 ||vexcor.build^
+||vhcustom.build^
 ||vignya.build^
 ||vima.build^
 ||viral.build^

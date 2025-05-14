@@ -6,7 +6,10 @@
 ||abundanthorizons.coach^
 ||abundantlife.coach^
 ||acting.coach^
+||activatedliving.coach^
 ||activity.coach^
+||actnow.coach^
+||adhdautism.coach^
 ||adhdpeer.coach^
 ||adminbing.coach^
 ||agenda.coach^
@@ -27,6 +30,7 @@
 ||anti-angst.coach^
 ||anti-fluff.coach^
 ||aplomb.coach^
+||apotheke.coach^
 ||arishta.coach^
 ||armin.coach^
 ||aronline.coach^
@@ -45,6 +49,7 @@
 ||bernharddieber.coach^
 ||bestdaydreamcultures.coach^
 ||bestever.coach^
+||betterhabits.coach^
 ||betteryou.coach^
 ||beyondnow.coach^
 ||biju.coach^
@@ -56,7 +61,6 @@
 ||bodybalance.coach^
 ||bookkeeper.coach^
 ||boost.coach^
-||botoya.coach^
 ||boundlesspotential.coach^
 ||brainshift.coach^
 ||brightspark.coach^
@@ -98,11 +102,12 @@
 ||corelife.coach^
 ||coreroots.coach^
 ||cosmicconsciousness.coach^
+||cream.coach^
 ||ctrlshft.coach^
 ||curatedhealth.coach^
 ||curida.coach^
-||cutter.coach^
 ||cybernetics.coach^
+||cybersafety.coach^
 ||dailyhealth.coach^
 ||daniela-matyk.coach^
 ||danielacaserta.coach^
@@ -123,7 +128,6 @@
 ||dreams.coach^
 ||drich.coach^
 ||duet.coach^
-||ebc.coach^
 ||ecoeco.coach^
 ||edinburgh.coach^
 ||educate.coach^
@@ -168,7 +172,6 @@
 ||friendship.coach^
 ||functionalfasttrack.coach^
 ||fx.coach^
-||fxdd.coach^
 ||gameyap.coach^
 ||gcsemaths.coach^
 ||generativeart.coach^
@@ -187,7 +190,6 @@
 ||greenhouse.coach^
 ||grindstone.coach^
 ||growandglow.coach^
-||guidebyyourside.coach^
 ||gunther.coach^
 ||handsonthinking.coach^
 ||hannover.coach^
@@ -218,10 +220,10 @@
 ||immediateimmersion.coach^
 ||immigration.coach^
 ||imposing.coach^
+||inex.coach^
 ||innamind.coach^
 ||innenstark.coach^
 ||innerauthority.coach^
-||innerspark.coach^
 ||integrierte-bindungstheorie.coach^
 ||intuitiveclarity.coach^
 ||investmentbanking.coach^
@@ -252,21 +254,19 @@
 ||kylemiller.coach^
 ||laura.coach^
 ||lavrikova.coach^
-||leader-shift.coach^
 ||leadlikeawoman.coach^
 ||lebendig-sein.coach^
+||legendarylongevity.coach^
 ||letsgetitdone.coach^
 ||libertepro.coach^
 ||lichtblick.coach^
 ||lidaro.coach^
-||life-shift.coach^
 ||lifehacker.coach^
 ||lifeisgood.coach^
 ||lifemanagement.coach^
 ||lifemaster.coach^
 ||lifemasterai.coach^
 ||liliansirajnobel.coach^
-||limitlesshealth.coach^
 ||listentoyoursoul.coach^
 ||liv.coach^
 ||lizsargeant.coach^
@@ -295,8 +295,10 @@
 ||matthewmok.coach^
 ||maxai.coach^
 ||mcw.coach^
+||mcw66.coach^
 ||meaningoflife.coach^
 ||medicaid.coach^
+||meline.coach^
 ||menopause.coach^
 ||mentalrun.coach^
 ||merchandise.coach^
@@ -320,7 +322,6 @@
 ||myfinance.coach^
 ||mylifeup.coach^
 ||myos.coach^
-||mystic.coach^
 ||n8n.coach^
 ||nadinebouchard.coach^
 ||nana.coach^
@@ -332,6 +333,7 @@
 ||nicholasstewart.coach^
 ||nicolebateman.coach^
 ||nimble.coach^
+||nn.coach^
 ||nobull.coach^
 ||non-fumeur.coach^
 ||nonfumeur.coach^
@@ -394,7 +396,6 @@
 ||reason.coach^
 ||rebelmagic.coach^
 ||recenter.coach^
-||redtube.coach^
 ||rei.coach^
 ||reinholdschneider.coach^
 ||resumebiz.coach^
@@ -403,6 +404,7 @@
 ||reversemortgage.coach^
 ||rhythmsofgracelife.coach^
 ||rizzi.coach^
+||robustness.coach^
 ||routine.coach^
 ||rowan.coach^
 ||sage.coach^
@@ -420,6 +422,7 @@
 ||sensual.coach^
 ||sensualliving.coach^
 ||set.coach^
+||shape.coach^
 ||shevolution.coach^
 ||simpleathletics.coach^
 ||simpleiam.coach^
@@ -464,6 +467,7 @@
 ||theauthenticvoice.coach^
 ||thebodymind.coach^
 ||theboldlife.coach^
+||thecannabis.coach^
 ||thecoachingexperience.coach^
 ||thecore.coach^
 ||thecreative-lifecoach.coach^
@@ -480,6 +484,7 @@
 ||thepocket.coach^
 ||therapie-leipzig.coach^
 ||thesafehouse.coach^
+||thesouljourney.coach^
 ||thetrap.coach^
 ||this.coach^
 ||thrivesports.coach^
@@ -494,6 +499,7 @@
 ||titushoang.coach^
 ||tnpsc.coach^
 ||token.coach^
+||transformvalley.coach^
 ||tritona.coach^
 ||truenorthleadership.coach^
 ||trustworthyleadership.coach^
@@ -519,10 +525,12 @@
 ||virtualme.coach^
 ||visioncatalyst.coach^
 ||watts26.coach^
+||we.coach^
 ||weber.coach^
 ||wendl-ceo.coach^
 ||werteschoepfer.coach^
 ||whatstrue.coach^
+||wide.coach^
 ||win.coach^
 ||winery.coach^
 ||wisdomone.coach^
