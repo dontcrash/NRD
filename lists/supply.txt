@@ -1,12 +1,10 @@
 ||1704.supply^
 ||a.supply^
 ||akacia.supply^
-||akrest.supply^
 ||alert.supply^
 ||algorhythm.supply^
 ||arcana.supply^
 ||asset-vision.supply^
-||asset-visions.supply^
 ||augment.supply^
 ||backyard.supply^
 ||bando.supply^
@@ -20,6 +18,7 @@
 ||cabinet.supply^
 ||carrierpigeon.supply^
 ||ced.supply^
+||certm8.supply^
 ||chart.supply^
 ||cheapelectrical.supply^
 ||chuckwagon.supply^
@@ -46,14 +45,13 @@
 ||empacmedical.supply^
 ||eric.supply^
 ||evilcorp.supply^
-||exmed.supply^
+||evolabs.supply^
 ||expressive.supply^
 ||face.supply^
 ||fastwell.supply^
 ||fennario.supply^
 ||fig.supply^
 ||fit.supply^
-||flashback.supply^
 ||floridacabinet.supply^
 ||flsteel.supply^
 ||format.supply^
@@ -84,6 +82,7 @@
 ||macrame.supply^
 ||madeinusa.supply^
 ||maintain.supply^
+||marijuana.supply^
 ||mayhaw.supply^
 ||mayhawenergy.supply^
 ||mep.supply^
@@ -98,7 +97,6 @@
 ||newjerseysteel.supply^
 ||nirmata.supply^
 ||notable.supply^
-||nuuk.supply^
 ||oceanbeautysalonand.supply^
 ||offchain.supply^
 ||offline.supply^
@@ -110,9 +108,11 @@
 ||paralo.supply^
 ||payload.supply^
 ||photovoltaic.supply^
+||planet.supply^
 ||posture.supply^
 ||prize.supply^
 ||proxy.supply^
+||purewater.supply^
 ||radius.supply^
 ||rapid.supply^
 ||resilient.supply^
@@ -158,5 +158,4 @@
 ||wise.supply^
 ||woodworking.supply^
 ||workfolk.supply^
-||worm.supply^
 ||xclusive.supply^

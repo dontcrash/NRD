@@ -1,6 +1,7 @@
 ||101mail.delivery^
 ||112.delivery^
 ||2424.delivery^
+||459.delivery^
 ||777win.delivery^
 ||82.delivery^
 ||a2a.delivery^
@@ -16,9 +17,7 @@
 ||ance.delivery^
 ||appetit.delivery^
 ||arabiadropshipping.delivery^
-||areal.delivery^
 ||arrangements.delivery^
-||asyouwish.delivery^
 ||auspostrack.delivery^
 ||av.delivery^
 ||backup.delivery^
@@ -30,6 +29,7 @@
 ||biometric.delivery^
 ||birdie.delivery^
 ||bitcoinwallet.delivery^
+||blinkit.delivery^
 ||bluebox.delivery^
 ||bluemoongo.delivery^
 ||bngs.delivery^
@@ -67,10 +67,10 @@
 ||deckapod.delivery^
 ||deliver.delivery^
 ||demmy.delivery^
-||dhub.delivery^
 ||dollargeneral.delivery^
 ||don-le.delivery^
 ||donle.delivery^
+||drip.delivery^
 ||drivers.delivery^
 ||dubaielitedrinks.delivery^
 ||eatandgo.delivery^
@@ -84,14 +84,13 @@
 ||estafeta.delivery^
 ||ewgf.delivery^
 ||exact.delivery^
-||expensivegold.delivery^
 ||faq.delivery^
 ||fatafat.delivery^
 ||fatura.delivery^
+||fin.delivery^
 ||firstclass.delivery^
 ||firstflightcourier.delivery^
 ||fl.delivery^
-||focused.delivery^
 ||food24.delivery^
 ||foods.delivery^
 ||fortune.delivery^
@@ -113,7 +112,6 @@
 ||hotpizza.delivery^
 ||housing.delivery^
 ||hr.delivery^
-||iawebai.delivery^
 ||imposing.delivery^
 ||infdx.delivery^
 ||internationalsafe.delivery^
@@ -121,7 +119,6 @@
 ||italianfood.delivery^
 ||jdzy.delivery^
 ||jehb.delivery^
-||joes.delivery^
 ||joint.delivery^
 ||just.delivery^
 ||kabir.delivery^
@@ -130,7 +127,9 @@
 ||klik.delivery^
 ||kopenhagen.delivery^
 ||lavem.delivery^
+||leap.delivery^
 ||lgb.delivery^
+||lieferando.delivery^
 ||liquor.delivery^
 ||localizacao.delivery^
 ||localizador.delivery^
@@ -139,6 +138,7 @@
 ||marsol.delivery^
 ||mclogistics.delivery^
 ||mcr.delivery^
+||meal.delivery^
 ||meu.delivery^
 ||meus.delivery^
 ||minute.delivery^
@@ -179,6 +179,7 @@
 ||pizzanow.delivery^
 ||postgres.delivery^
 ||postifininfo.delivery^
+||postifinland.delivery^
 ||prodronegates.delivery^
 ||psilocybin.delivery^
 ||quickexpress.delivery^
@@ -220,6 +221,7 @@
 ||synk.delivery^
 ||tac.delivery^
 ||tcdirect.delivery^
+||tea.delivery^
 ||thca.delivery^
 ||theunion.delivery^
 ||thevapefather.delivery^

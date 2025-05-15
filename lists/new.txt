@@ -19,6 +19,7 @@
 ||consent.new^
 ||console.new^
 ||diy.new^
+||fastmcp.new^
 ||flows.new^
 ||fusion.new^
 ||gift.new^
@@ -26,7 +27,7 @@
 ||hand.new^
 ||helix.new^
 ||hey.new^
-||icepanel.new^
+||human.new^
 ||id.new^
 ||intro.new^
 ||lfg.new^
@@ -59,11 +60,11 @@
 ||silk.new^
 ||sol.new^
 ||squad.new^
+||sre.new^
 ||static.new^
 ||strategy.new^
 ||swarm.new^
 ||topic.new^
-||tour.new^
 ||train.new^
 ||trial.new^
 ||trusspayments.new^

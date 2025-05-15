@@ -12,7 +12,6 @@
 ||artscape.build^
 ||audhd.build^
 ||autonomy.build^
-||bang.build^
 ||bastion.build^
 ||bet365.build^
 ||better-auth.build^
@@ -31,6 +30,7 @@
 ||citizen.build^
 ||code-fox.build^
 ||consciouscapital.build^
+||consera.build^
 ||creativevision.build^
 ||decent.build^
 ||decky.build^
@@ -41,10 +41,10 @@
 ||editorial.build^
 ||eide.build^
 ||embedded.build^
-||enclave.build^
 ||enlist-linea.build^
 ||flannel.build^
 ||flatwater.build^
+||foom.build^
 ||gbs-usa.build^
 ||gcea.build^
 ||gearbox.build^
@@ -60,9 +60,7 @@
 ||jamllc.build^
 ||kahani.build^
 ||kairo.build^
-||kairovis.build^
 ||kings.build^
-||krafft.build^
 ||kratos.build^
 ||liminal.build^
 ||liquid.build^
@@ -81,12 +79,9 @@
 ||mybox.build^
 ||myown.build^
 ||mythic.build^
-||nextbrick.build^
 ||nextcms.build^
 ||nootropicsdepot.build^
 ||nora.build^
-||noven.build^
-||ocg.build^
 ||ochre.build^
 ||ona.build^
 ||onboarding.build^
@@ -98,10 +93,13 @@
 ||outrun.build^
 ||overdraft.build^
 ||pachinko.build^
+||peapod.build^
 ||perchance.build^
+||pilonconstruction.build^
 ||pipedream.build^
 ||pixel.build^
 ||ponder.build^
+||prestigedesign.build^
 ||primecraft.build^
 ||prismatic.build^
 ||projecthub.build^
@@ -121,7 +119,6 @@
 ||seguro.build^
 ||sempervirens.build^
 ||seventy1.build^
-||shona.build^
 ||shopapp.build^
 ||showcase.build^
 ||sitescan.build^
@@ -132,6 +129,7 @@
 ||stonecreek.build^
 ||structr.build^
 ||subbly.build^
+||superiorcontracting.build^
 ||tapa.build^
 ||tektite.build^
 ||testify.build^
@@ -139,6 +137,7 @@
 ||topup.build^
 ||turtle.build^
 ||unikernel.build^
+||useless.build^
 ||v169.build^
 ||vexcor.build^
 ||vhcustom.build^
@@ -149,7 +148,6 @@
 ||wasmtime.build^
 ||wells.build^
 ||wolfpack.build^
-||woodliketo.build^
 ||wpad.build^
 ||xenyria.build^
 ||youcanjust.build^
