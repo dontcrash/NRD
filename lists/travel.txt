@@ -84,7 +84,6 @@
 ||chef.travel^
 ||chillow.travel^
 ||choquequiraoperu.travel^
-||cico.travel^
 ||cieli.travel^
 ||citytour.travel^
 ||clevel.travel^
@@ -110,11 +109,12 @@
 ||dareto.travel^
 ||dayoff.travel^
 ||dbd.travel^
+||dbyd.travel^
+||ddd.travel^
 ||deepco.travel^
 ||deliverex.travel^
 ||destinosconluz.travel^
 ||dibogo.travel^
-||discoverchina.travel^
 ||ditki.travel^
 ||diverso.travel^
 ||docupass.travel^
@@ -127,6 +127,7 @@
 ||easygolf.travel^
 ||ecco.travel^
 ||ellison.travel^
+||enjoychina.travel^
 ||enjoyuyuni.travel^
 ||etafastair.travel^
 ||europeadventure.travel^
@@ -154,9 +155,10 @@
 ||flyway.travel^
 ||force.travel^
 ||forget.travel^
+||freecaribbeanvacation.travel^
 ||freewalkingtourperu.travel^
 ||fukuoka.travel^
-||fumstour.travel^
+||full.travel^
 ||futureplans.travel^
 ||ga179.travel^
 ||galavanta.travel^
@@ -167,6 +169,7 @@
 ||getset.travel^
 ||gigly.travel^
 ||glideai.travel^
+||glitzerland.travel^
 ||globalvoyagers.travel^
 ||globescope.travel^
 ||go2ukraine.travel^
@@ -175,6 +178,7 @@
 ||gogats.travel^
 ||good88.travel^
 ||gorelax.travel^
+||gorilla.travel^
 ||govibe.travel^
 ||grandcaymanislands.travel^
 ||green.travel^
@@ -184,15 +188,19 @@
 ||grouptrip.travel^
 ||gto.travel^
 ||gzo.travel^
+||hagiangloop.travel^
+||hakuna-matata.travel^
 ||halong.travel^
 ||hangwithfame.travel^
 ||happydays.travel^
 ||happyweddings.travel^
+||hellogov.travel^
+||heypal.travel^
 ||hff.travel^
 ||hichina.travel^
 ||hiddencorners.travel^
 ||hodos.travel^
-||holaperu.travel^
+||holidayfinder.travel^
 ||hooktrips.travel^
 ||horizen.travel^
 ||horizonflights.travel^
@@ -202,7 +210,6 @@
 ||houdhaifa.travel^
 ||howard.travel^
 ||huasca.travel^
-||hue.travel^
 ||hydro.travel^
 ||ids.travel^
 ||ijet.travel^
@@ -249,7 +256,6 @@
 ||lando.travel^
 ||lanka.travel^
 ||lastcall.travel^
-||leader.travel^
 ||letsmakememories.travel^
 ||libroowner.travel^
 ||localpal.travel^
@@ -262,7 +268,7 @@
 ||luxara.travel^
 ||luxinter.travel^
 ||luxuryguide.travel^
-||mahaj.travel^
+||luxxurymice.travel^
 ||mainstreetmemories.travel^
 ||maisonduvelo.travel^
 ||makkah.travel^
@@ -293,6 +299,7 @@
 ||mpc.travel^
 ||mtfuji.travel^
 ||muaythaithailandtrip.travel^
+||myesthetic.travel^
 ||myhotel.travel^
 ||myngo.travel^
 ||myquestions.travel^
@@ -316,7 +323,6 @@
 ||ojoxojo.travel^
 ||oleaje.travel^
 ||omniai.travel^
-||onasafari.travel^
 ||onboard.travel^
 ||once.travel^
 ||onlinestore.travel^
@@ -338,7 +344,6 @@
 ||pathly.travel^
 ||pathwaystoprogress.travel^
 ||patriothub.travel^
-||pattayahotels.travel^
 ||peaktime.travel^
 ||penny.travel^
 ||peoples.travel^
@@ -369,7 +374,6 @@
 ||quiet.travel^
 ||range.travel^
 ||ratanews.travel^
-||re-live.travel^
 ||rehlatime.travel^
 ||reperio.travel^
 ||repertoire.travel^
@@ -381,6 +385,7 @@
 ||robertdiaz.travel^
 ||rora.travel^
 ||rosetta.travel^
+||ruh.travel^
 ||rutadeljabugo.travel^
 ||rutamaya.travel^
 ||safari-local.travel^
@@ -392,14 +397,15 @@
 ||saveclub.travel^
 ||savor.travel^
 ||scape.travel^
+||seawolf.travel^
 ||seba.travel^
+||seenit.travel^
 ||seniorcitizen.travel^
 ||shilombero-plains.travel^
 ||shilombero-safaris.travel^
 ||shilomberoplains.travel^
 ||shilomberosafaris.travel^
 ||silkroute.travel^
-||sjstravels.travel^
 ||skytransfer.travel^
 ||smartour.travel^
 ||smartr.travel^
@@ -464,6 +470,7 @@
 ||tourdeforce.travel^
 ||toures.travel^
 ||tourivo.travel^
+||toursbypeople.travel^
 ||tourzy.travel^
 ||tqt.travel^
 ||trains.travel^
@@ -477,6 +484,7 @@
 ||tribe.travel^
 ||trick.travel^
 ||tripbay.travel^
+||tripsterra.travel^
 ||tripvibe.travel^
 ||tripwiz.travel^
 ||tron.travel^
@@ -494,8 +502,9 @@
 ||v9bet.travel^
 ||vacationenvy.travel^
 ||vacationinbosnia.travel^
+||valeria.travel^
+||valet.travel^
 ||varaa.travel^
-||vayatravels.travel^
 ||vegascityguide.travel^
 ||veloura.travel^
 ||viajeowner.travel^
@@ -517,6 +526,7 @@
 ||vngate.travel^
 ||volt.travel^
 ||voyageur.travel^
+||voyatrip.travel^
 ||vueloowner.travel^
 ||waldo.travel^
 ||wanderandroute.travel^
@@ -528,11 +538,12 @@
 ||waterfront.travel^
 ||waterview.travel^
 ||wavesandwelcomes.travel^
+||weaver.travel^
+||weavernetwork.travel^
 ||web3.travel^
 ||webuy.travel^
 ||wedidit.travel^
 ||wejhat.travel^
-||wesell.travel^
 ||wetripit.travel^
 ||whenin.travel^
 ||wikol.travel^
@@ -554,6 +565,7 @@
 ||yodl.travel^
 ||yopo.travel^
 ||zamzam.travel^
+||zapp.travel^
 ||zeenia.travel^
 ||zest.travel^
 ||zoria.travel^

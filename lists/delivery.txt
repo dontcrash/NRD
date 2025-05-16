@@ -8,6 +8,7 @@
 ||a2u.delivery^
 ||abuse.delivery^
 ||acc.delivery^
+||admire.delivery^
 ||agewisepension.delivery^
 ||aigou.delivery^
 ||allfreight.delivery^
@@ -22,6 +23,7 @@
 ||av.delivery^
 ||backup.delivery^
 ||bakery.delivery^
+||baseball.delivery^
 ||bayreuth.delivery^
 ||bazar.delivery^
 ||beer.delivery^
@@ -33,6 +35,7 @@
 ||bluebox.delivery^
 ||bluemoongo.delivery^
 ||bngs.delivery^
+||bpm.delivery^
 ||breakfast.delivery^
 ||brightstarlog.delivery^
 ||busbar.delivery^
@@ -43,12 +46,14 @@
 ||cashback.delivery^
 ||cashdelivery.delivery^
 ||catalina.delivery^
+||cbd.delivery^
 ||central.delivery^
 ||ceval.delivery^
 ||charleston.delivery^
 ||chego.delivery^
 ||chowdecklogistics.delivery^
 ||ciblextunisie.delivery^
+||citycourier.delivery^
 ||clampacked.delivery^
 ||club.delivery^
 ||coffee.delivery^
@@ -91,6 +96,7 @@
 ||firstclass.delivery^
 ||firstflightcourier.delivery^
 ||fl.delivery^
+||flowerpeople.delivery^
 ||food24.delivery^
 ||foods.delivery^
 ||fortune.delivery^
@@ -98,7 +104,6 @@
 ||fsc.delivery^
 ||futures.delivery^
 ||get.delivery^
-||getrollingstoned.delivery^
 ||gini.delivery^
 ||gotrack.delivery^
 ||gourmet.delivery^
@@ -106,6 +111,7 @@
 ||grn.delivery^
 ||hannah.delivery^
 ||harmony.delivery^
+||haulix.delivery^
 ||heimat.delivery^
 ||hejm.delivery^
 ||hexaexpresscourier.delivery^
@@ -117,6 +123,7 @@
 ||internationalsafe.delivery^
 ||iranburger.delivery^
 ||italianfood.delivery^
+||jag.delivery^
 ||jdzy.delivery^
 ||jehb.delivery^
 ||joint.delivery^
@@ -158,7 +165,6 @@
 ||notifications-secureupdate.delivery^
 ||notify-updatemyagep.delivery^
 ||oba.delivery^
-||oddnow.delivery^
 ||olympiclogistics.delivery^
 ||oneflora.delivery^
 ||operator.delivery^
@@ -208,13 +214,16 @@
 ||share.delivery^
 ||sharing.delivery^
 ||shark.delivery^
+||shipbob.delivery^
 ||shipkar.delivery^
 ||shipmy.delivery^
 ||shop4me.delivery^
 ||shoppedup.delivery^
+||silver.delivery^
 ||simone.delivery^
 ||skynet.delivery^
 ||smiley.delivery^
+||street.delivery^
 ||subscribe.delivery^
 ||supp057f-updatemyagep.delivery^
 ||supportt-verify.delivery^
@@ -223,12 +232,15 @@
 ||tcdirect.delivery^
 ||tea.delivery^
 ||thca.delivery^
+||thcdrink.delivery^
+||thcdrinks.delivery^
 ||theunion.delivery^
 ||thevapefather.delivery^
 ||thndr.delivery^
 ||toni.delivery^
 ||toolyo.delivery^
 ||tracknow.delivery^
+||trackpad.delivery^
 ||trading.delivery^
 ||tridentdel.delivery^
 ||ttl.delivery^
@@ -242,13 +254,13 @@
 ||viettel.delivery^
 ||vipgj.delivery^
 ||vw.delivery^
+||wappi.delivery^
 ||wedo.delivery^
 ||weedonwheels.delivery^
 ||whatever.delivery^
 ||world.delivery^
 ||xca.delivery^
 ||yegw.delivery^
-||yeovil.delivery^
 ||ywfz.delivery^
 ||zap.delivery^
 ||zefg.delivery^

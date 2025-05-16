@@ -164,7 +164,7 @@
 ||canteven.computer^
 ||chatterbox.computer^
 ||chip.computer^
-||cloak.computer^
+||chips.computer^
 ||collage.computer^
 ||conjure.computer^
 ||curious.computer^
@@ -176,6 +176,7 @@
 ||dba.computer^
 ||deai.computer^
 ||dentbook.computer^
+||desktop.computer^
 ||devs.computer^
 ||dialtone.computer^
 ||duckon.computer^
@@ -196,6 +197,7 @@
 ||goldfish.computer^
 ||grail.computer^
 ||grimoire.computer^
+||grok.computer^
 ||handmade.computer^
 ||handy.computer^
 ||hardware.computer^
@@ -205,12 +207,10 @@
 ||howell.computer^
 ||imaginative.computer^
 ||imposing.computer^
-||incontext.computer^
 ||inwood.computer^
 ||is.computer^
 ||jessica.computer^
 ||karma.computer^
-||keiths.computer^
 ||kira.computer^
 ||laptops.computer^
 ||libby.computer^
@@ -219,13 +219,14 @@
 ||manusdev01.computer^
 ||manusdev02.computer^
 ||microchip.computer^
-||mighty.computer^
 ||mine.computer^
 ||mitissot.computer^
 ||moldenhauer.computer^
 ||mr.computer^
 ||multivac.computer^
 ||mywifi.computer^
+||nature.computer^
+||ndao.computer^
 ||needless.computer^
 ||nextech.computer^
 ||ng.computer^
@@ -238,12 +239,12 @@
 ||poison.computer^
 ||processor.computer^
 ||ps.computer^
-||putnam.computer^
 ||qq88.computer^
 ||rauffer.computer^
 ||refresh.computer^
 ||ros.computer^
 ||samuel.computer^
+||saturday.computer^
 ||scoala279bucuresti.computer^
 ||scotiabank.computer^
 ||secondnature.computer^
@@ -267,7 +268,6 @@
 ||theta.computer^
 ||tio.computer^
 ||tmb.computer^
-||toko.computer^
 ||toybox.computer^
 ||tposen.computer^
 ||trudy.computer^
@@ -275,6 +275,7 @@
 ||ultimate.computer^
 ||underground.computer^
 ||uses.computer^
+||v01d.computer^
 ||venussd.computer^
 ||vintagesuper.computer^
 ||vision.computer^
