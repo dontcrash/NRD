@@ -7,6 +7,7 @@
 ||aiconnect.build^
 ||aigo.build^
 ||aioz.build^
+||aiweb.build^
 ||anesidora1155.build^
 ||artisanoaks.build^
 ||artscape.build^
@@ -28,6 +29,8 @@
 ||cicd.build^
 ||citizen.build^
 ||code-fox.build^
+||come.build^
+||conerd.build^
 ||consciouscapital.build^
 ||consera.build^
 ||creativevision.build^
@@ -44,6 +47,7 @@
 ||flannel.build^
 ||flatwater.build^
 ||foom.build^
+||gamecheck.build^
 ||gbs-usa.build^
 ||gcea.build^
 ||gearbox.build^
@@ -53,6 +57,7 @@
 ||handeeman.build^
 ||handyandy.build^
 ||hanuman.build^
+||hobber.build^
 ||imminent.build^
 ||imposing.build^
 ||iwonder.build^
@@ -78,12 +83,12 @@
 ||mybox.build^
 ||myown.build^
 ||mythic.build^
+||newtech.build^
 ||nextcms.build^
 ||nora.build^
 ||ochre.build^
 ||ona.build^
 ||onemore.build^
-||oneshield.build^
 ||openfoundation.build^
 ||orderforge.build^
 ||otus.build^
@@ -94,7 +99,6 @@
 ||perchance.build^
 ||pilonconstruction.build^
 ||pipedream.build^
-||pixel.build^
 ||ponder.build^
 ||prestigedesign.build^
 ||primecraft.build^
@@ -107,6 +111,7 @@
 ||renovit.build^
 ||repletify.build^
 ||resu.build^
+||reza.build^
 ||richard.build^
 ||rite.build^
 ||rockblock.build^

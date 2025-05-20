@@ -23,15 +23,16 @@
 ||altai.rent^
 ||anapa.rent^
 ||animid.rent^
-||apex.rent^
 ||arabic.rent^
 ||arendainstrumenta.rent^
 ||asia.rent^
 ||assured.rent^
 ||avo.rent^
+||azumiapartments.rent^
+||azumiresidences.rent^
+||azumiresidencies.rent^
 ||backyardbliss.rent^
 ||balkan.rent^
-||band.rent^
 ||bangsatsel.rent^
 ||barksdaleflats.rent^
 ||basalagbe.rent^
@@ -136,6 +137,7 @@
 ||heartland.rent^
 ||heimat.rent^
 ||henhop.rent^
+||hermes.rent^
 ||hexpix.rent^
 ||hfyr78.rent^
 ||him.rent^
@@ -152,7 +154,6 @@
 ||isaimini.rent^
 ||isoft.rent^
 ||items.rent^
-||jh11372.rent^
 ||jiqiren.rent^
 ||jukeboxesfor.rent^
 ||jukeboxesto.rent^
@@ -175,6 +176,7 @@
 ||lorry.rent^
 ||lu88.rent^
 ||lumina.rent^
+||luxuryhouse.rent^
 ||magg.rent^
 ||magicdoor.rent^
 ||mail6.rent^
@@ -191,7 +193,6 @@
 ||monthlymart.rent^
 ||moov.rent^
 ||moskva.rent^
-||motels.rent^
 ||mybus.rent^
 ||mydesinet.rent^
 ||myphuket.rent^
@@ -234,6 +235,7 @@
 ||prom.rent^
 ||properbond.rent^
 ||propertymate.rent^
+||proprium.rent^
 ||psn.rent^
 ||purpleiris.rent^
 ||qsfgs.rent^
@@ -244,7 +246,6 @@
 ||reest.rent^
 ||rentaros.rent^
 ||rentus.rent^
-||report-check.rent^
 ||riorent.rent^
 ||robotec.rent^
 ||rocket.rent^
@@ -258,7 +259,6 @@
 ||sbisbankings.rent^
 ||sca.rent^
 ||scoona.rent^
-||server.rent^
 ||shippingcontainer.rent^
 ||singaporenetsco.rent^
 ||sirsee.rent^
@@ -292,6 +292,7 @@
 ||todo.rent^
 ||together.rent^
 ||topslot88.rent^
+||trailer.rent^
 ||train.rent^
 ||transponder.rent^
 ||tree.rent^
@@ -301,7 +302,6 @@
 ||ujjhvkdsdfsdfs.rent^
 ||undercur.rent^
 ||unitedhumans.rent^
-||v99.rent^
 ||valawe.rent^
 ||vanconversions.rent^
 ||vasa.rent^
@@ -326,4 +326,7 @@
 ||xtv.rent^
 ||zecar.rent^
 ||zobaco.rent^
+||zumaapartments.rent^
+||zumaresidencies.rent^
+||zumaresidency.rent^
 ||zuwu.rent^
