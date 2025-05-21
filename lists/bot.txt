@@ -22,6 +22,7 @@
 ||agenta.bot^
 ||agentas.bot^
 ||agentti.bot^
+||agricultural.bot^
 ||aipanic.bot^
 ||aire.bot^
 ||aistudio.bot^
@@ -81,9 +82,12 @@
 ||darling.bot^
 ||datasaurus.bot^
 ||daylight.bot^
+||debugging.bot^
+||deepwork.bot^
 ||demand.bot^
 ||demolition.bot^
 ||descuentos.bot^
+||designing.bot^
 ||dietas.bot^
 ||digitalassistant.bot^
 ||disneyworld.bot^
@@ -118,6 +122,7 @@
 ||excellence.bot^
 ||extraordinary.bot^
 ||fabricate.bot^
+||fairwitness.bot^
 ||fantastic.bot^
 ||fdtv.bot^
 ||felicity.bot^
@@ -137,6 +142,7 @@
 ||futures.bot^
 ||garbage.bot^
 ||gaze.bot^
+||geoblock.bot^
 ||glorious.bot^
 ||godaddy.bot^
 ||goodro.bot^
@@ -149,7 +155,9 @@
 ||headless.bot^
 ||headset.bot^
 ||heritage.bot^
+||homeservices.bot^
 ||hyperai.bot^
+||ibet.bot^
 ||ifly.bot^
 ||ignition.bot^
 ||ilaw.bot^
@@ -159,6 +167,7 @@
 ||inspiration.bot^
 ||instagrade.bot^
 ||installer.bot^
+||instructor.bot^
 ||insura.bot^
 ||interior.bot^
 ||isell.bot^
@@ -168,17 +177,21 @@
 ||joey.bot^
 ||jojo.bot^
 ||journey.bot^
+||kelex.bot^
 ||kinshipclub.bot^
 ||kioske.bot^
 ||kits.bot^
 ||kripto.bot^
+||laboratory.bot^
 ||laflorida.bot^
 ||lasbahamas.bot^
 ||lathe.bot^
 ||latitude.bot^
+||lechat.bot^
 ||legoland.bot^
 ||lero.bot^
 ||lexi.bot^
+||liminal.bot^
 ||lina.bot^
 ||locksmith.bot^
 ||londres.bot^
@@ -210,6 +223,7 @@
 ||motels.bot^
 ||motors.bot^
 ||multimodal.bot^
+||nanoro.bot^
 ||nerds.bot^
 ||notary.bot^
 ||nutribro.bot^
@@ -220,6 +234,7 @@
 ||onemore.bot^
 ||optic.bot^
 ||optimizer.bot^
+||orbi.bot^
 ||orlandoflorida.bot^
 ||outsourcing.bot^
 ||owencollier.bot^
@@ -229,6 +244,7 @@
 ||patient.bot^
 ||paver.bot^
 ||penta.bot^
+||picking.bot^
 ||piston.bot^
 ||plastic.bot^
 ||playadelcarmen.bot^
@@ -242,6 +258,7 @@
 ||qode.bot^
 ||quasar.bot^
 ||qure.bot^
+||ravel.bot^
 ||reasoning.bot^
 ||reflection.bot^
 ||reflective.bot^
@@ -250,6 +267,7 @@
 ||reservaciones.bot^
 ||resilience.bot^
 ||revolt.bot^
+||riceup.bot^
 ||ritual.bot^
 ||rivieramaya.bot^
 ||roofing.bot^
@@ -260,13 +278,18 @@
 ||salestraining.bot^
 ||sasquatch.bot^
 ||saver.bot^
+||scalping.bot^
 ||scholar.bot^
+||scripting.bot^
 ||seaworld.bot^
 ||securityagent.bot^
 ||sensation.bot^
 ||serene.bot^
+||shaping.bot^
+||shipment.bot^
 ||shopee.bot^
 ||shops.bot^
+||shrink.bot^
 ||simonsays.bot^
 ||skincare.bot^
 ||skye.bot^
@@ -274,6 +297,7 @@
 ||skytech.bot^
 ||sniped.bot^
 ||soundboard.bot^
+||speck.bot^
 ||splendid.bot^
 ||sturdy.bot^
 ||sui.bot^
@@ -288,6 +312,7 @@
 ||themeparks.bot^
 ||themoon.bot^
 ||tiling.bot^
+||tokenizing.bot^
 ||toki.bot^
 ||traction.bot^
 ||trademate.bot^
@@ -322,6 +347,7 @@
 ||when.bot^
 ||wonderful.bot^
 ||xchange.bot^
+||xenex.bot^
 ||xray.bot^
 ||yardie.bot^
 ||ying.bot^

@@ -2,10 +2,13 @@
 ||bogie.parts^
 ||build.parts^
 ||classictruck.parts^
+||cmk.parts^
 ||cotton.parts^
+||customcomponents.parts^
 ||customizable.parts^
 ||daga.parts^
 ||energy.parts^
+||gtpro.parts^
 ||haubot.parts^
 ||heritageplastic.parts^
 ||hondaauto.parts^
@@ -18,6 +21,8 @@
 ||network.parts^
 ||nsk.parts^
 ||nurture.parts^
+||redline.parts^
+||replacement.parts^
 ||restaurantyyc.parts^
 ||rrc.parts^
 ||slatetruck.parts^
