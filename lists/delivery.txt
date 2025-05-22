@@ -8,6 +8,7 @@
 ||abuse.delivery^
 ||acc.delivery^
 ||admire.delivery^
+||adsapi.delivery^
 ||agewisepension.delivery^
 ||aigou.delivery^
 ||allfreight.delivery^
@@ -93,9 +94,11 @@
 ||fortune.delivery^
 ||fruity.delivery^
 ||fsc.delivery^
+||gastro.delivery^
 ||get.delivery^
 ||gini.delivery^
 ||gio.delivery^
+||goola.delivery^
 ||gotrack.delivery^
 ||gourmet.delivery^
 ||grabit.delivery^
@@ -110,6 +113,7 @@
 ||hexaexpresscourier.delivery^
 ||housing.delivery^
 ||hr.delivery^
+||icon.delivery^
 ||imposing.delivery^
 ||infdx.delivery^
 ||iranburger.delivery^
@@ -122,8 +126,8 @@
 ||keeta.delivery^
 ||kif.delivery^
 ||kilagbe.delivery^
+||klang.delivery^
 ||klik.delivery^
-||kopenhagen.delivery^
 ||leap.delivery^
 ||lgb.delivery^
 ||lieferando.delivery^
@@ -132,12 +136,9 @@
 ||localizacao.delivery^
 ||localizador.delivery^
 ||lucky.delivery^
-||maga.delivery^
 ||marsol.delivery^
 ||mclogistics.delivery^
 ||meal.delivery^
-||meu.delivery^
-||meus.delivery^
 ||minute.delivery^
 ||missdeliveriss.delivery^
 ||mos.delivery^
@@ -147,9 +148,9 @@
 ||mule.delivery^
 ||myflowers.delivery^
 ||n0tifications-update.delivery^
+||nachtwinkel.delivery^
 ||nearme.delivery^
 ||nexdaylogistics.delivery^
-||nosh.delivery^
 ||notiff-updatemyagep.delivery^
 ||notifications-secureupdate.delivery^
 ||notify-updatemyagep.delivery^
@@ -166,9 +167,7 @@
 ||packy.delivery^
 ||paper.delivery^
 ||park.delivery^
-||passway.delivery^
 ||peak.delivery^
-||pedi.delivery^
 ||perplexity.delivery^
 ||pizzanow.delivery^
 ||postgres.delivery^
@@ -239,7 +238,6 @@
 ||utoquai.delivery^
 ||vaughanonlineweed.delivery^
 ||viettel.delivery^
-||vipgj.delivery^
 ||vw.delivery^
 ||wappi.delivery^
 ||wedo.delivery^
@@ -248,4 +246,3 @@
 ||world.delivery^
 ||wow.delivery^
 ||xca.delivery^
-||zap.delivery^
