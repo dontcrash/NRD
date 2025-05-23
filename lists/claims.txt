@@ -18,7 +18,6 @@
 ||azuro.claims^
 ||banking.claims^
 ||blackcab.claims^
-||blockchain.claims^
 ||boop.claims^
 ||broker.claims^
 ||bsport.claims^
@@ -95,6 +94,7 @@
 ||midas.claims^
 ||mikamiyua.claims^
 ||more.claims^
+||msu-io.claims^
 ||multichainprotocol-claims.claims^
 ||nbic.claims^
 ||nohu.claims^
@@ -112,6 +112,8 @@
 ||scamwatch.claims^
 ||simply.claims^
 ||smmzoo.claims^
+||solix.claims^
+||solva.claims^
 ||sui.claims^
 ||superseed-xyz.claims^
 ||superseed.claims^
@@ -124,9 +126,11 @@
 ||trustpro.claims^
 ||ubi.claims^
 ||unlockplatinum.claims^
+||upshift.claims^
 ||uscca-cabelas.claims^
 ||uscca-cabellas.claims^
 ||vnq8.claims^
+||we.claims^
 ||win88.claims^
 ||winfinity.claims^
 ||wolfume.claims^

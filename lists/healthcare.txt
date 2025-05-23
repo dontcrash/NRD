@@ -7,6 +7,7 @@
 ||animal-care-app.healthcare^
 ||apex.healthcare^
 ||atlashomemedicalsupplies.healthcare^
+||attrrevealed.healthcare^
 ||b-leaf.healthcare^
 ||beingwell.healthcare^
 ||benchmark.healthcare^
@@ -16,7 +17,6 @@
 ||cannamedix.healthcare^
 ||cfs.healthcare^
 ||choicearrangements.healthcare^
-||clarityai.healthcare^
 ||clinicaaurea.healthcare^
 ||conscious-capital.healthcare^
 ||datascience.healthcare^
@@ -25,11 +25,11 @@
 ||disp.healthcare^
 ||drlockhart.healthcare^
 ||drq.healthcare^
-||eardoc.healthcare^
 ||enerosora.healthcare^
 ||ensure.healthcare^
 ||essen.healthcare^
 ||ethical.healthcare^
+||firstwesternhospital.healthcare^
 ||fortune.healthcare^
 ||gabrielsangels.healthcare^
 ||go-prevent.healthcare^
@@ -59,12 +59,10 @@
 ||noborders.healthcare^
 ||notoproject.healthcare^
 ||nume.healthcare^
-||onco.healthcare^
 ||padawan.healthcare^
 ||pha.healthcare^
 ||pharmacon.healthcare^
 ||photon.healthcare^
-||plasticsurgeon.healthcare^
 ||proteqc.healthcare^
 ||proteqt.healthcare^
 ||ptcloud.healthcare^
@@ -89,6 +87,7 @@
 ||solution.healthcare^
 ||tag.healthcare^
 ||text.healthcare^
+||trg.healthcare^
 ||trump.healthcare^
 ||wellfit.healthcare^
 ||whenconsulting.healthcare^
