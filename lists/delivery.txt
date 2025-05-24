@@ -31,7 +31,6 @@
 ||birdie.delivery^
 ||bitcoinwallet.delivery^
 ||blinkit.delivery^
-||bluebox.delivery^
 ||bluemoongo.delivery^
 ||bpm.delivery^
 ||brain.delivery^
@@ -65,9 +64,8 @@
 ||dastak.delivery^
 ||deliver.delivery^
 ||demmy.delivery^
+||dogcaesarean.delivery^
 ||dollargeneral.delivery^
-||don-le.delivery^
-||donle.delivery^
 ||dotdelivery.delivery^
 ||drip.delivery^
 ||drivers.delivery^
@@ -95,6 +93,7 @@
 ||fruity.delivery^
 ||fsc.delivery^
 ||gastro.delivery^
+||gastrobar.delivery^
 ||get.delivery^
 ||gini.delivery^
 ||gio.delivery^
@@ -102,7 +101,6 @@
 ||gourmet.delivery^
 ||grabit.delivery^
 ||greengo.delivery^
-||grn.delivery^
 ||handed.delivery^
 ||hannah.delivery^
 ||harmony.delivery^
@@ -112,7 +110,9 @@
 ||hexaexpresscourier.delivery^
 ||housing.delivery^
 ||hr.delivery^
+||hypreneur.delivery^
 ||icon.delivery^
+||id-usps.delivery^
 ||imposing.delivery^
 ||infdx.delivery^
 ||iranburger.delivery^
@@ -172,13 +172,14 @@
 ||quickexpress.delivery^
 ||quickhaullogisticsllc.delivery^
 ||quiq.delivery^
+||rapidroutelogistics.delivery^
 ||rare.delivery^
 ||rbx.delivery^
+||react.delivery^
 ||research.delivery^
 ||ri.delivery^
 ||richmondhillhash.delivery^
 ||riders.delivery^
-||rten101.delivery^
 ||rune.delivery^
 ||rv.delivery^
 ||s0cre-ghyg-8wae.delivery^
@@ -216,6 +217,7 @@
 ||thevapefather.delivery^
 ||thndr.delivery^
 ||tiktak.delivery^
+||tokd.delivery^
 ||toni.delivery^
 ||toolyo.delivery^
 ||tracknow.delivery^
@@ -226,6 +228,7 @@
 ||updatemyagep.delivery^
 ||upec.delivery^
 ||usmessenger.delivery^
+||usps-address.delivery^
 ||ut.delivery^
 ||utoquai.delivery^
 ||vaughanonlineweed.delivery^

@@ -20,10 +20,10 @@
 ||acl.directory^
 ||addin.directory^
 ||addon.directory^
+||adultsite.directory^
 ||advancedenergysolutionscorp.directory^
 ||ageinginplace.directory^
 ||ageinplace.directory^
-||agent2agent.directory^
 ||agentcard.directory^
 ||aginginplace.directory^
 ||agis.directory^
@@ -38,6 +38,7 @@
 ||aisociety.directory^
 ||aiworkers.directory^
 ||allaitools.directory^
+||allerscan.directory^
 ||alprointerbiz.directory^
 ||americasmarketplace.directory^
 ||ammodeals.directory^
@@ -57,7 +58,6 @@
 ||beam.directory^
 ||bestaiagents.directory^
 ||beta.directory^
-||betting.directory^
 ||bgp.directory^
 ||bico.directory^
 ||biostatscro.directory^
@@ -183,7 +183,6 @@
 ||healthcare-software.directory^
 ||helpme.directory^
 ||herbal.directory^
-||hfsc.directory^
 ||holisticgriefcoach.directory^
 ||housing.directory^
 ||hyperliquid.directory^
@@ -205,7 +204,6 @@
 ||iphoneapps.directory^
 ||ipl.directory^
 ||isy.directory^
-||janm.directory^
 ||jobboards.directory^
 ||jobdone.directory^
 ||journey.directory^
@@ -251,6 +249,7 @@
 ||mkdir.directory^
 ||mlops.directory^
 ||mobilemechanic.directory^
+||mortgages.directory^
 ||mosque-australia.directory^
 ||moto.directory^
 ||mums.directory^
@@ -279,7 +278,6 @@
 ||nurse.directory^
 ||nursing.directory^
 ||obs.directory^
-||obsidian.directory^
 ||occupation.directory^
 ||occupations.directory^
 ||oceanfront.directory^
@@ -290,7 +288,6 @@
 ||package.directory^
 ||padi777.directory^
 ||passme.directory^
-||patio.directory^
 ||paving.directory^
 ||pedro.directory^
 ||perfectprompt.directory^
@@ -303,7 +300,6 @@
 ||pregnancy.directory^
 ||processes.directory^
 ||profit.directory^
-||projectx.directory^
 ||quantcast.directory^
 ||r-n-d.directory^
 ||r7casino.directory^
@@ -320,7 +316,6 @@
 ||remix.directory^
 ||remotemcp.directory^
 ||rendev.directory^
-||reo.directory^
 ||residents.directory^
 ||retailgo.directory^
 ||revisedmember.directory^
@@ -339,7 +334,6 @@
 ||sharaf.directory^
 ||shoptheindependents.directory^
 ||sidebets.directory^
-||skipper.directory^
 ||slot.directory^
 ||smab.directory^
 ||smile.directory^
@@ -376,6 +370,7 @@
 ||timeshare.directory^
 ||tkn.directory^
 ||toolmakers.directory^
+||total.directory^
 ||transformation.directory^
 ||treasury.directory^
 ||tribute.directory^

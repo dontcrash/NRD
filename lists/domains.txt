@@ -7,6 +7,7 @@
 ||agentstack.domains^
 ||agi.domains^
 ||agilebrands.domains^
+||agt.domains^
 ||aiinvest.domains^
 ||alkanes.domains^
 ||altruism.domains^
@@ -29,7 +30,6 @@
 ||commercial.domains^
 ||computable.domains^
 ||context.domains^
-||continuity.domains^
 ||cozy.domains^
 ||cryptofarm.domains^
 ||cryui.domains^
@@ -45,7 +45,6 @@
 ||dreamy.domains^
 ||dshop.domains^
 ||ego.domains^
-||ehealth.domains^
 ||ela.domains^
 ||epyk.domains^
 ||exalted.domains^
@@ -58,6 +57,8 @@
 ||follo.domains^
 ||frenly.domains^
 ||futureai.domains^
+||ga179.domains^
+||gate.domains^
 ||gce.domains^
 ||gdg.domains^
 ||gdi.domains^
@@ -65,7 +66,6 @@
 ||gettrending.domains^
 ||gettrendy.domains^
 ||gnome.domains^
-||goharpoon.domains^
 ||goo.domains^
 ||gottrendy.domains^
 ||greenfield.domains^
@@ -82,13 +82,14 @@
 ||joe.domains^
 ||labeu.domains^
 ||lambda.domains^
-||layerzero.domains^
 ||lilypad.domains^
 ||llms.domains^
 ||logic.domains^
 ||lssm.domains^
 ||lumiere.domains^
+||mafia.domains^
 ||manji.domains^
+||manletschat.domains^
 ||members.domains^
 ||minervafoods.domains^
 ||moat.domains^
@@ -101,12 +102,10 @@
 ||negotiate.domains^
 ||ninos.domains^
 ||nun.domains^
-||onhold.domains^
 ||onyx.domains^
 ||owizzo.domains^
 ||padawan.domains^
 ||parker.domains^
-||peace.domains^
 ||pitch.domains^
 ||pleoa.domains^
 ||pointblank.domains^
@@ -133,6 +132,8 @@
 ||sheep.domains^
 ||sitcom.domains^
 ||skeet.domains^
+||smartlink.domains^
+||smartlinks.domains^
 ||somnia.domains^
 ||source.domains^
 ||sparkle.domains^
@@ -157,4 +158,3 @@
 ||xnxx.domains^
 ||yichd.domains^
 ||yns.domains^
-||zro.domains^
