@@ -16,7 +16,6 @@
 ||advise.exchange^
 ||aedt.exchange^
 ||afas.exchange^
-||aflat.exchange^
 ||ag-en.exchange^
 ||agi.exchange^
 ||aif.exchange^
@@ -55,9 +54,7 @@
 ||badfella.exchange^
 ||ballstreet.exchange^
 ||baron.exchange^
-||bearsnbulls.exchange^
 ||betmaker.exchange^
-||bi.exchange^
 ||bigbash.exchange^
 ||binancedex.exchange^
 ||biofuel.exchange^
@@ -67,6 +64,7 @@
 ||bitcoinstradegy.exchange^
 ||bitcointrading.exchange^
 ||bitdax.exchange^
+||bitnest.exchange^
 ||bitsnap.exchange^
 ||bjoinoil.exchange^
 ||blackfortnetwork.exchange^
@@ -83,7 +81,6 @@
 ||btc-dex.exchange^
 ||btconly.exchange^
 ||bulk.exchange^
-||bullcoin.exchange^
 ||busbar.exchange^
 ||buycoin.exchange^
 ||c02p.exchange^
@@ -96,7 +93,6 @@
 ||ccrypto.exchange^
 ||chainos.exchange^
 ||changely.exchange^
-||charleston.exchange^
 ||christian.exchange^
 ||christiancourse.exchange^
 ||circulars.exchange^
@@ -148,15 +144,14 @@
 ||deluxe.exchange^
 ||deve.exchange^
 ||diamondexch.exchange^
+||diaspora.exchange^
 ||didi.exchange^
 ||digitalservices.exchange^
 ||digitalskills.exchange^
 ||digitx.exchange^
-||distro.exchange^
 ||dmg.exchange^
 ||dripp.exchange^
 ||e-currency.exchange^
-||ec101.exchange^
 ||ecny.exchange^
 ||ed101.exchange^
 ||eddy.exchange^
@@ -200,7 +195,6 @@
 ||fxnx.exchange^
 ||ga179.exchange^
 ||ga6789.exchange^
-||gambaidoithuong.exchange^
 ||ghosted.exchange^
 ||gio.exchange^
 ||glad-valakas.exchange^
@@ -208,6 +202,7 @@
 ||global66.exchange^
 ||globalcell.exchange^
 ||glow.exchange^
+||glyde.exchange^
 ||gmtx.exchange^
 ||gocointrade.exchange^
 ||goldendome.exchange^
@@ -215,6 +210,7 @@
 ||golfcart.exchange^
 ||gpc.exchange^
 ||graal.exchange^
+||greatest.exchange^
 ||guitarswap.exchange^
 ||haedal.exchange^
 ||halcyon.exchange^
@@ -225,11 +221,9 @@
 ||hawaii.exchange^
 ||hawaiian.exchange^
 ||headset.exchange^
-||hiaidea.exchange^
 ||hiperswap.exchange^
 ||hooked.exchange^
 ||hotdog.exchange^
-||huione.exchange^
 ||hvperswap.exchange^
 ||hwb.exchange^
 ||hyena.exchange^
@@ -257,13 +251,11 @@
 ||injast.exchange^
 ||insights.exchange^
 ||inspired.exchange^
-||interop.exchange^
 ||invisible.exchange^
 ||ipharaoh.exchange^
 ||iphub.exchange^
 ||itlx.exchange^
 ||jdm.exchange^
-||jios.exchange^
 ||juimper.exchange^
 ||jupmer.exchange^
 ||k8bet.exchange^
@@ -274,7 +266,6 @@
 ||karat.exchange^
 ||kazan.exchange^
 ||kenyadigital.exchange^
-||kgf.exchange^
 ||kingtrash.exchange^
 ||kittennswap.exchange^
 ||kittenswap.exchange^
@@ -352,7 +343,6 @@
 ||okxdex.exchange^
 ||om.exchange^
 ||one88.exchange^
-||oneflora.exchange^
 ||onetoke.exchange^
 ||onlin.exchange^
 ||oodatrader.exchange^
@@ -362,12 +352,10 @@
 ||orako.exchange^
 ||ostrich.exchange^
 ||outfly.exchange^
-||overdraft.exchange^
 ||ox0.exchange^
 ||pancakeswap.exchange^
 ||papertrade.exchange^
 ||paragon.exchange^
-||patron.exchange^
 ||paxforex.exchange^
 ||paysera.exchange^
 ||pesa.exchange^
@@ -408,7 +396,6 @@
 ||reading.exchange^
 ||realwa.exchange^
 ||rebit.exchange^
-||refer.exchange^
 ||republik.exchange^
 ||restaurant.exchange^
 ||restaurants.exchange^
@@ -417,7 +404,6 @@
 ||ria.exchange^
 ||rich.exchange^
 ||riilx.exchange^
-||rikvip.exchange^
 ||robots.exchange^
 ||rocketx-x.exchange^
 ||rojo.exchange^
@@ -457,7 +443,6 @@
 ||socrates.exchange^
 ||solan.exchange^
 ||solarswap.exchange^
-||solidareum.exchange^
 ||solvepro.exchange^
 ||soprano.exchange^
 ||speak.exchange^
@@ -466,6 +451,7 @@
 ||stinkdex.exchange^
 ||stitch.exchange^
 ||stockity.exchange^
+||stream.exchange^
 ||sugarbush.exchange^
 ||sukicoins.exchange^
 ||suma.exchange^
@@ -476,6 +462,7 @@
 ||supra.exchange^
 ||surge.exchange^
 ||swapuz.exchange^
+||sweet.exchange^
 ||switchkart.exchange^
 ||swrm.exchange^
 ||synthesis.exchange^
@@ -485,7 +472,6 @@
 ||tapbit.exchange^
 ||taylor.exchange^
 ||tbh.exchange^
-||techremote.exchange^
 ||techsoftx.exchange^
 ||tenebris.exchange^
 ||thanx.exchange^
@@ -498,11 +484,10 @@
 ||thewhisky.exchange^
 ||tigerexch247.exchange^
 ||tigerexchange247.exchange^
-||tlfs.exchange^
 ||toaken.exchange^
+||todos.exchange^
 ||together.exchange^
 ||tokenizedassets.exchange^
-||torbit.exchange^
 ||tornadocash.exchange^
 ||tradecraft.exchange^
 ||tsunami.exchange^
@@ -526,10 +511,12 @@
 ||vezard.exchange^
 ||vezora.exchange^
 ||vibecode.exchange^
+||villagemodel.exchange^
 ||viridian.exchange^
 ||vube.exchange^
 ||vz99.exchange^
 ||webcash.exchange^
+||wecards.exchange^
 ||wenn.exchange^
 ||wheelx.exchange^
 ||wife.exchange^
@@ -541,8 +528,6 @@
 ||xbitdex.exchange^
 ||xmr.exchange^
 ||xwallet.exchange^
-||xyield.exchange^
 ||ypf.exchange^
 ||zerogate.exchange^
 ||zopes.exchange^
-||zynero.exchange^

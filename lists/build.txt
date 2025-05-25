@@ -15,7 +15,6 @@
 ||bitsmiley-launchpad.build^
 ||boostbery.build^
 ||bricksto.build^
-||bridge-linea.build^
 ||budnar.build^
 ||calledto.build^
 ||chat.build^
@@ -29,7 +28,6 @@
 ||decent.build^
 ||decky.build^
 ||designplan.build^
-||develapa.build^
 ||dreamx.build^
 ||editorial.build^
 ||eide.build^
@@ -50,7 +48,6 @@
 ||imposing.build^
 ||iwonder.build^
 ||jamllc.build^
-||kahani.build^
 ||kairo.build^
 ||kings.build^
 ||kratos.build^
@@ -58,7 +55,6 @@
 ||lmnl.build^
 ||lockin.build^
 ||mastery.build^
-||mastra.build^
 ||materiaviva.build^
 ||midmod.build^
 ||mindseye.build^
@@ -81,7 +77,6 @@
 ||orderforge.build^
 ||otus.build^
 ||outrun.build^
-||overdraft.build^
 ||pachinko.build^
 ||peapod.build^
 ||perchance.build^
@@ -106,7 +101,6 @@
 ||seguro.build^
 ||selah.build^
 ||seventy1.build^
-||shopapp.build^
 ||showcase.build^
 ||sitescan.build^
 ||smoky.build^
@@ -115,13 +109,11 @@
 ||stonecreek.build^
 ||structr.build^
 ||superiorcontracting.build^
-||tapa.build^
 ||tektite.build^
 ||testify.build^
 ||tkoff.build^
 ||topup.build^
 ||turtle.build^
-||unikernel.build^
 ||useless.build^
 ||v169.build^
 ||vexcor.build^
@@ -130,7 +122,6 @@
 ||vignya.build^
 ||vima.build^
 ||viral.build^
-||vybe.build^
 ||wasmtime.build^
 ||wells.build^
 ||what.build^

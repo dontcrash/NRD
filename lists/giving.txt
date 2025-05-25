@@ -26,6 +26,8 @@
 ||physical.giving^
 ||pilotlight.giving^
 ||protection.giving^
+||sadaqawelfare.giving^
+||sadaqawelfarefund.giving^
 ||seasons.giving^
 ||seed.giving^
 ||solana.giving^
@@ -33,4 +35,6 @@
 ||taixiuonline.giving^
 ||tzedakah.giving^
 ||uwm.giving^
+||virtual.giving^
+||vps.giving^
 ||win777.giving^
