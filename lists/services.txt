@@ -50,7 +50,6 @@
 ||a2zhandyman.services^
 ||aaai.services^
 ||aaaicanaries.services^
-||aaec.services^
 ||aagroup.services^
 ||aam.services^
 ||abacuscloud.services^
@@ -61,24 +60,12 @@
 ||absolutemedicalanddiagnosticcenter.services^
 ||accessgp.services^
 ||accountaggregator.services^
-||accountingsoftware.services^
-||accountingsoftwaresupport.services^
 ||accountyfi.services^
 ||acecleaning.services^
 ||aceconsulting.services^
-||acigroup.services^
 ||acorncare.services^
 ||acpservices.services^
 ||acronicksprint.services^
-||actacre.services^
-||actacrecommunity.services^
-||actacrecommunityhub.services^
-||actacrecreators.services^
-||actacrecreatorshub.services^
-||actacreoutreach.services^
-||actacreoutreachhub.services^
-||actacreteam.services^
-||actandacre.services^
 ||activ8health.services^
 ||actualmovers.services^
 ||actusconsulting.services^
@@ -157,7 +144,6 @@
 ||allprocleaners.services^
 ||allseasonmowingandpressurewashing.services^
 ||allsolutions.services^
-||allstarstherapy.services^
 ||allsystemsgoutah.services^
 ||alluredigital.services^
 ||allwaysroofingandsiding.services^
@@ -174,7 +160,6 @@
 ||amber.services^
 ||amcodesign.services^
 ||americana.services^
-||americanexpresss.services^
 ||americantrucking.services^
 ||amiadocpas.services^
 ||amiemccarthy34professionaladministration.services^
@@ -198,7 +183,6 @@
 ||ap-experts.services^
 ||apay.services^
 ||apexindustrial.services^
-||apexmedicalbilling.services^
 ||apexxauto.services^
 ||aplicar.services^
 ||apluspainting.services^
@@ -213,7 +197,6 @@
 ||apq.services^
 ||apsc.services^
 ||apx.services^
-||archer.services^
 ||argentinait.services^
 ||argrecruitment.services^
 ||ariaprotocol.services^
@@ -328,7 +311,6 @@
 ||big777.services^
 ||bigdaddyhandyman.services^
 ||bigladdersoftware.services^
-||bimalokpal.services^
 ||bims.services^
 ||biohack.services^
 ||biolimitless.services^
@@ -365,10 +347,7 @@
 ||bowling.services^
 ||bpk.services^
 ||bpr.services^
-||braintools.services^
 ||braintrust.services^
-||brainwave.services^
-||brainwaves.services^
 ||brandscaling.services^
 ||bravoteam.services^
 ||breakthrough-profit.services^
@@ -417,11 +396,9 @@
 ||byb.services^
 ||bytes.services^
 ||byzfunder.services^
-||c4solutions.services^
 ||caddi.services^
 ||caleidroconsulting.services^
 ||calfund.services^
-||callairai.services^
 ||callwesternelectric.services^
 ||callzent.services^
 ||calvarytucson.services^
@@ -443,7 +420,6 @@
 ||carfinanceclaims.services^
 ||cargodash.services^
 ||cargoquent.services^
-||carmaukconstruction.services^
 ||carmedic.services^
 ||caromonthealth.services^
 ||carry.services^
@@ -487,7 +463,6 @@
 ||cib.services^
 ||cigar.services^
 ||citius.services^
-||city-wide.services^
 ||claimbuddy.services^
 ||class.services^
 ||classy-car.services^
@@ -507,7 +482,6 @@
 ||clearcredit.services^
 ||clearcustomer.services^
 ||cleo.services^
-||clickclinicals.services^
 ||climfort.services^
 ||clink.services^
 ||cloudforest.services^
@@ -663,11 +637,9 @@
 ||digitaltwintechnology.services^
 ||digitalvic.services^
 ||dipak.services^
-||directories.services^
 ||disney777.services^
 ||diticorp.services^
 ||divino.services^
-||dmac.services^
 ||docu-tools.services^
 ||dogeasaservice.services^
 ||domainer.services^
@@ -696,11 +668,9 @@
 ||dvlexpress.services^
 ||dwz.services^
 ||dynamical.services^
-||dynamicfuture.services^
 ||dynamiclandscape.services^
 ||dynamicsea.services^
 ||dynastarweb.services^
-||dzd.services^
 ||e2betvip.services^
 ||e3consulting.services^
 ||eagroup.services^
@@ -722,7 +692,6 @@
 ||ecoairsourceheatpumps.services^
 ||ecoboxsolutions.services^
 ||ecomcare.services^
-||edalizpatrimoine.services^
 ||edel.services^
 ||edgargalinaneslawncare.services^
 ||edgecompute.services^
@@ -788,7 +757,6 @@
 ||etavisa.services^
 ||etco.services^
 ||eternity.services^
-||eudora.services^
 ||eventique.services^
 ||eventmore.services^
 ||eventrite.services^
@@ -797,7 +765,6 @@
 ||everydaycareability.services^
 ||evggroup.services^
 ||evha.services^
-||evolveconsult.services^
 ||evolvedash.services^
 ||eworx.services^
 ||excavator.services^
@@ -851,14 +818,12 @@
 ||find-devices.services^
 ||fintek.services^
 ||fireandwaterrestorations.services^
-||firethorn.services^
 ||firstclassinsulation.services^
 ||fittrackpro.services^
 ||fivered.services^
 ||fixilab.services^
 ||fixora.services^
 ||fkn.services^
-||fleetcom.services^
 ||fleethub.services^
 ||flightcontrol.services^
 ||flower.services^
@@ -949,7 +914,6 @@
 ||globalitconsulting.services^
 ||globalmedia.services^
 ||globaltrade.services^
-||globeconsult.services^
 ||glyph.services^
 ||gmbl.services^
 ||gmpl.services^
@@ -1063,7 +1027,6 @@
 ||homeplate.services^
 ||homeseller.services^
 ||homesflooring.services^
-||homesmartsolutions.services^
 ||hopepunkconsulting.services^
 ||horizonengineering.services^
 ||hospitalcleaningservice22.services^
@@ -1086,7 +1049,6 @@
 ||iamlegendary.services^
 ||ibaby.services^
 ||ibuild.services^
-||icasino.services^
 ||ices.services^
 ||iceyxautocare.services^
 ||icioud.services^
@@ -1167,15 +1129,12 @@
 ||japan-gateway.services^
 ||jaredsplumbing.services^
 ||jase.services^
-||jasmine.services^
 ||jbenterprises.services^
 ||jcotton.services^
 ||jdsgarage.services^
 ||jefferson-electrical.services^
 ||jeka.services^
 ||jeonlinemarketing.services^
-||jera.services^
-||jetfile.services^
 ||jew.services^
 ||jgproperty.services^
 ||jharkhand.services^
@@ -1185,7 +1144,6 @@
 ||jjjmechanicalllc.services^
 ||jlnkn.services^
 ||jmautomotive.services^
-||jmpsmalabanan.services^
 ||jmtransport.services^
 ||jogapix.services^
 ||join-ascapital.services^
@@ -1197,7 +1155,6 @@
 ||joker369.services^
 ||joya.services^
 ||jphsteel.services^
-||jporteravocat.services^
 ||js-store.services^
 ||jsd.services^
 ||jsgconsulting.services^
@@ -1205,12 +1162,10 @@
 ||jura-advisory.services^
 ||justcuzhealthyvending.services^
 ||justeca.services^
-||jww.services^
 ||jyotidham.services^
 ||k2c.services^
 ||k50.services^
 ||kabel.services^
-||kablamo.services^
 ||kairosconstructiongroup.services^
 ||kalyxlabs.services^
 ||kanbur.services^
@@ -1270,7 +1225,6 @@
 ||learnerdriver.services^
 ||leaseguarantor.services^
 ||legacycreative.services^
-||legacyit.services^
 ||legaldeparment.services^
 ||legaldepartment.services^
 ||legros2.services^
@@ -1300,7 +1254,6 @@
 ||livelocation-imaps.services^
 ||livelocation-maps.services^
 ||livelocation-viewmap.services^
-||liveview-mydevices.services^
 ||ljl.services^
 ||lmdl.services^
 ||lobby.services^
@@ -1342,7 +1295,6 @@
 ||majorsolutions.services^
 ||makellos.services^
 ||maker.services^
-||maktab.services^
 ||maletraining.services^
 ||managed-it.services^
 ||managementai.services^
@@ -1391,11 +1343,6 @@
 ||mediterraneancontur.services^
 ||medley.services^
 ||medtrack.services^
-||meetactacre.services^
-||meetactacrecommunity.services^
-||meetactacrecreators.services^
-||meetactacreoutreach.services^
-||meetactandacre.services^
 ||meetcleanrestoration.services^
 ||meetoutreach.services^
 ||meetthesiscommunity.services^
@@ -1415,7 +1362,6 @@
 ||metaoriental.services^
 ||metavision.services^
 ||meteora.services^
-||meterfy.services^
 ||metroclean.services^
 ||meyerdistributing.services^
 ||mgdigital.services^
@@ -1481,7 +1427,6 @@
 ||multitaskingkm.services^
 ||murmstrategies.services^
 ||murmurationstrategies.services^
-||murphi.services^
 ||musiccity.services^
 ||muslimeducation.services^
 ||mustage.services^
@@ -1532,7 +1477,6 @@
 ||nepaliit.services^
 ||nettech.services^
 ||networkconcierge.services^
-||neutech.services^
 ||nevaeh.services^
 ||new88.services^
 ||newbuild.services^
@@ -1564,12 +1508,10 @@
 ||notaria.services^
 ||notarize.services^
 ||novamedia.services^
-||novasupport.services^
 ||nowa.services^
 ||nps-hvac.services^
 ||nps.services^
 ||nsha.services^
-||nsiadvisory.services^
 ||nsrptagregasipinjaman.services^
 ||ntergrity.services^
 ||ntf-service.services^
@@ -1585,7 +1527,6 @@
 ||nycany.services^
 ||nykaa.services^
 ||nylawyer.services^
-||nyxian.services^
 ||oaks.services^
 ||objektpartner.services^
 ||ocsllc.services^
@@ -1604,7 +1545,6 @@
 ||onlinenotary.services^
 ||onlinestore.services^
 ||onpar.services^
-||openactacre.services^
 ||opencleanrestoration.services^
 ||opendoor.services^
 ||openi.services^
@@ -1686,14 +1626,11 @@
 ||pch.services^
 ||pdu.services^
 ||peacockconsulting.services^
-||peakdigital.services^
-||peakit.services^
 ||ped.services^
 ||peglerweb.services^
 ||pelicano.services^
 ||pentel.services^
 ||peopleoperations.services^
-||pepper.services^
 ||perfectdigital.services^
 ||perfyoume.services^
 ||personalairmobility.services^
@@ -1717,7 +1654,6 @@
 ||poloniex.services^
 ||polycoin.services^
 ||poppygreenhillcounselling.services^
-||portalcondultaparana.services^
 ||porticoedu.services^
 ||portlandroofing.services^
 ||poseur.services^
@@ -1732,7 +1668,6 @@
 ||predictable.services^
 ||premierdomain.services^
 ||premierpower.services^
-||presentmoment.services^
 ||prestigeva.services^
 ||prestigeworldwidedelivery.services^
 ||prestinesolutionsest.services^
@@ -1937,7 +1872,6 @@
 ||securevpn.services^
 ||securityguard-services01.services^
 ||secutx.services^
-||sefrsad.services^
 ||sehe.services^
 ||self-mediahq.services^
 ||sellingdrive.services^
@@ -1956,8 +1890,6 @@
 ||seraphimsolutions.services^
 ||serenikey.services^
 ||servana.services^
-||servicenpc.services^
-||servicewithapersonaltouch.services^
 ||servico.services^
 ||servientrega.services^
 ||seso.services^
@@ -1978,13 +1910,6 @@
 ||shivaconsultancy.services^
 ||shivshakti.services^
 ||shop.services^
-||shopwithfriendsco.services^
-||shopwithfriendsglobal.services^
-||shopwithfriendshq.services^
-||shopwithfriendsinc.services^
-||shopwithfriendsonline.services^
-||shopwithfriendsorg.services^
-||shopwithfriendssolutions.services^
 ||show-me.services^
 ||shrimtathastu.services^
 ||shsgroup.services^
@@ -2010,7 +1935,6 @@
 ||skyhound.services^
 ||skyreturn.services^
 ||skyway.services^
-||slack-notifications.services^
 ||sled.services^
 ||slfinancial.services^
 ||slip.services^
@@ -2049,7 +1973,6 @@
 ||sparklecleaning.services^
 ||sparkr.services^
 ||spars.services^
-||spartan.services^
 ||speakmindai.services^
 ||specialedsupport.services^
 ||specializededucation.services^
@@ -2069,7 +1992,6 @@
 ||stallion.services^
 ||staminaflow.services^
 ||starrynight.services^
-||starstherapygroup.services^
 ||steampowered.services^
 ||steelhead.services^
 ||steinseifer.services^
@@ -2079,13 +2001,11 @@
 ||stillwaterpoolsllc.services^
 ||strategysprints.services^
 ||strawberry.services^
-||streamingpayments.services^
 ||streamline.services^
 ||stripemerchant.services^
 ||structur.services^
 ||studium.services^
 ||stuttgartmedia.services^
-||summitmarketing.services^
 ||sunriseproperty.services^
 ||sunrisesolutions.services^
 ||sunshy.services^
@@ -2121,19 +2041,6 @@
 ||taskforcehandyman.services^
 ||taxpros.services^
 ||taylortechnical.services^
-||tayoro.services^
-||tbentertainment.services^
-||tbentertainmenta.services^
-||tbentertainmentb.services^
-||tbentertainmentc.services^
-||tbentertainmentd.services^
-||tbentertainmente.services^
-||tbentertainmentf.services^
-||tbentertainmentg.services^
-||tbentertainmenth.services^
-||tbentertainmenti.services^
-||tbentertainmentj.services^
-||tbentertainmentk.services^
 ||tc-company.services^
 ||tdccp.services^
 ||team-ascapital.services^
@@ -2153,10 +2060,6 @@
 ||texasclutter.services^
 ||tgv.services^
 ||theaccountingsupport.services^
-||theactacre.services^
-||theactacrecommunity.services^
-||theactacrecreators.services^
-||theactacreoutreach.services^
 ||theagent.services^
 ||theairbatchs.services^
 ||thecleanrestoration.services^
@@ -2213,7 +2116,6 @@
 ||timewarp.services^
 ||timlaline.services^
 ||tirangagame.services^
-||tiscareno.services^
 ||titantires.services^
 ||titlesearch.services^
 ||tlc3.services^
@@ -2235,7 +2137,6 @@
 ||trademarkandpatent.services^
 ||trademarkassociation.services^
 ||trademarkhelp.services^
-||trainings.services^
 ||transcript.services^
 ||transcriptionist.services^
 ||trashpandas.services^
@@ -2247,7 +2148,6 @@
 ||triohealth.services^
 ||trisoft.services^
 ||trmg.services^
-||tro.services^
 ||truckitus.services^
 ||true-north.services^
 ||truenorthtalent.services^
@@ -2258,11 +2158,8 @@
 ||trustlocker.services^
 ||trustwavefinancial.services^
 ||trustweb.services^
-||trusupport.services^
 ||try-aionworldwide.services^
 ||try-revmlc.services^
-||tryactacre.services^
-||tryactandacre.services^
 ||tryaileadistix.services^
 ||tryaionworldwide.services^
 ||trybooktagteam.services^
@@ -2299,9 +2196,7 @@
 ||unitedcashsolutions.services^
 ||unityadvisory.services^
 ||universaltrading.services^
-||uop.services^
 ||upfortify.services^
-||upkept.services^
 ||upliftcommunity.services^
 ||upliftconsulting.services^
 ||uplinkit.services^
@@ -2310,8 +2205,6 @@
 ||usabookkeeping.services^
 ||usainsurance.services^
 ||usci.services^
-||useactacre.services^
-||useactandacre.services^
 ||useaileadistix.services^
 ||usedealonomy.services^
 ||usefastrestoration.services^
@@ -2340,7 +2233,6 @@
 ||versicherungs.services^
 ||vesciolegal.services^
 ||vetmax.services^
-||vetsio.services^
 ||vetsworkingforvets.services^
 ||veya.services^
 ||vfsglobal.services^
@@ -2356,7 +2248,6 @@
 ||viltia.services^
 ||vip-h.services^
 ||vip-hospitality.services^
-||viprealestate.services^
 ||viralize.services^
 ||vireontrionline.services^
 ||virtualeventspro.services^
@@ -2366,7 +2257,6 @@
 ||vo1pfreee.services^
 ||vocalseek.services^
 ||voicerank.services^
-||vois.services^
 ||voldey.services^
 ||volker.services^
 ||vornado.services^
@@ -2384,13 +2274,10 @@
 ||wan.services^
 ||want2go.services^
 ||washfix.services^
-||washup.services^
-||wbee.services^
 ||wdbproperty.services^
 ||weabusinessfunding.services^
 ||web-site.services^
 ||web-uniswap.services^
-||webhost.services^
 ||webinventix.services^
 ||webmaker.services^
 ||webmaster.services^
@@ -2424,7 +2311,6 @@
 ||windshielding.services^
 ||wingman.services^
 ||wireline.services^
-||wireworks.services^
 ||wisdomtree.services^
 ||wiseadvisor.services^
 ||wisp.services^
@@ -2451,7 +2337,6 @@
 ||wyostays.services^
 ||wysg.services^
 ||x50.services^
-||xactus.services^
 ||xatia.services^
 ||xatticsoftware.services^
 ||xdc.services^
