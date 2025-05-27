@@ -5,7 +5,6 @@
 ||alien.financial^
 ||allocate.financial^
 ||ambient.financial^
-||ament.financial^
 ||amf.financial^
 ||analytics.financial^
 ||apexhorizon.financial^
@@ -21,6 +20,7 @@
 ||babysteps.financial^
 ||balticbridge.financial^
 ||belay.financial^
+||blackswanobsidian.financial^
 ||blaze.financial^
 ||blendr.financial^
 ||britto.financial^
@@ -32,10 +32,9 @@
 ||cattell.financial^
 ||cb01.financial^
 ||cbd.financial^
-||cipher.financial^
+||cio.financial^
 ||clarivis.financial^
 ||claro.financial^
-||clearpay.financial^
 ||coin-base.financial^
 ||coinpay.financial^
 ||contra.financial^
@@ -44,7 +43,6 @@
 ||corp.financial^
 ||cryptos.financial^
 ||cta.financial^
-||cum.financial^
 ||cxofunnel.financial^
 ||cxomarketing.financial^
 ||defisaver.financial^
@@ -59,7 +57,6 @@
 ||eon.financial^
 ||evtol.financial^
 ||far.financial^
-||finma.financial^
 ||fintra.financial^
 ||fintradex.financial^
 ||firstfloor.financial^
@@ -73,14 +70,12 @@
 ||hdhub4u.financial^
 ||heirs.financial^
 ||hypcrswap.financial^
-||hyperiend.financial^
 ||hyperlerd.financial^
 ||hypersvap.financial^
 ||hyperswap.financial^
 ||hyperswp.financial^
 ||hyperswzp.financial^
 ||hyprlend.financial^
-||hypurrr.financial^
 ||imposing.financial^
 ||indonesia-fxpro.financial^
 ||indulge.financial^
@@ -88,9 +83,7 @@
 ||infrcred.financial^
 ||infrzred.financial^
 ||kittenswp.financial^
-||kittenswqp.financial^
 ||kittenzwap.financial^
-||kitternswap.financial^
 ||klarivis.financial^
 ||kodisk.financial^
 ||kordiak.financial^
@@ -98,16 +91,13 @@
 ||logos.financial^
 ||lomband.financial^
 ||lombrad.financial^
-||lornbard.financial^
 ||maia.financial^
 ||marinade.financial^
-||mct.financial^
 ||members.financial^
 ||metaverse.financial^
 ||mony.financial^
 ||n0n.financial^
 ||native.financial^
-||nexentbank.financial^
 ||niche.financial^
 ||nobility.financial^
 ||nox.financial^
@@ -121,7 +111,6 @@
 ||pathway.financial^
 ||paymetsystem-tradingplatform.financial^
 ||pecunia.financial^
-||pharaoh.financial^
 ||planis.financial^
 ||printer.financial^
 ||qtr.financial^
@@ -130,9 +119,11 @@
 ||reserve.financial^
 ||rgroup.financial^
 ||rmb.financial^
-||runway.financial^
+||servicecentre-latitude.financial^
 ||sfs.financial^
+||sharpline.financial^
 ||shmu.financial^
+||slash.financial^
 ||snap.financial^
 ||solidus.financial^
 ||solvapp.financial^
@@ -163,6 +154,7 @@
 ||wb.financial^
 ||wealthbridge.financial^
 ||wellth.financial^
+||wexler.financial^
 ||wysr.financial^
 ||yei.financial^
 ||youroptions.financial^
