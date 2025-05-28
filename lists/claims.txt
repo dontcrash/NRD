@@ -47,6 +47,7 @@
 ||clear.claims^
 ||closed.claims^
 ||coins.claims^
+||com-os2.claims^
 ||commission.claims^
 ||cover.claims^
 ||dex.claims^
@@ -58,7 +59,6 @@
 ||eigentoken.claims^
 ||enso.claims^
 ||ether-fi.claims^
-||etherfi.claims^
 ||evtol.claims^
 ||factifi.claims^
 ||familyheritage.claims^
@@ -83,7 +83,6 @@
 ||lemonade.claims^
 ||let.claims^
 ||lets.claims^
-||mainstreet.claims^
 ||maple.claims^
 ||mask.claims^
 ||mcp.claims^
@@ -101,7 +100,7 @@
 ||popcat.claims^
 ||publicadjuster.claims^
 ||recrex.claims^
-||restoration.claims^
+||resoiv.claims^
 ||rkishori.claims^
 ||saferide.claims^
 ||saferiderv.claims^
@@ -118,6 +117,7 @@
 ||tf88.claims^
 ||tindergift.claims^
 ||tour.claims^
+||truckaccident.claims^
 ||trustpro.claims^
 ||ubi.claims^
 ||unlockplatinum.claims^

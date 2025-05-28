@@ -3,7 +3,10 @@
 ||build.parts^
 ||classictruck.parts^
 ||cmk.parts^
+||customauto.parts^
 ||customcomponents.parts^
+||dark.parts^
+||ductless.parts^
 ||energy.parts^
 ||gtpro.parts^
 ||haubot.parts^
@@ -12,6 +15,7 @@
 ||lbt.parts^
 ||nest.parts^
 ||network.parts^
+||proauto.parts^
 ||redline.parts^
 ||replacement.parts^
 ||restaurantyyc.parts^

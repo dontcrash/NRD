@@ -8,7 +8,6 @@
 ||aiweb.build^
 ||anymcp.build^
 ||artscape.build^
-||audhd.build^
 ||bastion.build^
 ||bet365.build^
 ||bevy.build^
@@ -19,6 +18,8 @@
 ||chat.build^
 ||cicd.build^
 ||citizen.build^
+||claude.build^
+||claudes.build^
 ||code-fox.build^
 ||come.build^
 ||conerd.build^
@@ -32,16 +33,21 @@
 ||eide.build^
 ||embedded.build^
 ||enlist-linea.build^
+||feasibilityreport.build^
+||feasibilityreports.build^
 ||flannel.build^
 ||folklore.build^
 ||foom.build^
+||francis.build^
 ||gamecheck.build^
 ||gbs-usa.build^
 ||genesispools.build^
 ||gschwendtberger.build^
 ||handeeman.build^
 ||handyandy.build^
+||hiltonhead.build^
 ||hobber.build^
+||identi.build^
 ||imminent.build^
 ||imposing.build^
 ||iwonder.build^
@@ -56,7 +62,6 @@
 ||midmod.build^
 ||mindseye.build^
 ||miniapp.build^
-||mint-linea.build^
 ||modular-systems.build^
 ||morpho.build^
 ||motis.build^
@@ -68,7 +73,7 @@
 ||nora.build^
 ||novatech.build^
 ||ochre.build^
-||ona.build^
+||optic.build^
 ||orderforge.build^
 ||otus.build^
 ||outrun.build^

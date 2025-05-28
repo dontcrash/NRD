@@ -6,7 +6,6 @@
 ||admire.delivery^
 ||adsapi.delivery^
 ||agewisepension.delivery^
-||aigou.delivery^
 ||allfreight.delivery^
 ||ameena.delivery^
 ||amendes-gouv.delivery^
@@ -74,7 +73,6 @@
 ||fin.delivery^
 ||firstclass.delivery^
 ||firstflightcourier.delivery^
-||fl.delivery^
 ||flowerpeople.delivery^
 ||foodgo.delivery^
 ||foods.delivery^
@@ -132,8 +130,8 @@
 ||myflowers.delivery^
 ||n0tifications-update.delivery^
 ||nachtwinkel.delivery^
-||nearme.delivery^
 ||nexdaylogistics.delivery^
+||nordic.delivery^
 ||notiff-updatemyagep.delivery^
 ||notifications-secureupdate.delivery^
 ||notify-updatemyagep.delivery^
@@ -149,6 +147,7 @@
 ||peak.delivery^
 ||perplexity.delivery^
 ||pizzanow.delivery^
+||place.delivery^
 ||postgres.delivery^
 ||postifininfo.delivery^
 ||postifinland.delivery^
@@ -163,10 +162,8 @@
 ||rbx.delivery^
 ||react.delivery^
 ||research.delivery^
-||ri.delivery^
 ||richmondhillhash.delivery^
 ||rune.delivery^
-||rv.delivery^
 ||s0cre-ghyg-8wae.delivery^
 ||saltandwater.delivery^
 ||saudi.delivery^
@@ -175,6 +172,7 @@
 ||scotiabank.delivery^
 ||securemail.delivery^
 ||security.delivery^
+||see.delivery^
 ||shark.delivery^
 ||shipbob.delivery^
 ||shipkar.delivery^
@@ -185,6 +183,7 @@
 ||singpos.delivery^
 ||skynet.delivery^
 ||smiley.delivery^
+||spreads.delivery^
 ||statespetexpress.delivery^
 ||street.delivery^
 ||subscribe.delivery^
@@ -216,7 +215,6 @@
 ||upec.delivery^
 ||usmessenger.delivery^
 ||usps-address.delivery^
-||ut.delivery^
 ||utoquai.delivery^
 ||vaughanonlineweed.delivery^
 ||viettel.delivery^

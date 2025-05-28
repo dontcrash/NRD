@@ -26,7 +26,6 @@
 ||beautique.style^
 ||belle.style^
 ||best.style^
-||blend.style^
 ||bloomify.style^
 ||bluecollar.style^
 ||blunt.style^
@@ -44,7 +43,6 @@
 ||clara.style^
 ||cloth.style^
 ||clumsy.style^
-||community.style^
 ||cosmetics.style^
 ||cramped.style^
 ||creditcards.style^
@@ -68,14 +66,13 @@
 ||ec101.style^
 ||ed101.style^
 ||edna.style^
+||eldridgecleaver-codpiece.style^
 ||elegancia.style^
 ||elevatelife.style^
-||enrichmind.style^
 ||exalted.style^
 ||fable.style^
 ||fabled.style^
 ||familyjewels.style^
-||fancyfrills.style^
 ||fashiontime.style^
 ||fitbar.style^
 ||flexora.style^
@@ -89,14 +86,13 @@
 ||gastro.style^
 ||glowease.style^
 ||glowmuse.style^
+||gw2.style^
 ||h2.style^
 ||haute.style^
 ||hawa.style^
 ||heritage.style^
 ||hgusa.style^
 ||highlight.style^
-||home-ease.style^
-||homega.style^
 ||icar.style^
 ||iconiques.style^
 ||idol.style^
@@ -110,7 +106,6 @@
 ||kindred.style^
 ||koral.style^
 ||lalo.style^
-||lazy.style^
 ||livinq.style^
 ||loni.style^
 ||loomi.style^
@@ -121,17 +116,17 @@
 ||lovemore-jewelry.style^
 ||lumera.style^
 ||lunessa.style^
-||luvacollection.style^
 ||luxuryvilla.style^
 ||mamou.style^
-||mann.style^
 ||maro.style^
 ||meaw.style^
 ||meawland.style^
 ||mining.style^
+||modeboutiques.style^
 ||modis.style^
 ||moon2.style^
 ||mttw.style^
+||muse.style^
 ||mvpfashion.style^
 ||mylo.style^
 ||mystery.style^
@@ -140,7 +135,6 @@
 ||natekorn.style^
 ||neonilara.style^
 ||nerd.style^
-||newhairleans.style^
 ||noksa.style^
 ||nudge.style^
 ||nulook.style^
@@ -163,7 +157,6 @@
 ||relaxliving.style^
 ||rentsoul.style^
 ||resolve.style^
-||retro.style^
 ||rhino.style^
 ||rinne.style^
 ||rocket.style^
@@ -178,7 +171,6 @@
 ||scout.style^
 ||setara.style^
 ||seven7seven.style^
-||shapewear.style^
 ||shevatar.style^
 ||shiftin.style^
 ||shopmate.style^
@@ -194,10 +186,9 @@
 ||sos.style^
 ||split.style^
 ||stack.style^
-||stephaniedesigns.style^
-||stepwith.style^
 ||stick.style^
 ||stocks.style^
+||streetster.style^
 ||stylecard.style^
 ||styleluxe.style^
 ||susanne.style^
@@ -209,6 +200,7 @@
 ||thematic.style^
 ||therapy.style^
 ||threadaura.style^
+||threadline.style^
 ||tiferet.style^
 ||tokens.style^
 ||trainer.style^
@@ -230,7 +222,6 @@
 ||viridian.style^
 ||vital.style^
 ||vygo.style^
-||walking.style^
 ||werk.style^
 ||wolf.style^
 ||wylde.style^

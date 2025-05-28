@@ -15,6 +15,7 @@
 ||care.broker^
 ||caribbeaninsurance.broker^
 ||chamberlain.broker^
+||clone.broker^
 ||clozr.broker^
 ||cobroker.broker^
 ||commissions.broker^
@@ -38,7 +39,6 @@
 ||hot.broker^
 ||hotelia.broker^
 ||housing.broker^
-||humanoid.broker^
 ||icon.broker^
 ||in.broker^
 ||incept.broker^
@@ -50,8 +50,9 @@
 ||lab.broker^
 ||linea.broker^
 ||lol.broker^
-||london.broker^
 ||marble.broker^
+||metals.broker^
+||milesfranklin.broker^
 ||mycar.broker^
 ||myimmo.broker^
 ||nrg.broker^

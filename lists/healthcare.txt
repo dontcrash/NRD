@@ -14,11 +14,13 @@
 ||benchmark.healthcare^
 ||bend.healthcare^
 ||bestpractice.healthcare^
+||bookable.healthcare^
 ||brezosiran.healthcare^
 ||cannamedix.healthcare^
 ||cedarvalleyhospice.healthcare^
 ||cfs.healthcare^
 ||choicearrangements.healthcare^
+||cirrosolutions.healthcare^
 ||clairehstonehillwellnessgroup.healthcare^
 ||clinicaaurea.healthcare^
 ||conference.healthcare^
@@ -32,8 +34,6 @@
 ||enerosora.healthcare^
 ||eng-hip.healthcare^
 ||ensure.healthcare^
-||essen.healthcare^
-||ethical.healthcare^
 ||europe.healthcare^
 ||ewalletpd.healthcare^
 ||firstwesternhospital.healthcare^
@@ -60,15 +60,17 @@
 ||medicalvector.healthcare^
 ||medicoinswiss.healthcare^
 ||mercysfamily.healthcare^
+||meskelyamen.healthcare^
 ||metabolicmastermind.healthcare^
 ||mindwell.healthcare^
 ||mission.healthcare^
-||momentum.healthcare^
 ||money.healthcare^
+||mymindform.healthcare^
 ||mzalatt-ksa.healthcare^
 ||noborders.healthcare^
 ||notoproject.healthcare^
 ||nume.healthcare^
+||nursenextdoor.healthcare^
 ||padawan.healthcare^
 ||photon.healthcare^
 ||proteqc.healthcare^
@@ -85,6 +87,7 @@
 ||ri.healthcare^
 ||rlf.healthcare^
 ||sarah.healthcare^
+||sentia.healthcare^
 ||shadowing.healthcare^
 ||shanwin.healthcare^
 ||si.healthcare^
@@ -97,6 +100,7 @@
 ||synq.healthcare^
 ||tag.healthcare^
 ||themasterbuilder.healthcare^
+||togethermodel.healthcare^
 ||trg.healthcare^
 ||trump.healthcare^
 ||wellfit.healthcare^
