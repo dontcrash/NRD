@@ -1,4 +1,3 @@
-||11xplay.exchange^
 ||123broker.exchange^
 ||1age.exchange^
 ||1xwinbet.exchange^
@@ -18,6 +17,7 @@
 ||aedt.exchange^
 ||afas.exchange^
 ||ag-en.exchange^
+||agape.exchange^
 ||agi.exchange^
 ||agriculturalresidue.exchange^
 ||aif.exchange^
@@ -57,15 +57,14 @@
 ||ballstreet.exchange^
 ||bankin.exchange^
 ||beefund.exchange^
+||betbook.exchange^
 ||betmaker.exchange^
 ||bigbash.exchange^
 ||binancedex.exchange^
 ||biofuel.exchange^
-||biomass.exchange^
 ||bit-flyer.exchange^
 ||bitcoinfunds.exchange^
 ||bitcoinstradegy.exchange^
-||bitcointrading.exchange^
 ||bitdax.exchange^
 ||bitget-internal.exchange^
 ||bitnest.exchange^
@@ -74,6 +73,8 @@
 ||blackswanobsidian.exchange^
 ||blockchain-wallet.exchange^
 ||blockswift.exchange^
+||blofin.exchange^
+||bluebird.exchange^
 ||bluecar.exchange^
 ||bookmaker.exchange^
 ||boontu.exchange^
@@ -86,7 +87,6 @@
 ||bridgewave.exchange^
 ||btc-dex.exchange^
 ||btconly.exchange^
-||bulk.exchange^
 ||busbar.exchange^
 ||c02p.exchange^
 ||cable.exchange^
@@ -100,10 +100,10 @@
 ||celeris.exchange^
 ||chainos.exchange^
 ||changely.exchange^
+||chatalog.exchange^
 ||christian.exchange^
 ||christiancourse.exchange^
 ||circulars.exchange^
-||civiliti.exchange^
 ||claim-navigator.exchange^
 ||clinically.exchange^
 ||clouddata.exchange^
@@ -111,6 +111,7 @@
 ||coincrypto.exchange^
 ||coindexin.exchange^
 ||coinland.exchange^
+||complus.exchange^
 ||config-dev.exchange^
 ||config-stg.exchange^
 ||config.exchange^
@@ -120,7 +121,6 @@
 ||coxno.exchange^
 ||cradle.exchange^
 ||crc.exchange^
-||cricketbuzz.exchange^
 ||crosstoken.exchange^
 ||cry-pto-verse.exchange^
 ||crypen.exchange^
@@ -172,7 +172,6 @@
 ||esg-carbon.exchange^
 ||esgminerals.exchange^
 ||esm.exchange^
-||esma.exchange^
 ||esol.exchange^
 ||esthen.exchange^
 ||ethane.exchange^
@@ -181,7 +180,6 @@
 ||f2f.exchange^
 ||fairchain.exchange^
 ||fancy.exchange^
-||fellow.exchange^
 ||ferra.exchange^
 ||fiboda.exchange^
 ||finclave.exchange^
@@ -220,7 +218,6 @@
 ||halcyon.exchange^
 ||halflife.exchange^
 ||harmoniie-sas.exchange^
-||havemore.exchange^
 ||hawaii.exchange^
 ||hawaiian.exchange^
 ||headset.exchange^
@@ -249,6 +246,7 @@
 ||illuvium.exchange^
 ||immersive.exchange^
 ||imposing.exchange^
+||incrypto.exchange^
 ||indulge.exchange^
 ||injast.exchange^
 ||insights.exchange^
@@ -308,14 +306,12 @@
 ||mywonder.exchange^
 ||n8n.exchange^
 ||nao.exchange^
-||navigatorsonic.exchange^
 ||ndae.exchange^
 ||nea.exchange^
 ||nectarine.exchange^
 ||neony.exchange^
 ||net-en.exchange^
 ||nexai.exchange^
-||nexfi.exchange^
 ||nexora.exchange^
 ||nineeleven.exchange^
 ||nmx.exchange^
@@ -337,6 +333,7 @@
 ||ostrich.exchange^
 ||overworld.exchange^
 ||ox0.exchange^
+||p2fi.exchange^
 ||pancakeswap.exchange^
 ||papertrade.exchange^
 ||paragon.exchange^
@@ -349,6 +346,7 @@
 ||pharaoih.exchange^
 ||pharaolh.exchange^
 ||phareoh.exchange^
+||phiaraoh.exchange^
 ||pick.exchange^
 ||pineapple.exchange^
 ||pinet.exchange^
@@ -369,8 +367,10 @@
 ||propertysource.exchange^
 ||pureblood.exchange^
 ||purple.exchange^
+||qgem.exchange^
 ||qoc.exchange^
 ||qu-bitcoin.exchange^
+||quantumtulip.exchange^
 ||querv.exchange^
 ||quik.exchange^
 ||rabix.exchange^
@@ -427,7 +427,6 @@
 ||socrates.exchange^
 ||solan.exchange^
 ||solarswap.exchange^
-||solvepro.exchange^
 ||soprano.exchange^
 ||spacecowboy.exchange^
 ||speak.exchange^
@@ -466,12 +465,11 @@
 ||therefillery.exchange^
 ||theta.exchange^
 ||thewhisky.exchange^
-||tigerexch247.exchange^
-||tigerexchange247.exchange^
 ||toaken.exchange^
 ||todos.exchange^
 ||together.exchange^
 ||tokenizedassets.exchange^
+||toobit.exchange^
 ||toomoney.exchange^
 ||tornadocash.exchange^
 ||touchpay.exchange^
@@ -481,7 +479,6 @@
 ||tsunami.exchange^
 ||tua.exchange^
 ||turbine.exchange^
-||ukbit.exchange^
 ||ultracoin.exchange^
 ||ultradex.exchange^
 ||umbrella.exchange^
@@ -496,7 +493,6 @@
 ||vendome.exchange^
 ||vercel.exchange^
 ||verge.exchange^
-||vezard.exchange^
 ||vezora.exchange^
 ||vibecode.exchange^
 ||villagemodel.exchange^
@@ -514,4 +510,5 @@
 ||xmr.exchange^
 ||xwallet.exchange^
 ||ypf.exchange^
+||zoomex.exchange^
 ||zopes.exchange^

@@ -18,6 +18,7 @@
 ||acar.energy^
 ||accevia.energy^
 ||acclaimreliability.energy^
+||accura.energy^
 ||acta.energy^
 ||acupuncture.energy^
 ||acurade.energy^
@@ -26,7 +27,6 @@
 ||adnoc.energy^
 ||advertising.energy^
 ||advisors.energy^
-||advizor.energy^
 ||aenz.energy^
 ||aequo.energy^
 ||aerofuel.energy^
@@ -41,6 +41,7 @@
 ||alternativa.energy^
 ||amass.energy^
 ||ampovia.energy^
+||amvolt.energy^
 ||anaheim.energy^
 ||anode.energy^
 ||anpsolar.energy^
@@ -55,7 +56,6 @@
 ||arti.energy^
 ||artinasolar.energy^
 ||aryos.energy^
-||aspararefinery.energy^
 ||astro.energy^
 ||atk-logistics.energy^
 ||atlantic.energy^
@@ -134,6 +134,7 @@
 ||cbc-europe.energy^
 ||cbc.energy^
 ||cds.energy^
+||ce-innovators.energy^
 ||cec.energy^
 ||cei.energy^
 ||celerity.energy^
@@ -141,6 +142,7 @@
 ||chargebyte.energy^
 ||charm.energy^
 ||chlorophyll.energy^
+||chubby.energy^
 ||chulavista.energy^
 ||citywatt.energy^
 ||civic.energy^
@@ -152,6 +154,7 @@
 ||cogem.energy^
 ||collaboration.energy^
 ||colorofyour.energy^
+||comett.energy^
 ||commit.energy^
 ||commonwealthfusionsystems.energy^
 ||communitise.energy^
@@ -159,8 +162,8 @@
 ||conectar.energy^
 ||connecteddataspec.energy^
 ||coolfusion.energy^
-||copia.energy^
 ||courant.energy^
+||cp-rostock.energy^
 ||craniosacralsound.energy^
 ||criticalops.energy^
 ||cryptosephyr.energy^
@@ -199,7 +202,6 @@
 ||easyway.energy^
 ||eboat.energy^
 ||ecosurge.energy^
-||ecuasol.energy^
 ||ed101.energy^
 ||edel.energy^
 ||edging.energy^
@@ -208,10 +210,13 @@
 ||egan.energy^
 ||egmr.energy^
 ||eightrivers.energy^
-||electricgolsavings.energy^
+||ekko.energy^
+||elani.energy^
+||electric.energy^
 ||elementalinnovations.energy^
 ||elios.energy^
 ||els.energy^
+||emerald.energy^
 ||empathonpurposewithpurpose.energy^
 ||endos.energy^
 ||energyshed.energy^
@@ -245,7 +250,6 @@
 ||f2.energy^
 ||fami.energy^
 ||fbs.energy^
-||felberg.energy^
 ||fibonacci.energy^
 ||finerge.energy^
 ||firebird.energy^
@@ -271,7 +275,6 @@
 ||getforge.energy^
 ||getmad.energy^
 ||getsolar.energy^
-||getvolter.energy^
 ||ggci.energy^
 ||globalist.energy^
 ||gods.energy^
@@ -292,7 +295,6 @@
 ||gridflow.energy^
 ||gridform.energy^
 ||gridmanager.energy^
-||groupp.energy^
 ||gry.energy^
 ||guaccamaya.energy^
 ||gud.energy^
@@ -301,7 +303,6 @@
 ||hams.energy^
 ||hand-in-handwerk.energy^
 ||handinhandwerk.energy^
-||harmonicconsciousness.energy^
 ||harmonics.energy^
 ||hatch.energy^
 ||hausverwaltung.energy^
@@ -324,6 +325,7 @@
 ||honestfuel.energy^
 ||honk.energy^
 ||hubzero.energy^
+||humble.energy^
 ||hybrida.energy^
 ||hyge.energy^
 ||hynexium.energy^
@@ -384,7 +386,6 @@
 ||luca.energy^
 ||luciditas.energy^
 ||lumena.energy^
-||luxe.energy^
 ||luz.energy^
 ||lycos.energy^
 ||m8.energy^
@@ -413,7 +414,6 @@
 ||mindflow.energy^
 ||minespower.energy^
 ||minex.energy^
-||mitra.energy^
 ||momenta.energy^
 ||moolex.energy^
 ||moonshine.energy^
@@ -461,12 +461,12 @@
 ||o0.energy^
 ||oak.energy^
 ||oakland.energy^
+||oasis.energy^
 ||ocean.energy^
 ||offen.energy^
 ||oida.energy^
 ||ok9.energy^
 ||omnio.energy^
-||oncall.energy^
 ||once.energy^
 ||onda.energy^
 ||onepenny.energy^
@@ -506,6 +506,7 @@
 ||praml.energy^
 ||primevitalforce.energy^
 ||primo.energy^
+||prompts.energy^
 ||provider.energy^
 ||psychotherapy.energy^
 ||pulsesmart.energy^
@@ -513,9 +514,8 @@
 ||qbots.energy^
 ||qiji.energy^
 ||qu.energy^
-||quam.energy^
 ||quantified.energy^
-||quantumedge.energy^
+||quietriot.energy^
 ||ranch-energy.energy^
 ||ranch-fuel.energy^
 ||ranch-power.energy^
@@ -597,9 +597,7 @@
 ||solargenerations.energy^
 ||solarman.energy^
 ||solarnipaneli.energy^
-||solarorbital.energy^
 ||solarplan.energy^
-||solarpowercompany.energy^
 ||solarradiance.energy^
 ||solarshift.energy^
 ||solartex.energy^
@@ -612,17 +610,21 @@
 ||solwind.energy^
 ||solwit.energy^
 ||sonntax.energy^
+||soo.energy^
 ||soulspiritgenderfree.energy^
 ||soulstrideshealing.energy^
 ||sourcerock.energy^
 ||sparc.energy^
 ||sparkau.energy^
+||sparrow.energy^
 ||speed.energy^
 ||spesnova.energy^
 ||squeeze.energy^
 ||src.energy^
 ||srst.energy^
 ||st.energy^
+||staciej.energy^
+||stacierae.energy^
 ||stak.energy^
 ||standardx.energy^
 ||status.energy^
@@ -655,13 +657,13 @@
 ||thebatteryman.energy^
 ||theblitz.energy^
 ||theenergysocietyco.energy^
+||theone.energy^
 ||theortus.energy^
 ||thepeak.energy^
 ||thesis.energy^
 ||thinque.energy^
 ||thomassan.energy^
 ||thought.energy^
-||threefold.energy^
 ||thunder.energy^
 ||tiburon.energy^
 ||timond.energy^
@@ -679,6 +681,8 @@
 ||typon.energy^
 ||u.energy^
 ||ues.energy^
+||uimlsvvap.energy^
+||undercurrent.energy^
 ||unifiedpower.energy^
 ||univerzita.energy^
 ||unknown.energy^
@@ -727,7 +731,6 @@
 ||withboss.energy^
 ||workshop.energy^
 ||wrb.energy^
-||xalta.energy^
 ||xcell.energy^
 ||xd.energy^
 ||xenergy-drinks.energy^

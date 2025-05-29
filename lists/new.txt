@@ -1,4 +1,5 @@
 ||able.new^
+||alert.new^
 ||ana.new^
 ||assembly.new^
 ||augment.new^
@@ -40,18 +41,13 @@
 ||overclock.new^
 ||polymarket.new^
 ||pool.new^
-||proc.new^
 ||productstrategy.new^
 ||promocodes.new^
-||proto.new^
 ||rfq.new^
 ||rune.new^
-||runnable.new^
 ||scale.new^
-||senhasegura.new^
 ||silk.new^
 ||slidesal.new^
-||sol.new^
 ||spawn.new^
 ||splash.new^
 ||squad.new^
@@ -60,7 +56,6 @@
 ||synthetic.new^
 ||threat.new^
 ||train.new^
-||trial.new^
 ||unicorn.new^
 ||usdb.new^
 ||voice.new^

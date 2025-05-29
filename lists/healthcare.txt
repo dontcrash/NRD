@@ -25,13 +25,13 @@
 ||clinicaaurea.healthcare^
 ||conference.healthcare^
 ||cvhospice.healthcare^
+||dataplatform.healthcare^
 ||datascience.healthcare^
 ||dentalhub.healthcare^
 ||dignus.healthcare^
 ||disp.healthcare^
 ||drlockhart.healthcare^
 ||drq.healthcare^
-||enerosora.healthcare^
 ||eng-hip.healthcare^
 ||ensure.healthcare^
 ||europe.healthcare^
@@ -42,6 +42,7 @@
 ||gabrielsangels.healthcare^
 ||ghl.healthcare^
 ||go-prevent.healthcare^
+||haq.healthcare^
 ||hod.healthcare^
 ||humain.healthcare^
 ||immotiss.healthcare^
@@ -54,7 +55,6 @@
 ||lets-in.healthcare^
 ||lpc.healthcare^
 ||maps.healthcare^
-||mdri.healthcare^
 ||med-altra.healthcare^
 ||medaltra.healthcare^
 ||medicalvector.healthcare^
@@ -73,8 +73,6 @@
 ||nursenextdoor.healthcare^
 ||padawan.healthcare^
 ||photon.healthcare^
-||proteqc.healthcare^
-||proteqt.healthcare^
 ||ptcloud.healthcare^
 ||ptforms.healthcare^
 ||ptmeet.healthcare^
@@ -84,7 +82,6 @@
 ||quantumemr.healthcare^
 ||radiological.healthcare^
 ||resilience.healthcare^
-||ri.healthcare^
 ||rlf.healthcare^
 ||sarah.healthcare^
 ||sentia.healthcare^
