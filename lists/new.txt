@@ -23,9 +23,11 @@
 ||fastmcp.new^
 ||flex.new^
 ||fusion.new^
+||gawa.new^
 ||hand.new^
 ||hey.new^
 ||human.new^
+||kalshi.new^
 ||lingo.new^
 ||logs.new^
 ||lovable.new^
@@ -43,7 +45,7 @@
 ||pool.new^
 ||productstrategy.new^
 ||promocodes.new^
-||rfq.new^
+||quant.new^
 ||rune.new^
 ||scale.new^
 ||silk.new^
@@ -59,7 +61,4 @@
 ||unicorn.new^
 ||usdb.new^
 ||voice.new^
-||vuetify.new^
-||workbooks.new^
-||worksheets.new^
 ||zero.new^

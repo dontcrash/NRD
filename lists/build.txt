@@ -13,7 +13,6 @@
 ||bevy.build^
 ||bitsmiley-launchpad.build^
 ||bouch.build^
-||bricksto.build^
 ||calledto.build^
 ||catalyze.build^
 ||chat.build^
@@ -36,13 +35,11 @@
 ||enlist-linea.build^
 ||feasibilityreport.build^
 ||feasibilityreports.build^
-||flannel.build^
 ||folklore.build^
 ||foom.build^
 ||francis.build^
 ||gamecheck.build^
 ||genesispools.build^
-||handeeman.build^
 ||hiltonhead.build^
 ||hobber.build^
 ||identi.build^
@@ -90,8 +87,6 @@
 ||residentialdesign.build^
 ||resu.build^
 ||reza.build^
-||rockblock.build^
-||saif.build^
 ||schmidtconstruction.build^
 ||seguro.build^
 ||selah.build^
@@ -113,7 +108,6 @@
 ||vima.build^
 ||viral.build^
 ||visa.build^
-||wasmtime.build^
 ||wells.build^
 ||what.build^
 ||wolfpack.build^

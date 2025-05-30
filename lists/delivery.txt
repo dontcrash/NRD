@@ -8,10 +8,9 @@
 ||allfreight.delivery^
 ||ameena.delivery^
 ||amendes-gouv.delivery^
+||an99.delivery^
 ||ance.delivery^
 ||any.delivery^
-||appetit.delivery^
-||arabiadropshipping.delivery^
 ||auspostrack.delivery^
 ||av.delivery^
 ||balulu.delivery^
@@ -33,6 +32,7 @@
 ||camp.delivery^
 ||cannoli.delivery^
 ||carways.delivery^
+||casa.delivery^
 ||cashback.delivery^
 ||cashdelivery.delivery^
 ||catalina.delivery^
@@ -105,6 +105,7 @@
 ||item.delivery^
 ||iz.delivery^
 ||jag.delivery^
+||jarheads.delivery^
 ||joint.delivery^
 ||just.delivery^
 ||karavan.delivery^
@@ -117,20 +118,18 @@
 ||lieferando.delivery^
 ||lifetime.delivery^
 ||marsol.delivery^
-||mclogistics.delivery^
 ||meal.delivery^
 ||minute.delivery^
 ||missdeliveriss.delivery^
 ||mos.delivery^
 ||moshi.delivery^
+||mrnyceguy.delivery^
 ||mta.delivery^
 ||myflowers.delivery^
-||n0tifications-update.delivery^
 ||nachtwinkel.delivery^
 ||nexdaylogistics.delivery^
 ||nordic.delivery^
 ||notiff-updatemyagep.delivery^
-||notifications-secureupdate.delivery^
 ||notify-updatemyagep.delivery^
 ||oba.delivery^
 ||octy.delivery^
@@ -159,6 +158,7 @@
 ||react.delivery^
 ||realbud.delivery^
 ||research.delivery^
+||retireeaase-com.delivery^
 ||rio.delivery^
 ||rune.delivery^
 ||s0cre-ghyg-8wae.delivery^
@@ -185,9 +185,7 @@
 ||street.delivery^
 ||subscribe.delivery^
 ||supp057f-updatemyagep.delivery^
-||supportt-verify.delivery^
 ||synk.delivery^
-||tac.delivery^
 ||tcdirect.delivery^
 ||tea.delivery^
 ||thca.delivery^
@@ -207,7 +205,6 @@
 ||transo.delivery^
 ||tridentdel.delivery^
 ||uni-versal-web.delivery^
-||unko.delivery^
 ||updatemyagep.delivery^
 ||upec.delivery^
 ||usmessenger.delivery^
@@ -220,3 +217,4 @@
 ||world.delivery^
 ||wow.delivery^
 ||xca.delivery^
+||zipz.delivery^
