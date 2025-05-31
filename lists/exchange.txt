@@ -17,7 +17,6 @@
 ||advise.exchange^
 ||aedt.exchange^
 ||afas.exchange^
-||ag-en.exchange^
 ||agape.exchange^
 ||agi.exchange^
 ||agriculturalresidue.exchange^
@@ -47,12 +46,14 @@
 ||as.exchange^
 ||atlsound.exchange^
 ||atrisa.exchange^
+||ats.exchange^
 ||attention.exchange^
 ||audit.exchange^
 ||aureus.exchange^
 ||aurynt.exchange^
 ||autex.exchange^
 ||avdex.exchange^
+||avis.exchange^
 ||b2b.exchange^
 ||backpacks.exchange^
 ||badfella.exchange^
@@ -103,7 +104,6 @@
 ||changely.exchange^
 ||chatalog.exchange^
 ||christiancourse.exchange^
-||circulars.exchange^
 ||claim-navigator.exchange^
 ||clinically.exchange^
 ||clouddata.exchange^
@@ -143,7 +143,9 @@
 ||dappradar.exchange^
 ||databec.exchange^
 ||datacenter.exchange^
+||datareport.exchange^
 ||decentralizedfinance.exchange^
+||decentralizedstock.exchange^
 ||deepflow.exchange^
 ||deeptrade.exchange^
 ||deepx.exchange^
@@ -176,6 +178,7 @@
 ||esol.exchange^
 ||esthen.exchange^
 ||ethane.exchange^
+||exchangepro.exchange^
 ||exon.exchange^
 ||f1rst.exchange^
 ||f2f.exchange^
@@ -217,13 +220,14 @@
 ||halcyon.exchange^
 ||halflife.exchange^
 ||harmoniie-sas.exchange^
+||hashtex.exchange^
 ||hawaii.exchange^
 ||hawaiian.exchange^
+||hbitz.exchange^
 ||headset.exchange^
 ||hhyperswap.exchange^
 ||hiperswap.exchange^
 ||hooked.exchange^
-||hotdog.exchange^
 ||housecoin.exchange^
 ||hperswap.exchange^
 ||hpyerswap.exchange^
@@ -242,6 +246,7 @@
 ||hyperswa.exchange^
 ||hyperswab.exchange^
 ||hyperswape.exchange^
+||hyperswarp.exchange^
 ||hyperswcp.exchange^
 ||hyperswep.exchange^
 ||hyperswp.exchange^
@@ -274,9 +279,7 @@
 ||itlx.exchange^
 ||jakarta-coal.exchange^
 ||jaya9.exchange^
-||jdm.exchange^
 ||jstz.exchange^
-||juimper.exchange^
 ||jupmer.exchange^
 ||k8bet.exchange^
 ||kaapp.exchange^
@@ -297,7 +300,6 @@
 ||labhub.exchange^
 ||lao.exchange^
 ||level.exchange^
-||lfg.exchange^
 ||lifelesson.exchange^
 ||liqd.exchange^
 ||lithography.exchange^
@@ -308,12 +310,12 @@
 ||loksmith.exchange^
 ||londonmedical.exchange^
 ||loyal.exchange^
-||luck.exchange^
 ||luna.exchange^
 ||marinade.exchange^
 ||mavi.exchange^
 ||maxauto.exchange^
 ||meg.exchange^
+||memebitz.exchange^
 ||meta-swap.exchange^
 ||midas.exchange^
 ||miller.exchange^
@@ -358,14 +360,15 @@
 ||pancakeswap.exchange^
 ||papertrade.exchange^
 ||paragon.exchange^
+||pareto.exchange^
 ||paxforex.exchange^
 ||paysera.exchange^
 ||pesa.exchange^
 ||phairaoh.exchange^
 ||phaninc.exchange^
-||pharaeoh.exchange^
 ||pharaoih.exchange^
 ||pharaolh.exchange^
+||phareh.exchange^
 ||phareoh.exchange^
 ||phiaraoh.exchange^
 ||pick.exchange^
@@ -405,7 +408,7 @@
 ||restaurant.exchange^
 ||restaurants.exchange^
 ||restore.exchange^
-||revo.exchange^
+||rewardx.exchange^
 ||ria.exchange^
 ||rich.exchange^
 ||riilx.exchange^
@@ -414,6 +417,7 @@
 ||rojo.exchange^
 ||rollx.exchange^
 ||romc.exchange^
+||rop.exchange^
 ||royaldigital.exchange^
 ||rqngo.exchange^
 ||rupiahslot88.exchange^
@@ -432,7 +436,6 @@
 ||shardeum.exchange^
 ||shogun.exchange^
 ||shopai.exchange^
-||shsdow.exchange^
 ||sibyl.exchange^
 ||sierra.exchange^
 ||site.exchange^
@@ -515,7 +518,9 @@
 ||vezora.exchange^
 ||vibecode.exchange^
 ||villagemodel.exchange^
+||ving.exchange^
 ||viridian.exchange^
+||volume.exchange^
 ||vube.exchange^
 ||vz99.exchange^
 ||wecards.exchange^
@@ -529,6 +534,7 @@
 ||www-forex.exchange^
 ||wwwhyperswap.exchange^
 ||xange.exchange^
+||xennobia.exchange^
 ||xmr.exchange^
 ||xre.exchange^
 ||xwallet.exchange^

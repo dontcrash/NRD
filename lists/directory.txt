@@ -20,6 +20,7 @@
 ||acl.directory^
 ||addin.directory^
 ||addon.directory^
+||address.directory^
 ||adultsite.directory^
 ||africanbusinesses.directory^
 ||africanbusinesslink.directory^
@@ -28,6 +29,7 @@
 ||aginginplace.directory^
 ||aiassistants.directory^
 ||aidata.directory^
+||aidens.directory^
 ||aidirect.directory^
 ||aihub.directory^
 ||aimarketingtools.directory^
@@ -61,13 +63,11 @@
 ||bitcoincasino.directory^
 ||bitcoiner.directory^
 ||bitcoiners.directory^
-||blogs.directory^
 ||bme8718.directory^
 ||boltnew.directory^
 ||brazilianportuguesetranslator.directory^
 ||browse.directory^
 ||buildyour.directory^
-||bunker.directory^
 ||businessenglish.directory^
 ||byd109umm.directory^
 ||cable.directory^
@@ -100,6 +100,7 @@
 ||cm.directory^
 ||cmd.directory^
 ||cmo.directory^
+||codenamepsg.directory^
 ||coderc3.directory^
 ||columbusbehavioralhealth.directory^
 ||command.directory^
@@ -122,7 +123,6 @@
 ||dataset.directory^
 ||dba.directory^
 ||debt.directory^
-||deepwiki.directory^
 ||digitalhealth.directory^
 ||digitalmarketing.directory^
 ||dinkumaz.directory^
@@ -131,8 +131,9 @@
 ||divorcelawyer.directory^
 ||dogpeoplestuff.directory^
 ||domainer.directory^
-||domainlife.directory^
 ||domino.directory^
+||donut.directory^
+||doughnut.directory^
 ||drterracaudill.directory^
 ||drycleaner.directory^
 ||drycleaners.directory^
@@ -145,7 +146,6 @@
 ||epique.directory^
 ||epoch.directory^
 ||epu.directory^
-||etfs.directory^
 ||ethena.directory^
 ||eulavintegratedservices.directory^
 ||evo.directory^
@@ -290,6 +290,7 @@
 ||openbanking.directory^
 ||owncrypto.directory^
 ||padi777.directory^
+||paidwebsite.directory^
 ||passme.directory^
 ||paving.directory^
 ||pedro.directory^
@@ -305,9 +306,11 @@
 ||python.directory^
 ||quantcast.directory^
 ||r-n-d.directory^
+||rageroom.directory^
 ||rare.directory^
 ||react-components.directory^
 ||realestate.directory^
+||recordshop.directory^
 ||recycledepot.directory^
 ||refer.directory^
 ||regalelectric.directory^
@@ -317,6 +320,7 @@
 ||residents.directory^
 ||retailgo.directory^
 ||revisedmember.directory^
+||rewardx.directory^
 ||riko.directory^
 ||router.directory^
 ||sailing.directory^
@@ -361,7 +365,6 @@
 ||tehran.directory^
 ||terminal.directory^
 ||thebig.directory^
-||thedomainlife.directory^
 ||thefractional.directory^
 ||thewaste.directory^
 ||thinkbigger.directory^
@@ -378,13 +381,13 @@
 ||trustwallet.directory^
 ||tube.directory^
 ||tutormedia.directory^
-||twin.directory^
 ||udhq.directory^
 ||ueplugin.directory^
 ||ueplugins.directory^
 ||ufology.directory^
 ||usabusinessfiber.directory^
 ||usrauth.directory^
+||vara.directory^
 ||vcxo.directory^
 ||vehicle.directory^
 ||vendingmachine.directory^
@@ -401,12 +404,12 @@
 ||wasteremoval.directory^
 ||webhost.directory^
 ||website13may.directory^
-||weddings.directory^
 ||week.directory^
 ||weekendbets.directory^
 ||weightloss-australia.directory^
 ||wellifi-nootropics.directory^
 ||wellifi-peptides.directory^
+||what.directory^
 ||where.directory^
 ||wheretogym.directory^
 ||workplace.directory^
