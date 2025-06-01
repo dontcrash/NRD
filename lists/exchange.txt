@@ -14,15 +14,17 @@
 ||abs.exchange^
 ||abuck.exchange^
 ||acquire.exchange^
-||advise.exchange^
+||advisorai.exchange^
 ||aedt.exchange^
 ||afas.exchange^
 ||agape.exchange^
 ||agi.exchange^
 ||agriculturalresidue.exchange^
+||aiemployee.exchange^
 ||aif.exchange^
 ||alawneh.exchange^
 ||albumart.exchange^
+||alimentum.exchange^
 ||alphaaccess.exchange^
 ||alto.exchange^
 ||americaningenuity.exchange^
@@ -41,6 +43,7 @@
 ||arcana.exchange^
 ||architect.exchange^
 ||armada.exchange^
+||arsinex.exchange^
 ||artem.exchange^
 ||artificial.exchange^
 ||as.exchange^
@@ -61,7 +64,6 @@
 ||bankin.exchange^
 ||beefund.exchange^
 ||betbook.exchange^
-||betmaker.exchange^
 ||bigbash.exchange^
 ||binancedex.exchange^
 ||biofuel.exchange^
@@ -71,6 +73,7 @@
 ||bitget-internal.exchange^
 ||bitnest.exchange^
 ||bitsnap.exchange^
+||bitzdrop.exchange^
 ||bjoinoil.exchange^
 ||blackswanobsidian.exchange^
 ||blockchain-wallet.exchange^
@@ -78,7 +81,6 @@
 ||blofin.exchange^
 ||bluebird.exchange^
 ||bluecar.exchange^
-||bookmaker.exchange^
 ||boontu.exchange^
 ||boop.exchange^
 ||boot.exchange^
@@ -98,7 +100,6 @@
 ||carrot.exchange^
 ||caviar.exchange^
 ||ccglobal.exchange^
-||ccrypto.exchange^
 ||celeris.exchange^
 ||chainos.exchange^
 ||changely.exchange^
@@ -131,7 +132,6 @@
 ||cryptomonitor.exchange^
 ||cryptorave.exchange^
 ||cryptotechxrapp.exchange^
-||ct.exchange^
 ||cuesports.exchange^
 ||cupidtrades.exchange^
 ||curlybrain.exchange^
@@ -198,7 +198,6 @@
 ||fsngr.exchange^
 ||fuxinke-erx.exchange^
 ||fxnx.exchange^
-||ga179.exchange^
 ||ga6789.exchange^
 ||gatehub.exchange^
 ||ghosted.exchange^
@@ -246,12 +245,12 @@
 ||hyperswa.exchange^
 ||hyperswab.exchange^
 ||hyperswape.exchange^
+||hyperswapr.exchange^
 ||hyperswarp.exchange^
 ||hyperswcp.exchange^
 ||hyperswep.exchange^
 ||hyperswp.exchange^
 ||hyperswpa.exchange^
-||hyperswsp.exchange^
 ||hyperswxp.exchange^
 ||hyperswzp.exchange^
 ||hypersxwap.exchange^
@@ -286,7 +285,6 @@
 ||kamelot.exchange^
 ||kar.exchange^
 ||karat.exchange^
-||kazan.exchange^
 ||kingtrash.exchange^
 ||kittennswap.exchange^
 ||kittenswap.exchange^
@@ -303,26 +301,24 @@
 ||lifelesson.exchange^
 ||liqd.exchange^
 ||lithography.exchange^
-||live.exchange^
 ||loads.exchange^
 ||localcoins.exchange^
 ||localstuff.exchange^
-||loksmith.exchange^
 ||londonmedical.exchange^
 ||loyal.exchange^
 ||luna.exchange^
+||magpie.exchange^
+||manx.exchange^
 ||marinade.exchange^
 ||mavi.exchange^
 ||maxauto.exchange^
 ||meg.exchange^
 ||memebitz.exchange^
-||meta-swap.exchange^
 ||midas.exchange^
 ||miller.exchange^
 ||mnx.exchange^
 ||monument.exchange^
 ||moonx.exchange^
-||mshalabi.exchange^
 ||mta.exchange^
 ||mywonder.exchange^
 ||n8n.exchange^
@@ -341,8 +337,6 @@
 ||not.exchange^
 ||novaxblood.exchange^
 ||obli.exchange^
-||octario.exchange^
-||oddsmaker.exchange^
 ||ogu.exchange^
 ||okupi.exchange^
 ||okxdex.exchange^
@@ -376,7 +370,6 @@
 ||pinet.exchange^
 ||pipoka.exchange^
 ||playbook.exchange^
-||playbro.exchange^
 ||pleoa.exchange^
 ||plotio.exchange^
 ||pluto.exchange^
@@ -399,7 +392,6 @@
 ||quik.exchange^
 ||rabix.exchange^
 ||rango-o.exchange^
-||rapidbit.exchange^
 ||ratujetikan.exchange^
 ||read.exchange^
 ||reading.exchange^
@@ -418,7 +410,6 @@
 ||rollx.exchange^
 ||romc.exchange^
 ||rop.exchange^
-||royaldigital.exchange^
 ||rqngo.exchange^
 ||rupiahslot88.exchange^
 ||rwat.exchange^
@@ -444,7 +435,6 @@
 ||smart1.exchange^
 ||smartedge.exchange^
 ||smarter.exchange^
-||smartlayer.exchange^
 ||smartone.exchange^
 ||smooth.exchange^
 ||sms-af.exchange^
@@ -478,6 +468,7 @@
 ||tapbit.exchange^
 ||taylor.exchange^
 ||techsoftx.exchange^
+||tenzor.exchange^
 ||thanx.exchange^
 ||thecrypt.exchange^
 ||thegame.exchange^
@@ -508,7 +499,6 @@
 ||unknown.exchange^
 ||unsw.exchange^
 ||ural.exchange^
-||usdsol.exchange^
 ||utile.exchange^
 ||vanish.exchange^
 ||velo.exchange^
@@ -516,7 +506,6 @@
 ||vercel.exchange^
 ||verge.exchange^
 ||vezora.exchange^
-||vibecode.exchange^
 ||villagemodel.exchange^
 ||ving.exchange^
 ||viridian.exchange^
@@ -525,6 +514,7 @@
 ||vz99.exchange^
 ||wecards.exchange^
 ||wenn.exchange^
+||whatson.exchange^
 ||wheelx.exchange^
 ||wife.exchange^
 ||wilde.exchange^
@@ -537,6 +527,7 @@
 ||xennobia.exchange^
 ||xmr.exchange^
 ||xre.exchange^
+||xstrade.exchange^
 ||xwallet.exchange^
 ||yhperswap.exchange^
 ||yperswap.exchange^
