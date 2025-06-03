@@ -6,7 +6,6 @@
 ||acm-private.markets^
 ||adfi.markets^
 ||advicebuilder.markets^
-||aisosps.markets^
 ||altcoin.markets^
 ||analytics.markets^
 ||assetallocation.markets^
@@ -17,7 +16,6 @@
 ||aurra-ec.markets^
 ||aurra-p.markets^
 ||avenir.markets^
-||azoios.markets^
 ||b1.markets^
 ||barcarts.markets^
 ||between.markets^
@@ -61,7 +59,6 @@
 ||fig.markets^
 ||fintra.markets^
 ||fore.markets^
-||frames.markets^
 ||gallery.markets^
 ||gems.markets^
 ||gowize.markets^
@@ -74,6 +71,7 @@
 ||hollywoodbets.markets^
 ||hololaunch-ai.markets^
 ||hotel.markets^
+||hypr.markets^
 ||icm.markets^
 ||ifza.markets^
 ||inverse.markets^
@@ -136,7 +134,6 @@
 ||schelling.markets^
 ||sh.markets^
 ||shs.markets^
-||solidus.markets^
 ||soly.markets^
 ||spidertrading.markets^
 ||squirrel.markets^

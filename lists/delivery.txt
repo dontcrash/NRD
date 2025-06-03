@@ -16,11 +16,11 @@
 ||bayreuth.delivery^
 ||bazar.delivery^
 ||beer.delivery^
-||bili.delivery^
 ||bitcoinwallet.delivery^
 ||bkshipping.delivery^
 ||blinkit.delivery^
 ||bluemoongo.delivery^
+||bnd.delivery^
 ||bpm.delivery^
 ||brain.delivery^
 ||breakfast.delivery^
@@ -31,7 +31,6 @@
 ||casa.delivery^
 ||cashback.delivery^
 ||cashdelivery.delivery^
-||catalina.delivery^
 ||cbd.delivery^
 ||ceval.delivery^
 ||ciblextunisie.delivery^
@@ -42,6 +41,7 @@
 ||consciouscapital.delivery^
 ||coupon.delivery^
 ||couriemate.delivery^
+||documents.delivery^
 ||dogcaesarean.delivery^
 ||dotdelivery.delivery^
 ||drip.delivery^
@@ -58,10 +58,10 @@
 ||foods.delivery^
 ||fortune.delivery^
 ||fruity.delivery^
-||fsc.delivery^
 ||gastro.delivery^
 ||gastrobar.delivery^
 ||gio.delivery^
+||goldenlotus.delivery^
 ||goola.delivery^
 ||gourmet.delivery^
 ||grabit.delivery^
@@ -95,6 +95,7 @@
 ||leap.delivery^
 ||lieferando.delivery^
 ||lifetime.delivery^
+||manosfood.delivery^
 ||marsol.delivery^
 ||meal.delivery^
 ||missdeliveriss.delivery^
@@ -131,11 +132,12 @@
 ||react.delivery^
 ||realbud.delivery^
 ||research.delivery^
+||restaurante.delivery^
 ||retireeaase-com.delivery^
 ||rio.delivery^
 ||rune.delivery^
 ||saltandwater.delivery^
-||sbox.delivery^
+||sanang.delivery^
 ||scalable.delivery^
 ||scotiabank.delivery^
 ||securemail.delivery^
@@ -146,6 +148,7 @@
 ||silver.delivery^
 ||simone.delivery^
 ||singpos.delivery^
+||sistema.delivery^
 ||skynet.delivery^
 ||smilesinroute.delivery^
 ||smiley.delivery^
@@ -168,7 +171,9 @@
 ||tracknow.delivery^
 ||trackpad.delivery^
 ||transo.delivery^
+||trayloop.delivery^
 ||tridentdel.delivery^
+||unavu.delivery^
 ||uni-versal-web.delivery^
 ||updatemyagep.delivery^
 ||upec.delivery^

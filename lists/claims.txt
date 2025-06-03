@@ -48,6 +48,7 @@
 ||coins.claims^
 ||com-os2.claims^
 ||commission.claims^
+||dds.claims^
 ||dex.claims^
 ||dialectica.claims^
 ||domainrental.claims^
@@ -68,6 +69,7 @@
 ||friendly.claims^
 ||ga6789.claims^
 ||gi8.claims^
+||global.claims^
 ||gork.claims^
 ||hot.claims^
 ||hub.claims^
@@ -97,8 +99,6 @@
 ||recrex.claims^
 ||resoiv.claims^
 ||rnd.claims^
-||saferide.claims^
-||saferiderv.claims^
 ||secretcommision.claims^
 ||slingshot.claims^
 ||solix.claims^
@@ -112,6 +112,7 @@
 ||takeoff.claims^
 ||tf88.claims^
 ||tindergift.claims^
+||top.claims^
 ||tour.claims^
 ||truckaccident.claims^
 ||trustpro.claims^
@@ -123,6 +124,7 @@
 ||utica.claims^
 ||vnq8.claims^
 ||we.claims^
+||web.claims^
 ||win88.claims^
 ||winfinity.claims^
 ||workerinjury.claims^
