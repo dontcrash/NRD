@@ -7,7 +7,6 @@
 ||adfi.markets^
 ||advicebuilder.markets^
 ||altcoin.markets^
-||analytics.markets^
 ||assetallocation.markets^
 ||assets.markets^
 ||ats.markets^
@@ -27,10 +26,10 @@
 ||bullionvault.markets^
 ||buzzer.markets^
 ||camden.markets^
-||cana.markets^
 ||capsule.markets^
 ||cashew.markets^
 ||cast.markets^
+||charli.markets^
 ||ci.markets^
 ||clearingandsettlement.markets^
 ||commitment.markets^
@@ -65,7 +64,7 @@
 ||greenlads.markets^
 ||greenlight.markets^
 ||hadleys.markets^
-||handy.markets^
+||hay88.markets^
 ||hdmovie2.markets^
 ||helix.markets^
 ||hollywoodbets.markets^
@@ -80,7 +79,6 @@
 ||jiuyongkui-351.markets^
 ||kogen.markets^
 ||kray.markets^
-||legalagent.markets^
 ||lock.markets^
 ||lockr.markets^
 ||losangeles.markets^
@@ -101,7 +99,6 @@
 ||ndex.markets^
 ||newyorkcity.markets^
 ||noosa.markets^
-||oblique.markets^
 ||omistore.markets^
 ||onbet.markets^
 ||ondoglobal.markets^
@@ -137,6 +134,7 @@
 ||soly.markets^
 ||spidertrading.markets^
 ||squirrel.markets^
+||ssl.markets^
 ||styx.markets^
 ||su.markets^
 ||sure.markets^
@@ -151,7 +149,6 @@
 ||ticker.markets^
 ||tiny.markets^
 ||tokenization.markets^
-||trader.markets^
 ||trendora.markets^
 ||tshirt.markets^
 ||tupismo.markets^

@@ -2,11 +2,9 @@
 ||404.financial^
 ||acces.financial^
 ||agni.financial^
-||alien.financial^
 ||allocate.financial^
 ||ambient.financial^
 ||amf.financial^
-||apexhorizon.financial^
 ||app-hypcrswap.financial^
 ||app-hyperlend.financial^
 ||app-hyperswap.financial^
@@ -15,6 +13,7 @@
 ||apps-kittenswap.financial^
 ||art.financial^
 ||ashfordinternational.financial^
+||auth-latitude.financial^
 ||aventus.financial^
 ||babystep.financial^
 ||babysteps.financial^
@@ -33,6 +32,7 @@
 ||cattell.financial^
 ||cb01.financial^
 ||cbc.financial^
+||charli.financial^
 ||cio.financial^
 ||clarivis.financial^
 ||claro.financial^
@@ -71,7 +71,6 @@
 ||highq.financial^
 ||hypcrswap.financial^
 ||hyperlerd.financial^
-||hyperswp.financial^
 ||hyperswzp.financial^
 ||hypsrlend.financial^
 ||imposing.financial^
@@ -92,7 +91,6 @@
 ||metaverse.financial^
 ||meuprimeiropassaporte.financial^
 ||n0n.financial^
-||niche.financial^
 ||nobility.financial^
 ||nocap.financial^
 ||nox.financial^
@@ -103,6 +101,8 @@
 ||passive.financial^
 ||paymetsystem-tradingplatform.financial^
 ||pecunia.financial^
+||penny.financial^
+||plan.financial^
 ||planis.financial^
 ||qtr.financial^
 ||rate.financial^
@@ -111,22 +111,17 @@
 ||reserve.financial^
 ||sailor.financial^
 ||servicecentre-latitude.financial^
-||sfs.financial^
 ||sharpline.financial^
 ||shmu.financial^
 ||slash.financial^
 ||snap.financial^
-||stealthwealth.financial^
 ||stellation.financial^
 ||sterling-pathway.financial^
 ||sterlingpathway.financial^
 ||str.financial^
-||streetcredit.financial^
 ||swipe.financial^
-||thanx.financial^
 ||thc.financial^
 ||thelittlerockstar.financial^
-||theone.financial^
 ||titansguard.financial^
 ||torque.financial^
 ||townshare.financial^
@@ -137,7 +132,6 @@
 ||us.financial^
 ||utensil.financial^
 ||valant.financial^
-||vibeworker.financial^
 ||virtuous.financial^
 ||way.financial^
 ||wb.financial^
