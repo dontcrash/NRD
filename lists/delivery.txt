@@ -10,6 +10,7 @@
 ||amendes-gouv.delivery^
 ||an99.delivery^
 ||any.delivery^
+||argo.delivery^
 ||auspostrack.delivery^
 ||balulu.delivery^
 ||baseball.delivery^
@@ -30,7 +31,6 @@
 ||calismokes.delivery^
 ||cannoli.delivery^
 ||casa.delivery^
-||cashdelivery.delivery^
 ||cbd.delivery^
 ||ciblextunisie.delivery^
 ||cineblog01.delivery^
@@ -53,6 +53,7 @@
 ||exact.delivery^
 ||expressfreightsolutions.delivery^
 ||fin.delivery^
+||fix.delivery^
 ||flowerpeople.delivery^
 ||foodgo.delivery^
 ||foods.delivery^
@@ -63,6 +64,7 @@
 ||gastrobar.delivery^
 ||gio.delivery^
 ||goldenlotus.delivery^
+||goodvibes.delivery^
 ||goola.delivery^
 ||gourmet.delivery^
 ||grabit.delivery^
@@ -107,7 +109,6 @@
 ||nachtwinkel.delivery^
 ||nexdaylogistics.delivery^
 ||nordic.delivery^
-||notiff-updatemyagep.delivery^
 ||oba.delivery^
 ||octy.delivery^
 ||olympiclogistics.delivery^
@@ -118,19 +119,20 @@
 ||peak.delivery^
 ||pharmd.delivery^
 ||pizzanow.delivery^
+||pizzora.delivery^
 ||place.delivery^
 ||postgres.delivery^
 ||postifininfo.delivery^
 ||postifinland.delivery^
 ||prompts.delivery^
 ||psilocybin.delivery^
-||quickexpress.delivery^
 ||quickhaullogisticsllc.delivery^
 ||quiq.delivery^
 ||rapidroutelogistics.delivery^
 ||rbx.delivery^
 ||react.delivery^
 ||realbud.delivery^
+||repo.delivery^
 ||research.delivery^
 ||restaurante.delivery^
 ||retireeaase-com.delivery^
@@ -140,7 +142,6 @@
 ||saltandwater.delivery^
 ||sanang.delivery^
 ||sbs.delivery^
-||scalable.delivery^
 ||scotiabank.delivery^
 ||securemail.delivery^
 ||security.delivery^
@@ -157,7 +158,6 @@
 ||spreads.delivery^
 ||statespetexpress.delivery^
 ||street.delivery^
-||supp057f-updatemyagep.delivery^
 ||synk.delivery^
 ||tcdirect.delivery^
 ||tea.delivery^
@@ -174,16 +174,15 @@
 ||transo.delivery^
 ||trayloop.delivery^
 ||tridentdel.delivery^
+||tryp.delivery^
 ||unavu.delivery^
 ||uni-versal-web.delivery^
 ||upec.delivery^
 ||usmessenger.delivery^
 ||usps-address.delivery^
-||viettel.delivery^
 ||vw.delivery^
 ||waifu.delivery^
 ||wappi.delivery^
 ||world.delivery^
 ||wow.delivery^
-||xca.delivery^
 ||zipz.delivery^

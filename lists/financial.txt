@@ -12,7 +12,6 @@
 ||app-yei.financial^
 ||apps-kittenswap.financial^
 ||art.financial^
-||ashfordinternational.financial^
 ||auth-latitude.financial^
 ||aventus.financial^
 ||babystep.financial^
@@ -28,20 +27,19 @@
 ||cairo.financial^
 ||cake.financial^
 ||canna.financial^
-||cannabis.financial^
 ||cattell.financial^
 ||cb01.financial^
 ||cbc.financial^
 ||charli.financial^
 ||cio.financial^
 ||clarivis.financial^
-||claro.financial^
 ||coin-base.financial^
 ||contra.financial^
 ||copi.financial^
 ||copilot.financial^
 ||corp.financial^
 ||cramer.financial^
+||creative.financial^
 ||crestline.financial^
 ||cryptos.financial^
 ||cta.financial^
@@ -97,6 +95,7 @@
 ||odevine.financial^
 ||omnia.financial^
 ||ownit.financial^
+||pac.financial^
 ||parkcapital.financial^
 ||passive.financial^
 ||paymetsystem-tradingplatform.financial^
@@ -104,6 +103,7 @@
 ||penny.financial^
 ||plan.financial^
 ||planis.financial^
+||qore.financial^
 ||qtr.financial^
 ||rate.financial^
 ||readington.financial^
@@ -139,6 +139,7 @@
 ||wexler.financial^
 ||wysr.financial^
 ||yei.financial^
+||yldx.financial^
 ||youroptions.financial^
 ||zapp.financial^
 ||zyzy.financial^

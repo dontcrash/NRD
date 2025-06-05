@@ -22,7 +22,6 @@
 ||conerd.build^
 ||consera.build^
 ||dailyai.build^
-||decky.build^
 ||designplan.build^
 ||eide.build^
 ||embedded.build^
@@ -32,6 +31,7 @@
 ||foamhome.build^
 ||folklore.build^
 ||foom.build^
+||forged.build^
 ||francis.build^
 ||gamecheck.build^
 ||genesispools.build^
@@ -50,6 +50,7 @@
 ||mastery.build^
 ||materiaviva.build^
 ||mindseye.build^
+||mnml.build^
 ||modular-systems.build^
 ||morpho.build^
 ||munio.build^
@@ -59,10 +60,10 @@
 ||newtech.build^
 ||nora.build^
 ||novatech.build^
+||o2common.build^
 ||ochre.build^
 ||optic.build^
 ||otus.build^
-||outrun.build^
 ||pachinko.build^
 ||peapod.build^
 ||pilonconstruction.build^
@@ -71,13 +72,15 @@
 ||primecraft.build^
 ||prismatic.build^
 ||projecthub.build^
-||realmesh.build^
+||referals-lilnea.build^
 ||refferals-linea.build^
 ||residentialdesign.build^
 ||reza.build^
 ||selah.build^
 ||seventy1.build^
+||sgc.build^
 ||shop0.build^
+||skyridge.build^
 ||smoky.build^
 ||stackler.build^
 ||sterlinghomes.build^
@@ -85,7 +88,6 @@
 ||structr.build^
 ||superiorcontracting.build^
 ||testify.build^
-||topup.build^
 ||turtle.build^
 ||useless.build^
 ||v169.build^
