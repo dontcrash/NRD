@@ -51,7 +51,10 @@
 ||eds.financial^
 ||ensured.financial^
 ||evtol.financial^
+||ezbank.financial^
 ||far.financial^
+||feasibilityreport.financial^
+||feasibilityreports.financial^
 ||fibonacci.financial^
 ||fintra.financial^
 ||fintradex.financial^
@@ -97,7 +100,6 @@
 ||ownit.financial^
 ||pac.financial^
 ||parkcapital.financial^
-||passive.financial^
 ||paymetsystem-tradingplatform.financial^
 ||pecunia.financial^
 ||penny.financial^
@@ -110,6 +112,7 @@
 ||request.financial^
 ||reserve.financial^
 ||sailor.financial^
+||scope.financial^
 ||servicecentre-latitude.financial^
 ||sharpline.financial^
 ||shmu.financial^
@@ -120,7 +123,6 @@
 ||sterlingpathway.financial^
 ||str.financial^
 ||swipe.financial^
-||thc.financial^
 ||thelittlerockstar.financial^
 ||titansguard.financial^
 ||torque.financial^

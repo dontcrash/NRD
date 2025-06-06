@@ -2,7 +2,6 @@
 ||able.new^
 ||alert.new^
 ||assembly.new^
-||augment.new^
 ||aurora.new^
 ||basecamp.new^
 ||bonus.new^
@@ -14,14 +13,15 @@
 ||claude.new^
 ||coding.new^
 ||cosmo.new^
+||delta.new^
 ||demo.new^
 ||ecom.new^
 ||elaris.new^
 ||fastmcp.new^
 ||flex.new^
 ||gawa.new^
+||geo.new^
 ||gif.new^
-||hand.new^
 ||hey.new^
 ||human.new^
 ||kalshi.new^
@@ -53,7 +53,6 @@
 ||sre.new^
 ||synthetic.new^
 ||threat.new^
-||train.new^
 ||unicorn.new^
 ||voice.new^
 ||zero.new^
