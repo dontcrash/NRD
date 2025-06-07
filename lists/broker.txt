@@ -26,7 +26,6 @@
 ||editor.broker^
 ||eko.broker^
 ||exmarkets.broker^
-||expertoption.broker^
 ||feasibilityreport.broker^
 ||feasibilityreports.broker^
 ||feedback.broker^
@@ -44,16 +43,13 @@
 ||how.broker^
 ||i-want.broker^
 ||icon.broker^
-||in.broker^
 ||incept.broker^
 ||ko661.broker^
 ||kubet.broker^
 ||linea.broker^
-||marble.broker^
 ||message.broker^
 ||metals.broker^
 ||milesfranklin.broker^
-||myimmo.broker^
 ||onlycustoms.broker^
 ||perfect.broker^
 ||persian.broker^
