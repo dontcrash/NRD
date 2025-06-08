@@ -16,6 +16,7 @@
 ||assist.domains^
 ||auckland.domains^
 ||bitcom.domains^
+||bloc.domains^
 ||bnv.domains^
 ||brandingiron.domains^
 ||brandup.domains^
@@ -35,7 +36,6 @@
 ||database.domains^
 ||datamesh.domains^
 ||dcl.domains^
-||defy.domains^
 ||digitalworld.domains^
 ||domo.domains^
 ||dotai.domains^
@@ -54,18 +54,14 @@
 ||gce.domains^
 ||gdi.domains^
 ||gems.domains^
-||gettrending.domains^
 ||gettrendy.domains^
-||goo.domains^
 ||gottrendy.domains^
 ||history.domains^
-||iconic.domains^
 ||imposing.domains^
 ||infoholder.domains^
 ||israeli.domains^
 ||ji-manji.domains^
 ||jimanji.domains^
-||joe.domains^
 ||kangabytes.domains^
 ||lambda.domains^
 ||leftofthedot.domains^
@@ -97,10 +93,10 @@
 ||peaky.domains^
 ||pleoa.domains^
 ||princess.domains^
-||prom.domains^
 ||prosperiam.domains^
 ||puny.domains^
 ||rate.domains^
+||regolith.domains^
 ||rgb.domains^
 ||ribbit.domains^
 ||richy.domains^
@@ -116,6 +112,7 @@
 ||sheep.domains^
 ||shopping.domains^
 ||sitcom.domains^
+||sites.domains^
 ||skeet.domains^
 ||smartlink.domains^
 ||smartlinks.domains^
@@ -126,7 +123,6 @@
 ||utopiadomains.domains^
 ||vibin.domains^
 ||vybe.domains^
-||watch.domains^
 ||web3agent.domains^
 ||web3ai.domains^
 ||web3aiagent.domains^
