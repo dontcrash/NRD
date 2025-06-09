@@ -4,14 +4,13 @@
 ||agni.financial^
 ||alder.financial^
 ||allocate.financial^
+||altizam.financial^
 ||ambient.financial^
 ||amf.financial^
 ||app-hypcrswap.financial^
 ||app-hyperlend.financial^
 ||app-hyperswap.financial^
-||app-kittenswap.financial^
 ||app-yei.financial^
-||apps-kittenswap.financial^
 ||art.financial^
 ||assistanse.financial^
 ||auth-latitude.financial^
@@ -27,7 +26,6 @@
 ||cairo.financial^
 ||cake.financial^
 ||canna.financial^
-||cattell.financial^
 ||cb01.financial^
 ||cbc.financial^
 ||charli.financial^
@@ -58,7 +56,6 @@
 ||fibonacci.financial^
 ||fintra.financial^
 ||fintradex.financial^
-||firstfloor.financial^
 ||fiu.financial^
 ||fortiva.financial^
 ||fractal.financial^
@@ -74,14 +71,14 @@
 ||hyperlerd.financial^
 ||hyperswzp.financial^
 ||hypsrlend.financial^
-||imposing.financial^
+||impala.financial^
 ||indonesia-fxpro.financial^
 ||indulge.financial^
+||insiders.financial^
 ||klarivis.financial^
 ||latitude-group.financial^
 ||latticewealth.financial^
 ||logos.financial^
-||lombrad.financial^
 ||maia.financial^
 ||marinade.financial^
 ||members.financial^
@@ -99,7 +96,6 @@
 ||ownit.financial^
 ||pac.financial^
 ||parkcapital.financial^
-||paymetsystem-tradingplatform.financial^
 ||pecunia.financial^
 ||penny.financial^
 ||plan.financial^
@@ -111,6 +107,7 @@
 ||readington.financial^
 ||request.financial^
 ||reserve.financial^
+||royalty.financial^
 ||sailor.financial^
 ||scope.financial^
 ||servicecentre-latitude.financial^
@@ -128,6 +125,7 @@
 ||townshare.financial^
 ||tqventures.financial^
 ||tridian.financial^
+||trustusd.financial^
 ||tuily.financial^
 ||twa.financial^
 ||unitedcashsolutions.financial^
@@ -135,8 +133,8 @@
 ||utensil.financial^
 ||valant.financial^
 ||virtuous.financial^
-||way.financial^
 ||wb.financial^
+||wei.financial^
 ||wexler.financial^
 ||wysr.financial^
 ||yei.financial^

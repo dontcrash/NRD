@@ -28,6 +28,7 @@
 ||live.new^
 ||localpros.new^
 ||logs.new^
+||loop.new^
 ||maker.new^
 ||mimo.new^
 ||neighbor.new^
@@ -42,7 +43,6 @@
 ||reach.new^
 ||rune.new^
 ||scale.new^
-||silk.new^
 ||slidesal.new^
 ||spawn.new^
 ||splash.new^
