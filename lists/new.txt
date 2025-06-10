@@ -3,9 +3,7 @@
 ||alert.new^
 ||assembly.new^
 ||aurora.new^
-||basecamp.new^
 ||brain.new^
-||buzz.new^
 ||claude.new^
 ||coding.new^
 ||cosmo.new^
@@ -13,6 +11,7 @@
 ||delta.new^
 ||demo.new^
 ||ecom.new^
+||edu.new^
 ||elaris.new^
 ||fastmcp.new^
 ||flex.new^
@@ -20,7 +19,7 @@
 ||gawa.new^
 ||geo.new^
 ||gif.new^
-||hey.new^
+||gov.new^
 ||human.new^
 ||inbound.new^
 ||kalshi.new^
@@ -30,14 +29,12 @@
 ||logs.new^
 ||loop.new^
 ||maker.new^
-||mimo.new^
 ||neighbor.new^
 ||ninja.new^
 ||odeditor.new^
 ||old.new^
 ||overclock.new^
 ||polymarket.new^
-||productstrategy.new^
 ||promo.new^
 ||quant.new^
 ||reach.new^
@@ -48,12 +45,10 @@
 ||splash.new^
 ||sprite.new^
 ||sprites.new^
-||squad.new^
 ||sre.new^
 ||synthetic.new^
 ||tea.new^
 ||threat.new^
-||unicorn.new^
 ||voice.new^
 ||we.new^
 ||writing.new^
