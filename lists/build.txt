@@ -1,6 +1,6 @@
 ||adaptivedemo.build^
-||aiconnect.build^
 ||aihub.build^
+||aiscan.build^
 ||aiweb.build^
 ||anymcp.build^
 ||bastion.build^
@@ -10,12 +10,13 @@
 ||catalyze.build^
 ||claude.build^
 ||claudes.build^
+||codemate.build^
 ||come.build^
 ||conerd.build^
 ||consera.build^
 ||dailyai.build^
-||eide.build^
-||embedded.build^
+||earthalchemy.build^
+||fb88.build^
 ||feasibilityreport.build^
 ||feasibilityreports.build^
 ||ficoa.build^
@@ -25,11 +26,10 @@
 ||forged.build^
 ||francis.build^
 ||gamecheck.build^
-||genesispools.build^
+||gbt.build^
 ||hiltonhead.build^
 ||hobber.build^
 ||identi.build^
-||imminent.build^
 ||kairo.build^
 ||koncise.build^
 ||landum.build^
@@ -38,9 +38,8 @@
 ||mindseye.build^
 ||mnml.build^
 ||morpho.build^
-||munio.build^
 ||mybox.build^
-||mythic.build^
+||nestura.build^
 ||new88.build^
 ||newtech.build^
 ||novatech.build^
@@ -51,7 +50,6 @@
 ||peapod.build^
 ||pilonconstruction.build^
 ||prestigedesign.build^
-||primecraft.build^
 ||projecthub.build^
 ||referals-lilnea.build^
 ||residentialdesign.build^
@@ -66,8 +64,10 @@
 ||stonecraftdesign.build^
 ||structr.build^
 ||superiorcontracting.build^
+||tribecode.build^
 ||useless.build^
 ||vhcustom.build^
 ||vibemarketing.build^
+||virtus.build^
 ||visa.build^
 ||what.build^
