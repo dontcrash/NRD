@@ -8,6 +8,7 @@
 ||amoreshopperstore.broker^
 ||an99.broker^
 ||bl555.broker^
+||blackwall.broker^
 ||bloom.broker^
 ||brent.broker^
 ||brentchaney.broker^
@@ -31,7 +32,6 @@
 ||feasibilityreports.broker^
 ||fertility.broker^
 ||generative.broker^
-||green.broker^
 ||hair.broker^
 ||hdmovie2.broker^
 ||hemp.broker^
@@ -54,6 +54,7 @@
 ||preciousmetals.broker^
 ||realestates.broker^
 ||reinsurance.broker^
+||software.broker^
 ||steth.broker^
 ||theagent.broker^
 ||thediamond.broker^
@@ -64,6 +65,8 @@
 ||us-banks.broker^
 ||vehicleshipping.broker^
 ||virtus.broker^
+||void.broker^
+||vwap.broker^
 ||w9798.broker^
 ||winfinity.broker^
 ||winter.broker^

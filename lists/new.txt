@@ -5,8 +5,8 @@
 ||aurora.new^
 ||brain.new^
 ||campfire.new^
-||claude.new^
 ||coding.new^
+||core.new^
 ||cosmo.new^
 ||coupon.new^
 ||creator.new^
@@ -17,6 +17,7 @@
 ||edu.new^
 ||elaris.new^
 ||fastmcp.new^
+||fleet.new^
 ||flex.new^
 ||founder.new^
 ||free.new^
@@ -27,17 +28,15 @@
 ||human.new^
 ||inbound.new^
 ||kalshi.new^
-||lingo.new^
 ||live.new^
 ||localpros.new^
 ||logs.new^
 ||loop.new^
 ||maker.new^
 ||neighbor.new^
-||ninja.new^
 ||odeditor.new^
 ||old.new^
-||overclock.new^
+||pica.new^
 ||pods.new^
 ||polymarket.new^
 ||promo.new^
@@ -54,7 +53,6 @@
 ||synthetic.new^
 ||tea.new^
 ||threat.new^
-||voice.new^
 ||we.new^
 ||writing.new^
 ||zen.new^
