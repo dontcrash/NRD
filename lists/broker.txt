@@ -18,7 +18,9 @@
 ||clearing.broker^
 ||clone.broker^
 ||commissions.broker^
+||cryptospace.broker^
 ||cysec.broker^
+||device.broker^
 ||dexchange.broker^
 ||dispatch.broker^
 ||divarb.broker^
@@ -30,11 +32,8 @@
 ||exmarkets.broker^
 ||feasibilityreport.broker^
 ||feasibilityreports.broker^
-||fertility.broker^
 ||generative.broker^
-||hair.broker^
 ||hdmovie2.broker^
-||hemp.broker^
 ||highq.broker^
 ||hipoteca.broker^
 ||houses.broker^
@@ -55,7 +54,9 @@
 ||realestates.broker^
 ||reinsurance.broker^
 ||software.broker^
+||stablecoin.broker^
 ||steth.broker^
+||tcg.broker^
 ||theagent.broker^
 ||thediamond.broker^
 ||thepinguin.broker^
