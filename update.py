@@ -16,18 +16,16 @@ directory = "lists"
 def debug(msg):
     print(f"[DEBUG] {msg}")
 
-# Extract TLD from a domain entry like "||example.com^"
+# Extract TLD from a raw domain entry like "example.com"
 def get_tld(domain):
     try:
-        components = domain.split('^')
-        tld_component = components[0].strip("|")
-        if "." in tld_component:
-            tld = tld_component.split('.')[-1]
-            return tld
-        debug(f"Skipping domain without dot: {domain}")
+        if "." not in domain:
+            debug(f"Skipping invalid domain (no dot): {domain}")
+            return None
+        return domain.strip().lower().split(".")[-1]
     except Exception as e:
         debug(f"Error extracting TLD from domain {domain}: {e}")
-    return None
+        return None
 
 def update_domain_files():
     try:
@@ -48,32 +46,37 @@ def update_domain_files():
                 debug(f"Status Code: {response.status_code}")
 
                 if response.status_code == 200:
-                    lines = response.text.splitlines()
+                    # Remove comments and empty lines
+                    lines = [
+                        line.strip()
+                        for line in response.text.splitlines()
+                        if line.strip() and not line.startswith("#")
+                    ]
                     new_domains.extend(lines)
-                    debug(f"Fetched {len(lines)} lines from {url}")
+                    debug(f"Fetched {len(lines)} valid domains from {url}")
                 else:
                     print(f"Failed to download {url} (HTTP {response.status_code})")
+
             except Exception as e:
                 debug(f"Error fetching {url}: {e}")
                 traceback.print_exc()
 
-        debug(f"Total domains fetched before filtering: {len(new_domains)}")
+        debug(f"Total domains after cleaning: {len(new_domains)}")
 
-        # Filter domains starting with ||
+        # TLD sorting
         tld_domains = {}
+
         for domain in new_domains:
-            if domain.startswith("||"):
-                tld = get_tld(domain)
-                if tld:
-                    tld_domains.setdefault(tld, []).append(domain)
-                else:
-                    debug(f"No TLD extracted for: {domain}")
+            tld = get_tld(domain)
+            if tld:
+                tld_domains.setdefault(tld, []).append(domain)
 
         debug(f"TLD buckets created: {len(tld_domains)}")
+
         for tld, domains in tld_domains.items():
             debug(f"TLD `{tld}` has {len(domains)} domains")
 
-        # Write out files
+        # Write output files
         for tld, domains in tld_domains.items():
             filename = os.path.join(directory, f"{tld}.txt")
             try:
@@ -86,7 +89,7 @@ def update_domain_files():
 
         print("Domain files updated successfully!")
 
-    except Exception as outer_error:
+    except Exception:
         debug("FATAL ERROR IN SCRIPT")
         traceback.print_exc()
 
