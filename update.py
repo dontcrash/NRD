@@ -1,51 +1,60 @@
 import requests
 import os
 
-# URL to fetch the list of newly registered domains
-# It appears virtual fabric no longer offer a list?
-#url = "https://dl.nrd-list.com/1/nrd-list-32-days.txt"
-#url = "https://raw.githubusercontent.com/SystemJargon/nrd-lists/main/nrd-1m-hosts.txt"
-#url = "https://github.com/SystemJargon/filters/raw/main/nrds-30days.txt"
-url = "https://raw.githubusercontent.com/shreshta-labs/newly-registered-domains/refs/heads/main/nrd-1m.csv"
+# URLs to fetch lists of newly registered domains
+URLS = [
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd7.txt",
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd14-8.txt",
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd21-15.txt",
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd28-22.txt",
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd35-29.txt"
+]
+
 directory = "lists"
 
-# Function to extract TLD from a domain line
+# Extract TLD from a domain form like: ||example.com^
 def get_tld(domain):
     components = domain.split('^')
     if len(components) >= 1:
         tld_component = components[0].strip("|").strip(".")
-        if tld_component.count('.') >= 1:
-            tld = tld_component.split('.')[-1]
-            return tld
+        if '.' in tld_component:
+            return tld_component.split('.')[-1]
     return None
 
-# Function to update the domain files with new domains
 def update_domain_files():
-    # Create the 'lists' directory if it doesn't exist
-    if not os.path.exists(directory):
-        os.makedirs(directory)
+    # Ensure directory exists
+    os.makedirs(directory, exist_ok=True)
 
-    # Download the list of newly registered domains
-    response = requests.get(url)
-    new_domains = response.text.splitlines()
+    all_domains = set()
 
-    # Filter new domains to those starting with '||' and extract TLDs
+    # Download and combine domains from all URLs
+    for url in URLS:
+        print(f"Downloading: {url}")
+        response = requests.get(url)
+        if response.status_code == 200:
+            lines = response.text.splitlines()
+            all_domains.update(lines)
+        else:
+            print(f"Failed to download {url} (HTTP {response.status_code})")
+
+    print(f"Total domains collected: {len(all_domains)}")
+
+    # Process domains by TLD
     tld_domains = {}
-    for domain in new_domains:
+    for domain in all_domains:
         if domain.startswith("||"):
             tld = get_tld(domain)
             if tld:
                 tld_domains.setdefault(tld, []).append(domain)
 
-    # Update domains in separate files for each TLD, replacing existing files
+    # Write to TLD-specific files
     for tld, domains in tld_domains.items():
         filename = os.path.join(directory, f"{tld}.txt")
-        with open(filename, 'w') as tld_file:
-            tld_file.write('\n'.join(domains) + '\n')
-        print(f"Domains for TLD {tld} written to {filename}")
+        with open(filename, "w") as tld_file:
+            tld_file.write("\n".join(sorted(domains)) + "\n")
+        print(f"Written {len(domains)} domains to {filename}")
 
     print("Domain files updated successfully!")
 
 if __name__ == "__main__":
     update_domain_files()
-
