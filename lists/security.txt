@@ -8,7 +8,6 @@ core.security
 insights.security
 o3.security
 octet.security
-spirit.security
 vesper.security
 aishield.security
 lakewatch.security
@@ -16,6 +15,7 @@ miso.security
 mydata.security
 sanity-1761816413.security
 sanity-1761902799.security
+spirit.security
 sudo.security
 trendai.security
 uno.security
