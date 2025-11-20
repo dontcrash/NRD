@@ -1,11 +1,11 @@
 infra-navigator.schwarz
 salt.schwarz
 keycloak.schwarz
-raumgenie.schwarz
 jump.schwarz
+raumgenie.schwarz
 chat-spaces.schwarz
 config-manager.schwarz
-google-chat-spaces.schwarz
 oso-kfl.schwarz
 oso-ldl.schwarz
 campus.schwarz
+google-chat-spaces.schwarz
