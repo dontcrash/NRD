@@ -235,7 +235,9 @@ ceg.mk
 ci.mk
 citygallery.mk
 cleanwater.mk
+clubify.mk
 cocokids.mk
+coffee-world.mk
 coin.mk
 credy.mk
 cresovotopce.mk
@@ -300,6 +302,7 @@ hillside-garden.mk
 hisun.mk
 hronika.mk
 hy.mk
+hzk.mk
 igconcept.com.mk
 igconcept.mk
 image.mk
@@ -315,6 +318,7 @@ ivex.mk
 ivo.mk
 jaca.mk
 kafemati.com.mk
+karadzov.mk
 karierenpat.mk
 kasver.mk
 kb.mk
@@ -328,6 +332,7 @@ krun.mk
 kuglanje.mk
 kurir.com.mk
 laser.mk
+len.mk
 lider-inzinering.mk
 linuxcomputers.mk
 liria.mk
@@ -352,6 +357,7 @@ mollar.com.mk
 morgenstern.mk
 mygym.mk
 nalla.mk
+namnam.mk
 napazar.mk
 nasirtours.mk
 naturatherapy.mk
@@ -370,9 +376,9 @@ php.mk
 pionir.com.mk
 pizzametro.mk
 platismetki.mk
+plattner.mk
 pluspharma.mk
 pokana.mk
-postolovi.com.mk
 pozitiv.mk
 prime.mk
 proupgrade.mk
@@ -412,6 +418,7 @@ sportplan.mk
 sredbi.mk
 sskm.mk
 ssraw.mk
+swedishnutra.mk
 swisshop.mk
 synottipclub.mk
 t0.mk
@@ -422,7 +429,6 @@ tenis-shop.mk
 thesource.mk
 toariluc.mk
 topklima.com.mk
-tpharmacy.mk
 trn.mk
 trpeinvest.mk
 turist.mk
@@ -437,6 +443,7 @@ vr360.mk
 vroom.mk
 wenice.com.mk
 whitemarble.mk
+winebox.mk
 xxx.mk
 yard.mk
 zelenaberza.mk
