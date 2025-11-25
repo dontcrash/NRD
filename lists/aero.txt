@@ -9,7 +9,6 @@ dextradata-aviation.aero
 dunia.aero
 gobeidat.aero
 imro.aero
-myriel.aero
 oxb.aero
 skydive.aero
 skyscent.aero
@@ -18,9 +17,11 @@ spatialmatrix.aero
 sumisho.aero
 sumishoal.aero
 sumishoalc.aero
+sur.aero
 travelsim.aero
 trojan.aero
 vite.aero
+wetzel.aero
 acecenter.aero
 aerosuitassets.aero
 apsara.aero
@@ -48,6 +49,7 @@ koru.aero
 lennox.aero
 levybrands.aero
 loads.aero
+myriel.aero
 n6lb.aero
 robharveyconsulting.aero
 safeskys.aero
@@ -86,10 +88,8 @@ fierbois.aero
 fixjets.aero
 flygpt.aero
 flyjets.aero
-frd.aero
 hellasport.aero
 ikare.aero
-oceanaviation.aero
 permitbase.aero
 prisma.aero
 recruitment.aero
@@ -114,17 +114,17 @@ dumont.aero
 flugplatzfest.aero
 flybayarea.aero
 flyunity.aero
+frd.aero
 ib-reitzig.aero
 jetbridge.aero
 jettravel.aero
-jfmlogistics.aero
 loudnclear.aero
 lva.aero
 nexdefence.aero
 nur.aero
+oceanaviation.aero
 patriot.aero
 patriotdynamics.aero
-safety-sciences.aero
 skyaudit.aero
 skylineaviation.aero
 smsl.aero
@@ -144,8 +144,7 @@ georgia-jet.aero
 hb-cnf.aero
 hb-erq.aero
 iqe.aero
-jamesmacgregor.aero
-mako.aero
+jfmlogistics.aero
 mirfassihi.aero
 omnia.aero
 pilotcockpit.aero
@@ -154,6 +153,7 @@ rincon.aero
 rnetrea.aero
 rvolv.aero
 sabaa.aero
+safety-sciences.aero
 start.aero
 steinemann.aero
 urbe.aero

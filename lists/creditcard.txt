@@ -11,7 +11,6 @@ verinoda.creditcard
 add.creditcard
 apr.creditcard
 assess.creditcard
-banco.creditcard
 banked.creditcard
 benchmark.creditcard
 benefits.creditcard
@@ -50,13 +49,11 @@ try.creditcard
 upgrade.creditcard
 vegamovies.creditcard
 anonymous.creditcard
+banco.creditcard
 digital.creditcard
 evergreensapphire.creditcard
 manager.creditcard
 stack.creditcard
-carbon.creditcard
-evergreencreditcard.creditcard
-evergreenholidayvisa.creditcard
 evergreenrewardsvisa.creditcard
 evergreenvisarewards.creditcard
 nu.creditcard
@@ -66,7 +63,7 @@ b2b.creditcard
 bc.creditcard
 bin.creditcard
 bx.creditcard
-cda.creditcard
+carbon.creditcard
 chain.creditcard
 chainpay.creditcard
 cimbniaga.creditcard
@@ -74,7 +71,9 @@ clearingandsettlement.creditcard
 defipay.creditcard
 ether.creditcard
 evergreencard.creditcard
+evergreencreditcard.creditcard
 evergreendebit.creditcard
+evergreenholidayvisa.creditcard
 evergreenvisa.creditcard
 fin.creditcard
 fun88.creditcard
@@ -85,5 +84,4 @@ px.creditcard
 sanity-1761124088.creditcard
 sui.creditcard
 tez.creditcard
-virtualtoken.creditcard
 xora.creditcard
