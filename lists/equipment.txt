@@ -1,4 +1,3 @@
-central.equipment
 cinema.equipment
 curtisblueline.equipment
 film.equipment
@@ -6,12 +5,14 @@ freedomshop.equipment
 lncurtis.equipment
 nest.equipment
 northland.equipment
+oakdrop.equipment
 quantum.equipment
 quiet.equipment
 selfdefense.equipment
 345.equipment
 456.equipment
 amazonleo.equipment
+central.equipment
 dpl.equipment
 electrolight.equipment
 mcp.equipment
@@ -23,7 +24,6 @@ kanoe.equipment
 poker.equipment
 backhoe.equipment
 builder.equipment
-burro.equipment
 coera.equipment
 excavators.equipment
 fish.equipment
@@ -36,6 +36,7 @@ wheeloader.equipment
 acl.equipment
 beyond.equipment
 blog.equipment
+burro.equipment
 buythebox.equipment
 dontorrent.equipment
 energo.equipment
