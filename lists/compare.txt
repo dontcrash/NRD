@@ -12,11 +12,10 @@ bestsim.compare
 makoto.compare
 petcare.compare
 sentiment.compare
-tcg.compare
 wewill.compare
 youwill.compare
 akupara.compare
-recovery.compare
+tcg.compare
 agenticai.compare
 amex.compare
 business.compare
@@ -24,5 +23,6 @@ casinoslots.compare
 firehose.compare
 healthable.compare
 liability.compare
+recovery.compare
 van.compare
 vaninsurance.compare
