@@ -23,7 +23,6 @@ compressor.box
 crossbow.box
 defence.box
 defend.box
-dz.box
 elec.box
 exciting.box
 explosive.box
@@ -53,7 +52,6 @@ optics.box
 pcp.box
 pellet.box
 pods.box
-poolparty.box
 powder.box
 powerful.box
 powerme.box
@@ -79,8 +77,8 @@ trigger.box
 tuning.box
 weapons.box
 wholesale.box
-mailo.box
-mindfeed.box
+dz.box
+poolparty.box
 signic.box
 synq.box
 cg.box
@@ -109,4 +107,3 @@ slwlan.box
 stability.box
 stefan.box
 theholykingdom.box
-transact.box
