@@ -30,10 +30,10 @@ chat.flights
 katowice.flights
 kef.flights
 kefairport.flights
-para.flights
 points.flights
 prolegal.flights
 stowaway.flights
+viaholiday.flights
 warsawairport.flights
 worldwidetravel.flights
 atlcheap.flights
@@ -47,7 +47,6 @@ cmhcheap.flights
 cvgcheap.flights
 dencheap.flights
 dfwcheap.flights
-doda.flights
 dsmcheap.flights
 dtwcheap.flights
 ewrcheap.flights
@@ -73,6 +72,7 @@ mspcheap.flights
 oakcheap.flights
 orbitearth.flights
 ordcheap.flights
+para.flights
 pbicheap.flights
 pdxcheap.flights
 phlcheap.flights
