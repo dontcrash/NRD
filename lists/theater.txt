@@ -5,7 +5,9 @@ i9bet.theater
 love.theater
 mempool.theater
 rt3.theater
+spirit.theater
 storytelling.theater
+veto.theater
 anthonys.theater
 barcelona.theater
 berlin.theater
@@ -13,7 +15,6 @@ book.theater
 broadwaytickets.theater
 buenosaires.theater
 faultline.theater
-lambda.theater
 lasvegas.theater
 madrid.theater
 milan.theater
@@ -22,7 +23,6 @@ nyc.theater
 paris.theater
 picture.theater
 plays.theater
-saunders.theater
 stream.theater
 sydney.theater
 vienna.theater
@@ -36,12 +36,13 @@ weltenbummeln.theater
 autonomous.theater
 baroque.theater
 cais.theater
-car.theater
 dgpa.theater
 gif.theater
 history.theater
 os.theater
 vegetarian.theater
+weltenbummeln.theater
+car.theater
 cici.theater
 daga.theater
 sanity-1761816603.theater
