@@ -6,11 +6,11 @@ koda.security
 mcpserver.security
 predict.security
 bloom.security
-fortuna.security
 mufg-gmo.security
 novee.security
 pocket.security
 fir.security
+fortuna.security
 offside.security
 sparkle.security
 sun.security
@@ -24,7 +24,6 @@ vesper.security
 core.security
 insights.security
 lakewatch.security
-sanity-1761816413.security
 sanity-1761902799.security
 spirit.security
 sudo.security

@@ -37,6 +37,7 @@ pacificguardianlife.gives
 parkinsons-disease-helpers.gives
 parkinsonsdiseasehelpers.gives
 rasalila.gives
+sell.gives
 thanksgiving.gives
 union.gives
 uslacrosse.gives
@@ -107,8 +108,6 @@ cats.gives
 citrusbowl.gives
 collectables.gives
 cottonbowl.gives
-delivery.gives
-edge.gives
 fiesta.gives
 gator.gives
 gkuphal.gives
@@ -130,7 +129,6 @@ structr.gives
 tp88.gives
 trustwallet.gives
 tt88.gives
-x402.gives
 adirondacks.gives
 adk.gives
 aggies.gives
@@ -176,12 +174,14 @@ crimsontide.gives
 crusaders.gives
 cyclones.gives
 deleted-enom-domain.gives
+delivery.gives
 deltadevils.gives
 demondeacons.gives
 demons.gives
 dome.gives
 dragons.gives
 dukes.gives
+edge.gives
 enom-nov-04-migrate01.gives
 everydrop.gives
 everydropcounts.gives
@@ -300,6 +300,7 @@ wahoos.gives
 warhawks.gives
 wildcats.gives
 wolverines.gives
+x402.gives
 yellowjackets.gives
 zackary.gives
 zags.gives
