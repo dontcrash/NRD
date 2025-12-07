@@ -12,6 +12,7 @@ comic.new
 compliance.new
 comunica.new
 connector.new
+contact.new
 convex.new
 cx.new
 depot.new
@@ -23,7 +24,9 @@ everything.new
 font.new
 games.new
 gdpr.new
+gemini.new
 grc.new
+gumloop.new
 hack.new
 hdfc.new
 hipaa.new
@@ -35,11 +38,11 @@ lev.new
 manga.new
 me.new
 mentorship.new
+merch.new
 messenger.new
 ml.new
 morphic.new
 movie.new
-myspring.new
 ops.new
 panda.new
 paywall.new
@@ -57,6 +60,7 @@ tarot.new
 telemetry.new
 telli.new
 trader.new
+umu.new
 voiceagent.new
 voiceai.new
 worker.new

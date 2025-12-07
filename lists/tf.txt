@@ -5,6 +5,7 @@ help.tf
 images.tf
 insurance.tf
 ipc.tf
+mai.tf
 mira.tf
 priv.tf
 repo.tf
