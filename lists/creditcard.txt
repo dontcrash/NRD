@@ -1,10 +1,6 @@
 18.creditcard
 acquire.creditcard
-advise.creditcard
 advisor.creditcard
-aicards.creditcard
-aicreditcard.creditcard
-assistant.creditcard
 best-jobs.creditcard
 bestcard.creditcard
 bestjobs.creditcard
@@ -24,6 +20,7 @@ extra.creditcard
 facts.creditcard
 finances.creditcard
 fintechs.creditcard
+forex.creditcard
 full.creditcard
 gamble.creditcard
 gmx.creditcard
@@ -80,8 +77,12 @@ work.creditcard
 0x.creditcard
 247.creditcard
 aadvantage.creditcard
+advise.creditcard
+aicards.creditcard
+aicreditcard.creditcard
 applications.creditcard
 approval.creditcard
+assistant.creditcard
 avios.creditcard
 badcreditcard.creditcard
 bestparentclub.creditcard
@@ -143,7 +144,6 @@ wallets.creditcard
 worldofhyatt.creditcard
 falimora.creditcard
 hush.creditcard
-jembot.creditcard
 kedonira.creditcard
 kelonavi.creditcard
 linkcoin.creditcard
@@ -172,6 +172,7 @@ faq.creditcard
 frequent.creditcard
 hub.creditcard
 invest.creditcard
+jembot.creditcard
 list.creditcard
 lounge.creditcard
 loyalty.creditcard
@@ -184,7 +185,6 @@ protected.creditcard
 rank.creditcard
 rewarded.creditcard
 sign.creditcard
-stack.creditcard
 swap.creditcard
 tech.creditcard
 traveler.creditcard
@@ -196,4 +196,4 @@ vegamovies.creditcard
 anonymous.creditcard
 evergreensapphire.creditcard
 manager.creditcard
-nu.creditcard
+stack.creditcard
