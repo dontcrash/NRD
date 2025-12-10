@@ -52,7 +52,6 @@ tabu.healthcare
 ventara.healthcare
 wasel.healthcare
 womenkind.healthcare
-100.healthcare
 aionia.healthcare
 arc.healthcare
 ariatheadvocate.healthcare
@@ -66,15 +65,11 @@ humanly.healthcare
 informatics.healthcare
 intermedi.healthcare
 leap.healthcare
-medicarewounddoctor.healthcare
-mymedicalconnection.healthcare
 paeon.healthcare
 parklandhealth.healthcare
 parklandhospital.healthcare
 parklandtrauma.healthcare
 pmh.healthcare
-reboot.healthcare
-recover.healthcare
 salk.healthcare
 scn.healthcare
 utmdanderson.healthcare
@@ -99,8 +94,8 @@ sunwin.healthcare
 testosterone.healthcare
 ttime.healthcare
 vciso.healthcare
+all-in.healthcare
 august.healthcare
-ayush.healthcare
 beutler.healthcare
 dispatch.healthcare
 docere.healthcare
@@ -113,12 +108,14 @@ empaquistrx.healthcare
 grace.healthcare
 hacking.healthcare
 hmo.healthcare
+idrnavigator.healthcare
 incisionless.healthcare
 makarios.healthcare
 medicaid.healthcare
 medicare.healthcare
 medifood.healthcare
 newfondis.healthcare
+nsaidrnavigator.healthcare
 nufondis.healthcare
 nufondishcp.healthcare
 nufondispatient.healthcare
@@ -129,8 +126,5 @@ people-care.healthcare
 prescription.healthcare
 regent.healthcare
 runu.healthcare
-tour.healthcare
 trumprx.healthcare
-unbloc.healthcare
 vibrantdentistry.healthcare
-vitalsteps.healthcare

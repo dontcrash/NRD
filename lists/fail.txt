@@ -31,6 +31,7 @@ roncaseroofing.fail
 sec.fail
 sync.fail
 wolfie.fail
+69.fail
 abc.fail
 bloody.fail
 brand.fail
@@ -43,8 +44,9 @@ grok.fail
 hacks.fail
 hitori.fail
 law.fail
-obering.fail
 one.fail
+overconfident.fail
+science.fail
 singlepointof.fail
 tail.fail
 techdebt.fail
@@ -66,7 +68,6 @@ tim.fail
 4oh4.fail
 anti-pattern.fail
 antipattern.fail
-api.fail
 ath.fail
 bezos.fail
 budgetdirect.fail
@@ -77,13 +78,12 @@ darl.fail
 flock.fail
 flocksafety.fail
 free.fail
-kalshi.fail
 mamdani.fail
 moulinette.fail
 musk.fail
-myip.fail
+needles.fail
 netzero.fail
-simon.fail
+peter.fail
 starpointadexecutives.fail
 xor.fail
 yellow-dot.fail
