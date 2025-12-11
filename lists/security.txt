@@ -1,9 +1,9 @@
-apc.security
 ca.security
 coinbase.security
 everyday.security
 koda.security
 spectrum.security
+apc.security
 bay.security
 jetstream.security
 mcpserver.security
@@ -22,7 +22,6 @@ vyper.security
 workdaysovereign.security
 astarte.security
 core.security
-insights.security
 o3.security
 octet.security
 vesper.security
