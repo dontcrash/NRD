@@ -1,7 +1,6 @@
 betriebsarzt.med
 body.med
 car.med
-dreisam-aoz.med
 eurpub.med
 fair.med
 fred.med
@@ -14,8 +13,9 @@ mvz.med
 nama.med
 neu.med
 nuc.med
+oldenburg.med
 radiologyai.med
-sky.med
+vertiko.med
 4head.med
 absorbent.med
 adexgel.med
@@ -37,6 +37,7 @@ directory.med
 do.med
 dotmedmedia.med
 doublebase.med
+dreisam-aoz.med
 ehya.med
 email.med
 freederm.med
@@ -52,10 +53,10 @@ media.med
 otex.med
 pedia.med
 relo.med
+sky.med
 talk.med
 themedregistry.med
 triagem.med
-tv.med
 voice.med
 womenhealth.med
 womenshealth.med
@@ -63,9 +64,7 @@ womenshealth.med
 akeso.med
 apex.med
 arthrex.med
-artslo.med
 bowa.med
-candsy.med
 dci.med
 elite.med
 erbe.med
@@ -79,18 +78,18 @@ net.med
 neurotel.med
 omni.med
 peakspan.med
-pmh.med
 quickevidence.med
 reger.med
-runu.med
 stryker.med
+tv.med
 utmdanderson.med
-voicepoint.med
 almirall.med
+artslo.med
 asacol.med
 backoffice.med
 beri.med
 bruno.med
+candsy.med
 deft.med
 deftpay.med
 dificlir.med
@@ -101,7 +100,6 @@ gsk.med
 hereiam.med
 heroeco.med
 hom.med
-iam.med
 in.med
 lifescape.med
 lifespan.med
@@ -114,6 +112,8 @@ parklandhealthplan.med
 parklandhospital.med
 parklandtrauma.med
 phhs.med
+pmh.med
+runu.med
 she.med
 thaler.med
 tillotts.med
@@ -121,7 +121,7 @@ tillottspro.med
 ulti.med
 viiv.med
 viivhealthcare.med
-wellbeing.med
+voicepoint.med
 zeriagroupinnovation.med
 aerzte.med
 aerztezentrum.med
