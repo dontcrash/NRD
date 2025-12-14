@@ -75,7 +75,7 @@ aio.insure
 dash.insure
 genai.insure
 geo.insure
-hotel.insure
+interac.insure
 isi.insure
 komplot.insure
 kova.insure
@@ -86,6 +86,4 @@ ned.insure
 optimize.insure
 premium.insure
 promote.insure
-signature.insure
-support.insure
 ti.insure
