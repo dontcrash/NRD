@@ -2,6 +2,7 @@ agi.equipment
 airtm.equipment
 alerts.equipment
 contender.equipment
+context.equipment
 cryptocurrency.equipment
 geneq-food-test.equipment
 genequsa-food-hygiene.equipment
@@ -11,6 +12,7 @@ house.equipment
 instant.equipment
 insurance.equipment
 link.equipment
+prompt.equipment
 thabet.equipment
 web3.equipment
 wildernessgear.equipment
@@ -46,7 +48,6 @@ cinema.equipment
 electrolight.equipment
 freedomshop.equipment
 nest.equipment
-thorne.equipment
 amazonleo.equipment
 crawlercrane.equipment
 dpl.equipment
