@@ -45,7 +45,9 @@ chatcontrol.fail
 damnatus.fail
 failhard.fail
 french.fail
+hiddenwiki.fail
 keira.fail
+mempool.fail
 mozilla.fail
 mtp.fail
 overconfident.fail
@@ -72,10 +74,9 @@ one.fail
 singlepointof.fail
 tail.fail
 techdebt.fail
-4oh4.fail
+clanker.fail
 dork.fail
 fabrc.fail
-free.fail
 golds.fail
 hope.fail
 kek.fail

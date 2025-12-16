@@ -56,6 +56,7 @@ care.recipes
 core.recipes
 dishbookrecipesite.recipes
 dominus.recipes
+eat-the-rich.recipes
 foodtok.recipes
 glp1.recipes
 grandmasthai.recipes
@@ -63,8 +64,10 @@ hiddengemi.recipes
 jobs-uk.recipes
 linkbook.recipes
 magnet.recipes
+nalietech.recipes
 nana.recipes
 orbit.recipes
+patent.recipes
 pm8thai.recipes
 posts.recipes
 ruba.recipes
@@ -91,6 +94,7 @@ scribble.recipes
 tonis.recipes
 vintagespoon.recipes
 zambrano.recipes
+11ty.recipes
 ambrosia.recipes
 aronica.recipes
 bet.recipes
@@ -103,13 +107,12 @@ journal.recipes
 kitchenremodeling.recipes
 loveyour.recipes
 mealmind.recipes
+med.recipes
 memory.recipes
 pinksalt.recipes
 rag.recipes
 saffron.recipes
 shorten.recipes
-sports.recipes
-token.recipes
 trackmy.recipes
 transformation.recipes
 tsumiki.recipes
