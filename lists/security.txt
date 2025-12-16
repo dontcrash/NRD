@@ -2,17 +2,17 @@ ca.security
 cylake.security
 spectrum.security
 apc.security
-bay.security
 coinbase.security
 everyday.security
-jetstream.security
 koda.security
-predict.security
+bay.security
 bloom.security
+jetstream.security
 mcpserver.security
 mufg-gmo.security
 novee.security
 pocket.security
+predict.security
 fortuna.security
 offside.security
 workdaysovereign.security
@@ -20,5 +20,4 @@ fir.security
 sparkle.security
 sun.security
 uk.security
-vesper.security
 vyper.security
