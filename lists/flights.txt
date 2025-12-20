@@ -6,6 +6,7 @@ calm.flights
 cbus.flights
 context.flights
 dayton.flights
+declare.flights
 fly.flights
 homebase.flights
 indy.flights
@@ -15,7 +16,6 @@ sky.flights
 stance.flights
 takeoff.flights
 tourafrica.flights
-tripscanner.flights
 voos.flights
 ascendsummit.flights
 dove.flights
@@ -31,7 +31,10 @@ afaco.flights
 aircity.flights
 alldirect.flights
 ascent.flights
+brevardcounty.flights
 btc.flights
+capecanaveral.flights
+cvg.flights
 doingthework.flights
 eth.flights
 etnasky.flights
@@ -39,6 +42,7 @@ helix.flights
 nuitee.flights
 richportaviation.flights
 serve.flights
+spacecoast.flights
 takes.flights
 trebuchet.flights
 whitesky.flights
@@ -48,7 +52,6 @@ dubai.flights
 flightwise.flights
 orca.flights
 skytune.flights
-suborbital.flights
 thor.flights
 aeroterra.flights
 albatross.flights
