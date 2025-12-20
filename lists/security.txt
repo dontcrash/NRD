@@ -2,7 +2,7 @@ cylake.security
 grid.security
 wrangle.security
 ca.security
-coinbase.security
+cylake.security
 spectrum.security
 apc.security
 bay.security
@@ -17,6 +17,7 @@ mufg-gmo.security
 novee.security
 pocket.security
 fir.security
+fortuna.security
 offside.security
 sparkle.security
 sun.security
