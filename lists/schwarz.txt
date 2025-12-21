@@ -5,7 +5,6 @@ ocs.schwarz
 reservation.schwarz
 security-assessment.schwarz
 eve.schwarz
-prism.schwarz
 country-ssbi.schwarz
 fwwsnext.schwarz
 infra-navigator.schwarz
@@ -14,4 +13,5 @@ major-incident.schwarz
 major-incidents.schwarz
 major-reporting.schwarz
 mi-reporting.schwarz
+prism.schwarz
 salt.schwarz

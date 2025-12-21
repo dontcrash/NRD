@@ -1,4 +1,5 @@
 blackcards.creditcard
+bolder.creditcard
 luxurycards.creditcard
 metalcards.creditcard
 naughty.creditcard
@@ -12,7 +13,6 @@ acquirer.creditcard
 aprovado.creditcard
 billings.creditcard
 exclusivo.creditcard
-forex.creditcard
 frauds.creditcard
 habibi.creditcard
 issuer.creditcard
@@ -24,11 +24,7 @@ statements.creditcard
 various.creditcard
 18.creditcard
 acquire.creditcard
-advise.creditcard
 advisor.creditcard
-aicards.creditcard
-aicreditcard.creditcard
-assistant.creditcard
 best-jobs.creditcard
 bestcard.creditcard
 bestjobs.creditcard
@@ -48,6 +44,7 @@ extra.creditcard
 facts.creditcard
 finances.creditcard
 fintechs.creditcard
+forex.creditcard
 full.creditcard
 gamble.creditcard
 gmx.creditcard
@@ -104,8 +101,12 @@ work.creditcard
 0x.creditcard
 247.creditcard
 aadvantage.creditcard
+advise.creditcard
+aicards.creditcard
+aicreditcard.creditcard
 applications.creditcard
 approval.creditcard
+assistant.creditcard
 avios.creditcard
 badcreditcard.creditcard
 bestparentclub.creditcard
@@ -167,7 +168,6 @@ wallets.creditcard
 worldofhyatt.creditcard
 falimora.creditcard
 hush.creditcard
-jembot.creditcard
 kedonira.creditcard
 kelonavi.creditcard
 linkcoin.creditcard
