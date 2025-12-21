@@ -3,6 +3,7 @@ animestats.tf
 awoo.tf
 csx.tf
 etransfer-interac.tf
+foo.tf
 louis.tf
 manga.tf
 matcha.tf
@@ -11,7 +12,6 @@ skynet.tf
 sudo.tf
 ta63.tf
 xuan.tf
-yuzu.tf
 apad.tf
 bk8.tf
 datavo.tf
@@ -33,6 +33,7 @@ download.tf
 help.tf
 images.tf
 insurance.tf
+mai.tf
 mira.tf
 priv.tf
 repo.tf
@@ -42,12 +43,10 @@ telegram.tf
 trp.tf
 watchwrestling.tf
 zoroark.tf
-232.tf
 atc.tf
 att.tf
 attack.tf
 billboard.tf
-bitse.tf
 cexic.tf
 compute.tf
 conf.tf
@@ -58,7 +57,6 @@ ejery.tf
 enclave.tf
 engine.tf
 fabric.tf
-filip.tf
 fjvhz.tf
 fnc.tf
 foil.tf
