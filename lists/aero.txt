@@ -1,6 +1,7 @@
 aerocomply.aero
 aerosystems.aero
 agilesky.aero
+albi.aero
 checklist.aero
 cit.aero
 critical.aero
@@ -45,7 +46,6 @@ ga-x.aero
 gruner.aero
 jack.aero
 lightyear.aero
-lowaltitudeeconomy.aero
 mariozi.aero
 mccoll.aero
 menegoz.aero
@@ -76,6 +76,7 @@ flighttag.aero
 godspeed.aero
 ignite.aero
 linjet.aero
+lowaltitudeeconomy.aero
 lumina.aero
 lvl.aero
 mars.aero
@@ -91,7 +92,6 @@ rallypoint.aero
 scala.aero
 skyfuel.aero
 tidewaterair.aero
-tlpa.aero
 whitejet.aero
 5xi.aero
 aacomponents.aero
@@ -119,13 +119,12 @@ mysky.aero
 obstacles.aero
 quickjet.aero
 renegade.aero
-skydive.aero
 slxskytrans.aero
 sur.aero
 thebrief.aero
 theparty.aero
+tlpa.aero
 vdv.aero
-vite.aero
 wetzel.aero
 witex.aero
 zdh.aero
@@ -133,21 +132,16 @@ aeroconsulting.aero
 aeroporter.aero
 aid.aero
 airpartswest.aero
-blueline.aero
-cdp.aero
 check-me.aero
 ctairports.aero
 d3v.aero
 dextradata-aviation.aero
 dunia.aero
-germanair.aero
 gobeidat.aero
 imro.aero
-iwwxm.aero
-iwxxm.aero
 myriel.aero
 oxb.aero
-safeskys.aero
+skydive.aero
 skyscent.aero
 snpi.aero
 spatialmatrix.aero
@@ -156,4 +150,4 @@ sumishoal.aero
 sumishoalc.aero
 travelsim.aero
 trojan.aero
-zeroemission.aero
+vite.aero

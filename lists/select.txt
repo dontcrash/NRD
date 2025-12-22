@@ -3,7 +3,7 @@ aura.select
 choiceport.select
 echopoll.select
 olympus.select
-outlook.select
+physical.select
 weapon.select
 works.select
 au88.select
@@ -12,6 +12,7 @@ datum.select
 itamrede.select
 katarin.select
 lead.select
+outlook.select
 pick-me.select
 romanov.select
 sharapov.select
@@ -28,13 +29,10 @@ tiktok.select
 tokunbo.select
 wishlist.select
 blockchain.select
-home.select
 merchant.select
 mosaic.select
 takeyouoff.select
 vegamovies.select
 avature.select
 bestloans.select
-evergreen.select
-eye-aac.select
-powerpoint.select
+home.select
