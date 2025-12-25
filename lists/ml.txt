@@ -482,8 +482,8 @@ agentx.ml
 antigravity.ml
 anubis.ml
 artificialgeneralintelligence.ml
-atom.ml
 autoagent.ml
+cdm-mali.ml
 cranial.ml
 ebets.ml
 ebetting.ml
@@ -496,7 +496,6 @@ legrandmarche.ml
 magazineluiza.ml
 magenta.ml
 misterkebab.ml
-multichain.ml
 origins.ml
 rek2025-dido.ml
 sportsbets.ml

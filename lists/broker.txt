@@ -148,8 +148,6 @@ tender.broker
 thabet.broker
 transit.broker
 yard.broker
-alexander.broker
-august.broker
 commission.broker
 contract.broker
 dapp.broker
@@ -162,7 +160,6 @@ hb88.broker
 logistics.broker
 logos.broker
 merillat.broker
-realestatewealth.broker
 rexa.broker
 shaker.broker
 statum.broker

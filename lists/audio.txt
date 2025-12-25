@@ -85,6 +85,7 @@ avail.audio
 bad.audio
 db.audio
 detect.audio
+gain.audio
 go88.audio
 hilja.audio
 hundredstories.audio
@@ -93,8 +94,6 @@ midal.audio
 noder.audio
 rtaas.audio
 short.audio
-supercollision.audio
-tarocchi.audio
 thedaturatapes.audio
 underscore.audio
 wavegrid.audio
