@@ -9,8 +9,6 @@ grid.security
 wrangle.security
 ca.security
 coinbase.security
-everyday.security
-koda.security
 spectrum.security
 apc.security
 bay.security
@@ -20,5 +18,7 @@ mufg-gmo.security
 pocket.security
 predict.security
 bloom.security
+everyday.security
 fortuna.security
+koda.security
 novee.security
