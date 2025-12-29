@@ -2,7 +2,9 @@
 88clb.fail
 blockchain.fail
 debet.fail
+dog.fail
 fpl.fail
+fuzz.fail
 gender.fail
 grace.fail
 john.fail
@@ -14,6 +16,7 @@ queer.fail
 senses.fail
 vegamovie.fail
 vericeipt.fail
+vonahsen.fail
 building.fail
 edfhbedfh.fail
 escape.fail
@@ -36,12 +39,13 @@ alpha.fail
 bclub.fail
 bolly4u.fail
 bollyflix.fail
-citief.fail
+building.fail
 claudearmy.fail
 dove.fail
+edfhbedfh.fail
 epics.fail
 ethics.fail
-ferment.fail
+heartbeat.fail
 hg.fail
 journey.fail
 marcorubio.fail
@@ -53,7 +57,9 @@ npc.fail
 pambondi.fail
 profile.fail
 puppygirl.fail
+red.fail
 session.fail
+taxonomicintelligence.fail
 door-dash.fail
 downdetector.fail
 hiddenwiki.fail
@@ -75,7 +81,9 @@ chatcontrol.fail
 damnatus.fail
 failhard.fail
 french.fail
+hiddenwiki.fail
 keira.fail
+mempool.fail
 mozilla.fail
 mtp.fail
 overconfident.fail

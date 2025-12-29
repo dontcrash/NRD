@@ -1,7 +1,6 @@
 axis.select
 copilot.select
 open.select
-physical.select
 primestore.select
 tata.select
 weapons.select
@@ -19,6 +18,7 @@ datum.select
 itamrede.select
 katarin.select
 lead.select
+outlook.select
 pick-me.select
 romanov.select
 sharapov.select
@@ -35,7 +35,6 @@ tiktok.select
 tokunbo.select
 wishlist.select
 blockchain.select
-home.select
 merchant.select
 mosaic.select
 takeyouoff.select

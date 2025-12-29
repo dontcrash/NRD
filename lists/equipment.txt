@@ -3,10 +3,10 @@ catering.equipment
 chat.equipment
 coin.equipment
 dna.equipment
+free.equipment
 mtr.equipment
 omg.equipment
 osint.equipment
-towing.equipment
 yacht.equipment
 yellowstone.equipment
 agenticai.equipment
@@ -23,6 +23,7 @@ agi.equipment
 airtm.equipment
 alerts.equipment
 contender.equipment
+context.equipment
 cryptocurrency.equipment
 geneq-food-test.equipment
 genequsa-food-hygiene.equipment
@@ -32,6 +33,7 @@ house.equipment
 instant.equipment
 insurance.equipment
 link.equipment
+prompt.equipment
 thabet.equipment
 web3.equipment
 wildernessgear.equipment
