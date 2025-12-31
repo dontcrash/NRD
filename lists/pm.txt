@@ -96,6 +96,7 @@ uus.pm
 webora.pm
 20547.pm
 66348.pm
+73567.pm
 91920.pm
 97785.pm
 alien.pm
@@ -104,7 +105,6 @@ apps.pm
 aum.pm
 ayush.pm
 changelog.pm
-cmail.pm
 cort1.pm
 create-your-life.pm
 defence.pm
@@ -113,8 +113,10 @@ draft.pm
 ewmya.pm
 fleck.pm
 grey.pm
+iajpy.pm
 junk.pm
 king.pm
+myvisa.pm
 nav.pm
 nse.pm
 okno.pm
@@ -124,7 +126,6 @@ require.pm
 sic.pm
 spip.pm
 starr.pm
-syria.pm
 taiga.pm
 trusted.pm
 w88.pm

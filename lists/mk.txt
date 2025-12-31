@@ -201,7 +201,7 @@ angela.mk
 apis.mk
 auction.mk
 autoscout24.mk
-bonevident.mk
+boxprint.mk
 bring.mk
 cats.mk
 coolconceptstore.mk
@@ -220,8 +220,8 @@ emo.com.mk
 epi365.mk
 etnosalash.mk
 evencraft.mk
+evolutionbyguam.mk
 extrem.mk
-ezero.mk
 fastcars.mk
 gpv.mk
 gta5-macedonia.mk
@@ -230,10 +230,10 @@ ideal.mk
 illyrians.mk
 impaxive.mk
 indexzero.mk
+ini.mk
 invikta.mk
 inxhiexclusive.mk
 ipv6.mk
-isakumanova.mk
 joboroletni.mk
 joncesmugreski.edu.mk
 jovanov.mk
@@ -259,7 +259,6 @@ mcg.mk
 medenica.mk
 mermerimperijal.mk
 micko.mk
-middlepub.mk
 mmm.mk
 mobiland.mk
 monocle.mk
@@ -267,6 +266,7 @@ muratlabunishti.edu.mk
 mzd.mk
 namelesstattoo.mk
 napravisam.mk
+natalnakarta.mk
 nostalgijarecords.mk
 novaci.mk
 oaza.com.mk
@@ -287,21 +287,17 @@ produkt.mk
 progres.mk
 pubporta.mk
 ravenmedia.mk
+rentinohrid.mk
 rescuer.mk
 riseon.mk
 royal-ltd.mk
 samifrasheri-saraj.edu.mk
-sarkariresult.com.mk
 scanmenu.mk
-signum.mk
 simba.mk
 siteoperatorisezafateni.mk
-smartko.mk
 stanche.mk
-stanovnik.mk
 surfreenet.mk
 t24.mk
-tek.mk
 tetovaere.mk
 timas.mk
 tvkocani.mk
@@ -312,6 +308,7 @@ upraviteli.gov.mk
 vibes.mk
 vinyl.mk
 vox.mk
+workaround.mk
 zim.mk
 zogo.mk
 716.mk
