@@ -12,12 +12,11 @@ physical.select
 tata.select
 weapon.select
 weapons.select
-works.select
 ambitionx.select
 itamrede.select
 lead.select
 outlook.select
-pick-me.select
+works.select
 au88.select
 casino.select
 clank.select
@@ -25,6 +24,7 @@ datum.select
 genesis.select
 katarin.select
 momentum.select
+pick-me.select
 romanov.select
 sharapov.select
 tiktok.select
@@ -32,7 +32,6 @@ tokunbo.select
 car.select
 cars.select
 helix.select
-mosaic.select
 pocket-option.select
 prism.select
 sync.select
