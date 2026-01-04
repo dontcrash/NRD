@@ -27,6 +27,7 @@ animestats.tf
 awoo.tf
 csx.tf
 etransfer-interac.tf
+foo.tf
 louis.tf
 manga.tf
 matcha.tf
@@ -35,7 +36,6 @@ skynet.tf
 sudo.tf
 ta63.tf
 xuan.tf
-yuzu.tf
 apad.tf
 bk8.tf
 datavo.tf
@@ -43,13 +43,13 @@ fontaine.tf
 funfortress.tf
 ipc.tf
 lny.tf
-mai.tf
 rucksack.tf
 ste.tf
 thenetwork.tf
 trus.tf
 vanta.tf
 vlhl.tf
+yuzu.tf
 adult.tf
 ari.tf
 download.tf
