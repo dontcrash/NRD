@@ -5,6 +5,7 @@ bouyant.aero
 boyant.aero
 bpe.aero
 certman.aero
+chocks.aero
 crux.aero
 dmv.aero
 flightsim.aero
@@ -19,10 +20,9 @@ nesterovavia.aero
 own.aero
 rainer.aero
 rmsportal.aero
-skyvanta.aero
+skykeeper.aero
 tiagoseiler.aero
 zenit.aero
-albi.aero
 aurixairlines.aero
 aviantic.aero
 aviora.aero
@@ -43,11 +43,13 @@ otp.aero
 pjx.aero
 proplane.aero
 saasa.aero
+skyvanta.aero
 tobt.aero
 tritech.aero
 aerocomply.aero
 aerosystems.aero
 agilesky.aero
+albi.aero
 checklist.aero
 cit.aero
 critical.aero
@@ -92,7 +94,6 @@ ga-x.aero
 gruner.aero
 jack.aero
 lightyear.aero
-lowaltitudeeconomy.aero
 mariozi.aero
 mccoll.aero
 menegoz.aero
@@ -123,6 +124,7 @@ flighttag.aero
 godspeed.aero
 ignite.aero
 linjet.aero
+lowaltitudeeconomy.aero
 lumina.aero
 lvl.aero
 mars.aero
@@ -138,5 +140,4 @@ rallypoint.aero
 scala.aero
 skyfuel.aero
 tidewaterair.aero
-tlpa.aero
 whitejet.aero

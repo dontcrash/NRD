@@ -12,7 +12,6 @@ zpfyhn.select
 axis.select
 copilot.select
 open.select
-physical.select
 primestore.select
 tata.select
 weapons.select
@@ -21,7 +20,7 @@ aura.select
 choiceport.select
 echopoll.select
 olympus.select
-outlook.select
+physical.select
 weapon.select
 works.select
 au88.select
@@ -30,6 +29,7 @@ datum.select
 itamrede.select
 katarin.select
 lead.select
+outlook.select
 pick-me.select
 romanov.select
 sharapov.select
