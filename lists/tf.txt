@@ -19,6 +19,8 @@ sudo.tf
 time.tf
 werewolves.tf
 yandex.tf
+anna.tf
+changelevel.tf
 cns.tf
 cub.tf
 isc.tf
@@ -50,6 +52,7 @@ thenetwork.tf
 xuan.tf
 yuzu.tf
 adult.tf
+apad.tf
 ari.tf
 download.tf
 help.tf
