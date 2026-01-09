@@ -4,10 +4,10 @@
 caf.wf
 connect.wf
 domains.wf
-haiku.wf
 ideal.wf
 jpg.wf
 lemke.wf
+move.wf
 ninja.wf
 storage.wf
 streams.wf
@@ -16,9 +16,9 @@ xng.wf
 zero.wf
 zip.wf
 carnet-voyages.wf
+haiku.wf
 joycelocation.wf
 lessaisies.wf
-priv.wf
 service.wf
 sodo66.wf
 tiers.wf
@@ -27,6 +27,7 @@ xwf.wf
 fakauveapp.wf
 gal.wf
 lehmann.wf
+priv.wf
 videy.wf
 brand.wf
 eat.wf
