@@ -1,7 +1,7 @@
-aipayment.creditcard
 anb.creditcard
 bet.creditcard
 cryptocoin.creditcard
+customer.creditcard
 debitcard.creditcard
 earth.creditcard
 human.creditcard
@@ -17,7 +17,6 @@ tak-credit.creditcard
 tak-kredit.creditcard
 takcredit.creditcard
 takkredit.creditcard
-usdc.creditcard
 verification.creditcard
 0tolerance.creditcard
 11.creditcard
@@ -25,10 +24,10 @@ verification.creditcard
 666.creditcard
 718.creditcard
 93.creditcard
+aipayment.creditcard
 apii.creditcard
 band.creditcard
 check.creditcard
-cryptoexchange.creditcard
 decentralist.creditcard
 emergency.creditcard
 fair.creditcard
@@ -39,14 +38,16 @@ musician.creditcard
 mys.creditcard
 nfts.creditcard
 startup.creditcard
-w88.creditcard
+usdc.creditcard
 worldwide.creditcard
 xrpl.creditcard
-bolder.creditcard
+cryptoexchange.creditcard
 iyzico.creditcard
 opensea.creditcard
+w88.creditcard
 wise.creditcard
 blackcards.creditcard
+bolder.creditcard
 luxurycards.creditcard
 metalcards.creditcard
 naughty.creditcard
@@ -59,9 +60,7 @@ venture.creditcard
 acquirer.creditcard
 aprovado.creditcard
 billings.creditcard
-buywith.creditcard
 exclusivo.creditcard
-forex.creditcard
 frauds.creditcard
 habibi.creditcard
 issuer.creditcard
@@ -69,8 +68,5 @@ jobuk.creditcard
 paydown.creditcard
 processor.creditcard
 provider.creditcard
-savewith.creditcard
 statements.creditcard
 various.creditcard
-wallet.creditcard
-whichcard.creditcard
