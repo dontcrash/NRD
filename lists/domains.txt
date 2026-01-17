@@ -47,6 +47,7 @@ vendor.domains
 ww88.domains
 agenticlink.domains
 agentix.domains
+ais.domains
 authority.domains
 belgrade.domains
 beograd.domains
@@ -56,6 +57,7 @@ bundled.domains
 certwatch.domains
 clockit.domains
 db.domains
+deep.domains
 eenss.domains
 eko.domains
 elit.domains
@@ -72,7 +74,9 @@ lfg.domains
 mark.domains
 nick.domains
 on-chain.domains
+retro.domains
 roots.domains
+screen.domains
 shaka.domains
 sheng.domains
 software.domains

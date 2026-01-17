@@ -158,6 +158,8 @@ aigame.yun
 aigeo.yun
 aini.yun
 aiot.yun
+airoom.yun
+aishop.yun
 aito.yun
 aiwifi.yun
 aiyu.yun
@@ -180,7 +182,6 @@ cesu.yun
 chatbot.yun
 chem.yun
 chemicals.yun
-chine.yun
 chuangjiang.yun
 chuhai.yun
 class.yun
@@ -193,17 +194,13 @@ cross.yun
 cryptos.yun
 cybersecurity.yun
 cywl.yun
-dali.yun
 damai.yun
-dashou.yun
 diankan.yun
 digit.yun
-diyi.yun
 dofun.yun
 dongrun.yun
 dota2.yun
 down.yun
-ecloud.yun
 emby.yun
 environment.yun
 evtol.yun
@@ -224,10 +221,9 @@ gray.yun
 guangxi.yun
 guanxiaoyu.yun
 guanxy.yun
+guiren.yun
 guizhou.yun
 gupiao.yun
-hanwuji.yun
-haoche.yun
 harmony.yun
 henan.yun
 hetong.yun
@@ -252,6 +248,7 @@ join.yun
 json.yun
 jules.yun
 kaipu.yun
+kaizhou.yun
 kaoshi.yun
 keda.yun
 keep.yun
@@ -271,8 +268,8 @@ mad.yun
 maker.yun
 manufacturing.yun
 manus.yun
-maple.yun
 math.yun
+mavlink.yun
 may.yun
 mba.yun
 mbti.yun
@@ -294,8 +291,8 @@ mp4.yun
 myems.yun
 mysql.yun
 n8n.yun
-no1.yun
 nonprofit.yun
+opclink.yun
 oxford.yun
 paas.yun
 panabit.yun
@@ -353,11 +350,11 @@ vibecoding.yun
 vibekids.yun
 vmall.yun
 void.yun
-wanwu.yun
 weiju.yun
 wenda.yun
 wenjuan.yun
 wholesale.yun
+wurenji.yun
 wuxi.yun
 wuyu.yun
 xgame.yun
@@ -376,9 +373,7 @@ yige.yun
 youdao.yun
 youxin.yun
 ysjf.yun
-yuanma.yun
 yuanshen.yun
-yuebai.yun
 yunan.yun
 yunkai.yun
 yunnan.yun
