@@ -22,8 +22,6 @@ mercury.equipment
 transport.equipment
 whistlestop.equipment
 wow.equipment
-wv.equipment
-blackbird.equipment
 free.equipment
 gaming.equipment
 halcyon.equipment
@@ -31,12 +29,12 @@ maletas.equipment
 math.equipment
 pleasgiveme1pney.equipment
 time.equipment
-carbon.equipment
+wv.equipment
+blackbird.equipment
 catering.equipment
 chat.equipment
 coin.equipment
 dna.equipment
-ltr.equipment
 mtr.equipment
 omg.equipment
 osint.equipment
@@ -44,10 +42,11 @@ towing.equipment
 yacht.equipment
 yellowstone.equipment
 agenticai.equipment
-airtm.equipment
 candy.equipment
+carbon.equipment
 context.equipment
 hm-batterysolutions.equipment
+ltr.equipment
 privacy.equipment
 pro-ground.equipment
 prompt.equipment
