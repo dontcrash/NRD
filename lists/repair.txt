@@ -291,10 +291,13 @@ avidata.repair
 callesphone.repair
 characterization.repair
 comp.repair
+development.repair
 dms.repair
 europeanautospecialist.repair
 fortworthac.repair
 fortworthheating.repair
+framing.repair
+freesocial.repair
 germanautospecialist.repair
 germanautospecialists.repair
 henderson.repair
@@ -307,8 +310,10 @@ phonegallery.repair
 properties.repair
 repairflow.repair
 roofrepairspokane.repair
+roofsharrogate.repair
 sandiegogarageservice.repair
 toneworks.repair
+windshieldreplacementsandiego.repair
 xrepair.repair
 12bet.repair
 amosauto.repair
@@ -318,7 +323,6 @@ authoritycar.repair
 autoritycar.repair
 azauto.repair
 billsautomotive.repair
-carcare.repair
 cheap.repair
 chicagoac.repair
 clanker.repair
@@ -326,9 +330,7 @@ codify.repair
 commercial-refrigerator.repair
 dach.repair
 dallasac.repair
-elctromenager.repair
 electronik.repair
-firmware.repair
 fixpro.repair
 floridakeys.repair
 flowdynamics.repair
