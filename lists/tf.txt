@@ -57,7 +57,9 @@ time.tf
 yandex.tf
 anna.tf
 changelevel.tf
+cloudtitan.tf
 cns.tf
+connect.tf
 cub.tf
 mymail.tf
 sexx.tf
