@@ -1,10 +1,12 @@
+cascade.equipment
 cement.equipment
+clock.equipment
 cosmic.equipment
+exchange.equipment
 fcat.equipment
+jsc.equipment
+ngcmedical.equipment
 shop.equipment
-spaceflight.equipment
-spacetourist.equipment
-spacetravel.equipment
 tupismo.equipment
 vmd.equipment
 10.equipment
@@ -18,6 +20,9 @@ learning.equipment
 mega.equipment
 patriot.equipment
 satoshi.equipment
+spaceflight.equipment
+spacetourist.equipment
+spacetravel.equipment
 stacked.equipment
 aus.equipment
 caisson.equipment
@@ -27,7 +32,6 @@ halcyon.equipment
 math.equipment
 mercury.equipment
 pleasgiveme1pney.equipment
-time.equipment
 transport.equipment
 whistlestop.equipment
 wow.equipment
@@ -37,6 +41,7 @@ chat.equipment
 free.equipment
 maletas.equipment
 omg.equipment
+time.equipment
 carbon.equipment
 catering.equipment
 coin.equipment
