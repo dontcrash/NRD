@@ -1,6 +1,5 @@
 cascade.equipment
 clock.equipment
-cosmic.equipment
 details.equipment
 different.equipment
 exchange.equipment
@@ -10,12 +9,12 @@ service.equipment
 shop.equipment
 truckanchor.equipment
 tupismo.equipment
-vmd.equipment
 10.equipment
 a-i.equipment
 applecreatorstudio.equipment
 cement.equipment
 cheese.equipment
+cosmic.equipment
 fb88.equipment
 fcat.equipment
 inclement.equipment
@@ -27,6 +26,7 @@ spaceflight.equipment
 spacetourist.equipment
 spacetravel.equipment
 stacked.equipment
+vmd.equipment
 aus.equipment
 caisson.equipment
 flint.equipment
@@ -35,8 +35,6 @@ mercury.equipment
 transport.equipment
 whistlestop.equipment
 wow.equipment
-wv.equipment
-blackbird.equipment
 free.equipment
 gaming.equipment
 halcyon.equipment
@@ -44,12 +42,12 @@ maletas.equipment
 math.equipment
 pleasgiveme1pney.equipment
 time.equipment
-carbon.equipment
+wv.equipment
+blackbird.equipment
 catering.equipment
 chat.equipment
 coin.equipment
 dna.equipment
-ltr.equipment
 mtr.equipment
 omg.equipment
 osint.equipment
