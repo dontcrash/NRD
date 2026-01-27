@@ -1,6 +1,7 @@
 bpmn.new
 businesscase.new
 fraios.new
+golden.new
 gptapp.new
 many.new
 processmap.new
@@ -14,7 +15,6 @@ createthreatmodel.new
 defi.new
 designreview.new
 drama.new
-employee.new
 icon.new
 kite.new
 raas.new
@@ -32,6 +32,7 @@ boltz.new
 brfr.new
 cmo.new
 dc.new
+employee.new
 every.new
 figure.new
 molecule.new
