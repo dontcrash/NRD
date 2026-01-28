@@ -1,9 +1,10 @@
+apple.security
 loop.security
 patmos.security
 vigilance.security
+zeroshot.security
 agi.security
 aikido.security
-jinghua.security
 bionic.security
 intermatico.security
 vendor.security
@@ -12,6 +13,6 @@ vitalis.security
 way.security
 alt.security
 granite.security
-matrix.security
+vendor.security
 sonrai.security
 twilio.security
