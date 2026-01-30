@@ -1,6 +1,8 @@
+agents.equipment
 cascade.equipment
 clock.equipment
 details.equipment
+device.equipment
 different.equipment
 dubai.equipment
 exchange.equipment
@@ -9,17 +11,20 @@ jsc.equipment
 multicanais.equipment
 nft.equipment
 ngcmedical.equipment
+nova.equipment
+orbit.equipment
+rr.equipment
 service.equipment
+stock.equipment
 truckanchor.equipment
 vendingmachine.equipment
 vendingmachines.equipment
+vesna.equipment
+volt.equipment
 cement.equipment
 cosmic.equipment
 fcat.equipment
 shop.equipment
-spaceflight.equipment
-spacetourist.equipment
-spacetravel.equipment
 tupismo.equipment
 vmd.equipment
 10.equipment
@@ -33,6 +38,9 @@ learning.equipment
 mega.equipment
 patriot.equipment
 satoshi.equipment
+spaceflight.equipment
+spacetourist.equipment
+spacetravel.equipment
 stacked.equipment
 aus.equipment
 caisson.equipment
@@ -42,7 +50,6 @@ halcyon.equipment
 math.equipment
 mercury.equipment
 pleasgiveme1pney.equipment
-time.equipment
 transport.equipment
 whistlestop.equipment
 wow.equipment
@@ -52,3 +59,4 @@ chat.equipment
 free.equipment
 maletas.equipment
 omg.equipment
+time.equipment
