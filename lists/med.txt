@@ -11,9 +11,12 @@ ergotherapie.med
 hamade.med
 hamadeh.med
 harajli.med
+herzkatheter.med
+immunomed.med
 knochen.med
 mri.med
 patientprep.med
+prointensivecare.med
 px.med
 pxscore.med
 topology.med
@@ -45,9 +48,6 @@ bci.med
 bioactive.med
 blossom.med
 chirurgie-ukhd.med
-definium.med
-definiumtherapeutics.med
-definiumtx.med
 envision.med
 leaf.med
 nuepen.med
@@ -55,9 +55,11 @@ paradigm.med
 second-opinion.med
 trans.med
 datacenter.med
+definium.med
+definiumtherapeutics.med
+definiumtx.med
 dk.med
 dkgroup.med
-edu.med
 forma.med
 handi.med
 human.med
@@ -65,7 +67,6 @@ life.med
 mobile-anaesthesie.med
 muc-reflux.med
 people.med
-stargate.med
 westlake.med
 bcp.med
 cbga.med
