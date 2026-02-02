@@ -21,9 +21,11 @@ vera.insure
 vi.insure
 wake.insure
 weoptimize.insure
-banks.insure
+blackwing.insure
 cheapcar.insure
+dao.insure
 delivery.insure
+empower.insure
 iaapais.insure
 ibridge.insure
 intelligent.insure
@@ -31,12 +33,15 @@ legacyplanning.insure
 nela.insure
 nodeposit.insure
 operex.insure
+save.insure
 snap.insure
 ufg-re.insure
 ufgre.insure
+wake.insure
 ypera.insure
 accelerate.insure
 askanexpert.insure
+banks.insure
 cambium.insure
 entirely.insure
 getfuneralinsurance.insure
@@ -94,12 +99,10 @@ ineedinsurance.insure
 ineedto.insure
 myka.insure
 nex.insure
-novaprotect.insure
 policies.insure
 us.insure
 weneedinsurance.insure
 weneedto.insure
-xorbit.insure
 youneedinsurance.insure
 youneedto.insure
 4wd.insure
@@ -110,6 +113,7 @@ creator.insure
 credit.insure
 felix.insure
 nexura.insure
+novaprotect.insure
 outfitters.insure
 postbook.insure
 renewable.insure
@@ -118,5 +122,4 @@ renewables.insure
 rent.insure
 swiss.insure
 taven.insure
-work.insure
-xrpl.insure
+xorbit.insure
