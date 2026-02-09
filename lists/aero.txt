@@ -61,6 +61,7 @@ buffet.aero
 bushliner.aero
 competent.aero
 csc.aero
+davidsen.aero
 dc-aviation.aero
 dfr.aero
 exceed.aero
@@ -88,6 +89,7 @@ psvdt.aero
 rapidsky.aero
 sataviation.aero
 schuster.aero
+shortfinal.aero
 skydesk.aero
 skylife.aero
 slam.aero
@@ -158,9 +160,7 @@ skyboard.aero
 skytrackaviation.aero
 skywallet.aero
 sobieraj.aero
-spectrum.aero
 travco.aero
-valan.aero
 wimtech.aero
 ylwkelowna.aero
 1visionga.aero
@@ -170,7 +170,6 @@ aero-lift.aero
 aerosyn.aero
 aetc.aero
 aircee.aero
-aircraftsolutions.aero
 airesnet.aero
 aivia.aero
 almeida.aero
@@ -180,7 +179,6 @@ avolar.aero
 baselegs.aero
 beacongroup.aero
 brief.aero
-find.aero
 flyanra.aero
 gah.aero
 heartofgold.aero
@@ -197,24 +195,26 @@ pmw.aero
 ppa.aero
 raijets.aero
 saasa.aero
+spectrum.aero
 strack.aero
 t7-g600.aero
 tarmexico.aero
 timberline.aero
+valan.aero
 vista-store.aero
-whywefly.aero
 yankee.aero
 360.aero
 aero-inst.aero
+aircraftsolutions.aero
 ascendia.aero
 ascendrix.aero
 bluefalcon.aero
 cascadespares.aero
-chocks.aero
 cross-country-soaring.aero
 drbaviation.aero
 dynasty.aero
 emeraldaviation.aero
+find.aero
 flyack.aero
 flyklvk.aero
 goldwing.aero
@@ -231,7 +231,6 @@ neoingenieria.aero
 port.aero
 reeder.aero
 sasheli.aero
-skykeeper.aero
 skyradio.aero
 squawk.aero
 superb.aero
@@ -241,4 +240,5 @@ twin.aero
 vocustest-2f.aero
 vpm.aero
 vtt.aero
+whywefly.aero
 ypcm.aero
