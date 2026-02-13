@@ -69,7 +69,6 @@ heimdall.observer
 ice.observer
 netwatch.observer
 screen.observer
-solaris.observer
 solvar.observer
 zerodark.observer
 aletheia.observer

@@ -46,9 +46,11 @@ yay.broker
 yo88.broker
 astonroyceprincipal.broker
 consulting.broker
+copy.broker
 coverage.broker
 cve.broker
 cyber.broker
+digiti.broker
 dismas.broker
 fbi.broker
 fjorra.broker
@@ -63,11 +65,10 @@ nyc.broker
 outbound.broker
 outboundpremium.broker
 pds.broker
+primedomain.broker
 quorum.broker
-survey.broker
 tampa.broker
 task.broker
-ton.broker
 view.broker
 water.broker
 zorrox.broker
