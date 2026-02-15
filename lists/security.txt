@@ -1,13 +1,14 @@
 alpine.security
 claw.security
-com.security
-confidence.security
-confidential.security
+depthfirst.security
 myworkdaysovereignjobs.security
 myworkdaysovereignsite.security
 oak.security
 phxintel.security
 arrakis.security
+com.security
+confidence.security
+confidential.security
 constellation.security
 garnet.security
 intermatico.security
@@ -26,4 +27,3 @@ vigilance.security
 agi.security
 aikido.security
 jinghua.security
-vitalis.security
