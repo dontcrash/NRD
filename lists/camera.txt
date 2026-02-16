@@ -18,6 +18,7 @@ lorex.camera
 map.camera
 miles.camera
 milesight.camera
+mwl.camera
 pager.camera
 pose.camera
 tvt.camera
@@ -29,7 +30,6 @@ cc.camera
 classic.camera
 headshot.camera
 josiah.camera
-justa.camera
 lex.camera
 obsstudio.camera
 operator.camera
@@ -56,7 +56,6 @@ googddond.camera
 holographic.camera
 hotel.camera
 joshmoores.camera
-planet.camera
 rebel.camera
 take-one.camera
 takeone.camera
