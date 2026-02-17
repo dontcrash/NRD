@@ -30,13 +30,14 @@ rl.new
 vendor.new
 wixstudio2.new
 99exch.new
+claw.new
 clawd.new
 cmd.new
-golden.new
 langflow.new
 laser365.new
 laserexch247.new
 lobster.new
+lofi.new
 lp.new
 molt.new
 niteshift.new
@@ -44,6 +45,7 @@ realm.new
 sankey.new
 spine.new
 tlz.new
+y0.new
 bpmn.new
 businesscase.new
 fraios.new
@@ -61,7 +63,6 @@ createthreatmodel.new
 defi.new
 designreview.new
 drama.new
-employee.new
 icon.new
 kite.new
 raas.new

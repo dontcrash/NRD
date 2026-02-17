@@ -54,7 +54,6 @@ basalt.audio
 binaural.audio
 blend.audio
 chunky.audio
-cirola.audio
 claude.audio
 dip.audio
 dips.audio
@@ -64,6 +63,7 @@ freqnick.audio
 geelen.audio
 hex.audio
 illiaworks.audio
+lakeeffect.audio
 lerna.audio
 levelup.audio
 mais.audio
@@ -76,9 +76,11 @@ replay.audio
 saelin.audio
 shelfie-stage.audio
 sic.audio
+table.audio
 tasty.audio
 trace.audio
 transcribe.audio
+via.audio
 vox.audio
 401.audio
 cirola.audio
@@ -98,16 +100,13 @@ unifiedtheory.audio
 wingman.audio
 x1.audio
 applecreatorstudio.audio
-auralhz.audio
 bitmap.audio
 blueheron.audio
 bookto.audio
 buddy.audio
 caramel.audio
-dahlberg.audio
 disappearing.audio
 dreamkeeper.audio
-ebbflo.audio
 echoboom.audio
 elevon.audio
 fatrobin.audio
@@ -127,5 +126,5 @@ sik.audio
 sona.audio
 subliminal.audio
 trash.audio
-trueform.audio
+velvettouch.audio
 zobb.audio
