@@ -16,7 +16,6 @@ internal-prp3.goog
 internaladmin-prp1.goog
 internaladmin-prp2.goog
 internaladmin-prp3.goog
-migrationcenter.goog
 pkg-prp1.goog
 pkg-prp2.goog
 pkg-prp3.goog
@@ -29,6 +28,7 @@ static-prp3.goog
 usercontent-prp1.goog
 usercontent-prp2.goog
 usercontent-prp3.goog
+migrationcenter.goog
 attestation.goog
 mixboard-static.goog
 workday-platform.goog
