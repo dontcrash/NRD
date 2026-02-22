@@ -13,6 +13,7 @@ free.ax
 fs.ax
 hao.ax
 hyper.ax
+jmp.ax
 kanel.ax
 lappo.ax
 ledarskap.ax
@@ -38,8 +39,6 @@ driver.ax
 fed.ax
 fleetmanager.ax
 granit.ax
-iloveco.ax
-lakartjanst.ax
 logistics.ax
 natun.ax
 noatun.ax
@@ -85,12 +84,14 @@ hello.ax
 homes.ax
 ianm.ax
 ikea.ax
+iloveco.ax
 imagim.ax
 interestia.ax
 io.ax
 k7.ax
 kobben.ax
 kor.ax
+lakartjanst.ax
 lumi.ax
 mariehamnsbyggtjanst.ax
 maurer.ax
@@ -113,7 +114,6 @@ rezka.ax
 robwatkins.ax
 roleplay.ax
 ros.ax
-snow.ax
 softm.ax
 sta.ax
 stake.ax
@@ -125,5 +125,6 @@ villavi.ax
 vinyltryck.ax
 vs.ax
 4u.ax
+snow.ax
 by.ax
 dgb.ax
