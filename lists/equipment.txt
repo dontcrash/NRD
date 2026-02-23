@@ -6,8 +6,7 @@ datacenter.equipment
 dirtybikes.equipment
 dmm.equipment
 exit.equipment
-femtronics.equipment
-femtronix.equipment
+forge.equipment
 frema.equipment
 hali.equipment
 heavyai.equipment
@@ -15,6 +14,7 @@ hfs.equipment
 ice.equipment
 keelieswhahae.equipment
 locksmith.equipment
+maintain.equipment
 mechanical.equipment
 municipal.equipment
 oilandgas.equipment
@@ -37,7 +37,6 @@ videographer.equipment
 webuytech.equipment
 worx.equipment
 8xbet.equipment
-bigbang.equipment
 chaos.equipment
 designers.equipment
 fieldwork.equipment
@@ -45,6 +44,7 @@ live.equipment
 nostr.equipment
 repro.equipment
 trucking.equipment
+videographer.equipment
 agents.equipment
 device.equipment
 dubai.equipment
