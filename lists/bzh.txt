@@ -2,16 +2,16 @@
 accolades.bzh
 adenmobilier.bzh
 allocaz.bzh
-apprenonslabretagne.bzh
+amanig.bzh
 augannotreavenir.bzh
 aurore-lesyndic.bzh
+backup.bzh
 barravelcafe.bzh
 breizh-sunset.bzh
 breizhevent35.bzh
 bretagne-26000.bzh
 bretagne26000.bzh
 bricoliv.bzh
-bsnl-vidanges-assainissements.bzh
 cafebarravel.bzh
 club-robot.bzh
 cominoe.bzh
@@ -21,6 +21,7 @@ eskum.bzh
 faubourgsaintcorentin.bzh
 fer.bzh
 fichen.bzh
+jlk.bzh
 kaouled.bzh
 lafeuilleverte.bzh
 lannuon.bzh
@@ -51,9 +52,9 @@ void.bzh
 voyageaucoeurdesoi.bzh
 admin.bzh
 adminocap.bzh
-agiravectoustrebeurden.bzh
 alternativemuni2026.bzh
 altoloci.bzh
+apprenonslabretagne.bzh
 assets-hexagone.bzh
 awen-studio.bzh
 bap.bzh
@@ -64,6 +65,7 @@ boostr.bzh
 brasseriekerfave.bzh
 brej.bzh
 bretonsdumonde.bzh
+bsnl-vidanges-assainissements.bzh
 croquez-la-breizh-touch.bzh
 croquezlabreizhtouch.bzh
 datascope.bzh
@@ -82,13 +84,11 @@ jardins-kervilier.bzh
 jawa.bzh
 keraudran-couverture.bzh
 kerfave.bzh
-kerundas.bzh
 kervan.bzh
 kostume.bzh
 lagadecprimeurs.bzh
 laglanerie.bzh
 lamaisonduvisage.bzh
-larbreprogrameagriciviliser.bzh
 latelierdes3soeurs.bzh
 leal.bzh
 lpm.bzh
@@ -100,17 +100,16 @@ nouvel-elan.bzh
 nuko.bzh
 olyna-formation.bzh
 palva.bzh
-pleudptt.bzh
 portal.bzh
 ribl-an-elorn.bzh
 salon-achat-breton.bzh
 salonachatbreton.bzh
 skill-sav.bzh
-sterdra.bzh
 supiot-barandouar.bzh
 transfem.bzh
 tregorcommunication.bzh
 tymab-iledesein.bzh
+agiravectoustrebeurden.bzh
 aled.bzh
 antrepix.bzh
 asd.bzh
@@ -144,11 +143,13 @@ ibpgroupe.bzh
 ibphorizon.bzh
 ibptremplin.bzh
 jardins-du-contretemps.bzh
+kerundas.bzh
 kianspiruline.bzh
 kostum-park.bzh
 kostumpark.bzh
 kp.bzh
 larbre.bzh
+larbreprogrameagriciviliser.bzh
 lebonetbeauducoin.bzh
 lecabinetdesfees.bzh
 leclose.bzh
@@ -162,6 +163,7 @@ olivcab-reprog.bzh
 omi.bzh
 philavoile.bzh
 plateforme.bzh
+pleudptt.bzh
 ploumagoarencommun.bzh
 pochon.bzh
 quimper-cornouaille-developpement.bzh
@@ -174,6 +176,7 @@ sexeenbretagne.bzh
 skedenn.bzh
 sophie-k.bzh
 spik.bzh
+sterdra.bzh
 stonebreizh.bzh
 sunir-pour-audierne-esquibien.bzh
 terresetmers.bzh
@@ -187,7 +190,6 @@ zymzym.bzh
 agenceyeswedev.bzh
 atk.bzh
 brech-citoyenne.bzh
-challengemyproject.bzh
 collorec.bzh
 desgateauxbios.bzh
 dila.bzh
@@ -205,7 +207,6 @@ kea.bzh
 korrigeo.bzh
 lafleurdesel.bzh
 lis.bzh
-lumen.bzh
 luskenn.bzh
 manermorenn.bzh
 mary-cloud.bzh
@@ -228,6 +229,7 @@ brestencommun.bzh
 briand-lannion.bzh
 buroscope.bzh
 capoeira.bzh
+challengemyproject.bzh
 charpenterie-vallet.bzh
 clossaisfioul.bzh
 deskomp.bzh
@@ -244,6 +246,7 @@ logonna-daoulas.bzh
 lorand.bzh
 loris-service.bzh
 loudeacenergiefioul.bzh
+lumen.bzh
 matteoqueriel.bzh
 meca-nautisme.bzh
 meme-elan-malestroit.bzh
@@ -263,6 +266,5 @@ steel.bzh
 stickeau.bzh
 tymik.bzh
 urent.bzh
-vibecoding.bzh
 vieuxportroscoff.bzh
 xime.bzh
