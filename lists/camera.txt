@@ -35,6 +35,7 @@ lorex.camera
 map.camera
 miles.camera
 milesight.camera
+mwl.camera
 pager.camera
 pose.camera
 tvt.camera
@@ -59,6 +60,7 @@ witness.camera
 4x5.camera
 gooder.camera
 halfframe.camera
+justa.camera
 kamryns.camera
 loxie.camera
 ora.camera
