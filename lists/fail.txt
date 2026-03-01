@@ -1,11 +1,12 @@
 406.fail
-abortretryignore.fail
 appliedbiominerals.fail
 asc.fail
 autonomous.fail
+bear.fail
 deck.fail
 deployment.fail
 duediligence.fail
+endpoint.fail
 fakebook.fail
 future.fail
 haven.fail
@@ -16,8 +17,6 @@ lasvegassoccer.fail
 lasvegassoccerclub.fail
 lvsoccer.fail
 lvsoccerclub.fail
-mt-proxy.fail
-o.fail
 pathsec.fail
 pitch.fail
 sister.fail

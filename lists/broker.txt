@@ -5,6 +5,7 @@ bamboo.broker
 boatshipping.broker
 build.broker
 cog.broker
+doge.broker
 eliteleads.broker
 es.broker
 freightshipping.broker
@@ -20,6 +21,7 @@ peptide.broker
 powersports.broker
 roof.broker
 rvshipping.broker
+solace.broker
 soy.broker
 todd.broker
 user.broker
