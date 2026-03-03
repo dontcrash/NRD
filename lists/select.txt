@@ -1,5 +1,7 @@
 arts.select
+budget.select
 datacenter.select
+prolegal.select
 robot.select
 trend.select
 blue.select
@@ -17,6 +19,7 @@ eclectic.select
 format.select
 fusion.select
 io.select
+claw.select
 9xmovies.select
 only.select
 solo.select
