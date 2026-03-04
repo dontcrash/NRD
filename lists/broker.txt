@@ -45,8 +45,8 @@ vigoreon.broker
 yachtshipping.broker
 aiur.broker
 algo.broker
-automat.broker
 ayon.broker
+bind.broker
 bots.broker
 brainiac.broker
 bullshit.broker
@@ -54,10 +54,12 @@ dain.broker
 ebsolutions.broker
 eve.broker
 fontana.broker
+forbes.broker
 futemax.broker
 fyi.broker
 gpu.broker
 ibot.broker
+kcg.broker
 learning.broker
 lplfgcc.broker
 lplfinancialglobalcapabilitycenter.broker
@@ -66,7 +68,9 @@ lplglobalcapabilitycenter.broker
 openclaw.broker
 otet.broker
 pcb.broker
+planet.broker
 sober.broker
+swarm.broker
 weather.broker
 austin.broker
 automat.broker

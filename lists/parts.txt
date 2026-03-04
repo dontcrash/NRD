@@ -62,7 +62,6 @@ unionautodealer.parts
 usedmri.parts
 yak.parts
 212.parts
-2repair.parts
 601.parts
 aftermarketauto.parts
 agent.parts
@@ -81,9 +80,7 @@ crossbow.parts
 d104.parts
 datain.parts
 denali-prod.parts
-diy.parts
 femtronics.parts
-freshblends.parts
 get-sparrow.parts
 hyundai-kia.parts
 hyundaikia.parts
@@ -92,8 +89,6 @@ omcmarine.parts
 optic.parts
 pace.parts
 polymarket.parts
-procurement.parts
-profane.parts
 psaoriginal.parts
 ragdoll.parts
 restorationauto.parts
@@ -103,7 +98,6 @@ sound.parts
 spareone.parts
 stairlift.parts
 stentech.parts
-stewardmaintenance.parts
 stra.parts
 throttle.parts
 tronik.parts
@@ -111,6 +105,8 @@ vanderveldt.parts
 volvo.parts
 voss.parts
 wadi.parts
+x-mission.parts
+xmission.parts
 2repair.parts
 acer.parts
 assistant.parts
