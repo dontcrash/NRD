@@ -4,13 +4,9 @@ ber.as
 byggkontroll.as
 continental.as
 dud.as
-elektromisjon.as
 husvarme.as
 kvante.as
-line.as
 modem.as
-pdi.as
-refix.as
 stormberry.as
 unet.as
 yet.as
@@ -57,5 +53,4 @@ edb.as
 gilipoll.as
 khas.as
 monai.as
-raagency.as
-rugged.as
+stepup.as
