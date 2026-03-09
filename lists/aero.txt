@@ -1,11 +1,13 @@
 aerostock.aero
-air-arch.aero
 aircharternews.aero
 aircrew.aero
 altairsolutions.aero
 aroraaerospace.aero
-aspirion.aero
+ataairports.aero
+avaairports.aero
 avionics.aero
+avitan.aero
+avitanairports.aero
 baggage.aero
 baggageservices.aero
 bepilot.aero
@@ -15,6 +17,7 @@ businesstravellers.aero
 captain.aero
 cargocare.aero
 charters.aero
+csq.aero
 currentpower.aero
 denrich.aero
 domain.aero
@@ -26,6 +29,7 @@ dutyfree.aero
 erp-ai.aero
 erpai.aero
 eticket.aero
+ews.aero
 fenix.aero
 flightnumber.aero
 flightplan.aero
@@ -89,7 +93,10 @@ travel.aero
 travelagent.aero
 travelagents.aero
 two.aero
+veaairports.aero
 vought.aero
+air-arch.aero
+aspirion.aero
 avient.aero
 axis-aviation.aero
 axisaviation.aero
@@ -127,14 +134,10 @@ auxitrolweston.aero
 avialink.aero
 aviateq.aero
 aviationcareersexpo.aero
-bases.aero
-basis.aero
-basos.aero
 bump.aero
 centerlineair.aero
 centerlineaviation.aero
 coopicol.aero
-corparts.aero
 crew4u.aero
 direkt.aero
 dronemap.aero
@@ -155,7 +158,6 @@ ops-x.aero
 opsx.aero
 skyray.aero
 trueskies.aero
-ttt.aero
 utek.aero
 wingline.aero
 aciworldairportexperiencesummit.aero
@@ -168,8 +170,12 @@ atsstatus.aero
 avila.aero
 avinor.aero
 avinorflysikring.aero
+bases.aero
+basis.aero
+basos.aero
 boldgroup.aero
 cft.aero
+corparts.aero
 etender-aai.aero
 exo.aero
 flysikring.aero
@@ -190,6 +196,7 @@ strang.aero
 stroker.aero
 strokerengine.aero
 tapb.aero
+ttt.aero
 uanorrhall.aero
 vocusdev-2f.aero
 vrt.aero
@@ -227,7 +234,6 @@ nexa.aero
 ontrac.aero
 palmjet.aero
 sammy.aero
-shortfinal.aero
 skyjet.aero
 smartops.aero
 soul.aero
