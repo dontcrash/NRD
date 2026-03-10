@@ -16,7 +16,6 @@ application.equipment
 arbo.equipment
 arboriculture.equipment
 dentista.equipment
-franking.equipment
 indeehub.equipment
 influencer.equipment
 layerforge.equipment
@@ -27,19 +26,18 @@ web3.equipment
 yourmoms.equipment
 ads.equipment
 bio.equipment
-boxing.equipment
 darknet.equipment
 datacenter.equipment
 dirtybikes.equipment
 dmm.equipment
 exit.equipment
 forge.equipment
+franking.equipment
 frema.equipment
 hali.equipment
 heavyai.equipment
 hfs.equipment
 ice.equipment
-keelieswhahae.equipment
 locksmith.equipment
 maintain.equipment
 mechanical.equipment
@@ -53,7 +51,7 @@ titanheavymachineryllc.equipment
 utility.equipment
 adcock.equipment
 b2b.equipment
-blackforest.equipment
+boxing.equipment
 femtronics.equipment
 femtronix.equipment
 firefighter.equipment
@@ -61,10 +59,11 @@ firesafety.equipment
 firesuppression.equipment
 forfield.equipment
 karpaty.equipment
+keelieswhahae.equipment
 ufo.equipment
 webuytech.equipment
-worx.equipment
 8xbet.equipment
+blackforest.equipment
 chaos.equipment
 designers.equipment
 fieldwork.equipment
@@ -73,3 +72,4 @@ nostr.equipment
 repro.equipment
 trucking.equipment
 videographer.equipment
+worx.equipment
