@@ -1,5 +1,6 @@
 cantina.security
 hex.security
+hinoki.security
 ins.security
 sncf-connect.security
 sncfconnect.security
@@ -14,7 +15,6 @@ superintelligence.security
 tantalum.security
 v12.security
 bitgo.security
-elite.security
 ever.security
 gain.security
 io.security
@@ -22,6 +22,7 @@ onit.security
 argos.security
 autonomous.security
 chaos.security
+elite.security
 gradient.security
 open.security
 second.security

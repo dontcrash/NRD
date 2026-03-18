@@ -30,7 +30,6 @@ all.new
 ascend.new
 blaise.new
 cc.new
-compress.new
 cricbet99.new
 customers.new
 dev-develop.new
@@ -60,10 +59,10 @@ void.new
 ava.new
 brainbox.new
 cambrian.new
+compress.new
 i0.new
 layers.new
 moment.new
-nebula.new
 netlify.new
 prism.new
 ruby.new
@@ -72,7 +71,6 @@ soph.new
 workbook.new
 1.new
 402.new
-8.new
 contextlayer.new
 datalayer.new
 did.new
@@ -80,7 +78,7 @@ gantt.new
 influencer.new
 kro.new
 marker.new
-openclaw.new
+nebula.new
 order.new
 plugin.new
 sean.new
