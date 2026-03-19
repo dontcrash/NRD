@@ -5,8 +5,6 @@ administration.financial
 agents.financial
 aiagents.financial
 americanbank.financial
-arca.financial
-automation.financial
 blackburn.financial
 blackline.financial
 deepalpha.financial
@@ -24,13 +22,15 @@ liftfund.financial
 liftline.financial
 lumera.financial
 luminal.financial
+msp.financial
 multitradingbot.financial
 mythic.financial
 nestwise.financial
 nfm.financial
+onewealthmap.financial
 orka.financial
-palmsup.financial
 pareto.financial
+pci.financial
 pine.financial
 predictions.financial
 pym.financial
@@ -38,9 +38,8 @@ renegade.financial
 sinfra.financial
 skill.financial
 skills.financial
-soundbook.financial
-sov.financial
 spreadsheet.financial
+squaredaway.financial
 sterlinglouviere.financial
 surete.financial
 tana.financial
@@ -49,6 +48,8 @@ ubqty.financial
 vmax.financial
 angler.financial
 arboris.financial
+arca.financial
+automation.financial
 banksia.financial
 bunq.financial
 capybara.financial
@@ -81,12 +82,15 @@ northcyprusbank.financial
 oneplan.financial
 orbit.financial
 palisades.financial
+palmsup.financial
 panorama.financial
 revoeno.financial
 rocco.financial
 rudder.financial
 rwat.financial
 secondwind.financial
+soundbook.financial
+sov.financial
 sparkdex.financial
 stark.financial
 uncompromising.financial
@@ -103,7 +107,6 @@ clearlink.financial
 cocos.financial
 cresco.financial
 decimalgroup.financial
-ee88.financial
 fabric.financial
 fb.financial
 fly88.financial
@@ -124,7 +127,6 @@ pan.financial
 pebbles.financial
 pelagosinsurancecapital.financial
 plgo.financial
-pred.financial
 predicting.financial
 root.financial
 solid.financial
@@ -134,9 +136,7 @@ trader.financial
 tradgentholding.financial
 ventura.financial
 ventures.financial
-vps.financial
 web4.financial
-worldswap.financial
 6684-usaa-member-auth.financial
 acies.financial
 animacapitalpartners.financial
@@ -154,6 +154,7 @@ coinbaserecover.financial
 cpn.financial
 dunham-mccarthy.financial
 ecbeuropa.financial
+ee88.financial
 elitetaxstrategists.financial
 female.financial
 field.financial
@@ -172,6 +173,7 @@ mirai.financial
 model.financial
 orbis.financial
 pnfp.financial
+pred.financial
 premium.financial
 rio.financial
 rue.financial
@@ -183,6 +185,8 @@ startup.financial
 theloanadvisory.financial
 unichain.financial
 vectis.financial
+vps.financial
+worldswap.financial
 zing.financial
 77.financial
 add-capital.financial
