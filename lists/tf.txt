@@ -141,14 +141,12 @@ go2.tf
 graphs.tf
 hades.tf
 highlander.tf
+labo.tf
 nom.tf
 nut.tf
 scores.tf
 soc.tf
-stack.tf
-tables.tf
 temp.tf
-tf2rebalanced.tf
 video.tf
 view.tf
 whiskey.tf

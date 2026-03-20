@@ -70,6 +70,7 @@ spline.new
 workbook.new
 1.new
 402.new
+ava.new
 contextlayer.new
 datalayer.new
 did.new
@@ -79,7 +80,6 @@ kro.new
 marker.new
 nebula.new
 order.new
-plugin.new
 sean.new
 tidb.new
 tpusa.new

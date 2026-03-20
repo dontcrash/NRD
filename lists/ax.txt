@@ -94,7 +94,14 @@ wire.ax
 xn--naturgrd-f0a.ax
 16.ax
 444.ax
+action.ax
+base.ax
 big.ax
+calendar.ax
+cch.ax
+console.ax
+control.ax
+core.ax
 done.ax
 fed.ax
 flow.ax
@@ -106,6 +113,7 @@ natun.ax
 noatun.ax
 nordcapital.ax
 oi.ax
+order.ax
 power.ax
 press.ax
 reserve.ax
@@ -114,6 +122,7 @@ solar.ax
 stage.ax
 teamsparta.ax
 total.ax
+vat.ax
 vip.ax
 xn--svrta-hra.ax
 xp.ax
