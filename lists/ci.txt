@@ -1,4 +1,5 @@
 2i.ci
+2ktdistribution.ci
 abjbc.ci
 aca.ci
 acf.ci
@@ -19,6 +20,7 @@ ags.ci
 aiaf.ci
 aibmonarch.ci
 aibsa.ci
+akibo.ci
 alcatel.ci
 algest.ci
 alison.ci
@@ -240,7 +242,6 @@ frecheurtanoe.ci
 fresco-info.ci
 gat.ci
 gba.ci
-gccservices.ci
 gdkci.ci
 gea.ci
 gemaconstruct.ci
@@ -281,6 +282,7 @@ icms.ci
 ics.ci
 idib.ci
 ifc.ci
+ifpp-ci.ci
 iiao.ci
 imanex.ci
 impac.ci
@@ -300,10 +302,12 @@ isam.ci
 ita.ci
 itswa.ci
 ivoirefm.ci
+jaimeabidjan.ci
 jetmultimedia.ci
 jsi.ci
 kapitalkredit.ci
 koneco.ci
+lab-solutions.ci
 labelci.ci
 laboratoirelsr.ci
 lavoadzope.ci
@@ -324,6 +328,7 @@ lingepropre.ci
 linuxexpo.ci
 lmai-vie.ci
 lmunatt.ci
+lokiza.ci
 losscontrol.ci
 lubafrique.ci
 lumenainteragency.ci
@@ -347,6 +352,7 @@ matmed.ci
 mba-audio.ci
 mbg.ci
 mcf-culture.ci
+mdp-consulting.ci
 mediadata.ci
 medialand.ci
 mediaroom.ci
@@ -404,8 +410,9 @@ omedia.ci
 omnifinance.ci
 onepci.ci
 ongpietons.ci
-openclaw.ci
 openmedia.ci
+optiwebzine.ci
+orang.ci
 orange-cit.ci
 orange-partenaire.ci
 orangefab.ci
@@ -473,7 +480,6 @@ recq.ci
 regie.ci
 research-int.ci
 restaurant.ci
-restoseven.ci
 rivbeach.ci
 rmo.ci
 rna.ci
@@ -497,8 +503,10 @@ sas.ci
 satrico.ci
 sca-sa.ci
 scb.ci
+schoolfoot.ci
 scodi.ci
 scoutsmusulmans.ci
+seek.ci
 shoes.ci
 shopmini.ci
 siaao.ci
@@ -507,8 +515,6 @@ sofuc.ci
 sogepe.ci
 solutech.ci
 staging.ci
-symposiumcollectivites-senat.ci
-tc-consulting.ci
 telecom.ci
 tresor.ci
 uba.ci
@@ -517,7 +523,6 @@ ufrspb.ci
 ult.ci
 uniwax.ci
 veraluci.ci
-vivaro.ci
 wesecurity.ci
 yeklo.ci
 accessoires.ci
