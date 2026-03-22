@@ -1,3 +1,4 @@
+aliens.ms
 conecta.ms
 drone.ms
 fidelis.ms
@@ -6,8 +7,11 @@ mac.ms
 mirage.ms
 movix.ms
 mtc.ms
+prompts.ms
 safeguard.ms
+texting.ms
 urbu.ms
+vibecode.ms
 base.ms
 cli.ms
 intri.ms
@@ -35,7 +39,6 @@ mq.ms
 mul.ms
 nat.ms
 noti.ms
-oauth.ms
 promptfor.ms
 rt.ms
 schmid.ms
@@ -47,6 +50,7 @@ comm.ms
 fer.ms
 iceout.ms
 moltbot.ms
+oauth.ms
 open-claw.ms
 openclaw.ms
 pet.ms
