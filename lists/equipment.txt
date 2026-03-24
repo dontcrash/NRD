@@ -1,12 +1,11 @@
+battery.equipment
 checksix.equipment
 clayton.equipment
 diagnostics.equipment
 feronni.equipment
 hamade.equipment
 install.equipment
-log.equipment
-offline.equipment
-spalding.equipment
+powerstash.equipment
 specialaplicationfire.equipment
 templestreet.equipment
 vuao.equipment
@@ -15,9 +14,12 @@ brink.equipment
 epc.equipment
 firelineus.equipment
 found.equipment
+log.equipment
 lost.equipment
+offline.equipment
 privacy.equipment
 progressiveinnovations.equipment
+spalding.equipment
 xmoney.equipment
 carry.equipment
 challenger.equipment
@@ -37,7 +39,6 @@ application.equipment
 arbo.equipment
 arboriculture.equipment
 dentista.equipment
-franking.equipment
 indeehub.equipment
 influencer.equipment
 layerforge.equipment
@@ -55,6 +56,7 @@ dirtybikes.equipment
 dmm.equipment
 exit.equipment
 forge.equipment
+franking.equipment
 frema.equipment
 hali.equipment
 heavyai.equipment
