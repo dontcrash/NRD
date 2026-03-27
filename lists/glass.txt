@@ -18,10 +18,11 @@ control.glass
 fidget.glass
 glare.glass
 helm.glass
-mrg.glass
 neo.glass
 projectlooking.glass
 ray.glass
+recruiters.glass
+shot.glass
 tribute.glass
 wall.glass
 aohua.glass
@@ -32,8 +33,8 @@ frozen.glass
 ground.glass
 instantprivacy.glass
 masters.glass
+mrg.glass
 terminal.glass
-trident.glass
 alum.glass
 esggroup.glass
 icc.glass
@@ -41,6 +42,7 @@ new.glass
 nine.glass
 owl.glass
 smarter.glass
+trident.glass
 vetric.glass
 bot.glass
 flicker.glass
