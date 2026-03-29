@@ -10,6 +10,7 @@ capsule.express
 cell.express
 chandlery.express
 clinic.express
+compute.express
 cto.express
 darktrain.express
 dataloop.express
@@ -23,12 +24,14 @@ fetch.express
 finity.express
 flow.express
 flowstate.express
+fps-hk.express
 glovebox.express
 goat.express
 huyhoang.express
 importexport.express
 ipay.express
 itsupport.express
+kosher.express
 lander.express
 mento.express
 milan.express
@@ -36,6 +39,7 @@ mirsal.express
 mmlive.express
 munitions.express
 osco.express
+paynow-sg.express
 rieck-logistik.express
 scribe.express
 sigorta.express
