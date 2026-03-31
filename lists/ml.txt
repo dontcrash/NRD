@@ -51,6 +51,7 @@ arcade.ml
 armor.ml
 astral.ml
 atlantis.ml
+automaton.ml
 avmemo.ml
 backyard.ml
 balance.ml
@@ -68,7 +69,6 @@ corex.ml
 covenant.ml
 crown.ml
 currency.ml
-de88.ml
 dino.ml
 discover.ml
 dnarc.ml
@@ -100,6 +100,7 @@ john.ml
 jungle.ml
 kiwi.ml
 library.ml
+lidar.ml
 loki.ml
 lord.ml
 lumin.ml
@@ -108,7 +109,6 @@ magnolia.ml
 manager.ml
 marketing.ml
 max79.ml
-mecha.ml
 medical.ml
 miracle.ml
 mondelliriaradio.ml
@@ -121,6 +121,7 @@ northstar.ml
 novel.ml
 oblique.ml
 only.ml
+orin.ml
 paradise.ml
 performance.ml
 premise.ml
@@ -135,7 +136,6 @@ shopify.ml
 simulator.ml
 smith.ml
 snowball.ml
-solarplusenergie.ml
 spawn.ml
 speech.ml
 startup.ml
@@ -162,6 +162,7 @@ wugen.ml
 xo88.ml
 yellow.ml
 yield.ml
+zeno.ml
 zone.ml
 acpacm.ml
 ai.com.ml
@@ -208,31 +209,3 @@ ssfashion.ml
 talk.ml
 threat.ml
 wjabc.ml
-ajdev.ml
-ajdew.ml
-ajdex.ml
-appli.ml
-bjvfx.ml
-dhjup.ml
-dhjur.ml
-dtakik.ml
-ejdeq.ml
-ejdew.ml
-genomics.ml
-heszr.ml
-hvskhk.ml
-konaservices.ml
-locxij.ml
-muigu.ml
-qlirt.ml
-reasoner.ml
-tshab.ml
-ufwafr.ml
-wjabk.ml
-wjabl.ml
-wjdea.ml
-wjdeb.ml
-wjdec.ml
-wjded.ml
-xhjee.ml
-zuoczu.ml

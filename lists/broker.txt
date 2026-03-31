@@ -37,7 +37,6 @@ homecare.broker
 kizen.broker
 launchpad.broker
 logcabin.broker
-mortage.broker
 nhacaiuytin.broker
 niko.broker
 program.broker
@@ -46,6 +45,7 @@ striluxon.broker
 surexa.broker
 tennis.broker
 tony.broker
+trans.broker
 vantage.broker
 villagehub.broker
 wallet.broker
@@ -123,19 +123,3 @@ support.broker
 swap.broker
 w4.broker
 x88.broker
-accelerator.broker
-ark.broker
-bamboo.broker
-cobra.broker
-doge.broker
-es.broker
-gnk.broker
-hack.broker
-negocios.broker
-nikonova.broker
-number1.broker
-osint.broker
-roof.broker
-solace.broker
-soy.broker
-zeros.broker
