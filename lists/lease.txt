@@ -6,7 +6,6 @@ apply.lease
 bali.lease
 casino.lease
 cdn.lease
-clear.lease
 container.lease
 cortland.lease
 data.lease
@@ -16,7 +15,6 @@ fifadallas.lease
 index.lease
 landrover.lease
 mazda.lease
-reactor.lease
 renault5.lease
 simplymri.lease
 stack.lease
@@ -27,14 +25,16 @@ volvo.lease
 yachts4.lease
 auto.lease
 c2c.lease
+clear.lease
 euro.lease
 hybride.lease
-relay.lease
+reactor.lease
 snapmy.lease
 xmoney.lease
 campus.lease
 cuartos.lease
 nicenic.lease
+relay.lease
 shopown.lease
 texas.lease
 abilene.lease
@@ -44,6 +44,5 @@ dfw.lease
 kinship.lease
 moon.lease
 rentyour.lease
-tf.lease
 vertistop.lease
 web3.lease
