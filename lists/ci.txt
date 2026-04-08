@@ -179,7 +179,6 @@ clinix.ci
 clnc.gouv.ci
 cmd-connect.ci
 cmhs.ci
-cmpns.ci
 cnape.gouv.ci
 cndigit.gouv.ci
 cndp.gouv.ci
@@ -451,7 +450,6 @@ groupebms.ci
 groupeescam.ci
 groupeici.ci
 groupeisa.ci
-groupescolairenayeba.ci
 groupevigilus.ci
 groupware.gouv.ci
 grs.ci
@@ -711,7 +709,6 @@ nitram-ups.ci
 nitram.ci
 nohu.ci
 noutre.ci
-nouvistech.ci
 novadrive.ci
 novaglass.ci
 novamec.ci
@@ -1069,6 +1066,7 @@ win79.ci
 winnabet.ci
 wizergroup.ci
 woom.ci
+workdate.ci
 woukale.ci
 ww2.gouv.ci
 ww3.gouv.ci
@@ -1095,6 +1093,9 @@ yuan.ci
 zlecaf.gouv.ci
 zmsi.ci
 zowin.ci
+cmpns.ci
+groupescolairenayeba.ci
+nouvistech.ci
 2i.ci
 2ktdistribution.ci
 2sklgroupe.ci
@@ -1565,9 +1566,9 @@ ubouake.ci
 ufrspb.ci
 uniwax.ci
 chicken-road-online.ci
-maladie.co.ci
 alahassanediakite.ci
 aq.ci
+maladie.co.ci
 ramatek.ci
 stdaici.ci
 we.ci

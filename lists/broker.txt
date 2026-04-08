@@ -7,6 +7,7 @@ digitalart.broker
 earth.broker
 eea.broker
 eldoradohills.broker
+embodied.broker
 exit.broker
 fairoaks.broker
 folsom.broker
@@ -14,7 +15,10 @@ granitebay.broker
 init.broker
 loomis.broker
 maysan.broker
+namespace.broker
+net88.broker
 orchestration.broker
+payments.broker
 referral.broker
 rocklin.broker
 roseville.broker
@@ -22,8 +26,9 @@ rosevillerealestate.broker
 sacramento.broker
 sacramentorealestate.broker
 sharif.broker
+ufa777.broker
 vb8.broker
-vesta.broker
+vic.broker
 13.broker
 aio.broker
 arqam.broker
@@ -45,8 +50,8 @@ robot.broker
 robox.broker
 sir.broker
 thebiltmoremayfair.broker
-trans.broker
 umx.broker
+vesta.broker
 zapply.broker
 apollo.broker
 apolo.broker
@@ -62,7 +67,6 @@ homecare.broker
 kizen.broker
 launchpad.broker
 logcabin.broker
-mortage.broker
 nhacaiuytin.broker
 niko.broker
 program.broker
@@ -71,6 +75,7 @@ striluxon.broker
 surexa.broker
 tennis.broker
 tony.broker
+trans.broker
 vantage.broker
 villagehub.broker
 wallet.broker
@@ -82,7 +87,6 @@ attention.broker
 audit.broker
 automation.broker
 autonomy.broker
-b2b.broker
 businessbroker.broker
 californiacommercialmortgage.broker
 chemicals.broker
@@ -108,10 +112,10 @@ liquidity.broker
 materials.broker
 medicare.broker
 morg.broker
+mortage.broker
 mythic.broker
 nidas.broker
 patriot.broker
-pickle.broker
 poker.broker
 procurement.broker
 reports.broker
@@ -124,9 +128,8 @@ suppliers.broker
 tommyalphin.broker
 vector.broker
 xmoney.broker
-79king.broker
-99ok.broker
 auction.broker
+b2b.broker
 bcmortgage.broker
 brands.broker
 compass.broker
@@ -142,9 +145,8 @@ motorhomeshipping.broker
 mvp.broker
 nicenic.broker
 opc.broker
-penthouse.broker
+pickle.broker
 rain.broker
 support.broker
 swap.broker
 w4.broker
-x88.broker
