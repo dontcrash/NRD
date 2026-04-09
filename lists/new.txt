@@ -1,7 +1,6 @@
 aiimage.new
 autobuild.new
 capsule.new
-context.new
 eve.new
 gazo.new
 hq.new
@@ -12,10 +11,10 @@ allthings.new
 assembly.new
 bit.new
 bracket.new
+context.new
 day.new
 eat.new
 harness.new
-hitclub.new
 ok.new
 paste.new
 seen.new
@@ -25,6 +24,7 @@ as.new
 automate.new
 contract.new
 firebase.new
+hitclub.new
 hook.new
 lend.new
 lookbook.new
