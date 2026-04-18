@@ -7,6 +7,7 @@ americastire.pay
 android.pay
 apex.pay
 apple.pay
+arcgis.pay
 aria.pay
 aurel.pay
 aurelbgc.pay
@@ -26,6 +27,8 @@ borgata.pay
 bosch.pay
 brownadvisory.pay
 bunge.pay
+cabk.pay
+caixabank.pay
 cantor.pay
 cantorfitzgerald.pay
 carrefour.pay
@@ -39,6 +42,8 @@ debeers.pay
 discounttire.pay
 discounttiredirect.pay
 ebay.pay
+encirca.pay
+esri.pay
 excalibur.pay
 fanatics.pay
 fenics.pay
@@ -73,6 +78,7 @@ luxor.pay
 mandalaybay.pay
 marriott.pay
 marriottbonvoy.pay
+mcafee.pay
 mgmgrand.pay
 mgmresortsinternational.pay
 microsoft.pay
@@ -80,10 +86,14 @@ miele.pay
 mirage.pay
 moneygram.pay
 moodys.pay
+morganstanley.pay
 mouser.pay
+netflix.pay
 newmark.pay
 newyorknewyork.pay
 nmrk.pay
+nova.pay
+novomatic.pay
 oppo.pay
 orange.pay
 otterbox.pay
@@ -95,6 +105,7 @@ pret.pay
 pretamanger.pay
 rakuten.pay
 razer.pay
+reuters.pay
 ritzcarlton.pay
 roblox.pay
 robux.pay
@@ -122,6 +133,8 @@ svenskahandelsbanken.pay
 taonga.pay
 tcgplayer.pay
 templeton.pay
+tencent.pay
+thomsonreuters.pay
 tise.pay
 trespass.pay
 twilio.pay
@@ -132,6 +145,9 @@ visa.pay
 vivo.pay
 volka.pay
 walmart.pay
+wechat.pay
+weixin.pay
+westlaw.pay
 woom.pay
 xn--xhq9m.pay
 xs4all.pay
