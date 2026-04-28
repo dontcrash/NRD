@@ -1,5 +1,6 @@
 alpha-group.mr
 bet-boom.mr
+noorgoldmining.mr
 novalab.mr
 sjm.mr
 azurservices.mr
@@ -8,20 +9,18 @@ emarsa.mr
 etop.mr
 gds.mr
 perle.mr
-proconseil.mr
 salama.mr
 senat.mr
 univ-nouadhibou.mr
-assemblee-nationale.mr
+proconseil.mr
 splashguyrecruitment.mr
-vivaro.mr
 aacloud.mr
+assemblee-nationale.mr
 base.mr
 cnecs.mr
 iftc.mr
 kamel.mr
 lew.mr
-midaz.mr
 mizan-labs.mr
 mizan.mr
 mnp.mr
@@ -33,5 +32,7 @@ richat.mr
 richatai.mr
 taqadoum.mr
 token.mr
+vivaro.mr
+midaz.mr
 mzeine.mr
 sedf.mr

@@ -3,9 +3,12 @@ aerothrive.aero
 agitera.aero
 aicoregrid.aero
 aircraftappraisals.aero
+airdatasensor.aero
 ajets.aero
 alaris.aero
 alarisfbo.aero
+antifraud.aero
+apps.aero
 architect.aero
 artificialintelligence.aero
 ascentus.aero
@@ -24,6 +27,7 @@ energy.aero
 epic.aero
 flybuy.aero
 flyp.aero
+fraud.aero
 fuelas.aero
 gate-future.aero
 gatefuture.aero
@@ -47,6 +51,7 @@ moon.aero
 oberwiesenthal.aero
 photon.aero
 pluna.aero
+pmaparts.aero
 propulsion.aero
 ramon.aero
 saxony.aero
@@ -56,7 +61,6 @@ slottrade.aero
 southpole.aero
 spaceship.aero
 spartac.aero
-storkjet.aero
 superintelligence.aero
 systems.aero
 telemetry.aero
@@ -64,7 +68,6 @@ trek.aero
 volari.aero
 a2c.aero
 aab.aero
-african.aero
 aircostcontrol.aero
 airframe.aero
 airtravel.aero
@@ -78,7 +81,6 @@ bba.aero
 blueavis.aero
 bpt.aero
 bushpilot.aero
-checklists.aero
 cleveland.aero
 crmstandard.aero
 cubepilot.aero
@@ -94,6 +96,7 @@ rad.aero
 satellite.aero
 satis.aero
 southernvector.aero
+storkjet.aero
 survival-products.aero
 tarom-tehnic.aero
 taromtehnic.aero
@@ -104,12 +107,13 @@ zannoni.aero
 a2z.aero
 aero-manager.aero
 aertec.aero
+african.aero
 altiv.aero
 apci.aero
 arabwings.aero
-aries.aero
 atk.aero
 atplcheck.aero
+checklists.aero
 dst.aero
 eanjets.aero
 egs-aviation.aero
@@ -122,10 +126,7 @@ levantiumaviation.aero
 monclub.aero
 nava.aero
 nvjets.aero
-ont.aero
-pdl.aero
 pleiades.aero
-pmd.aero
 pplcheck.aero
 prodigy.aero
 ricondo.aero
@@ -147,15 +148,14 @@ alauda.aero
 altivis.aero
 anabellixaviation.aero
 apsro.aero
+aries.aero
 aviationjobs.aero
-basa.aero
 benefitsofaviation.aero
 business-jets.aero
 classifieds.aero
 earlybird.aero
 ezrp.aero
 fasx.aero
-flightcrewtraining.aero
 flightrecord.aero
 fliteheat.aero
 gam.aero
@@ -169,6 +169,9 @@ lxa.aero
 lxaleasing.aero
 myson.aero
 oasinc.aero
+ont.aero
+pdl.aero
+pmd.aero
 qualify.aero
 richard.aero
 robertallen.aero
@@ -183,6 +186,7 @@ airdat.aero
 airelite.aero
 aviationsoftware.aero
 bacoban.aero
+basa.aero
 bentley.aero
 bna.aero
 bnx.aero
@@ -194,7 +198,7 @@ cynaptix.aero
 deal.aero
 decision.aero
 dueland.aero
-faadar.aero
+flightcrewtraining.aero
 flyunity-technics.aero
 hdaviation.aero
 imaginair.aero
