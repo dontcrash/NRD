@@ -25,7 +25,6 @@ mycity.jobs
 pitchperfect.jobs
 sentinel.jobs
 appliedcontract.jobs
-autonomous.jobs
 clockin.jobs
 coolandgood.jobs
 crewhero.jobs
@@ -43,13 +42,12 @@ nuvemrx.jobs
 psych.jobs
 quechimba.jobs
 scheduler.jobs
-self-driving.jobs
-selfdriving.jobs
 stirlingshire.jobs
 theo.jobs
 traunviertel.jobs
 xpert.jobs
 zahni.jobs
+autonomous.jobs
 blox.jobs
 bremerhaven.jobs
 cottbus.jobs
@@ -76,6 +74,8 @@ pearing.jobs
 pyrmont.jobs
 reutlingen.jobs
 schwerin.jobs
+self-driving.jobs
+selfdriving.jobs
 siegen.jobs
 specialneed.jobs
 specialneeds.jobs
@@ -88,7 +88,6 @@ atxp.jobs
 clawedin.jobs
 defence.jobs
 gelsenkirchen.jobs
-gospel.jobs
 halle.jobs
 handson.jobs
 heilbronn.jobs
