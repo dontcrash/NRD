@@ -1,4 +1,6 @@
 postgres.select
+query.select
+supabase.select
 2026.select
 flowstate.select
 fora.select
@@ -12,7 +14,6 @@ immigrationlaw.select
 beemo.select
 brainbox.select
 consciouscapital.select
-drivyn.select
 hospitality.select
 hotel.select
 peptides.select
@@ -21,8 +22,7 @@ qh88.select
 restaurant.select
 unscripted.select
 wiens.select
-0auth.select
+drivyn.select
 evict.select
 muse.select
 offers.select
-royale.select
