@@ -7,16 +7,15 @@ supabase.select
 2026.select
 flowstate.select
 model.select
-app.select
 drew.select
 fora.select
 immigrationlaw.select
 mundo.select
 santander.select
+app.select
 brainbox.select
 peptides.select
 unscripted.select
-wiens.select
 123b.select
 beemo.select
 consciouscapital.select
@@ -24,8 +23,7 @@ drivyn.select
 evict.select
 hospitality.select
 hotel.select
-muse.select
-offers.select
 playa.select
 qh88.select
 restaurant.select
+wiens.select
