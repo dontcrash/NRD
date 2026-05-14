@@ -1,13 +1,3 @@
-db.select
-doctor.select
-kuwin.select
 postgres.select
 query.select
 supabase.select
-travel2live.select
-2026.select
-flowstate.select
-fora.select
-model.select
-mundo.select
-santander.select
