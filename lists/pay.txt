@@ -21,7 +21,6 @@ citibank.pay
 citigroup.pay
 clover.pay
 diga.pay
-domain.pay
 edenred.pay
 enilive.pay
 enjoy.pay
@@ -38,8 +37,6 @@ hbf.pay
 henkel.pay
 hisamitsu.pay
 hitachi.pay
-insta.pay
-jetstar.pay
 jtb.pay
 kaneka.pay
 kyndryl.pay
@@ -66,7 +63,6 @@ pinduoduo.pay
 plenitude.pay
 proxxima.pay
 pullable.pay
-qantas.pay
 qlik.pay
 qlikanswers.pay
 qlikcloud.pay
@@ -140,6 +136,7 @@ cofidis.pay
 dayforce.pay
 digits.pay
 dolomia.pay
+domain.pay
 ea.pay
 echo.pay
 engie.pay
@@ -164,10 +161,12 @@ hsbcpremier.pay
 hsbcprivatebank.pay
 imdb.pay
 insomniac.pay
+insta.pay
 intelly.pay
 intesasanpaolo.pay
 iute.pay
 java.pay
+jetstar.pay
 jmp.pay
 jsafra.pay
 kddi.pay
@@ -202,6 +201,7 @@ poloclub.pay
 prime.pay
 pru.pay
 prudential.pay
+qantas.pay
 qonto.pay
 repsol.pay
 ring.pay
