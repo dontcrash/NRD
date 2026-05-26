@@ -1,5 +1,4 @@
 c.fail
-canberra.fail
 codify.fail
 cspickem.fail
 ebola.fail
@@ -7,11 +6,12 @@ endpoint.fail
 estimation.fail
 exertis.fail
 feedy.fail
+haloflo.fail
+hero.fail
 hrt.fail
 joey.fail
 localisation.fail
 localization.fail
-maximum.fail
 supplychain.fail
 swamp.fail
 trix.fail
@@ -20,12 +20,11 @@ vuln.fail
 win79.fail
 autonomous.fail
 b52club.fail
-baan.fail
 boundto.fail
 brightidiots.fail
+canberra.fail
 coronavirus.fail
 darknets.fail
-dect.fail
 dude.fail
 fh5rqccl3qff9mgacde2oijd2vikmtug.fail
 forms.fail
@@ -34,6 +33,7 @@ giant.fail
 grin.fail
 hantavirus.fail
 hdmovin2.fail
+maximum.fail
 mirror.fail
 onepercent.fail
 posix.fail
@@ -41,7 +41,6 @@ shiny.fail
 skyline.fail
 sosse.fail
 stacks.fail
-stealth.fail
 180.fail
 30u30.fail
 adeven.fail
@@ -127,10 +126,12 @@ eternal.fail
 fumblr.fail
 iventuresolutions.fail
 liv.fail
+lucy.fail
 malloc.fail
 ne-damo-srbiju.fail
 nedamosrbiju.fail
 ollama.fail
+opinion.fail
 p1fcu.fail
 quantum.fail
 scan.fail
