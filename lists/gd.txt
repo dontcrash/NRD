@@ -1,7 +1,6 @@
 bitget.gd
 brandbuilders.gd
 compliance.gd
-cue.gd
 darkmoney.gd
 jw.gd
 qrcode-ledger.gd
@@ -9,15 +8,16 @@ watchseries.gd
 20.gd
 arc.gd
 bongdalu.gd
+cue.gd
 irc.gd
 php.gd
 sunds.gd
 tokens.gd
 va.gd
-w47.gd
 bollyflix.gd
 outreach.gd
 pqc-ledger.gd
+w47.gd
 123bong.gd
 cut.gd
 himovies.gd
@@ -32,5 +32,4 @@ gogoanime.gd
 hdtoday.gd
 ledger-update.gd
 nabela.gd
-sk.gd
 update-ledger.gd
