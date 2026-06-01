@@ -88,12 +88,12 @@ hard-to-find.parts
 hydro-tronic.parts
 knowmy.parts
 kussmaul.parts
+liftology.parts
 motorhub.parts
 multiflight.parts
 myspa.parts
 orbit.parts
 petra.parts
-ponytech.parts
 rui-byoc-sandbox.parts
 sohocars.parts
 tech.parts
@@ -103,16 +103,15 @@ ui.parts
 360.parts
 ashoo.parts
 atms.parts
-avp.parts
 bico.parts
 brickyard.parts
 chi.parts
 citrovintage.parts
 crash.parts
-cyberdeck.parts
 go-kart.parts
 hyperauto.parts
 pcb.parts
+ponytech.parts
 sound.parts
 spn.parts
 synergy.parts
@@ -126,6 +125,7 @@ zo.parts
 adm.parts
 atproto.parts
 autodetails.parts
+avp.parts
 b-t-usa.parts
 bt-usa.parts
 btusa.parts
@@ -133,6 +133,7 @@ built.parts
 china-auto.parts
 chinaauto.parts
 context.parts
+cyberdeck.parts
 demo.parts
 elrepair.parts
 floridaindustrial.parts
