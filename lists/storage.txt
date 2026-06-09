@@ -1,3 +1,4 @@
+bemuvo.storage
 cargo.storage
 kitz.storage
 skydive.storage
@@ -6,9 +7,9 @@ thevault.storage
 treu.storage
 usd.storage
 vault.storage
+allsecure.storage
 duplia.storage
 fin.storage
-allsecure.storage
 securepays.storage
 x.storage
 xss.storage

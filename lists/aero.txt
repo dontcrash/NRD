@@ -1,6 +1,7 @@
 aerolink.aero
 aerotop.aero
 aircraftpulse.aero
+arabasco.aero
 berk.aero
 charterdesk.aero
 clearedops.aero
@@ -25,15 +26,20 @@ line.aero
 ljets.aero
 mapfox.aero
 negre.aero
+pbh.aero
 pfsg.aero
 rhenium.aero
 romain-negre.aero
+setnadefense.aero
+setnapbh.aero
 simpleops.aero
 skynexus.aero
+stella.aero
+superv.aero
 taac.aero
+uavionix.aero
 vantageglobal.aero
 verifyshield.aero
-aerovalet.aero
 airgroundassistant.aero
 altius.aero
 charge.aero
@@ -62,7 +68,6 @@ oltremare.aero
 planeverify.aero
 routes.aero
 routevfr.aero
-sekai.aero
 sop.aero
 steuer.aero
 steuern.aero
@@ -72,6 +77,7 @@ vnav.aero
 0jjg7hd0q7g2l4q0r0enu6qd9jvg1hml.aero
 3odg2ldtua2iiv6bju7h8duaatd2hqm4.aero
 aeris.aero
+aerovalet.aero
 agv.aero
 airrouting.aero
 airscape.aero
@@ -99,7 +105,6 @@ itech.aero
 jetcom.aero
 jetsonic.aero
 johntriplett.aero
-kinetic.aero
 klima.aero
 laserfusion.aero
 lodestar.aero
@@ -115,6 +120,7 @@ rail.aero
 rambow.aero
 routing.aero
 s-spirit.aero
+sekai.aero
 skycore.aero
 smartrail.aero
 spacebook.aero
@@ -154,6 +160,7 @@ hangarbay.aero
 hyperloop.aero
 hypersonic.aero
 isam.aero
+kinetic.aero
 kinetiq.aero
 kv4pqm24qmt489ghu3kqaihggfkpfapg.aero
 levaris.aero
@@ -198,14 +205,12 @@ aixs.aero
 alambra.aero
 altitudeone.aero
 amconcepts.aero
-arus.aero
 aviapartners.aero
 avpro.aero
 avtec.aero
 bafa.aero
 breeze.aero
 camber.aero
-ch-aviation.aero
 clearedcrew.aero
 crewroom.aero
 cura.aero
