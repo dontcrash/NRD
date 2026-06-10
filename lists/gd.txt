@@ -6,6 +6,7 @@ gbong.gd
 hbet.gd
 ref.gd
 rikbet.gd
+xu.gd
 02118.gd
 09219.gd
 15540.gd
@@ -55,7 +56,6 @@ bitget.gd
 brandbuilders.gd
 btper.gd
 gamehub.gd
-watchseries.gd
 bongdalu.gd
 compliance.gd
 cue.gd
@@ -65,11 +65,10 @@ qrcode-ledger.gd
 20.gd
 arc.gd
 irc.gd
-outreach.gd
 php.gd
-pqc-ledger.gd
 sunds.gd
 tokens.gd
 va.gd
 w47.gd
-bollyflix.gd
+outreach.gd
+pqc-ledger.gd
