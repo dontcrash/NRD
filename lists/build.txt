@@ -18,6 +18,7 @@ ascent.build
 atomo.build
 axiom.build
 baked.build
+bamf.build
 bannerbuilders.build
 basile.build
 benchwork.build
@@ -26,8 +27,8 @@ blok.build
 blume.build
 boman.build
 bookepr.build
+brace.build
 breakfast.build
-brewhaus.build
 bridgekit.build
 buildlogic.build
 buildmap.build
@@ -40,6 +41,7 @@ carlosalberto.build
 carrick.build
 carver.build
 chord.build
+cirql.build
 codecowboy.build
 colibri.build
 convergence.build
@@ -91,8 +93,9 @@ lanes.build
 lattis.build
 levello.build
 looper.build
+loops.build
+lotsense.build
 megapot.build
-modernheritageproject.build
 myrk.build
 mytalent.build
 nabla.build
@@ -129,7 +132,7 @@ sane.build
 satz.build
 sean.build
 sellitbeforeyou.build
-sider.build
+shoplog.build
 sigmax.build
 silas.build
 silvamora.build

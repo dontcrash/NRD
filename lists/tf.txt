@@ -1,11 +1,7 @@
 b52.tf
-blockchains.tf
 cora.tf
-fem.tf
 iie.tf
-inspect.tf
 journal.tf
-runko.tf
 tickets.tf
 upload.tf
 vys.tf
