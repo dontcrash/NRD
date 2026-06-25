@@ -1,3 +1,4 @@
+amplifier.ms
 beauty.ms
 bw.ms
 connections.ms
@@ -12,6 +13,7 @@ mpay.ms
 msync.ms
 pu.ms
 swi.ms
+telegram.ms
 tn.ms
 trusted.ms
 aifor.ms
@@ -23,7 +25,6 @@ oidc.ms
 saml.ms
 totp.ms
 aimodels.ms
-bolly4u.ms
 coreutils.ms
 install.ms
 misaka.ms
@@ -34,8 +35,8 @@ scout.ms
 slop.ms
 substack.ms
 3g.ms
-a2a.ms
+bolly4u.ms
 hyper.ms
 mphone.ms
+a2a.ms
 qubit.ms
-slimetale.ms
