@@ -1,5 +1,6 @@
 aicards.ms
 amplifier.ms
+boss.ms
 telegram.ms
 trusted.ms
 aifor.ms
@@ -7,7 +8,6 @@ beauty.ms
 bw.ms
 connections.ms
 drafts.ms
-foundation.ms
 gamatotv.ms
 gemini.ms
 lv.ms
@@ -18,17 +18,17 @@ mpay.ms
 ms365.ms
 msync.ms
 notifq.ms
-oidc.ms
 pu.ms
-saml.ms
 swi.ms
 tn.ms
 totp.ms
 deltafeed.ms
+foundation.ms
 misaka.ms
-mwallet.ms
 notes.ms
+oidc.ms
 pnp.ms
+saml.ms
 slop.ms
 3g.ms
 aimodels.ms
@@ -37,6 +37,7 @@ coreutils.ms
 hyper.ms
 install.ms
 mphone.ms
+mwallet.ms
 scout.ms
 substack.ms
 a2a.ms
