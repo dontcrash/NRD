@@ -16,10 +16,10 @@ jobs:
     steps:
     
       - name: Checkout repo content
-        uses: actions/checkout@latest
+        uses: actions/checkout@v7.0.1
 
       - name: Setup Python
-        uses: actions/setup-python@latest
+        uses: actions/setup-python@v7.0.0
         with:
           python-version: '3.14' # Install the Python version needed
 
@@ -40,7 +40,7 @@ jobs:
           git commit -m "GitHub Actions" --allow-empty
 
       - name: Push changes
-        uses: ad-m/github-push-action@latest
+        uses: ad-m/github-push-action@v1.3.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main 
