@@ -4,11 +4,11 @@ import traceback
 
 # URLs to fetch the list of newly registered domains
 URLS = [
-    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd7.txt",
-    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd14-8.txt",
-    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd21-15.txt",
-    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd28-22.txt",
-    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/nrd35-29.txt"
+    "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/nrd7.txt",
+    "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/nrd14-8.txt",
+    "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/nrd21-15.txt",
+    "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/nrd28-22.txt",
+    "https://cdn.jsdelivr.net/gh/hagezi/nrd@latest/domains/nrd35-29.txt"
 ]
 
 directory = "lists"
