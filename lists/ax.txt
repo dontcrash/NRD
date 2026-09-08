@@ -12,6 +12,7 @@ farell.ax
 helvetia.ax
 klingberg.ax
 ln.ax
+munin.ax
 nv.ax
 okservice.ax
 plat.ax
@@ -22,7 +23,6 @@ axio.ax
 cell.ax
 franenergy.ax
 front.ax
-goai.ax
 krog.ax
 ora.ax
 scan.ax
@@ -33,11 +33,12 @@ volt.ax
 afrika.ax
 art.ax
 bostad.ax
+goai.ax
 hagnaden.ax
-hilding.ax
 ic.ax
 kod.ax
 mu.ax
+hilding.ax
 klart.ax
 ren.ax
 via.ax
