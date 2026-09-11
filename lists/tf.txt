@@ -2,10 +2,8 @@
 666.tf
 all.tf
 analyze.tf
-asm.tf
 ass.tf
 boss.tf
-database.tf
 elmerendeiro.tf
 fluffyotterc.tf
 hardi.tf
@@ -22,7 +20,9 @@ the.tf
 vistaprint.tf
 yam.tf
 alvenia.tf
+asm.tf
 aux.tf
+database.tf
 hanna.tf
 higher.tf
 hydra.tf
@@ -37,11 +37,11 @@ gg4.tf
 keyswap.tf
 order.tf
 otj.tf
-quakeworld.tf
 smsdc.tf
 288.tf
 game.tf
 malm.tf
+quakeworld.tf
 skiracer236.tf
 tim.tf
 tok.tf
@@ -49,7 +49,6 @@ tok.tf
 cn8.tf
 dandus.tf
 future.tf
-gacek.tf
 htm.tf
 hys.tf
 jmk.tf
@@ -57,7 +56,6 @@ ne8.tf
 nf5.tf
 oramis.tf
 pj3.tf
-rchm.tf
 rmp.tf
 storage.tf
 sunwins.tf
