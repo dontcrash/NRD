@@ -1,12 +1,12 @@
 brain.security
 context.security
 drift.security
-inherent.security
 ninja.security
 remotethreat.security
 yandex.security
 aegent.security
 arch.security
+inherent.security
 kaya.security
 matt.security
 montnoir.security
@@ -18,9 +18,8 @@ center.security
 guardian.security
 identityshift.security
 versa.security
+shuffle.security
 leo.security
 moon.security
-shuffle.security
-0.security
 trident.security
 yaiba.security

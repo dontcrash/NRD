@@ -8,10 +8,10 @@ chouette.aero
 drones.aero
 emi.aero
 flighttracker.aero
-flyalta.aero
 galvanik.aero
 gradient.aero
 infini.aero
+irfa.aero
 irfsa.aero
 jetbureau.aero
 lapl.aero
@@ -29,7 +29,6 @@ unmannedunlimited.aero
 yakstars.aero
 zinknickel.aero
 4ventos.aero
-acceler8.aero
 aiops.aero
 airplanaviation.aero
 altiora.aero
@@ -50,6 +49,7 @@ command.aero
 edge.aero
 ezeops.aero
 flightcheck.aero
+flyalta.aero
 flyobsidian.aero
 freeflight.aero
 freeflightsystems.aero
@@ -71,21 +71,19 @@ skyebriteaviation.aero
 smartlynx.aero
 squawkshop.aero
 suju.aero
-truegrid.aero
 unitedats.aero
 volarex.aero
 wingworks.aero
+acceler8.aero
 airsphere.aero
 alojet.aero
 astaaviation.aero
-atlasair.aero
 avera.aero
 avihud.aero
 businessparts.aero
 circle.aero
 codex.aero
 codexaero.aero
-cronosairlines.aero
 fadec.aero
 fltcrew.aero
 glb.aero
@@ -110,6 +108,7 @@ skyebriteaviationdetailing.aero
 smartdepart.aero
 tasport.aero
 thirteen.aero
+truegrid.aero
 uplink.aero
 volenta.aero
 02dur3hkdqa6rtnr4lk4v7plnqk3u6ja.aero
@@ -125,12 +124,14 @@ altitude-atc.aero
 anteac.aero
 arsam.aero
 arti.aero
+atlasair.aero
 auspex.aero
 aviastack.aero
 cfs.aero
 clearline.aero
 cofa.aero
 coralisaviation.aero
+cronosairlines.aero
 datum.aero
 decloak.aero
 embr.aero
@@ -140,7 +141,6 @@ firstclass.aero
 flightbag.aero
 flystraightline.aero
 fuelthejet.aero
-index.aero
 jamcointeriors.aero
 jetsure.aero
 luft.aero
@@ -164,7 +164,6 @@ yaw.aero
 41lkpdrg7v7pvpgfiqov7oe8tg3dluol.aero
 aerolink.aero
 aeronaut.aero
-aotea.aero
 ardmore.aero
 ardmoreinstruments.aero
 asirem.aero
@@ -175,6 +174,7 @@ feasibility-iq.aero
 feasibilityiq.aero
 ferg.aero
 fullcircle.aero
+index.aero
 infinityairlines.aero
 ironmountaincargo.aero
 jetup.aero
