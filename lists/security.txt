@@ -1,6 +1,7 @@
 brain.security
 context.security
 drift.security
+hob.security
 ninja.security
 remotethreat.security
 yandex.security
@@ -9,7 +10,6 @@ arch.security
 inherent.security
 kaya.security
 matt.security
-montnoir.security
 nobi.security
 sidekick.security
 zeus.security
@@ -17,8 +17,9 @@ canonic.security
 center.security
 guardian.security
 identityshift.security
-versa.security
+montnoir.security
 shuffle.security
+versa.security
 leo.security
 moon.security
 trident.security
