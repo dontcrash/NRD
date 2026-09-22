@@ -6,6 +6,7 @@ analysis.hockey
 cascadia.hockey
 clubsync.hockey
 domain.hockey
+equipamentos.hockey
 gurha.hockey
 jagr.hockey
 pooler.hockey
@@ -13,7 +14,6 @@ rsa.hockey
 shiftline.hockey
 thabet.hockey
 touquet.hockey
-agi.hockey
 around.hockey
 benchlogic.hockey
 benchlogiq.hockey
@@ -24,15 +24,14 @@ mywadu.hockey
 outshock.hockey
 rinkside.hockey
 rules.hockey
-scorebug.hockey
 shootout.hockey
 so.hockey
 swissleague.hockey
-torontomarlboros.hockey
 tt.hockey
 waterlooduckshockeyclub.hockey
 yoyo.hockey
 aaaa.hockey
+agi.hockey
 backcheck.hockey
 coolbeans.hockey
 dan.hockey
@@ -41,7 +40,8 @@ games.hockey
 jack.hockey
 meme.hockey
 off-ice.hockey
-sunday.hockey
+scorebug.hockey
+torontomarlboros.hockey
 woodman.hockey
 betterpuck.hockey
 canaveral.hockey
@@ -57,6 +57,7 @@ pink.hockey
 rotation.hockey
 ssunwin.hockey
 sunbelt.hockey
+sunday.hockey
 sunnwin.hockey
 sunwiin.hockey
 sunwinhockey.hockey
