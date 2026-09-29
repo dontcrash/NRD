@@ -10,6 +10,7 @@ medbedcenter.med
 medbeds.med
 regenerate.med
 reliaquest.med
+skinscience.med
 superintelligence.med
 waypoint.med
 casper.med
@@ -17,7 +18,6 @@ creation.med
 eikenroth.med
 forensicpsychiatry.med
 gantry.med
-garuda99.med
 gustavo.med
 molnlyckesurgical.med
 msurgical.med
@@ -34,8 +34,8 @@ virtual.med
 vov.med
 chiron.med
 cognimbus.med
-daydream.med
 drlange.med
+garuda99.med
 global.med
 gutachten.med
 homeo.med
@@ -45,12 +45,10 @@ vidya.med
 vox.med
 xenon.med
 ah.med
-aiconsultant.med
 bloomora.med
-bryant-care.med
-bryantcare.med
 bw.med
 carlo.med
+daydream.med
 hologram.med
 joseph.med
 longevity.med
@@ -70,6 +68,9 @@ spaeth.med
 tanz.med
 unifica.med
 7d.med
+aiconsultant.med
+bryant-care.med
+bryantcare.med
 ctm.med
 duva.med
 endoskopie.med
@@ -78,7 +79,6 @@ jana.med
 medlocker.med
 pwl.med
 ryso.med
-seitlinger.med
 synapp.med
 uno.med
 usbet.med
