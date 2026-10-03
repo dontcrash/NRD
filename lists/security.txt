@@ -8,6 +8,9 @@ argus.security
 bind.security
 clan.security
 mars.security
+hob.security
+remotethreat.security
+yandex.security
 brain.security
 context.security
 drift.security
