@@ -1,4 +1,5 @@
 alb-idptcloud01svc.alibaba
+dns.alibaba
 idptcloud01-inc.alibaba
 idptcloud01.alibaba
 idptcloud01api.alibaba
@@ -6,4 +7,3 @@ idptcloud01asset.alibaba
 idptcloud01sso.alibaba
 idptcloud01svc.alibaba
 oss-idptcloud01api.alibaba
-dns.alibaba

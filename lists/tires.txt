@@ -23,6 +23,7 @@ ttdep.tires
 uno.tires
 vbowd.tires
 vin88.tires
+wheel.tires
 wkdmg.tires
 wntej.tires
 xlkqg.tires
@@ -43,11 +44,8 @@ pittsburgh.tires
 raleigh.tires
 reliaquest.tires
 sacramento.tires
-safe.tires
 seattle.tires
-toronto.tires
 traction.tires
-vancouver.tires
 zen.tires
 aeolus.tires
 cooper.tires
@@ -58,7 +56,10 @@ jk.tires
 laufenn.tires
 nexen.tires
 pay.tires
+safe.tires
 tornel.tires
+toronto.tires
+vancouver.tires
 yokohama.tires
 666.tires
 agi.tires
@@ -77,7 +78,6 @@ sun88.tires
 trailers.tires
 vespa.tires
 castellon.tires
-geo.tires
 kumho.tires
 manila.tires
 newyorkcity.tires
