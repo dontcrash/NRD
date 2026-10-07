@@ -19,6 +19,7 @@ space.new
 subagent.new
 tee.new
 top.new
+wixstores.new
 yassir.new
 23win.new
 aem.new
@@ -40,7 +41,6 @@ act.new
 artifact.new
 cloaked.new
 ct.new
-engineered.new
 feel.new
 interact.new
 poke.new
@@ -49,9 +49,9 @@ splain.new
 stitch.new
 violet.new
 weave.new
+engineered.new
 essay.new
 go.new
-hello.new
 mac.new
 omarchy.new
 rb.new
@@ -61,6 +61,7 @@ takenotes.new
 clavia.new
 era.new
 geo.new
+hello.new
 name.new
 profound.new
 shape.new
