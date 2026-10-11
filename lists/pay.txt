@@ -1,6 +1,4 @@
 appraise.pay
-auth.pay
-defi.pay
 forex.pay
 gigs.pay
 infinity.pay
@@ -11,10 +9,12 @@ perks.pay
 remit.pay
 rupee.pay
 stablecoin.pay
-subs.pay
 sudo.pay
 wager.pay
 web3.pay
+auth.pay
+defi.pay
+subs.pay
 tidy.pay
 evervault.pay
 agentic.pay
