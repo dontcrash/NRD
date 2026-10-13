@@ -11,13 +11,15 @@ ascss.aero
 astrawalker.aero
 atlantyx.aero
 auvsi.aero
-aviaflow.aero
 avibroker.aero
+bmp.aero
+callout.aero
 callsign.aero
 contractpilots.aero
 crewvalidator.aero
 daedalusflightschool.aero
 denver.aero
+dragone.aero
 electric-aircraft.aero
 ezecrew.aero
 fang.aero
@@ -44,6 +46,7 @@ med.aero
 medflite.aero
 mriya.aero
 mxchief.aero
+mxpack.aero
 mxsteward.aero
 navigate.aero
 oda.aero
@@ -58,7 +61,8 @@ roven.aero
 sigmavia.aero
 skyrack.aero
 steward.aero
-taf.aero
+tailwindaviation.aero
+typerating.aero
 ukppr.aero
 ultralight.aero
 valoris.aero
@@ -85,6 +89,7 @@ astrum.aero
 ata.aero
 atmtransform.aero
 avel.aero
+aviaflow.aero
 aviationphotographers.aero
 avibrief.aero
 aviis.aero
@@ -128,6 +133,7 @@ skyferry.aero
 skyfive.aero
 skyra.aero
 skyride.aero
+taf.aero
 times.aero
 vermoegensverwaltung.aero
 voyager.aero
@@ -146,7 +152,6 @@ cyn.aero
 dcat.aero
 diablo.aero
 drspace.aero
-dwelltime.aero
 embed.aero
 flyfenix.aero
 flytron.aero
@@ -183,6 +188,7 @@ certra.aero
 climbout.aero
 dennis.aero
 dti.aero
+dwelltime.aero
 elitecrew.aero
 flygate.aero
 flyter.aero
@@ -228,7 +234,6 @@ chouette.aero
 drones.aero
 emi.aero
 flighttracker.aero
-flyalta.aero
 galvanik.aero
 gradient.aero
 infini.aero

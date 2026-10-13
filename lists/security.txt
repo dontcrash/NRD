@@ -2,7 +2,6 @@ daybreak.security
 enclosure.security
 glu.security
 it.security
-joseph.security
 lava.security
 lucid.security
 nox.security
@@ -10,6 +9,7 @@ openbank.security
 outtake.security
 diamond.security
 dots.security
+joseph.security
 nazar.security
 precog.security
 argus.security
@@ -20,10 +20,9 @@ craft.security
 mars.security
 si.security
 hob.security
-remotethreat.security
 brain.security
 context.security
 drift.security
-inherent.security
 ninja.security
+remotethreat.security
 yandex.security
