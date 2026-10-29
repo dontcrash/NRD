@@ -1,4 +1,5 @@
 artifact.storage
+ceph.storage
 fei.storage
 find.storage
 kit.storage
@@ -9,6 +10,5 @@ super.storage
 superintelligence.storage
 superintelligent.storage
 movo.storage
-reliaquest.storage
 stone.storage
 tessera.storage

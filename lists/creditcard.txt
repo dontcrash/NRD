@@ -3,7 +3,6 @@ bitcoinpay.creditcard
 bitpay.creditcard
 blockchain.creditcard
 btcpay.creditcard
-checkin.creditcard
 cryptobank.creditcard
 cryptopay.creditcard
 digi.creditcard
@@ -22,6 +21,7 @@ tappay.creditcard
 tokens.creditcard
 virtualpay.creditcard
 wearable.creditcard
+checkin.creditcard
 hdmovie2.creditcard
 nri.creditcard
 premium.creditcard
@@ -53,10 +53,7 @@ trumca.creditcard
 1478-navy-access-auth.creditcard
 479-boa-identity-verif.creditcard
 7776-boa-access-auth.creditcard
-compare.creditcard
-payback.creditcard
 payroll.creditcard
-reliaquest.creditcard
 si.creditcard
 smart.creditcard
 ssfcu.creditcard
