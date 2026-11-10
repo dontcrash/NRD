@@ -1,10 +1,7 @@
 cheep.healthcare
 covalentmedicalgroup.healthcare
-covalify.healthcare
 emergency.healthcare
-exult.healthcare
 feather.healthcare
-frictionfree.healthcare
 gosi.healthcare
 hmo.healthcare
 instant.healthcare
@@ -13,12 +10,11 @@ medicaid.healthcare
 medicare.healthcare
 myagent.healthcare
 oc3.healthcare
+opus.healthcare
 patientportaal.healthcare
 polka.healthcare
 prescription.healthcare
 primia.healthcare
-provarc.healthcare
-reverb.healthcare
 thefridge.healthcare
 train.healthcare
 verwijsportaal.healthcare
@@ -28,9 +24,12 @@ aicarenavigation.healthcare
 analytica.healthcare
 automated.healthcare
 avi.healthcare
+covalify.healthcare
 elva.healthcare
+exult.healthcare
 familycarenetwork.healthcare
 fcni.healthcare
+frictionfree.healthcare
 futemax.healthcare
 gogoi.healthcare
 hcac.healthcare
@@ -44,7 +43,8 @@ peppy.healthcare
 peps.healthcare
 peptide-clinic.healthcare
 permithealth.healthcare
-senior.healthcare
+provarc.healthcare
+reverb.healthcare
 based.healthcare
 behalf.healthcare
 candora.healthcare
@@ -62,6 +62,7 @@ orca.healthcare
 phoenix-cdr.healthcare
 pinkly.healthcare
 sabrina.healthcare
+senior.healthcare
 softrim.healthcare
 sonnet.healthcare
 striprx.healthcare
@@ -80,9 +81,7 @@ emforza.healthcare
 engine.healthcare
 fetch.healthcare
 files.healthcare
-flowstate.healthcare
 fyne.healthcare
-getseen.healthcare
 humeleon.healthcare
 metagenomics.healthcare
 myinfo.healthcare
@@ -98,7 +97,6 @@ securemail.healthcare
 soquility.healthcare
 suntide.healthcare
 superior.healthcare
-tell.healthcare
 toc-stl.healthcare
 tocstl.healthcare
 vara.healthcare
@@ -107,6 +105,8 @@ alana.healthcare
 conv.healthcare
 debet.healthcare
 epac.healthcare
+flowstate.healthcare
+getseen.healthcare
 improving.healthcare
 iphhome.healthcare
 kaiserwanders.healthcare
@@ -118,4 +118,5 @@ quito.healthcare
 rwepillars.healthcare
 rwepills.healthcare
 stemcelltherapy.healthcare
+tell.healthcare
 yearthing.healthcare

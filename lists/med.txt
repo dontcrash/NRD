@@ -19,10 +19,11 @@ hypothea.med
 icu.med
 lab.med
 laloutre.med
-mano.med
+livemore.med
 matlivo-hcp.med
 matlivohcp.med
 medicus.med
+mymed.med
 neulight.med
 nexguide.med
 olimp.med
@@ -32,6 +33,7 @@ psychiatra.med
 pulsevue.med
 puzzle.med
 radiology.med
+rxmed.med
 sciencetech.med
 sec.med
 svsimaging.med
@@ -42,12 +44,12 @@ certa.med
 elle.med
 erudit.med
 fluor.med
-g-d.med
 heidelberg.med
 hey.med
 hm.med
 hum.med
 integratives-gesundheitszentrum-hoehr.med
+mano.med
 myinfo.med
 practice.med
 receita.med
@@ -66,6 +68,7 @@ bayern-blister.med
 bcs.med
 blisterservice.med
 fellow.med
+g-d.med
 humaneo.med
 laudo.med
 longevityx.med
@@ -96,7 +99,6 @@ hit.med
 immo.med
 ingrezza.med
 levia.med
-medicine.med
 neurocrine.med
 neurocrinebiosciences.med
 osavampator.med
@@ -105,7 +107,6 @@ privatpraxis-gelenkmedizin-herford.med
 privatpraxis-gelenkmedizin.med
 privatpraxis-herford.med
 psyhelp.med
-regenerative.med
 soquility.med
 superfluo.med
 supernova.med
@@ -123,7 +124,9 @@ cabinet.med
 confir.med
 ehrclearinghouse.med
 madre.med
+medicine.med
 novocurepro.med
+regenerative.med
 renova.med
 rise.med
 supplement.med
