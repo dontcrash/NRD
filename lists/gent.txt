@@ -1,3 +1,4 @@
+agent.gent
 certi.gent
 head.gent
 latavolaitaliana.gent
@@ -110,7 +111,6 @@ edentronic258.gent
 edentronic33.gent
 edentronic369.gent
 edentronics.gent
-elsewhere.gent
 engel28.gent
 english.gent
 eurointel.gent
@@ -261,7 +261,6 @@ ravical169.gent
 ravical23.gent
 resonance.gent
 roeland.gent
-rust.gent
 samenwerkervennootschap.gent
 slagerijaula.gent
 spacebending.gent
@@ -315,10 +314,12 @@ zorghuis.gent
 zorgmed.gent
 zorgmedicine.gent
 airoa.gent
+elsewhere.gent
 eqipe.gent
 karaf.gent
 kuipke.gent
 opena.gent
+rust.gent
 streets.gent
 suba.gent
 supera.gent
@@ -331,7 +332,6 @@ supperclub.gent
 thagaste.gent
 molotov.gent
 server.gent
-sia.gent
 tech-ai.gent
 unicorn.gent
 vegan.gent
