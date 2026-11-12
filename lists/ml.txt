@@ -86,8 +86,8 @@ precofem.ml
 print.ml
 processing.ml
 productivity.ml
+qubit.ml
 shark.ml
-shiftsamk.ml
 sougou.ml
 stealth.ml
 tiny.ml
@@ -99,5 +99,5 @@ wizard.ml
 zbet.ml
 llama.ml
 ndiaye.ml
-qubit.ml
+shiftsamk.ml
 tcharge.ml
