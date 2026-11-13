@@ -1,13 +1,11 @@
 blackbox.pm
 doppler.pm
-factory.pm
 honey.pm
 influency.pm
 jam.pm
 jobs.pm
 lead.pm
 lix.pm
-mari.pm
 ns1.pm
 oleg.pm
 propaganda.pm
@@ -18,7 +16,9 @@ usd.pm
 user.pm
 wenzel.pm
 195.pm
+factory.pm
 filo.pm
+mari.pm
 anubis.pm
 biedronka24.pm
 mindset.pm
@@ -52,9 +52,7 @@ gdrelay.pm
 iixs.pm
 imagine.pm
 lzqr.pm
-magnusson.pm
 ovihb.pm
-playmobil-funpark.pm
 rips.pm
 rlbe.pm
 shnla.pm
