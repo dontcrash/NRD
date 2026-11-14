@@ -5,7 +5,7 @@ claritypay.creditcard
 go-ai.creditcard
 goblin.creditcard
 gosi.creditcard
-jimdeckard.creditcard
+nft.creditcard
 nk.creditcard
 b2b.creditcard
 bc.creditcard
@@ -18,6 +18,7 @@ defipay.creditcard
 fin.creditcard
 futemax.creditcard
 fx.creditcard
+jimdeckard.creditcard
 meshpay.creditcard
 px.creditcard
 status.creditcard
@@ -37,7 +38,6 @@ digipay.creditcard
 digitaldollar.creditcard
 digitalid.creditcard
 digitalpay.creditcard
-epayment.creditcard
 intelligence.creditcard
 jack.creditcard
 nfc.creditcard
@@ -51,14 +51,13 @@ verify.creditcard
 virtualpay.creditcard
 wearable.creditcard
 checkin.creditcard
+epayment.creditcard
 hdmovie2.creditcard
 nohu.creditcard
 nri.creditcard
-premium.creditcard
 privatus.creditcard
-sandbox.creditcard
 arc.creditcard
 chatinternet.creditcard
-firstdata.creditcard
 jew.creditcard
-south.creditcard
+premium.creditcard
+sandbox.creditcard
