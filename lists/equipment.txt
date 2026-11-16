@@ -1,9 +1,9 @@
 aidriven.equipment
-aipowered.equipment
 ariadna.equipment
 ariadne.equipment
 auction.equipment
 based.equipment
+brewd.equipment
 brk.equipment
 broadcast.equipment
 cds.equipment
@@ -13,6 +13,7 @@ scientific.equipment
 supercool.equipment
 telecommunications.equipment
 56789.equipment
+aipowered.equipment
 blockchain.equipment
 cleanair.equipment
 cleanindustry.equipment
@@ -26,7 +27,6 @@ tokens.equipment
 web.equipment
 5movierulz.equipment
 ability.equipment
-affordable.equipment
 agland.equipment
 ashoo.equipment
 borrow.equipment
@@ -50,9 +50,9 @@ mobility.equipment
 soccer.equipment
 supplychain.equipment
 tarmac.equipment
-trader.equipment
 trades.equipment
 vms.equipment
+affordable.equipment
 agency.equipment
 animal.equipment
 elite.equipment
@@ -61,11 +61,10 @@ longevityx.equipment
 love.equipment
 marine.equipment
 mixer.equipment
-mott.equipment
 oshc-wem.equipment
-solutions.equipment
 spider.equipment
 thc.equipment
+trader.equipment
 tx88.equipment
 virtual.equipment
 watson.equipment
@@ -81,10 +80,12 @@ highrock.equipment
 hive.equipment
 korrs.equipment
 kulczycki.equipment
+mott.equipment
 red88.equipment
 robotics.equipment
 scaffoldingtowers.equipment
 sin88.equipment
+solutions.equipment
 swarm.equipment
 zolu.equipment
 zowin.equipment
