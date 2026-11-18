@@ -14,7 +14,6 @@ linux.tf
 lycanroc.tf
 parkour.tf
 robinet.tf
-shortstop.tf
 spt.tf
 steamhistory.tf
 1932.tf
@@ -22,6 +21,7 @@ steamhistory.tf
 7492.tf
 9625.tf
 cinder.tf
+shortstop.tf
 tandem.tf
 tasker.tf
 grace.tf

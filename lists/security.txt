@@ -1,12 +1,14 @@
 bee.security
 clean.security
-guardio.security
+cnic-monitoring.security
 huskeys.security
 noble.security
+ordinary.security
 tencent.security
 veto.security
 control.security
 fudo.security
+guardio.security
 operative.security
 origin.security
 voice.security
@@ -36,4 +38,3 @@ gmo-mufg.security
 gno.security
 kairo.security
 mono.security
-nox.security

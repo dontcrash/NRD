@@ -1,8 +1,12 @@
+desktop.new
+device.new
 no.new
 palisade.new
 pocket.new
 pod.new
 screenplay.new
+secret.new
+signup.new
 society.new
 teleport.new
 transfer.new
@@ -38,8 +42,6 @@ abm88.new
 casino.new
 creation.new
 directory.new
-dream.new
-family.new
 gitlab.new
 network.new
 oss.new
@@ -49,7 +51,9 @@ yourcreation.new
 yourshortcut.new
 bob.new
 construct.new
+dream.new
 enrich.new
+family.new
 fimo.new
 it.new
 itwei.new
