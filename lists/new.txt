@@ -25,7 +25,6 @@ self.new
 shiny.new
 subagents.new
 tb.new
-absence.new
 ao.new
 dial.new
 down.new
@@ -36,9 +35,8 @@ reveal.new
 sketch.new
 speed.new
 tonic.new
-xcase.new
 abm88.new
-casino.new
+absence.new
 creation.new
 cve.new
 directory.new
@@ -50,10 +48,12 @@ pink.new
 qrcode.new
 signals.new
 websites.new
+xcase.new
 youraction.new
 yourcreation.new
 yourshortcut.new
 bob.new
+casino.new
 construct.new
 dream.new
 family.new
