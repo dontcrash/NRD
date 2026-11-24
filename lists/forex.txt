@@ -1,6 +1,4 @@
-algotrade.forex
 alpari.forex
-cashbank.forex
 competition.forex
 downloadmq4.forex
 tournament.forex
@@ -8,8 +6,10 @@ tradexa.forex
 vasadin.forex
 zenith.forex
 zero.forex
+algotrade.forex
 arc.forex
 bot.forex
+cashbank.forex
 cloud.forex
 display.forex
 email.forex
@@ -26,7 +26,6 @@ beyond.forex
 cartel.forex
 compound.forex
 ict.forex
-mail.forex
 naked.forex
 orca.forex
 qq88.forex
@@ -41,6 +40,7 @@ atlas-capital.forex
 compute.forex
 deep.forex
 doge.forex
+mail.forex
 monero.forex
 movies4u.forex
 nav.forex
