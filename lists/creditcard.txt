@@ -1,4 +1,3 @@
-96408-wells-acceweb-auth.creditcard
 add.creditcard
 apr.creditcard
 assess.creditcard
@@ -13,6 +12,7 @@ earn.creditcard
 evaluate.creditcard
 expensed.creditcard
 faq.creditcard
+fora.creditcard
 frequent.creditcard
 hub.creditcard
 invest.creditcard
@@ -31,6 +31,7 @@ production.creditcard
 protected.creditcard
 rank.creditcard
 rewarded.creditcard
+shop.creditcard
 sign.creditcard
 ssunwin.creditcard
 sunnwin.creditcard
@@ -48,13 +49,14 @@ trip.creditcard
 try.creditcard
 upgrade.creditcard
 vasadin.creditcard
-1win.creditcard
+96408-wells-acceweb-auth.creditcard
 clarity.creditcard
 claritynow.creditcard
 claritypay.creditcard
 dbs.creditcard
 goblin.creditcard
 nft.creditcard
+1win.creditcard
 cashless.creditcard
 go-ai.creditcard
 gosi.creditcard
@@ -71,14 +73,12 @@ chainpay.creditcard
 credits.creditcard
 debits.creditcard
 defipay.creditcard
-digitaldollar.creditcard
 digitalid.creditcard
 fin.creditcard
 futemax.creditcard
 fx.creditcard
 jack.creditcard
 meshpay.creditcard
-payments.creditcard
 px.creditcard
 status.creditcard
 verify.creditcard
@@ -92,6 +92,7 @@ cryptobank.creditcard
 cryptopay.creditcard
 digi.creditcard
 digipay.creditcard
+digitaldollar.creditcard
 digitalpay.creditcard
 epayment.creditcard
 intelligence.creditcard
@@ -99,6 +100,7 @@ nfc.creditcard
 nohu.creditcard
 optimus.creditcard
 payai.creditcard
+payments.creditcard
 tap.creditcard
 tappay.creditcard
 tokens.creditcard
