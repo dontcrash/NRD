@@ -1,9 +1,9 @@
-si.storage
 vasadin.storage
 anthropic.storage
 claude.storage
 cnic-monitoring.storage
 hatch.storage
+si.storage
 agent.storage
 cairn.storage
 context.storage
@@ -11,10 +11,10 @@ durable.storage
 limitless.storage
 whisper.storage
 730.storage
-ceph.storage
 decatur.storage
 decentralized.storage
 artifact.storage
+ceph.storage
 fei.storage
 find.storage
 kit.storage

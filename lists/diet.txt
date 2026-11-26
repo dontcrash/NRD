@@ -1,3 +1,6 @@
+dnssquad-flighttest.diet
+vasadin.diet
+cnic-monitoring.diet
 cnic-probe-aws-asia-tokyo-live-1794959703.diet
 cnic-probe-aws-asia-tokyo-live-1794961503.diet
 cnic-probe-aws-north-america-oregon-live-1794960003.diet
@@ -14,13 +17,10 @@ cnic-probe-aws-north-america-vir-live-1794962703.diet
 cnic-probe-aws-north-america-vir-live-1794963003.diet
 cnic-probe-aws-north-america-vir-live-1794963303.diet
 cnic-probe-aws-north-america-vir-live-1794963603.diet
+cnic-probe-aws-oceania-sydney-live-1794877503.diet
 cnic-probe-aws-oceania-sydney-live-1794930903.diet
 cnic-probe-aws-oceania-sydney-live-1794934503.diet
 cnic-probe-aws-oceania-sydney-live-1794961803.diet
-dnssquad-flighttest.diet
-vasadin.diet
-cnic-monitoring.diet
-cnic-probe-aws-oceania-sydney-live-1794877503.diet
 sugvr.diet
 111.diet
 eat111.diet
@@ -34,7 +34,6 @@ tax.diet
 trumprx.diet
 try111.diet
 fo88.diet
-kevin.diet
 max79.diet
 may88.diet
 mayclub.diet
