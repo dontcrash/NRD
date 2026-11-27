@@ -1,6 +1,7 @@
 acceligence.lawyer
 ai-native.lawyer
 crimevictims.lawyer
+emt.lawyer
 evansjones.lawyer
 fbi.lawyer
 finex.lawyer
@@ -14,16 +15,14 @@ jonahhunt.lawyer
 kamli.lawyer
 lpvn.lawyer
 mortlockryanco.lawyer
+opendoor.lawyer
 rqn.lawyer
 thames.lawyer
 vasadin.lawyer
 veronica.lawyer
 amlawsearch.lawyer
 austinpersonalinjury.lawyer
-bullcity.lawyer
 carter-langford.lawyer
-clair.lawyer
-gosi.lawyer
 houstonpersonalinjury.lawyer
 jc.lawyer
 juanherrera.lawyer
@@ -41,10 +40,13 @@ thetokenization.lawyer
 trdr.lawyer
 ul.lawyer
 better.lawyer
+bullcity.lawyer
 churchmerger.lawyer
+clair.lawyer
 danielatias.lawyer
 eltoro.lawyer
 gordons.lawyer
+gosi.lawyer
 hertig.lawyer
 invest.lawyer
 lawpartnersllp.lawyer
@@ -60,7 +62,6 @@ kaletnik.lawyer
 kuwin.lawyer
 longisland.lawyer
 scale.lawyer
-stacks.lawyer
 thetokinization.lawyer
 wingman.lawyer
 braininjury.lawyer
@@ -78,6 +79,7 @@ nam.lawyer
 phl.lawyer
 projects.lawyer
 secondlook.lawyer
+stacks.lawyer
 thepaisley.lawyer
 traffic-ticket.lawyer
 trainaccident.lawyer

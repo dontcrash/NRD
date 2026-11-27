@@ -7,11 +7,11 @@ eclipse.theater
 littlestar.theater
 players.theater
 prisma.theater
+rehearsability.theater
 stagecore.theater
 tis.theater
 vasadin.theater
 atrium.theater
-chill.theater
 countyline.theater
 cult.theater
 daga.theater
@@ -28,6 +28,7 @@ beverlyhills.theater
 calibria.theater
 carolina.theater
 centerline.theater
+chill.theater
 ele.theater
 element.theater
 events.theater
@@ -37,11 +38,9 @@ relationships.theater
 smg.theater
 alpha.theater
 bravoboro.theater
-clockwork.theater
 cloud.theater
 experience.theater
 ghostlights.theater
-halthemovie.theater
 reactive.theater
 ridglea.theater
 stagehand.theater
@@ -50,9 +49,9 @@ theridglea.theater
 absurd.theater
 acta.theater
 ashoo.theater
+clockwork.theater
+halthemovie.theater
 made.theater
-plauder.theater
-prologues.theater
 sazonov.theater
 sh.theater
 space.theater
